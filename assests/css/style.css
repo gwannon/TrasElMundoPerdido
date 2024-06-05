@@ -5,26 +5,16 @@
 
 @font-face {
   font-family: 'JMH Typewriter';
-  src:
-    url(../fonts/jmh_typewriter/JMH-Typewriter.ttf) format('truetype');
+  font-style: normal;
   font-weight: 400;
+  src: url(./fonts/jmh_typewriter/JMH-Typewriter.ttf) format('truetype');
 }
 
 @font-face {
   font-family: 'JMH Typewriter';
-  src:
-    url(../fonts/jmh_typewriter/JMH-Typewriter-Bold.ttf) format('truetype');
+   src: url(./fonts/jmh_typewriter/JMH-Typewriter-Bold.ttf) format('truetype');
   font-weight: 700;
 }
-
-/*@font-face {
-  font-family: 'Creature';
-  src:
-    url(../fonts/creature-personal-use/CREATURE-PERSONAL-USE.ttf) format('truetype');
-  font-weight: 400;
-}*/
-
-
 
 * {
   font-family: 'JMH Typewriter', 'Times New Roman', Times, serif;

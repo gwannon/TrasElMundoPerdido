@@ -19,7 +19,8 @@ $html = file_get_contents(__DIR__ . "/template.html");
 foreach ($tags as $tag => $value) {
   $html = str_replace("|".$tag."|", $value, $html); 
 }
-$html = str_replace("<hr />", "</section><section>", $html); 
+$html = str_replace("<hr />", "<div class='saltopagina'></div>\n</section>\n<section>", $html); 
+$html = str_replace("<p>\saltopagina</p>", "<div class='saltopagina'></div>", $html); 
 
 file_put_contents(__DIR__ . "/../index.html", $html);
 

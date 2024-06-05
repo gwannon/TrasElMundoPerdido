@@ -152,6 +152,8 @@ xxx
   * **Tamaño +2:** xxx
   * **Lento:** En el suelo solo tiene Paso 4 y no puede correr.
 
+\saltopagina
+
 ### Allosaurus
 xxx
 
