@@ -65,11 +65,22 @@ xxx
 # Parte 1: La isla de Skye
 xxx
 
+## Entrenamiento
+xxx
 En un momento dado les dara afinidad animal con su nuevo dinosaurio.
+
+## Primera misión
+xxx
 
 ***
 
-# Parte 2: Egipto
+# Parte 2: Norte de África
+xxx
+
+## Sitio de Tobruk
+xxx
+
+## Otras misiones
 xxx
 
 ***
@@ -77,9 +88,21 @@ xxx
 # Parte 3: Rio de la plata
 xxx
 
+## Batalla del Río de la Plata
+xxx
+
+## Otras misiones
+xxx
+
 ***
 
 # Parte 4: Noruega
+xxx
+
+## Operación Gunnerside
+xxx
+
+## Otras misiones
 xxx
 
 ***
@@ -87,14 +110,32 @@ xxx
 # Parte 5: La Francia Ocupada
 xxx
 
+## Preparando el día D
+xxx
+
+## Otras misiones
+xxx
+
 ***
 
 # Parte 6: El frente ruso
 xxx
 
+## El sitio de Stalingrado
+xxx
+
+## Otras misiones
+xxx
+
 ***
 
 # Parte 7: Regreso al Mundo Perdido
+xxx
+
+## Carrera al Mundo perdido
+xxx
+
+## Batalla del Mundo Perdido
 xxx
 
 ***
@@ -136,10 +177,10 @@ xxx
 * Plesiosaurus
 * Ichthyosaurus
 
+\saltopagina
+
 ### Pterodactylus
 xxx
-
-\saltopagina
 
 * **Atributos:** Agilidad d10, Astucia d6 (A), Espíritu d6, Fuerza d8, Vigor d8
 * **Habilidades:** Notar d10, Pelear d6
@@ -151,8 +192,6 @@ xxx
   * **Fly-By Attack:** When the pteranodon is flying at full speed, it can do a flyby attack, getting a +2 to damage. If it gets a raise on its attack roll when flying-by against a human or smaller sized opponent, it snatches them up and carries them off, most likely to its nest.
   * **Tamaño +2:** xxx
   * **Lento:** En el suelo solo tiene Paso 4 y no puede correr.
-
-
 
 ### Allosaurus
 xxx
@@ -173,6 +212,10 @@ xxx
 
 ## Otros animales prehistóricos:
 
+xxx
+
+\saltopagina
+
 ### Mamíferos
 * Megaloceros
 * Glyptodon
@@ -186,4 +229,6 @@ xxx
 # Epílogo
 
 ## Atribuciones
-Los dinosarurios están basados en [Savage Free Bestiary](https://docs.google.com/document/d/1qu4zzMYbPqOquVlCfgpPeoCmCEqGUgWh5dz-rpKJ1ck/edit?hl=it&authkey=CIySp98E#heading=h.7xcwydin4cfe)
+* Los dinosarurios están basados en [Savage Free Bestiary](https://docs.google.com/document/d/1qu4zzMYbPqOquVlCfgpPeoCmCEqGUgWh5dz-rpKJ1ck/edit?hl=it&authkey=CIySp98E#heading=h.7xcwydin4cfe)
+* [Fondo papel](https://pixabay.com/es/illustrations/papertexture-textura-papel-2061710/)
+* [Fondo portada](https://pixabay.com/es/photos/papel-viejo-textura-pergamino-1074131/)

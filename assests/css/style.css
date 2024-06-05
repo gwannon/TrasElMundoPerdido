@@ -4,6 +4,10 @@
   --padding: 45px;
 }
 
+*, html {
+  scroll-behavior: smooth !important;
+}
+
 /* latin */
 @font-face {
   font-family: 'SpecialElite';
@@ -13,11 +17,15 @@
 }
 
 p, li, blockquote {
-  font-family: "Special Elite", system-ui;
+  font-family: "SpecialElite", system-ui;
   font-weight: 400;
   font-style: normal;
   color: #000000;
   font-size: 1rem;
+}
+
+a, a:visited {
+  color: #000;
 }
 
 p {
@@ -35,12 +43,12 @@ section > * {
 }
 
 h1, h2, h3, h4 {
-  font-family: "Special Elite", system-ui;
+  font-family: "SpecialElite", system-ui;
   font-weight: 700;
   position: relative;
 }
 
-h1 {
+section:not(section:first-of-type, section:last-of-type) h1 {
   width: 100%;
   height: 100vh;
   color: #fff;
@@ -91,4 +99,65 @@ h3:after {
   width: calc(100% - 75px);
   overflow: hidden;
   height: 25px;
+}
+
+/* Portada */
+section:first-of-type {
+  max-height: 3507px;
+  background: black url(../images/portada.jpg) center center no-repeat;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+  margin: 0;
+}
+
+section:first-of-type > div {
+  text-align: center;
+}
+
+section:first-of-type > div > h1 {
+  font-size: 4em;
+  color: #000;
+}
+
+section:first-of-type h2,
+section:first-of-type h3 {
+  font-size: 1.5em;
+  line-height: 110%;
+  color: #000;
+}
+
+/* Contraportada */
+section:last-of-type {
+  max-height: 3507px;
+  background: black url(../images/portada.jpg) center center no-repeat;
+  background-size: cover;
+  height: calc(100vh - 1px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+  margin: 0;
+}
+
+section:last-of-type > div {
+  margin: 0px 30px;
+  padding: 30px;
+}
+
+section:last-of-type > div > h1 {
+  font-size: 4em;
+  margin: 0 0 20px 0;
+  text-align: center;
+  display: block;
+}
+
+section:last-of-type > div > p:first-of-type {
+  font-weight: bold;
+  text-align: center;
 }
