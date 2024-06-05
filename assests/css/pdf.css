@@ -6,10 +6,16 @@ li.saltopagina {
   display: list-item;
 }
 
+body {
+  background: #fff url(../images/bg.jpg) repeat-y top center;
+  background-size: contain;
 
+}
 
 
 @media print {
+
+  
 
   @page {
     size: A4;
