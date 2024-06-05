@@ -6,17 +6,22 @@
 
 /* latin */
 @font-face {
-  font-family: 'Special Elite';
+  font-family: 'SpecialElite';
+  font-weight: normal;
   font-style: normal;
-  font-weight: 400;
-  src: url(https://mundoperdido.gwannon.com/assests/fonts/Special_Elite/SpecialElite-Regular.ttf) format('woff2');
+  src: url('../fonts/Special_Elite/SpecialElite-Regular.ttf') format('truetype');
 }
 
-* {
-  font-family: "Special Elite";
+p, li, blockquote {
+  font-family: "Special Elite", system-ui;
   font-weight: 400;
   font-style: normal;
   color: #000000;
+  font-size: 1rem;
+}
+
+p {
+  margin-top: 0px;
 }
 
 section {
@@ -32,6 +37,7 @@ section > * {
 h1, h2, h3, h4 {
   font-family: "Special Elite", system-ui;
   font-weight: 700;
+  position: relative;
 }
 
 h1 {
@@ -43,4 +49,46 @@ h1 {
   display: flex;
   justify-content: center;
   align-items: center;
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 1.7em;
+  display: inline-block;
+  overflow: hidden;
+  padding-bottom: 15px;
+}
+
+h2:after,
+h2:before {
+  content: "---------------------------------------------";
+  display: block;
+  position: absolute;
+  bottom: -8px;
+  left: var(--padding);
+  width: calc(100% - 75px);
+  overflow: hidden;
+  height: 25px;
+}
+
+h2:before { 
+  bottom: -14px;
+}
+
+h3 {
+  font-size: 1.5em;
+  display: inline-block;
+  overflow: hidden;
+  padding-bottom: 15px;
+}
+
+h3:after {
+  content: "----------------------------------------------";
+  display: block;
+  position: absolute;
+  bottom: -5px;
+  left: var(--padding);
+  width: calc(100% - 75px);
+  overflow: hidden;
+  height: 25px;
 }

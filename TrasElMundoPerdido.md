@@ -99,7 +99,7 @@ xxx
 
 ***
 
-# parte 8: La Selva Negra
+# Parte 8: La Selva Negra
 xxx
 
 ***
