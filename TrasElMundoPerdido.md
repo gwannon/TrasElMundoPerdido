@@ -1,6 +1,4 @@
-**Versión |VERSION|**
-
-# Presentación
+# Hace 65 millones de años los dinosaurios dominaron la Tierra...
 
 En 1910 el profesor Challenger volvió de una expedición al Amazonas venezolano con dinosaurios encontrados en un "mundo perdido". 
 
@@ -141,6 +139,8 @@ xxx
 ### Pterodactylus
 xxx
 
+\saltopagina
+
 * **Atributos:** Agilidad d10, Astucia d6 (A), Espíritu d6, Fuerza d8, Vigor d8
 * **Habilidades:** Notar d10, Pelear d6
 * **Paso:** 4; **Parada:** 5; **Dureza:** 9(1)
@@ -152,7 +152,7 @@ xxx
   * **Tamaño +2:** xxx
   * **Lento:** En el suelo solo tiene Paso 4 y no puede correr.
 
-\saltopagina
+
 
 ### Allosaurus
 xxx

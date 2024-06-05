@@ -9,13 +9,11 @@ li.saltopagina {
 body {
   background: #fff url(../images/bg.jpg) repeat-y top center;
   background-size: contain;
-
+  margin: 0;
+  padding: 0;
 }
 
-
 @media print {
-
-  
 
   @page {
     size: A4;
@@ -34,6 +32,10 @@ body {
     margin-top: var(--margin);
     opacity: 1;
     height: auto;
+  }
+
+  section .saltopagina:not(li) + * {
+    padding-top: var(--padding);
   }
 
 }
