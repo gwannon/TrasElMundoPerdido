@@ -1,3 +1,5 @@
+**Versión 0.1**
+
 # Presentación
 
 En 1910 el profesor Challenger volvió de una expedición al Amazonas venezolano con dinosaurios encontrados en un "mundo perdido". 
@@ -28,31 +30,67 @@ xxx
 # Reglas especiales
 xxx
 
-# La isla de Skye
+## Creación de personajes
 xxx
 
-# Norte de África
+### Arquetipos
 xxx
 
-# Rio de la plata
+#### Comando
 xxx
 
-# La Francia Ocupada
+#### Espia
 xxx
 
-# Regreso al Mundo Perdido
+#### Ingeniera/o
 xxx
 
-# La Selva Negra
+#### Veterinaria/o
 xxx
 
-# Protagonistas, antagonistas y dinosaurios
+## Reglas especiales
+xxx
+
+# Parte 1: La isla de Skye
+xxx
+
+# Parte 2: Egipto
+xxx
+
+# Parte 3: Rio de la plata
+xxx
+
+# Parte 4: Noruega
+xxx
+
+# Parte 5: La Francia Ocupada
+xxx
+
+# Parte 6: Regreso al Mundo Perdido
+xxx
+
+# parte 7: La Selva Negra
+xxx
+
+# Aliados, antagonistas y dinosaurios
 xxx
 
 # PJ
 xxx
 
-### Profesor Challanger
+## Aliados
+xxx
+
+### Profesor G. E. Challenger (✝)
+xxx
+
+### Lord John Roxton
+xxx
+
+### Ed Malone
+xxx
+
+## Antogonistas
 xxx
 
 ## Dinosaurios
@@ -66,34 +104,37 @@ xxx
 * Plesiosaurus
 * Ichthyosaurus
 
-### Pteranodon
-These flying dinosaurs and their cousins, the pterodactyls, are right at home in any lost world setting.
-Attributes: Agility d10, Smarts d6 (A), Spirit d6, Strength d8, Vigor d8
-Skills: Fighting d6, Notice d10
-Pace: 4; Parry: 5; Toughness: 9 (1)
-Special Abilities:
-Armor +1: Scaly hide.
-Bite/Claw: Str+d6.
-Flight: Pteranodons have a Flying Pace of 12” (only 4” in the first round, because their massive bodies make it difficult for them to become initially airborne). They have a Climb of -1.
-Fly-By Attack: When the pteranodon is flying at full speed, it can do a flyby attack, getting a +2 to damage. If it gets a raise on its attack roll when flying-by against a human or smaller sized opponent, it snatches them up and carries them off, most likely to its nest.
-Size +2
-Slow: On the ground, they can only move at a Pace 4”, and can’t run.
+### Pterodactylus
+xxx
 
-### Tyrannosaurus Rex ★
-Modern science believes that T-Rex was little more than a massive, lumbering jackal, but that’s no fun at all. Here’s Rex as we know and love him; hail to the King, baby!
-Attributes: Agility d6, Smarts d6 (A), Spirit d12, Strength d12+7, Vigor d10
-Skills: Fighting d8, Intimidation d12, Notice d6, Tracking d6
-Pace: 8; Parry: 6; Toughness: 17 (3)
-Edges: Improved Nerves of Steel
-Special Abilities:
-Armor +3: Tough, scaly hide.
-Bite: Str+d8.
-Fear -2 (Absolute Terror -2 in a low-powered, horror setting)
-Fearless: The Rex is immune to Fear and Intimidation.
-Huge: Normal sized foes get a +4 to attack rolls against them.
-Size +7
-Stomp: Str damage. The Rex’s stomp counts as a Heavy Weapon. A stomped foe must make an opposed Strength roll against the Rex to break free. As long as the Rex doesn’t move, it will continue to do Str damage to the victim each round (though typically it will bite them to death once it has them trapped), and gets a +2 to hit and damage to its bite attacks against them.
-Swallow Whole: Rexes can swallow prey as large as Size +1 whole. While engulfed, the target is grappled as per the core rulebook and suffers 2d6 damage per round from digestive juices, until eaten or cut out the beast’s stomach. Armor offers no protection.
+* **Atributos:** Agilidad d10, Astucia d6 (A), Espíritu d6, Fuerza d8, Vigor d8
+* **Habilidades:** Notar d10, Pelear d6
+* **Paso:** 4; **Parada:** 5; **Dureza:** 9(1)
+* **Capacidades especiales:**
+  * **Armadura +1:** Piel escamosa.
+  * **Picotazo/Garras:** FUE+d6.
+  * **Flight:** Pteranodons have a Flying Pace of 12” (only 4” in the first round, because their massive bodies make it difficult for them to become initially airborne). They have a Climb of -1.
+  * **Fly-By Attack:** When the pteranodon is flying at full speed, it can do a flyby attack, getting a +2 to damage. If it gets a raise on its attack roll when flying-by against a human or smaller sized opponent, it snatches them up and carries them off, most likely to its nest.
+  * **Tamaño +2:** xxx
+  * **Lento:** En el suelo solo tiene Paso 4 y no puede correr.
+
+
+### Allosaurus
+xxx
+
+* **Atributos:** Agilidad d6, Astucia d6 (A), Espíritu d12, Fuerza d12+6, Vigor d10
+* **Habilidades:** Intimidar d12, Notar d6, Pelear d8, Supervivencia d6
+* **Paso:** 8; **Parada:** 6; **Dureza:** 17(3)
+* **Ventajas:** Improved Nerves of Steel
+* **Capacidades especiales:**
+  * **Armadura +3:** Piel escamosa y dura.
+  * **Mordisco:** FUE+d8.
+  * **Fear -2** (Absolute Terror -2 in a low-powered, horror setting)
+  * **Fearless:** The Rex is immune to Fear and Intimidation.
+  * **Huge:** Normal sized foes get a +4 to attack rolls against them.
+  * **Size +6**
+  * **Stomp:** Str damage. The Rex’s stomp counts as a Heavy Weapon. A stomped foe must make an opposed Strength roll against the Rex to break free. As long as the Rex doesn’t move, it will continue to do Str damage to the victim each round (though typically it will bite them to death once it has them trapped), and gets a +2 to hit and damage to its bite attacks against them.
+  * **Swallow Whole:** Rexes can swallow prey as large as Size +1 whole. While engulfed, the target is grappled as per the core rulebook and suffers 2d6 damage per round from digestive juices, until eaten or cut out the beast’s stomach. Armor offers no protection.
 
 
 
