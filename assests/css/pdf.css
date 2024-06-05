@@ -1,0 +1,33 @@
+.saltopagina {
+  display: none;
+}
+
+li.saltopagina {
+  display: list-item;
+}
+
+
+
+
+@media print {
+
+  @page {
+    size: A4;
+    margin: 0;
+  }
+
+  .saltopagina {
+    display: block;
+    page-break-before: always;
+    height: 1px;
+    background-color: transparent;
+    opacity: o;
+  }
+
+  li.saltopagina {
+    margin-top: var(--margin);
+    opacity: 1;
+    height: auto;
+  }
+
+}

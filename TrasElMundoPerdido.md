@@ -1,4 +1,4 @@
-**Versión 0.1**
+**Versión |VERSION|**
 
 # Presentación
 
@@ -6,8 +6,12 @@ En 1910 el profesor Challenger volvió de una expedición al Amazonas venezolano
 
 Hoy es 1936 y formas parte de un comando de élite del ejército inglés que usa dinosaurios en sus operaciones, para evitar que Hitler no sea haga con toda Europa.
 
+***
+
 # Historia
 xxx
+
+***
 
 # Los dinosaurios
 xxx
@@ -27,6 +31,8 @@ xxx
 ### Misiones de combate
 xxx
 
+***
+
 # Reglas especiales
 xxx
 
@@ -39,7 +45,7 @@ xxx
 #### Comando
 xxx
 
-#### Espia
+#### Espía
 xxx
 
 #### Ingeniera/o
@@ -51,31 +57,59 @@ xxx
 ## Reglas especiales
 xxx
 
+***
+
+# Estructura de la campaña
+xxx
+
+***
+
 # Parte 1: La isla de Skye
 xxx
+
+En un momento dado les dara afinidad animal con su nuevo dinosaurio.
+
+***
 
 # Parte 2: Egipto
 xxx
 
+***
+
 # Parte 3: Rio de la plata
 xxx
+
+***
 
 # Parte 4: Noruega
 xxx
 
+***
+
 # Parte 5: La Francia Ocupada
 xxx
 
-# Parte 6: Regreso al Mundo Perdido
+***
+
+# Parte 6: El frente ruso
 xxx
 
-# parte 7: La Selva Negra
+***
+
+# Parte 7: Regreso al Mundo Perdido
 xxx
+
+***
+
+# parte 8: La Selva Negra
+xxx
+
+***
 
 # Aliados, antagonistas y dinosaurios
 xxx
 
-# PJ
+## PJ
 xxx
 
 ## Aliados
@@ -118,7 +152,6 @@ xxx
   * **Tamaño +2:** xxx
   * **Lento:** En el suelo solo tiene Paso 4 y no puede correr.
 
-
 ### Allosaurus
 xxx
 
@@ -136,8 +169,6 @@ xxx
   * **Stomp:** Str damage. The Rex’s stomp counts as a Heavy Weapon. A stomped foe must make an opposed Strength roll against the Rex to break free. As long as the Rex doesn’t move, it will continue to do Str damage to the victim each round (though typically it will bite them to death once it has them trapped), and gets a +2 to hit and damage to its bite attacks against them.
   * **Swallow Whole:** Rexes can swallow prey as large as Size +1 whole. While engulfed, the target is grappled as per the core rulebook and suffers 2d6 damage per round from digestive juices, until eaten or cut out the beast’s stomach. Armor offers no protection.
 
-
-
 ## Otros animales prehistóricos:
 
 ### Mamíferos
@@ -147,3 +178,10 @@ xxx
 
 ### Aves
 * Phorusrhacos
+
+***
+
+# Epílogo
+
+## Atribuciones
+Los dinosarurios están basados en [Savage Free Bestiary](https://docs.google.com/document/d/1qu4zzMYbPqOquVlCfgpPeoCmCEqGUgWh5dz-rpKJ1ck/edit?hl=it&authkey=CIySp98E#heading=h.7xcwydin4cfe)
