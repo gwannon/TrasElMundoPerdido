@@ -202,11 +202,33 @@ xxx
 ## Secuaces
 xxx
 
+\saltopagina
+
 ### Infantería 
 xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** xxx
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Notar d4, Persuadir d4, Sigilo d4
+* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+* **Ventajas:** xxx
+* **Desventajas:** xxx
+* **Equipo:** xxx
+
+### Oficial
+xxx
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Notar d4, Persuadir d4, Sigilo d4
+* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+* **Ventajas:** xxx
+* **Desventajas:** xxx
+* **Equipo:** xxx
+
+### Combatiente de la guerrilla
+xxx
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
 * **Ventajas:** xxx
 * **Desventajas:** xxx
@@ -214,29 +236,67 @@ xxx
 
 \saltopagina
 
-### Oficial
-xxx
-
-### Combatiente de la guerrilla
-xxx
-
 ### Lider de la guerrilla
 xxx
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Notar d4, Persuadir d4, Sigilo d4
+* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+* **Ventajas:** xxx
+* **Desventajas:** xxx
+* **Equipo:** xxx
 
 ### Infantería nazi
 xxx
 
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Notar d4, Persuadir d4, Sigilo d4
+* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+* **Ventajas:** xxx
+* **Desventajas:** xxx
+* **Equipo:** xxx
+
 ### Oficial nazi
 xxx
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Notar d4, Persuadir d4, Sigilo d4
+* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+* **Ventajas:** xxx
+* **Desventajas:** xxx
+* **Equipo:** xxx
+
+\saltopagina
 
 ### Infantería nazi con armamento pesado
 xxx
 
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Notar d4, Persuadir d4, Sigilo d4
+* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+* **Ventajas:** xxx
+* **Desventajas:** xxx
+* **Equipo:** xxx
+
 ### Infantería nazi acorazado
 xxx
 
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Notar d4, Persuadir d4, Sigilo d4
+* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+* **Ventajas:** xxx
+* **Desventajas:** xxx
+* **Equipo:** xxx
+
 ### Infantería nazi con lanzallamas
 xxx
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Notar d4, Persuadir d4, Sigilo d4
+* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+* **Ventajas:** xxx
+* **Desventajas:** xxx
+* **Equipo:** xxx
 
 \saltopagina
 
@@ -264,7 +324,7 @@ xxx
 
 [![Dibujo de pterodactilo volando](./assests/images/pterodactilo.jpg 'Matthew P. Martyniuk')](https://es.wikipedia.org/wiki/Pterodactylus#/media/Archivo:Pterodactylus_holotype_fly_mmartyniuk.png 'Matthew P. Martyniuk')
 
-### Pterodactylus
+### Pterodáctilo
 xxx
 
 * **Atributos:** Agilidad d10, Astucia d6 (A), Espíritu d6, Fuerza d8, Vigor d8
@@ -273,8 +333,9 @@ xxx
 * **Capacidades especiales:**
   * **Armadura +1:** Piel escamosa.
   * **Picotazo/Garras:** FUE+d6.
-  * **Flight:** Pteranodons have a Flying Pace of 12” (only 4” in the first round, because their massive bodies make it difficult for them to become initially airborne). They have a Climb of -1.
-  * **Fly-By Attack:** When the pteranodon is flying at full speed, it can do a flyby attack, getting a +2 to damage. If it gets a raise on its attack roll when flying-by against a human or smaller sized opponent, it snatches them up and carries them off, most likely to its nest.
+  * **Volar:** Los pterodáctilos tienen un paso de volando de 12 (sólo 4 en la primera ronda, porque sus enormes cuerpos les dificultan volar inicialmente). Tienen una subida de -1.
+  * **Ataque volador:** Cuando el pterodáctilo vuela a toda velocidad, puede realizar un ataque volador, obteniendo un +2 al daño. Si consigue un avance en su tirada de ataque cuando vuela contra un humano o un oponente de menor tamaño, lo atrapa y se lo lleva, probablemente a su nido.
+
   * **Tamaño +2:** xxx
   * **Lento:** En el suelo solo tiene Paso 4 y no puede correr.
 
@@ -299,11 +360,11 @@ xxx
   * **Stomp:** Str damage. The Rex’s stomp counts as a Heavy Weapon. A stomped foe must make an opposed Strength roll against the Rex to break free. As long as the Rex doesn’t move, it will continue to do Str damage to the victim each round (though typically it will bite them to death once it has them trapped), and gets a +2 to hit and damage to its bite attacks against them.
   * **Swallow Whole:** Rexes can swallow prey as large as Size +1 whole. While engulfed, the target is grappled as per the core rulebook and suffers 2d6 damage per round from digestive juices, until eaten or cut out the beast’s stomach. Armor offers no protection.
 
+\saltopagina
+
 ## Otros animales prehistóricos:
 
 xxx
-
-\saltopagina
 
 ### Mamíferos
 * Megaloceros
