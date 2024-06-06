@@ -8,7 +8,6 @@
   scroll-behavior: smooth !important;
 }
 
-/* latin */
 @font-face {
   font-family: 'SpecialElite';
   font-weight: normal;
@@ -16,7 +15,14 @@
   src: url('../fonts/Special_Elite/SpecialElite-Regular.ttf') format('truetype');
 }
 
-p, li, blockquote {
+@font-face {
+  font-family: 'Zeyada';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/Zeyada/Zeyada-Regular.ttf') format('truetype');
+}
+
+p, li {
   font-family: "SpecialElite", system-ui;
   font-weight: 400;
   font-style: normal;
@@ -46,6 +52,38 @@ h1, h2, h3, h4 {
   font-family: "SpecialElite", system-ui;
   font-weight: 700;
   position: relative;
+}
+
+blockquote {
+  background-color: #fff;
+  border-radius: 10px;
+  padding-top: var(--padding);
+  padding-bottom: var(--padding);
+}
+
+blockquote:nth-of-type(even) {
+  rotate: 1deg;
+}
+
+
+blockquote:nth-of-type(5n) {
+  rotate: -1deg;
+}
+
+blockquote > p {
+  font-family: "Zeyada", cursive;
+  font-weight: 400;
+  font-style: normal;
+  color: #000000;
+  font-size: 1.6rem;
+  line-height: 120%;
+  margin: 0;
+  padding: 0;
+  rotate: 0deg;
+}
+
+blockquote:nth-of-type(odd) > p {
+  rotate: -1deg;
 }
 
 section:not(section:first-of-type, section:last-of-type) h1 {
@@ -135,6 +173,54 @@ section:first-of-type h3 {
   line-height: 110%;
   color: #000;
   max-width: 503px;
+}
+
+/* Indice */
+.likeH1,
+.likeH2,
+.likeH3 {
+  display: block;
+  cursor: pointer;
+  margin: 0 0 3px 0;
+  text-decoration: none;
+  font-size: .8em;
+  max-height: 17px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  font-family: "SpecialElite", system-ui;
+}
+
+.likeH1 {
+  font-weight: 700;
+}
+
+.likeH2 {
+  padding: 0 0 0 15px;
+}
+
+.likeH3 {
+  padding: 0 0 0 30px;
+}
+
+.likeH1 span, .likeH2 span, .likeH3 span {
+  display: none;
+  float: right;
+  margin-right: 5px;
+}
+
+#anchorindice {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: var(--padding);
+  gap: 10px;
+}
+
+#anchorindice > div {
+  width: calc(50% - 10px);
+  margin: 0;
+  padding: 0;
 }
 
 /* Contraportada */

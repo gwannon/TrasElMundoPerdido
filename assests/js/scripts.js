@@ -1,6 +1,6 @@
 $(document).ready(function () {
   var counter = 0;
-  let step = 54;
+  let step = 62;
   var currentDiv = 1;
 
   var indice = (function () {

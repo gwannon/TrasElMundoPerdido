@@ -22,13 +22,16 @@ xxx
 ### Misiones de infiltración
 xxx
 
-### Misiones aéreas de exploración
+### Misiones de reconocimiento aéreo
 xxx
 
 ### Misiones acuáticas
 xxx
 
 ### Misiones de combate
+xxx
+
+### Misiones de rescate
 xxx
 
 ***
@@ -55,6 +58,33 @@ xxx
 xxx
 
 ## Reglas especiales
+xxx
+
+## Equipo especial
+xxx
+
+## Equipo para dinosaurios
+xxx
+
+### Sillas de montar
+xxx
+
+### Armamento pesado
+xxx
+
+### Barda
+xxx
+
+### Arnés con cámara fotográfica 
+Este arnés con 1 o más cámaras fotográficas de alta precisión en el pecho se coloca a un pterodáctilo y permiten hacerse foto áreas de posiciones enemigas.
+> Las cámaras tienen una serie de temporizadores que establecen cuándo y cada cuánto tiempo sacar fotos. Para calcular esto se puede hacer una **tirada de Ciencias o de Supervivencia**. Cuanto mayor sea la tirada más precisas serán las fotos.
+> Con un éxito conseguirán una descripción detallada del lugar y por cada avance podrán hacer dos preguntas para sacar información que pudiera saberse a través de fotografías áreas.
+
+### Arnés de vuelo
+xxx
+> El pterodáctilo **no puede iniciar el vuelo con pasajeros desde el suelo**, debe **lanzarse desde por lo menos 20 metros de altura** para poder coger velocidad en la caida y remontar el vuelo.
+
+### Plaustro
 xxx
 
 ***
@@ -162,13 +192,44 @@ xxx
 ### Ed Malone
 xxx
 
-## Antogonistas
+## Antagonistas
 xxx
 
 ## Secuaces
 xxx
 
-### Soldado nazi
+### Infantería 
+xxx
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** xxx
+* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+* **Ventajas:** xxx
+* **Desventajas:** xxx
+* **Equipo:** xxx
+
+### Oficial
+xxx
+
+### Combatiente de la guerrilla
+xxx
+
+### Lider de la guerrilla
+xxx
+
+### Infantería nazi
+xxx
+
+### Oficial nazi
+xxx
+
+### Infantería nazi con armamento pesado
+xxx
+
+### Infantería nazi acorazado
+xxx
+
+### Infantería nazi con lanzallamas
 xxx
 
 ## Dinosaurios
@@ -200,7 +261,7 @@ xxx
 
 \saltopagina
 
-[![dibujo](./assests/images/nido.jpg 'The Horrors of Thieving by FredtheDinosaurman')](https://www.deviantart.com/fredthedinosaurman/art/The-Horrors-of-Thieving-682621092 'The Horrors of Thieving by FredtheDinosaurman')
+[![Dibujo de un nido alosaurios al que están robando los huevos](./assests/images/nido.jpg 'The Horrors of Thieving by FredtheDinosaurman')](https://www.deviantart.com/fredthedinosaurman/art/The-Horrors-of-Thieving-682621092 'The Horrors of Thieving by FredtheDinosaurman')
 
 ### Allosaurus
 xxx

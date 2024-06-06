@@ -38,4 +38,11 @@ body {
     padding-top: var(--padding);
   }
 
+  .likeH1 span,
+  .likeH2 span,
+  .likeH3 span {
+    display: block;
+  }
+  
+
 }
