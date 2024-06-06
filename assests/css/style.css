@@ -101,6 +101,11 @@ h3:after {
   height: 25px;
 }
 
+section img:not(section:first-of-type img, section:nth-of-type(2) img, section:last-of-type img) {
+  max-width: 100%;
+  width: 100%;
+}
+
 /* Portada */
 section:first-of-type {
   max-height: 3507px;
@@ -129,6 +134,7 @@ section:first-of-type h3 {
   font-size: 1.5em;
   line-height: 110%;
   color: #000;
+  max-width: 503px;
 }
 
 /* Contraportada */

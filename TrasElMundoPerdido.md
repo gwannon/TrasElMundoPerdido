@@ -1,5 +1,7 @@
 # Hace 65 millones de años los dinosaurios dominaron la Tierra...
 
+## ... y ahora han vuelto
+
 En 1910 el profesor Challenger volvió de una expedición al Amazonas venezolano con dinosaurios encontrados en un "mundo perdido". 
 
 Hoy es 1936 y formas parte de un comando de élite del ejército inglés que usa dinosaurios en sus operaciones, para evitar que Hitler no sea haga con toda Europa.
@@ -20,7 +22,7 @@ xxx
 ### Misiones de infiltración
 xxx
 
-### Misiones de aéreas de exploración
+### Misiones aéreas de exploración
 xxx
 
 ### Misiones acuáticas
@@ -67,7 +69,7 @@ xxx
 
 ## Entrenamiento
 xxx
-En un momento dado les dara afinidad animal con su nuevo dinosaurio.
+En un momento dado les dará afinidad animal con su nuevo dinosaurio.
 
 ## Primera misión
 xxx
@@ -148,9 +150,6 @@ xxx
 # Aliados, antagonistas y dinosaurios
 xxx
 
-## PJ
-xxx
-
 ## Aliados
 xxx
 
@@ -164,6 +163,12 @@ xxx
 xxx
 
 ## Antogonistas
+xxx
+
+## Secuaces
+xxx
+
+### Soldado nazi
 xxx
 
 ## Dinosaurios
@@ -192,6 +197,10 @@ xxx
   * **Fly-By Attack:** When the pteranodon is flying at full speed, it can do a flyby attack, getting a +2 to damage. If it gets a raise on its attack roll when flying-by against a human or smaller sized opponent, it snatches them up and carries them off, most likely to its nest.
   * **Tamaño +2:** xxx
   * **Lento:** En el suelo solo tiene Paso 4 y no puede correr.
+
+\saltopagina
+
+[![dibujo](./assests/images/nido.jpg 'The Horrors of Thieving by FredtheDinosaurman')](https://www.deviantart.com/fredthedinosaurman/art/The-Horrors-of-Thieving-682621092 'The Horrors of Thieving by FredtheDinosaurman')
 
 ### Allosaurus
 xxx
