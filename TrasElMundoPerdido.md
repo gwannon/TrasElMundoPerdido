@@ -166,6 +166,10 @@ xxx
 ***
 
 # Parte 7: Regreso al Mundo Perdido
+
+
+
+[![Mapa del Mundo Perdido hecho por Maple White](./assests/images/maple-white-mapa.jpg 'Page 222 (The Lost World, 1912)')](https://es.wikipedia.org/wiki/Archivo:Page_222_(The_Lost_World,_1912).jpg 'Page 222 (The Lost World, 1912)')
 xxx
 
 ## Carrera al Mundo perdido
@@ -300,14 +304,31 @@ xxx
 
 \saltopagina
 
+### Cavernícola
+xxx
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Notar d4, Persuadir d4, Sigilo d4
+* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+* **Ventajas:** xxx
+* **Desventajas:** xxx
+* **Equipo:** xxx
+
+### Simioide
+xxx
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Notar d4, Persuadir d4, Sigilo d4
+* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+* **Ventajas:** xxx
+* **Desventajas:** xxx
+* **Equipo:** xxx
+
 ## Dinosaurios
 xxx
 
 * Iguanodon
-* Stegosaurus
-* Allosaurus
 * Megalosaurus
-* Pterodactylus
 * Plesiosaurus
 * Ichthyosaurus
 
@@ -382,6 +403,8 @@ xxx
 * Los dinosarurios están basados en [Savage Free Bestiary](https://docs.google.com/document/d/1qu4zzMYbPqOquVlCfgpPeoCmCEqGUgWh5dz-rpKJ1ck/edit?hl=it&authkey=CIySp98E#heading=h.7xcwydin4cfe)
 * [Fondo papel](https://pixabay.com/es/illustrations/papertexture-textura-papel-2061710/)
 * [Fondo portada](https://pixabay.com/es/photos/papel-viejo-textura-pergamino-1074131/)
+
+https://archive.org/details/lostworldbeingac00doylrich/page/n220/mode/1up
 
 ***
 
