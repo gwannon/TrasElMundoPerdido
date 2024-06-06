@@ -253,6 +253,11 @@ xxx
 
 \saltopagina
 
+
+
+
+[![Dibujo de pterodactilo volando](./assests/images/pterodactilo.jpg 'Matthew P. Martyniuk')](https://es.wikipedia.org/wiki/Pterodactylus#/media/Archivo:Pterodactylus_holotype_fly_mmartyniuk.png 'Matthew P. Martyniuk')
+
 ### Pterodactylus
 xxx
 

@@ -142,6 +142,30 @@ h3:after {
 section img:not(section:first-of-type img, section:nth-of-type(2) img, section:last-of-type img) {
   max-width: 100%;
   width: 100%;
+  border: 15px solid #fff;
+  rotate: 1deg;
+  box-shadow: -12px 17px 22px -8px #000;
+}
+
+section img:not(section:first-of-type img, section:nth-of-type(2) img, section:last-of-type img):nth-of-type(even) {
+  rotate -1deg;
+}
+
+a:has(img) {
+  position: relative;
+  display: block;
+}
+
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) a:has(img)::before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 48px;
+  right: -48px;
+  background: transparent url(../images/clip.png) center center no-repeat;
+  width: 200px;
+  height: 43px;
+  z-index: 10;
 }
 
 /* Portada */
