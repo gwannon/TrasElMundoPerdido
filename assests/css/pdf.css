@@ -28,13 +28,7 @@ body {
     opacity: o;
   }
 
-  li.saltopagina {
-    margin-top: var(--margin);
-    opacity: 1;
-    height: auto;
-  }
-
-  section .saltopagina:not(li) + * {
+  section .saltopagina + * {
     padding-top: var(--padding);
   }
 

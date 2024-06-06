@@ -253,8 +253,14 @@ xxx
 
 \saltopagina
 
+[![Dibujo de un estegosáurio](./assests/images/estegosaurio.jpg 'Encuentro con el Stegosaurus - Arthur Conan Doyle')](https://es.wikipedia.org/wiki/El_mundo_perdido#/media/Archivo:Page_59_(The_Lost_World._1912).jpg 'Encuentro con el Stegosaurus - Arthur Conan Doyle')
 
+### Estegosáurio
+xxx
 
+xxx
+
+\saltopagina
 
 [![Dibujo de pterodactilo volando](./assests/images/pterodactilo.jpg 'Matthew P. Martyniuk')](https://es.wikipedia.org/wiki/Pterodactylus#/media/Archivo:Pterodactylus_holotype_fly_mmartyniuk.png 'Matthew P. Martyniuk')
 
@@ -315,3 +321,20 @@ xxx
 * Los dinosarurios están basados en [Savage Free Bestiary](https://docs.google.com/document/d/1qu4zzMYbPqOquVlCfgpPeoCmCEqGUgWh5dz-rpKJ1ck/edit?hl=it&authkey=CIySp98E#heading=h.7xcwydin4cfe)
 * [Fondo papel](https://pixabay.com/es/illustrations/papertexture-textura-papel-2061710/)
 * [Fondo portada](https://pixabay.com/es/photos/papel-viejo-textura-pergamino-1074131/)
+
+***
+
+## Tras el Mundo Perdido
+Creado por [Gwannon](https://gwannon.itch.io/)
+
+Tras el Mundo Perdido es una campaña de puntos argumentales donde lucharás contra nazis a lomos de dinosaurios.
+
+Este libro contiene:
+
+1. Una campaña de puntos argumentales con más de xxx de aventuras.
+2. **8 localizaciones por todo el mundo**, desde el norte de África a Noruega o el río de la Plata, donde realizar misiones.
+3. Reglas para crear tu comando de jinetes de dinosaurios.
+
+Para jugar esta campaña solo necesitas el Manual Básico de Savage Worlds Edición Aventura.
+
+![Logo Pinnacle](./assests/images/pinnaclelogo.png)

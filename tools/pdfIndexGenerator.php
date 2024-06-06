@@ -62,7 +62,7 @@ echo "BookmarkLevel: 1\n";
 echo "BookmarkPageNumber: {$counter}\n";
 $json[] = ["title" => "Contraportada","page" => $counter];
 
-file_put_contents (__DIR__ . "/../indice.json", json_encode($json));
+file_put_contents (__DIR__ . "/../assests/js/indice.js", "var indice = ".json_encode($json)).";";
 
 
 

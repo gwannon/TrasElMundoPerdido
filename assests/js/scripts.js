@@ -3,20 +3,6 @@ $(document).ready(function () {
   let step = 62;
   var currentDiv = 1;
 
-  var indice = (function () {
-    var json = null;
-    $.ajax({
-        'async': false,
-        'global': false,
-        'url': 'https://mundoperdido.gwannon.com/indice.json',
-        'dataType': "json",
-        'success': function (data) {
-            json = data;
-        }
-    });
-    return json;
-  })();
-
   $("body>section h1, body>section h2, body>section h3")
   .not(".noindex")
   .each(function () {
