@@ -4,7 +4,7 @@ php ./tools/generateDocs.php
 
 chromium --no-sandbox --headless --gpu --no-pdf-header-footer --print-to-pdf=./temp.pdf ./index.html
 
-exiftool -overwrite_original -Title="Mil y Un Ghūles - Ambientación de Savage Worlds para poder jugar relatos de horror cósmico en las Mil y Una Noches. Versión 0.8.3" -Author="@Gwannon" -Subject="Mil y Un Ghūles es una ambientación de Savage Worlds Edición Aventura para poder jugar relatos de horror cósmico en las Mil y Una Noches. Versión 0.8.3" ./temp.pdf
+exiftool -overwrite_original -Title="Tras el Mundo Perdido - Una campaña de SWADE donde lucharás contra nazis a lomos de dinosaurios. Versión 0.1" -Author="@Gwannon" -Subject="Mil y Un Ghūles es una ambientación de Savage Worlds Edición Aventura para poder jugar relatos de horror cósmico en las Mil y Una Noches." ./temp.pdf
 
 php ./tools/pdfIndexGenerator.php > ./pdf.info
 

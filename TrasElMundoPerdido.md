@@ -36,7 +36,7 @@ xxx
 
 ***
 
-# Reglas especiales
+# Reglamento especial para la campaña
 xxx
 
 ## Creación de personajes
@@ -66,6 +66,8 @@ xxx
 ## Equipo para dinosaurios
 xxx
 
+\saltopagina
+
 ### Sillas de montar
 xxx
 
@@ -79,6 +81,8 @@ xxx
 Este arnés con 1 o más cámaras fotográficas de alta precisión en el pecho se coloca a un pterodáctilo y permiten hacerse foto áreas de posiciones enemigas.
 > Las cámaras tienen una serie de temporizadores que establecen cuándo y cada cuánto tiempo sacar fotos. Para calcular esto se puede hacer una **tirada de Ciencias o de Supervivencia**. Cuanto mayor sea la tirada más precisas serán las fotos.
 > Con un éxito conseguirán una descripción detallada del lugar y por cada avance podrán hacer dos preguntas para sacar información que pudiera saberse a través de fotografías áreas.
+
+\saltopagina
 
 ### Arnés de vuelo
 xxx
@@ -208,6 +212,8 @@ xxx
 * **Desventajas:** xxx
 * **Equipo:** xxx
 
+\saltopagina
+
 ### Oficial
 xxx
 
@@ -231,6 +237,8 @@ xxx
 
 ### Infantería nazi con lanzallamas
 xxx
+
+\saltopagina
 
 ## Dinosaurios
 xxx
