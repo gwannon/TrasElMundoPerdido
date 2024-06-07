@@ -338,24 +338,24 @@ xxx
 
 \saltopagina
 
-### Megalosaurus
+### Megalosaurio
 xxx
 
 \saltopagina
 
-### Plesiosaurus
+### Plesiosaurio
 xxx
 
 \saltopagina
 
-### Ichthyosaurus
+### Ictiosaurio
 xxx
 
 \saltopagina
 
 [![Dibujo de un estegosáurio](./assests/images/estegosaurio.jpg 'Encuentro con el Stegosaurus - Arthur Conan Doyle')](https://es.wikipedia.org/wiki/El_mundo_perdido#/media/Archivo:Page_59_(The_Lost_World._1912).jpg 'Encuentro con el Stegosaurus - Arthur Conan Doyle')
 
-### Estegosáurio
+### Estegosaurio
 xxx
 
 xxx
@@ -398,12 +398,11 @@ xxx
   * **Huge:** Normal sized foes get a +4 to attack rolls against them.
   * **Size +6**
   * **Stomp:** Str damage. The Rex’s stomp counts as a Heavy Weapon. A stomped foe must make an opposed Strength roll against the Rex to break free. As long as the Rex doesn’t move, it will continue to do Str damage to the victim each round (though typically it will bite them to death once it has them trapped), and gets a +2 to hit and damage to its bite attacks against them.
-  * **Swallow Whole:** Rexes can swallow prey as large as Size +1 whole. While engulfed, the target is grappled as per the core rulebook and suffers 2d6 damage per round from digestive juices, until eaten or cut out the beast’s stomach. Armor offers no protection.
+  * **Tragar entero:** Los alosaurios pueden tragarse enteras presas de Tamaño +1 o inferiores. Mientras está dentro del estomago, el objetivo es agarrado según el libro de reglas básico y sufre 2d6 de daño por asalto debido a los jugos digestivos, hasta que se lo come o le corta el estómago. La armadura no ofrece protección.
 
 \saltopagina
 
 ## Otros animales prehistóricos:
-
 xxx
 
 ### Megaloceros
