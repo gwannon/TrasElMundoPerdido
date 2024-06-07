@@ -57,6 +57,9 @@ xxx
 #### Ingeniera/o
 xxx
 
+#### Paleontóloga/o
+xxx
+
 #### Veterinaria/o
 xxx
 
@@ -111,6 +114,9 @@ En un momento dado les dará afinidad animal con su nuevo dinosaurio.
 ## Primera misión
 xxx
 
+## Embarcando en el "Mary Anning"
+xxx
+
 ***
 
 # Parte 2: Norte de África
@@ -124,7 +130,7 @@ xxx
 
 ***
 
-# Parte 3: Rio de la plata
+# Parte 3: Río de la plata
 xxx
 
 ## Batalla del Río de la Plata
@@ -201,7 +207,7 @@ xxx
 ### Lord John Roxton
 xxx
 
-### Ed Malone
+### Edward Malone
 xxx
 
 ## Antagonistas
@@ -244,7 +250,7 @@ xxx
 
 \saltopagina
 
-### Lider de la guerrilla
+### Líder de la guerrilla
 xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
@@ -318,7 +324,7 @@ xxx
 * **Desventajas:** xxx
 * **Equipo:** xxx
 
-### Simioide
+### Pitecántropo
 xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
@@ -334,28 +340,38 @@ xxx
 \saltopagina
 
 ### Iguanodon
+* Herbívoro
+* Terrestre
 xxx
 
 \saltopagina
 
 ### Megalosaurio
+* Carnívoro
+* Terrestre
 xxx
 
 \saltopagina
 
 ### Plesiosaurio
+* Carnívoro
+* Acuático
 xxx
 
 \saltopagina
 
 ### Ictiosaurio
+* Carnívoro
+* Acuático
 xxx
 
 \saltopagina
 
-[![Dibujo de un estegosáurio](./assests/images/estegosaurio.jpg 'Encuentro con el Stegosaurus - Arthur Conan Doyle')](https://es.wikipedia.org/wiki/El_mundo_perdido#/media/Archivo:Page_59_(The_Lost_World._1912).jpg 'Encuentro con el Stegosaurus - Arthur Conan Doyle')
+[![Dibujo de un estegosaurio](./assests/images/estegosaurio.jpg 'Encuentro con el Stegosaurus - Arthur Conan Doyle')](https://es.wikipedia.org/wiki/El_mundo_perdido#/media/Archivo:Page_59_(The_Lost_World._1912).jpg 'Encuentro con el Stegosaurus - Arthur Conan Doyle')
 
 ### Estegosaurio
+* Carnívoro
+* Terrestre
 xxx
 
 xxx
@@ -365,6 +381,8 @@ xxx
 [![Dibujo de pterodáctilo volando](./assests/images/pterodactilo.jpg 'Matthew P. Martyniuk')](https://es.wikipedia.org/wiki/Pterodactylus#/media/Archivo:Pterodactylus_holotype_fly_mmartyniuk.png 'Matthew P. Martyniuk')
 
 ### Pterodáctilo
+* Carnívoro
+* Volador
 xxx
 
 * **Atributos:** Agilidad d10, Astucia d6 (A), Espíritu d6, Fuerza d8, Vigor d8
@@ -384,21 +402,24 @@ xxx
 [![Dibujo de un nido alosaurios al que están robando los huevos](./assests/images/nido.jpg 'The Horrors of Thieving by FredtheDinosaurman')](https://www.deviantart.com/fredthedinosaurman/art/The-Horrors-of-Thieving-682621092 'The Horrors of Thieving by FredtheDinosaurman')
 
 ### Alosaurio
+* Carnívoro
+* Terrestre
+* 4x2 casillas
 xxx
 
 * **Atributos:** Agilidad d6, Astucia d6 (A), Espíritu d12, Fuerza d12+6, Vigor d10
 * **Habilidades:** Intimidar d12, Notar d6, Pelear d8, Supervivencia d6
 * **Paso:** 8; **Parada:** 6; **Dureza:** 17(3)
-* **Ventajas:** Improved Nerves of Steel
+* **Ventajas:** Nervios de Acero Mejorados
 * **Capacidades especiales:**
   * **Armadura +3:** Piel escamosa y dura.
   * **Mordisco:** FUE+d8.
-  * **Fear -2** (Absolute Terror -2 in a low-powered, horror setting)
-  * **Fearless:** The Rex is immune to Fear and Intimidation.
-  * **Huge:** Normal sized foes get a +4 to attack rolls against them.
-  * **Size +6**
-  * **Stomp:** Str damage. The Rex’s stomp counts as a Heavy Weapon. A stomped foe must make an opposed Strength roll against the Rex to break free. As long as the Rex doesn’t move, it will continue to do Str damage to the victim each round (though typically it will bite them to death once it has them trapped), and gets a +2 to hit and damage to its bite attacks against them.
-  * **Tragar entero:** Los alosaurios pueden tragarse enteras presas de Tamaño +1 o inferiores. Mientras está dentro del estomago, el objetivo es agarrado según el libro de reglas básico y sufre 2d6 de daño por asalto debido a los jugos digestivos, hasta que se lo come o le corta el estómago. La armadura no ofrece protección.
+  * **Miedo -2:** Quien vea un poderoso alosaurio deberá hacer una tirada contra miedo con una penalización de -2.
+  * **Impávido:** Es inmune a las tiradas de miedo e Intimidar.
+  * **Grande:** +1 herida. Los enemigos de tamaño normal obtienen un +2 para atacar tiradas contra ellos.
+  * **Tamaño +6:** +6 a Dureza
+  * **Pisotón:** Daño FUE. El pisotón del alosaurio cuenta como arma pesada. Un enemigo pisoteado debe realizar una tirada opuesta de FUE contra el alosaurio para liberarse. Mientras el alosaurio no se mueva, continuará causando daño de FUE a la víctima en cada ronda (aunque normalmente la morderá hasta matarla una vez que la tenga atrapada), y obtiene un +2 al golpe y al daño de su mordisco contra su presa.
+  * **Tragar entero:** Los alosaurios pueden tragarse enteras presas de Tamaño +1 o inferiores. Mientras está dentro del estómago, el objetivo es agarrado según el libro de reglas básico y sufre 2d6 de daño por asalto debido a los jugos digestivos, hasta que se lo come o le corta el estómago. La armadura no ofrece protección.
 
 \saltopagina
 
@@ -406,21 +427,22 @@ xxx
 xxx
 
 ### Megaloceros
+* Herbívoro
+* Terrestre
 xxx
 
 \saltopagina
 
 ### Glyptodon
-xxx
-
-\saltopagina
-
-### Pithecanthropus
+* Herbívoro
+* Terrestre
 xxx
 
 \saltopagina
 
 ### Phorusrhacos
+* Carnívoro
+* Terrestre
 xxx
 
 ***
@@ -431,6 +453,7 @@ xxx
 * Los dinosaurios están basados en [Savage Free Bestiary](https://docs.google.com/document/d/1qu4zzMYbPqOquVlCfgpPeoCmCEqGUgWh5dz-rpKJ1ck/edit?hl=it&authkey=CIySp98E#heading=h.7xcwydin4cfe)
 * [Fondo papel](https://pixabay.com/es/illustrations/papertexture-textura-papel-2061710/)
 * [Fondo portada](https://pixabay.com/es/photos/papel-viejo-textura-pergamino-1074131/)
+* [Confidencial](https://pixabay.com/es/illustrations/ultra-secreto-confidencial-2054429/)
 
 https://archive.org/details/lostworldbeingac00doylrich/page/n220/mode/1up
 

@@ -10,7 +10,6 @@
 * Documentar como instalar el proyecto
 
 # TOFIX
-* Altura máxima de imágenes para que no salten de página.
 
 ## Instalación
 * pdftk
@@ -26,4 +25,4 @@ https://gist.github.com/rain1024/98dd5e2c6c8c28f9ea9d
 * Montado todo diseño CSS
 * Montado índice en HTML y en PDF
 * Creada estructura general de la campaña
-* Montada [pagina web del proyecto](https://mundoperdido.gwannon.com/)
+* Montada [página web del proyecto](https://mundoperdido.gwannon.com/)
