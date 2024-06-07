@@ -1,6 +1,6 @@
 # Hace 65 millones de años los dinosaurios dominaron la Tierra...
 
-## ... y ahora han vuelto
+## ... Y ahora han vuelto
 
 En 1910 el profesor Challenger volvió de una expedición al Amazonas venezolano con dinosaurios encontrados en un "mundo perdido". 
 
@@ -82,14 +82,14 @@ xxx
 
 ### Arnés con cámara fotográfica 
 Este arnés con 1 o más cámaras fotográficas de alta precisión en el pecho se coloca a un pterodáctilo y permiten hacerse foto áreas de posiciones enemigas.
-> Las cámaras tienen una serie de temporizadores que establecen cuándo y cada cuánto tiempo sacar fotos. Para calcular esto se puede hacer una **tirada de Ciencias o de Supervivencia**. Cuanto mayor sea la tirada más precisas serán las fotos.
+> Las cámaras tienen una serie de temporizadores que establecen cuándo y cada cuánto tiempo sacar fotos. Para calcular esto se puede hacer una **tirada de Ciencias o de Supervivencia**. Cuanto mayor sea la tirada, más precisas serán las fotos.
 > Con un éxito conseguirán una descripción detallada del lugar y por cada avance podrán hacer dos preguntas para sacar información que pudiera saberse a través de fotografías áreas.
 
 \saltopagina
 
 ### Arnés de vuelo
 xxx
-> El pterodáctilo **no puede iniciar el vuelo con pasajeros desde el suelo**, debe **lanzarse desde por lo menos 20 metros de altura** para poder coger velocidad en la caida y remontar el vuelo.
+> El pterodáctilo **no puede iniciar el vuelo con pasajeros desde el suelo**, debe **lanzarse desde por lo menos 20 metros de altura** para poder coger velocidad en la caída y remontar el vuelo.
 
 ### Plaustro
 xxx
@@ -362,7 +362,7 @@ xxx
 
 \saltopagina
 
-[![Dibujo de pterodactilo volando](./assests/images/pterodactilo.jpg 'Matthew P. Martyniuk')](https://es.wikipedia.org/wiki/Pterodactylus#/media/Archivo:Pterodactylus_holotype_fly_mmartyniuk.png 'Matthew P. Martyniuk')
+[![Dibujo de pterodáctilo volando](./assests/images/pterodactilo.jpg 'Matthew P. Martyniuk')](https://es.wikipedia.org/wiki/Pterodactylus#/media/Archivo:Pterodactylus_holotype_fly_mmartyniuk.png 'Matthew P. Martyniuk')
 
 ### Pterodáctilo
 xxx
@@ -383,7 +383,7 @@ xxx
 
 [![Dibujo de un nido alosaurios al que están robando los huevos](./assests/images/nido.jpg 'The Horrors of Thieving by FredtheDinosaurman')](https://www.deviantart.com/fredthedinosaurman/art/The-Horrors-of-Thieving-682621092 'The Horrors of Thieving by FredtheDinosaurman')
 
-### Allosaurus
+### Alosaurio
 xxx
 
 * **Atributos:** Agilidad d6, Astucia d6 (A), Espíritu d12, Fuerza d12+6, Vigor d10
@@ -429,7 +429,7 @@ xxx
 # Epílogo
 
 ## Atribuciones
-* Los dinosarurios están basados en [Savage Free Bestiary](https://docs.google.com/document/d/1qu4zzMYbPqOquVlCfgpPeoCmCEqGUgWh5dz-rpKJ1ck/edit?hl=it&authkey=CIySp98E#heading=h.7xcwydin4cfe)
+* Los dinosaurios están basados en [Savage Free Bestiary](https://docs.google.com/document/d/1qu4zzMYbPqOquVlCfgpPeoCmCEqGUgWh5dz-rpKJ1ck/edit?hl=it&authkey=CIySp98E#heading=h.7xcwydin4cfe)
 * [Fondo papel](https://pixabay.com/es/illustrations/papertexture-textura-papel-2061710/)
 * [Fondo portada](https://pixabay.com/es/photos/papel-viejo-textura-pergamino-1074131/)
 
