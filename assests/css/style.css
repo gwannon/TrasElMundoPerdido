@@ -169,6 +169,11 @@ section p img:not(section:first-of-type img, section:nth-of-type(2) img, section
   box-shadow: -12px 17px 22px -8px #000;
 }
 
+section p img[alt^=Mapa]:not(section:first-of-type img, section:nth-of-type(2) img, section:last-of-type img) {
+  border: none;
+  box-shadow: -2px 15px 20px 0px #000;
+}
+
 section p:nth-of-type(even) img:not(section:first-of-type img, section:nth-of-type(2) img, section:last-of-type img) {
   rotate: -1deg;
   box-shadow: none;
@@ -213,6 +218,34 @@ section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type)
   left: auto;
   bottom: -52px;
   right: -44px;
+}
+
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Mapa]):before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 32px;
+  right: 27px;
+  background: transparent url(../images/grapa.png) center center no-repeat;
+  background-size: contain;
+  width: 115px;
+  height: 32px;
+  z-index: 10;
+  rotate: 9deg;
+}
+
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Mapa]):after {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 32px;
+  left: 38px;
+  background: transparent url(../images/grapa.png) center center no-repeat;
+  background-size: contain;
+  width: 115px;
+  height: 32px;
+  z-index: 10;
+  rotate: -11deg;
 }
 
 @media (max-width: 500px) {

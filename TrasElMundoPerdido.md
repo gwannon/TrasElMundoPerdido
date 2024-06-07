@@ -102,6 +102,21 @@ xxx
 # Estructura de la campaña
 xxx
 
+## Personalizando la campaña
+xxx
+
+### Ciencia extraña
+No hay ningún tipo de magia en esta campaña, pero eso no quiere decir que no puedas meterla. La forma más sencilla y que creo que mejor pega es usar la Ciencia Extraña. Nunca sobran científicas y científicos locos nazis, así que puedes meter ciertos elementos de Ciencia Extraña para darle un toque más Pulp a la aventura. Estamos hablando de soldados nazis con mochilas de salto y pistolas de rayos o sueros de super-soldado que permitan enfrentarse cuerpo a cuerpo contra los dinosaurios.
+
+### Otras formas de magia
+xxx
+
+#### Mentalismo
+xxx
+
+#### Magia negra, vudú y nigromancia
+xxx
+
 ***
 
 # Parte 1: La isla de Skye
@@ -186,6 +201,12 @@ xxx
 xxx
 
 ## Batalla del Mundo Perdido
+xxx
+
+### El zepelín
+
+[![Zepelín nazi en el Amazonas](./assests/images/dirigible.jpg 'LZ-127 at Jiquiá landing field in Recife')](https://www.airships.net/blog/zeppelin-mast-recife-brazil-pernambuco/ 'LZ-127 at Jiquiá landing field in Recife')
+
 xxx
 
 ***
@@ -342,28 +363,64 @@ xxx
 ### Iguanodon
 * Herbívoro
 * Terrestre
+* 0x0 casillas
+
 xxx
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** xxx
+* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+* **Ventajas:** xxx
+* **Desventajas:** xxx
+* **Capacidades especiales:**
 
 \saltopagina
 
 ### Megalosaurio
 * Carnívoro
 * Terrestre
+* 0x0 casillas
+
 xxx
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** xxx
+* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+* **Ventajas:** xxx
+* **Desventajas:** xxx
+* **Capacidades especiales:**
 
 \saltopagina
 
 ### Plesiosaurio
 * Carnívoro
 * Acuático
+* 0x0 casillas
+
 xxx
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** xxx
+* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+* **Ventajas:** xxx
+* **Desventajas:** xxx
+* **Capacidades especiales:**
 
 \saltopagina
 
 ### Ictiosaurio
 * Carnívoro
 * Acuático
+* 0x0 casillas
+
 xxx
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** xxx
+* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+* **Ventajas:** xxx
+* **Desventajas:** xxx
+* **Capacidades especiales:**
 
 \saltopagina
 
@@ -372,9 +429,16 @@ xxx
 ### Estegosaurio
 * Carnívoro
 * Terrestre
-xxx
+* 0x0 casillas
 
 xxx
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** xxx
+* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+* **Ventajas:** xxx
+* **Desventajas:** xxx
+* **Capacidades especiales:**
 
 \saltopagina
 
@@ -383,6 +447,8 @@ xxx
 ### Pterodáctilo
 * Carnívoro
 * Volador
+* 0x0 casillas
+
 xxx
 
 * **Atributos:** Agilidad d10, Astucia d6 (A), Espíritu d6, Fuerza d8, Vigor d8
@@ -405,7 +471,10 @@ xxx
 * Carnívoro
 * Terrestre
 * 4x2 casillas
+
 xxx
+
+\saltopagina
 
 * **Atributos:** Agilidad d6, Astucia d6 (A), Espíritu d12, Fuerza d12+6, Vigor d10
 * **Habilidades:** Intimidar d12, Notar d6, Pelear d8, Supervivencia d6
@@ -421,6 +490,8 @@ xxx
   * **Pisotón:** Daño FUE. El pisotón del alosaurio cuenta como arma pesada. Un enemigo pisoteado debe realizar una tirada opuesta de FUE contra el alosaurio para liberarse. Mientras el alosaurio no se mueva, continuará causando daño de FUE a la víctima en cada ronda (aunque normalmente la morderá hasta matarla una vez que la tenga atrapada), y obtiene un +2 al golpe y al daño de su mordisco contra su presa.
   * **Tragar entero:** Los alosaurios pueden tragarse enteras presas de Tamaño +1 o inferiores. Mientras está dentro del estómago, el objetivo es agarrado según el libro de reglas básico y sufre 2d6 de daño por asalto debido a los jugos digestivos, hasta que se lo come o le corta el estómago. La armadura no ofrece protección.
 
+> Oficialmente en la novela de El mundo perdido no hay T-Rex, pero si sientes la necesidad de que tu campaña tenga T-Rexes, puedes usar las estadísticas de alosaurio.
+
 \saltopagina
 
 ## Otros animales prehistóricos:
@@ -429,21 +500,48 @@ xxx
 ### Megaloceros
 * Herbívoro
 * Terrestre
+* 0x0 casillas
+
 xxx
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** xxx
+* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+* **Ventajas:** xxx
+* **Desventajas:** xxx
+* **Capacidades especiales:**
 
 \saltopagina
 
 ### Glyptodon
 * Herbívoro
 * Terrestre
+* 0x0 casillas
+
 xxx
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** xxx
+* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+* **Ventajas:** xxx
+* **Desventajas:** xxx
+* **Capacidades especiales:**
 
 \saltopagina
 
 ### Phorusrhacos
 * Carnívoro
 * Terrestre
+* 0x0 casillas
+
 xxx
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** xxx
+* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+* **Ventajas:** xxx
+* **Desventajas:** xxx
+* **Capacidades especiales:**
 
 ***
 
