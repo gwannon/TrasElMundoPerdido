@@ -11,6 +11,9 @@ Hoy es 1936 y formas parte de un comando de élite del ejército inglés que usa
 # Historia
 xxx
 
+## La Fundación Roxton
+xxx
+
 ***
 
 # Los dinosaurios
@@ -167,9 +170,10 @@ xxx
 
 # Parte 7: Regreso al Mundo Perdido
 
-
-
 [![Mapa del Mundo Perdido hecho por Maple White](./assests/images/maple-white-mapa.jpg 'Page 222 (The Lost World, 1912)')](https://es.wikipedia.org/wiki/Archivo:Page_222_(The_Lost_World,_1912).jpg 'Page 222 (The Lost World, 1912)')
+
+\saltopagina
+
 xxx
 
 ## Carrera al Mundo perdido
@@ -327,10 +331,25 @@ xxx
 ## Dinosaurios
 xxx
 
-* Iguanodon
-* Megalosaurus
-* Plesiosaurus
-* Ichthyosaurus
+\saltopagina
+
+### Iguanodon
+xxx
+
+\saltopagina
+
+### Megalosaurus
+xxx
+
+\saltopagina
+
+### Plesiosaurus
+xxx
+
+\saltopagina
+
+### Ichthyosaurus
+xxx
 
 \saltopagina
 
@@ -354,7 +373,7 @@ xxx
 * **Capacidades especiales:**
   * **Armadura +1:** Piel escamosa.
   * **Picotazo/Garras:** FUE+d6.
-  * **Volar:** Los pterodáctilos tienen un paso de volando de 12 (sólo 4 en la primera ronda, porque sus enormes cuerpos les dificultan volar inicialmente). Tienen una subida de -1.
+  * **Volar:** Los pterodáctilos tienen un paso de volando de 12 (solo 4 en la primera ronda, porque sus enormes cuerpos les dificultan volar inicialmente). Tienen una subida de -1.
   * **Ataque volador:** Cuando el pterodáctilo vuela a toda velocidad, puede realizar un ataque volador, obteniendo un +2 al daño. Si consigue un avance en su tirada de ataque cuando vuela contra un humano o un oponente de menor tamaño, lo atrapa y se lo lleva, probablemente a su nido.
 
   * **Tamaño +2:** xxx
@@ -387,13 +406,23 @@ xxx
 
 xxx
 
-### Mamíferos
-* Megaloceros
-* Glyptodon
-* Pithecanthropus
+### Megaloceros
+xxx
 
-### Aves
-* Phorusrhacos
+\saltopagina
+
+### Glyptodon
+xxx
+
+\saltopagina
+
+### Pithecanthropus
+xxx
+
+\saltopagina
+
+### Phorusrhacos
+xxx
 
 ***
 
@@ -405,6 +434,9 @@ xxx
 * [Fondo portada](https://pixabay.com/es/photos/papel-viejo-textura-pergamino-1074131/)
 
 https://archive.org/details/lostworldbeingac00doylrich/page/n220/mode/1up
+
+## Maltrato animal
+xxx
 
 ***
 

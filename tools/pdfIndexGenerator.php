@@ -1,7 +1,5 @@
 <?php
-/*preg_match("/<body[^>]*>(.*?)<\/body>/is", file_get_contents('index.html'), $matches);
-print_r ($matches);
-die;*/
+
 $doc = new DOMDocument();
 $internalErrors = libxml_use_internal_errors(true);
 $doc->loadHTMLFile("index.html");

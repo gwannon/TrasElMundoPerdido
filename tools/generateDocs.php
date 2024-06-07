@@ -8,7 +8,9 @@ $tags = [
   'TITLE' => "Tras el mundo perdido",
   'SHORTDESCRIPTION' => 'Una campaña donde lucharás contra nazis a lomos de dinosaurios.',
   'DESCRIPTION' => "Tras El Mundo Perdido es una campaña para SWADE con la que podrás jugar aventuras durante la Segunda Guerra Mundial con un comando del ejército inglés que usa dinosaurios en sus misiones contra los nazis.",
-  'VERSION' => "0.1"
+  'VERSION' => "0.1",
+  "AUTHOR" => "@Gwannon",
+  "KEYWORDS" => "juego de rol, Savage Worlds, dinosaurios, nazis, II Guerra Mundial"
 ];
 
 //Generamos el HTML
@@ -27,4 +29,11 @@ $html = str_replace("</h1>", "</h1>\n<div class='saltopagina'></div>", $html);
 
 file_put_contents(__DIR__ . "/../index.html", $html);
 
-//Generamos el PDF
+echo "InfoKey: Subject\n";
+echo "InfoValue: ".$tags['DESCRIPTION']." Versión ".$tags['VERSION']."\n\n";
+echo "InfoKey: Author\n";
+echo "InfoValue: ".$tags['AUTHOR']."\n\n";
+echo "InfoKey: Keywords\n";
+echo "InfoValue: ".$tags['KEYWORDS']."\n\n";
+
+include(__DIR__ ."/pdfIndexGenerator.php");
