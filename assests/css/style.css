@@ -22,6 +22,13 @@
   src: url('../fonts/Zeyada/Zeyada-Regular.ttf') format('truetype');
 }
 
+@font-face {
+  font-family: 'ReenieBeanie';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/Reenie_Beanie/ReenieBeanie-Regular.ttf') format('truetype');
+}
+
 p, li {
   font-family: "SpecialElite", system-ui;
   font-weight: 400;
@@ -84,6 +91,26 @@ blockquote > p {
 
 blockquote:nth-of-type(odd) > p {
   rotate: -1deg;
+}
+
+pre {
+  white-space: pre-wrap;
+}
+
+pre code {
+  color: #002b59;
+  font-size: 1.8rem;
+  font-family: 'ReenieBeanie';
+  display: block;
+  background-color: #fffcfa;
+  border-radius: 5px;
+  padding: calc(var(--padding) / 2);
+  rotate: -1deg;
+  margin-bottom: 30px;
+}
+
+pre:nth-of-type(odd) code {
+ rotate: 0.5deg;
 }
 
 section:not(section:first-of-type, section:last-of-type) h1 {
@@ -266,6 +293,14 @@ section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type)
 
 }
 
+/* secciones */
+
+section:nth-of-type(10) h1 {
+  background: #000 url(../images/tobruk.jpg) center center no-repeat;
+  background-size: cover;
+  text-shadow: 0 0 20px black;
+}
+
 /* Portada */
 section:first-of-type {
   max-height: 3507px;
@@ -360,8 +395,8 @@ section:last-of-type {
   padding: 30px;
 }
 
-section:last-of-type > h2 {
-  font-size: 4em;
+section:last-of-type > h4 {
+  font-size: 2em;
   margin: 0 0 20px 0;
   text-align: center;
   display: block;

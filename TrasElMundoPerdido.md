@@ -11,12 +11,18 @@ Hoy es 1936 y formas parte de un comando de élite del ejército inglés que usa
 # Historia
 xxx
 
+## El mundo perdido
+xxx
+
+## La expedición Roxton
+xxx
+
 ## La Fundación Roxton
 xxx
 
 ***
 
-# Los dinosaurios
+# ¡¡¡Dinosaurios!!!
 xxx
 
 ## Dinosaurios en misiones
@@ -138,6 +144,10 @@ xxx
 xxx
 
 ## Sitio de Tobruk
+```
+El ejército necesita que el comando entre Tobruk y saque a un agente que tiene información vital para inteligencia militar. El único problema es que la ciudad esta asediada por los Africa Korps.
+```
+
 xxx
 
 ## Otras misiones
@@ -463,6 +473,8 @@ xxx
   * **Tamaño +2:** xxx
   * **Lento:** En el suelo solo tiene Paso 4 y no puede correr.
 
+xxx
+
 \saltopagina
 
 [![Dibujo de un nido alosaurios al que están robando los huevos](./assests/images/nido.jpg 'The Horrors of Thieving by FredtheDinosaurman')](https://www.deviantart.com/fredthedinosaurman/art/The-Horrors-of-Thieving-682621092 'The Horrors of Thieving by FredtheDinosaurman')
@@ -552,15 +564,17 @@ xxx
 * [Fondo papel](https://pixabay.com/es/illustrations/papertexture-textura-papel-2061710/)
 * [Fondo portada](https://pixabay.com/es/photos/papel-viejo-textura-pergamino-1074131/)
 * [Confidencial](https://pixabay.com/es/illustrations/ultra-secreto-confidencial-2054429/)
+* [Libro original](https://archive.org/details/lostworldbeingac00doylrich/page/n220/mode/1up)
 
-https://archive.org/details/lostworldbeingac00doylrich/page/n220/mode/1up
+### Imágenes
+* [Portada "Parte 2: Norte de África"](https://en.wikipedia.org/wiki/Siege_of_Tobruk#/media/File:Men_of_the_Leicestershire_Rgt._man_a_Bren_gun_near_Tobruk.jpg)
 
 ## Maltrato animal
 xxx
 
 ***
 
-## Tras el Mundo Perdido
+#### Tras el Mundo Perdido
 Creado por [Gwannon](https://gwannon.itch.io/)
 
 Tras el Mundo Perdido es una campaña de puntos argumentales donde lucharás contra nazis a lomos de dinosaurios.
