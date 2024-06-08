@@ -48,7 +48,9 @@ sudo apt-get install texlive-fonts-extra
 
 # Changelog
 
-## Versión 0.1 En desarrollo
+## Versión 0.2 en desarrollo
+
+## Versión 0.1 08/06/2024
 * Mejorado todo el sistema de creación de PDF y HTML. Ahora funciona desde ficheros .md y tiene variables
 * Montado todo diseño CSS
 * Montado índice en HTML y en PDF

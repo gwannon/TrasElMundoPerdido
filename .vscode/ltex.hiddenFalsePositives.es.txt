@@ -1,0 +1,3 @@
+{"rule":"PHRASE_REPETITION","sentence":"^\\QEstructura de la campaña\nLa campaña tiene una estructura clásica que permitirá a tu comando moverse por diferentes escenarios de la II Guerra Mundial corriendo aventuras y descubriendo una serie de pistas que les llevará a volver al Mundo Perdido en el Amazonas venezolano y finalmente a un castillo en mitad de la selva Negra.\\E$"}
+{"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\Q¿Por qué Savage Worlds?\nxxx\\E$"}
+{"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\Q¿Puedo hacer con esta ambientación lo quiera?\nxxx\\E$"}

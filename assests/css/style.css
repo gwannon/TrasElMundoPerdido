@@ -35,6 +35,7 @@ p, li {
   font-style: normal;
   color: #000000;
   font-size: 1rem;
+  line-height: 120%;
 }
 
 a, a:visited {
@@ -196,7 +197,8 @@ section p img:not(section:first-of-type img, section:nth-of-type(2) img, section
   box-shadow: -12px 17px 22px -8px #000;
 }
 
-section p img[alt^=Mapa]:not(section:first-of-type img, section:nth-of-type(2) img, section:last-of-type img) {
+section p img[alt^=Mapa]:not(section:first-of-type img, section:nth-of-type(2) img, section:last-of-type img),
+section p img[alt^=Foto]:not(section:first-of-type img, section:nth-of-type(2) img, section:last-of-type img) {
   border: none;
   box-shadow: -2px 15px 20px 0px #000;
 }
@@ -246,8 +248,9 @@ section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type)
   bottom: -52px;
   right: -44px;
 }
-
-section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Mapa]):before {
+ 
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Mapa]):before, 
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Foto]):before {
   content: "";
   display: block;
   position: absolute;
@@ -255,13 +258,14 @@ section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type)
   right: 27px;
   background: transparent url(../images/grapa.png) center center no-repeat;
   background-size: contain;
-  width: 115px;
+  width: 80px;
   height: 32px;
   z-index: 10;
   rotate: 9deg;
 }
 
-section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Mapa]):after {
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Mapa]):after,
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Foto]):after {
   content: "";
   display: block;
   position: absolute;
@@ -269,7 +273,7 @@ section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type)
   left: 38px;
   background: transparent url(../images/grapa.png) center center no-repeat;
   background-size: contain;
-  width: 115px;
+  width: 80px;
   height: 32px;
   z-index: 10;
   rotate: -11deg;
@@ -295,8 +299,20 @@ section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type)
 
 /* secciones */
 
+section:nth-of-type(9) h1 {
+  background: #000 url(../images/isla-skye.jpg) center center no-repeat;
+  background-size: cover;
+  text-shadow: 0 0 20px black;
+}
+
 section:nth-of-type(10) h1 {
   background: #000 url(../images/tobruk.jpg) center center no-repeat;
+  background-size: cover;
+  text-shadow: 0 0 20px black;
+}
+
+section:nth-of-type(11) h1 {
+  background: #000 url(../images/rio-plata.jpg) center center no-repeat;
   background-size: cover;
   text-shadow: 0 0 20px black;
 }
@@ -322,6 +338,25 @@ section:first-of-type > div {
 section:first-of-type > div > h1 {
   font-size: 4em;
   color: #000;
+  padding: 48px 30px 30px 30px;
+  background-color: #f5f5f5;
+  border-radius: 23px;
+  max-width: 445px;
+  rotate: 2deg;
+  position:º relative;
+}
+
+section:first-of-type > div > h1:before {
+  content: "";
+  display: block;
+  width: 274px;
+  height: 274px;
+  background: transparent url(../images/top-secret.png) center center no-repeat;
+  background-size: cover;
+  position: absolute;
+  top: -105px;
+  left: -145px;
+  rotate: -41deg;
 }
 
 section:first-of-type h2,

@@ -14,11 +14,19 @@ xxx
 ## El mundo perdido
 xxx
 
+[![Foto de los miembros masculinos, ricos y blancos de la expedición al Mundo Perdido](./assests/images/expedicion.jpg 'Page 222 (The Lost World, 1912)')](https://archive.org/details/lostworldbeingac00doylrich/page/11/mode/1up 'Page 222 (The Lost World, 1912)')
+
+xxx
+
 ## La expedición Roxton
 xxx
 
+\saltopagina
+
 ## La Fundación Roxton
 xxx
+
+La fundación Roxton tienes unos recursos increíbles, ya que se ha dedicado durante años a extraer diamantes de la arcilla azul del pantano del Mundo Perdido. Salvo casos especiales Roxton puede conseguir cualquier tipo de material y producto legal y contratar a cualquier persona que sea necesaria.
 
 ***
 
@@ -75,6 +83,12 @@ xxx
 ## Equipo especial
 xxx
 
+\saltopagina
+
+## Medidas desesperadas
+Dispositivos suicidas
+
+
 ## Equipo para dinosaurios
 xxx
 
@@ -103,10 +117,36 @@ xxx
 ### Plaustro
 xxx
 
+### Ropa de invierno
+Los dinosaurios tendrán que moverse en entornos muy fríos y, aunque de sangre caliente, necesitarán protecciones frente al clima extremadamente frío de lugares como Rusia o Noruega.
+
 ***
 
 # Estructura de la campaña
+La campaña tiene una estructura clásica que permitirá a tu comando moverse por diferentes escenarios de la II Guerra Mundial corriendo aventuras y descubriendo una serie de pistas que les llevará a volver al Mundo Perdido en el Amazonas venezolano y finalmente a un castillo en mitad de la selva Negra.
+
+La campaña comienza en la isla de Skye donde tu comando aprenderá a trabajar con sus compañeros saurios. Una vez completado el entrenamiento tendrán su primera misión en el canal de la Mancha y si pasan su bautismo de fuego, podrán moverse a diferentes escenarios de guerra:
+
+* El asedio de Tobruk en el Norte de África
+* La batalla del Río de la plata
+* Sabotaje de las fábricas de agua pesada de Telemark, Noruega
+* Incursión en la Francia ocupada para preparar el día D
+* El asedio de Stalingrado en el frente ruso
+
+Estas localizaciones y los eventos que ocurren en ellas tienen un orden cronológico, pero si no eres muy tiquismiquis con estas cosas puedes jugarlas en el orden que tú o tu comando prefiera.
+
+En cada localización habrá una aventura principal y varias aventuras secundarias, donde obtendrán pruebas de que hay un traidor en la Fundación.
+
+El conspirador se ha vendido a los nazis y les ha entregado el secreto más importante que guarda la Fundación Roxton, la localización de Mundo Perdido. Si Hitler puede hacerse con un ejército de dinosaurios será imparable. También ha propiciado la caída de la Fundación Roxton. Así que a partir de este momento volarán solos. 
+
+Todos estos eventos les obligarán a empezar una carrera contra los nazis por llegar al Mundo Perdido antes que ellos y sabotear su misión de captura de dinosaurios.
+
+La aventura acabará en la Selva Negra donde tu comando deberá tomar un castillo inexpugnable y desbaratar los planes de crear un arma terrible con un descubrimiento que han hecho en el Mundo Perdido.
+
 xxx
+
+
+\saltopagina
 
 ## Personalizando la campaña
 xxx
@@ -128,9 +168,15 @@ xxx
 # Parte 1: La isla de Skye
 xxx
 
+## Reclutamiento
+xxx
+
 ## Entrenamiento
 xxx
 En un momento dado les dará afinidad animal con su nuevo dinosaurio.
+
+## Dinosaurios a la fuga
+xxx
 
 ## Primera misión
 xxx
@@ -170,7 +216,12 @@ xxx
 xxx
 
 ## Operación Gunnerside
+```
+Sabotear las fábricas de agua pesada de Telemark es fundamental si queremos ganar la guerra. La operación Gunnerside necesita una distracción para poder hacer su trabajo y que mejor distracción que una horda de dinosaurios asesinos sembrando el caos y la muerte es la tundra Noruega. Cuantas más unidades atraigan más fácil será la misión de sabotaje.
+```
+
 xxx
+
 
 ## Otras misiones
 xxx
@@ -199,7 +250,12 @@ xxx
 
 ***
 
-# Parte 7: Regreso al Mundo Perdido
+# Parte 7: Traición
+xxx
+
+***
+
+# Parte 8: Regreso al Mundo Perdido
 
 [![Mapa del Mundo Perdido hecho por Maple White](./assests/images/maple-white-mapa.jpg 'Page 222 (The Lost World, 1912)')](https://es.wikipedia.org/wiki/Archivo:Page_222_(The_Lost_World,_1912).jpg 'Page 222 (The Lost World, 1912)')
 
@@ -221,7 +277,10 @@ xxx
 
 ***
 
-# Parte 8: La Selva Negra
+# Parte 9: La Selva Negra
+```
+Parece que los nazis no solo buscaban dinosaurios para su ejército, también buscaba los diamantes de la arcilla azul. Parece que van a crear una arma terrible con los diamantes que puede cambiar el curso de la guerra a su favor. 
+```
 xxx
 
 ***
@@ -437,7 +496,7 @@ xxx
 [![Dibujo de un estegosaurio](./assests/images/estegosaurio.jpg 'Encuentro con el Stegosaurus - Arthur Conan Doyle')](https://es.wikipedia.org/wiki/El_mundo_perdido#/media/Archivo:Page_59_(The_Lost_World._1912).jpg 'Encuentro con el Stegosaurus - Arthur Conan Doyle')
 
 ### Estegosaurio
-* Carnívoro
+* Herbívoro
 * Terrestre
 * 0x0 casillas
 
@@ -460,6 +519,8 @@ xxx
 * 0x0 casillas
 
 xxx
+
+\saltopagina
 
 * **Atributos:** Agilidad d10, Astucia d6 (A), Espíritu d6, Fuerza d8, Vigor d8
 * **Habilidades:** Notar d10, Pelear d6
@@ -559,18 +620,61 @@ xxx
 
 # Epílogo
 
+## Notas del autor
+xxx
+
+### ¿Por qué Savage Worlds?
+Simplemente, porque me encanta Savage Worlds, es uno de los sistemas genéricos de juegos de rol con el que más cómodo me siento. Si voy a meterle muchas horas a esta campaña quiero hacerlo con un RPG que me sea fácil y familiar.
+
+### Influencias
+xxx
+
+### Maltrato animal
+xxx
+
+### Suicidio
+xxx
+
+### Fascismo y nazismo
+Esta campaña va de joder los malvados planes de los nazis, así que cualquier tipo de actividad en partida que suponga simpatizar con nazis y fascistas y su ideología debería ser una "red flag" clarísima. Si tus compañeros y compañeras de mesa, ensalzan de alguna manera las ideas de nazis y fascistas deberías levantarte e irte y si eres tú el o la que las ensalza eres un pedazo de mierda. 
+
+### Veracidad histórica
+xxx
+
+\saltopagina
+
+### ¿Puedo hacer con esta ambientación lo quiera?
+Sí, puedes. Con referenciarla puedes hacer lo que quieras. Si te gusta como se tratan la II Guerra Mundial, olvídate de los dinosaurios y juega una aventura de comandos. O puedes usar las estadísticas de los dinosaurios y hacer una aventura en el Mundo Perdido.
+
+### Define los velos y herramientas de seguridad
+> Antes de iniciar la aventura, todos los miembros de la mesa debéis definir las herramientas de seguridad que queráis utilizar y los temas o escenas que deben evitarse durante la partida para que nadie se sienta incómodo durante la sesión de juego. Podéis escoger los elementos que no queráis incluir durante la partida previamente o podéis utilizar un mecanismo de seguridad cuando estos aparezcan.
+
+> No importa cuál sea la herramienta de seguridad o el tipo de mecanismo utilicéis, pero es importante recordad que el rol es un juego y todos deben pasarlo bien. En caso de que consideréis entre todos que no necesitáis una herramienta de seguridad tampoco pasa nada, pero en ese caso es necesario que el director de juego se asegure de forma más activa de que ningún miembro de la mesa se sienta incómodo o lo esté pasando mal.
+
+> **Por:** [FaustoRolero](https://twitter.com/FaustoRolero)
+
+Aquí tienes algunas herramientas de seguridad que puedes usar:
+
+* [DEVIR](https://devir.es/herramientas-seguridad-rol)
+* [NetCon](https://www.netconplay.com/guia-de-buenas-practicas/herramientas-en-la-mesa/)
+
+\saltopagina
+
+### Participar en el proyecto
+Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a través de GitHub en este [proyecto](https://github.com/gwannon/TrasElMundoPerdido). Si no estás familiarizado con Git, pues me mandas un DM en Twitter a [@Gwannon](https://twitter.com/gwannon) y hablamos.
+
 ## Atribuciones
 * Los dinosaurios están basados en [Savage Free Bestiary](https://docs.google.com/document/d/1qu4zzMYbPqOquVlCfgpPeoCmCEqGUgWh5dz-rpKJ1ck/edit?hl=it&authkey=CIySp98E#heading=h.7xcwydin4cfe)
-* [Fondo papel](https://pixabay.com/es/illustrations/papertexture-textura-papel-2061710/)
-* [Fondo portada](https://pixabay.com/es/photos/papel-viejo-textura-pergamino-1074131/)
-* [Confidencial](https://pixabay.com/es/illustrations/ultra-secreto-confidencial-2054429/)
 * [Libro original](https://archive.org/details/lostworldbeingac00doylrich/page/n220/mode/1up)
 
 ### Imágenes
+* [Portada "Parte 1: La isla de Skye"](https://pixabay.com/es/photos/isla-de-skye-escocia-gran-breta%C3%B1a-4415029/)
 * [Portada "Parte 2: Norte de África"](https://en.wikipedia.org/wiki/Siege_of_Tobruk#/media/File:Men_of_the_Leicestershire_Rgt._man_a_Bren_gun_near_Tobruk.jpg)
-
-## Maltrato animal
-xxx
+* [Portada "Parte 3: Río de la plata"](https://upload.wikimedia.org/wikipedia/commons/c/ce/Graf_Spee_Wreck_USNphoto_1.jpg)
+* [Fondo portada y contraportada](https://pixabay.com/es/photos/papel-viejo-textura-pergamino-1074131/)
+* [Fondo páginas interiores](https://pixabay.com/es/illustrations/papertexture-textura-papel-2061710/)
+* [Sello Top Secret](https://pixabay.com/es/illustrations/ultra-secreto-confidencial-2054429/)
+* [Siluetas de dinosaurios](https://www.cleanpng.com/free/dinosaur-silhouette.html)
 
 ***
 
