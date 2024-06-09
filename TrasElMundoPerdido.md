@@ -80,6 +80,9 @@ xxx
 #### Paleontóloga/o
 xxx
 
+#### Periodista
+xxx
+
 #### Veterinaria/o
 xxx
 
@@ -88,13 +91,42 @@ xxx
 ## Reglas especiales
 xxx
 
+## Nueva ventaja: Compañero dinosaurio
+Requisitos: Novato
+
+El comando que adquiere esta ventaja puede convertir a un dinosaurio con el que haya entrenado como su compañero. Esto le da una serie de ventajas:
+
+* El compañero dinosaurio se convierte en comodín con lo que tiene sus propios benis y su dado de héroe.
+* Por cada Rango que alcance el comando el compañero conseguirá un avance.
+* El compañero animal no atacará al comando bajo ninguna circunstancia normal.
+
+Esta ventaja sustituye a la ventaja Señor de las Bestias. La ventaja Vinculo Animal solo serviría para dar benis a otros dinosaurios que no sean compañeros de ningún comando. 
+
+## Vehículos
+xxx
+
+|VEHÍCULO|TAMAÑO|MANIOBRA.|VEL. MÁX.|DUREZA|TRIPULACIÓN|
+|--------|------|----|--|------|-----|
+|Motocicleta BMW R-71|1 (Normal)|+1|125 km/h|8|1+1|
+|Motocicleta BMW R-71 con sidecar|1 (Normal)|+1|95 km/h|8|1+2|
+|Jeep Willys MB|3|+1|95 km/h|14(3)|1+4|
+|VW Typ 82 "Kübelwagen"|3|+1|80km/h|13(3)|1+4|
+
+## Dinosaurios como vehículos
+xxx
+
+|VEHÍCULO|TAMAÑO|MANIOBRA.|VEL. MÁX.|DUREZA|TRIPULACIÓN|
+|--------|------|----|--|------|-----|
+|Alosaurio|xxx|xxx|xxx|xxx|xxx|
+|Megalosaurio|xxx|xxx|xxx|xxx|xxx|
+|Pterodactilo|xxx|xxx|xxx|xxx|xxx|
+|Plesosaurio|xxx|xxx|xxx|xxx|xxx|
 
 ## Equipo especial
 xxx
 
 ## Medidas desesperadas
 Dispositivos suicidas
-
 
 ## Equipo para dinosaurios
 xxx

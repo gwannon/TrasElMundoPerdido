@@ -325,6 +325,22 @@ section p img[alt^=Escala]:not(section:first-of-type img, section:nth-of-type(2)
   }
 }
 
+/* Tablas */
+table {
+  border-collapse: collapse;
+  box-sizing: border-box;
+}
+
+div:has(table){
+  overflow-x: auto;
+}
+table tr td,
+table tr th {
+  font-family: "SpecialElite", system-ui;
+  padding: 20px;
+  border: 2px solid #000; 
+}
+
 /* secciones */
 
 section:nth-of-type(9) h1 {

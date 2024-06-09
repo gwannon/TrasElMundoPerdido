@@ -1,4 +1,5 @@
 /vendor/
+/audiolibro/
 composer.lock
 TrasElMundoPerdido.pdf
 /pdf/log.txt

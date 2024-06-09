@@ -17,6 +17,9 @@ $html = str_replace("<hr />", "<div class=\"saltopagina\"></div>\n</section>\n<s
 $html = str_replace("<p>\saltopagina</p>", "<div class=\"saltopagina\"></div>", $html);
 $html = str_replace("</h1>", "</h1>\n<div class=\"saltopagina\"></div>", $html); 
 
+$html = str_replace("<table>", "<div><table>", $html); 
+$html = str_replace("</table>", "</table></div>", $html); 
+
 
 file_put_contents(__DIR__ . "/../index.html", $html);
 
