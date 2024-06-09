@@ -62,7 +62,13 @@ xxx
 ### Arquetipos
 xxx
 
+### Agente de inteligencia
+Estamos hablando de personas entrenadas en campos tan diversos como la encriptación y desencriptación de mensajes, telecomunicaciones, elaboración de perfiles, interrogatorio, creación y detección de documentos falsificados.
+
 #### Comando
+xxx
+
+#### Conductor/a
 xxx
 
 #### Espía
@@ -77,13 +83,14 @@ xxx
 #### Veterinaria/o
 xxx
 
+\saltopagina
+
 ## Reglas especiales
 xxx
 
+
 ## Equipo especial
 xxx
-
-\saltopagina
 
 ## Medidas desesperadas
 Dispositivos suicidas
@@ -235,6 +242,11 @@ xxx
 xxx
 
 ## Otras misiones
+xxx
+
+### Arte robado
+Tu comando debe ayudar a los Monuments Men a recuperar arte robado por los Nazis.
+
 xxx
 
 ***
@@ -586,6 +598,8 @@ xxx
 
 \saltopagina
 
+[![Recreación artística de un Glyptodon](./assests/images/glyptodon.jpg 'Recreación artística de un Glyptodon - Luca Mendieta https://biopicturestudio.blogspot.com/')](https://es.wikipedia.org/wiki/Glyptodon#/media/Archivo:GLYPTODON.jpg 'Recreación artística de un Glyptodon - Luca Mendieta https://biopicturestudio.blogspot.com/')
+
 ### Glyptodon
 * Herbívoro
 * Terrestre
@@ -675,6 +689,12 @@ Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a tra
 * [Fondo páginas interiores](https://pixabay.com/es/illustrations/papertexture-textura-papel-2061710/)
 * [Sello Top Secret](https://pixabay.com/es/illustrations/ultra-secreto-confidencial-2054429/)
 * [Siluetas de dinosaurios](https://www.cleanpng.com/free/dinosaur-silhouette.html)
+
+## Música para las partidas
+Si necesitas música para ambientar tus partidas estás son algunas ideas
+
+* BSO de La gran evasión
+* xxx
 
 ***
 
