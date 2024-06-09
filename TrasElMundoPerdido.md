@@ -112,14 +112,16 @@ xxx
 |Jeep Willys MB|3|+1|95 km/h|14(3)|1+4|
 |VW Typ 82 "Kübelwagen"|3|+1|80km/h|13(3)|1+4|
 
+\saltopagina
+
 ## Dinosaurios como vehículos
 xxx
 
 |VEHÍCULO|TAMAÑO|MANIOBRA.|VEL. MÁX.|DUREZA|TRIPULACIÓN|
 |--------|------|----|--|------|-----|
-|Alosaurio|xxx|xxx|xxx|xxx|xxx|
+|Alosaurio|xxx|xxx|xxx|55km/h|xxx|
 |Megalosaurio|xxx|xxx|xxx|xxx|xxx|
-|Pterodactilo|xxx|xxx|xxx|xxx|xxx|
+|Pterodactilo|xxx|xxx|xxx|95km/h|xxx|
 |Plesosaurio|xxx|xxx|xxx|xxx|xxx|
 
 ## Equipo especial
@@ -158,6 +160,9 @@ xxx
 
 ### Ropa de invierno
 Los dinosaurios tendrán que moverse en entornos muy fríos y, aunque de sangre caliente, necesitarán protecciones frente al clima extremadamente frío de lugares como Rusia o Noruega.
+
+### Arnés acuatico
+xxx
 
 ***
 
