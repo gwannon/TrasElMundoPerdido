@@ -245,7 +245,9 @@ xxx
 xxx
 
 ### Arte robado
+```
 Tu comando debe ayudar a los Monuments Men a recuperar arte robado por los Nazis.
+```
 
 xxx
 
@@ -281,9 +283,13 @@ xxx
 ## Batalla del Mundo Perdido
 xxx
 
+[![Boceto de un nido alosaurios al que están robando los huevos](./assests/images/nido.jpg 'The Horrors of Thieving by FredtheDinosaurman')](https://www.deviantart.com/fredthedinosaurman/art/The-Horrors-of-Thieving-682621092 'The Horrors of Thieving by FredtheDinosaurman')
+
+\saltopagina
+
 ### El zepelín
 
-[![Zepelín nazi en el Amazonas](./assests/images/dirigible.jpg 'LZ-127 at Jiquiá landing field in Recife')](https://www.airships.net/blog/zeppelin-mast-recife-brazil-pernambuco/ 'LZ-127 at Jiquiá landing field in Recife')
+[![Foto Zepelín nazi en el Amazonas](./assests/images/dirigible.jpg 'LZ-127 at Jiquiá landing field in Recife')](https://www.airships.net/blog/zeppelin-mast-recife-brazil-pernambuco/ 'LZ-127 at Jiquiá landing field in Recife')
 
 xxx
 
@@ -416,66 +422,43 @@ xxx
 
 \saltopagina
 
-### Cavernícola
+## Dinosaurios del Mundo Perdido
 xxx
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
-* **Ventajas:** xxx
-* **Desventajas:** xxx
-* **Equipo:** xxx
+[![Dibujo de un alosaurio](./assests/images/alosaurio.jpg 'De Fred Wierum - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=47577505')](https://es.wikipedia.org/wiki/Allosaurus#/media/Archivo:Allosaurus_Revised.jpg 'De Fred Wierum - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=47577505')
 
-### Pitecántropo
-xxx
+### Alosaurio
+* Carnívoro
+* Terrestre
+* 4x2 casillas
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
-* **Ventajas:** xxx
-* **Desventajas:** xxx
-* **Equipo:** xxx
-
-## Dinosaurios
 xxx
 
 \saltopagina
 
-### Iguanodon
+* **Atributos:** Agilidad d6, Astucia d6 (A), Espíritu d12, Fuerza d12+6, Vigor d10
+* **Habilidades:** Intimidar d12, Notar d6, Pelear d8, Supervivencia d6
+* **Paso:** 8; **Parada:** 6; **Dureza:** 17(3)
+* **Ventajas:** Nervios de Acero Mejorados
+* **Capacidades especiales:**
+  * **Armadura +3:** Piel escamosa y dura.
+  * **Mordisco:** FUE+d8.
+  * **Miedo -2:** Quien vea un poderoso alosaurio deberá hacer una tirada contra miedo con una penalización de -2.
+  * **Impávido:** Es inmune a las tiradas de miedo e Intimidar.
+  * **Grande:** +1 herida. Los enemigos de tamaño normal obtienen un +2 para atacar tiradas contra ellos.
+  * **Tamaño +6:** +6 a Dureza
+  * **Pisotón:** Daño FUE. El pisotón del alosaurio cuenta como arma pesada. Un enemigo pisoteado debe realizar una tirada opuesta de FUE contra el alosaurio para liberarse. Mientras el alosaurio no se mueva, continuará causando daño de FUE a la víctima en cada ronda (aunque normalmente la morderá hasta matarla una vez que la tenga atrapada), y obtiene un +2 al golpe y al daño de su mordisco contra su presa.
+  * **Tragar entero:** Los alosaurios pueden tragarse enteras presas de Tamaño +1 o inferiores. Mientras está dentro del estómago, el objetivo es agarrado según el libro de reglas básico y sufre 2d6 de daño por asalto debido a los jugos digestivos, hasta que se lo come o le corta el estómago. La armadura no ofrece protección.
+
+> Oficialmente en la novela de El mundo perdido no hay T-Rex, pero si sientes la necesidad de que tu campaña tenga T-Rexes, puedes usar las estadísticas de alosaurio.
+
+\saltopagina
+
+[![Dibujo de un estegosaurio](./assests/images/estegosaurio.jpg 'Encuentro con el Stegosaurus - Arthur Conan Doyle')](https://es.wikipedia.org/wiki/El_mundo_perdido#/media/Archivo:Page_59_(The_Lost_World._1912).jpg 'Encuentro con el Stegosaurus - Arthur Conan Doyle')
+
+### Estegosaurio
 * Herbívoro
 * Terrestre
-* 0x0 casillas
-
-xxx
-
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** xxx
-* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
-* **Ventajas:** xxx
-* **Desventajas:** xxx
-* **Capacidades especiales:**
-
-\saltopagina
-
-### Megalosaurio
-* Carnívoro
-* Terrestre
-* 0x0 casillas
-
-xxx
-
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** xxx
-* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
-* **Ventajas:** xxx
-* **Desventajas:** xxx
-* **Capacidades especiales:**
-
-\saltopagina
-
-### Plesiosaurio
-* Carnívoro
-* Acuático
 * 0x0 casillas
 
 xxx
@@ -505,9 +488,7 @@ xxx
 
 \saltopagina
 
-[![Dibujo de un estegosaurio](./assests/images/estegosaurio.jpg 'Encuentro con el Stegosaurus - Arthur Conan Doyle')](https://es.wikipedia.org/wiki/El_mundo_perdido#/media/Archivo:Page_59_(The_Lost_World._1912).jpg 'Encuentro con el Stegosaurus - Arthur Conan Doyle')
-
-### Estegosaurio
+### Iguanodon
 * Herbívoro
 * Terrestre
 * 0x0 casillas
@@ -520,6 +501,52 @@ xxx
 * **Ventajas:** xxx
 * **Desventajas:** xxx
 * **Capacidades especiales:**
+
+\saltopagina
+
+[![Boceto y recreación artística de un Megalosaurio](./assests/images/megalosaurio.jpg 'Megalosaurus por LadyofHats')](https://es.wikipedia.org/wiki/Megalosaurus_bucklandii#/media/Archivo:Megalosaurus_dinosaur.png 'Megalosaurus por LadyofHats')
+
+### Megalosaurio
+* Carnívoro
+* Terrestre
+* 0x0 casillas
+
+xxx
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** xxx
+* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+* **Ventajas:** xxx
+* **Desventajas:** xxx
+* **Capacidades especiales:**
+
+\saltopagina
+
+[![Boceto Plesiosaurus dolichodeirus](./assests/images/plesiosaurio.jpg 'Plesiosaurus dolichodeirus Creator:Dmitry Bogdanov')](https://es.wikipedia.org/wiki/Glyptodon#/media/Archivo:GLYPTODON.jpg 'Plesiosaurus dolichodeirus Creator:Dmitry Bogdanov')
+
+### Plesiosaurio
+* Carnívoro
+* Acuático
+* 0x0 casillas
+
+xxx
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** xxx
+* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+* **Ventajas:** xxx
+* **Desventajas:** xxx
+* **Capacidades especiales:**
+
+\saltopagina
+
+[![Escala Plesiosaurio](./assests/images/escala-plesiosaurio.png 'Plesiosaurus con un humano a escala. Abyssal leviathin')](https://es.wikipedia.org/wiki/Plesiosaurus#/media/Archivo:Plesioscale.png 'Plesiosaurus con un humano a escala. Abyssal leviathin')
+
+Un plesiosaurio adulto de talla media crece entre 3 a 5 metros de longitud y pesa entre 500 y 700 kg. 
+
+Su largo cuello mide más o menos la mitad de su cuerpo y lo usa como timón a la hora de nadar.
+
+Sus extremidades de un metro cada una formaban aletas alargadas, en forma de remo. 
 
 \saltopagina
 
@@ -550,37 +577,38 @@ xxx
 
 \saltopagina
 
-[![Dibujo de un nido alosaurios al que están robando los huevos](./assests/images/nido.jpg 'The Horrors of Thieving by FredtheDinosaurman')](https://www.deviantart.com/fredthedinosaurman/art/The-Horrors-of-Thieving-682621092 'The Horrors of Thieving by FredtheDinosaurman')
+## Otros animales y seres prehistóricos del Mundo Perdido:
+xxx
 
-### Alosaurio
-* Carnívoro
+### Cavernícola
+xxx
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Notar d4, Persuadir d4, Sigilo d4
+* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+* **Ventajas:** xxx
+* **Desventajas:** xxx
+* **Equipo:** xxx
+
+\saltopagina
+
+[![Foto artística de un Glyptodon](./assests/images/glyptodon.jpg 'Recreación artística de un Glyptodon - Luca Mendieta https://biopicturestudio.blogspot.com/')](https://es.wikipedia.org/wiki/Glyptodon#/media/Archivo:GLYPTODON.jpg 'Recreación artística de un Glyptodon - Luca Mendieta https://biopicturestudio.blogspot.com/')
+
+### Glyptodon
+* Herbívoro
 * Terrestre
-* 4x2 casillas
+* 0x0 casillas
 
 xxx
 
-\saltopagina
-
-* **Atributos:** Agilidad d6, Astucia d6 (A), Espíritu d12, Fuerza d12+6, Vigor d10
-* **Habilidades:** Intimidar d12, Notar d6, Pelear d8, Supervivencia d6
-* **Paso:** 8; **Parada:** 6; **Dureza:** 17(3)
-* **Ventajas:** Nervios de Acero Mejorados
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** xxx
+* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+* **Ventajas:** xxx
+* **Desventajas:** xxx
 * **Capacidades especiales:**
-  * **Armadura +3:** Piel escamosa y dura.
-  * **Mordisco:** FUE+d8.
-  * **Miedo -2:** Quien vea un poderoso alosaurio deberá hacer una tirada contra miedo con una penalización de -2.
-  * **Impávido:** Es inmune a las tiradas de miedo e Intimidar.
-  * **Grande:** +1 herida. Los enemigos de tamaño normal obtienen un +2 para atacar tiradas contra ellos.
-  * **Tamaño +6:** +6 a Dureza
-  * **Pisotón:** Daño FUE. El pisotón del alosaurio cuenta como arma pesada. Un enemigo pisoteado debe realizar una tirada opuesta de FUE contra el alosaurio para liberarse. Mientras el alosaurio no se mueva, continuará causando daño de FUE a la víctima en cada ronda (aunque normalmente la morderá hasta matarla una vez que la tenga atrapada), y obtiene un +2 al golpe y al daño de su mordisco contra su presa.
-  * **Tragar entero:** Los alosaurios pueden tragarse enteras presas de Tamaño +1 o inferiores. Mientras está dentro del estómago, el objetivo es agarrado según el libro de reglas básico y sufre 2d6 de daño por asalto debido a los jugos digestivos, hasta que se lo come o le corta el estómago. La armadura no ofrece protección.
-
-> Oficialmente en la novela de El mundo perdido no hay T-Rex, pero si sientes la necesidad de que tu campaña tenga T-Rexes, puedes usar las estadísticas de alosaurio.
 
 \saltopagina
-
-## Otros animales prehistóricos:
-xxx
 
 ### Megaloceros
 * Herbívoro
@@ -598,21 +626,15 @@ xxx
 
 \saltopagina
 
-[![Recreación artística de un Glyptodon](./assests/images/glyptodon.jpg 'Recreación artística de un Glyptodon - Luca Mendieta https://biopicturestudio.blogspot.com/')](https://es.wikipedia.org/wiki/Glyptodon#/media/Archivo:GLYPTODON.jpg 'Recreación artística de un Glyptodon - Luca Mendieta https://biopicturestudio.blogspot.com/')
-
-### Glyptodon
-* Herbívoro
-* Terrestre
-* 0x0 casillas
-
+### Pitecántropo
 xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** xxx
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
 * **Ventajas:** xxx
 * **Desventajas:** xxx
-* **Capacidades especiales:**
+* **Equipo:** xxx
 
 \saltopagina
 
@@ -685,10 +707,12 @@ Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a tra
 * [Portada "Parte 1: La isla de Skye"](https://pixabay.com/es/photos/isla-de-skye-escocia-gran-breta%C3%B1a-4415029/)
 * [Portada "Parte 2: Norte de África"](https://en.wikipedia.org/wiki/Siege_of_Tobruk#/media/File:Men_of_the_Leicestershire_Rgt._man_a_Bren_gun_near_Tobruk.jpg)
 * [Portada "Parte 3: Río de la plata"](https://upload.wikimedia.org/wikipedia/commons/c/ce/Graf_Spee_Wreck_USNphoto_1.jpg)
+* [Portada "Parte 5: La Francia Ocupada"](https://en.wikipedia.org/wiki/Battle_of_Saint-Malo#/media/File:Bomb_exploding_during_the_Battle_of_Saint-Malo_August_1944.jpg)
 * [Fondo portada y contraportada](https://pixabay.com/es/photos/papel-viejo-textura-pergamino-1074131/)
 * [Fondo páginas interiores](https://pixabay.com/es/illustrations/papertexture-textura-papel-2061710/)
 * [Sello Top Secret](https://pixabay.com/es/illustrations/ultra-secreto-confidencial-2054429/)
 * [Siluetas de dinosaurios](https://www.cleanpng.com/free/dinosaur-silhouette.html)
+* [Celo](https://www.freepik.com/free-vector/plastic-adhesive-duct-tape-set-with-transparent-background-realistic-images-with-pieces-sealing-tape-vector-illustration_132327926.htm)
 
 ## Música para las partidas
 Si necesitas música para ambientar tus partidas estás son algunas ideas

@@ -197,15 +197,8 @@ section p img:not(section:first-of-type img, section:nth-of-type(2) img, section
   box-shadow: -12px 17px 22px -8px #000;
 }
 
-section p img[alt^=Mapa]:not(section:first-of-type img, section:nth-of-type(2) img, section:last-of-type img),
-section p img[alt^=Foto]:not(section:first-of-type img, section:nth-of-type(2) img, section:last-of-type img) {
-  border: none;
-  box-shadow: -2px 15px 20px 0px #000;
-}
-
 section p:nth-of-type(even) img:not(section:first-of-type img, section:nth-of-type(2) img, section:last-of-type img) {
   rotate: -1deg;
-  box-shadow: none;
 }
 
 a:has(img) {
@@ -213,7 +206,10 @@ a:has(img) {
   display: block;
 }
 
-section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img):before {
+/* ------------- Clip --------------- */
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Dibujo]):before,
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Plano]):before,
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Imagen]):before {
   content: "";
   display: block;
   position: absolute;
@@ -226,8 +222,19 @@ section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type)
   z-index: 10;
 }
 
-section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p:nth-of-type(even) a:has(img):before,
-section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p:nth-of-type(even) a:has(img):after {
+/* ------------- Cinta adhesiva --------------- */
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a img[alt^=Boceto],
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a img[alt^=Atlas],
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a img[alt^=Ilustración] {
+  box-shadow: none;
+}
+
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Boceto]):before,
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Boceto]):after,
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Atlas]):before,
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Atlas]):after,
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Ilustración]):before,
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Ilustración]):after {
   content: "";
   display: block;
   position: absolute;
@@ -241,16 +248,28 @@ section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type)
   rotate: -21deg;
 }
 
-section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p:nth-of-type(even) a:has(img):after {
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Boceto]):after,
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Atlas]):after,
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Ilustración]):after
+ {
   rotate: -180deg;
   top: auto;
   left: auto;
   bottom: -52px;
   right: -44px;
 }
- 
+
+/* ------------- Grapas --------------- */
+section p img[alt^=Mapa]:not(section:first-of-type img, section:nth-of-type(2) img, section:last-of-type img),
+section p img[alt^=Foto]:not(section:first-of-type img, section:nth-of-type(2) img, section:last-of-type img),
+section p img[alt^=Esbozo]:not(section:first-of-type img, section:nth-of-type(2) img, section:last-of-type img) {
+  border: none;
+  box-shadow: -2px 15px 20px 0px #000;
+}
+
 section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Mapa]):before, 
-section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Foto]):before {
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Foto]):before, 
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Esbozo]):before {
   content: "";
   display: block;
   position: absolute;
@@ -265,7 +284,8 @@ section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type)
 }
 
 section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Mapa]):after,
-section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Foto]):after {
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Foto]):after,
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Esbozo]):after {
   content: "";
   display: block;
   position: absolute;
@@ -279,22 +299,30 @@ section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type)
   rotate: -11deg;
 }
 
+/* ----------- Escala -------------- */
+section p img[alt^=Escala]:not(section:first-of-type img, section:nth-of-type(2) img, section:last-of-type img) {
+  width: 50%;
+  float: left;
+  margin: 0 20px 20px 0;
+  border: none;
+  box-shadow: none;
+}
+
 @media (max-width: 500px) {
   section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img):before {
     width: 100px;
     height: 22px;
   }
 
-  section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p:nth-of-type(even) a:has(img):before,
-  section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p:nth-of-type(even) a:has(img):after {
+  section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Boceto]):before,
+  section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Boceto]):after {
     width: 173px;
     height: 46px;
   }
 
-  section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p:nth-of-type(even) a:has(img):after {
+  section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Boceto]):after {
     bottom: -23px;
   }
-
 }
 
 /* secciones */
@@ -313,6 +341,12 @@ section:nth-of-type(10) h1 {
 
 section:nth-of-type(11) h1 {
   background: #000 url(../images/rio-plata.jpg) center center no-repeat;
+  background-size: cover;
+  text-shadow: 0 0 20px black;
+}
+
+section:nth-of-type(13) h1 {
+  background: #000 url(../images/francia.jpg) center center no-repeat;
   background-size: cover;
   text-shadow: 0 0 20px black;
 }
