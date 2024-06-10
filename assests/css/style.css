@@ -327,9 +327,12 @@ section p img[alt^=Escala]:not(section:first-of-type img, section:nth-of-type(2)
 
 /* Tablas */
 table {
-  border-collapse: collapse;
+  /*border-collapse: collapse;*/
   box-sizing: border-box;
   margin-bottom: 20px;
+}
+p{
+  border-image: url(../images/borde-tabla.png) 5 5 space;
 }
 
 div:has(table){
@@ -339,7 +342,53 @@ table tr td,
 table tr th {
   font-family: "SpecialElite", system-ui;
   padding: 10px;
-  border: 2px solid #000; 
+  /*border: 2px solid #000;*/
+}
+
+table tr, table td, table th {
+  position: relative;
+}
+
+table tr:before {
+  content: "--------------------------------------------------------------------------------------------";
+  display: block;
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  font-size: 2em;
+  width: calc(100% + 10px);
+  height: 24px;
+  overflow: hidden;
+}
+
+table th:before,
+table td:before,
+table tr th:last-of-type:after,
+table tr td:last-of-type:after {
+  content: "|\A|\A|\A|\A|\A|\A|\A|\A|\A|\A|\A|";
+  display: block;
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  font-size: 1em;
+  width: 10px;
+  height: 100%;
+  overflow: hidden;
+  font-weight: 400;
+}
+
+table th:before {
+  left: -3px;
+}
+
+table tr td:last-of-type:after {
+  right: -10px;
+  left: auto;
+}
+
+table tr th:last-of-type:after {
+  right: -7px;
+  left: auto;
 }
 
 /* secciones */

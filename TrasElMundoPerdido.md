@@ -146,7 +146,7 @@ El comando que adquiere esta ventaja puede convertir a un dinosaurio con el que 
 Esta ventaja **sustituye a la ventaja Señor de las Bestias**. La ventaja Vinculo Animal solo serviría para dar benis a otros dinosaurios que no sean compañeros de ningún comando. 
 
 ## Vehículos
-xxx
+En esta tabla tenemos los vehículos típicos de las películas de la II Guerra Mundial como la BMW R-71, la moto con sidecar que persigue al camión donde escapa el comando, o Volkswagen Typ 82, en que vemos al general nazi moviéndose por el campo de batalla mientras lo conduce el espía inglés vestido de soldado alemán. 
 
 |VEHÍCULO|TAMAÑO|MANIOBRA.|VEL. MÁX.|DUREZA|TRIPULACIÓN|
 |--------|------|----|--|------|-----|

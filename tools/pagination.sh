@@ -40,6 +40,9 @@ echo "Creating latex file with just page numbers in it..."
 printf '\\documentclass[12pt, letterpaper]{article}\n'
 printf '\\usepackage{lastpage}\n'
 printf '\\usepackage{fancyhdr}\n'
+printf '\\usepackage[sfdefault]{roboto}\n'
+#printf '\\usepackage{ocr}\n'
+#printf '\\usepackage[T1]{fontenc}\n'
 printf '\\pagestyle{fancy}\n'
 printf '\\fancyhf{}\n'
 printf '\\renewcommand{\\headrulewidth}{0pt}\n'
@@ -47,7 +50,7 @@ printf '\\usepackage{multido}\n'
 printf '\\usepackage[hmargin=4.0cm,vmargin=0.5cm,nohead,nofoot]{geometry}\n'
 # Edit this line if desired to change formatting
 # printf '\\cfoot{Page \\thepage\\ of \\pageref{LastPage}}\n'
-printf '\\cfoot{- \\thepage\\ -}\n'
+printf '\\cfoot{| \\thepage\\ |}\n'
 printf '\\begin{document}\n'
 printf '\\multido{}{'
 printf "$NUM_PAGES"
