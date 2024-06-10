@@ -216,7 +216,9 @@ Este collar es una forma inhumana y cruel de entrenamiento y una forma de contro
 \saltopagina
 
 ### Plaustro
-Este carro de madera con estructura metálica está adaptado a las diferentes fisonomías de iguanodones y estogosaurios y permite transportar gran cantidad de material por terrenos dificiles. Puede adaptarse al lugar y por ejemplo tener skies para la nieve en vez de ruedas.
+Este carro de madera con estructura metálica está adaptado a las diferentes fisonomías de iguanodones y estogosaurios y permite transportar gran cantidad de material por terrenos difíciles. Puede adaptarse al lugar y por ejemplo tener skies para la nieve en vez de ruedas.
+
+> La capacidad de carga de un dinosaurio tirando de un plaustro se calcula como si su fuerza fuera x4, siempre que la carga vaya en el carro y esté medianamente equilibrada y bien colocada.
 
 ### Ropa de invierno
 Los dinosaurios tendrán que moverse en entornos muy fríos y, aunque de sangre caliente, necesitarán protecciones frente al clima extremadamente frío de lugares como Rusia o Noruega.
@@ -428,7 +430,7 @@ xxx
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
-* **Ventajas:** xxx
+* **Ventajas:** Soldado, xxx
 * **Desventajas:** xxx
 * **Equipo:** xxx
 
@@ -448,7 +450,7 @@ xxx
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
-* **Ventajas:** xxx
+* **Ventajas:** Soldado, xxx
 * **Desventajas:** xxx
 * **Equipo:** xxx
 
@@ -460,7 +462,7 @@ xxx
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
-* **Ventajas:** xxx
+* **Ventajas:** Soldado, xxx
 * **Desventajas:** xxx
 * **Equipo:** xxx
 
@@ -470,7 +472,7 @@ xxx
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
-* **Ventajas:** xxx
+* **Ventajas:** Soldado, xxx
 * **Desventajas:** xxx
 * **Equipo:** xxx
 
@@ -492,7 +494,7 @@ xxx
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
-* **Ventajas:** xxx
+* **Ventajas:** Soldado, xxx
 * **Desventajas:** xxx
 * **Equipo:** xxx
 
@@ -502,7 +504,7 @@ xxx
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
-* **Ventajas:** xxx
+* **Ventajas:** Soldado, xxx
 * **Desventajas:** xxx
 * **Equipo:** xxx
 
@@ -512,9 +514,62 @@ xxx
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
-* **Ventajas:** xxx
+* **Ventajas:** Soldado, xxx
 * **Desventajas:** xxx
 * **Equipo:** xxx
+
+\saltopagina
+
+### Menestral/a
+Estamos hablando de personas que tiene un oficio manual; desde la herrera del pueblo o el alfarero, hasta los tejedores o los albañiles y carpinteros. Son gente que sabe mucho de su trabajo, pero poco más. Hacen un buen trabajo, cobran por ello y tratan de sobrevivir. Puedes gastar un par de puntos de habilidad en especializarles.
+
+* **Atributos:** Agilidad d6, Astucia d6, Espíritu d4, Fuerza d6, Vigor d6
+* **Habilidades:** Atletismo d4, Ciencias d4, Conocimientos Generales d6, Idioma materno d6, Notar d4, Pelear d4, Reparar d8, Sigilo d4
+* **Paso:** 6; **Parada:** 4; **Dureza:** 5
+* **Ventajas:** Elige 1 o más: Mr. Arreglalotodo, Hombre de recursos
+* **Desventajas:** Elige 1 o más: Avaricioso (Mayor), Feo (Menor), Habito (Mayor, Alcoholismo), Pobreza (Menor)
+* **Equipo:** Cuchillo o una herramienta de su oficio (FUE+d4)
+
+### Mercader
+Vamos desde dependientes de tiendas hasta taberneros y toda la estructura de gente que trabaja en las empresas comerciales, desde almaceneros hasta los capataces. Puedes gastar un par de puntos de habilidad en especializarles.
+
+* **Atributos:** Agilidad d6, Astucia d8, Espíritu d6, Fuerza d6, Vigor d4
+* **Habilidades:** Atletismo d4, Ciencias d4, Conocimientos Generales d6, Idioma materno d6, Idioma extra d6, Notar d8, Pelear d4, Persuadir d6, Sigilo d4
+* **Paso:** 6; **Parada:** 4; **Dureza:** 4
+* **Desventajas:** Elige 1 o más: Avaricioso (Mayor), Bocazas (Menor), Cauto (Menor), Habito (Mayor, Alcoholismo)
+* **Ventajas:** Elige 1 o más: Intimidador, Callejear, Alcurnia, Rico
+* **Equipo:** Cuchillo (FUE+d4)
+
+### Burócrata
+Estamos hablando desde caros oficiales como alcalde/sa a las personas encargadas del registro, pasando por la gente que recauda los impuestos o chupatintas que están detrás de un mostrador en los juzgados.
+
+\saltopagina
+
+* **Atributos:** Agilidad d4, Astucia d6, Espíritu d6, Fuerza d4, Vigor d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales d6, Humanidades d6, Idioma materno d6, Notar d6, Pelear d4, Persuadir d6, Sigilo d4
+* **Paso:** 6; **Parada:** 4; **Dureza:** 4
+* **Desventajas:** Elige 1 o más: Avaricioso (Mayor), Bocazas (Menor), Habito (Menor)
+* **Ventajas:** Elige 1 o más: Alcurnia, Callejear, Responsable, Rico
+* **Equipo:** Cuchillo (FUE+d4) y objetos de burócrata como papel, pluma estilográfica o sellos oficiales
+
+### Artista
+Bailarines y bailarinas, actores y actrices, intérpretes musicales de cualquier tipo, comediantes, ...
+
+* **Atributos:** Agilidad d6, Astucia d6, Espíritu d8, Fuerza d6, Vigor d6
+* **Habilidades:** Atletismo d6, Conocimientos Generales d6, Humanidades d6, Idioma materno d8, Interpretación d8, Notar d6, Persuadir d6, Sigilo d4, Sigilo d4
+* **Paso:** 6; **Parada:** 4; **Dureza:** 5
+* **Desventajas:** Elegir 1: Hábito (menor alcohol, marihuana, etc.), Curioso, Cojo, Patoso
+* **Ventajas:** Elegir 1: Carismático, Famoso, Atractivo
+* **Equipo:** Ropas vistosas, instrumento musical, herramientas relacionadas con su arte
+
+### Delincuente de los bajos fondos
+Los oscuros callejones de las grandes ciudades están llenas de este tipo de personajes. Tenemos matones, descuideras, cortabolsas, timadores, ladronas, etc.
+
+* **Atributos:** Agilidad d6, Astucia d4, Espíritu d6, Fuerza d6, Vigor d6.
+* **Habilidades:** Atletismo d6, Conocimientos Generales d6, Disparar d4, Idioma materno d6, Intimidar d6, Latrocinio d6, Notar d6, Pelear d6, Sigilo d6
+* **Paso:** 6; **Parada:** 5; **Dureza:** 5
+* **Desventajas:** Buscado (Mayor, por robos), Elige 1 o más: Avaricioso (Mayor), Canalla (Menor), Cojo (Mayor), Feo (Menor), Habito (Mayor, Cocaina), Manco (Mayor), Mudo (Mayor)
+* **Equipo:** Cuchillo (FUE+d4)
 
 \saltopagina
 
@@ -546,9 +601,13 @@ xxx
   * **Pisotón:** Daño FUE. El pisotón del alosaurio cuenta como arma pesada. Un enemigo pisoteado debe realizar una tirada opuesta de FUE contra el alosaurio para liberarse. Mientras el alosaurio no se mueva, continuará causando daño de FUE a la víctima en cada ronda (aunque normalmente la morderá hasta matarla una vez que la tenga atrapada), y obtiene un +2 al golpe y al daño de su mordisco contra su presa.
   * **Tragar entero:** Los alosaurios pueden tragarse enteras presas de Tamaño +1 o inferiores. Mientras está dentro del estómago, el objetivo es agarrado según el libro de reglas básico y sufre 2d6 de daño por asalto debido a los jugos digestivos, hasta que se lo come o le corta el estómago. La armadura no ofrece protección.
 
-[![Escala Alosaurio](./assests/images/escala-aloosaurio.png 'Size comparison between the carnosaurian theropod dinosaur Allosaurus and a human. 	Dropzink')](https://es.wikipedia.org/wiki/Archivo:Human-allosaurus_size_comparison.png 'Size comparison between the carnosaurian theropod dinosaur Allosaurus and a human. 	Dropzink')
+[![Escala Alosaurio](./assests/images/escala-alosaurio.png 'Size comparison between the carnosaurian theropod dinosaur Allosaurus and a human. 	Dropzink')](https://es.wikipedia.org/wiki/Archivo:Human-allosaurus_size_comparison.png 'Size comparison between the carnosaurian theropod dinosaur Allosaurus and a human. 	Dropzink')
 
-> Oficialmente en la novela de El mundo perdido no hay T-Rex, pero si sientes la necesidad de que tu campaña tenga T-Rexes, puedes usar las estadísticas de alosaurio subiendole un punto al tamaño.
+Un alosaurio adulto de talla media crece hasta 12 metros de longitud de la cabeza a la punta de la cola y pesa entre 1.500 y 2.000 kg. Todo esto convierte a este cazador solitario en el mayor depredador de la tierra de Maple White.
+
+Sus potentes piernas también le convierten en el dinosaurio terrestre más rápido del Mundo perdido con una velocidad máxima de 55 km/h.
+
+> Oficialmente en la novela de El mundo perdido no hay T-Rex, pero si sientes la necesidad de que tu campaña tenga T-Rexes, puedes usar las estadísticas de alosaurio subiéndole un punto al tamaño.
 
 \saltopagina
 
