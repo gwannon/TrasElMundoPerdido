@@ -51,6 +51,13 @@ xxx
 ### Misiones de rescate
 xxx
 
+\saltopagina
+
+### Alimentación durante las misiones
+xxx
+
+> La regla general es que no hay problemas de alimentación para los carnívoros a no ser que la falta de comida sea parte de la aventura.
+
 ***
 
 # Reglamento especial para la campaña
@@ -62,29 +69,65 @@ xxx
 ### Arquetipos
 xxx
 
-### Agente de inteligencia
+#### Agente de inteligencia
 Estamos hablando de personas entrenadas en campos tan diversos como la encriptación y desencriptación de mensajes, telecomunicaciones, elaboración de perfiles, interrogatorio, creación y detección de documentos falsificados.
+
+* **Habilidades recomendadas:** xxx
+* **Ventajas recomendadas:** xxx
+* **Desventajas recomendadas:** xxx
 
 #### Comando
 xxx
 
+* **Habilidades recomendadas:** xxx
+* **Ventajas recomendadas:** xxx
+* **Desventajas recomendadas:** xxx
+
 #### Conductor/a
 xxx
+
+* **Habilidades recomendadas:** xxx
+* **Ventajas recomendadas:** xxx
+* **Desventajas recomendadas:** xxx
+
+\saltopagina
 
 #### Espía
 xxx
 
+* **Habilidades recomendadas:** xxx
+* **Ventajas recomendadas:** xxx
+* **Desventajas recomendadas:** xxx
+
 #### Ingeniera/o
 xxx
+
+* **Habilidades recomendadas:** xxx
+* **Ventajas recomendadas:** xxx
+* **Desventajas recomendadas:** xxx
 
 #### Paleontóloga/o
 xxx
 
+* **Habilidades recomendadas:** xxx
+* **Ventajas recomendadas:** xxx
+* **Desventajas recomendadas:** xxx
+
 #### Periodista
-xxx
+No solo hablamos de cronistas que lleven un diario de las operaciones y que mantengan un archivo fotográfico de las actividades del comando. También hablamos de gente de mundo que ha viajado mucho, habla varios idiomas y tiene contactos en todas partes de sus viajes como corresponsales por todo el mundo o varias guerras.
+
+Dentro de este arquetipo también se incluye a todo tipo de buscavidas que saben moverse por los bajos fondos y eludir a la ley para llegar al corazón de la noticia.
+
+* **Habilidades recomendadas:** xxx
+* **Ventajas recomendadas:** xxx
+* **Desventajas recomendadas:** xxx
 
 #### Veterinaria/o
 xxx
+
+* **Habilidades recomendadas:** xxx
+* **Ventajas recomendadas:** xxx
+* **Desventajas recomendadas:** xxx
 
 \saltopagina
 
@@ -96,11 +139,11 @@ Requisitos: Novato
 
 El comando que adquiere esta ventaja puede convertir a un dinosaurio con el que haya entrenado como su compañero. Esto le da una serie de ventajas:
 
-* El compañero dinosaurio se convierte en comodín con lo que tiene sus propios benis y su dado de héroe.
-* Por cada Rango que alcance el comando el compañero conseguirá un avance.
+* El **compañero dinosaurio se convierte en comodín** con lo que tiene sus propios benis y su dado de héroe.
+* Por **cada Rango que alcance el comando el compañero conseguirá un avance**. Si se coge esta ventaja siendo experimentado, el compañero tendrá derecho a dos avances por Novato y por Experimentado. Cuando alcance el rango de Veterano y siguientes tendrá derecho a un nuevo avance por cada nuevo rango.
 * El compañero animal no atacará al comando bajo ninguna circunstancia normal.
 
-Esta ventaja sustituye a la ventaja Señor de las Bestias. La ventaja Vinculo Animal solo serviría para dar benis a otros dinosaurios que no sean compañeros de ningún comando. 
+Esta ventaja **sustituye a la ventaja Señor de las Bestias**. La ventaja Vinculo Animal solo serviría para dar benis a otros dinosaurios que no sean compañeros de ningún comando. 
 
 ## Vehículos
 xxx
@@ -108,26 +151,30 @@ xxx
 |VEHÍCULO|TAMAÑO|MANIOBRA.|VEL. MÁX.|DUREZA|TRIPULACIÓN|
 |--------|------|----|--|------|-----|
 |Motocicleta BMW R-71|1 (Normal)|+1|125 km/h|8|1+1|
-|Motocicleta BMW R-71 con sidecar|1 (Normal)|+1|95 km/h|8|1+2|
+|Motocicleta BMW R-71 con sidecar|2 (Normal)|+1|95 km/h|8|1+2|
 |Jeep Willys MB|3|+1|95 km/h|14(3)|1+4|
 |VW Typ 82 "Kübelwagen"|3|+1|80km/h|13(3)|1+4|
 
 \saltopagina
 
-## Dinosaurios como vehículos
-xxx
+### Dinosaurios como vehículos
+Todos queremos ver persecuciones entre dinosaurios y motos nazis por una carretera de montaña de los Alpes o una carrera entre un alosaurio y unos "Kübelwagen", así que aquí tienes las estadísticas de diferentes dinosaurios como vehículos a la hora de hacer
 
 |VEHÍCULO|TAMAÑO|MANIOBRA.|VEL. MÁX.|DUREZA|TRIPULACIÓN|
 |--------|------|----|--|------|-----|
 |Alosaurio|xxx|xxx|xxx|55km/h|xxx|
-|Megalosaurio|xxx|xxx|xxx|xxx|xxx|
+|Estegosaurio|xxx|xxx|xxx|20km/h|xxx|
+|Iguanodon|xxx|xxx|xxx|25km/h|xxx|
+|Megalosaurio|xxx|xxx|xxx|50km/h|xxx|
 |Pterodactilo|xxx|xxx|xxx|95km/h|xxx|
-|Plesosaurio|xxx|xxx|xxx|xxx|xxx|
+|Plesiosaurio|xxx|xxx|xxx|40km/h|xxx|
+
+Recuerda que los dinosaurios son también parte tripulación del vehículo. Así pues, aparte de correr, pueden hacer otras acciones en la fase de XXX como atacar al enemigo, derribar árboles para cortar el camino a sus perseguidores, etc.
 
 ## Equipo especial
 xxx
 
-## Medidas desesperadas
+### Medidas desesperadas
 Dispositivos suicidas
 
 ## Equipo para dinosaurios
@@ -135,17 +182,17 @@ xxx
 
 \saltopagina
 
-### Sillas de montar
-xxx
-
 ### Armamento pesado
 xxx
 
-### Barda
+### Arnés acuatico
 xxx
+
+Viene con una red de nailon que permite portar hasta 10 kilos en objetos metidos en botes estancos.
 
 ### Arnés con cámara fotográfica 
 Este arnés con 1 o más cámaras fotográficas de alta precisión en el pecho se coloca a un pterodáctilo y permiten hacerse foto áreas de posiciones enemigas.
+
 > Las cámaras tienen una serie de temporizadores que establecen cuándo y cada cuánto tiempo sacar fotos. Para calcular esto se puede hacer una **tirada de Ciencias o de Supervivencia**. Cuanto mayor sea la tirada, más precisas serán las fotos.
 > Con un éxito conseguirán una descripción detallada del lugar y por cada avance podrán hacer dos preguntas para sacar información que pudiera saberse a través de fotografías áreas.
 
@@ -155,13 +202,26 @@ Este arnés con 1 o más cámaras fotográficas de alta precisión en el pecho s
 xxx
 > El pterodáctilo **no puede iniciar el vuelo con pasajeros desde el suelo**, debe **lanzarse desde por lo menos 20 metros de altura** para poder coger velocidad en la caída y remontar el vuelo.
 
-### Plaustro
+### Barda
 xxx
+
+### Collar de entrenamiento y mando de control
+Este collar lanza dolores descargas eléctricas al portador cuando se acciona el mando de control. El mando tiene una opción de descarga masiva tremendamente dolorosa que deja inconsciente al portador del collar, pero agota totalmente la batería del collar.
+
+Este collar es una forma inhumana y cruel de entrenamiento y una forma de control de dinosaurios rebeldes y solo debería ser usado por los nazis.
+
+> Cuando se usan las descargas normales, suponen un **-4 a cualquier acción que no sea la orden dada**.
+> En caso de usar una descarga masiva, la víctima deberá pasar una tirada de **VIG contra una potencia eléctrica de d12+2** o caerá **inconsciente durante d8 horas**.
+
+\saltopagina
+
+### Plaustro
+Este carro de madera con estructura metálica está adaptado a las diferentes fisonomías de iguanodones y estogosaurios y permite transportar gran cantidad de material por terrenos dificiles. Puede adaptarse al lugar y por ejemplo tener skies para la nieve en vez de ruedas.
 
 ### Ropa de invierno
 Los dinosaurios tendrán que moverse en entornos muy fríos y, aunque de sangre caliente, necesitarán protecciones frente al clima extremadamente frío de lugares como Rusia o Noruega.
 
-### Arnés acuatico
+### Sillas de montar
 xxx
 
 ***
@@ -188,7 +248,6 @@ Todos estos eventos les obligarán a empezar una carrera contra los nazis por ll
 La aventura acabará en la Selva Negra donde tu comando deberá tomar un castillo inexpugnable y desbaratar los planes de crear un arma terrible con un descubrimiento que han hecho en el Mundo Perdido.
 
 xxx
-
 
 \saltopagina
 
@@ -752,10 +811,12 @@ Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a tra
 * [Celo](https://www.freepik.com/free-vector/plastic-adhesive-duct-tape-set-with-transparent-background-realistic-images-with-pieces-sealing-tape-vector-illustration_132327926.htm)
 
 ## Música para las partidas
-Si necesitas música para ambientar tus partidas estás son algunas ideas
+Si necesitas música para ambientar tus partidas estás son algunas ideas:
 
-* BSO de La gran evasión
-* xxx
+* BSO de **La gran evasión**: Perfecta para darle un tono épico y otras veces desenfadado. Si tu comando es un viejuner seguramente entrarán en ambiente con los primeros compases.
+* BSO de **Violentos de Kelly**: Si quieres un toque más desenfadado a tus aventuras, tiene el punto perfecto.
+* BSO de **Cañones de Navarone**: Otra buena opción para música épica.
+* BSO de **Adiós al rey**: Esta joya de Basil Poleoduris es idónea para momento trágico aunque el sonido de flautas a veces no pegue.
 
 ***
 
