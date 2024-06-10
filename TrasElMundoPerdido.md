@@ -64,29 +64,33 @@ xxx
 xxx
 
 ## Creación de personajes
-xxx
+Hay una serie de reglas en esta campaña que modifican las normas generales de creación de personajes. No son muchas, ni muy complicadas, pero tienen su sentido. Veámoslas:
+
+* No existen las habilidades arcanas como Fe, Hechicería o Psiónica.
+* No existe la habilidad Ordenadores. Electrónica cubre todo tipo de aparatos electrónicos con capacidades computacionales.
+* xxx
 
 ### Arquetipos
-xxx
+Aquí tienes algunos conceptos sobre los que construir tu PJ.
 
 #### Agente de inteligencia
 Estamos hablando de personas entrenadas en campos tan diversos como la encriptación y desencriptación de mensajes, telecomunicaciones, elaboración de perfiles, interrogatorio, creación y detección de documentos falsificados.
 
-* **Habilidades recomendadas:** xxx
+* **Habilidades recomendadas:** xxx, Latrocinio, Tácticas
 * **Ventajas recomendadas:** xxx
 * **Desventajas recomendadas:** xxx
 
 #### Comando
 xxx
 
-* **Habilidades recomendadas:** xxx
+* **Habilidades recomendadas:** Atletismo, Disparar, Pelear
 * **Ventajas recomendadas:** xxx
 * **Desventajas recomendadas:** xxx
 
 #### Conductor/a
 xxx
 
-* **Habilidades recomendadas:** xxx
+* **Habilidades recomendadas:** Conducir, Disparar, Reparar
 * **Ventajas recomendadas:** xxx
 * **Desventajas recomendadas:** xxx
 
@@ -99,10 +103,17 @@ xxx
 * **Ventajas recomendadas:** xxx
 * **Desventajas recomendadas:** xxx
 
+#### Explorador
+xxx
+
+* **Habilidades recomendadas:** Atletismo, Notar, Supervivencia
+* **Ventajas recomendadas:** xxx
+* **Desventajas recomendadas:** xxx
+
 #### Ingeniera/o
 xxx
 
-* **Habilidades recomendadas:** xxx
+* **Habilidades recomendadas:** Ciencias, Reparar, xxx
 * **Ventajas recomendadas:** xxx
 * **Desventajas recomendadas:** xxx
 
@@ -118,9 +129,11 @@ No solo hablamos de cronistas que lleven un diario de las operaciones y que mant
 
 Dentro de este arquetipo también se incluye a todo tipo de buscavidas que saben moverse por los bajos fondos y eludir a la ley para llegar al corazón de la noticia.
 
-* **Habilidades recomendadas:** xxx
+* **Habilidades recomendadas:** Investigar, Notar, Idiomas
 * **Ventajas recomendadas:** xxx
 * **Desventajas recomendadas:** xxx
+
+\saltopagina
 
 #### Veterinaria/o
 xxx
@@ -134,8 +147,8 @@ xxx
 ## Reglas especiales
 xxx
 
-## Nueva ventaja: Compañero dinosaurio
-Requisitos: Novato
+### Nueva ventaja: Compañero dinosaurio
+**Requisitos:** Novato
 
 El comando que adquiere esta ventaja puede convertir a un dinosaurio con el que haya entrenado como su compañero. Esto le da una serie de ventajas:
 
@@ -166,7 +179,7 @@ Todos queremos ver persecuciones entre dinosaurios y motos nazis por una carrete
 |Estegosaurio|xxx|xxx|xxx|20km/h|xxx|
 |Iguanodon|xxx|xxx|xxx|25km/h|xxx|
 |Megalosaurio|xxx|xxx|xxx|50km/h|xxx|
-|Pterodactilo|xxx|xxx|xxx|95km/h|xxx|
+|Pterodáctilo|xxx|xxx|xxx|95km/h|xxx|
 |Plesiosaurio|xxx|xxx|xxx|40km/h|xxx|
 
 Recuerda que los dinosaurios son también parte tripulación del vehículo. Así pues, aparte de correr, pueden hacer otras acciones en la fase de XXX como atacar al enemigo, derribar árboles para cortar el camino a sus perseguidores, etc.
@@ -185,7 +198,7 @@ xxx
 ### Armamento pesado
 xxx
 
-### Arnés acuatico
+### Arnés acuático
 xxx
 
 Viene con una red de nailon que permite portar hasta 10 kilos en objetos metidos en botes estancos.
@@ -585,6 +598,8 @@ xxx
 
 xxx
 
+> Oficialmente en la novela de El mundo perdido no hay T-Rex, pero si sientes la necesidad de que tu campaña tenga T-Rexes, puedes usar las estadísticas de alosaurio subiéndole un punto al tamaño.
+
 \saltopagina
 
 * **Atributos:** Agilidad d6, Astucia d6 (A), Espíritu d12, Fuerza d12+6, Vigor d10
@@ -606,8 +621,6 @@ xxx
 Un alosaurio adulto de talla media crece hasta 12 metros de longitud de la cabeza a la punta de la cola y pesa entre 1.500 y 2.000 kg. Todo esto convierte a este cazador solitario en el mayor depredador de la tierra de Maple White.
 
 Sus potentes piernas también le convierten en el dinosaurio terrestre más rápido del Mundo perdido con una velocidad máxima de 55 km/h.
-
-> Oficialmente en la novela de El mundo perdido no hay T-Rex, pero si sientes la necesidad de que tu campaña tenga T-Rexes, puedes usar las estadísticas de alosaurio subiéndole un punto al tamaño.
 
 \saltopagina
 
@@ -726,7 +739,6 @@ xxx
   * **Picotazo/Garras:** FUE+d6.
   * **Volar:** Los pterodáctilos tienen un paso de volando de 12 (solo 4 en la primera ronda, porque sus enormes cuerpos les dificultan volar inicialmente). Tienen una subida de -1.
   * **Ataque volador:** Cuando el pterodáctilo vuela a toda velocidad, puede realizar un ataque volador, obteniendo un +2 al daño. Si consigue un avance en su tirada de ataque cuando vuela contra un humano o un oponente de menor tamaño, lo atrapa y se lo lleva, probablemente a su nido.
-
   * **Tamaño +2:** xxx
   * **Lento:** En el suelo solo tiene Paso 4 y no puede correr.
 
