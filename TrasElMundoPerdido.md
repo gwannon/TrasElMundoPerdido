@@ -546,7 +546,9 @@ xxx
   * **Pisotón:** Daño FUE. El pisotón del alosaurio cuenta como arma pesada. Un enemigo pisoteado debe realizar una tirada opuesta de FUE contra el alosaurio para liberarse. Mientras el alosaurio no se mueva, continuará causando daño de FUE a la víctima en cada ronda (aunque normalmente la morderá hasta matarla una vez que la tenga atrapada), y obtiene un +2 al golpe y al daño de su mordisco contra su presa.
   * **Tragar entero:** Los alosaurios pueden tragarse enteras presas de Tamaño +1 o inferiores. Mientras está dentro del estómago, el objetivo es agarrado según el libro de reglas básico y sufre 2d6 de daño por asalto debido a los jugos digestivos, hasta que se lo come o le corta el estómago. La armadura no ofrece protección.
 
-> Oficialmente en la novela de El mundo perdido no hay T-Rex, pero si sientes la necesidad de que tu campaña tenga T-Rexes, puedes usar las estadísticas de alosaurio.
+[![Escala Alosaurio](./assests/images/escala-aloosaurio.png 'Size comparison between the carnosaurian theropod dinosaur Allosaurus and a human. 	Dropzink')](https://es.wikipedia.org/wiki/Archivo:Human-allosaurus_size_comparison.png 'Size comparison between the carnosaurian theropod dinosaur Allosaurus and a human. 	Dropzink')
+
+> Oficialmente en la novela de El mundo perdido no hay T-Rex, pero si sientes la necesidad de que tu campaña tenga T-Rexes, puedes usar las estadísticas de alosaurio subiendole un punto al tamaño.
 
 \saltopagina
 
