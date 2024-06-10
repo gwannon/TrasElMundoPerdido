@@ -396,6 +396,7 @@ section:first-of-type > div > h1 {
   rotate: 2deg;
   position:º relative;
 }
+
 @media (min-width: 600px) {
   section:first-of-type > div > h1 {
     font-size: 4em;
