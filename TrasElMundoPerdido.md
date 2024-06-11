@@ -92,7 +92,8 @@ En este apartado encontrarás toda una serie de reglas que modifican las reglas 
 ## Creación de personajes
 Hay una serie de reglas en esta campaña que modifican las normas generales de creación de personajes. No son muchas, ni muy complicadas, pero tienen su sentido. Veámoslas:
 
-* **No existen** las habilidades arcanas como **Fe, Hechicería o Psiónica**.
+* No se pueden coger Trasfondos arcanos, las Ventajas de poder, la Resistencia Arcana y Voluntad de Hierro.
+* **No existen** las habilidades arcanas como **Fe, Hechicería o Psiónica** y tampoco las ventajas que pidan esas habilidades como Inventor.
 * No hay elementos paranormales en la aventura con lo que el **Ocultismo se engloba en Humanidades** dentro de ciencias sociales como Historia, Teología, Antropología, etc.
 * **No existe la habilidad Ordenadores.** Electrónica cubre todo tipo de aparatos electrónicos con capacidades computacionales.
 * Nuevas Ventajas: Compañero dinosaurio
@@ -101,19 +102,19 @@ Hay una serie de reglas en esta campaña que modifican las normas generales de c
 Aquí tienes algunos conceptos sobre los que construir tu PJ.
 
 #### Agente de inteligencia
-Estamos hablando de personas entrenadas en campos tan diversos como la encriptación y desencriptación de mensajes, telecomunicaciones, elaboración de perfiles, interrogatorio, creación y detección de documentos falsificados.
+Estamos hablando de personas entrenadas en campos tan diversos como la encriptación y desencriptación de mensajes, elaboración de perfiles, interrogatorio, creación y detección de documentos falsificados.
 
-* **Habilidades recomendadas:** xxx, Latrocinio y Tácticas
-* **Ventajas recomendadas:** xxx, xxx y xxx
-* **Desventajas recomendadas:** xxx, xxx y xxx
+* **Habilidades recomendadas:** Persuadir/Intimidar, Investigar y Latrocinio
+* **Ventajas recomendadas:** Conexiones, Investigador/a y Lingüista
+* **Desventajas recomendadas:** Apocado/a, Despistado/a y Leal
 
 #### Comando
 Hablamos de personas especializadas algún tipo de combate y normalmente con buenas capacidades atléticas y de infiltración.
 Pueden ser estar especializados en combate cuerpo a cuerpo, armas de fuego a cierta y larga distancia, demoliciones, artillería.
 
 * **Habilidades recomendadas:** Atletismo, Disparar/Pelear, Sigilo
-* **Ventajas recomendadas:** xxx, xxx y xxx
-* **Desventajas recomendadas:** xxx, xxx y xxx
+* **Ventajas recomendadas:** Alerta, Bloqueo/Esquiva y Nervios de acero
+* **Desventajas recomendadas:** Impulsivo/a, Sanguinario/a y Vengativo/a
 
 \saltopagina
 
@@ -121,30 +122,30 @@ Pueden ser estar especializados en combate cuerpo a cuerpo, armas de fuego a cie
 En este caso nos referimos a toda esa gente capaz hacer auténticas acrobacias con cualquier tipo de vehículo y que además saben repararlos y modificarlos para poder llevar a cabo sus misiones.
 
 * **Habilidades recomendadas:** Atletismo, Conducir/Navegar/Pilotar y Reparar
-* **Ventajas recomendadas:** xxx, xxx y xxx
-* **Desventajas recomendadas:** xxx, xxx y xxx
+* **Ventajas recomendadas:** As, Manos firmes y Mr. Arreglalotodo
+* **Desventajas recomendadas:** Cauto/a, Exceso de confianza e Impulsivo/a
 
 #### Espía
 Espía engloba un amplio espectro de habilidades y capacidades. Hablamos de personas carismáticas y seductoras, con grandes dotes para la persuasión y para sacar información.
 
 * **Habilidades recomendadas:** Intimidar, Notar y Persuadir
-* **Ventajas recomendadas:** Carismático, xxx y xxx
-* **Desventajas recomendadas:** xxx, xxx y xxx
+* **Ventajas recomendadas:** Atractivo/a, Carismático/a y Sentir el peligro
+* **Desventajas recomendadas:** Arrogante, Código de honor y Enemigo
 
 #### Explorador/a
 Estás personas saben moverse en la naturaleza como pez en el agua, conseguir agua, comida, refugio y fuego es sencillo para ellos incluso en el lugar más extremo. Además saben seguir rastros y orientarse son perderse.
 Normalmente prefieren la compañía de los animales a las de las personas y seguro que tienen sus razones.
 
 * **Habilidades recomendadas:** Atletismo, Cabalgar, Supervivencia
-* **Ventajas recomendadas:** Vínculo animal, xxx y xxx
-* **Desventajas recomendadas:** xxx, xxx y xxx
+* **Ventajas recomendadas:** Leñador/a, Soldado y Vínculo animal
+* **Desventajas recomendadas:** Fobia, Impulsivo y Mal nadador
 
 #### Ingeniera/o
 No hablamos de la típica cerebrita de laboratorio o del ratón de biblioteca. Hablamos de agentes de campo capaces de reparar y modificar cualquier ingenio mecánico o electrónico con escasos recursos y en tiempo récord.
 
 * **Habilidades recomendadas:** Ciencias, Electrónica y Reparar
-* **Ventajas recomendadas:** Inventor, Mr. Arreglalotodo, xxx
-* **Desventajas recomendadas:** xxx, xxx y xxx
+* **Ventajas recomendadas:** Erudito/a, McGyver y Mr. Arreglalotodo
+* **Desventajas recomendadas:** Apocado/a, Despistado/a y Tozudo/a
 
 #### Paleontóloga/o
 La paleontología es la rama de la ciencia que estudia entre más cosas los dinosaurios, así que se puede decir que son las personas que más saben sobre estos titanes que dominaron la tierra hace millones de años.
@@ -152,8 +153,8 @@ La paleontología es la rama de la ciencia que estudia entre más cosas los dino
 \saltopagina
 
 * **Habilidades recomendadas:** Ciencias, Humanidades e Investigar
-* **Ventajas recomendadas:** xxx, xxx y xxx
-* **Desventajas recomendadas:** xxx, xxx y xxx
+* **Ventajas recomendadas:** Erudito, Hombre/Mujer de recursos e Investigador
+* **Desventajas recomendadas:** Apacible, Obsesión y Patoso
 
 #### Periodista
 No solo hablamos de cronistas que lleven un diario de las operaciones y que mantengan un archivo fotográfico de las actividades del comando. También hablamos de gente de mundo que ha viajado mucho, habla varios idiomas y tiene contactos en todas partes de sus viajes como corresponsales por todo el mundo o varias guerras.
@@ -161,15 +162,15 @@ No solo hablamos de cronistas que lleven un diario de las operaciones y que mant
 Dentro de este arquetipo también se incluye a todo tipo de buscavidas que saben moverse por los bajos fondos y eludir a la ley para llegar al corazón de la noticia.
 
 * **Habilidades recomendadas:** Investigar, Notar e Idiomas
-* **Ventajas recomendadas:** xxx, xxx y xxx
-* **Desventajas recomendadas:** xxx, xxx y xxx
+* **Ventajas recomendadas:** Conexiones, Investigador/a y Lingüista
+* **Desventajas recomendadas:** Curioso, Manazas y Obsesión
 
 #### Remiendatajos
 Este arquetipo refleja un amplio grupo de profesionales de la medicina y veterinaria capaces de curar y remendar todo tipo de golpes y heridas en humanos y bestias.
 
-* **Habilidades recomendadas:** Medicina, xxx y xxx
-* **Ventajas recomendadas:** xxx, xxx y xxx
-* **Desventajas recomendadas:** xxx, xxx y xxx
+* **Habilidades recomendadas:** Ciencias, Conducir y Medicina
+* **Ventajas recomendadas:** Curandero, McGyver y Osado
+* **Desventajas recomendadas:** Bocazas, Despistado y Exceso de confianza
 
 \saltopagina
 
@@ -278,12 +279,18 @@ Este carro de madera con estructura metálica está adaptado a las diferentes fi
 ### Ropa de invierno
 Los dinosaurios tendrán que moverse en entornos muy fríos y, aunque de sangre caliente, necesitarán protecciones frente al clima extremadamente frío de lugares como Rusia o Noruega.
 
-### Sillas de montar
-xxx
+### Silla de montar y arreos
+A priori, las sillas de montar para dinosaurios son básicamente sillas de montar a caballo. Tienen los mismos elementos pero adaptados a la fisonomía del saurio.
+Cada silla de montar está modificada para cada especie de saurio y no pueden intercambiarse, excepto la del megalosaurio y el alosario que son casi iguales de forma y tamaño.
+
+> Modificar una silla para ser usada en un dinosaurio para la que no fue diseñado exige tener un taller con herramientas adecuado y pasar una tirada de Reparar. Todo el proceso lleva 3 horas más la diferencia de tamaño entre las dos especies. 
+> Se puede cabalgar sin silla pero supone un -2 a la tirada de Cabalgar si es un compañero saurio y un -4 si no lo es.
 
 ***
 
 # Estructura de la campaña
+
+## Resumen
 La campaña tiene una estructura clásica que permitirá a tu comando moverse por diferentes escenarios de la II Guerra Mundial corriendo aventuras y descubriendo una serie de pistas que les llevará a volver al Mundo Perdido en el Amazonas venezolano y finalmente a un castillo en mitad de la selva Negra.
 
 La campaña comienza en la isla de Skye donde tu comando aprenderá a trabajar con sus compañeros saurios. Una vez completado el entrenamiento tendrán su primera misión en el canal de la Mancha y si pasan su bautismo de fuego, podrán moverse a diferentes escenarios de guerra:

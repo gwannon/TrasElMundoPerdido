@@ -49,6 +49,7 @@ sudo apt-get install texlive-fonts-extra
 # Changelog
 
 ## Versión 0.2 en desarrollo
+* Arquetipos terminados
 * "Epilogo" terminado.
 
 ## Versión 0.1 08/06/2024
