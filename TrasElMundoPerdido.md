@@ -33,6 +33,20 @@ La fundación Roxton tienes unos recursos increíbles, ya que se ha dedicado dur
 # ¡¡¡Dinosaurios!!!
 xxx
 
+## Día a día de los dinosaurios
+xxx
+
+### Las instalaciones de la Fundación Roxton
+xxx
+
+### Las instalaciones del "Mary Anning"
+xxx
+
+#### La esclusa de los plesiosaurios
+xxx
+
+\saltopagina
+
 ## Dinosaurios en misiones
 xxx
 
@@ -58,18 +72,30 @@ xxx
 
 > La regla general es que no hay problemas de alimentación para los carnívoros a no ser que la falta de comida sea parte de la aventura.
 
+## Mantener en secreto a los dinosaurios
+xxx
+
+### Aliados
+xxx
+
+### Nazis
+xxx
+
+### Opinión pública
+xxx
+
 ***
 
 # Reglamento especial para la campaña
-xxx
+En este apartado encontrarás toda una serie de reglas que modifican las reglas generales de Savage Worlds Edición Aventura. También encontrarás equipo nuevo específico de esta campaña y reglas para llevar dinosaurios como compañeros de tus comandos. 
 
 ## Creación de personajes
 Hay una serie de reglas en esta campaña que modifican las normas generales de creación de personajes. No son muchas, ni muy complicadas, pero tienen su sentido. Veámoslas:
 
-* No existen las habilidades arcanas como Fe, Hechicería o Psiónica.
-* No hay elementos paranormales en la aventura con lo que el Ocultismo podría englobarse en Humanidades dentro de ciencias sociales como Historia, Teología, Antropología, etc.
-* No existe la habilidad Ordenadores. Electrónica cubre todo tipo de aparatos electrónicos con capacidades computacionales.
-* xxx
+* **No existen** las habilidades arcanas como **Fe, Hechicería o Psiónica**.
+* No hay elementos paranormales en la aventura con lo que el **Ocultismo se engloba en Humanidades** dentro de ciencias sociales como Historia, Teología, Antropología, etc.
+* **No existe la habilidad Ordenadores.** Electrónica cubre todo tipo de aparatos electrónicos con capacidades computacionales.
+* Nuevas Ventajas: Compañero dinosaurio
 
 ### Arquetipos
 Aquí tienes algunos conceptos sobre los que construir tu PJ.
@@ -155,11 +181,15 @@ En este apartado encontrarás nuevas reglas, ventajas y desventajas aplicables a
 
 El comando que adquiere esta ventaja puede convertir a un dinosaurio con el que haya entrenado como su compañero. Esto le da una serie de ventajas:
 
+* Lo primero será darle nombre
 * El **compañero dinosaurio se convierte en comodín** con lo que tiene sus propios benis y su dado de héroe.
 * Por **cada Rango que alcance el comando el compañero conseguirá un avance**. Si se coge esta ventaja siendo experimentado, el compañero tendrá derecho a dos avances por Novato y por Experimentado. Cuando alcance el rango de Veterano y siguientes tendrá derecho a un nuevo avance por cada nuevo rango.
+* Habrá que ponerle algún tipo de desventaja mental o física que marque su carácter como Tozudo, Curioso, etc.
 * El compañero animal no atacará al comando bajo ninguna circunstancia normal.
 
 Esta ventaja **sustituye a la ventaja Señor de las Bestias**. La ventaja Vinculo Animal solo serviría para dar benis a otros dinosaurios que no sean compañeros de ningún comando. 
+
+\saltopagina
 
 ## Vehículos
 En esta tabla tenemos los vehículos típicos de las películas de la II Guerra Mundial como la BMW R-71, la moto con sidecar que persigue al camión donde escapa el comando, o Volkswagen Typ 82, en que vemos al general nazi moviéndose por el campo de batalla mientras lo conduce el espía inglés vestido de soldado alemán. 
@@ -171,10 +201,9 @@ En esta tabla tenemos los vehículos típicos de las películas de la II Guerra 
 |Jeep Willys MB|3|+1|95 km/h|14(3)|1+4|
 |VW Typ 82 "Kübelwagen"|3|+1|80km/h|13(3)|1+4|
 
-\saltopagina
-
 ### Dinosaurios como vehículos
-Todos queremos ver persecuciones entre dinosaurios y motos nazis por una carretera de montaña de los Alpes o una carrera entre un alosaurio y unos "Kübelwagen", así que aquí tienes las estadísticas de diferentes dinosaurios como vehículos a la hora de hacer
+Todos queremos ver persecuciones entre dinosaurios y motos nazis por una carretera de montaña de los Alpes o una carrera entre un alosaurio y unos "Kübelwagen"
+por las abarrotadas calles del zoco de Marrakech, así que aquí tienes las estadísticas de diferentes dinosaurios como vehículos a la hora de hacer persecuciones.
 
 |VEHÍCULO|TAMAÑO|MANIOBRA.|VEL. MÁX.|DUREZA|TRIPULACIÓN|
 |--------|------|----|--|------|-----|
@@ -187,11 +216,20 @@ Todos queremos ver persecuciones entre dinosaurios y motos nazis por una carrete
 
 Recuerda que los dinosaurios son también parte tripulación del vehículo. Así pues, aparte de correr, pueden hacer otras acciones en la fase de XXX como atacar al enemigo, derribar árboles para cortar el camino a sus perseguidores, etc.
 
+\saltopagina
+
 ## Equipo especial
-xxx
+Operación: Tras el Mundo Perdido tiene equipamiento especial tanto para tus comandos como para los dinosaurios. Este equipamiento no tiene precio, ya que no puede ser conseguido en tiendas legalmente o en los bajos fondos ilegalmente. Normalmente son cosas que la fundación Roxton entregará a tus comandos para que los use en sus misiones y recogerá de nuevo al terminarlas.
+
+Un artesano/ingeniero diestro podría replicar alguno de estos objetos con los materiales, las herramientas y los planos y especificaciones adecuadas.
 
 ### Medidas desesperadas
-Dispositivos suicidas
+Estos dispositivos letales en forma de cápsula permiten al comando suicidarse en caso de que vaya a caer en manos de los nazis.
+xxx
+**Recuerda:** Este dispositivo es totalmente opcional y es casi más para PNJ que para PJ. Es una forma de darle dramatismo a la muerte de ciertas personas. Si crees que no es adecuado para tu mesa puedes eliminarlo de tus partidas o aplicar las velos y herramientas de seguridad que creas necesarias. Te recordamos que es suicidio es un tema complicado que deberías tratar con la mayor madurez.
+
+### Radio de campaña
+xxx
 
 ## Equipo para dinosaurios
 xxx
@@ -435,6 +473,9 @@ xxx
 xxx
 
 ### Edward Malone
+xxx
+
+### Dolores xxx, capitana del "Mary Anning"
 xxx
 
 ## Antagonistas
@@ -834,33 +875,38 @@ xxx
 # Epílogo
 
 ## Notas del autor
-xxx
+Seguramente nadie llegue a leer este apartado, pero aquí os dejo información, ideas y consejos sobre esta campaña que os podrán ser de ayuda.
 
 ### ¿Por qué Savage Worlds?
 Simplemente, porque me encanta Savage Worlds, es uno de los sistemas genéricos de juegos de rol con el que más cómodo me siento. Si voy a meterle muchas horas a esta campaña quiero hacerlo con un RPG que me sea fácil y familiar.
 
-### Influencias
-xxx
+### ¿Por qué dinosaurios contra nazis?
+Toda esta campaña es principalmente producto de mi gusto por los cross-over en diferentes géneros. Puede parecer increíble, pero es una mezcla entre mi gusto por películas bélicas como La gran evasión, Los cañones de Navarone o El desafío de las águilas y querer poder meter algo parecido a Pokémon pero sin derechos. Es por ello que escogí dinosaurios, que tienen un rollo Pokémon. Son criaturas "fantásticas" con capacidades muy especiales que no tienen el resto de seres vivos. 
+Y sinceramente porque los dinosaurios molan.
 
 ### Maltrato animal
-xxx
+Estoy totalmente en contra del maltrato animal y espero que las personas que vayan a jugar esta campaña sientan el mismo respeto que yo por los animales y el medio ambiente en general. MI idea al crear esta campaña es que los dinosaurios fueran personajes importantes en la trama que luchen y sufran como los PJ y que se haga lo que sea necesario para protegerlos y viceversa. La muerte de un dinosaurio no puede ser algo banal debe tener una justificación y ser importante en una trama.
+Si en tu mesa se usan a los compañeros dinosaurios como objetos de usar tirar y donde no importa si sufren o mueren, tómatelo como una tremenda "red flag".   
 
 ### Suicidio
-xxx
-
-### Fascismo y nazismo
-Esta campaña va de joder los malvados planes de los nazis, así que cualquier tipo de actividad en partida que suponga simpatizar con nazis y fascistas y su ideología debería ser una "red flag" clarísima. Si tus compañeros y compañeras de mesa, ensalzan de alguna manera las ideas de nazis y fascistas deberías levantarte e irte y si eres tú el o la que las ensalza eres un pedazo de mierda. 
-
-### Veracidad histórica
-xxx
-
+El suicidio es un tema tratado, aunque sea un poco de pasada, en esta campaña. Es un tema espinoso que no debemos tomarlo a la ligera. Es por ello que creo que 
+ser cuidadoso a la hora de mostrarlo o eliminarlo si crees que no tu mesa no está preparado. Como decimos más adelante establece si lo ves necesarios los velos y las herramientas de seguridad necesarias para tratarlo.
+ 
 \saltopagina
 
-### ¿Puedo hacer con esta ambientación lo quiera?
+### Fascismo y nazismo
+Esta campaña va de joder los malvados planes de los nazis, así que cualquier tipo de actividad en partida que suponga simpatizar con nazis y fascistas y su ideología debería ser una "red flag" clarísima. Si tus compañeros y compañeras de mesa, ensalzan de alguna manera las ideas de nazis y fascistas deberías levantarte e irte y si eres tú, él o la que las ensalza que sepas que eres un pedazo de mierda. 
+
+### Veracidad histórica
+Ninguna, ya que para empezar hay dinosaurios. Esta campaña está más cerca del pulp y de las películas de evasiones y misiones imposibles de la II Guerra Mundial que de los hechos históricos. La veracidad ha sido sacrificada en pos de la aventura. Por ejemplo, se busca más que haya un épico combate a puñetazos sobre la superficie de un zepelín al hecho de estos cayeron en desuso antes de empezar la guerra.  
+
+### ¿Puedo hacer lo quiera con esta campaña?
 Sí, puedes. Con referenciarla puedes hacer lo que quieras. Si te gusta como se tratan la II Guerra Mundial, olvídate de los dinosaurios y juega una aventura de comandos. O puedes usar las estadísticas de los dinosaurios y hacer una aventura en el Mundo Perdido.
 
 ### Define los velos y herramientas de seguridad
 > Antes de iniciar la aventura, todos los miembros de la mesa debéis definir las herramientas de seguridad que queráis utilizar y los temas o escenas que deben evitarse durante la partida para que nadie se sienta incómodo durante la sesión de juego. Podéis escoger los elementos que no queráis incluir durante la partida previamente o podéis utilizar un mecanismo de seguridad cuando estos aparezcan.
+
+\saltopagina
 
 > No importa cuál sea la herramienta de seguridad o el tipo de mecanismo utilicéis, pero es importante recordad que el rol es un juego y todos deben pasarlo bien. En caso de que consideréis entre todos que no necesitáis una herramienta de seguridad tampoco pasa nada, pero en ese caso es necesario que el director de juego se asegure de forma más activa de que ningún miembro de la mesa se sienta incómodo o lo esté pasando mal.
 
@@ -871,16 +917,20 @@ Aquí tienes algunas herramientas de seguridad que puedes usar:
 * [DEVIR](https://devir.es/herramientas-seguridad-rol)
 * [NetCon](https://www.netconplay.com/guia-de-buenas-practicas/herramientas-en-la-mesa/)
 
-\saltopagina
-
 ### Participar en el proyecto
 Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a través de GitHub en este [proyecto](https://github.com/gwannon/TrasElMundoPerdido). Si no estás familiarizado con Git, pues me mandas un DM en Twitter a [@Gwannon](https://twitter.com/gwannon) y hablamos.
 
+
+
 ## Atribuciones
 * Los dinosaurios están basados en [Savage Free Bestiary](https://docs.google.com/document/d/1qu4zzMYbPqOquVlCfgpPeoCmCEqGUgWh5dz-rpKJ1ck/edit?hl=it&authkey=CIySp98E#heading=h.7xcwydin4cfe)
-* [Libro original](https://archive.org/details/lostworldbeingac00doylrich/page/n220/mode/1up)
+* [Libro original](https://archive.org/details/lostworldbeingac00doylrich/page/n220/mode/1up) en inglés con ilustraciones
 
 ### Imágenes
+No soy propietario de ninguna de las imágenes de este documento. Estoy usando imágenes con licencia CC y atribuyéndola a su propietario. Si hay algún error, hacédmelo saber para corregirlo. Estas son las imágenes que por diseño no he podido atribuir de manera adecuada enlazándolas correctamente.
+
+\saltopagina
+
 * [Portada "Parte 1: La isla de Skye"](https://pixabay.com/es/photos/isla-de-skye-escocia-gran-breta%C3%B1a-4415029/)
 * [Portada "Parte 2: Norte de África"](https://en.wikipedia.org/wiki/Siege_of_Tobruk#/media/File:Men_of_the_Leicestershire_Rgt._man_a_Bren_gun_near_Tobruk.jpg)
 * [Portada "Parte 3: Río de la plata"](https://upload.wikimedia.org/wikipedia/commons/c/ce/Graf_Spee_Wreck_USNphoto_1.jpg)
@@ -894,7 +944,7 @@ Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a tra
 ## Música para las partidas
 Si necesitas música para ambientar tus partidas estás son algunas ideas:
 
-* BSO de **La gran evasión**: Perfecta para darle un tono épico y otras veces desenfadado. Si tu comando es un viejuner seguramente entrarán en ambiente con los primeros compases.
+* BSO de **La gran evasión**: Perfecta para darle un tono épico y otras veces desenfadado. Si tus comandos son unos viejunos seguramente entrarán en ambiente con los primeros compases.
 * BSO de **Violentos de Kelly**: Si quieres un toque más desenfadado a tus aventuras, tiene el punto perfecto.
 * BSO de **Cañones de Navarone**: Otra buena opción para música épica.
 * BSO de **Adiós al rey**: Esta joya de Basil Poleoduris es idónea para momento trágico aunque el sonido de flautas a veces no pegue.
