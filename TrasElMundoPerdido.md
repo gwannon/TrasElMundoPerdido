@@ -227,7 +227,7 @@ Un artesano/ingeniero diestro podría replicar alguno de estos objetos con los m
 ### Medidas desesperadas
 Estos dispositivos letales en forma de cápsula permiten al comando suicidarse en caso de que vaya a caer en manos de los nazis.
 xxx
-**Recuerda:** Este dispositivo es totalmente opcional y es casi más para PNJ que para PJ. Es una forma de darle dramatismo a la muerte de ciertas personas. Si crees que no es adecuado para tu mesa puedes eliminarlo de tus partidas o aplicar las velos y herramientas de seguridad que creas necesarias. Te recordamos que es suicidio es un tema complicado que deberías tratar con la mayor madurez.
+**Recuerda:** Este dispositivo es totalmente opcional y es casi más para PNJ que para PJ. Es una forma de darle dramatismo a la muerte de ciertas personas. Si crees que no es adecuado para tu mesa puedes eliminarlo de tus partidas o aplicar lao velos y herramientas de seguridad que creas necesarias. Te recordamos que es suicidio es un tema complicado que deberías tratar con la mayor madurez.
 
 ### Radio de campaña
 xxx
