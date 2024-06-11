@@ -67,6 +67,7 @@ xxx
 Hay una serie de reglas en esta campaña que modifican las normas generales de creación de personajes. No son muchas, ni muy complicadas, pero tienen su sentido. Veámoslas:
 
 * No existen las habilidades arcanas como Fe, Hechicería o Psiónica.
+* No hay elementos paranormales en la aventura con lo que el Ocultismo podría englobarse en Humanidades dentro de ciencias sociales como Historia, Teología, Antropología, etc.
 * No existe la habilidad Ordenadores. Electrónica cubre todo tipo de aparatos electrónicos con capacidades computacionales.
 * xxx
 
@@ -76,76 +77,78 @@ Aquí tienes algunos conceptos sobre los que construir tu PJ.
 #### Agente de inteligencia
 Estamos hablando de personas entrenadas en campos tan diversos como la encriptación y desencriptación de mensajes, telecomunicaciones, elaboración de perfiles, interrogatorio, creación y detección de documentos falsificados.
 
-* **Habilidades recomendadas:** xxx, Latrocinio, Tácticas
-* **Ventajas recomendadas:** xxx
-* **Desventajas recomendadas:** xxx
+* **Habilidades recomendadas:** xxx, Latrocinio y Tácticas
+* **Ventajas recomendadas:** xxx, xxx y xxx
+* **Desventajas recomendadas:** xxx, xxx y xxx
 
 #### Comando
-xxx
+Hablamos de personas especializadas algún tipo de combate y normalmente con buenas capacidades atléticas y de infiltración.
+Pueden ser estar especializados en combate cuerpo a cuerpo, armas de fuego a cierta y larga distancia, demoliciones, artillería.
 
-* **Habilidades recomendadas:** Atletismo, Disparar, Pelear
-* **Ventajas recomendadas:** xxx
-* **Desventajas recomendadas:** xxx
-
-#### Conductor/a
-xxx
-
-* **Habilidades recomendadas:** Conducir, Disparar, Reparar
-* **Ventajas recomendadas:** xxx
-* **Desventajas recomendadas:** xxx
+* **Habilidades recomendadas:** Atletismo, Disparar/Pelear, Sigilo
+* **Ventajas recomendadas:** xxx, xxx y xxx
+* **Desventajas recomendadas:** xxx, xxx y xxx
 
 \saltopagina
 
+#### Conductor/a
+En este caso nos referimos a toda esa gente capaz hacer auténticas acrobacias con cualquier tipo de vehículo y que además saben repararlos y modificarlos para poder llevar a cabo sus misiones.
+
+* **Habilidades recomendadas:** Atletismo, Conducir/Navegar/Pilotar y Reparar
+* **Ventajas recomendadas:** xxx, xxx y xxx
+* **Desventajas recomendadas:** xxx, xxx y xxx
+
 #### Espía
-xxx
+Espía engloba un amplio espectro de habilidades y capacidades. Hablamos de personas carismáticas y seductoras, con grandes dotes para la persuasión y para sacar información.
 
-* **Habilidades recomendadas:** xxx
-* **Ventajas recomendadas:** xxx
-* **Desventajas recomendadas:** xxx
+* **Habilidades recomendadas:** Intimidar, Notar y Persuadir
+* **Ventajas recomendadas:** Carismático, xxx y xxx
+* **Desventajas recomendadas:** xxx, xxx y xxx
 
-#### Explorador
-xxx
+#### Explorador/a
+Estás personas saben moverse en la naturaleza como pez en el agua, conseguir agua, comida, refugio y fuego es sencillo para ellos incluso en el lugar más extremo. Además saben seguir rastros y orientarse son perderse.
+Normalmente prefieren la compañía de los animales a las de las personas y seguro que tienen sus razones.
 
-* **Habilidades recomendadas:** Atletismo, Notar, Supervivencia
-* **Ventajas recomendadas:** xxx
-* **Desventajas recomendadas:** xxx
+* **Habilidades recomendadas:** Atletismo, Cabalgar, Supervivencia
+* **Ventajas recomendadas:** Vínculo animal, xxx y xxx
+* **Desventajas recomendadas:** xxx, xxx y xxx
 
 #### Ingeniera/o
-xxx
+No hablamos de la típica cerebrita de laboratorio o del ratón de biblioteca. Hablamos de agentes de campo capaces de reparar y modificar cualquier ingenio mecánico o electrónico con escasos recursos y en tiempo récord.
 
-* **Habilidades recomendadas:** Ciencias, Reparar, xxx
-* **Ventajas recomendadas:** xxx
-* **Desventajas recomendadas:** xxx
+* **Habilidades recomendadas:** Ciencias, Electrónica y Reparar
+* **Ventajas recomendadas:** Inventor, Mr. Arreglalotodo, xxx
+* **Desventajas recomendadas:** xxx, xxx y xxx
 
 #### Paleontóloga/o
-xxx
+La paleontología es la rama de la ciencia que estudia entre más cosas los dinosaurios, así que se puede decir que son las personas que más saben sobre estos titanes que dominaron la tierra hace millones de años.
 
-* **Habilidades recomendadas:** xxx
-* **Ventajas recomendadas:** xxx
-* **Desventajas recomendadas:** xxx
+\saltopagina
+
+* **Habilidades recomendadas:** Ciencias, Humanidades e Investigar
+* **Ventajas recomendadas:** xxx, xxx y xxx
+* **Desventajas recomendadas:** xxx, xxx y xxx
 
 #### Periodista
 No solo hablamos de cronistas que lleven un diario de las operaciones y que mantengan un archivo fotográfico de las actividades del comando. También hablamos de gente de mundo que ha viajado mucho, habla varios idiomas y tiene contactos en todas partes de sus viajes como corresponsales por todo el mundo o varias guerras.
 
 Dentro de este arquetipo también se incluye a todo tipo de buscavidas que saben moverse por los bajos fondos y eludir a la ley para llegar al corazón de la noticia.
 
-* **Habilidades recomendadas:** Investigar, Notar, Idiomas
-* **Ventajas recomendadas:** xxx
-* **Desventajas recomendadas:** xxx
+* **Habilidades recomendadas:** Investigar, Notar e Idiomas
+* **Ventajas recomendadas:** xxx, xxx y xxx
+* **Desventajas recomendadas:** xxx, xxx y xxx
+
+#### Remiendatajos
+Este arquetipo refleja un amplio grupo de profesionales de la medicina y veterinaria capaces de curar y remendar todo tipo de golpes y heridas en humanos y bestias.
+
+* **Habilidades recomendadas:** Medicina, xxx y xxx
+* **Ventajas recomendadas:** xxx, xxx y xxx
+* **Desventajas recomendadas:** xxx, xxx y xxx
 
 \saltopagina
 
-#### Veterinaria/o
-xxx
-
-* **Habilidades recomendadas:** xxx
-* **Ventajas recomendadas:** xxx
-* **Desventajas recomendadas:** xxx
-
-\saltopagina
-
-## Reglas especiales
-xxx
+## Nuevas reglas
+En este apartado encontrarás nuevas reglas, ventajas y desventajas aplicables a esta campaña.
 
 ### Nueva ventaja: Compañero dinosaurio
 **Requisitos:** Novato
@@ -213,6 +216,7 @@ Este arnés con 1 o más cámaras fotográficas de alta precisión en el pecho s
 
 ### Arnés de vuelo
 xxx
+
 > El pterodáctilo **no puede iniciar el vuelo con pasajeros desde el suelo**, debe **lanzarse desde por lo menos 20 metros de altura** para poder coger velocidad en la caída y remontar el vuelo.
 
 ### Barda
@@ -223,7 +227,7 @@ Este collar lanza dolores descargas eléctricas al portador cuando se acciona el
 
 Este collar es una forma inhumana y cruel de entrenamiento y una forma de control de dinosaurios rebeldes y solo debería ser usado por los nazis.
 
-> Cuando se usan las descargas normales, suponen un **-4 a cualquier acción que no sea la orden dada**.
+> Cuando se usan las descargas normales, suponen un **-4 a cualquier acción que no sea la orden dada** por la persona que controla el mando.
 > En caso de usar una descarga masiva, la víctima deberá pasar una tirada de **VIG contra una potencia eléctrica de d12+2** o caerá **inconsciente durante d8 horas**.
 
 \saltopagina
@@ -231,7 +235,7 @@ Este collar es una forma inhumana y cruel de entrenamiento y una forma de contro
 ### Plaustro
 Este carro de madera con estructura metálica está adaptado a las diferentes fisonomías de iguanodones y estogosaurios y permite transportar gran cantidad de material por terrenos difíciles. Puede adaptarse al lugar y por ejemplo tener skies para la nieve en vez de ruedas.
 
-> La capacidad de carga de un dinosaurio tirando de un plaustro se calcula como si su fuerza fuera x4, siempre que la carga vaya en el carro y esté medianamente equilibrada y bien colocada.
+> La capacidad de carga de un dinosaurio tirando de un plaustro se calcula como si su FUE fuera x4, siempre que la carga vaya en el carro y esté medianamente equilibrada y bien colocada.
 
 ### Ropa de invierno
 Los dinosaurios tendrán que moverse en entornos muy fríos y, aunque de sangre caliente, necesitarán protecciones frente al clima extremadamente frío de lugares como Rusia o Noruega.
@@ -260,7 +264,7 @@ El conspirador se ha vendido a los nazis y les ha entregado el secreto más impo
 
 Todos estos eventos les obligarán a empezar una carrera contra los nazis por llegar al Mundo Perdido antes que ellos y sabotear su misión de captura de dinosaurios.
 
-La aventura acabará en la Selva Negra donde tu comando deberá tomar un castillo inexpugnable y desbaratar los planes de crear un arma terrible con un descubrimiento que han hecho en el Mundo Perdido.
+La aventura acabará en la Selva Negra donde tu comando deberá tomar un castillo inexpugnable y desbaratar los planes de crear un arma terrible con un descubrimiento que han hecho en el Mundo Perdido, los diamantes de la arcilla azul.
 
 xxx
 
@@ -274,6 +278,7 @@ No hay ningún tipo de magia en esta campaña, pero eso no quiere decir que no p
 
 ### Otras formas de magia
 xxx
+En este caso el Ocultismo debería pasar a ser una habilidad con entidad propia y no una parte de Humanidades.
 
 #### Mentalismo
 xxx
@@ -294,6 +299,9 @@ xxx
 En un momento dado les dará afinidad animal con su nuevo dinosaurio.
 
 ## Dinosaurios a la fuga
+```
+Una manada variopinta de saurios ha escapado de la ciudad. Hay que captura y devolverla antes de lleguen a grandes ciudades como Inverness, Edimburgo o Glasgow.
+```
 xxx
 
 ## Primera misión
