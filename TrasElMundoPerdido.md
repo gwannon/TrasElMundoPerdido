@@ -67,7 +67,7 @@ xxx
 ### El "Mary Anning" y sus instalaciones
 xxx
 
-#### Pieza de artillería anti-aérea camuflada
+#### Pieza de artillería antiaérea camuflada
 xxx
 
 #### Sala de misiones
@@ -170,7 +170,7 @@ Espía engloba un amplio espectro de habilidades y capacidades. Hablamos de pers
 * **Desventajas recomendadas:** Arrogante, Código de honor y Enemigo
 
 #### Explorador/a
-Estás personas saben moverse en la naturaleza como pez en el agua, conseguir agua, comida, refugio y fuego es sencillo para ellos incluso en el lugar más extremo. Además saben seguir rastros y orientarse son perderse.
+Estas personas saben moverse en la naturaleza como pez en el agua, conseguir agua, comida, refugio y fuego es sencillo para ellos incluso en el lugar más extremo. Además saben seguir rastros y orientarse son perderse.
 Normalmente prefieren la compañía de los animales a las de las personas y seguro que tienen sus razones.
 
 * **Habilidades recomendadas:** Atletismo, Cabalgar, Supervivencia
@@ -243,7 +243,7 @@ En esta tabla tenemos los vehículos típicos de las películas de la II Guerra 
 |Motocicleta BMW R-71|1 (Normal)|+1|125 km/h|8|1+1|
 |Motocicleta BMW R-71 con sidecar|2 (Normal)|+1|95 km/h|8|1+2|
 |Jeep Willys MB|3|+1|95 km/h|14(3)|1+4|
-|VW Typ 82 "Kübelwagen"|3|+1|80km/h|13(3)|1+4|
+|VW Typ 82 "Kübelwagen"|3|+1|80 km/h|13(3)|1+4|
 
 ### Dinosaurios como vehículos
 Todos queremos ver persecuciones entre dinosaurios y motos nazis por una carretera de montaña de los Alpes o una carrera entre un alosaurio y unos "Kübelwagen"
@@ -251,12 +251,12 @@ por las abarrotadas calles del zoco de Marrakech, así que aquí tienes las esta
 
 |VEHÍCULO|TAMAÑO|MANIOBRA.|VEL. MÁX.|DUREZA|TRIPULACIÓN|
 |--------|------|----|--|------|-----|
-|Alosaurio|xxx|xxx|xxx|55km/h|xxx|
-|Estegosaurio|xxx|xxx|xxx|20km/h|xxx|
-|Iguanodon|xxx|xxx|xxx|25km/h|xxx|
-|Megalosaurio|xxx|xxx|xxx|50km/h|xxx|
-|Pterodáctilo|xxx|xxx|xxx|95km/h|xxx|
-|Plesiosaurio|xxx|xxx|xxx|40km/h|xxx|
+|Alosaurio|xxx|xxx|xxx|55 km/h|xxx|
+|Estegosaurio|xxx|xxx|xxx|20 km/h|xxx|
+|Iguanodon|xxx|xxx|xxx|25 km/h|xxx|
+|Megalosaurio|xxx|xxx|xxx|50 km/h|xxx|
+|Pterodáctilo|xxx|xxx|xxx|95 km/h|xxx|
+|Plesiosaurio|xxx|xxx|xxx|40 km/h|xxx|
 
 Recuerda que los dinosaurios son también parte tripulación del vehículo. Así pues, aparte de correr, pueden hacer otras acciones en cada ronda de persecución como atacar al enemigo, derribar árboles para cortar el camino a sus perseguidores, etc.
 
@@ -391,7 +391,7 @@ También ha propiciado la caída y la destrucción de la Fundación Roxton. Las 
 
 Todos estos eventos les obligarán a empezar una carrera contra los nazis por llegar al Mundo Perdido antes que ellos y sabotear su misión de captura de dinosaurios.
 
-La aventura acabará en la Selva Negra donde tu comando deberá tomar un castillo inexpugnable protegido por tropas nazis y los dinosaurios que capturaron en en la fundación y desbaratar los planes de crear un arma terrible con un descubrimiento que han hecho en el Mundo Perdido, los diamantes de la arcilla azul.
+La aventura acabará en la Selva Negra donde tu comando deberá tomar un castillo inexpugnable protegido por tropas nazis y los dinosaurios que capturaron en la fundación y desbaratar los planes de crear un arma terrible con un descubrimiento que han hecho en el Mundo Perdido, los diamantes de la arcilla azul.
 
 xxx
 
@@ -408,7 +408,7 @@ No hay tablas de encuentros aleatorios, ni tiradas de climatología, ni nada por
 xxx
 
 ### Mas Mundos Perdidos y más especies de dinosaurios
-La tierra de Naple White no tiene por qué ser el único mundo perdido. Quizás los nazis hayan descubierto una tierra salvaje en mitad de la Antártida alimentada por el calor de los volcanes donde han sobrevivido otras especies de dinosaurios. Sin olvidarnos que igual en alguna sima oceánica haya gigantescos saurios acuáticos que una bomba nuclear lanzada sobre Japón pueda despertar.
+La tierra de Maple White no tiene por qué ser el único mundo perdido. Quizás los nazis hayan descubierto una tierra salvaje en mitad de la Antártida alimentada por el calor de los volcanes donde han sobrevivido otras especies de dinosaurios. Sin olvidarnos que igual en alguna sima oceánica haya gigantescos saurios acuáticos que una bomba nuclear lanzada sobre Japón pueda despertar.
 
 Los dinosaurios elegidos para esta campaña han sido los que aparecen en la novela original de Sir Arthur Conan Doyle, pero puedes encontrar fácilmente las estadísticas de otras especies como el Tiranosaurio. Así que mete las especies que quieras, incluso especies más modernas y perfectamente disfrutables como un tigre dientes de sable o un mamut.
 
@@ -424,7 +424,7 @@ Esta campaña está desarrollada para jugarla en la II Guerra Mundial en Europa 
 ### Ciencia extraña
 No hay ningún tipo de magia en esta campaña, pero eso no quiere decir que no puedas meterla. La forma más sencilla y que creo que mejor pega es usar la Ciencia Extraña.
 
-Nunca sobran científicas y científicos locos nazis, así que puedes meter ciertos elementos de Ciencia Extraña para darle un toque más Pulp a la aventura. Estamos hablando de soldados nazis con mochilas de salto y pistolas de rayos o sueros de super-soldado que permitan enfrentarse cuerpo a cuerpo contra los dinosaurios.
+Nunca sobran científicas y científicos locos nazis, así que puedes meter ciertos elementos de Ciencia Extraña para darle un toque más Pulp a la aventura. Estamos hablando de soldados nazis con mochilas de salto y pistolas de rayos o sueros de supersoldado que permitan enfrentarse cuerpo a cuerpo contra los dinosaurios.
 
 Si quieres rizar el rizo y conseguir altas cuotas de Pulp, se podría, por ejemplo, hacer que los nazis tengan tecnología alienígena procedente de un platillo volante.
 
@@ -564,7 +564,7 @@ xxx
 
 ### El zepelín
 
-[![Foto Zepelín nazi en el Amazonas](./assests/images/dirigible.jpg 'LZ-127 at Jiquiá landing field in Recife')](https://www.airships.net/blog/zeppelin-mast-recife-brazil-pernambuco/ 'LZ-127 at Jiquiá landing field in Recife')
+[![Foto zepelín nazi en el Amazonas](./assests/images/dirigible.jpg 'LZ-127 at Jiquiá landing field in Recife')](https://www.airships.net/blog/zeppelin-mast-recife-brazil-pernambuco/ 'LZ-127 at Jiquiá landing field in Recife')
 
 xxx
 
@@ -587,7 +587,7 @@ Están pensadas como interludios divertidos en los que los tu mesa podrá desarr
 
 ## Un día en el museo
 ```
-Quizas una visita al Museo de Ciencias Naturales ayude a solucionar un nuevo problema que ha supuesto la cría de dinosaurios.
+Quizás una visita al Museo de Ciencias Naturales ayude a solucionar un nuevo problema que ha supuesto la cría de dinosaurios.
 ```
 xxx
 
@@ -785,7 +785,7 @@ Los oscuros callejones de las grandes ciudades están llenas de este tipo de per
 * **Atributos:** Agilidad d6, Astucia d4, Espíritu d6, Fuerza d6, Vigor d6.
 * **Habilidades:** Atletismo d6, Conocimientos Generales d6, Disparar d4, Idioma materno d6, Intimidar d6, Latrocinio d6, Notar d6, Pelear d6, Sigilo d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
-* **Desventajas:** Buscado (Mayor, por robos), Elige 1 o más: Avaricioso (Mayor), Canalla (Menor), Cojo (Mayor), Feo (Menor), Habito (Mayor, Cocaina), Manco (Mayor), Mudo (Mayor)
+* **Desventajas:** Buscado (Mayor, por robos), Elige 1 o más: Avaricioso (Mayor), Canalla (Menor), Cojo (Mayor), Feo (Menor), Habito (Mayor, Cocaína), Manco (Mayor), Mudo (Mayor)
 * **Equipo:** Cuchillo (FUE+d4)
 
 \saltopagina

@@ -41,3 +41,5 @@ disfrutables
 estegosaurios
 superresistente
 megalosaurio
+Willys
+supersoldado
