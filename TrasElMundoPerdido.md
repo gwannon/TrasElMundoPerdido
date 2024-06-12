@@ -105,7 +105,7 @@ Hay una serie de reglas en esta campaña que modifican las normas generales de c
 * **No existen** las habilidades arcanas como **Fe, Hechicería o Psiónica** y tampoco las ventajas que pidan esas habilidades como Inventor.
 * No hay elementos paranormales en la aventura con lo que el **Ocultismo se engloba en Humanidades** dentro de ciencias sociales como Historia, Teología, Antropología, etc.
 * **No existe la habilidad Ordenadores.** Electrónica cubre todo tipo de aparatos electrónicos con capacidades computacionales.
-* Nuevas Ventajas: Compañero dinosaurio
+* Hay nuevas Ventajas: Compañero dinosaurio, Los números primos son rojos y huelen dulces
 
 ### Arquetipos
 Aquí tienes algunos conceptos sobre los que construir tu PJ.
@@ -121,11 +121,11 @@ Estamos hablando de personas entrenadas en campos tan diversos como la encriptac
 Hablamos de personas especializadas algún tipo de combate y normalmente con buenas capacidades atléticas y de infiltración.
 Pueden ser estar especializados en combate cuerpo a cuerpo, armas de fuego a cierta y larga distancia, demoliciones, artillería.
 
+\saltopagina
+
 * **Habilidades recomendadas:** Atletismo, Disparar/Pelear, Sigilo
 * **Ventajas recomendadas:** Alerta, Bloqueo/Esquiva y Nervios de acero
 * **Desventajas recomendadas:** Impulsivo/a, Sanguinario/a y Vengativo/a
-
-\saltopagina
 
 #### Conductor/a
 En este caso nos referimos a toda esa gente capaz hacer auténticas acrobacias con cualquier tipo de vehículo y que además saben repararlos y modificarlos para poder llevar a cabo sus misiones.
@@ -156,10 +156,10 @@ No hablamos de la típica cerebrita de laboratorio o del ratón de biblioteca. H
 * **Ventajas recomendadas:** Erudito/a, McGyver y Mr. Arreglalotodo
 * **Desventajas recomendadas:** Apocado/a, Despistado/a y Tozudo/a
 
+\saltopagina
+
 #### Paleontóloga/o
 La paleontología es la rama de la ciencia que estudia entre más cosas los dinosaurios, así que se puede decir que son las personas que más saben sobre estos titanes que dominaron la tierra hace millones de años.
-
-\saltopagina
 
 * **Habilidades recomendadas:** Ciencias, Humanidades e Investigar
 * **Ventajas recomendadas:** Erudito, Hombre/Mujer de recursos e Investigador
@@ -241,17 +241,25 @@ Un artesano/ingeniero diestro podría replicar alguno de estos objetos con los m
 
 ### Cápsulas de suicidio
 Estos dispositivos letales en forma de cápsula permiten al comando suicidarse en caso de que vaya a caer en manos de los nazis.
+
 xxx
+
 **Recuerda:** Este dispositivo es totalmente opcional y es casi más para PNJ que para PJ. Es una forma de darle dramatismo a la muerte de ciertas personas. Si crees que no es adecuado para tu mesa puedes eliminarlo de tus partidas o aplicar los velos y herramientas de seguridad que creas necesarias. Te recordamos que es suicidio es un tema complicado que deberías tratar con la mayor madurez.
 
 ### Maletín de rebelado de foto
 Este maletín que a simple vista parece de oficinista contiene todo lo necesario para el rebelado de fotos: compuestos químicos, luz roja, papel fotográfico, etc. 
+
 Permite el rebelado de 3 carretes de 24 fotos, antes de que se agoten sus componentes.
+
 > Cualquier persona con Ciencias d6 o más puede revelar fotos con él. Pero se necesitará tirada si se quieren conseguir efectos especiales, intentar corregir fallos en las fotos o rebelar microfilms.
+
+\saltopagina
 
 ### Radio de campaña
 Esta radio portátil permite a tu comando recibir y enviar información. El radio de acción es corto y se reduce si hay montañas y otros accidentes geográficos y atmosféricos que afecten a la señal de radio.
+
 Para largas comunicaciones tendrían que comunicarse con el "Mary Anning" y este con su radio de largo alcance reenviar el mensaje a la fundación Roxton o al Alto Mando del Ejército Inglés.
+
 > Con un mínimo entrenamiento cualquiera puede usar la radio, pero se necesitará una tirada de Electrónica para hacerla funcionar en condiciones extremas o para conseguir cosas fuera de sus capacidades normales.
 > En caso de problemas de recepción o envío de señales de radio, una tirada de Ciencias estudiando el entorno permitirá descubrir que afecta a las comunicaciones y dará un +2 a la tirada de Electrónica para tratar de solventarlo.
 
