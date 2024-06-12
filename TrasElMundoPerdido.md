@@ -95,7 +95,7 @@ xxx
 
 ***
 
-# Reglamento especial para la campaña
+# Reglas especiales para la campaña
 En este apartado encontrarás toda una serie de reglas que modifican las reglas generales de Savage Worlds Edición Aventura. También encontrarás equipo nuevo específico de esta campaña y reglas para llevar dinosaurios como compañeros de tus comandos. 
 
 ## Creación de personajes
@@ -240,9 +240,7 @@ Operación: Tras el Mundo Perdido tiene equipamiento especial tanto para tus com
 Un artesano/ingeniero diestro podría replicar alguno de estos objetos con los materiales, las herramientas y los planos y especificaciones adecuadas.
 
 ### Cápsulas de suicidio
-Estos dispositivos letales en forma de cápsula permiten al comando suicidarse en caso de que vaya a caer en manos de los nazis.
-
-xxx
+Estos dispositivos letales en forma de cápsula permiten al comando suicidarse en caso de que vaya a caer en manos de los nazis. Estas cápsulas no tienen tirada, si el PJ o PNJ deciden tomarlas mueren al instante soltando espuma por la boca y entre estertores.
 
 **Recuerda:** Este dispositivo es totalmente opcional y es casi más para PNJ que para PJ. Es una forma de darle dramatismo a la muerte de ciertas personas. Si crees que no es adecuado para tu mesa puedes eliminarlo de tus partidas o aplicar los velos y herramientas de seguridad que creas necesarias. Te recordamos que es suicidio es un tema complicado que deberías tratar con la mayor madurez.
 
@@ -265,9 +263,11 @@ Para largas comunicaciones tendrían que comunicarse con el "Mary Anning" y este
 
 ### Otro equipo especial
 Aparte del equipo anterior tendrán acceso a típico equipo de comando o de espía como:
+* Diferentes artículos como zapatos o maletines con dobles fondos y compartimentos secretos
 * Garfio, lanzador de garfio y equipo de escalada
+* Maletín de maquillaje con pelucas y postizos varios (+2 a disfrazarse)
 * Mini-cámara fotográfica
-* xxx
+* Vestuario completo con todo tipo de ropas desde ropa de trabajo a trajes de noche, incluidos uniformes nazis de varios rangos
 
 ## Equipo para dinosaurios
 xxx
@@ -309,7 +309,7 @@ Este collar es una forma inhumana y cruel de entrenamiento y una forma de contro
 \saltopagina
 
 ### Plaustro
-Este carro de madera con estructura metálica está adaptado a las diferentes fisonomías de iguanodones y estogosaurios y permite transportar gran cantidad de material por terrenos difíciles. Puede adaptarse al lugar y por ejemplo tener skies para la nieve en vez de ruedas.
+Este carro de madera con estructura metálica está adaptado a las diferentes fisonomías de iguanodones y estogosaurios y permite transportar gran cantidad de material por terrenos difíciles. Puede adaptarse al lugar y por ejemplo tener esquís para la nieve en vez de ruedas.
 
 > La capacidad de carga de un dinosaurio tirando de un plaustro se calcula como si su FUE fuera x4, siempre que la carga vaya en el carro y esté medianamente equilibrada y bien colocada.
 
@@ -321,7 +321,7 @@ A priori, las sillas de montar para dinosaurios son básicamente sillas de monta
 Cada silla de montar está modificada para cada especie de saurio y no pueden intercambiarse, excepto la del megalosaurio y el alosario que son casi iguales de forma y tamaño.
 
 > Modificar una silla para ser usada en un dinosaurio para la que no fue diseñado exige tener un taller con herramientas adecuado y pasar una tirada de Reparar. Todo el proceso lleva 3 horas más la diferencia de tamaño entre las dos especies. 
-> Se puede cabalgar sin silla pero supone un -2 a la tirada de Cabalgar si es un compañero saurio y un -4 si no lo es.
+> Se puede cabalgar sin silla, pero supone un -2 a la tirada de Cabalgar si es un compañero saurio y un -4 si no lo es.
 
 ***
 
@@ -503,6 +503,25 @@ xxx
 # Parte 9: La Selva Negra
 ```
 Parece que los nazis no solo buscaban dinosaurios para su ejército, también buscaba los diamantes de la arcilla azul. Parece que van a crear una arma terrible con los diamantes que puede cambiar el curso de la guerra a su favor. 
+```
+xxx
+
+
+
+***
+
+# Relatos salvajes
+xxx
+
+## Un día en el museo
+```
+Quizas una visita al Museo de Ciencias Naturales ayude a solucionar un nuevo problema que ha supuesto la cría de dinosarurios.
+```
+xxx
+
+## Despedidas
+```
+La guerra se ha acabado y quizás es el momento de que los dinosaurios vuelvan a su mundo. 
 ```
 xxx
 
