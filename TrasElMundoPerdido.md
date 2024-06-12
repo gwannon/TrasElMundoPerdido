@@ -382,12 +382,11 @@ xxx
 \saltopagina
 
 ## Los viajes
-Como buena historia de aventuras los viajes no serán importantes, no importa ni el coste ni el tiempo ni si hay submarinos alemanes en esas aguas. Siempre llegarán a tiempo y sin problemas. 
+Como buena historia de aventuras los viajes no serán importantes, no importa ni el coste ni el tiempo ni si hay submarinos alemanes en esas aguas. Siempre llegarán a tiempo y sin problemas a no ser que el viaje sea la propia aventura. 
 
-Vamos a usar el recurso fílmico llamado "viajar por el mapa". Cuando tu comando decida ir a Noruega, como en Indiana Jones la imagen se fundirá hasta verse un mapamundi viejo y descolorido y un barco partirá de Escocia dejando tras de sí una línea roja punteada de su ruta. Cruzará el mar del Norte
-y llegará finalmente a la costa de Noruega.
+Vamos a usar el recurso fílmico llamado "viajar por el mapa". Cuando tu comando decida ir a Noruega, como en Indiana Jones, la imagen se fundirá hasta verse un mapamundi viejo y descolorido y sobre este un barco partirá de Escocia dejando tras de sí una línea roja punteada de su ruta. Cruzará el mar del Norte y llegará finalmente a la costa de Noruega para fundirse el mapa y volver a ver nuestro comando.
 
-No hay tablas de encuentros aleatorios, ni tiradas de climatología, ni nada por el estilo. Aunque eres libre si quieres de meter los encuentros que desees.
+No hay tablas de encuentros aleatorios, ni tiradas de climatología, ni nada por el estilo. Aunque eres libre, si quieres, de meter los encuentros que desees.
 
 ## Personalizando y continuando la campaña
 xxx
