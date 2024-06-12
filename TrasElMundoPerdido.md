@@ -444,6 +444,10 @@ xxx
 ## Carrera al Mundo perdido
 xxx
 
+[![Foto de la meseta](./assests/images/roraima.jpg 'Mañana despejada en Monte Roraima, vista desde la vía que lleva allá desde la comunidad pemón de Paraitepuy, en la Gran Sabana, Venezuela - Paolo Costa Baldi')](https://es.wikipedia.org/wiki/Roraima_(tepuy)#/media/Archivo:Roraima3_(79).JPG 'Mañana despejada en Monte Roraima, vista desde la vía que lleva allá desde la comunidad pemón de Paraitepuy, en la Gran Sabana, Venezuela - Paolo Costa Baldi')
+
+\saltopagina
+
 ## Batalla del Mundo Perdido
 xxx
 
@@ -947,6 +951,8 @@ No soy propietario de ninguna de las imágenes de este documento. Estoy usando i
 * [Sello Top Secret](https://pixabay.com/es/illustrations/ultra-secreto-confidencial-2054429/)
 * [Siluetas de dinosaurios](https://www.cleanpng.com/free/dinosaur-silhouette.html)
 * [Celo](https://www.freepik.com/free-vector/plastic-adhesive-duct-tape-set-with-transparent-background-realistic-images-with-pieces-sealing-tape-vector-illustration_132327926.htm)
+
+2367412333
 
 ## Música para las partidas
 Si necesitas música para ambientar tus partidas estás son algunas ideas:
