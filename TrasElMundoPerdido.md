@@ -25,12 +25,26 @@ xxx
 ## La expedición Roxton
 xxx
 
+### Descubrimientos asombrosos
+El gran descubrimiento que hizo Roxton en esta segunda expedición es que todos los saurios tenían cierto grado de domesticación. No eran mascotas como perros y gatos, ni tampoco animales de granja, pero habían convivido con los humanos primitivos de la meseta durante miles de años (cosa que no había ocurrido en el resto del mundo) y esto había transformado sus instintos poco a poco.
+
+Los antropólogos y antropólogas de la fundación se dedicaron a estudiar a los cavernícolas y descubrieron interacciones entre ambas especies que habían llevado a los saurios a ser en parte domesticados. 
+
 \saltopagina
+
+Las tribus de humanos primitivos habían aprendido a dejar parte de su caza lejos de sus asentamientos para alejar a los grandes depredadores y a atraer a los herbívoros dejando gran cantidad de frutas en ciertos lugares donde era más fácil cazarlos o alejarlos de sus nidos y entonces robar sus huevos o sus crías. 
+
+Estas interacciones fueron con los siglos evolucionado y grabándose en los instintos de los saurios, de forma que saben que salvo en caso de necesidad y hambre, un humano es más útil vivo que muerto. Este hecho, junto a la selección de los mejores y más inteligentes ejemplares, hizo que la Fundación pudiera domesticar dinosaurios con técnicas avanzadas de condicionamiento positivo en unos 15 años.
 
 ## La Fundación Roxton
 xxx
 
-La fundación Roxton tienes unos recursos increíbles, ya que se ha dedicado durante años a extraer diamantes de la arcilla azul del pantano del Mundo Perdido. Salvo casos especiales Roxton puede conseguir cualquier tipo de material y producto legal y contratar a cualquier persona que sea necesaria.
+### Recursos económicos
+La fundación Roxton tienes unos recursos increíbles, ya que se ha dedicado durante años a extraer diamantes de la arcilla azul del pantano del Mundo Perdido. 
+
+Pero todo esto se ha hecho bajo el más absoluto secreto de forma que nadie sepa la fortuna real que maneja la Fundación. 
+
+Salvo casos especiales Roxton puede conseguir cualquier tipo de material y producto legal y contratar a cualquier persona que sea necesaria.
 
 ***
 
@@ -291,9 +305,11 @@ Este equipamiento está pensado en la comodidad no solo del humano sino también
 especie. 
 
 ### Arnés acuático
-xxx
+Esta estructura de aluminio superresistente que se amarra y ajusta con cinchas de nailon a un ictiosaurio o un plesiosaurio, permite al submarinista ser transportado a gran velocidad bajo el agua. El buzo se agarra a dos estribos metálicos y se suelta cuando sea necesario. Según hace fuerza con los estribos en un sentido u otro, cambia el peso de su cuerpo e indica al saurio por donde ir.
 
-Viene con una red de nailon que permite portar hasta 10 kilos en objetos metidos en botes estancos.
+Adicionalmente, viene con una red de nailon que permite portar hasta 10 kilos en objetos metidos en botes estancos.
+
+> El saurio acuático que lleva el arnés y a un buzo pierde 1 punto de paso en el agua, no por el peso, sino porque estropea su hidrodinámica. 
 
 ### Arnés con cámara fotográfica 
 Este arnés con 1 o más cámaras fotográficas de alta precisión en el pecho se coloca a un pterodáctilo y permiten hacerse foto áreas de posiciones enemigas.
@@ -345,7 +361,7 @@ Los dinosaurios tendrán que moverse en entornos muy fríos y, aunque de sangre 
 
 ### Silla de montar y arreos
 A priori, las sillas de montar para dinosaurios son básicamente sillas de montar a caballo. Tienen los mismos elementos pero adaptados a la fisonomía del saurio.
-Cada silla de montar está modificada para cada especie de saurio y no pueden intercambiarse, excepto la del megalosaurio y el alosario que son casi iguales de forma y tamaño.
+Cada silla de montar está modificada para cada especie de saurio y no pueden intercambiarse, excepto la del megalosaurio y el alosaurio que son casi iguales de forma y tamaño.
 
 > Modificar una silla para ser usada en un dinosaurio para la que no fue diseñado exige tener un taller con herramientas adecuado y pasar una tirada de Reparar. Todo el proceso lleva 3 horas más la diferencia de tamaño entre las dos especies. 
 > Se puede cabalgar sin silla, pero supone un -2 a la tirada de Cabalgar si es un compañero saurio y un -4 si no lo es.
