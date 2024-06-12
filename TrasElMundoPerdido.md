@@ -30,7 +30,7 @@ La fundación Roxton tienes unos recursos increíbles, ya que se ha dedicado dur
 
 ***
 
-# ¡¡¡Dinosaurios!!!
+# Acerca de los dinosaurios
 xxx
 
 ## Día a día de los dinosaurios
@@ -55,6 +55,9 @@ xxx
 xxx
 
 \saltopagina
+
+## Caracter de los saurios
+xxx
 
 ## Dinosaurios en misiones
 xxx
@@ -202,7 +205,7 @@ Esta ventaja **sustituye a la ventaja Señor de las Bestias**. La ventaja Vincul
 ### Nueva ventaja: Los números primos son rojos y huelen dulces
 **Requisitos:** Novato, Astucia d8
 
-Eres un genio de las matemáticas. Tú forma de ver los números es diferente al del resto de la gente y resuelven complicados cálculos en segundos.
+Eres un genio de las matemáticas. Tú forma de ver los números es diferente al del resto de la gente y resuelves complicados cálculos en segundos.
 Recibes un **+2 en tiradas en que las matemáticas sean importantes** desde Apostar contando cartas, Investigar libros de cuentas o Disparar grandes piezas de artillerías hasta desencriptar códigos secretos o calcular trayectorias de misiles, ambas con Ciencias.
 
 \saltopagina
@@ -235,7 +238,7 @@ Recuerda que los dinosaurios son también parte tripulación del vehículo. Así
 \saltopagina
 
 ## Equipo especial
-Operación: Tras el Mundo Perdido tiene equipamiento especial tanto para tus comandos como para los dinosaurios. Este equipamiento no tiene precio, ya que no puede ser conseguido en tiendas legalmente o en los bajos fondos ilegalmente. Normalmente son cosas que la fundación Roxton entregará a tus comandos para que los use en sus misiones y recogerá de nuevo al terminarlas.
+*Operación: Tras el Mundo Perdido* tiene equipamiento especial tanto para tus comandos como para los dinosaurios. Este equipamiento no tiene precio, ya que no puede ser conseguido en tiendas legalmente o en los bajos fondos ilegalmente. Normalmente son cosas que la fundación Roxton entregará a tus comandos para que los use en sus misiones y recogerá de nuevo al terminarlas.
 
 Un artesano/ingeniero diestro podría replicar alguno de estos objetos con los materiales, las herramientas y los planos y especificaciones adecuadas.
 
@@ -269,13 +272,12 @@ Aparte del equipo anterior tendrán acceso a típico equipo de comando o de esp�
 * Mini-cámara fotográfica
 * Vestuario completo con todo tipo de ropas desde ropa de trabajo a trajes de noche, incluidos uniformes nazis de varios rangos
 
-## Equipo para dinosaurios
-xxx
-
 \saltopagina
 
-### Armamento pesado
-xxx
+## Equipo para dinosaurios
+Durante años la fundación Roxton ha ido desarrollando todo tipo de equipamiento para que los humanos y los dinosaurios pudieran trabajar en equipo. 
+Este equipamiento está pensado en la comodidad no solo del humano sino también del saurio y ha sido adaptado las características y fisonomía de cada 
+especie. 
 
 ### Arnés acuático
 xxx
@@ -299,19 +301,33 @@ xxx
 xxx
 
 ### Collar de entrenamiento y mando de control
-Este collar lanza dolores descargas eléctricas al portador cuando se acciona el mando de control. El mando tiene una opción de descarga masiva tremendamente dolorosa que deja inconsciente al portador del collar, pero agota totalmente la batería del collar.
+Este collar lanza dolorosas descargas eléctricas al portador cuando se acciona el mando de control. El mando tiene una opción de descarga masiva tremendamente dolorosa que deja inconsciente al portador del collar, pero agota totalmente la batería del collar.
 
-Este collar es una forma inhumana y cruel de entrenamiento y una forma de control de dinosaurios rebeldes y solo debería ser usado por los nazis.
+Este collar es una forma inhumana y cruel de entrenamiento y una forma de control de dinosaurios rebeldes y de hecho no ha sido desarrollo por la fundación Roxton sino por científicos nazis.
 
 > Cuando se usan las descargas normales, suponen un **-4 a cualquier acción que no sea la orden dada** por la persona que controla el mando.
 > En caso de usar una descarga masiva, la víctima deberá pasar una tirada de **VIG contra una potencia eléctrica de d12+2** o caerá **inconsciente durante d8 horas**.
 
 \saltopagina
 
+### Inyección letal
+xxx
+
+**Recuerda:** Este dispositivo es totalmente opcional. Es una forma de darle dramatismo a la muerte de tu compañero dinosaurio y evitarle sufrimiento. No deberías permitir el uso de este objeto porque tu comando quiera cambiar de dinosaurio por uno que le interese más. Si crees que no es adecuado para tu mesa puedes eliminarlo de tus partidas o aplicar los velos y herramientas de seguridad que creas necesarias. Te recordamos que el maltrato animal es un tema complicado que deberías tratar con la mayor madurez.
+
+### Mejoras de combate
+Esto incluye todo tipos de objetos y artilugios para aumentar las capacidades de combate de los saurios. Estamos hablando de pinchos afilados para las cabezas o las colas, cubiertas metálicas afiladas para las garras, etc. En general no han sido muy eficientes debido a que, si bien mejoran las capacidades de combate del dinosaurio, terminan haciéndole daño y siendo un problema para su normal actividad y su relación con sus congéneres.
+
+Se ha intentado montar armas de fuego pesadas encima de los dinosaurios, pero sin buenos resultados. Para empezar el ruido de las armas tan cerca resulta tremendamente molesto para el reptil y además no tienen mucha estabilidad para ser eficientes.
+
+Como en el caso del collar de entrenamiento, no deberían ser equipo que deberías permitir usar a tus comandos. Más bien serían las mejoras que un alto oficial de las SS pondría a su alosaurio de combate al que no se preocupa el bienestar de su compañero.
+
 ### Plaustro
 Este carro de madera con estructura metálica está adaptado a las diferentes fisonomías de iguanodones y estogosaurios y permite transportar gran cantidad de material por terrenos difíciles. Puede adaptarse al lugar y por ejemplo tener esquís para la nieve en vez de ruedas.
 
 > La capacidad de carga de un dinosaurio tirando de un plaustro se calcula como si su FUE fuera x4, siempre que la carga vaya en el carro y esté medianamente equilibrada y bien colocada.
+
+\saltopagina
 
 ### Ropa de invierno
 Los dinosaurios tendrán que moverse en entornos muy fríos y, aunque de sangre caliente, necesitarán protecciones frente al clima extremadamente frío de lugares como Rusia o Noruega.
@@ -352,11 +368,29 @@ xxx
 
 \saltopagina
 
-## Personalizando la campaña
+## Personalizando y continuando la campaña
 xxx
 
+### Mas Mundos Perdidos y más especies de dinosaurios
+La tierra de Naple White no tiene por qué ser el único mundo perdido. Quizás los nazis hayan descubierto una tierra salvaje en mitad de la Antártida alimentada por el calor de los volcanes donde han sobrevivido otras especies de dinosaurios.
+
+Los dinosaurios elegidos para esta campaña han sido los que aparecen en la novela original de Sir Arthur Conan Doyle, pero puedes encontrar fácilmente las estadísticas de otras especies como el Tiranosaurio. Así que mete las especies que quieras, incluso especies más modernas y perfectamente disfrutables como un tigre dientes de sable o un mamut.
+
+### Otros conflictos bélicos
+Esta campaña está desarrollada para jugarla en la II Guerra Mundial en Europa y Norte de África, pero con algunos cambios puedes prepararla para otros conflictos bélicos. Vemos algunos ejemplos:
+
+* Podrían enclavarse en la I Guerra Mundial sin mucho problema. La novela de El Mundo Perdido se desarrolla hacia el 1910 así que quedarían todavía 6 años hasta la guerra mundial.
+* Podrías trasladar el teatro de operaciones de Europa y Norte de África con base en Inglaterra a por ejemplo el Pacífico con base en San Francisco y sustituyendo a los nazis por imperialistas nazis.
+* Podrías aplicar todo este contenido a una Guerra Fría más o menos beligerante en la que tus comandos se enfrentarán a los comunistas rusos de Stalin.
+
 ### Ciencia extraña
-No hay ningún tipo de magia en esta campaña, pero eso no quiere decir que no puedas meterla. La forma más sencilla y que creo que mejor pega es usar la Ciencia Extraña. Nunca sobran científicas y científicos locos nazis, así que puedes meter ciertos elementos de Ciencia Extraña para darle un toque más Pulp a la aventura. Estamos hablando de soldados nazis con mochilas de salto y pistolas de rayos o sueros de super-soldado que permitan enfrentarse cuerpo a cuerpo contra los dinosaurios.
+No hay ningún tipo de magia en esta campaña, pero eso no quiere decir que no puedas meterla. La forma más sencilla y que creo que mejor pega es usar la Ciencia Extraña.
+
+Nunca sobran científicas y científicos locos nazis, así que puedes meter ciertos elementos de Ciencia Extraña para darle un toque más Pulp a la aventura. Estamos hablando de soldados nazis con mochilas de salto y pistolas de rayos o sueros de super-soldado que permitan enfrentarse cuerpo a cuerpo contra los dinosaurios.
+
+\saltopagina
+
+Si quieres rizar el rizo y conseguir altas cuotas de Pulp, se podría, por ejemplo, hacer que los nazis tengan tecnología alienígena procedente de un platillo volante.
 
 ### Otras formas de magia
 xxx
@@ -427,9 +461,7 @@ xxx
 ```
 Sabotear las fábricas de agua pesada de Telemark es fundamental si queremos ganar la guerra. La operación Gunnerside necesita una distracción para poder hacer su trabajo y que mejor distracción que una horda de dinosaurios asesinos sembrando el caos y la muerte es la tundra Noruega. Cuantas más unidades atraigan más fácil será la misión de sabotaje.
 ```
-
 xxx
-
 
 ## Otras misiones
 xxx
@@ -471,17 +503,16 @@ xxx
 ***
 
 # Parte 8: Regreso al Mundo Perdido
-
-[![Mapa del Mundo Perdido hecho por Maple White](./assests/images/maple-white-mapa.jpg 'Page 222 (The Lost World, 1912)')](https://es.wikipedia.org/wiki/Archivo:Page_222_(The_Lost_World,_1912).jpg 'Page 222 (The Lost World, 1912)')
-
-\saltopagina
-
 xxx
 
 ## Carrera al Mundo perdido
 xxx
 
 [![Foto de la meseta](./assests/images/roraima.jpg 'Mañana despejada en Monte Roraima, vista desde la vía que lleva allá desde la comunidad pemón de Paraitepuy, en la Gran Sabana, Venezuela - Paolo Costa Baldi')](https://es.wikipedia.org/wiki/Roraima_(tepuy)#/media/Archivo:Roraima3_(79).JPG 'Mañana despejada en Monte Roraima, vista desde la vía que lleva allá desde la comunidad pemón de Paraitepuy, en la Gran Sabana, Venezuela - Paolo Costa Baldi')
+
+\saltopagina
+
+[![Mapa del Mundo Perdido hecho por Maple White](./assests/images/maple-white-mapa.jpg 'Page 222 (The Lost World, 1912)')](https://es.wikipedia.org/wiki/Archivo:Page_222_(The_Lost_World,_1912).jpg 'Page 222 (The Lost World, 1912)')
 
 \saltopagina
 
@@ -501,23 +532,34 @@ xxx
 ***
 
 # Parte 9: La Selva Negra
+
+## La fortaleza inexpugnable
 ```
-Parece que los nazis no solo buscaban dinosaurios para su ejército, también buscaba los diamantes de la arcilla azul. Parece que van a crear una arma terrible con los diamantes que puede cambiar el curso de la guerra a su favor. 
+Parece que los nazis no solo buscaban dinosaurios para su ejército, también buscaba los diamantes de la arcilla azul. Parece que van a crear una arma terrible con los diamantes sacados del Mundo PErdido que puede cambiar el curso de la guerra a su favor. 
 ```
 xxx
-
-
 
 ***
 
 # Relatos salvajes
-xxx
+Todos los relatos salvajes que encontrarás en este capítulo son aventuras que puedes intercalar dentro de la campaña en el momento que desees y que no tienen una ubicación concreta o un momento histórico exacto. Muchos de estos relatos puedes jugarlos entre capítulo y capítulo cuando regresan a la base en la isla de Skie.
+
+Están pensadas como interludios divertidos en los que los tu mesa podrá desarrollar el trasfondo de sus comandos, hacer contactos, conseguir o devolver favores o simplemente conocer más cosas de este mundo.
 
 ## Un día en el museo
 ```
-Quizas una visita al Museo de Ciencias Naturales ayude a solucionar un nuevo problema que ha supuesto la cría de dinosarurios.
+Quizas una visita al Museo de Ciencias Naturales ayude a solucionar un nuevo problema que ha supuesto la cría de dinosaurios.
 ```
 xxx
+
+## Cena de etqueta
+```
+La Reina quiere agasajar a las heroinas y héroes de la fundación Roxton con una cena en el Castillo de Balmoral donde podrá conocer a los dinosaruios que les acompañan en sus peligrosas misiones.
+```
+
+xxx
+
+\saltopagina
 
 ## Despedidas
 ```
