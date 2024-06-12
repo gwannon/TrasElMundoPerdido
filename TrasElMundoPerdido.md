@@ -18,6 +18,10 @@ xxx
 
 xxx
 
+\saltopagina
+
+[![Dibujo de un estegosaurio](./assests/images/estegosaurio.jpg 'Encuentro con el Stegosaurus - Arthur Conan Doyle')](https://es.wikipedia.org/wiki/El_mundo_perdido#/media/Archivo:Page_59_(The_Lost_World._1912).jpg 'Encuentro con el Stegosaurus - Arthur Conan Doyle')
+
 ## La expedición Roxton
 xxx
 
@@ -31,12 +35,19 @@ La fundación Roxton tienes unos recursos increíbles, ya que se ha dedicado dur
 ***
 
 # Acerca de los dinosaurios
-xxx
+
+## Cómo llevar dinosaurios
+La idea principal sobre cómo tratar e interpretar a los dinosaurios no es que sean meras extensiones de tus comandos, sino que sean una especie de PNJ llevados a medias por ti y tu mesa de juego. 
+
+Deberían tener un poco de libre albedrío y algo de carácter (definido principalmente por la desventaja que le pone su humano) y a la vez obedecer las órdenes de su compañero humano. De forma que, por ejemplo, un alosaurio sanguinario seguirá peleando pese a que su humano le ordene detenerse.
 
 ## Día a día de los dinosaurios
 xxx
 
 ### Las instalaciones de la Fundación Roxton
+xxx
+
+#### Hospital de dinosaurios
 xxx
 
 ### El "Mary Anning" y sus instalaciones
@@ -51,12 +62,12 @@ Esta sala llena de pupitres, una gran pizarra y un pequeño proyector de cine y 
 #### Sala de radio
 xxx
 
+\saltopagina
+
 #### La esclusa de los plesiosaurios
 xxx
 
-\saltopagina
-
-## Caracter de los saurios
+## Carácter de los saurios
 xxx
 
 ## Dinosaurios en misiones
@@ -233,7 +244,7 @@ por las abarrotadas calles del zoco de Marrakech, así que aquí tienes las esta
 |Pterodáctilo|xxx|xxx|xxx|95km/h|xxx|
 |Plesiosaurio|xxx|xxx|xxx|40km/h|xxx|
 
-Recuerda que los dinosaurios son también parte tripulación del vehículo. Así pues, aparte de correr, pueden hacer otras acciones en la fase de XXX como atacar al enemigo, derribar árboles para cortar el camino a sus perseguidores, etc.
+Recuerda que los dinosaurios son también parte tripulación del vehículo. Así pues, aparte de correr, pueden hacer otras acciones en cada ronda de persecución como atacar al enemigo, derribar árboles para cortar el camino a sus perseguidores, etc.
 
 \saltopagina
 
@@ -323,7 +334,7 @@ Se ha intentado montar armas de fuego pesadas encima de los dinosaurios, pero si
 Como en el caso del collar de entrenamiento, no deberían ser equipo que deberías permitir usar a tus comandos. Más bien serían las mejoras que un alto oficial de las SS pondría a su alosaurio de combate al que no se preocupa el bienestar de su compañero.
 
 ### Plaustro
-Este carro de madera con estructura metálica está adaptado a las diferentes fisonomías de iguanodones y estogosaurios y permite transportar gran cantidad de material por terrenos difíciles. Puede adaptarse al lugar y por ejemplo tener esquís para la nieve en vez de ruedas.
+Este carro de madera con estructura metálica está adaptado a las diferentes fisonomías de iguanodones y estegosaurios y permite transportar gran cantidad de material por terrenos difíciles. Puede adaptarse al lugar y por ejemplo tener esquís para la nieve en vez de ruedas.
 
 > La capacidad de carga de un dinosaurio tirando de un plaustro se calcula como si su FUE fuera x4, siempre que la carga vaya en el carro y esté medianamente equilibrada y bien colocada.
 
@@ -358,23 +369,35 @@ Estas localizaciones y los eventos que ocurren en ellas tienen un orden cronoló
 
 En cada localización habrá una aventura principal y varias aventuras secundarias, donde obtendrán pruebas de que hay un traidor en la Fundación.
 
-El conspirador se ha vendido a los nazis y les ha entregado el secreto más importante que guarda la Fundación Roxton, la localización de Mundo Perdido. Si Hitler puede hacerse con un ejército de dinosaurios será imparable. También ha propiciado la caída de la Fundación Roxton. Así que a partir de este momento volarán solos. 
+El conspirador se ha vendido a los nazis y les ha entregado el secreto más importante que guarda la Fundación Roxton, la localización de Mundo Perdido. Si Hitler puede hacerse con un ejército de dinosaurios será imparable.
+
+También ha propiciado la caída y la destrucción de la Fundación Roxton. Las instalaciones han sido arrasadas y los dinosaurios que vivían en ellas han sido capturados o asesinados. Así que a partir de este momento volarán solos. 
 
 Todos estos eventos les obligarán a empezar una carrera contra los nazis por llegar al Mundo Perdido antes que ellos y sabotear su misión de captura de dinosaurios.
 
-La aventura acabará en la Selva Negra donde tu comando deberá tomar un castillo inexpugnable y desbaratar los planes de crear un arma terrible con un descubrimiento que han hecho en el Mundo Perdido, los diamantes de la arcilla azul.
+La aventura acabará en la Selva Negra donde tu comando deberá tomar un castillo inexpugnable protegido por tropas nazis y los dinosaurios que capturaron en en la fundación y desbaratar los planes de crear un arma terrible con un descubrimiento que han hecho en el Mundo Perdido, los diamantes de la arcilla azul.
 
 xxx
 
 \saltopagina
 
+## Los viajes
+Como buena historia de aventuras los viajes no serán importantes, no importa ni el coste ni el tiempo ni si hay submarinos alemanes en esas aguas. Siempre llegarán a tiempo y sin problemas. 
+
+Vamos a usar el recurso fílmico llamado "viajar por el mapa". Cuando tu comando decida ir a Noruega, como en Indiana Jones la imagen se fundirá hasta verse un mapamundi viejo y descolorido y un barco partirá de Escocia dejando tras de sí una línea roja punteada de su ruta. Cruzará el mar del Norte
+y llegará finalmente a la costa de Noruega.
+
+No hay tablas de encuentros aleatorios, ni tiradas de climatología, ni nada por el estilo. Aunque eres libre si quieres de meter los encuentros que desees.
+
 ## Personalizando y continuando la campaña
 xxx
 
 ### Mas Mundos Perdidos y más especies de dinosaurios
-La tierra de Naple White no tiene por qué ser el único mundo perdido. Quizás los nazis hayan descubierto una tierra salvaje en mitad de la Antártida alimentada por el calor de los volcanes donde han sobrevivido otras especies de dinosaurios.
+La tierra de Naple White no tiene por qué ser el único mundo perdido. Quizás los nazis hayan descubierto una tierra salvaje en mitad de la Antártida alimentada por el calor de los volcanes donde han sobrevivido otras especies de dinosaurios. Sin olvidarnos que igual en alguna sima oceánica haya gigantescos saurios acuáticos que una bomba nuclear lanzada sobre Japón pueda despertar.
 
 Los dinosaurios elegidos para esta campaña han sido los que aparecen en la novela original de Sir Arthur Conan Doyle, pero puedes encontrar fácilmente las estadísticas de otras especies como el Tiranosaurio. Así que mete las especies que quieras, incluso especies más modernas y perfectamente disfrutables como un tigre dientes de sable o un mamut.
+
+\saltopagina
 
 ### Otros conflictos bélicos
 Esta campaña está desarrollada para jugarla en la II Guerra Mundial en Europa y Norte de África, pero con algunos cambios puedes prepararla para otros conflictos bélicos. Vemos algunos ejemplos:
@@ -387,8 +410,6 @@ Esta campaña está desarrollada para jugarla en la II Guerra Mundial en Europa 
 No hay ningún tipo de magia en esta campaña, pero eso no quiere decir que no puedas meterla. La forma más sencilla y que creo que mejor pega es usar la Ciencia Extraña.
 
 Nunca sobran científicas y científicos locos nazis, así que puedes meter ciertos elementos de Ciencia Extraña para darle un toque más Pulp a la aventura. Estamos hablando de soldados nazis con mochilas de salto y pistolas de rayos o sueros de super-soldado que permitan enfrentarse cuerpo a cuerpo contra los dinosaurios.
-
-\saltopagina
 
 Si quieres rizar el rizo y conseguir altas cuotas de Pulp, se podría, por ejemplo, hacer que los nazis tengan tecnología alienígena procedente de un platillo volante.
 
@@ -497,7 +518,10 @@ xxx
 
 ***
 
-# Parte 7: Traición
+# Parte 7: Regreso a casa
+xxx
+
+## Traición
 xxx
 
 ***
@@ -552,14 +576,21 @@ Quizas una visita al Museo de Ciencias Naturales ayude a solucionar un nuevo pro
 ```
 xxx
 
-## Cena de etqueta
+## Cena de etiqueta
 ```
-La Reina quiere agasajar a las heroinas y héroes de la fundación Roxton con una cena en el Castillo de Balmoral donde podrá conocer a los dinosaruios que les acompañan en sus peligrosas misiones.
+La Reina quiere agasajar a las heroínas y héroes de la fundación Roxton con una cena en el Castillo de Balmoral donde podrá conocer a los dinosaurios que les acompañan en sus peligrosas misiones.
 ```
 
 xxx
 
 \saltopagina
+
+## El pecio
+```
+Mientras el Mary Anning surcaba el mar uno de los plesiosaurios que viaja con él, ha aparecido con un extraño objeto en la boca. Quizás no es mala idea pararse y buscar donde lo ha encontrado.
+```
+
+xxx
 
 ## Despedidas
 ```
@@ -584,7 +615,7 @@ xxx
 ### Edward Malone
 xxx
 
-### Dolores xxx, capitana del "Mary Anning"
+### Dolores Brannigan, capitana del "Mary Anning"
 xxx
 
 ## Antagonistas
@@ -782,7 +813,8 @@ Sus potentes piernas también le convierten en el dinosaurio terrestre más ráp
 
 \saltopagina
 
-[![Dibujo de un estegosaurio](./assests/images/estegosaurio.jpg 'Encuentro con el Stegosaurus - Arthur Conan Doyle')](https://es.wikipedia.org/wiki/El_mundo_perdido#/media/Archivo:Page_59_(The_Lost_World._1912).jpg 'Encuentro con el Stegosaurus - Arthur Conan Doyle')
+[![Foto de un estegosaurio](./assests/images/estegosaurio.png 'Life restoration of the "Sophie" Stegosaurus specimen - Fred Wierum')](https://es.wikipedia.org/wiki/Stegosaurus#/media/Archivo:Stegosaurus_stenops_Life_Reconstruction.png 'Life restoration of the "Sophie" Stegosaurus specimen - Fred Wierum')
+
 
 ### Estegosaurio
 * Herbívoro

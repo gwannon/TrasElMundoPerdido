@@ -411,11 +411,18 @@ section:nth-of-type(11) h1 {
   text-shadow: 0 0 20px black;
 }
 
+section:nth-of-type(12) h1 {
+  background: #000 url(../images/telemark.jpg) center center no-repeat;
+  background-size: cover;
+  text-shadow: 0 0 20px black;
+}
+
 section:nth-of-type(13) h1 {
   background: #000 url(../images/francia.jpg) center center no-repeat;
   background-size: cover;
   text-shadow: 0 0 20px black;
 }
+
 
 /* Portada */
 section:first-of-type {
