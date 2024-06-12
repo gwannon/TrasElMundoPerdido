@@ -39,7 +39,16 @@ xxx
 ### Las instalaciones de la Fundación Roxton
 xxx
 
-### Las instalaciones del "Mary Anning"
+### El "Mary Anning" y sus instalaciones
+xxx
+
+#### Pieza de artillería anti-aérea camuflada
+xxx
+
+#### Sala de misiones
+Esta sala llena de pupitres, una gran pizarra y un pequeño proyector de cine y otro de diapositivas sirve para explicar a los comandos la misión en la que se van a embarcar.
+
+#### Sala de radio
 xxx
 
 #### La esclusa de los plesiosaurios
@@ -190,6 +199,12 @@ El comando que adquiere esta ventaja puede convertir a un dinosaurio con el que 
 
 Esta ventaja **sustituye a la ventaja Señor de las Bestias**. La ventaja Vinculo Animal solo serviría para dar benis a otros dinosaurios que no sean compañeros de ningún comando. 
 
+### Nueva ventaja: Los números primos son rojos y huelen dulces
+**Requisitos:** Novato, Astucia d8
+
+Eres un genio de las matemáticas. Tú forma de ver los números es diferente al del resto de la gente y resuelven complicados cálculos en segundos.
+Recibes un **+2 en tiradas en que las matemáticas sean importantes** desde Apostar contando cartas, Investigar libros de cuentas o Disparar grandes piezas de artillerías hasta desencriptar códigos secretos o calcular trayectorias de misiles, ambas con Ciencias.
+
 \saltopagina
 
 ## Vehículos
@@ -224,13 +239,27 @@ Operación: Tras el Mundo Perdido tiene equipamiento especial tanto para tus com
 
 Un artesano/ingeniero diestro podría replicar alguno de estos objetos con los materiales, las herramientas y los planos y especificaciones adecuadas.
 
+### Maletín de rebelado de foto
+Este maletín que a simple vista parece de oficinista contiene todo lo necesario para el rebelado de fotos: compuestos químicos, luz roja, papel fotográfico, etc. 
+Permite el rebelado de 3 carretes de 24 fotos, antes de que se agoten sus componentes.
+> Cualquier persona con Ciencias d6 o más puede revelar fotos con él. Pero se necesitará tirada si se quieren conseguir efectos especiales, intentar corregir fallos en las fotos o rebelar microfilms.
+
 ### Medidas desesperadas
 Estos dispositivos letales en forma de cápsula permiten al comando suicidarse en caso de que vaya a caer en manos de los nazis.
 xxx
-**Recuerda:** Este dispositivo es totalmente opcional y es casi más para PNJ que para PJ. Es una forma de darle dramatismo a la muerte de ciertas personas. Si crees que no es adecuado para tu mesa puedes eliminarlo de tus partidas o aplicar lao velos y herramientas de seguridad que creas necesarias. Te recordamos que es suicidio es un tema complicado que deberías tratar con la mayor madurez.
+**Recuerda:** Este dispositivo es totalmente opcional y es casi más para PNJ que para PJ. Es una forma de darle dramatismo a la muerte de ciertas personas. Si crees que no es adecuado para tu mesa puedes eliminarlo de tus partidas o aplicar los velos y herramientas de seguridad que creas necesarias. Te recordamos que es suicidio es un tema complicado que deberías tratar con la mayor madurez.
 
 ### Radio de campaña
-xxx
+Esta radio portátil permite a tu comando recibir y enviar información. El radio de acción es corto y se reduce si hay montañas y otros accidentes geográficos y atmosféricos que afecten a la señal de radio.
+Para largas comunicaciones tendrían que comunicarse con el "Mary Anning" y este con su radio de largo alcance reenviar el mensaje a la fundación Roxton o al Alto Mando del Ejército Inglés.
+> Con un mínimo entrenamiento cualquiera puede usar la radio, pero se necesitará una tirada de Electrónica para hacerla funcionar en condiciones extremas o para conseguir cosas fuera de sus capacidades normales.
+> En caso de problemas de recepción o envío de señales de radio, una tirada de Ciencias estudiando el entorno permitirá descubrir que afecta a las comunicaciones y dará un +2 a la tirada de Electrónica para tratar de solventarlo.
+
+### Otro equipo especial
+Aparte del equipo anterior tendrán acceso a típico equipo de comando o de espía como:
+* Garfio, lanzador de garfio y equipo de escalada
+* Minicámara fotográfica
+* xxx
 
 ## Equipo para dinosaurios
 xxx
