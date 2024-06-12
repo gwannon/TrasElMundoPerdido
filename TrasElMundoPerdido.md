@@ -239,15 +239,15 @@ Operación: Tras el Mundo Perdido tiene equipamiento especial tanto para tus com
 
 Un artesano/ingeniero diestro podría replicar alguno de estos objetos con los materiales, las herramientas y los planos y especificaciones adecuadas.
 
+### Cápsulas de suicidio
+Estos dispositivos letales en forma de cápsula permiten al comando suicidarse en caso de que vaya a caer en manos de los nazis.
+xxx
+**Recuerda:** Este dispositivo es totalmente opcional y es casi más para PNJ que para PJ. Es una forma de darle dramatismo a la muerte de ciertas personas. Si crees que no es adecuado para tu mesa puedes eliminarlo de tus partidas o aplicar los velos y herramientas de seguridad que creas necesarias. Te recordamos que es suicidio es un tema complicado que deberías tratar con la mayor madurez.
+
 ### Maletín de rebelado de foto
 Este maletín que a simple vista parece de oficinista contiene todo lo necesario para el rebelado de fotos: compuestos químicos, luz roja, papel fotográfico, etc. 
 Permite el rebelado de 3 carretes de 24 fotos, antes de que se agoten sus componentes.
 > Cualquier persona con Ciencias d6 o más puede revelar fotos con él. Pero se necesitará tirada si se quieren conseguir efectos especiales, intentar corregir fallos en las fotos o rebelar microfilms.
-
-### Medidas desesperadas
-Estos dispositivos letales en forma de cápsula permiten al comando suicidarse en caso de que vaya a caer en manos de los nazis.
-xxx
-**Recuerda:** Este dispositivo es totalmente opcional y es casi más para PNJ que para PJ. Es una forma de darle dramatismo a la muerte de ciertas personas. Si crees que no es adecuado para tu mesa puedes eliminarlo de tus partidas o aplicar los velos y herramientas de seguridad que creas necesarias. Te recordamos que es suicidio es un tema complicado que deberías tratar con la mayor madurez.
 
 ### Radio de campaña
 Esta radio portátil permite a tu comando recibir y enviar información. El radio de acción es corto y se reduce si hay montañas y otros accidentes geográficos y atmosféricos que afecten a la señal de radio.
@@ -258,7 +258,7 @@ Para largas comunicaciones tendrían que comunicarse con el "Mary Anning" y este
 ### Otro equipo especial
 Aparte del equipo anterior tendrán acceso a típico equipo de comando o de espía como:
 * Garfio, lanzador de garfio y equipo de escalada
-* Minicámara fotográfica
+* Mini-cámara fotográfica
 * xxx
 
 ## Equipo para dinosaurios
