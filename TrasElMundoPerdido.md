@@ -442,9 +442,9 @@ Esta campaña está desarrollada para jugarla en la II Guerra Mundial en Europa 
 ### Ciencia extraña
 No hay ningún tipo de magia en esta campaña, pero eso no quiere decir que no puedas meterla. La forma más sencilla y que creo que mejor pega es usar la Ciencia Extraña.
 
-Nunca sobran científicas y científicos locos nazis, así que puedes meter ciertos elementos de Ciencia Extraña para darle un toque más Pulp a la aventura. Estamos hablando de soldados nazis con mochilas de salto y pistolas de rayos o sueros de supersoldado que permitan enfrentarse cuerpo a cuerpo contra los dinosaurios.
+Nunca sobran científicas y científicos locos nazis, así que puedes meter ciertos elementos de Ciencia Extraña para darle un toque más pulp a la aventura. Estamos hablando de soldados nazis con mochilas de salto y pistolas de rayos o sueros de supersoldado que permitan enfrentarse cuerpo a cuerpo contra los dinosaurios.
 
-Si quieres rizar el rizo y conseguir altas cuotas de Pulp, se podría, por ejemplo, hacer que los nazis tengan tecnología alienígena procedente de un platillo volante.
+Si quieres rizar el rizo y conseguir altas cuotas de pulp, se podría, por ejemplo, hacer que los nazis tengan tecnología alienígena procedente de un platillo volante.
 
 ### Otras formas de magia
 xxx
@@ -487,7 +487,7 @@ xxx
 
 ## Sitio de Tobruk
 ```
-El ejército necesita que el comando entre Tobruk y saque a un agente que tiene información vital para inteligencia militar. El único problema es que la ciudad esta asediada por los Africa Korps.
+El ejército necesita que el comando entre Tobruk y saque a un agente que tiene información vital para inteligencia militar. El único problema es que la ciudad esta asediada por los "Africa Korps".
 ```
 
 xxx
@@ -533,7 +533,7 @@ xxx
 
 ### Arte robado
 ```
-Tu comando debe ayudar a los Monuments Men a recuperar arte robado por los Nazis.
+Tu comando debe ayudar a los "Monuments Men" a recuperar arte robado por los Nazis.
 ```
 
 xxx
@@ -629,6 +629,12 @@ xxx
 ```
 La guerra se ha acabado y quizás es el momento de que los dinosaurios vuelvan a su mundo. 
 ```
+xxx
+
+## Semillas de aventuras
+xxx
+
+### La gran evasión
 xxx
 
 ***
@@ -817,6 +823,7 @@ xxx
 * Carnívoro
 * Terrestre
 * 4x2 casillas
+* Código: xxx
 
 xxx
 
@@ -853,6 +860,7 @@ Sus potentes piernas también le convierten en el dinosaurio terrestre más ráp
 * Herbívoro
 * Terrestre
 * 0x0 casillas
+* Código: xxx
 
 xxx
 
@@ -869,6 +877,7 @@ xxx
 * Carnívoro
 * Acuático
 * 0x0 casillas
+* Código: xxx
 
 xxx
 
@@ -885,6 +894,7 @@ xxx
 * Herbívoro
 * Terrestre
 * 0x0 casillas
+* Código: xxx
 
 xxx
 
@@ -903,6 +913,7 @@ xxx
 * Carnívoro
 * Terrestre
 * 0x0 casillas
+* Código: xxx
 
 xxx
 
@@ -921,6 +932,7 @@ xxx
 * Carnívoro
 * Acuático
 * 0x0 casillas
+* Código: DUKW (Pronunciado como DUCK, PATO en castellano)
 
 xxx
 
@@ -949,6 +961,7 @@ Sus extremidades de un metro cada una formaban aletas alargadas, en forma de rem
 * Carnívoro
 * Volador
 * 0x0 casillas
+* Código: Spitfire
 
 xxx
 
@@ -1060,6 +1073,7 @@ Y sinceramente porque los dinosaurios molan.
 
 ### Maltrato animal
 Estoy totalmente en contra del maltrato animal y espero que las personas que vayan a jugar esta campaña sientan el mismo respeto que yo por los animales y el medio ambiente en general. MI idea al crear esta campaña es que los dinosaurios fueran personajes importantes en la trama que luchen y sufran como los PJ y que se haga lo que sea necesario para protegerlos y viceversa. La muerte de un dinosaurio no puede ser algo banal debe tener una justificación y ser importante en una trama.
+
 Si en tu mesa se usan a los compañeros dinosaurios como objetos de usar tirar y donde no importa si sufren o mueren, tómatelo como una tremenda "red flag".   
 
 ### Suicidio
@@ -1069,10 +1083,10 @@ ser cuidadoso a la hora de mostrarlo o eliminarlo si crees que no tu mesa no est
 \saltopagina
 
 ### Fascismo y nazismo
-Esta campaña va de joder los malvados planes de los nazis, así que cualquier tipo de actividad en partida que suponga simpatizar con nazis y fascistas y su ideología debería ser una "red flag" clarísima. Si tus compañeros y compañeras de mesa, ensalzan de alguna manera las ideas de nazis y fascistas deberías levantarte e irte y si eres tú, él o la que las ensalza que sepas que eres un pedazo de mierda. 
+Esta campaña va de joder los malvados planes de los nazis, así que cualquier tipo de actividad en partida que suponga simpatizar con nazis y fascistas y su ideología debería ser una "red flag" clarísima. Si tus compañeros y compañeras de mesa ensalzan de alguna manera las ideas de nazis y fascistas, deberías levantarte e irte y si eres tú, él o la que las ensalza que sepas que eres un pedazo de mierda. 
 
 ### Veracidad histórica
-Ninguna, ya que para empezar hay dinosaurios. Esta campaña está más cerca del pulp y de las películas de evasiones y misiones imposibles de la II Guerra Mundial que de los hechos históricos. La veracidad ha sido sacrificada en pos de la aventura. Por ejemplo, se busca más que haya un épico combate a puñetazos sobre la superficie de un zepelín al hecho de estos cayeron en desuso antes de empezar la guerra.  
+Ninguna, ya que para empezar hay dinosaurios. El espíritu de esta campaña está más cerca del pulp y de las películas de evasiones y misiones imposibles de la II Guerra Mundial que de los hechos históricos. La veracidad ha sido sacrificada en pos de la aventura. Por ejemplo, se busca más que haya un épico combate a puñetazos sobre la superficie de un zepelín al hecho de estos cayeron en desuso antes de empezar la guerra.  
 
 ### ¿Puedo hacer lo quiera con esta campaña?
 Sí, puedes. Con referenciarla puedes hacer lo que quieras. Si te gusta como se tratan la II Guerra Mundial, olvídate de los dinosaurios y juega una aventura de comandos. O puedes usar las estadísticas de los dinosaurios y hacer una aventura en el Mundo Perdido.
@@ -1094,8 +1108,6 @@ Aquí tienes algunas herramientas de seguridad que puedes usar:
 ### Participar en el proyecto
 Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a través de GitHub en este [proyecto](https://github.com/gwannon/TrasElMundoPerdido). Si no estás familiarizado con Git, pues me mandas un DM en Twitter a [@Gwannon](https://twitter.com/gwannon) y hablamos.
 
-
-
 ## Atribuciones
 * Los dinosaurios están basados en [Savage Free Bestiary](https://docs.google.com/document/d/1qu4zzMYbPqOquVlCfgpPeoCmCEqGUgWh5dz-rpKJ1ck/edit?hl=it&authkey=CIySp98E#heading=h.7xcwydin4cfe)
 * [Libro original](https://archive.org/details/lostworldbeingac00doylrich/page/n220/mode/1up) en inglés con ilustraciones
@@ -1110,19 +1122,35 @@ No soy propietario de ninguna de las imágenes de este documento. Estoy usando i
 * [Portada "Parte 3: Río de la plata"](https://upload.wikimedia.org/wikipedia/commons/c/ce/Graf_Spee_Wreck_USNphoto_1.jpg)
 * [Portada "Parte 4: Noruega"](https://www.nia.no/en/the-saboteurs/)
 * [Portada "Parte 5: La Francia Ocupada"](https://en.wikipedia.org/wiki/Battle_of_Saint-Malo#/media/File:Bomb_exploding_during_the_Battle_of_Saint-Malo_August_1944.jpg)
+* [Epílogo](https://commons.wikimedia.org/wiki/File:Dinosaur_footprint_%284056320716%29.jpg)
 * [Fondo portada y contraportada](https://pixabay.com/es/photos/papel-viejo-textura-pergamino-1074131/)
 * [Fondo páginas interiores](https://pixabay.com/es/illustrations/papertexture-textura-papel-2061710/)
 * [Sello Top Secret](https://pixabay.com/es/illustrations/ultra-secreto-confidencial-2054429/)
 * [Siluetas de dinosaurios](https://www.cleanpng.com/free/dinosaur-silhouette.html)
 * [Celo](https://www.freepik.com/free-vector/plastic-adhesive-duct-tape-set-with-transparent-background-realistic-images-with-pieces-sealing-tape-vector-illustration_132327926.htm)
 
-## Música para las partidas
+## Música para ambientar
 Si necesitas música para ambientar tus partidas estás son algunas ideas:
 
 * BSO de **La gran evasión**: Perfecta para darle un tono épico y otras veces desenfadado. Si tus comandos son unos viejunos seguramente entrarán en ambiente con los primeros compases.
 * BSO de **Violentos de Kelly**: Si quieres un toque más desenfadado a tus aventuras, tiene el punto perfecto.
 * BSO de **Cañones de Navarone**: Otra buena opción para música épica.
-* BSO de **Adiós al rey**: Esta joya de Basil Poleoduris es idónea para momento trágico aunque el sonido de flautas a veces no pegue.
+* BSO de **Adiós al rey**: Esta joya de Basil Poleoduris es idónea para momentos trágicos aunque el sonido de flautas a veces no pegue.
+
+\saltopagina
+
+## Otros proyectos que te pueden interesar 
+Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage Worlds. Animaros y dadles un poco de cariño.
+
+[![¡Arrr! Cthulhu](./assests/images/arrrcthulhu.jpg 'Aventuras de piratas en el Caribe de los Mitos de Cthulhu')](https://arrrcthulhu.com/pdf/ 'Aventuras de piratas en el Caribe de los Mitos de Cthulhu')
+
+**[¡Arrr! Cthulhu: Aventuras de piratas en el Caribe de los Mitos de Cthulhu](https://arrrcthulhu.com/pdf/)** 
+
+&nbsp;
+
+[![Mil y Un Ghūles](./assests/images/1001ghules.jpg 'Aventuras de horror cósmico en los cuentos de las Mil y Una Noches')](https://1001ghules.gwannon.com/pdf/ 'Aventuras de horror cósmico en los cuentos de las Mil y Una Noches')
+
+**[Mil y Un Ghūles: Aventuras de horror cósmico en los cuentos de las Mil y Una Noches](https://1001ghules.gwannon.com/pdf/)** 
 
 ***
 
