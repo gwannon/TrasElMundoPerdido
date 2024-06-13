@@ -332,9 +332,6 @@ table {
   box-sizing: border-box;
   margin-bottom: 20px;
 }
-p{
-  border-image: url(../images/borde-tabla.png) 5 5 space;
-}
 
 div:has(table){
   overflow-x: auto;

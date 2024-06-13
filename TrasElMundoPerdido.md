@@ -493,7 +493,7 @@ Todos estos poderes mentales pueden cuadrar en esta campaña dando a tus némesi
 #### Magia negra, vudú y nigromancia
 Todos conocemos de la fascinación de los nazis y la magia. Pero no nos vale una magia normal brillante y luminosa. Hablamos de magia corrupta, de maldiciones, nigromancia, vudú, de rituales sangrientos y de sacrificios animales y humanos.
 
-Que tus comandos sean víctimas de posesiones, que sean atacados en sus sueños, o que tengan que obedecer a un brujo/nazi porque les ha arrancado el corazon y si no le obedecen los matará, son elementos que pueden añadir muy diversión a esta campaña. 
+Que tus comandos sean víctimas de posesiones, que sean atacados en sus sueños, o que tengan que obedecer a un brujo/nazi porque les ha arrancado el corazón y si no le obedecen los matará, son elementos que pueden añadir mucha diversión a esta campaña. 
 
 ***
 
@@ -1198,7 +1198,7 @@ Tras el Mundo Perdido es una campaña de puntos argumentales donde lucharás con
 
 Este libro contiene:
 
-1. Una campaña de puntos argumentales con más de xxx de aventuras.
+1. Una campaña de puntos argumentales con más de 20 de aventuras.
 2. **8 localizaciones por todo el mundo**, desde el norte de África a Noruega o el río de la Plata, donde realizar misiones.
 3. Reglas para crear tu comando de jinetes de dinosaurios.
 
