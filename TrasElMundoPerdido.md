@@ -350,7 +350,7 @@ Se ha intentado montar armas de fuego pesadas encima de los dinosaurios, pero si
 Como en el caso del collar de entrenamiento, no deberían ser equipo que deberías permitir usar a tus comandos. Más bien serían las mejoras que un alto oficial de las SS pondría a su alosaurio de combate al que no se preocupa el bienestar de su compañero.
 
 ### Plaustro
-Este carro de madera con estructura metálica está adaptado a las diferentes fisonomías de iguanodones y estegosaurios y permite transportar gran cantidad de material por terrenos difíciles. Puede adaptarse al lugar y por ejemplo tener esquís para la nieve en vez de ruedas.
+Este carro de madera con estructura metálica está adaptado a las diferentes fisonomías de iguanodontes y estegosaurios y permite transportar gran cantidad de material por terrenos difíciles. Puede adaptarse al lugar y por ejemplo tener esquís para la nieve en vez de ruedas.
 
 > La capacidad de carga de un dinosaurio tirando de un plaustro se calcula como si su FUE fuera x4, siempre que la carga vaya en el carro y esté medianamente equilibrada y bien colocada.
 
@@ -407,10 +407,10 @@ No hay tablas de encuentros aleatorios, ni tiradas de climatología, ni nada por
 ## Personalizando y continuando la campaña
 xxx
 
-### Mas Mundos Perdidos y más especies de dinosaurios
+### Más Mundos Perdidos y más especies de dinosaurios
 La tierra de Maple White no tiene por qué ser el único mundo perdido. Quizás los nazis hayan descubierto una tierra salvaje en mitad de la Antártida alimentada por el calor de los volcanes donde han sobrevivido otras especies de dinosaurios. Sin olvidarnos que igual en alguna sima oceánica haya gigantescos saurios acuáticos que una bomba nuclear lanzada sobre Japón pueda despertar.
 
-Los dinosaurios elegidos para esta campaña han sido los que aparecen en la novela original de Sir Arthur Conan Doyle, pero puedes encontrar fácilmente las estadísticas de otras especies como el Tiranosaurio. Así que mete las especies que quieras, incluso especies más modernas y perfectamente disfrutables como un tigre dientes de sable o un mamut.
+Los dinosaurios elegidos para esta campaña han sido los que aparecen en la novela original de Sir Arthur Conan Doyle, pero puedes encontrar fácilmente las estadísticas de otras especies como el tiranosaurio. Así que mete las especies que quieras, incluso especies más modernas y perfectamente disfrutabas como un tigre dientes de sable o un mamut.
 
 \saltopagina
 
@@ -581,7 +581,7 @@ xxx
 ***
 
 # Relatos salvajes
-Todos los relatos salvajes que encontrarás en este capítulo son aventuras que puedes intercalar dentro de la campaña en el momento que desees y que no tienen una ubicación concreta o un momento histórico exacto. Muchos de estos relatos puedes jugarlos entre capítulo y capítulo cuando regresan a la base en la isla de Skie.
+Todos los relatos salvajes que encontrarás en este capítulo son aventuras que puedes intercalar dentro de la campaña en el momento que desees y que no tienen una ubicación concreta o un momento histórico exacto. Muchos de estos relatos puedes jugarlos entre capítulo y capítulo cuando regresan a la base en la isla de Skye.
 
 Están pensadas como interludios divertidos en los que los tu mesa podrá desarrollar el trasfondo de sus comandos, hacer contactos, conseguir o devolver favores o simplemente conocer más cosas de este mundo.
 
