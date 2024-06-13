@@ -242,10 +242,16 @@ Este arquetipo refleja un amplio grupo de profesionales de la medicina y veterin
 * **Ventajas recomendadas:** Curandero, McGyver y Osado
 * **Desventajas recomendadas:** Bocazas, Despistado y Exceso de confianza
 
-\saltopagina
-
 ## Nuevas reglas
 En este apartado encontrarás nuevas reglas, ventajas y desventajas aplicables a esta campaña.
+
+### Nuevo uso de benis: Estos tontos humanos
+Un dinosaurio comodín puede gastar todos sus benis (mínimo 1) y conseguir que un humano comprenda el mensaje que el dinosaurio quiere decirle, desde "No vayas por ese que pasillo que huelo enemigos" o "No comas esas bayas venenosas" hasta "Salta sin paracaídas que yo te recojo".
+
+\saltopagina
+
+### Nuevo uso de benis: Momento de genialidad
+Gastando todos tus benis (mínimo 1) puedes conseguir un momento de inteligencia superior en un dinosaurio comodín y podrá ser capaz de realizar actos inteligentes y complejos. Puedes conseguir que de alguna manera muerda el cable azul y no rojo de la trampa explosiva o que pulse el freno del camión militar mientras te peleas a puñetazos con un agente de las SS encima de la cabina.
 
 ### Nueva ventaja: Compañero dinosaurio
 **Requisitos:** Novato
@@ -480,9 +486,9 @@ Si la Ciencia Extraña no es lo tuyo quizás otras formas de magia más tradicio
 #### Mentalismo
 Hablamos de personajes de miradas penetrantes que pueden leer mentes, mover objetos con el poder de sus pensamientos o de ver el futuro. 
 
-\saltopagina
-
 Todos estos poderes mentales pueden cuadrar en esta campaña dando a tus némesis nazi la capacidad de combatir a los dinosaurios de tú a tú. Imagínate a tus comandos cargando con sus monturas dinosaurios contra un capitán de las SS que se eleva con el poder de su mente y que lanza gigantescas rocas con sus poderes telepáticos.  
+
+\saltopagina
 
 #### Magia negra, vudú y nigromancia
 Todos conocemos de la fascinación de los nazis y la magia. Pero no nos vale una magia normal brillante y luminosa. Hablamos de magia corrupta, de maldiciones, nigromancia, vudú, de rituales sangrientos y de sacrificios animales y humanos.
@@ -986,8 +992,6 @@ Su largo cuello mide más o menos la mitad de su cuerpo y lo usa como timón a l
 
 Sus extremidades de un metro cada una formaban aletas alargadas, en forma de remo. 
 
-\saltopagina
-
 [![Dibujo de pterodáctilo volando](./assests/images/pterodactilo.jpg 'Matthew P. Martyniuk')](https://es.wikipedia.org/wiki/Pterodactylus#/media/Archivo:Pterodactylus_holotype_fly_mmartyniuk.png 'Matthew P. Martyniuk')
 
 ### Pterodáctilo
@@ -1012,8 +1016,6 @@ xxx
   * **Lento:** En el suelo solo tiene Paso 4 y no puede correr.
 
 xxx
-
-\saltopagina
 
 ## Otros animales y seres prehistóricos del Mundo Perdido:
 xxx
@@ -1075,6 +1077,8 @@ xxx
 * **Equipo:** xxx
 
 \saltopagina
+
+[![Dibujo de un Phorusrhacos](./assests/images/phorusrhacos.jpg 'Recreación en vida. - ДиБгд')](https://es.wikipedia.org/wiki/Phorusrhacos#/media/Archivo:Phorusrhacos_longissimusDB24.jpg 'Recreación en vida. - ДиБгд')
 
 ### Phorusrhacos
 * Carnívoro

@@ -154,6 +154,7 @@ h3 {
   display: inline-block;
   overflow: hidden;
   padding-bottom: 15px;
+  margin-bottom: 5px;
 }
 
 section > ul > li,
