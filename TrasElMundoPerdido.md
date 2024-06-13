@@ -1,12 +1,29 @@
 # Hace 65 millones de años los dinosaurios dominaron la Tierra...
 
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 ## ... y ahora han vuelto para matar nazis.
 
-Estamos en 1936 y ha estallado la guerra. Tu superior te hace llamar a su despacho y te enseña una carta del alto mando indicando que te cambian de destino. Te mandan a unas instalaciones secretas en Escocia, en la isla de Skye. 
+Estamos en el verano de 1940 y casi toda Europa ha caído bajo el poder de la maquinaria de guerra nazi. 
 
-Por alguna extraña razón que tu superior no comprende te quieren allí para formar parte de una fuerza militar muy especial. Puede este en tus manos cambiar el rumbo de la guerra y salvar al mundo de la barbarie nazi. 
+Tu mando superior te hace llamar a su despacho y te enseña una carta de "arriba" indicando que te cambian de destino. Te mandan a unas instalaciones secretas en Escocia, en la isla de Skye. 
+
+Por alguna extraña razón que nadie comprende, y menos tú, te quieren allí para formar parte de una fuerza militar muy especial.
+
+Puede que esté en tus manos cambiar el rumbo de la guerra y salvar al mundo de la barbarie nazi. 
 
 **¿Aceptarás el desafío?**
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ***
 
@@ -86,6 +103,13 @@ xxx
 ## Carácter de los saurios
 xxx
 
+## Dinosaurios vs. tecnología
+En principio los dinosaurios están acostumbrados a la tecnología actual. No tienen miedo a los ruidos fuertes como armas de fuego pesadas o bombardeos, que no quiere decir que les sea tremendamente molesto. No huyen tampoco del fuego o del humo y puede correr sin problemas al lado de coches, camiones o trenes sin tendencias violentas. También pueden ser transportados en vehículos sin problemas como barcos o aviones de transporte.
+
+Así pues estate seguro de que podrás correr montado en tu alosaurio por un campo de batalla mientras explotan proyectiles de artillería y esquivos nidos de ametralladoras.
+
+Recuerda que si tus comandos quieren un poco de complicación a las aventuras pueden poner a sus compañeros dinosaurios fobias incapacitantes como brontofobia (miedo a ruidos muy fuertes como truenos) o pirofobia (miedo al fuego).
+
 ## Dinosaurios en misiones
 xxx
 
@@ -95,6 +119,8 @@ xxx
 ### Misiones de reconocimiento aéreo
 xxx
 
+\saltopagina
+
 ### Misiones acuáticas
 xxx
 
@@ -103,8 +129,6 @@ xxx
 
 ### Misiones de rescate
 xxx
-
-\saltopagina
 
 ### Alimentación durante las misiones
 xxx
@@ -117,6 +141,8 @@ xxx
 ### Aliados
 xxx
 
+\saltopagina
+
 ### Nazis
 xxx
 
@@ -125,8 +151,6 @@ xxx
 
 ### Códigos secretos para los dinosaurios
 Dentro de la política de ocultación de los saurios, se ha establecido unos nombres claves para cada tipo de dinosaurio que se ha de usar tanto en comunicaciones escritas como de radio. En la descripción de cada dinosaurio viene el nombre en clave de la especie.
-
-\saltopagina
 
 Además cada dinosaurio tiene un nombre humano que se usa para cuando hay que especificar en las comunicaciones información sobre ese espécimen en concreto. 
 
@@ -329,11 +353,11 @@ Este arnés con 1 o más cámaras fotográficas de alta precisión en el pecho s
 \saltopagina
 
 ### Arnés de vuelo
-Este arnés de nailon superligero se coloca sobre el pterodáctilo como si fuera un chaleco. El chaleco tiene unos mosquetones en el vientre al que se engancha el pasajero. El arnés tiene dos especies de mandos de cometas para que el humano pueda indicarle en líneas generales la ruta a seguir. El pterodáctilo no toma los tirones de los mandos como órdenes directas sino como indicaciones. El saurio es el que decide que acciones de vuelo tomar para más o menos seguir las indicaciones dadas.
+Este arnés de nailon superligero se coloca sobre el pterodáctilo como si fuera un chaleco. El chaleco tiene unos mosquetes en el vientre al que se engancha el pasajero. El arnés tiene dos especies de mandos de cometas para que el humano pueda indicarle en líneas generales la ruta a seguir. El pterodáctilo no toma los tirones de los mandos como órdenes directas sino como indicaciones. El saurio es el que decide que acciones de vuelo tomar para más o menos seguir las indicaciones dadas.
 
 > Un pterodáctilo con un pasajero pierde 1 punto de paso en vuelo. Los comandos sobrecargados de material o de mayor tamaño de lo normal (Fornidos y Obesos) quitan un punto extra de paso en vuelo, al suponer mayor obstáculo a la aerodinámica del saurio volador.
 
-> El aterrizaje lo debe ejecutar el humano (tirada de Atletismo). El pterodáctilo reducirá su velocidad al máximo y el humano se soltará los mosquetones al tomar tierra y rodará por el suelo hasta pararse, quedando tendido en el suelo. Si falla, recibirá 2d6 puntos de daño. Por otro lado podrá gastar avances en conseguir efectos especiales como sacar el arma mientras aterriza o aterrizar de pies en vez de tendido en el suelo.
+> El aterrizaje lo debe ejecutar el humano (tirada de Atletismo). El pterodáctilo reducirá su velocidad al máximo y el humano se soltará los mosquetes al tomar tierra y rodará por el suelo hasta pararse, quedando tendido en el suelo. Si falla, recibirá 2d6 puntos de daño. Por otro lado podrá gastar avances en conseguir efectos especiales como sacar el arma mientras aterriza o aterrizar de pies en vez de tendido en el suelo.
 
 > El pterodáctilo **no puede iniciar el vuelo con pasajeros desde el suelo**, debe **lanzarse desde por lo menos 20 metros de altura** para poder coger velocidad en la caída y remontar el vuelo.
 
@@ -388,7 +412,7 @@ Cada silla de montar está modificada para cada especie de saurio y no pueden in
 
 ***
 
-# Estructura de la campaña
+# La campaña
 
 ## Resumen
 La campaña tiene una estructura clásica que permitirá a tu comando moverse por diferentes escenarios de la II Guerra Mundial corriendo aventuras y descubriendo una serie de pistas que les llevará a volver al Mundo Perdido en el Amazonas venezolano y finalmente a un castillo en mitad de la selva Negra.
@@ -411,9 +435,7 @@ También ha propiciado la caída y la destrucción de la Fundación Roxton. Las 
 
 Todos estos eventos les obligarán a empezar una carrera contra los nazis por llegar al Mundo Perdido antes que ellos y sabotear su misión de captura de dinosaurios.
 
-La aventura acabará en la Selva Negra donde tu comando deberá tomar un castillo inexpugnable protegido por tropas nazis y los dinosaurios que capturaron en la fundación y desbaratar los planes de crear un arma terrible con un descubrimiento que han hecho en el Mundo Perdido, los diamantes de la arcilla azul.
-
-xxx
+La aventura acabará en la Selva Negra donde tu comando deberá tomar un castillo inexpugnable protegido por tropas nazis y los dinosaurios que los nazis capturaron en la Fundación y desbaratar los planes de crear un arma terrible con un descubrimiento que han hecho en el Mundo Perdido, los diamantes de la arcilla azul.
 
 \saltopagina
 
@@ -425,7 +447,11 @@ Vamos a usar el recurso fílmico llamado "viajar por el mapa". Cuando tu comando
 No hay tablas de encuentros aleatorios, ni tiradas de climatología, ni nada por el estilo. Aunque eres libre, si quieres, de meter los encuentros que desees.
 
 ## Personalizando y continuando la campaña
-xxx
+En este apartado te ofrezco algunas ideas para personalizar y hacer más tu tuya la campaña. Las personalizaciones que te sugerimos van en tres direcciones distintas, que son fácilmente implementables con el manual básico de SWAE, un poco de trabajo por tu parte como DJ y un rato buscando por internet.
+
+* Más dinosaurios y mundo perdidos
+* Más escenarios de guerra
+* Añadir magia
 
 ### Más Mundos Perdidos y más especies de dinosaurios
 La tierra de Maple White no tiene por qué ser el único mundo perdido. Quizás los nazis hayan descubierto una tierra salvaje en mitad de la Antártida alimentada por el calor de los volcanes donde han sobrevivido otras especies de dinosaurios. Sin olvidarnos que igual en alguna sima oceánica haya gigantescos saurios acuáticos que una bomba nuclear lanzada sobre Japón pueda despertar.
@@ -449,14 +475,19 @@ Nunca sobran científicas y científicos locos nazis, así que puedes meter cier
 Si quieres rizar el rizo y conseguir altas cuotas de pulp, se podría, por ejemplo, hacer que los nazis tengan tecnología alienígena procedente de un platillo volante.
 
 ### Otras formas de magia
-xxx
-En este caso el Ocultismo debería pasar a ser una habilidad con entidad propia y no una parte de Humanidades.
+Si la Ciencia Extraña no es lo tuyo quizás otras formas de magia más tradicionales te parezcan mejor. En este caso el Ocultismo debería pasar a ser una habilidad con entidad propia y no una parte de Humanidades.
 
 #### Mentalismo
-xxx
+Hablamos de personajes de miradas penetrantes que pueden leer mentes, mover objetos con el poder de sus pensamientos o de ver el futuro. 
+
+\saltopagina
+
+Todos estos poderes mentales pueden cuadrar en esta campaña dando a tus némesis nazi la capacidad de combatir a los dinosaurios de tú a tú. Imagínate a tus comandos cargando con sus monturas dinosaurios contra un capitán de las SS que se eleva con el poder de su mente y que lanza gigantescas rocas con sus poderes telepáticos.  
 
 #### Magia negra, vudú y nigromancia
-xxx
+Todos conocemos de la fascinación de los nazis y la magia. Pero no nos vale una magia normal brillante y luminosa. Hablamos de magia corrupta, de maldiciones, nigromancia, vudú, de rituales sangrientos y de sacrificios animales y humanos.
+
+Que tus comandos sean víctimas de posesiones, que sean atacados en sus sueños, o que tengan que obedecer a un brujo/nazi porque les ha arrancado el corazon y si no le obedecen los matará, son elementos que pueden añadir muy diversión a esta campaña. 
 
 ***
 
@@ -928,7 +959,7 @@ xxx
 
 \saltopagina
 
-[![Boceto Plesiosaurus dolichodeirus](./assests/images/plesiosaurio.jpg 'Plesiosaurus dolichodeirus Creator:Dmitry Bogdanov')](https://es.wikipedia.org/wiki/Glyptodon#/media/Archivo:GLYPTODON.jpg 'Plesiosaurus dolichodeirus Creator:Dmitry Bogdanov')
+[![Boceto Plesiosaurus dolichodeirus](./assests/images/plesiosaurio.jpg 'Plesiosaurus dolichodeirus Creator: Dmitry Bogdanov')](https://es.wikipedia.org/wiki/Glyptodon#/media/Archivo:GLYPTODON.jpg 'Plesiosaurus dolichodeirus Creator: Dmitry Bogdanov')
 
 ### Plesiosaurio
 * Carnívoro
@@ -1070,7 +1101,7 @@ Seguramente nadie llegue a leer este apartado, pero aquí os dejo información, 
 Simplemente, porque me encanta Savage Worlds, es uno de los sistemas genéricos de juegos de rol con el que más cómodo me siento. Si voy a meterle muchas horas a esta campaña quiero hacerlo con un RPG que me sea fácil y familiar.
 
 ### ¿Por qué dinosaurios contra nazis?
-Toda esta campaña es principalmente producto de mi gusto por los cross-over en diferentes géneros. Puede parecer increíble, pero es una mezcla entre mi gusto por películas bélicas como La gran evasión, Los cañones de Navarone o El desafío de las águilas y querer poder meter algo parecido a Pokémon pero sin derechos. Es por ello que escogí dinosaurios, que tienen un rollo Pokémon. Son criaturas "fantásticas" con capacidades muy especiales que no tienen el resto de seres vivos. 
+Toda esta campaña es principalmente producto de mi gusto por los crossover en diferentes géneros. Puede parecer increíble, pero es una mezcla entre mi gusto por películas bélicas como La gran evasión, Los cañones de Navarone o El desafío de las águilas y querer poder meter algo parecido a Pokémon pero sin derechos. Es por ello que escogí dinosaurios, que tienen un rollo Pokémon. Son criaturas "fantásticas" con capacidades muy especiales que no tienen el resto de seres vivos. 
 Y sinceramente porque los dinosaurios molan.
 
 ### Maltrato animal

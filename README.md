@@ -48,7 +48,10 @@ sudo apt-get install texlive-fonts-extra
 
 # Changelog
 
-## Versión 0.2 en desarrollo
+## Version 0.3 En desarrollo
+
+## Versión 0.2 13/08/2024
+* "La campaña" terminado
 * "Epilogo" terminado.
 * "Reglas especiales para la campaña" terminado.
 
