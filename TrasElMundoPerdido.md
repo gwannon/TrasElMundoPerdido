@@ -121,6 +121,13 @@ xxx
 ### Opinión pública
 xxx
 
+### Códigos secretos para los dinosaurios
+Dentro de la política de ocultación de los saurios, se ha establecido unos nombres claves para cada tipo de dinosaurio que se ha de usar tanto en comunicaciones escritas como de radio. En la descripción de cada dinosaurio viene el nombre en clave de la especie.
+
+\saltopagina
+
+Además cada dinosaurio tiene un nombre humano que se usa para cuando hay que especificar en las comunicaciones información sobre ese espécimen en concreto. 
+
 ***
 
 # Reglas especiales para la campaña
@@ -251,12 +258,12 @@ por las abarrotadas calles del zoco de Marrakech, así que aquí tienes las esta
 
 |VEHÍCULO|TAMAÑO|MANIOBRA.|VEL. MÁX.|DUREZA|TRIPULACIÓN|
 |--------|------|----|--|------|-----|
-|Alosaurio|xxx|xxx|xxx|55 km/h|xxx|
-|Estegosaurio|xxx|xxx|xxx|20 km/h|xxx|
-|Iguanodon|xxx|xxx|xxx|25 km/h|xxx|
-|Megalosaurio|xxx|xxx|xxx|50 km/h|xxx|
-|Pterodáctilo|xxx|xxx|xxx|95 km/h|xxx|
-|Plesiosaurio|xxx|xxx|xxx|40 km/h|xxx|
+|Alosaurio|xxx|xxx|xxx|55 km/h|1+1|
+|Estegosaurio|xxx|xxx|xxx|20 km/h|1+1|
+|Iguanodon|xxx|xxx|xxx|25 km/h|1|
+|Megalosaurio|xxx|xxx|xxx|50 km/h|1+1|
+|Pterodáctilo|xxx|xxx|xxx|95 km/h|1|
+|Plesiosaurio|xxx|xxx|xxx|40 km/h|1|
 
 Recuerda que los dinosaurios son también parte tripulación del vehículo. Así pues, aparte de correr, pueden hacer otras acciones en cada ronda de persecución como atacar al enemigo, derribar árboles para cortar el camino a sus perseguidores, etc.
 
@@ -320,12 +327,20 @@ Este arnés con 1 o más cámaras fotográficas de alta precisión en el pecho s
 \saltopagina
 
 ### Arnés de vuelo
-xxx
+Este arnés de nailon superligero se coloca sobre el pterodáctilo como si fuera un chaleco. El chaleco tiene unos mosquetones en el vientre al que se engancha el pasajero. El arnés tiene dos especies de mandos de cometas para que el humano pueda indicarle en líneas generales la ruta a seguir. El pterodáctilo no toma los tirones de los mandos como órdenes directas sino como indicaciones. El saurio es el que decide que acciones de vuelo tomar para más o menos seguir las indicaciones dadas.
+
+> Un pterodáctilo con un pasajero pierde 1 punto de paso en vuelo. Los comandos sobrecargados de material o de mayor tamaño de lo normal (Fornidos y Obesos) quitan un punto extra de paso en vuelo, al suponer mayor obstáculo a la aerodinámica del saurio volador.
+
+> El aterrizaje lo debe ejecutar el humano (tirada de Atletismo). El pterodáctilo reducirá su velocidad al máximo y el humano se soltará los mosquetones al tomar tierra y rodará por el suelo hasta pararse, quedando tendido en el suelo. Si falla, recibirá 2d6 puntos de daño. Por otro lado podrá gastar avances en conseguir efectos especiales como sacar el arma mientras aterriza o aterrizar de pies en vez de tendido en el suelo.
 
 > El pterodáctilo **no puede iniciar el vuelo con pasajeros desde el suelo**, debe **lanzarse desde por lo menos 20 metros de altura** para poder coger velocidad en la caída y remontar el vuelo.
 
 ### Barda
 xxx
+
+\saltopagina
+
+Estas protecciones no son intercambiables cada pieza ha sido diseñada para proteger una parte del cuerpo específica de una especie de dinosaurio. Aun así, se puede usar como material base de forma que una persona habilidosa con experiencia en armería podría usar el material de una barda para construir otra para otro dinosaurio. Queda a discreción del o la DJ la cantidad de material necesaria (2 bardas de estegosaurio = 1 barda de megalosaurio) y del tiempo de construcción.
 
 ### Collar de entrenamiento y mando de control
 Este collar lanza dolorosas descargas eléctricas al portador cuando se acciona el mando de control. El mando tiene una opción de descarga masiva tremendamente dolorosa que deja inconsciente al portador del collar, pero agota totalmente la batería del collar.
@@ -335,12 +350,15 @@ Este collar es una forma inhumana y cruel de entrenamiento y una forma de contro
 > Cuando se usan las descargas normales, suponen un **-4 a cualquier acción que no sea la orden dada** por la persona que controla el mando.
 > En caso de usar una descarga masiva, la víctima deberá pasar una tirada de **VIG contra una potencia eléctrica de d12+2** o caerá **inconsciente durante d8 horas**.
 
-\saltopagina
-
 ### Inyección letal
-xxx
+Esta gran jeringuilla hipodérmica contiene un potente relajante muscular que dormirá y paralizará al saurio para terminar muriendo lo más apaciblemente posible.
+En condiciones normales no puede usarse en situaciones de combate, ya que se necesita tiempo encontrar el punto adecuado y apretar el émbolo.
+
+La idea con que se diseñó este dispositivo es darle una muerte digna a dinosaurio muy malherido y cercano a la muerte.
 
 **Recuerda:** Este dispositivo es totalmente opcional. Es una forma de darle dramatismo a la muerte de tu compañero dinosaurio y evitarle sufrimiento. No deberías permitir el uso de este objeto porque tu comando quiera cambiar de dinosaurio por uno que le interese más. Si crees que no es adecuado para tu mesa puedes eliminarlo de tus partidas o aplicar los velos y herramientas de seguridad que creas necesarias. Te recordamos que el maltrato animal es un tema complicado que deberías tratar con la mayor madurez.
+
+\saltopagina
 
 ### Mejoras de combate
 Esto incluye todo tipos de objetos y artilugios para aumentar las capacidades de combate de los saurios. Estamos hablando de pinchos afilados para las cabezas o las colas, cubiertas metálicas afiladas para las garras, etc. En general no han sido muy eficientes debido a que, si bien mejoran las capacidades de combate del dinosaurio, terminan haciéndole daño y siendo un problema para su normal actividad y su relación con sus congéneres.
@@ -354,10 +372,10 @@ Este carro de madera con estructura metálica está adaptado a las diferentes fi
 
 > La capacidad de carga de un dinosaurio tirando de un plaustro se calcula como si su FUE fuera x4, siempre que la carga vaya en el carro y esté medianamente equilibrada y bien colocada.
 
-\saltopagina
-
 ### Ropa de invierno
 Los dinosaurios tendrán que moverse en entornos muy fríos y, aunque de sangre caliente, necesitarán protecciones frente al clima extremadamente frío de lugares como Rusia o Noruega.
+
+\saltopagina
 
 ### Silla de montar y arreos
 A priori, las sillas de montar para dinosaurios son básicamente sillas de montar a caballo. Tienen los mismos elementos pero adaptados a la fisonomía del saurio.
