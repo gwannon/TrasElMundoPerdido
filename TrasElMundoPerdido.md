@@ -1,10 +1,12 @@
 # Hace 65 millones de años los dinosaurios dominaron la Tierra...
 
-## ... Y ahora han vuelto
+## ... y ahora han vuelto para matar nazis.
 
-En 1910 el profesor Challenger volvió de una expedición al Amazonas venezolano con dinosaurios encontrados en un "mundo perdido". 
+Estamos en 1936 y ha estallado la guerra. Tu superior te hace llamar a su despacho y te enseña una carta del alto mando indicando que te cambian de destino. Te mandan a unas instalaciones secretas en Escocia, en la isla de Skye. 
 
-Hoy es 1936 y formas parte de un comando de élite del ejército inglés que usa dinosaurios en sus operaciones, para evitar que Hitler no sea haga con toda Europa.
+Por alguna extraña razón que tu superior no comprende te quieren allí para formar parte de una fuerza militar muy especial. Puede este en tus manos cambiar el rumbo de la guerra y salvar al mundo de la barbarie nazi. 
+
+**¿Aceptarás el desafío?**
 
 ***
 
