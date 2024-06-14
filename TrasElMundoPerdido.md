@@ -80,6 +80,12 @@ xxx
 ### Las instalaciones de la Fundación Roxton
 xxx
 
+Las instalaciones en la isla no están concentradas en un único lugar, sino que están dispersas por los terrenos de la fundación. La idea es evitar que los reconocimientos aéreos nazis descubran las instalaciones. Si no se revisan a conciencia las fotos se considerará que son grupos dispersos de granjas.
+Los dinosaurios en libertad a pesar de su tamaño siguen con instintos de cazador y presa y se ocultan bastante bien entre bosques y maleza alta. Aún así alguien de la inteligencia nazi puede descubrir el pastel fácilmente si le pone interés.
+
+#### La forja de Weyland
+Este taller y forja está dirigido por Weyland (su mote en la forja), un herrero/ingeniero que la Fundación enroló para hacer todos los artilugios y piezas de metal que necesitan en la isla, desde rejas o cadenas o bardas y escudos.
+
 #### Hospital de dinosaurios
 xxx
 
@@ -89,13 +95,13 @@ xxx
 #### Pieza de artillería antiaérea camuflada
 xxx
 
+\saltopagina
+
 #### Sala de misiones
 Esta sala llena de pupitres, una gran pizarra y un pequeño proyector de cine y otro de diapositivas sirve para explicar a los comandos la misión en la que se van a embarcar.
 
 #### Sala de radio
 xxx
-
-\saltopagina
 
 #### La esclusa de los plesiosaurios
 xxx
@@ -116,10 +122,10 @@ xxx
 ### Misiones de infiltración
 xxx
 
+\saltopagina
+
 ### Misiones de reconocimiento aéreo
 xxx
-
-\saltopagina
 
 ### Misiones acuáticas
 xxx
@@ -368,7 +374,9 @@ Este arnés de nailon superligero se coloca sobre el pterodáctilo como si fuera
 > El pterodáctilo **no puede iniciar el vuelo con pasajeros desde el suelo**, debe **lanzarse desde por lo menos 20 metros de altura** para poder coger velocidad en la caída y remontar el vuelo.
 
 ### Barda
-xxx
+Estas armaduras para monturas no son ya muy eficaces en la guerra moderna. Son pesadas, farragosas de llevar y no dan protección frente a armas de fuego modernas. Esto unido a la protección natural de los dinosaurios ha hecho que solo sean útiles en muy contadas ocasiones. 
+
+La Fundación puede crear en su forja todas las piezas de armadura que se deseen. xxx
 
 \saltopagina
 
@@ -382,6 +390,20 @@ Este collar es una forma inhumana y cruel de entrenamiento y una forma de contro
 > Cuando se usan las descargas normales, suponen un **-4 a cualquier acción que no sea la orden dada** por la persona que controla el mando.
 > En caso de usar una descarga masiva, la víctima deberá pasar una tirada de **VIG contra una potencia eléctrica de d12+2** o caerá **inconsciente durante d8 horas**.
 
+### Disfraces y otros métodos de ocultación
+Puede parecer estúpido, pero la Fundación tiene preparados todo un juego de disfraces y sistemas de ocultación para los dinosaurios. Los hay de tres tipos, pintura de camuflaje, tiendas de camuflaje y disfraces.
+
+#### Pinturas de camuflage
+Son principalmente pinturas biodegradables y lavables con agua y jabón para cambiar su color de piel (escamas y plumas) y que pueda ocultarse en diferentes ambientes. Blanco para la nieve, ocres para el desierto, negro para misiones nocturnas, etc. La pintura lleva aplicarla tantas horas como el tamaño de dinosaurio.
+
+\saltopagina
+
+#### Tiendas de campaña de camuflaje
+Si un comando va a estar mucho tiempo en el mismo sitio puede llevarse una tiendas de campaña donde ocultar a los dinosaurios que simulan todo serie de vehículos e instalaciones. La idea es ocultar a los dinosaurios de espías aéreos. En caso de necesidad vale cualquier tienda o unas lonas, pero los chicos de inteligencia estaban creativos y tenían presupuesto.
+
+#### Disfraces
+La fundación prefiere que en caso de avistamiento la gente hable de dragones o demonios que de dinosaurios. Han creado diferentes dispositivos como cuernos de diablo, alas de seres dracónicos e, incluso, hicieron con resto de telas unas pajaritas de gala por si tenían que ir a una fiesta o una recepción.
+
 ### Inyección letal
 Esta gran jeringuilla hipodérmica contiene un potente relajante muscular que dormirá y paralizará al saurio para terminar muriendo lo más apaciblemente posible.
 En condiciones normales no puede usarse en situaciones de combate, ya que se necesita tiempo encontrar el punto adecuado y apretar el émbolo.
@@ -390,12 +412,12 @@ La idea con que se diseñó este dispositivo es darle una muerte digna a dinosau
 
 **Recuerda:** Este dispositivo es totalmente opcional. Es una forma de darle dramatismo a la muerte de tu compañero dinosaurio y evitarle sufrimiento. No deberías permitir el uso de este objeto porque tu comando quiera cambiar de dinosaurio por uno que le interese más. Si crees que no es adecuado para tu mesa puedes eliminarlo de tus partidas o aplicar los velos y herramientas de seguridad que creas necesarias. Te recordamos que el maltrato animal es un tema complicado que deberías tratar con la mayor madurez.
 
-\saltopagina
-
 ### Mejoras de combate
 Esto incluye todo tipos de objetos y artilugios para aumentar las capacidades de combate de los saurios. Estamos hablando de pinchos afilados para las cabezas o las colas, cubiertas metálicas afiladas para las garras, etc. En general no han sido muy eficientes debido a que, si bien mejoran las capacidades de combate del dinosaurio, terminan haciéndole daño y siendo un problema para su normal actividad y su relación con sus congéneres.
 
 Se ha intentado montar armas de fuego pesadas encima de los dinosaurios, pero sin buenos resultados. Para empezar el ruido de las armas tan cerca resulta tremendamente molesto para el reptil y además no tienen mucha estabilidad para ser eficientes.
+
+\saltopagina
 
 Como en el caso del collar de entrenamiento, no deberían ser equipo que deberías permitir usar a tus comandos. Más bien serían las mejoras que un alto oficial de las SS pondría a su alosaurio de combate al que no se preocupa el bienestar de su compañero.
 
@@ -406,8 +428,6 @@ Este carro de madera con estructura metálica está adaptado a las diferentes fi
 
 ### Ropa de invierno
 Los dinosaurios tendrán que moverse en entornos muy fríos y, aunque de sangre caliente, necesitarán protecciones frente al clima extremadamente frío de lugares como Rusia o Noruega.
-
-\saltopagina
 
 ### Silla de montar y arreos
 A priori, las sillas de montar para dinosaurios son básicamente sillas de montar a caballo. Tienen los mismos elementos pero adaptados a la fisonomía del saurio.
@@ -664,11 +684,23 @@ Mientras el Mary Anning surcaba el mar uno de los plesiosaurios que viaja con é
 
 xxx
 
+## Campo minado
+```
+Mientras tus comandos atraviesan una zona despejada de terreno, descubren para su desgracia que se han metido en un campo de minas.
+```
+
+xxx
+
+## Limpiando el puerto
+xxx
+
 ## Despedidas
 ```
 La guerra se ha acabado y quizás es el momento de que los dinosaurios vuelvan a su mundo. 
 ```
 xxx
+
+\saltopagina
 
 ## Semillas de aventuras
 xxx
