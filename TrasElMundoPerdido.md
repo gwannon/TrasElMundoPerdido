@@ -1186,6 +1186,7 @@ No soy propietario de ninguna de las imágenes de este documento. Estoy usando i
 
 \saltopagina
 
+* [Portada "La campaña"](https://es.wikipedia.org/wiki/El_mundo_perdido_(pel%C3%ADcula_de_1925)#/media/Archivo:The_Lost_World_(1925)_-_film_poster.jpg)
 * [Portada "Parte 1: La isla de Skye"](https://pixabay.com/es/photos/isla-de-skye-escocia-gran-breta%C3%B1a-4415029/)
 * [Portada "Parte 2: Norte de África"](https://en.wikipedia.org/wiki/Siege_of_Tobruk#/media/File:Men_of_the_Leicestershire_Rgt._man_a_Bren_gun_near_Tobruk.jpg)
 * [Portada "Parte 3: Río de la plata"](https://upload.wikimedia.org/wikipedia/commons/c/ce/Graf_Spee_Wreck_USNphoto_1.jpg)
