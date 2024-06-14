@@ -210,7 +210,8 @@ a:has(img) {
 /* ------------- Clip --------------- */
 section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Dibujo]):before,
 section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Plano]):before,
-section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Imagen]):before {
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Imagen]):before,
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Retrato]):before {
   content: "";
   display: block;
   position: absolute;
@@ -221,6 +222,22 @@ section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type)
   width: 200px;
   height: 43px;
   z-index: 10;
+}
+
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Retrato]) {
+  rotate: -3deg;
+  width: 50%;
+  float: left;
+  margin-right: 57px;
+  margin-bottom: 30px;
+  box-shadow: 7px 10px 22px -8px #000;
+}
+
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Retrato]):before {
+  top: 48px;
+  left: -40px;
+  right: auto;
+  rotate: 188deg;
 }
 
 /* ------------- Cinta adhesiva --------------- */
@@ -307,6 +324,7 @@ section p img[alt^=Escala]:not(section:first-of-type img, section:nth-of-type(2)
   margin: 0 20px 20px 0;
   border: none;
   box-shadow: none;
+  rotate: 0deg;
 }
 
 @media (max-width: 500px) {

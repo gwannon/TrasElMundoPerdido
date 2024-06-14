@@ -692,15 +692,45 @@ Mientras tus comandos atraviesan una zona despejada de terreno, descubren para s
 xxx
 
 ## Limpiando el puerto
+```
+El alto mando necesita que tus comandos limpien de minas un puerto. En principio parece sencillo, pero cuando hay explosivos de por medio todo se complica. 
+```
 xxx
+
+
+\saltopagina
+
+## ¿Quién es Marion Fairfax?
+```
+En 1924 en Hollywood una guionista/actriz llamada Marion Fairfax intentaba vender un guion de cine que era casi calcado a la expedición de Challenger. La Fundación Roxton compro los derechos e hizo desaparecer el manuscrito.
+```
+
+[![Retrato de Marion Fairfax](./assests/images/marion-fairfax.jpg 'American screenwriter Marion Fairfax, page 24 of the October 1921 Photoplay.')](https://es.wikipedia.org/wiki/Marion_Fairfax#/media/Archivo:Marion_Fairfax.jpg 'American screenwriter Marion Fairfax, page 24 of the October 1921 Photoplay.')
+
+Hoy esa guionista en ciernes, es una famosa escritora de ciencia ficción que está de visita en Londres para promocionar su libro. La Fundación quiere aprovecha y averiguar cómo su guion era tan acertado. 
+
+Se va a hospedar durante 4 noches en el Savoy y se dedicará a firmar sus obras y hacer lecturas en diferentes librerías de Londres. También tiene una comida con otras célebres escritoras como Agatha Christie. El quinto día primera volverá a Nueva York en barco. 
+
+Marion siempre va acompañada de su editora, Alice Gerald, que no se separa de ella nunca. Así que el primer paso será deshacerse de Alice para poder acercarse a Marion.
+
+xxx
+
+\saltopagina
+
+### Marion Fairfax
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Notar d4, Persuadir d4, Sigilo d4
+* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+* **Ventajas:** Soldado, xxx
+* **Desventajas:** xxx
+* **Equipo:** xxx
 
 ## Despedidas
 ```
 La guerra se ha acabado y quizás es el momento de que los dinosaurios vuelvan a su mundo. 
 ```
 xxx
-
-\saltopagina
 
 ## Semillas de aventuras
 xxx
@@ -961,6 +991,8 @@ xxx
 
 \saltopagina
 
+[![Foto artística de un Iguanodon](./assests/images/iguanodon.jpg 'Life restoration of I. galvensis - Caz41985')](https://en.wikipedia.org/wiki/Iguanodon#/media/File:Iguanodon_galvensis.png 'Life restoration of I. galvensis - Caz41985')
+
 ### Iguanodon
 * Herbívoro
 * Terrestre
@@ -975,6 +1007,12 @@ xxx
 * **Ventajas:** xxx
 * **Desventajas:** xxx
 * **Capacidades especiales:**
+
+\saltopagina
+
+[![Escala Iguanodon](./assests/images/escala-iguanodon.png 'Size chart for Iguanodon bernissartensis, based on an illustration by ArthurWeasley')](https://en.wikipedia.org/wiki/File:Iguanodon_scale.png 'Size chart for Iguanodon bernissartensis, based on an illustration by ArthurWeasley')
+
+xxx
 
 \saltopagina
 
