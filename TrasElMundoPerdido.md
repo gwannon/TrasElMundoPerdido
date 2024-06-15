@@ -811,13 +811,22 @@ xxx
 ### Dolores Brannigan, capitana del "Mary Anning"
 xxx
 
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Notar d4, Persuadir d4, Sigilo d4
+* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+* **Ventajas:** Soldado, xxx
+* **Desventajas:** xxx
+* **Equipo:** xxx
+
 ## Antagonistas
 xxx
 
-## Secuaces
-xxx
-
 \saltopagina
+
+## Secuaces
+Aquí te presentamos toda una galería de personajes no jugadores genéricos que van a pulular por las cubiertas de tus barcos, los barracones de tus instalaciones militares y las trincheras y campos de batalla. También los puedes usar como base para tus PNJs. Si el capitán al cargo de la muralla norte de Tobruk va a ser importante, coge a un oficial y adórnalo con tus propios detalles.
+
+Recuerda que en esta campaña muchos de estos PNJs genéricos puedes personalizarlos con diferentes habilidades y ventajas. Quizás el soldado que lleva un camión puede que tenga un d6 en Conducir o la líder guerrillera pueda tener un Persuadir alto para arengar a sus tropas.
 
 ### Infantería 
 xxx
@@ -835,6 +844,28 @@ xxx
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+* **Ventajas:** xxx
+* **Desventajas:** xxx
+* **Equipo:** xxx
+
+\saltopagina
+
+### Mujeres y hombres de ciencia
+xxx
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Notar d4, Persuadir d4, Sigilo d4
+* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+* **Ventajas:** xxx
+* **Desventajas:** xxx
+* **Equipo:** xxx
+
+### Tripulante del Mary Anning
+xxx
+
+* **Atributos:** Agilidad d6, Astucia d6, Espíritu d6, Fuerza d6, Vigor d8
+* **Habilidades:** Atletismo d6, Conocimientos Generales d6, Dispara d6, Idioma Español d6, Idioma inglés d6, Navegar d6, Notar d6, Pelear d6, Persuadir d4, Reparar d6, Sigilo d4, Supervivencia d6
+* **Paso:** 6; **Parada:** 5; **Dureza:** 6
 * **Ventajas:** xxx
 * **Desventajas:** xxx
 * **Equipo:** xxx
@@ -965,28 +996,6 @@ Los oscuros callejones de las grandes ciudades están llenas de este tipo de per
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
 * **Desventajas:** Buscado (Mayor, por robos), Elige 1 o más: Avaricioso (Mayor), Canalla (Menor), Cojo (Mayor), Feo (Menor), Habito (Mayor, Cocaína), Manco (Mayor), Mudo (Mayor)
 * **Equipo:** Cuchillo (FUE+d4)
-
-\saltopagina
-
-### Mujeres y hombres de ciencia
-xxx
-
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
-* **Ventajas:** Soldado, xxx
-* **Desventajas:** xxx
-* **Equipo:** xxx
-
-### Tripulante del Mary Anning
-xxx
-
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
-* **Ventajas:** Soldado, xxx
-* **Desventajas:** xxx
-* **Equipo:** xxx
 
 \saltopagina
 
@@ -1135,9 +1144,7 @@ xxx
 
 Un plesiosaurio adulto de talla media crece entre 3 a 5 metros de longitud y pesa entre 500 y 700 kg. 
 
-Su largo cuello mide más o menos la mitad de su cuerpo y lo usa como timón a la hora de nadar.
-
-Sus extremidades de un metro cada una formaban aletas alargadas, en forma de remo. 
+Su cuerpo está totalmente adaptado a la vida acuática. Su piel no es escamosa, sino lisa para una mejor hidrodinámica. Tienen un largo cuello que mide más o menos la mitad de su cuerpo y que usa como timón a la hora de nadar. Para terminar, sus extremidades de un metro cada una formaban aletas alargadas, en forma de remo. 
 
 [![Dibujo de pterodáctilo volando](./assests/images/pterodactilo.jpg 'Matthew P. Martyniuk')](https://es.wikipedia.org/wiki/Pterodactylus#/media/Archivo:Pterodactylus_holotype_fly_mmartyniuk.png 'Matthew P. Martyniuk')
 
