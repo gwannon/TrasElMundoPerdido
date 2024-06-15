@@ -39,6 +39,10 @@ xxx
 
 \saltopagina
 
+[![Mapa del Mundo Perdido hecho por Maple White](./assests/images/maple-white-mapa.jpg 'Page 222 (The Lost World, 1912)')](https://es.wikipedia.org/wiki/Archivo:Page_222_(The_Lost_World,_1912).jpg 'Page 222 (The Lost World, 1912)')
+
+\saltopagina
+
 [![Dibujo de un estegosaurio](./assests/images/estegosaurio-encuentro.jpg 'Encuentro con el Stegosaurus - Arthur Conan Doyle')](https://es.wikipedia.org/wiki/El_mundo_perdido#/media/Archivo:Page_59_(The_Lost_World._1912).jpg 'Encuentro con el Stegosaurus - Arthur Conan Doyle')
 
 ## La expedición Roxton
@@ -90,12 +94,22 @@ Este taller y forja está dirigido por Weyland (su mote en la forja), un herrero
 xxx
 
 ### El "Mary Anning" y sus instalaciones
+El "Mary Anning" es un barco carguero de tamaño medio botado por la Fundacion para el transporte de dinosaurios y comandos.
+
+La fundación le puso el nombre de la famosa paleontóloga georgiana Mary Anning, que hizo grandes descubrimientos en saurios acuáticos como el ictiosaurio o el plesiosaurio.
+
+\saltopagina
+
+Durante años fue usado por la Fundación para el transporte de saurios y provisiones vía marítima. Pero cuando estalló la guerra y la Fundación contacto con el Alto Mando, el barco paso en secreto por los astilleros reales. Todo el espacio de carga fue acondicionado para llevar cómodamente a los dinosaurios y a sus compañeros humanos en sus largos viajes a sus diferentes misiones.
+
+En el resto del espacio libre se crearon diferentes habitáculos con material y equipo útil en sus misiones, desde un hospital de campaña para humanos y dinosaurios hasta una sala oscura para rebelar fotos. Cuenta también con grandes zonas de almacenaje y un congelador de tamaño industrial para almacenar las provisiones de los grandes saurios.
+
+La capitán Dolores Branningan y su tripulación tienen años de experiencia tratando con dinosaurios y saliendo airosos de situaciones peligrosas. Es por ello que en caso de necesidad podrían sustituir a un comando en una misión.
+
 xxx
 
 #### Pieza de artillería antiaérea camuflada
 xxx
-
-\saltopagina
 
 #### Sala de misiones
 Esta sala llena de pupitres, una gran pizarra y un pequeño proyector de cine y otro de diapositivas sirve para explicar a los comandos la misión en la que se van a embarcar.
@@ -105,6 +119,33 @@ xxx
 
 #### La esclusa de los plesiosaurios
 xxx
+
+#### Pajarera de los pterodáctilos
+xxx
+
+#### Otras instalaciones del barco
+
+Además de cosas normales en este tipo de cargueros, como cocina o sala común, cuenta con todas estas instalaciones.
+* Mini-gimnasio con pesas y algunos artilugios deportivos.
+* Celdas para 3 prisioneros/as
+* Armería completísima con una pequeña Santabárbara para los explosivos.
+
+\saltopagina
+
+### El campamento
+
+La Fundación tiene en la meseta de Maple White un campamento fijo de científicos y científicas que estudian la fauna y flora del lugar. También se dedican a la cría y selección dinosaurios para su estudio, mandando los más dotados a la isla de Skye. Por último, dedican esfuerzos a extraer diamantes, siempre cumpliendo las estrictas cuotas que marca la Fundación.
+
+De media hay unas 20 personas viviendo en un enclave de unos 10 pabellones. Son autosuficientes en temas de suministros básicos como agua y comida, y cada cierto tiempo reciben suministros médicos, materiales y equipos nuevos.
+
+Esta comunidad permanente de investigaciones ha establecido relaciones con los cavernícolas y han tenido éxito en sus primeros intercambios culturales y comerciales.
+
+Este enclave se sitúa al sur del Lago Central que les provee de pesca y agua.
+
+xxx
+
+Listado normal de residentes:
+* xxx
 
 ## Carácter de los saurios
 xxx
@@ -116,13 +157,13 @@ Así pues estate seguro de que podrás correr montado en tu alosaurio por un cam
 
 Recuerda que si tus comandos quieren un poco de complicación a las aventuras pueden poner a sus compañeros dinosaurios fobias incapacitantes como brontofobia (miedo a ruidos muy fuertes como truenos) o pirofobia (miedo al fuego).
 
+\saltopagina
+
 ## Dinosaurios en misiones
 xxx
 
 ### Misiones de infiltración
 xxx
-
-\saltopagina
 
 ### Misiones de reconocimiento aéreo
 xxx
@@ -141,13 +182,13 @@ xxx
 
 > La regla general es que no hay problemas de alimentación para los carnívoros a no ser que la falta de comida sea parte de la aventura.
 
+\saltopagina
+
 ## Mantener en secreto a los dinosaurios
 xxx
 
 ### Aliados
 xxx
-
-\saltopagina
 
 ### Nazis
 xxx
@@ -637,9 +678,12 @@ xxx
 
 \saltopagina
 
-[![Mapa del Mundo Perdido hecho por Maple White](./assests/images/maple-white-mapa.jpg 'Page 222 (The Lost World, 1912)')](https://es.wikipedia.org/wiki/Archivo:Page_222_(The_Lost_World,_1912).jpg 'Page 222 (The Lost World, 1912)')
+## Misión de rescate
+```
+Cuando el zepelín sobrevoló el Mundo Perdido descubrió el campamento de la Fundación y mando un grupo de asalto que tomo fácilmente el control de las instalaciones. Lo primero de tus comandos debería ser liberar a los prisioneros.
+```
 
-\saltopagina
+xxx
 
 ## Batalla del Mundo Perdido
 xxx
@@ -921,6 +965,28 @@ Los oscuros callejones de las grandes ciudades están llenas de este tipo de per
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
 * **Desventajas:** Buscado (Mayor, por robos), Elige 1 o más: Avaricioso (Mayor), Canalla (Menor), Cojo (Mayor), Feo (Menor), Habito (Mayor, Cocaína), Manco (Mayor), Mudo (Mayor)
 * **Equipo:** Cuchillo (FUE+d4)
+
+\saltopagina
+
+### Mujeres y hombres de ciencia
+xxx
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Notar d4, Persuadir d4, Sigilo d4
+* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+* **Ventajas:** Soldado, xxx
+* **Desventajas:** xxx
+* **Equipo:** xxx
+
+### Tripulante del Mary Anning
+xxx
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Notar d4, Persuadir d4, Sigilo d4
+* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+* **Ventajas:** Soldado, xxx
+* **Desventajas:** xxx
+* **Equipo:** xxx
 
 \saltopagina
 
@@ -1243,6 +1309,7 @@ No soy propietario de ninguna de las imágenes de este documento. Estoy usando i
 * [Portada "Parte 3: Río de la plata"](https://upload.wikimedia.org/wikipedia/commons/c/ce/Graf_Spee_Wreck_USNphoto_1.jpg)
 * [Portada "Parte 4: Noruega"](https://www.nia.no/en/the-saboteurs/)
 * [Portada "Parte 5: La Francia Ocupada"](https://en.wikipedia.org/wiki/Battle_of_Saint-Malo#/media/File:Bomb_exploding_during_the_Battle_of_Saint-Malo_August_1944.jpg)
+* [Portada "Parte 8: Regreso al mundo perdido"](https://es.wikipedia.org/wiki/Roraima_(tepuy)#/media/Archivo:Los_Jacuzzis.jpg)
 * [Epílogo](https://commons.wikimedia.org/wiki/File:Dinosaur_footprint_%284056320716%29.jpg)
 * [Fondo portada y contraportada](https://pixabay.com/es/photos/papel-viejo-textura-pergamino-1074131/)
 * [Fondo páginas interiores](https://pixabay.com/es/illustrations/papertexture-textura-papel-2061710/)
