@@ -39,7 +39,7 @@ xxx
 
 \saltopagina
 
-[![Dibujo de un estegosaurio](./assests/images/estegosaurio.jpg 'Encuentro con el Stegosaurus - Arthur Conan Doyle')](https://es.wikipedia.org/wiki/El_mundo_perdido#/media/Archivo:Page_59_(The_Lost_World._1912).jpg 'Encuentro con el Stegosaurus - Arthur Conan Doyle')
+[![Dibujo de un estegosaurio](./assests/images/estegosaurio-encuentro.jpg 'Encuentro con el Stegosaurus - Arthur Conan Doyle')](https://es.wikipedia.org/wiki/El_mundo_perdido#/media/Archivo:Page_59_(The_Lost_World._1912).jpg 'Encuentro con el Stegosaurus - Arthur Conan Doyle')
 
 ## La expedición Roxton
 xxx
@@ -463,7 +463,16 @@ Todos estos eventos les obligarán a empezar una carrera contra los nazis por ll
 
 La aventura acabará en la Selva Negra donde tu comando deberá tomar un castillo inexpugnable protegido por tropas nazis y los dinosaurios que los nazis capturaron en la Fundación y desbaratar los planes de crear un arma terrible con un descubrimiento que han hecho en el Mundo Perdido, los diamantes de la arcilla azul.
 
+### Orden cronológico
+Si deseas jugar los diferentes escenarios de guerra en orden cronológico por rigor histórico esta es la secuencia de eventos.
+
 \saltopagina
+
+1. Batalla del Río de la Plata (1939)
+2. Sitio de Tobruk (1941)
+3. El sitio de Stalingrado (1942-1943)
+3. Batalla del Río de la Plata (1943)
+4. Preparando el día D (1944)
 
 ## Los viajes
 Como buena historia de aventuras los viajes no serán importantes, no importa ni el coste ni el tiempo ni si hay submarinos alemanes en esas aguas. Siempre llegarán a tiempo y sin problemas a no ser que el viaje sea la propia aventura. 
@@ -482,9 +491,9 @@ En este apartado te ofrezco algunas ideas para personalizar y hacer más tu tuya
 ### Más Mundos Perdidos y más especies de dinosaurios
 La tierra de Maple White no tiene por qué ser el único mundo perdido. Quizás los nazis hayan descubierto una tierra salvaje en mitad de la Antártida alimentada por el calor de los volcanes donde han sobrevivido otras especies de dinosaurios. Sin olvidarnos que igual en alguna sima oceánica haya gigantescos saurios acuáticos que una bomba nuclear lanzada sobre Japón pueda despertar.
 
-Los dinosaurios elegidos para esta campaña han sido los que aparecen en la novela original de Sir Arthur Conan Doyle, pero puedes encontrar fácilmente las estadísticas de otras especies como el tiranosaurio. Así que mete las especies que quieras, incluso especies más modernas y perfectamente disfrutabas como un tigre dientes de sable o un mamut.
-
 \saltopagina
+
+Los dinosaurios elegidos para esta campaña han sido los que aparecen en la novela original de Sir Arthur Conan Doyle, pero puedes encontrar fácilmente las estadísticas de otras especies como el tiranosaurio. Así que mete las especies que quieras, incluso especies más modernas y perfectamente disfrutabas como un tigre dientes de sable o un mamut.
 
 ### Otros conflictos bélicos
 Esta campaña está desarrollada para jugarla en la II Guerra Mundial en Europa y Norte de África, pero con algunos cambios puedes prepararla para otros conflictos bélicos. Vemos algunos ejemplos:
@@ -506,9 +515,9 @@ Si la Ciencia Extraña no es lo tuyo quizás otras formas de magia más tradicio
 #### Mentalismo
 Hablamos de personajes de miradas penetrantes que pueden leer mentes, mover objetos con el poder de sus pensamientos o de ver el futuro. 
 
-Todos estos poderes mentales pueden cuadrar en esta campaña dando a tus némesis nazi la capacidad de combatir a los dinosaurios de tú a tú. Imagínate a tus comandos cargando con sus monturas dinosaurios contra un capitán de las SS que se eleva con el poder de su mente y que lanza gigantescas rocas con sus poderes telepáticos.  
-
 \saltopagina
+
+Todos estos poderes mentales pueden cuadrar en esta campaña dando a tus némesis nazi la capacidad de combatir a los dinosaurios de tú a tú. Imagínate a tus comandos cargando con sus monturas dinosaurios contra un capitán de las SS que se eleva con el poder de su mente y que lanza gigantescas rocas con sus poderes telepáticos.  
 
 #### Magia negra, vudú y nigromancia
 Todos conocemos de la fascinación de los nazis y la magia. Pero no nos vale una magia normal brillante y luminosa. Hablamos de magia corrupta, de maldiciones, nigromancia, vudú, de rituales sangrientos y de sacrificios animales y humanos.
@@ -954,7 +963,7 @@ Sus potentes piernas también le convierten en el dinosaurio terrestre más ráp
 
 \saltopagina
 
-[![Foto de un estegosaurio](./assests/images/estegosaurio.png 'Life restoration of the "Sophie" Stegosaurus specimen - Fred Wierum')](https://es.wikipedia.org/wiki/Stegosaurus#/media/Archivo:Stegosaurus_stenops_Life_Reconstruction.png 'Life restoration of the "Sophie" Stegosaurus specimen - Fred Wierum')
+[![Foto de un estegosaurio](./assests/images/estegosaurio.jpg 'Life restoration of the "Sophie" Stegosaurus specimen - Fred Wierum')](https://es.wikipedia.org/wiki/Stegosaurus#/media/Archivo:Stegosaurus_stenops_Life_Reconstruction.png 'Life restoration of the "Sophie" Stegosaurus specimen - Fred Wierum')
 
 
 ### Estegosaurio
@@ -973,6 +982,8 @@ xxx
 * **Capacidades especiales:**
 
 \saltopagina
+
+[![Dibujo recreación artística de un Ictiosaurio](./assests/images/ictiosaurio.jpg 'Shonisaurus - Nobu Tamura (http://spinops.blogspot.com)')](https://es.wikipedia.org/wiki/Ichthyosauria#/media/Archivo:Shonisaurus_BW_2.jpg 'Megalosaurus por LadyofHats')
 
 ### Ictiosaurio
 * Carnívoro
@@ -1119,6 +1130,8 @@ xxx
 * **Capacidades especiales:**
 
 \saltopagina
+
+[![Boceto de un Megaloceros](./assests/images/megaloceros.jpg 'Various deer of the genera Megaloceros and Praemegaceros, from left to right, M. savini, P. cazioti, P. obscurus, M. pachyosteus, M. giganteus, and P. verticornis (C) Stanton F. Fink - Apokryltaros')](https://it.wikipedia.org/wiki/Megaloceros#/media/File:Megaloceros_Species.jpg 'Various deer of the genera Megaloceros and Praemegaceros, from left to right, M. savini, P. cazioti, P. obscurus, M. pachyosteus, M. giganteus, and P. verticornis (C) Stanton F. Fink - Apokryltaros')
 
 ### Megaloceros
 * Herbívoro
