@@ -62,30 +62,11 @@ Estas interacciones fueron con los siglos evolucionado y grabándose en los inst
 ## La Fundación Roxton
 xxx
 
-### Recursos económicos
-La fundación Roxton tienes unos recursos increíbles, ya que se ha dedicado durante años a extraer diamantes de la arcilla azul del pantano del Mundo Perdido. 
-
-Pero todo esto se ha hecho bajo el más absoluto secreto de forma que nadie sepa la fortuna real que maneja la Fundación. 
-
-Salvo casos especiales Roxton puede conseguir cualquier tipo de material y producto legal y contratar a cualquier persona que sea necesaria.
-
-***
-
-# Acerca de los dinosaurios
-
-## Cómo llevar dinosaurios
-La idea principal sobre cómo tratar e interpretar a los dinosaurios no es que sean meras extensiones de tus comandos, sino que sean una especie de PNJ llevados a medias por ti y tu mesa de juego. 
-
-Deberían tener un poco de libre albedrío y algo de carácter (definido principalmente por la desventaja que le pone su humano) y a la vez obedecer las órdenes de su compañero humano. De forma que, por ejemplo, un alosaurio sanguinario seguirá peleando pese a que su humano le ordene detenerse.
-
-## Día a día de los dinosaurios
-xxx
-
 ### Las instalaciones de la Fundación Roxton
 xxx
 
 Las instalaciones en la isla no están concentradas en un único lugar, sino que están dispersas por los terrenos de la fundación. La idea es evitar que los reconocimientos aéreos nazis descubran las instalaciones. Si no se revisan a conciencia las fotos se considerará que son grupos dispersos de granjas.
-Los dinosaurios en libertad a pesar de su tamaño siguen con instintos de cazador y presa y se ocultan bastante bien entre bosques y maleza alta. Aún así alguien de la inteligencia nazi puede descubrir el pastel fácilmente si le pone interés.
+Los dinosaurios en libertad a pesar de su tamaño, siguen con instintos de cazador y presa y se ocultan bastante bien entre bosques y maleza alta. Aun así alguien de la inteligencia nazi puede descubrir el pastel fácilmente si le pone interés.
 
 #### La forja de Weyland
 Este taller y forja está dirigido por Weyland (su mote en la forja), un herrero/ingeniero que la Fundación enroló para hacer todos los artilugios y piezas de metal que necesitan en la isla, desde rejas o cadenas o bardas y escudos.
@@ -147,17 +128,44 @@ xxx
 Listado normal de residentes:
 * xxx
 
+### Recursos económicos
+La fundación Roxton tienes unos recursos increíbles, ya que se ha dedicado durante años a extraer diamantes de la arcilla azul del pantano del Mundo Perdido. 
+
+Pero todo esto se ha hecho bajo el más absoluto secreto, de forma que nadie sepa la fortuna real que maneja la Fundación. 
+
+Salvo casos especiales, la Fundación Roxton puede conseguir cualquier tipo de material y producto legal y contratar a cualquier persona que sea necesaria.
+
+***
+
+# Acerca de los dinosaurios
+
+## Cómo llevar dinosaurios
+La idea principal sobre cómo tratar e interpretar a los dinosaurios no es que sean meras extensiones de tus comandos, sino que sean una especie de PNJ llevados a medias por ti y tu mesa de juego. 
+
+Deberían tener un poco de libre albedrío y algo de carácter (definido principalmente por la desventaja que le pone su humano) y a la vez obedecer las órdenes de su compañero humano. De forma que, por ejemplo, un alosaurio sanguinario seguirá peleando pese a que su humano le ordene detenerse.
+
 ## Carácter de los saurios
+El carácter de los dinosaurios tiene una gran parte marcada por su fisionomía, pero luego hay una parte de su personalidad que se debe a sus experiencias vitales. No tienen una gran memoria, pero hay eventos que se les graban a fuego y forjan su carácter. Para empezar veamos el carácter general de cada especie.
+
+* A priori los carnívoros son más agresivos en general, aunque los estegosaurios y los iguanodontes pueden serlo también para proteger a su manada y sus crías.
+* Los acuáticos suelen ser más distantes. Vivimos en mundos distintos y eso hace que no entiendan tanto a los humanos como a los dinosaurios terrestres. Sin embargo, trabajan entre ellos muy bien.
+* Los pterodáctilos tienen a ser bastante individualistas y competitivos. 
+* La capacidad de vuelo de los pterodáctilos, que les permite escapar rápidamente de situaciones de peligro, hace que sean bastante fastidiosos. Pueden pasarse horas chinchando a sus compañeros y salir volando cuando estos se enfadan. Esto ha hecho también que sean un poco cobardes en general, huyendo a la mínima.
+* xxx
+
 xxx
 
-## Dinosaurios vs. tecnología
-En principio los dinosaurios están acostumbrados a la tecnología actual. No tienen miedo a los ruidos fuertes como armas de fuego pesadas o bombardeos, que no quiere decir que les sea tremendamente molesto. No huyen tampoco del fuego o del humo y puede correr sin problemas al lado de coches, camiones o trenes sin tendencias violentas. También pueden ser transportados en vehículos sin problemas como barcos o aviones de transporte.
-
-Así pues estate seguro de que podrás correr montado en tu alosaurio por un campo de batalla mientras explotan proyectiles de artillería y esquivos nidos de ametralladoras.
-
-Recuerda que si tus comandos quieren un poco de complicación a las aventuras pueden poner a sus compañeros dinosaurios fobias incapacitantes como brontofobia (miedo a ruidos muy fuertes como truenos) o pirofobia (miedo al fuego).
+## Día a día de los dinosaurios
+xxx
 
 \saltopagina
+
+## Dinosaurios vs. tecnología
+En principio, los dinosaurios están acostumbrados a la tecnología actual. No tienen miedo a los ruidos fuertes como armas de fuego pesadas o bombardeos, que no quiere decir que les sea tremendamente molesto. No huyen tampoco del fuego o del humo y puede correr sin problemas al lado de coches, camiones o trenes sin tendencias violentas. También pueden ser transportados en vehículos sin problemas como barcos o aviones de transporte.
+
+Así pues, estate seguro de que podrás correr montado en tu alosaurio por un campo de batalla mientras explotan proyectiles de artillería y esquivos nidos de ametralladoras.
+
+Recuerda que si tus comandos quieren un poco de complicación a las aventuras pueden poner a sus compañeros dinosaurios fobias incapacitantes como brontofobia (miedo a ruidos muy fuertes como truenos) o pirofobia (miedo al fuego).
 
 ## Dinosaurios en misiones
 xxx
@@ -166,10 +174,20 @@ xxx
 xxx
 
 ### Misiones de reconocimiento aéreo
-xxx
+Como dinosaurios voladores estas misiones son cosa de los pterodáctilos. Estos saurios voladores han aprendido mediante refuerzo positivo a ir de un humano origen a uno destino en más o menos línea recta hasta unos 3 o 4 km. 
+
+A partir de ahí solo hay que poner un arnés con cámaras de fotos de precisión con autodisparador y se puede sacar fotos de las instalaciones que el pterodáctilo sobrevuele.
+
+Es una misión arriesgada porque expone mucho al pterodáctilo a ser visto. La ventaja es que normalmente no miramos al cielo mucho y el ojo no entrenado puede confundirlos con aves de gran tamaño.
+
+\saltopagina
 
 ### Misiones acuáticas
-xxx
+Las misiones acuáticas son exclusivas de plesiosaurios e ictiosaurios. En estas misiones estos dos saurios pueden ayudar a los buzos a moverse más deprisa y a buscar objetos y rescatarlos.
+
+Con el arnés adecuado un buzo puede sujetarse a un saurio acuático y moverse a increíbles velocidades bajo el agua. 
+
+Por otro lado, han sido entrenados para enseñarles un objeto y ellos buscar en el fondo de su piscina un objeto parecido y traerlo. Incluso podrían colaborar dos saurios si necesitan mover un objeto pesado o con forma difícil de manejar.
 
 ### Misiones de combate
 xxx
@@ -182,12 +200,12 @@ xxx
 
 > La regla general es que no hay problemas de alimentación para los carnívoros a no ser que la falta de comida sea parte de la aventura.
 
-\saltopagina
-
-## ¿Que sabe la gente normal de los dinosaurios?
+## ¿Qué sabe la gente normal de los dinosaurios?
 En 1940 la paleontología y en concreto los dinosaurios no eran algo popular. La gente sabía que hace mucho tiempo habían existido lagartos gigantes que atacaban a los cavernícolas.
 
 Las únicas referencias culturales importantes eran libros de ciencia ficción como Viaje al centro de la tierra o películas de bajo presupuesto como King Kong.
+
+\saltopagina
 
 Los dinosaurios eran un monstruo más del imaginario popular junto a otros seres de gran tamaño con pulpos, hormigas o seres del espacio exterior.
 
@@ -210,9 +228,7 @@ xxx
 ### Códigos secretos para los dinosaurios
 Dentro de la política de ocultación de los saurios, se ha establecido unos nombres claves para cada tipo de dinosaurio que se ha de usar tanto en comunicaciones escritas como de radio. En la descripción de cada dinosaurio viene el nombre en clave de la especie.
 
-\saltopagina
-
-Además cada dinosaurio tiene un nombre humano que se usa para cuando hay que especificar en las comunicaciones información sobre ese espécimen en concreto. 
+Además, cada dinosaurio tiene un nombre humano que se usa para cuando hay que especificar en las comunicaciones información sobre ese espécimen en concreto. 
 
 ***
 
@@ -224,9 +240,9 @@ Hay una serie de reglas en esta campaña que modifican las normas generales de c
 
 * No se pueden coger Trasfondos arcanos, las Ventajas de poder, la Resistencia Arcana y Voluntad de Hierro.
 * **No existen** las habilidades arcanas como **Fe, Hechicería o Psiónica** y tampoco las ventajas que pidan esas habilidades como Inventor.
-* No hay elementos paranormales en la aventura con lo que el **Ocultismo se engloba en Humanidades** dentro de ciencias sociales como Historia, Teología, Antropología, etc.
+* No hay elementos paranormales en la aventura, con lo que el **Ocultismo se engloba en Humanidades** dentro de ciencias sociales como Historia, Teología, Antropología, etc.
 * **No existe la habilidad Ordenadores.** Electrónica cubre todo tipo de aparatos electrónicos con capacidades computacionales.
-* Hay nuevas Ventajas: Compañero dinosaurio, Los números primos son rojos y huelen dulces
+* Hay nuevas Ventajas: Compañero dinosaurio, Los números primos son rojos y huelen dulces.
 
 ### Arquetipos
 Aquí tienes algunos conceptos sobre los que construir tu PJ.
@@ -239,7 +255,7 @@ Estamos hablando de personas entrenadas en campos tan diversos como la encriptac
 * **Desventajas recomendadas:** Apocado/a, Despistado/a y Leal
 
 #### Comando
-Hablamos de personas especializadas algún tipo de combate y normalmente con buenas capacidades atléticas y de infiltración.
+Hablamos de personas especializadas en algún tipo de combate y normalmente con buenas capacidades atléticas y de infiltración.
 Pueden ser estar especializados en combate cuerpo a cuerpo, armas de fuego a cierta y larga distancia, demoliciones, artillería.
 
 \saltopagina
@@ -256,15 +272,16 @@ En este caso nos referimos a toda esa gente capaz hacer auténticas acrobacias c
 * **Desventajas recomendadas:** Cauto/a, Exceso de confianza e Impulsivo/a
 
 #### Espía
-Espía engloba un amplio espectro de habilidades y capacidades. Hablamos de personas carismáticas y seductoras, con grandes dotes para la persuasión y para sacar información.
+Este arquetipo engloba un amplio espectro de habilidades y capacidades. Hablamos de personas carismáticas y seductoras, con grandes dotes para la persuasión y para sacar información.
 
 * **Habilidades recomendadas:** Intimidar, Notar y Persuadir
 * **Ventajas recomendadas:** Atractivo/a, Carismático/a y Sentir el peligro
 * **Desventajas recomendadas:** Arrogante, Código de honor y Enemigo
 
 #### Explorador/a
-Estas personas saben moverse en la naturaleza como pez en el agua, conseguir agua, comida, refugio y fuego es sencillo para ellos incluso en el lugar más extremo. Además saben seguir rastros y orientarse son perderse.
-Normalmente prefieren la compañía de los animales a las de las personas y seguro que tienen sus razones.
+Estas personas saben moverse en la naturaleza como pez en el agua, conseguir agua, comida, refugio y fuego es sencillo para ellos, incluso en el lugar más extremo. Además saben seguir rastros y orientarse sin perderse.
+
+Normalmente, prefieren la compañía de los animales a las de las personas y seguro que tienen sus razones.
 
 * **Habilidades recomendadas:** Atletismo, Cabalgar, Supervivencia
 * **Ventajas recomendadas:** Leñador/a, Soldado y Vínculo animal
@@ -321,16 +338,17 @@ El comando que adquiere esta ventaja puede convertir a un dinosaurio con el que 
 * Lo primero será darle nombre
 * El **compañero dinosaurio se convierte en comodín** con lo que tiene sus propios benis y su dado de héroe.
 * Por **cada Rango que alcance el comando el compañero conseguirá un avance**. Si se coge esta ventaja siendo experimentado, el compañero tendrá derecho a dos avances por Novato y por Experimentado. Cuando alcance el rango de Veterano y siguientes tendrá derecho a un nuevo avance por cada nuevo rango.
-* Habrá que ponerle algún tipo de desventaja mental o física que marque su carácter como Tozudo, Curioso, etc.
+* Habrá que ponerle algún tipo de desventaja mental o física que marque su carácter, como Tozudo, Curioso, etc.
 * El compañero animal no atacará al comando bajo ninguna circunstancia normal.
+* Si por alguna causa fallece el compañero, el héroe podrá reemplazarlo tras 1d4 días. Si lo desea puede cambiar esta ventaja por otra que cumpla los requisitos.
 
-Esta ventaja **sustituye a la ventaja Señor de las Bestias**. La ventaja Vinculo Animal solo serviría para dar benis a otros dinosaurios que no sean compañeros de ningún comando. 
+Esta ventaja **sustituye a la ventaja Señor de las Bestias**. La ventaja Vínculo Animal solo serviría para dar benis a otros dinosaurios que no sean compañeros de ningún comando. 
 
 ### Nueva ventaja: Los números primos son rojos y huelen dulces
 **Requisitos:** Novato, Astucia d8
 
 Eres un genio de las matemáticas. Tú forma de ver los números es diferente al del resto de la gente y resuelves complicados cálculos en segundos.
-Recibes un **+2 en tiradas en que las matemáticas sean importantes** desde Apostar contando cartas, Investigar libros de cuentas o Disparar grandes piezas de artillerías hasta desencriptar códigos secretos o calcular trayectorias de misiles, ambas con Ciencias.
+Recibes un **+2 en tiradas en que las matemáticas sean importantes**, desde Apostar contando cartas, Investigar libros de cuentas o Disparar grandes piezas de artillerías hasta desencriptar códigos secretos o calcular trayectorias de misiles, ambas con Ciencias.
 
 \saltopagina
 
@@ -362,17 +380,17 @@ Recuerda que los dinosaurios son también parte tripulación del vehículo. Así
 \saltopagina
 
 ## Equipo especial
-*Operación: Tras el Mundo Perdido* tiene equipamiento especial tanto para tus comandos como para los dinosaurios. Este equipamiento no tiene precio, ya que no puede ser conseguido en tiendas legalmente o en los bajos fondos ilegalmente. Normalmente son cosas que la fundación Roxton entregará a tus comandos para que los use en sus misiones y recogerá de nuevo al terminarlas.
+*Operación: Tras el Mundo Perdido* tiene equipamiento especial tanto para tus comandos como para los dinosaurios. Este equipamiento no tiene precio, ya que no puede ser conseguido en tiendas legalmente o en los bajos fondos ilegalmente. Normalmente, son cosas que la fundación Roxton entregará a tus comandos para que los use en sus misiones y recogerá de nuevo al terminarlas.
 
 Un artesano/ingeniero diestro podría replicar alguno de estos objetos con los materiales, las herramientas y los planos y especificaciones adecuadas.
 
 ### Cápsulas de suicidio
 Estos dispositivos letales en forma de cápsula permiten al comando suicidarse en caso de que vaya a caer en manos de los nazis. Estas cápsulas no tienen tirada, si el PJ o PNJ deciden tomarlas mueren al instante soltando espuma por la boca y entre estertores.
 
-**Recuerda:** Este dispositivo es totalmente opcional y es casi más para PNJ que para PJ. Es una forma de darle dramatismo a la muerte de ciertas personas. Si crees que no es adecuado para tu mesa puedes eliminarlo de tus partidas o aplicar los velos y herramientas de seguridad que creas necesarias. Te recordamos que es suicidio es un tema complicado que deberías tratar con la mayor madurez.
+**Recuerda:** Este dispositivo es totalmente opcional y es casi más para PNJ que para PJ. Es una forma de darle dramatismo a la muerte de ciertas personas. Si crees que no es adecuado para tu mesa, puedes eliminarlo de tus partidas o aplicar los velos y herramientas de seguridad que creas necesarias. Te recordamos que es suicidio es un tema complicado que deberías tratar con la mayor madurez.
 
 ### Maletín de rebelado de foto
-Este maletín que a simple vista parece de oficinista contiene todo lo necesario para el rebelado de fotos: compuestos químicos, luz roja, papel fotográfico, etc. 
+Este maletín que a simple vista parece de oficinista, contiene todo lo necesario para el rebelado de fotos: compuestos químicos, luz roja, papel fotográfico, etc. 
 
 Permite el rebelado de 3 carretes de 24 fotos, antes de que se agoten sus componentes.
 
@@ -399,12 +417,12 @@ Aparte del equipo anterior tendrán acceso a típico equipo de comando o de esp�
 \saltopagina
 
 ## Equipo para dinosaurios
-Durante años la fundación Roxton ha ido desarrollando todo tipo de equipamiento para que los humanos y los dinosaurios pudieran trabajar en equipo. 
+Durante años, la fundación Roxton ha ido desarrollando todo tipo de equipamiento para que los humanos y los dinosaurios pudieran trabajar en equipo. 
 Este equipamiento está pensado en la comodidad no solo del humano sino también del saurio y ha sido adaptado las características y fisonomía de cada 
 especie. 
 
 ### Arnés acuático
-Esta estructura de aluminio superresistente que se amarra y ajusta con cinchas de nailon a un ictiosaurio o un plesiosaurio, permite al submarinista ser transportado a gran velocidad bajo el agua. El buzo se agarra a dos estribos metálicos y se suelta cuando sea necesario. Según hace fuerza con los estribos en un sentido u otro, cambia el peso de su cuerpo e indica al saurio por donde ir.
+Esta estructura de aluminio superresistente, que se amarra y ajusta con cinchas de nailon a un ictiosaurio o un plesiosaurio, permite al submarinista ser transportado a gran velocidad bajo el agua. El buzo se agarra a dos estribos metálicos y se suelta cuando sea necesario. Según hace fuerza con los estribos en un sentido u otro, cambia el peso de su cuerpo e indica al saurio por donde ir.
 
 Adicionalmente, viene con una red de nailon que permite portar hasta 10 kilos en objetos metidos en botes estancos.
 
@@ -419,22 +437,22 @@ Este arnés con 1 o más cámaras fotográficas de alta precisión en el pecho s
 \saltopagina
 
 ### Arnés de vuelo
-Este arnés de nailon superligero se coloca sobre el pterodáctilo como si fuera un chaleco. El chaleco tiene unos mosquetes en el vientre al que se engancha el pasajero. El arnés tiene dos especies de mandos de cometas para que el humano pueda indicarle en líneas generales la ruta a seguir. El pterodáctilo no toma los tirones de los mandos como órdenes directas sino como indicaciones. El saurio es el que decide que acciones de vuelo tomar para más o menos seguir las indicaciones dadas.
+Este arnés de nailon superligero se coloca sobre el pterodáctilo como si fuera un chaleco. El chaleco tiene unos mosquetes en el vientre al que se engancha el pasajero. El arnés tiene dos especies de mandos de cometas para que el humano pueda indicarle en líneas generales la ruta a seguir. El pterodáctilo no toma los tirones de los mandos como órdenes directas, sino como indicaciones. El saurio es el que decide que acciones de vuelo tomar para más o menos seguir las indicaciones dadas.
 
 > Un pterodáctilo con un pasajero pierde 1 punto de paso en vuelo. Los comandos sobrecargados de material o de mayor tamaño de lo normal (Fornidos y Obesos) quitan un punto extra de paso en vuelo, al suponer mayor obstáculo a la aerodinámica del saurio volador.
 
-> El aterrizaje lo debe ejecutar el humano (tirada de Atletismo). El pterodáctilo reducirá su velocidad al máximo y el humano se soltará los mosquetes al tomar tierra y rodará por el suelo hasta pararse, quedando tendido en el suelo. Si falla, recibirá 2d6 puntos de daño. Por otro lado podrá gastar avances en conseguir efectos especiales como sacar el arma mientras aterriza o aterrizar de pies en vez de tendido en el suelo.
+> El aterrizaje lo debe ejecutar el humano (tirada de Atletismo). El pterodáctilo reducirá su velocidad al máximo y el humano se soltará los mosquetes al tomar tierra y rodará por el suelo hasta pararse, quedando tendido en el suelo. Si falla, recibirá 2d6 puntos de daño. Por otro lado, podrá gastar avances en conseguir efectos especiales como sacar el arma mientras aterriza o aterrizar de pies en vez de tendido en el suelo.
 
 > El pterodáctilo **no puede iniciar el vuelo con pasajeros desde el suelo**, debe **lanzarse desde por lo menos 20 metros de altura** para poder coger velocidad en la caída y remontar el vuelo.
 
 ### Barda
-Estas armaduras para monturas no son ya muy eficaces en la guerra moderna. Son pesadas, farragosas de llevar y no dan protección frente a armas de fuego modernas. Esto unido a la protección natural de los dinosaurios ha hecho que solo sean útiles en muy contadas ocasiones. 
+Estas armaduras para monturas no son ya muy eficaces en la guerra moderna. Son pesadas, farragosas de llevar y no dan protección frente a armas de fuego modernas. Esto, unido a la protección natural de los dinosaurios, ha hecho que solo sean útiles en muy contadas ocasiones. 
 
 La Fundación puede crear en su forja todas las piezas de armadura que se deseen. xxx
 
 \saltopagina
 
-Estas protecciones no son intercambiables cada pieza ha sido diseñada para proteger una parte del cuerpo específica de una especie de dinosaurio. Aun así, se puede usar como material base de forma que una persona habilidosa con experiencia en armería podría usar el material de una barda para construir otra para otro dinosaurio. Queda a discreción del o la DJ la cantidad de material necesaria (2 bardas de estegosaurio = 1 barda de megalosaurio) y del tiempo de construcción.
+Estas protecciones no son intercambiables. Cada pieza ha sido diseñada para proteger una parte del cuerpo específica de una especie de dinosaurio. Aun así, se puede usar como material base de forma que una persona habilidosa con experiencia en armería podría usar el material de una barda para construir otra para otro dinosaurio. Queda a discreción del o la DJ la cantidad de material necesaria (2 bardas de estegosaurio = 1 barda de megalosaurio) y del tiempo de construcción.
 
 ### Collar de entrenamiento y mando de control
 Este collar lanza dolorosas descargas eléctricas al portador cuando se acciona el mando de control. El mando tiene una opción de descarga masiva tremendamente dolorosa que deja inconsciente al portador del collar, pero agota totalmente la batería del collar.
@@ -453,7 +471,7 @@ Son principalmente pinturas biodegradables y lavables con agua y jabón para cam
 \saltopagina
 
 #### Tiendas de campaña de camuflaje
-Si un comando va a estar mucho tiempo en el mismo sitio puede llevarse una tiendas de campaña donde ocultar a los dinosaurios que simulan todo serie de vehículos e instalaciones. La idea es ocultar a los dinosaurios de espías aéreos. En caso de necesidad vale cualquier tienda o unas lonas, pero los chicos de inteligencia estaban creativos y tenían presupuesto.
+Si un comando va a estar mucho tiempo en el mismo sitio, puede llevarse una tiendas de campaña donde ocultar a los dinosaurios que simulan todo serie de vehículos e instalaciones. La idea es ocultar a los dinosaurios de espías aéreos. En caso de necesidad vale cualquier tienda o unas lonas, pero los chicos de inteligencia estaban creativos y tenían presupuesto.
 
 #### Disfraces
 La fundación prefiere que en caso de avistamiento la gente hable de dragones o demonios que de dinosaurios. Han creado diferentes dispositivos como cuernos de diablo, alas de seres dracónicos e, incluso, hicieron con resto de telas unas pajaritas de gala por si tenían que ir a una fiesta o una recepción.
@@ -464,10 +482,10 @@ En condiciones normales no puede usarse en situaciones de combate, ya que se nec
 
 La idea con que se diseñó este dispositivo es darle una muerte digna a dinosaurio muy malherido y cercano a la muerte.
 
-**Recuerda:** Este dispositivo es totalmente opcional. Es una forma de darle dramatismo a la muerte de tu compañero dinosaurio y evitarle sufrimiento. No deberías permitir el uso de este objeto porque tu comando quiera cambiar de dinosaurio por uno que le interese más. Si crees que no es adecuado para tu mesa puedes eliminarlo de tus partidas o aplicar los velos y herramientas de seguridad que creas necesarias. Te recordamos que el maltrato animal es un tema complicado que deberías tratar con la mayor madurez.
+**Recuerda:** Este dispositivo es totalmente opcional. Es una forma de darle dramatismo a la muerte de tu compañero dinosaurio y evitarle sufrimiento. No deberías permitir el uso de este objeto porque tu comando quiera cambiar de dinosaurio por uno que le interese más. Si crees que no es adecuado para tu mesa, puedes eliminarlo de tus partidas o aplicar los velos y herramientas de seguridad que creas necesarias. Te recordamos que el maltrato animal es un tema complicado que deberías tratar con la mayor madurez.
 
 ### Mejoras de combate
-Esto incluye todo tipos de objetos y artilugios para aumentar las capacidades de combate de los saurios. Estamos hablando de pinchos afilados para las cabezas o las colas, cubiertas metálicas afiladas para las garras, etc. En general no han sido muy eficientes debido a que, si bien mejoran las capacidades de combate del dinosaurio, terminan haciéndole daño y siendo un problema para su normal actividad y su relación con sus congéneres.
+Esto incluye todo tipo de objetos y artilugios para aumentar las capacidades de combate de los saurios. Estamos hablando de pinchos afilados para las cabezas o las colas, cubiertas metálicas afiladas para las garras, etc. En general no han sido muy eficientes debido a que, si bien mejoran las capacidades de combate del dinosaurio, terminan haciéndole daño y siendo un problema para su normal actividad y su relación con sus congéneres.
 
 Se ha intentado montar armas de fuego pesadas encima de los dinosaurios, pero sin buenos resultados. Para empezar el ruido de las armas tan cerca resulta tremendamente molesto para el reptil y además no tienen mucha estabilidad para ser eficientes.
 
@@ -487,7 +505,7 @@ Los dinosaurios tendrán que moverse en entornos muy fríos y, aunque de sangre 
 A priori, las sillas de montar para dinosaurios son básicamente sillas de montar a caballo. Tienen los mismos elementos pero adaptados a la fisonomía del saurio.
 Cada silla de montar está modificada para cada especie de saurio y no pueden intercambiarse, excepto la del megalosaurio y el alosaurio que son casi iguales de forma y tamaño.
 
-> Modificar una silla para ser usada en un dinosaurio para la que no fue diseñado exige tener un taller con herramientas adecuado y pasar una tirada de Reparar. Todo el proceso lleva 3 horas más la diferencia de tamaño entre las dos especies. 
+> Modificar una silla para ser usada en un dinosaurio para la que no fue diseñado, exige tener un taller con herramientas adecuado y pasar una tirada de Reparar. Todo el proceso lleva 3 horas más la diferencia de tamaño entre las dos especies. 
 > Se puede cabalgar sin silla, pero supone un -2 a la tirada de Cabalgar si es un compañero saurio y un -4 si no lo es.
 
 ***
@@ -518,7 +536,7 @@ Todos estos eventos les obligarán a empezar una carrera contra los nazis por ll
 La aventura acabará en la Selva Negra donde tu comando deberá tomar un castillo inexpugnable protegido por tropas nazis y los dinosaurios que los nazis capturaron en la Fundación y desbaratar los planes de crear un arma terrible con un descubrimiento que han hecho en el Mundo Perdido, los diamantes de la arcilla azul.
 
 ### Orden cronológico
-Si deseas jugar los diferentes escenarios de guerra en orden cronológico por rigor histórico esta es la secuencia de eventos.
+Si deseas jugar los diferentes escenarios de guerra en orden cronológico por rigor histórico, esta es la secuencia de eventos.
 
 \saltopagina
 
@@ -542,7 +560,7 @@ xxx
 xxx
 
 ## Los viajes
-Como buena historia de aventuras los viajes no serán importantes, no importa ni el coste ni el tiempo ni si hay submarinos alemanes en esas aguas. Siempre llegarán a tiempo y sin problemas a no ser que el viaje sea la propia aventura. 
+Como buena historia de aventuras, los viajes no serán importantes, no importa ni el coste ni el tiempo ni si hay submarinos alemanes en esas aguas. Siempre llegarán a tiempo y sin problemas a no ser que el viaje sea la propia aventura. 
 
 Vamos a usar el recurso fílmico llamado "viajar por el mapa". Cuando tu comando decida ir a Noruega, como en Indiana Jones, la imagen se fundirá hasta verse un mapamundi viejo y descolorido y sobre este un barco partirá de Escocia dejando tras de sí una línea roja punteada de su ruta. Cruzará el mar del Norte y llegará finalmente a la costa de Noruega para fundirse el mapa y volver a ver nuestro comando.
 
@@ -579,7 +597,7 @@ Nunca sobran científicas y científicos locos nazis, así que puedes meter cier
 Si quieres rizar el rizo y conseguir altas cuotas de pulp, se podría, por ejemplo, hacer que los nazis tengan tecnología alienígena procedente de un platillo volante.
 
 ### Otras formas de magia
-Si la Ciencia Extraña no es lo tuyo quizás otras formas de magia más tradicionales te parezcan mejor. En este caso el Ocultismo debería pasar a ser una habilidad con entidad propia y no una parte de Humanidades.
+Si la Ciencia Extraña no es lo tuyo, quizás otras formas de magia más tradicionales te parezcan mejor. En este caso, el Ocultismo debería pasar a ser una habilidad con entidad propia y no una parte de Humanidades.
 
 #### Mentalismo
 Hablamos de personajes de miradas penetrantes que pueden leer mentes, mover objetos con el poder de sus pensamientos o de ver el futuro. 
@@ -587,7 +605,7 @@ Hablamos de personajes de miradas penetrantes que pueden leer mentes, mover obje
 Todos estos poderes mentales pueden cuadrar en esta campaña dando a tus némesis nazi la capacidad de combatir a los dinosaurios de tú a tú. Imagínate a tus comandos cargando con sus monturas dinosaurios contra un capitán de las SS que se eleva con el poder de su mente y que lanza gigantescas rocas con sus poderes telepáticos.  
 
 #### Magia negra, vudú y nigromancia
-Todos conocemos de la fascinación de los nazis y la magia. Pero no nos vale una magia normal brillante y luminosa. Hablamos de magia corrupta, de maldiciones, nigromancia, vudú, de rituales sangrientos y de sacrificios animales y humanos.
+Todos conocemos de la fascinación de los nazis y la magia. Pero no nos vale una magia normal, brillante y luminosa. Hablamos de magia corrupta, de maldiciones, nigromancia, vudú, de rituales sangrientos y de sacrificios animales y humanos.
 
 Que tus comandos sean víctimas de posesiones, que sean atacados en sus sueños, o que tengan que obedecer a un brujo/nazi porque les ha arrancado el corazón y si no le obedecen los matará, son elementos que pueden añadir mucha diversión a esta campaña. 
 
@@ -714,7 +732,7 @@ xxx
 ## Batalla del Mundo Perdido
 xxx
 
-[![Boceto de un nido alosaurios al que están robando los huevos](./assests/images/nido.jpg 'The Horrors of Thieving by FredtheDinosaurman')](https://www.deviantart.com/fredthedinosaurman/art/The-Horrors-of-Thieving-682621092 'The Horrors of Thieving by FredtheDinosaurman')
+[![Boceto de un nido alosaurios al que están robando los huevos](./assests/images/nido.jpg 'The Horrors of Thieving by FredTheDinosaurman')](https://www.deviantart.com/fredthedinosaurman/art/The-Horrors-of-Thieving-682621092 'The Horrors of Thieving by FredTheDinosaurman')
 
 \saltopagina
 
@@ -799,7 +817,7 @@ En 1924 en Hollywood una guionista/actriz llamada Marion Fairfax intentaba vende
 
 [![Retrato de Marion Fairfax](./assests/images/marion-fairfax.jpg 'American screenwriter Marion Fairfax, page 24 of the October 1921 Photoplay.')](https://es.wikipedia.org/wiki/Marion_Fairfax#/media/Archivo:Marion_Fairfax.jpg 'American screenwriter Marion Fairfax, page 24 of the October 1921 Photoplay.')
 
-Hoy esa guionista en ciernes, es una famosa escritora de ciencia ficción que está de visita en Londres para promocionar su libro. La Fundación quiere aprovecha y averiguar cómo su guion era tan acertado. 
+Hoy esa guionista en ciernes, es una famosa escritora de ciencia ficción que está de visita en Londres para promocionar su libro. La Fundación quiere aprovechar y averiguar cómo su guion era tan acertado. 
 
 Se va a hospedar durante 4 noches en el Savoy y se dedicará a firmar sus obras y hacer lecturas en diferentes librerías de Londres. También tiene una comida con otras célebres escritoras como Agatha Christie. El quinto día primera volverá a Nueva York en barco. 
 
@@ -829,7 +847,7 @@ xxx
 La familia Branningan lleva siendo marinos, lo que no saben es que durante un tiempo fueron corsarios al servicio de Inglaterra. 
 ```
 
-Ahora que regresan a casa, por el camino la capitán Branningan tiene una oferta interesante que proponerles. Conoce la ubicación de un galeón hundido lleno de oro y si le ayudan a rescatarlo, compartirá con ellos una parte. Dolores acaba su propuesta con un "Así cuando acabe está maldita guerra podremos retirarnos y vivir como reyes en alguna isla del Caribe a beber ron y bailar salsa."
+Ahora que regresan a casa, por el camino, la capitán Branningan tiene una oferta interesante que proponerles. Conoce la ubicación de un galeón hundido lleno de oro. Si le ayudan a rescatarlo, compartirá con ellos una parte. Dolores acaba su propuesta con un "Así, cuando acabe esta maldita guerra, podremos retirarnos y vivir como reyes en alguna isla del Caribe bebiendo ron y bailando salsa."
 
 xxx
 
@@ -1164,7 +1182,7 @@ xxx
 
 \saltopagina
 
-[![Boceto y recreación artística de un Megalosaurio](./assests/images/megalosaurio.jpg 'Megalosaurus por LadyofHats')](https://es.wikipedia.org/wiki/Megalosaurus_bucklandii#/media/Archivo:Megalosaurus_dinosaur.png 'Megalosaurus por LadyofHats')
+[![Boceto y recreación artística de un Megalosaurio](./assests/images/megalosaurio.jpg 'Megalosaurus por LadyOfHats')](https://es.wikipedia.org/wiki/Megalosaurus_bucklandii#/media/Archivo:Megalosaurus_dinosaur.png 'Megalosaurus por LadyOfHats')
 
 ### Megalosaurio
 * Carnívoro
@@ -1332,8 +1350,7 @@ Estoy totalmente en contra del maltrato animal y espero que las personas que vay
 Si en tu mesa se usan a los compañeros dinosaurios como objetos de usar tirar y donde no importa si sufren o mueren, tómatelo como una tremenda "red flag".   
 
 ### Suicidio
-El suicidio es un tema tratado, aunque sea un poco de pasada, en esta campaña. Es un tema espinoso que no debemos tomarlo a la ligera. Es por ello que creo que 
-ser cuidadoso a la hora de mostrarlo o eliminarlo si crees que no tu mesa no está preparado. Como decimos más adelante establece si lo ves necesarios los velos y las herramientas de seguridad necesarias para tratarlo.
+El suicidio es un tema tratado, aunque sea un poco de pasada, en esta campaña. Es un tema espinoso que no debemos tomarlo a la ligera. Es por ello que creo que ser cuidadoso a la hora de mostrarlo o eliminarlo si crees que no tu mesa no está preparado. Como decimos más adelante establece si lo ves necesarios los velos y las herramientas de seguridad necesarias para tratarlo.
  
 \saltopagina
 
