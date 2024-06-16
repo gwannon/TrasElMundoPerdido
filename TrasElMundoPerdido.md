@@ -717,8 +717,11 @@ xxx
 
 ## La fortaleza inexpugnable
 ```
-Parece que los nazis no solo buscaban dinosaurios para su ejército, también buscaba los diamantes de la arcilla azul. Parece que van a crear una arma terrible con los diamantes sacados del Mundo PErdido que puede cambiar el curso de la guerra a su favor. 
+Parece que los nazis no solo buscaban dinosaurios para su ejército, también buscaba los diamantes de la arcilla azul. Parece que van a crear una arma terrible con los diamantes sacados del Mundo Perdido que puede cambiar el curso de la guerra a su favor. 
 ```
+xxx
+
+### El castillo de Hohenzollern
 xxx
 
 ***
@@ -1342,6 +1345,7 @@ No soy propietario de ninguna de las imágenes de este documento. Estoy usando i
 * [Portada "Parte 4: Noruega"](https://www.nia.no/en/the-saboteurs/)
 * [Portada "Parte 5: La Francia Ocupada"](https://en.wikipedia.org/wiki/Battle_of_Saint-Malo#/media/File:Bomb_exploding_during_the_Battle_of_Saint-Malo_August_1944.jpg)
 * [Portada "Parte 8: Regreso al mundo perdido"](https://es.wikipedia.org/wiki/Roraima_(tepuy)#/media/Archivo:Los_Jacuzzis.jpg)
+* [Portada "Parte 9: La Selva Negra"](https://www.pexels.com/photo/a-view-of-the-hohenzollern-castle-in-germany-13127331/)
 * [Epílogo](https://commons.wikimedia.org/wiki/File:Dinosaur_footprint_%284056320716%29.jpg)
 * [Fondo portada y contraportada](https://pixabay.com/es/photos/papel-viejo-textura-pergamino-1074131/)
 * [Fondo páginas interiores](https://pixabay.com/es/illustrations/papertexture-textura-papel-2061710/)

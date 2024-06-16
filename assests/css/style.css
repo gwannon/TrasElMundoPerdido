@@ -450,11 +450,19 @@ section:nth-of-type(16) h1 {
   text-shadow: 0 0 20px black;
 }
 
+section:nth-of-type(17) h1 {
+  background: #000 url(../images/hohenzollern.jpg) center center no-repeat;
+  background-size: cover;
+  text-shadow: 0 0 20px black;
+}
+
 section:nth-of-type(20) h1 {
   background: #000 url(../images/epilogo.jpg) center center no-repeat;
   background-size: cover;
   text-shadow: 0 0 20px black;
 }
+
+
 
 /* Portada */
 section:first-of-type {
@@ -584,4 +592,11 @@ section:last-of-type > h4 {
 section:last-of-type > p:first-of-type {
   font-weight: bold;
   text-align: center;
+}
+
+section:last-of-type > ol {
+  background-color: #fff;
+  border-radius: 10px;
+  padding-top: var(--padding);
+  padding-bottom: var(--padding);
 }
