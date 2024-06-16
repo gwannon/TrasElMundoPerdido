@@ -734,6 +734,16 @@ Parece que los nazis no solo buscaban dinosaurios para su ejército, también bu
 ```
 xxx
 
+\saltopagina
+
+[![Mapa del castillo de Hohenzollern](./assests/images/hohenzollern-mapa-anotado.jpg 'Hohenzollern Castle - https://www.milbysmaps.com/')](https://www.milbysmaps.com/2023/06/10/hohenzollern-castle/ 'Hohenzollern Castle - https://www.milbysmaps.com/')
+
+&nbsp;
+
+Mapa del castillo de Hohenzollern en la Selva Negra.
+
+\saltopagina
+
 ### El castillo de Hohenzollern
 xxx
 
