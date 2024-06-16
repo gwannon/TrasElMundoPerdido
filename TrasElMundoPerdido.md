@@ -528,10 +528,25 @@ Si deseas jugar los diferentes escenarios de guerra en orden cronológico por ri
 3. Batalla del Río de la Plata (1943)
 4. Preparando el día D (1944)
 
+## Preparando las misiones
+Preparar la misión antes de partir con Mary Anning es una tarea muy importante, ya que la selección de dinosaurios y el equipo que lleven marcará cómo se desarrollará, convirtiendo una misión suicida en un paseo y viceversa.
+
+Al principio de cada misión (Noruega, Francia, etc.) recibirán una charla informativa con toda la información que Inteligencia ha recabado y luego una rueda de preguntas.
+
+A continuación deberán elaborar un listado de dinosaurios que quieren llevar y de equipamiento especial que podrían necesitar. Si se pasan con sus peticiones puedes decirles que el Alto Mando les niega ciertas cosas y si es necesario podrán hacer otro listado.
+
+### Dinosaurios
+xxx
+
+### Equipamiento
+xxx
+
 ## Los viajes
 Como buena historia de aventuras los viajes no serán importantes, no importa ni el coste ni el tiempo ni si hay submarinos alemanes en esas aguas. Siempre llegarán a tiempo y sin problemas a no ser que el viaje sea la propia aventura. 
 
 Vamos a usar el recurso fílmico llamado "viajar por el mapa". Cuando tu comando decida ir a Noruega, como en Indiana Jones, la imagen se fundirá hasta verse un mapamundi viejo y descolorido y sobre este un barco partirá de Escocia dejando tras de sí una línea roja punteada de su ruta. Cruzará el mar del Norte y llegará finalmente a la costa de Noruega para fundirse el mapa y volver a ver nuestro comando.
+
+\saltopagina
 
 No hay tablas de encuentros aleatorios, ni tiradas de climatología, ni nada por el estilo. Aunque eres libre, si quieres, de meter los encuentros que desees.
 
@@ -545,8 +560,6 @@ En este apartado te ofrezco algunas ideas para personalizar y hacer más tu tuya
 ### Más Mundos Perdidos y más especies de dinosaurios
 La tierra de Maple White no tiene por qué ser el único mundo perdido. Quizás los nazis hayan descubierto una tierra salvaje en mitad de la Antártida alimentada por el calor de los volcanes donde han sobrevivido otras especies de dinosaurios. Sin olvidarnos que igual en alguna sima oceánica haya gigantescos saurios acuáticos que una bomba nuclear lanzada sobre Japón pueda despertar.
 
-\saltopagina
-
 Los dinosaurios elegidos para esta campaña han sido los que aparecen en la novela original de Sir Arthur Conan Doyle, pero puedes encontrar fácilmente las estadísticas de otras especies como el tiranosaurio. Así que mete las especies que quieras, incluso especies más modernas y perfectamente disfrutabas como un tigre dientes de sable o un mamut.
 
 ### Otros conflictos bélicos
@@ -555,6 +568,8 @@ Esta campaña está desarrollada para jugarla en la II Guerra Mundial en Europa 
 * Podrían enclavarse en la I Guerra Mundial sin mucho problema. La novela de El Mundo Perdido se desarrolla hacia el 1910 así que quedarían todavía 6 años hasta la guerra mundial.
 * Podrías trasladar el teatro de operaciones de Europa y Norte de África con base en Inglaterra a por ejemplo el Pacífico con base en San Francisco y sustituyendo a los nazis por imperialistas nazis.
 * Podrías aplicar todo este contenido a una Guerra Fría más o menos beligerante en la que tus comandos se enfrentarán a los comunistas rusos de Stalin.
+
+\saltopagina
 
 ### Ciencia extraña
 No hay ningún tipo de magia en esta campaña, pero eso no quiere decir que no puedas meterla. La forma más sencilla y que creo que mejor pega es usar la Ciencia Extraña.
@@ -568,8 +583,6 @@ Si la Ciencia Extraña no es lo tuyo quizás otras formas de magia más tradicio
 
 #### Mentalismo
 Hablamos de personajes de miradas penetrantes que pueden leer mentes, mover objetos con el poder de sus pensamientos o de ver el futuro. 
-
-\saltopagina
 
 Todos estos poderes mentales pueden cuadrar en esta campaña dando a tus némesis nazi la capacidad de combatir a los dinosaurios de tú a tú. Imagínate a tus comandos cargando con sus monturas dinosaurios contra un capitán de las SS que se eleva con el poder de su mente y que lanza gigantescas rocas con sus poderes telepáticos.  
 
@@ -800,6 +813,17 @@ xxx
 La guerra se ha acabado y quizás es el momento de que los dinosaurios vuelvan a su mundo. 
 ```
 xxx
+
+## El secreto de los Branningan
+```
+La familia Branningan lleva siendo marinos, lo que no saben es que durante un tiempo fueron corsarios al servicio de Inglaterra. 
+```
+
+Ahora que regresan a casa, por el camino la capitán Branningan tiene una oferta interesante que proponerles. Conoce la ubicación de un galeón hundido lleno de oro y si le ayudan a rescatarlo, compartirá con ellos una parte. Dolores acaba su propuesta con un "Así cuando acabe está maldita guerra podremos retirarnos y vivir como reyes en alguna isla del Caribe a beber ron y bailar salsa."
+
+xxx
+
+\saltopagina
 
 ## Semillas de aventuras
 xxx
