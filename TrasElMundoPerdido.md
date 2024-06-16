@@ -94,7 +94,7 @@ Este taller y forja está dirigido por Weyland (su mote en la forja), un herrero
 xxx
 
 ### El "Mary Anning" y sus instalaciones
-El "Mary Anning" es un barco carguero de tamaño medio botado por la Fundacion para el transporte de dinosaurios y comandos.
+El "Mary Anning" es un barco carguero de tamaño medio botado por la Fundación para el transporte de dinosaurios y comandos.
 
 La fundación le puso el nombre de la famosa paleontóloga georgiana Mary Anning, que hizo grandes descubrimientos en saurios acuáticos como el ictiosaurio o el plesiosaurio.
 
@@ -184,6 +184,17 @@ xxx
 
 \saltopagina
 
+## ¿Que sabe la gente normal de los dinosaurios?
+En 1940 la paleontología y en concreto los dinosaurios no eran algo popular. La gente sabía que hace mucho tiempo habían existido lagartos gigantes que atacaban a los cavernícolas.
+
+Las únicas referencias culturales importantes eran libros de ciencia ficción como Viaje al centro de la tierra o películas de bajo presupuesto como King Kong.
+
+Los dinosaurios eran un monstruo más del imaginario popular junto a otros seres de gran tamaño con pulpos, hormigas o seres del espacio exterior.
+
+Una persona de la calle con estudios medios podría interpretar un avistamiento de dinosaurios como un ataque alienígena, un monstruo congelado en un iceberg derretido, superlagartos mutados, incluso ser un dragón despertado por la magia.
+
+xxx
+
 ## Mantener en secreto a los dinosaurios
 xxx
 
@@ -198,6 +209,8 @@ xxx
 
 ### Códigos secretos para los dinosaurios
 Dentro de la política de ocultación de los saurios, se ha establecido unos nombres claves para cada tipo de dinosaurio que se ha de usar tanto en comunicaciones escritas como de radio. En la descripción de cada dinosaurio viene el nombre en clave de la especie.
+
+\saltopagina
 
 Además cada dinosaurio tiene un nombre humano que se usa para cuando hay que especificar en las comunicaciones información sobre ese espécimen en concreto. 
 
@@ -434,7 +447,7 @@ Este collar es una forma inhumana y cruel de entrenamiento y una forma de contro
 ### Disfraces y otros métodos de ocultación
 Puede parecer estúpido, pero la Fundación tiene preparados todo un juego de disfraces y sistemas de ocultación para los dinosaurios. Los hay de tres tipos, pintura de camuflaje, tiendas de camuflaje y disfraces.
 
-#### Pinturas de camuflage
+#### Pinturas de camuflaje
 Son principalmente pinturas biodegradables y lavables con agua y jabón para cambiar su color de piel (escamas y plumas) y que pueda ocultarse en diferentes ambientes. Blanco para la nieve, ocres para el desierto, negro para misiones nocturnas, etc. La pintura lleva aplicarla tantas horas como el tamaño de dinosaurio.
 
 \saltopagina
@@ -808,11 +821,23 @@ xxx
 ### Edward Malone
 xxx
 
-### Dolores Brannigan, capitana del "Mary Anning"
+### Dolores Branningan, capitana del "Mary Anning"
 xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Idioma Español d4, Notar d4, Persuadir d4, Sigilo d4
+* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+* **Ventajas:** Soldado, xxx
+* **Desventajas:** xxx
+* **Equipo:** xxx
+
+\saltopagina
+
+### Weyland, armero e ingeniero
+xxx
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
 * **Ventajas:** Soldado, xxx
 * **Desventajas:** xxx
@@ -824,15 +849,15 @@ xxx
 \saltopagina
 
 ## Secuaces
-Aquí te presentamos toda una galería de personajes no jugadores genéricos que van a pulular por las cubiertas de tus barcos, los barracones de tus instalaciones militares y las trincheras y campos de batalla. También los puedes usar como base para tus PNJs. Si el capitán al cargo de la muralla norte de Tobruk va a ser importante, coge a un oficial y adórnalo con tus propios detalles.
+Aquí te presentamos toda una galería de personajes no jugadores genéricos que van a pulular por las cubiertas de tus barcos, los barracones de tus instalaciones militares y las trincheras y campos de batalla. También los puedes usar como base para tus PNJ. Si el capitán al cargo de la muralla norte de Tobruk va a ser importante, coge a un oficial y adórnalo con tus propios detalles.
 
-Recuerda que en esta campaña muchos de estos PNJs genéricos puedes personalizarlos con diferentes habilidades y ventajas. Quizás el soldado que lleva un camión puede que tenga un d6 en Conducir o la líder guerrillera pueda tener un Persuadir alto para arengar a sus tropas.
+Recuerda que en esta campaña muchos de estos PNJ genéricos puedes personalizarlos con diferentes habilidades y ventajas. Quizás el soldado que lleva un camión puede que tenga un d6 en Conducir o la líder guerrillera pueda tener un Persuadir alto para arengar a sus tropas.
 
 ### Infantería 
 xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
 * **Ventajas:** Soldado, xxx
 * **Desventajas:** xxx
@@ -842,7 +867,7 @@ xxx
 xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
 * **Ventajas:** xxx
 * **Desventajas:** xxx
@@ -854,7 +879,7 @@ xxx
 xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma materno d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
 * **Ventajas:** xxx
 * **Desventajas:** xxx
@@ -864,7 +889,7 @@ xxx
 xxx
 
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d6, Fuerza d6, Vigor d8
-* **Habilidades:** Atletismo d6, Conocimientos Generales d6, Dispara d6, Idioma Español d6, Idioma inglés d6, Navegar d6, Notar d6, Pelear d6, Persuadir d4, Reparar d6, Sigilo d4, Supervivencia d6
+* **Habilidades:** Atletismo d6, Conocimientos Generales d6, Dispara d6, Idioma Español d6, Idioma Inglés d6, Navegar d6, Notar d6, Pelear d6, Persuadir d4, Reparar d6, Sigilo d4, Supervivencia d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 6
 * **Ventajas:** xxx
 * **Desventajas:** xxx
@@ -874,7 +899,7 @@ xxx
 xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma materno d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
 * **Ventajas:** Soldado, xxx
 * **Desventajas:** xxx
@@ -886,7 +911,7 @@ xxx
 xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma materno d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
 * **Ventajas:** Soldado, xxx
 * **Desventajas:** xxx
@@ -896,7 +921,7 @@ xxx
 xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Alemán d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
 * **Ventajas:** Soldado, xxx
 * **Desventajas:** xxx
@@ -906,7 +931,7 @@ xxx
 xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Alemán d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
 * **Ventajas:** xxx
 * **Desventajas:** xxx
@@ -918,7 +943,7 @@ xxx
 xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Alemán d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
 * **Ventajas:** Soldado, xxx
 * **Desventajas:** xxx
@@ -928,7 +953,7 @@ xxx
 xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Alemán d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
 * **Ventajas:** Soldado, xxx
 * **Desventajas:** xxx
@@ -938,7 +963,7 @@ xxx
 xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Alemán d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
 * **Ventajas:** Soldado, xxx
 * **Desventajas:** xxx
@@ -1058,7 +1083,7 @@ xxx
 
 \saltopagina
 
-[![Dibujo recreación artística de un Ictiosaurio](./assests/images/ictiosaurio.jpg 'Shonisaurus - Nobu Tamura (http://spinops.blogspot.com)')](https://es.wikipedia.org/wiki/Ichthyosauria#/media/Archivo:Shonisaurus_BW_2.jpg 'Megalosaurus por LadyofHats')
+[![Dibujo recreación artística de un Ictiosaurio](./assests/images/ictiosaurio.jpg 'Shonisaurus - Nobu Tamura (http://spinops.blogspot.com)')](https://es.wikipedia.org/wiki/Ichthyosauria#/media/Archivo:Shonisaurus_BW_2.jpg 'Shonisaurus - Nobu Tamura (http://spinops.blogspot.com)')
 
 ### Ictiosaurio
 * Carnívoro
