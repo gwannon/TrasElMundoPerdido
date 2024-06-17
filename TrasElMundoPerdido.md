@@ -27,7 +27,7 @@ Puede que esté en tus manos cambiar el rumbo de la guerra y salvar al mundo de 
 
 ***
 
-# Historia
+# La Fundación Roxton
 xxx
 
 ## El mundo perdido
@@ -170,17 +170,21 @@ Recuerda que si tus comandos quieren un poco de complicación a las aventuras pu
 ## Dinosaurios en misiones
 xxx
 
-### Misiones de infiltración
-xxx
+### Misiones de infiltración 
+Para empezar hay que pensar que la mayoría de las misiones van a tener un componente de sigilo e infiltración. Muchas misiones implicarán como mínimo cruzar las líneas enemigas sin ser detectados.
+
+Los dinosaurios atienden a órdenes muy sencillas en estas situaciones como "silencio", "escóndete" o "quieto", a no ser que sus instintos más básicos le digan lo contrario. Por ejemplo, un estegosaurio no se quedará quieto si ve que están atacando y matando a su manada (tus comandos y sus dinosaurios).
+
+Aún que parezca que animales de varias toneladas no pueden esconderse, piensa que durante millones de años la evolución ha ido afilando sus capacidades para el sigilo, tanto los herbívoros para esconderse y no ser atacados, como para los carnívoros con su capacidad de tender emboscadas a sus presas. Ten en cuenta, además, que tienen su camuflaje natural y que la Fundación ha desarrollado diferentes inventos para mejorar su capacidad de infiltrarse.
 
 ### Misiones de reconocimiento aéreo
 Como dinosaurios voladores estas misiones son cosa de los pterodáctilos. Estos saurios voladores han aprendido mediante refuerzo positivo a ir de un humano origen a uno destino en más o menos línea recta hasta unos 3 o 4 km. 
 
+\saltopagina
+
 A partir de ahí solo hay que poner un arnés con cámaras de fotos de precisión con autodisparador y se puede sacar fotos de las instalaciones que el pterodáctilo sobrevuele.
 
 Es una misión arriesgada porque expone mucho al pterodáctilo a ser visto. La ventaja es que normalmente no miramos al cielo mucho y el ojo no entrenado puede confundirlos con aves de gran tamaño.
-
-\saltopagina
 
 ### Misiones acuáticas
 Las misiones acuáticas son exclusivas de plesiosaurios e ictiosaurios. En estas misiones estos dos saurios pueden ayudar a los buzos a moverse más deprisa y a buscar objetos y rescatarlos.
@@ -190,10 +194,23 @@ Con el arnés adecuado un buzo puede sujetarse a un saurio acuático y moverse a
 Por otro lado, han sido entrenados para enseñarles un objeto y ellos buscar en el fondo de su piscina un objeto parecido y traerlo. Incluso podrían colaborar dos saurios si necesitan mover un objeto pesado o con forma difícil de manejar.
 
 ### Misiones de combate
+Si bien, hablamos de perfectas máquinas de guerra, su competencia son todos el intelecto humano en forma de barcos de guerra, tanques y aviones de combate. A priori, un alosaurio no es rival para un tanque en combate directo, pero este puede acechar al tanque durante días, seguirle por cualquier tipo de terreno y cuando los ocupantes salen a repostar ser devorados vivos.
+
+La Fundación ha entrenado a los saurios para obedecer órdenes como "ataca", "auxilio" o "huye", aunque ten claro que tu compañero difícilmente huirá si estás en peligro.
+
 xxx
 
 ### Misiones de rescate
-xxx
+Las misiones de rescate pueden ser de cualquier índole y no tienen un equipo perfecto. Siempre depende de las circunstancias del rescate, no es lo mismo rescatar a unos rehenes en un tren en marcha que asaltar un castillo bávaro usado como prisión.
+
+Lo que si tienes que saber es que siempre necesitarás dos tipos de dinosaurio, el que rescate al objetivo y el que te permita que el anterior rescate añ objetivo.
+
+\saltopagina
+
+Siguiendo con los ejemplos anteriores, puedes usar la fuerza y la agilidad del iguanodonte para subir al tren saltando desde un puente y rompiendo el techo del tren para sacar a tu rehén y que un pterodáctilo se lleve a los prisioneros y prisioneras volando mientras tú con el iguanodonte cubres la retirada.
+
+En el caso del castillo puedes usar un estegosaurio y un megalosaurio para montar una distracción. Estos dos son capaces de sobra de distraer a las defensas terrestres del castillo mientras un comando con un plesiosaurio se infiltra por el pozo de agua a través de una red de acuíferos para rescatar 
+a los prisioneros
 
 ### Alimentación durante las misiones
 xxx
@@ -205,8 +222,6 @@ En 1940 la paleontología y en concreto los dinosaurios no eran algo popular. La
 
 Las únicas referencias culturales importantes eran libros de ciencia ficción como Viaje al centro de la tierra o películas de bajo presupuesto como King Kong.
 
-\saltopagina
-
 Los dinosaurios eran un monstruo más del imaginario popular junto a otros seres de gran tamaño con pulpos, hormigas o seres del espacio exterior.
 
 Una persona de la calle con estudios medios podría interpretar un avistamiento de dinosaurios como un ataque alienígena, un monstruo congelado en un iceberg derretido, superlagartos mutados, incluso ser un dragón despertado por la magia.
@@ -215,6 +230,8 @@ xxx
 
 ## Mantener en secreto a los dinosaurios
 xxx
+
+\saltopagina
 
 ### Aliados
 xxx
@@ -554,17 +571,21 @@ Al principio de cada misión (Noruega, Francia, etc.) recibirán una charla info
 A continuación deberán elaborar un listado de dinosaurios que quieren llevar y de equipamiento especial que podrían necesitar. Si se pasan con sus peticiones puedes decirles que el Alto Mando les niega ciertas cosas y si es necesario podrán hacer otro listado.
 
 ### Dinosaurios
-xxx
+A priori no hay límites a la hora de formar tu equipo de dinosaurios. Lo normal sería que cada comando llevará a su compañero y a otro dinosaurio y que ninguna especie se repitiera más de 3 veces. 
+
+La idea es que vayan siempre con su compañero y tengan un sustituto en el barco por si su dinosaurio desaparece, es malherido o, nadie lo quiera, muera.
+
+Si ves muy descompensado el grupo, puedes restringirles especies y cantidades. Las excusas pueden ser variadas; están en celo y son muy agresivos, están criando y deben cuidar su nido, etc.
 
 ### Equipamiento
-xxx
+En el tema de equipo, mientras no se pasen con el armamento y los explosivos puedes ser bastante permisivo. Si usan artilugios que no son ni armas ni explosivos, seguramente tienen un plan divertido que deberías por lo menos dejarles probar por loco y poco adecuado que sea. Como mínimo siempre será divertido.
+
+\saltopagina
 
 ## Los viajes
 Como buena historia de aventuras, los viajes no serán importantes, no importa ni el coste ni el tiempo ni si hay submarinos alemanes en esas aguas. Siempre llegarán a tiempo y sin problemas a no ser que el viaje sea la propia aventura. 
 
 Vamos a usar el recurso fílmico llamado "viajar por el mapa". Cuando tu comando decida ir a Noruega, como en Indiana Jones, la imagen se fundirá hasta verse un mapamundi viejo y descolorido y sobre este un barco partirá de Escocia dejando tras de sí una línea roja punteada de su ruta. Cruzará el mar del Norte y llegará finalmente a la costa de Noruega para fundirse el mapa y volver a ver nuestro comando.
-
-\saltopagina
 
 No hay tablas de encuentros aleatorios, ni tiradas de climatología, ni nada por el estilo. Aunque eres libre, si quieres, de meter los encuentros que desees.
 
@@ -580,14 +601,14 @@ La tierra de Maple White no tiene por qué ser el único mundo perdido. Quizás 
 
 Los dinosaurios elegidos para esta campaña han sido los que aparecen en la novela original de Sir Arthur Conan Doyle, pero puedes encontrar fácilmente las estadísticas de otras especies como el tiranosaurio. Así que mete las especies que quieras, incluso especies más modernas y perfectamente disfrutabas como un tigre dientes de sable o un mamut.
 
+\saltopagina
+
 ### Otros conflictos bélicos
 Esta campaña está desarrollada para jugarla en la II Guerra Mundial en Europa y Norte de África, pero con algunos cambios puedes prepararla para otros conflictos bélicos. Vemos algunos ejemplos:
 
 * Podrían enclavarse en la I Guerra Mundial sin mucho problema. La novela de El Mundo Perdido se desarrolla hacia el 1910 así que quedarían todavía 6 años hasta la guerra mundial.
 * Podrías trasladar el teatro de operaciones de Europa y Norte de África con base en Inglaterra a por ejemplo el Pacífico con base en San Francisco y sustituyendo a los nazis por imperialistas nazis.
 * Podrías aplicar todo este contenido a una Guerra Fría más o menos beligerante en la que tus comandos se enfrentarán a los comunistas rusos de Stalin.
-
-\saltopagina
 
 ### Ciencia extraña
 No hay ningún tipo de magia en esta campaña, pero eso no quiere decir que no puedas meterla. La forma más sencilla y que creo que mejor pega es usar la Ciencia Extraña.
@@ -603,6 +624,8 @@ Si la Ciencia Extraña no es lo tuyo, quizás otras formas de magia más tradici
 Hablamos de personajes de miradas penetrantes que pueden leer mentes, mover objetos con el poder de sus pensamientos o de ver el futuro. 
 
 Todos estos poderes mentales pueden cuadrar en esta campaña dando a tus némesis nazi la capacidad de combatir a los dinosaurios de tú a tú. Imagínate a tus comandos cargando con sus monturas dinosaurios contra un capitán de las SS que se eleva con el poder de su mente y que lanza gigantescas rocas con sus poderes telepáticos.  
+
+\saltopagina
 
 #### Magia negra, vudú y nigromancia
 Todos conocemos de la fascinación de los nazis y la magia. Pero no nos vale una magia normal, brillante y luminosa. Hablamos de magia corrupta, de maldiciones, nigromancia, vudú, de rituales sangrientos y de sacrificios animales y humanos.
