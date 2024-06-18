@@ -1189,6 +1189,7 @@ xxx
 * **Ventajas:** xxx
 * **Desventajas:** xxx
 * **Capacidades especiales:**
+  * **Coletazo:** FUE+d6. Si durante su turno, un estegosaurio no se mueve puede hacer un ataque de área en 3 casillas adyacentes entre sí y alrededor suyo. Hace una tirada por cada enemigo en el área. Todo enemigo que pase por esa zona hasta el siguiente turno del estegosaurio recibe un ataque. Varios estegosaurios puede combinar estos barridos con sus colas con pinchos de forma que crean una barrera defensiva que nadie en su sano juicio querría atravesar.
 
 \saltopagina
 
