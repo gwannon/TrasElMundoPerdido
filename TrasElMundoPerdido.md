@@ -174,7 +174,7 @@ Así pues, estate seguro de que podrás correr montado en tu alosaurio por un ca
 Recuerda que si tus comandos quieren un poco de complicación a las aventuras pueden poner a sus compañeros dinosaurios fobias incapacitantes como brontofobia (miedo a ruidos muy fuertes como truenos) o pirofobia (miedo al fuego).
 
 ## Dinosaurios en misiones
-xxx
+Aunque pueda parecer poco creíble, la variedad de misiones que estos reptiles gigantescos puede ser útiles son muy variadas. Todo es cuestión de conocer sus puntos fuertes y débiles y saber aplicarlos a cada situación adecuadamente. Veamos algunas opciones.
 
 ### Misiones de infiltración 
 Para empezar hay que pensar que la mayoría de las misiones van a tener un componente de sigilo e infiltración. Muchas misiones implicarán como mínimo cruzar las líneas enemigas sin ser detectados.
@@ -183,10 +183,10 @@ Los dinosaurios atienden a órdenes muy sencillas en estas situaciones como "sil
 
 Aún que parezca que animales de varias toneladas no pueden esconderse, piensa que durante millones de años la evolución ha ido afilando sus capacidades para el sigilo, tanto los herbívoros para esconderse y no ser atacados, como para los carnívoros con su capacidad de tender emboscadas a sus presas. Ten en cuenta, además, que tienen su camuflaje natural y que la Fundación ha desarrollado diferentes inventos para mejorar su capacidad de infiltrarse.
 
+\saltopagina
+
 ### Misiones de reconocimiento aéreo
 Como dinosaurios voladores estas misiones son cosa de los pterodáctilos. Estos saurios voladores han aprendido mediante refuerzo positivo a ir de un humano origen a uno destino en más o menos línea recta hasta unos 3 o 4 km. 
-
-\saltopagina
 
 A partir de ahí solo hay que poner un arnés con cámaras de fotos de precisión con autodisparador y se puede sacar fotos de las instalaciones que el pterodáctilo sobrevuele.
 
@@ -209,9 +209,9 @@ xxx
 ### Misiones de rescate
 Las misiones de rescate pueden ser de cualquier índole y no tienen un equipo perfecto. Siempre depende de las circunstancias del rescate, no es lo mismo rescatar a unos rehenes en un tren en marcha que asaltar un castillo bávaro usado como prisión.
 
-Lo que si tienes que saber es que siempre necesitarás dos tipos de dinosaurio, el que rescate al objetivo y el que te permita que el anterior rescate añ objetivo.
-
 \saltopagina
+
+Lo que si tienes que saber es que siempre necesitarás dos tipos de dinosaurio, el que rescate al objetivo y el que te permita que el anterior rescate añ objetivo.
 
 Siguiendo con los ejemplos anteriores, puedes usar la fuerza y la agilidad del iguanodonte para subir al tren saltando desde un puente y rompiendo el techo del tren para sacar a tu rehén y que un pterodáctilo se lleve a los prisioneros y prisioneras volando mientras tú con el iguanodonte cubres la retirada.
 
@@ -247,7 +247,7 @@ Pero eso no quiere decir que otras potencias como Rusia o USA no tengan sospecha
 ### Nazis
 Ni los nazis ni otros países del Eje parecen saber nada de la Fundación y sus activos. Sin embargo la pasión por el Tercer Reich por lo sobrenatural le ha llevado algunas veces a estar muy cerca.
 
-Un grupo de científicos nazis estudiaron los textos recopilados de la presentación del Doctor Challenger en Viena ante el Congreso de Paleontología de 19xx de su primer viaje a la tierra de Maple White y el propio Führer, al enterarse de todo esto, propuso financiar una expedición militar.
+Un grupo de científicos nazis estudiaron los textos recopilados de la presentación del Doctor Challenger en Viena ante el Congreso de Paleontología de 19xx sobre su primer viaje a la tierra de Maple White. El propio Führer, al enterarse de todo esto, propuso financiar una expedición militar.
 
 Ante esta situación, la Fundación tuvo que buscar y contratar a un grupo de mercenarios para que saboteara e hiciera fracasar la expedición nazi. Este fue el germen que hizo que lady Roxton, a pesar de sus reticencias, pensará en un comando de saboteadores y combatientes formado por saurios y humanos.
 
@@ -888,14 +888,14 @@ Ahora que regresan a casa, por el camino, la capitán Branningan tiene una ofert
 
 xxx
 
+\saltopagina
+
 ## Espécimen perdido
 ```
-Al volver a Skype os informan de que un huevo de pterodáctilo ha desaparecido de su nido. Han encontrado pisadas cerca y los padres tienen señales de lucha.
+Al volver a Skye os informan de que un huevo de pterodáctilo ha desaparecido de su nido. Han encontrado pisadas cerca y los padres tienen señales de lucha.
 ```
 
 xxx
-
-\saltopagina
 
 ## Semillas de aventuras
 xxx
@@ -920,6 +920,18 @@ xxx
 ### Edward Malone
 xxx
 
+### Lady Margaret Roxton
+xxx
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Notar d4, Persuadir d4, Sigilo d4
+* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+* **Ventajas:** Soldado, xxx
+* **Desventajas:** xxx
+* **Equipo:** xxx
+
+\saltopagina
+
 ### Dolores Branningan, capitana del "Mary Anning"
 xxx
 
@@ -929,8 +941,6 @@ xxx
 * **Ventajas:** Soldado, xxx
 * **Desventajas:** xxx
 * **Equipo:** xxx
-
-\saltopagina
 
 ### Weyland, armero e ingeniero
 xxx
