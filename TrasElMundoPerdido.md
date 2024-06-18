@@ -62,6 +62,8 @@ Estas interacciones fueron con los siglos evolucionado y grabándose en los inst
 ## La Fundación Roxton
 xxx
 
+Una de las razones de lord Roxton para montar las instalaciones de la Fundación en Escocia, es que los posibles avistamientos de monstruos prehistóricos podían verse como un intento más de un loco escocés queriendo llamar la atención sobre el Lago Ness. De hecho, desde 1930 se han multiplicado los avistamientos de monstruos de todo tipo y estos hechos son rápidamente noticias en la prensa amarilla. Esto hace que los testigos sean desprestigiados rápidamente por la opinión pública y la comunidad científica a pesar de que muchas veces han podido reales.
+
 ### Las instalaciones de la Fundación Roxton
 xxx
 
@@ -74,12 +76,12 @@ Este taller y forja está dirigido por Weyland (su mote en la forja), un herrero
 #### Hospital de dinosaurios
 xxx
 
+\saltopagina
+
 ### El "Mary Anning" y sus instalaciones
 El "Mary Anning" es un barco carguero de tamaño medio botado por la Fundación para el transporte de dinosaurios y comandos.
 
 La fundación le puso el nombre de la famosa paleontóloga georgiana Mary Anning, que hizo grandes descubrimientos en saurios acuáticos como el ictiosaurio o el plesiosaurio.
-
-\saltopagina
 
 Durante años fue usado por la Fundación para el transporte de saurios y provisiones vía marítima. Pero cuando estalló la guerra y la Fundación contacto con el Alto Mando, el barco paso en secreto por los astilleros reales. Todo el espacio de carga fue acondicionado para llevar cómodamente a los dinosaurios y a sus compañeros humanos en sus largos viajes a sus diferentes misiones.
 
@@ -104,14 +106,15 @@ xxx
 #### Pajarera de los pterodáctilos
 xxx
 
+\saltopagina
+
 #### Otras instalaciones del barco
 
 Además de cosas normales en este tipo de cargueros, como cocina o sala común, cuenta con todas estas instalaciones.
+
 * Mini-gimnasio con pesas y algunos artilugios deportivos.
 * Celdas para 3 prisioneros/as
 * Armería completísima con una pequeña Santabárbara para los explosivos.
-
-\saltopagina
 
 ### El campamento
 
@@ -228,22 +231,30 @@ Una persona de la calle con estudios medios podría interpretar un avistamiento 
 
 xxx
 
-## Mantener en secreto a los dinosaurios
-xxx
-
 \saltopagina
 
-### Aliados
-xxx
+## Mantener en secreto a los dinosaurios
+Mantener en secreto la existencia de dinosaurios es una de las preocupaciones de la Fundación y como hemos visto lo lleva haciéndolo desde 1912. De hecho, han arriesgado mucho al ofrecer a sus especímenes más dotados e inteligentes a la Inteligencia militar inglesa, pero como ya sabemos "tiempos desesperados exigen medidas desesperadas". Así que la Fundación y sus saurios salieron a la luz para unas pocas personas del ejército inglés.
+
+### Aliados.
+La existencia de los comandos humanos/dinosaurio no ha salido nunca de salas de la inteligencia inglesa. Ningún aliado sabe de ellas o por lo menos ha dado señales de conocer su existencia.
+
+Pero eso no quiere decir que otras potencias como Rusia o USA no tengan sospechas de lo que se esconde en una isla perdida de Escocia.
 
 ### Nazis
-xxx
+Ni los nazis ni otros países del Eje parecen saber nada de la Fundación y sus activos. Sin embargo la pasión por el Tercer Reich por lo sobrenatural le ha llevado algunas veces a estar muy cerca.
+
+Un grupo de científicos nazis estudiaron los textos recopilados de la presentación del Doctor Challenger en Viena ante el Congreso de Paleontología de 19xx de su primer viaje a la tierra de Maple White y el propio Führer, al enterarse de todo esto, propuso financiar una expedición militar.
+
+Ante esta situación, la Fundación tuvo que buscar y contratar a un grupo de mercenarios para que saboteara e hiciera fracasar la expedición nazi. Este fue el germen que hizo que lady Roxton, a pesar de sus reticencias, pensará en un comando de saboteadores y combatientes formado por saurios y humanos.
 
 ### Opinión pública
 xxx
 
 ### Códigos secretos para los dinosaurios
 Dentro de la política de ocultación de los saurios, se ha establecido unos nombres claves para cada tipo de dinosaurio que se ha de usar tanto en comunicaciones escritas como de radio. En la descripción de cada dinosaurio viene el nombre en clave de la especie.
+
+\saltopagina
 
 Además, cada dinosaurio tiene un nombre humano que se usa para cuando hay que especificar en las comunicaciones información sobre ese espécimen en concreto. 
 
@@ -871,6 +882,13 @@ La familia Branningan lleva siendo marinos, lo que no saben es que durante un ti
 ```
 
 Ahora que regresan a casa, por el camino, la capitán Branningan tiene una oferta interesante que proponerles. Conoce la ubicación de un galeón hundido lleno de oro. Si le ayudan a rescatarlo, compartirá con ellos una parte. Dolores acaba su propuesta con un "Así, cuando acabe esta maldita guerra, podremos retirarnos y vivir como reyes en alguna isla del Caribe bebiendo ron y bailando salsa."
+
+xxx
+
+## Espécimen perdido
+```
+Al volver a Skype os informan de que un huevo de pterodáctilo ha desaparecido de su nido. Han encontrado pisadas cerca y los padres tienen señales de lucha.
+```
 
 xxx
 
