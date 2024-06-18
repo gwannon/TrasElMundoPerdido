@@ -64,6 +64,9 @@ xxx
 
 Una de las razones de lord Roxton para montar las instalaciones de la Fundación en Escocia, es que los posibles avistamientos de monstruos prehistóricos podían verse como un intento más de un loco escocés queriendo llamar la atención sobre el Lago Ness. De hecho, desde 1930 se han multiplicado los avistamientos de monstruos de todo tipo y estos hechos son rápidamente noticias en la prensa amarilla. Esto hace que los testigos sean desprestigiados rápidamente por la opinión pública y la comunidad científica a pesar de que muchas veces han podido reales.
 
+### Lady Roxton
+xxx
+
 ### Las instalaciones de la Fundación Roxton
 xxx
 
