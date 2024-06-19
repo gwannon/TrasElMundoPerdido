@@ -49,7 +49,9 @@ xxx
 xxx
 
 ### Descubrimientos asombrosos
-El gran descubrimiento que hizo Roxton en esta segunda expedición es que todos los saurios tenían cierto grado de domesticación. No eran mascotas como perros y gatos, ni tampoco animales de granja, pero habían convivido con los humanos primitivos de la meseta durante miles de años (cosa que no había ocurrido en el resto del mundo) y esto había transformado sus instintos poco a poco.
+De lo primero que descubrieron es que la evolución no se había parado en el Mundo Perdido, sino que los saurios habían seguido evolucionando y principalmente su capacidad craneal era mayor que los fósiles de sus antepasados, con lo que se podía deducir que eran más inteligentes que sus antepasados. Son capaces de solucionar problemas básicos y de realizar rutinas tras un proceso de aprendizaje.
+ 
+Pero el gran descubrimiento que hizo Roxton en esta segunda expedición es que todos los saurios tenían cierto grado de domesticación. No eran mascotas como perros y gatos, ni tampoco animales de granja, pero habían convivido con los humanos primitivos de la meseta durante miles de años (cosa que no había ocurrido en el resto del mundo) y esto había transformado sus instintos poco a poco.
 
 Los antropólogos y antropólogas de la fundación se dedicaron a estudiar a los cavernícolas y descubrieron interacciones entre ambas especies que habían llevado a los saurios a ser en parte domesticados. 
 
@@ -57,7 +59,7 @@ Los antropólogos y antropólogas de la fundación se dedicaron a estudiar a los
 
 Las tribus de humanos primitivos habían aprendido a dejar parte de su caza lejos de sus asentamientos para alejar a los grandes depredadores y a atraer a los herbívoros dejando gran cantidad de frutas en ciertos lugares donde era más fácil cazarlos o alejarlos de sus nidos y entonces robar sus huevos o sus crías. 
 
-Estas interacciones fueron con los siglos evolucionado y grabándose en los instintos de los saurios, de forma que saben que salvo en caso de necesidad y hambre, un humano es más útil vivo que muerto. Este hecho, junto a la selección de los mejores y más inteligentes ejemplares, hizo que la Fundación pudiera domesticar dinosaurios con técnicas avanzadas de condicionamiento positivo en unos 15 años.
+Estas interacciones fueron con los siglos evolucionado y grabándose en los instintos de los saurios, de forma que saben que salvo en caso de agresión, necesidad y hambre, un humano es más útil vivo que muerto. Este hecho, junto a la selección de los mejores y más inteligentes ejemplares, hizo que la Fundación pudiera domesticar dinosaurios con técnicas avanzadas de condicionamiento positivo en unos 15 años.
 
 ## La Fundación Roxton
 xxx
@@ -95,7 +97,7 @@ La fundación le puso el nombre de la famosa paleontóloga georgiana Mary Anning
 
 Durante años fue usado por la Fundación para el transporte de saurios y provisiones vía marítima. Pero cuando estalló la guerra y la Fundación contacto con el Alto Mando, el barco paso en secreto por los astilleros reales. Todo el espacio de carga fue acondicionado para llevar cómodamente a los dinosaurios y a sus compañeros humanos en sus largos viajes a sus diferentes misiones.
 
-En el resto del espacio libre se crearon diferentes habitáculos con material y equipo útil en sus misiones, desde un hospital de campaña para humanos y dinosaurios hasta una sala oscura para rebelar fotos. Cuenta también con grandes zonas de almacenaje y un congelador de tamaño industrial para almacenar las provisiones de los grandes saurios.
+En el resto del espacio libre se crearon diferentes habitáculos con material y equipo útil en sus misiones, desde un hospital de campaña para humanos y dinosaurios hasta una sala oscura para revelar fotos. Cuenta también con grandes zonas de almacenaje y un congelador de tamaño industrial para almacenar las provisiones de los grandes saurios.
 
 La capitán Dolores Branningan y su tripulación tienen años de experiencia tratando con dinosaurios y saliendo airosos de situaciones peligrosas. Es por ello que en caso de necesidad podrían sustituir a un comando en una misión.
 
@@ -265,7 +267,7 @@ Mantener en secreto la existencia de dinosaurios es una de las preocupaciones de
 ### Aliados.
 La existencia de los comandos humanos/dinosaurio no ha salido nunca de salas de la inteligencia inglesa. Ningún aliado sabe de ellas o por lo menos ha dado señales de conocer su existencia.
 
-Pero eso no quiere decir que otras potencias como Rusia o USA no tengan sospechas de lo que se esconde en una isla perdida de Escocia.
+Pero eso no quiere decir que otras potencias como Rusia o EE.UU. no tengan sospechas de lo que se esconde en una isla perdida de Escocia.
 
 ### Nazis
 Ni los nazis ni otros países del Eje parecen saber nada de la Fundación y sus activos. Sin embargo la pasión por el Tercer Reich por lo sobrenatural le ha llevado algunas veces a estar muy cerca.
@@ -443,12 +445,12 @@ Estos dispositivos letales en forma de cápsula permiten al comando suicidarse e
 
 **Recuerda:** Este dispositivo es totalmente opcional y es casi más para PNJ que para PJ. Es una forma de darle dramatismo a la muerte de ciertas personas. Si crees que no es adecuado para tu mesa, puedes eliminarlo de tus partidas o aplicar los velos y herramientas de seguridad que creas necesarias. Te recordamos que es suicidio es un tema complicado que deberías tratar con la mayor madurez.
 
-### Maletín de rebelado de foto
-Este maletín que a simple vista parece de oficinista, contiene todo lo necesario para el rebelado de fotos: compuestos químicos, luz roja, papel fotográfico, etc. 
+### Maletín de revelado de foto
+Este maletín que a simple vista parece de oficinista, contiene todo lo necesario para el revelado de fotos: compuestos químicos, luz roja, papel fotográfico, etc. 
 
-Permite el rebelado de 3 carretes de 24 fotos, antes de que se agoten sus componentes.
+Permite el revelado de 3 carretes de 24 fotos, antes de que se agoten sus componentes.
 
-> Cualquier persona con Ciencias d6 o más puede revelar fotos con él. Pero se necesitará tirada si se quieren conseguir efectos especiales, intentar corregir fallos en las fotos o rebelar microfilms.
+> Cualquier persona con Ciencias d6 o más puede revelar fotos con él. Pero se necesitará tirada si se quieren conseguir efectos especiales, intentar corregir fallos en las fotos o revelar microfilms.
 
 \saltopagina
 

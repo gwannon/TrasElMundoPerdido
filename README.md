@@ -5,19 +5,60 @@
 
 [Versión PDF](https://mundoperdido.gwannon.com/pdf/)
 
+# Por hacer de la versión 0.3
+
+## La Fundación Roxton (8)
+* El mundo perdido
+* La expedición Roxton
+* La Fundación Roxton
+  * Lady Roxton
+  * Las instalaciones de la Fundación Roxton
+  * El "Mary Anning" y sus instalaciones
+    * Pajarera de los pterodáctilos
+  * El campamento
+
+## Acerca de los dinosaurios (8)
+* Carácter de los saurios
+* Día a día de los dinosaurios
+* Dinosaurios en misiones
+  * Misiones de combate
+  * Alimentación durante las misiones
+* ¿Qué sabe la gente normal de los dinosaurios?
+* Mantener en secreto a los dinosaurios
+  *  Opinión pública
+
+***
+
+# Changelog
+
+## Versión 0.3 En desarrollo
+
+## Versión 0.2 13/08/2024
+* "La campaña" terminado
+* "Epilogo" terminado.
+* "Reglas especiales para la campaña" terminado.
+
+## Versión 0.1 08/06/2024
+* Mejorado todo el sistema de creación de PDF y HTML. Ahora funciona desde ficheros .md y tiene variables
+* Montado todo diseño CSS
+* Montado índice en HTML y en PDF
+* Creada estructura general de la campaña
+* Montada [página web del proyecto](https://mundoperdido.gwannon.com/)
+
+***
 
 # Script para convertir MD a PDF
-pdf.sh es un script que convierte .md en .html y luego en un PDF con índice y metadatos.
+pdf.sh es un script que convierte .md en .HTML y luego en un PDF con índice y metadatos.
 
 En config.php se pueden definir varios textos que van en varias partes del HTML y el PDF.
 
-Para generar el html y el PDF hay que ejecutar ./pdf.sh
+Para generar el HTML y el PDF hay que ejecutar ./pdf.sh
 
-## Tools
-* generateDocs.php -> Convierte .md en .html y crea un fichero de texto con pdfIndexGenerator.php para meter metadatos e indice al PDF 
-* pdfIndexGenerator.php -> genera un índice para el PDF
-* pagination.sh -> mete paginación al PDF.
-* template.html -> Plantilla de html donde meter el código html creado a partir del .md
+## Herramientas /tools/
+* generateDocs.php: Convierte .md en .HTML y crea un fichero de texto con pdfIndexGenerator.php para meter metadatos e indice al PDF 
+* pdfIndexGenerator.php: genera un índice para el PDF
+* pagination.sh: mete paginación al PDF.
+* template.html: Plantilla de HTML donde meter el código HTML creado a partir del .md
 
 ## TODO
 * Quitar la paginación en la primera y la última página
@@ -32,7 +73,7 @@ Para generar el html y el PDF hay que ejecutar ./pdf.sh
 
 ## Instalación
 
-Hay que ejecutar composer para instalar el repositorio [fastvolt/markdown](https://github.com/fastvolt/markdown) que convierte el MD en html
+Hay que ejecutar composer para instalar el repositorio [fastvolt/markdown](https://github.com/fastvolt/markdown) que convierte el MD en HTML.
 
 ### Instalar pdftk en Ubuntu
 ```
@@ -45,19 +86,3 @@ sudo apt-get install texlive-latex-base
 sudo apt-get install texlive-fonts-recommended
 sudo apt-get install texlive-fonts-extra
 ```
-
-# Changelog
-
-## Version 0.3 En desarrollo
-
-## Versión 0.2 13/08/2024
-* "La campaña" terminado
-* "Epilogo" terminado.
-* "Reglas especiales para la campaña" terminado.
-
-## Versión 0.1 08/06/2024
-* Mejorado todo el sistema de creación de PDF y HTML. Ahora funciona desde ficheros .md y tiene variables
-* Montado todo diseño CSS
-* Montado índice en HTML y en PDF
-* Creada estructura general de la campaña
-* Montada [página web del proyecto](https://mundoperdido.gwannon.com/)
