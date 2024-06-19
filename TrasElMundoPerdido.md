@@ -236,7 +236,7 @@ Las misiones de rescate pueden ser de cualquier índole y no tienen un equipo pe
 
 \saltopagina
 
-Lo que si tienes que saber es que siempre necesitarás dos tipos de dinosaurio, el que rescate al objetivo y el que te permita que el anterior rescate añ objetivo.
+Lo que si tienes que saber es que siempre necesitarás dos tipos de dinosaurio, el que rescate al objetivo y el que te permita que el anterior rescate al objetivo.
 
 Siguiendo con los ejemplos anteriores, puedes usar la fuerza y la agilidad del iguanodonte para subir al tren saltando desde un puente y rompiendo el techo del tren para sacar a tu rehén y que un pterodáctilo se lleve a los prisioneros y prisioneras volando mientras tú con el iguanodonte cubres la retirada.
 
@@ -272,12 +272,14 @@ Pero eso no quiere decir que otras potencias como Rusia o EE.UU. no tengan sospe
 ### Nazis
 Ni los nazis ni otros países del Eje parecen saber nada de la Fundación y sus activos. Sin embargo la pasión por el Tercer Reich por lo sobrenatural le ha llevado algunas veces a estar muy cerca.
 
-Un grupo de científicos nazis estudiaron los textos recopilados de la presentación del Doctor Challenger en Viena ante el Congreso de Paleontología de 19xx sobre su primer viaje a la tierra de Maple White. El propio Führer, al enterarse de todo esto, propuso financiar una expedición militar.
+Un grupo de científicos nazis estudiaron los textos recopilados de la presentación del Doctor Challenger en Viena ante el Congreso de Paleontología de 19xxx sobre su primer viaje a la tierra de Maple White. El propio Führer, al enterarse de todo esto, propuso financiar una expedición militar.
 
 Ante esta situación, la Fundación tuvo que buscar y contratar a un grupo de mercenarios para que saboteara e hiciera fracasar la expedición nazi. Este fue el germen que hizo que lady Roxton, a pesar de sus reticencias, pensará en un comando de saboteadores y combatientes formado por saurios y humanos.
 
 ### Opinión pública
-xxx
+La opinión pública es totalmente ignorante de la existencia de los dinosaurios y de uso en operaciones militares. Solo algunos "conspiranoicos" y cazadores de monstruos tienen constancia de avistamientos de estos seres y casi todos los atribuyen al monstruo del Lago Ness.
+
+También puede que algún periódico sensacionalista haya publicado algún historía sobre avistamientos de saurios, pero normalmente si darle mucho bombo y siendo desprestigiado rápidamente por la comunidad científica.
 
 \saltopagina
 
