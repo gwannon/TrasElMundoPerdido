@@ -17,13 +17,11 @@
     * Pajarera de los pterodáctilos
   * El campamento
 
-## Acerca de los dinosaurios (6)
+## Acerca de los dinosaurios (4)
 * Carácter de los saurios
 * Día a día de los dinosaurios
 * Dinosaurios en misiones
   * Misiones de combate
-  * Alimentación durante las misiones
-* ¿Qué sabe la gente normal de los dinosaurios?
 
 ***
 

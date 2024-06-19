@@ -244,22 +244,26 @@ En el caso del castillo puedes usar un estegosaurio y un megalosaurio para monta
 a los prisioneros
 
 ### Alimentación durante las misiones
-xxx
+Además de la ocultación de los dinosaurios, el otro problema principal de llevar a los dinosaurios es alimentarlos. A priori los herbívoros pueden llevar el alimento almacenado en el barco sin problema y en la misión podrían alimentarse de lo que de la tierra y en caso de necesidad conseguir comida fresca de mercados y de granjas locales no debería ser problemático. Seguramente pueden dejar una hora a sus herbívoros en algún manzanar y que se alimenten de sus frutas o 
 
-> La regla general es que no hay problemas de alimentación para los carnívoros a no ser que la falta de comida sea parte de la aventura.
+El problema son los carnívoros de gran tamaño durante la misión, ya que en viaje el "Mary Anning" tiene unas grandes cámaras frigoríficas con alimento. Los de pequeño tamaño como pterodáctilos o ictiosaurios pueden cazar más o menos de forma segura sin ser detectados por el aire o por el agua. 
+
+Como las misiones en principio deberían ser cortas, a lo sumo una semana, los grandes carnívoros deberían poder proveerse sin problemas durante los combates devorando a nazis y a sus monturas. Piensa que los nazis son una fantástica fuente de proteínas y muchas instalaciones militares solían tener animales de granja como vacas u ovejas para tener ciertos suministros frescos.
+
+A nivel de juego, se supone que se llevan alimentos de sobra en las misiones y no deberían estar contando si quedan o no provisiones, esto no es "Econonomic D&D" no vamos a llevar al extremo el consumo/gasto de provisiones. Si fuera necesario puedes montarle alguna escena para conseguir alimento fresco en el mercado local mientras evitan patrullas nazis. 
+
+> La regla general es que no hay problemas de alimentación para los carnívoros a no ser que las misiones sean largas y/o la falta de comida sea parte de la aventura. En estos casos si quieres que haya un extra de complejidad puedes presionarles con la falta de comida de sus saurios.
+
+\saltopagina
 
 ## ¿Qué sabe la gente normal de los dinosaurios?
-En 1940 la paleontología y en concreto los dinosaurios no eran algo popular. La gente sabía que hace mucho tiempo habían existido lagartos gigantes que atacaban a los cavernícolas.
+En 1940 la paleontología y en concreto los dinosaurios no son algo popular. La gente sabía que hace mucho tiempo habían existido lagartos gigantes que atacaban a los cavernícolas.
 
 Las únicas referencias culturales importantes eran libros de ciencia ficción como Viaje al centro de la tierra o películas de bajo presupuesto como King Kong.
 
 Los dinosaurios eran un monstruo más del imaginario popular junto a otros seres de gran tamaño con pulpos, hormigas o seres del espacio exterior.
 
 Una persona de la calle con estudios medios podría interpretar un avistamiento de dinosaurios como un ataque alienígena, un monstruo congelado en un iceberg derretido, superlagartos mutados, incluso ser un dragón despertado por la magia.
-
-xxx
-
-\saltopagina
 
 ## Mantener en secreto a los dinosaurios
 Mantener en secreto la existencia de dinosaurios es una de las preocupaciones de la Fundación y como hemos visto lo lleva haciéndolo desde 1912. De hecho, han arriesgado mucho al ofrecer a sus especímenes más dotados e inteligentes a la Inteligencia militar inglesa, pero como ya sabemos "tiempos desesperados exigen medidas desesperadas". Así que la Fundación y sus saurios salieron a la luz para unas pocas personas del ejército inglés.
@@ -274,14 +278,14 @@ Ni los nazis ni otros países del Eje parecen saber nada de la Fundación y sus 
 
 Un grupo de científicos nazis estudiaron los textos recopilados de la presentación del Doctor Challenger en Viena ante el Congreso de Paleontología de 19xxx sobre su primer viaje a la tierra de Maple White. El propio Führer, al enterarse de todo esto, propuso financiar una expedición militar.
 
+\saltopagina
+
 Ante esta situación, la Fundación tuvo que buscar y contratar a un grupo de mercenarios para que saboteara e hiciera fracasar la expedición nazi. Este fue el germen que hizo que lady Roxton, a pesar de sus reticencias, pensará en un comando de saboteadores y combatientes formado por saurios y humanos.
 
 ### Opinión pública
 La opinión pública es totalmente ignorante de la existencia de los dinosaurios y de uso en operaciones militares. Solo algunos "conspiranoicos" y cazadores de monstruos tienen constancia de avistamientos de estos seres y casi todos los atribuyen al monstruo del Lago Ness.
 
 También puede que algún periódico sensacionalista haya publicado algún historía sobre avistamientos de saurios, pero normalmente si darle mucho bombo y siendo desprestigiado rápidamente por la comunidad científica.
-
-\saltopagina
 
 ### Códigos secretos para los dinosaurios
 Dentro de la política de ocultación de los saurios, se ha establecido unos nombres claves para cada tipo de dinosaurio que se ha de usar tanto en comunicaciones escritas como de radio. En la descripción de cada dinosaurio viene el nombre en clave de la especie.
