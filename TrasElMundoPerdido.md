@@ -67,6 +67,15 @@ Una de las razones de lord Roxton para montar las instalaciones de la Fundación
 ### Lady Roxton
 xxx
 
+### Las actividades oficiales de la Fundación 
+Legalmente la Fundación Roxton es una organización de defensa e investigación de la vida salvaje y como tal realiza muchas actividades públicas en este sentido. De hecho, los terrenos de la isla de Skype están registrados como una reserva natural de animales en peligro de extinción.
+
+Tiene becas, hace recaudaciones de fondos, hace campañas de concienciación, patrocina eventos de defensa animal y contra la caza, y todas actividades de típicas, pero siempre teniendo en cuenta que va dirigido a las clases altas inglesas.
+
+La Fundación usa a veces estás actividades como tapadera para sus fines reales. Por ejemplo, renovó todo el hospital animal del zoo de Londres y Dublín y se quedó el viejo para sus instalaciones. Un par de veces ya han organizado eventos para invitar a posibles traidores y que Inteligencia militar entrará en su casa a buscar pruebas.
+
+\saltopagina
+
 ### Las instalaciones de la Fundación Roxton
 xxx
 
@@ -77,9 +86,7 @@ Los dinosaurios en libertad a pesar de su tamaño, siguen con instintos de cazad
 Este taller y forja está dirigido por Weyland (su mote en la forja), un herrero/ingeniero que la Fundación enroló para hacer todos los artilugios y piezas de metal que necesitan en la isla, desde rejas o cadenas o bardas y escudos.
 
 #### Hospital de dinosaurios
-xxx
-
-\saltopagina
+Además de un pequeño hospital para humanos (los casos más graves se llevan al de Inverness), cuenta con un completísimo hospital para saurios totalmente adaptado a su fisiología y tamaño. Hay establos de recuperación, quirófanos reforzados para los más grandes, máquinas de rayos-x para diferentes especies, etc.
 
 ### El "Mary Anning" y sus instalaciones
 El "Mary Anning" es un barco carguero de tamaño medio botado por la Fundación para el transporte de dinosaurios y comandos.
@@ -94,17 +101,33 @@ La capitán Dolores Branningan y su tripulación tienen años de experiencia tra
 
 xxx
 
+\saltopagina
+
 #### Pieza de artillería antiaérea camuflada
-xxx
+En la cubierta principal, camuflada dentro de un contenedor de madera que se desmonta quitando unos pestillos, hay una ametralladora pesada.
+
+No es ni de lejos suficiente para enfrentarse a un barco de guerra o un submarino, pero podría derribar a un caza solitario, cubrir la huida de un comando en bote o barrer un puerto si fuera necesario.
+
+Estadísticas xxx
 
 #### Sala de misiones
 Esta sala llena de pupitres, una gran pizarra y un pequeño proyector de cine y otro de diapositivas sirve para explicar a los comandos la misión en la que se van a embarcar.
 
+
 #### Sala de radio
-xxx
+Esta radio militar de onda corta, permite al "Mary Anning" comunicarse con la fundación desde cualquier lugar del mundo para mandar información y recibirla.
+
+Durante las misiones, siempre hay alguien de guardia en la sala de radio, las 24 horas en 4 turnos de 6 horas.
+
+Los comandos pueden usar su radio portátil para comunicarse con el barco y este rebotar el mensaje a la Fundación. En un par de horas podrían mandar un mensaje y conseguir su respuesta.
+
+Aunque las comunicaciones pueden ser escuchadas por la Inteligencia Nazi, se usa un método de nombres en clave para tratar de ofuscar la información lo más posible. Aun así, una persona experta podría sacar el mensaje e incluso triangular la señal.
 
 #### La esclusa de los plesiosaurios
-xxx
+
+El "Mary Anning" llena unos tanques de agua para el transporte de los saurios acuáticos. No son especialmente grandes así que han dotado a esos tanques de una esclusa que permite a los ictiosaurios y a los plesiosaurios salir al mar cuando el carguero va a una velocidad más o menos lenta o está parado en un puerto.
+
+Desde el barco se suele lanzar una boya con la que suelen jugar y con la que hacen carreras cuando el barco está en movimiento. No solo sirve para tenerlos entretenidos y en forma. También hace que no se vayan lejos del barco, por ejemplo, buscando presas.
 
 #### Pajarera de los pterodáctilos
 xxx
@@ -254,10 +277,10 @@ Ante esta situación, la Fundación tuvo que buscar y contratar a un grupo de me
 ### Opinión pública
 xxx
 
+\saltopagina
+
 ### Códigos secretos para los dinosaurios
 Dentro de la política de ocultación de los saurios, se ha establecido unos nombres claves para cada tipo de dinosaurio que se ha de usar tanto en comunicaciones escritas como de radio. En la descripción de cada dinosaurio viene el nombre en clave de la especie.
-
-\saltopagina
 
 Además, cada dinosaurio tiene un nombre humano que se usa para cuando hay que especificar en las comunicaciones información sobre ese espécimen en concreto. 
 
