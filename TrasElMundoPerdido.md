@@ -271,7 +271,7 @@ Mantener en secreto la existencia de dinosaurios es una de las preocupaciones de
 ### Aliados.
 La existencia de los comandos humanos/dinosaurio no ha salido nunca de salas de la inteligencia inglesa. Ningún aliado sabe de ellas o por lo menos ha dado señales de conocer su existencia.
 
-Pero eso no quiere decir que otras potencias como Rusia o EE.UU. no tengan sospechas de lo que se esconde en una isla perdida de Escocia.
+Pero eso no quiere decir que otras potencias como Rusia o Estados Unidos no tengan sospechas de lo que se esconde en una isla perdida de Escocia.
 
 ### Nazis
 Ni los nazis ni otros países del Eje parecen saber nada de la Fundación y sus activos. Sin embargo la pasión por el Tercer Reich por lo sobrenatural le ha llevado algunas veces a estar muy cerca.
@@ -437,7 +437,7 @@ por las abarrotadas calles del zoco de Marrakech, así que aquí tienes las esta
 |Pterodáctilo|xxx|xxx|xxx|95 km/h|1|
 |Plesiosaurio|xxx|xxx|xxx|40 km/h|1|
 
-Recuerda que los dinosaurios son también parte tripulación del vehículo. Así pues, aparte de correr, pueden hacer otras acciones en cada ronda de persecución como atacar al enemigo, derribar árboles para cortar el camino a sus perseguidores, etc.
+Recuerda que los dinosaurios son también parte de la tripulación del vehículo. Así pues, aparte de correr, pueden hacer otras acciones en cada ronda de persecución como atacar al enemigo, derribar árboles para cortar el camino a sus perseguidores, etc.
 
 \saltopagina
 
