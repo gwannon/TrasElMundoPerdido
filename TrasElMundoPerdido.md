@@ -1165,7 +1165,9 @@ Los oscuros callejones de las grandes ciudades están llenas de este tipo de per
 \saltopagina
 
 ## Dinosaurios del Mundo Perdido
-xxx
+Las diferentes expediciones que han visitado el Mundo perdido han encontrado solo un limitado número de saurios, exactamente 8 además de 4 especies de animales "antediluvianos" incluido unos homínidos y unos humanos prehistóricos. 
+
+Que no hayan sido encontradas, no quiere decir que en la tierra de Maple White no existan, así que siéntete libre de meter todas las especies nuevas que quieras.
 
 [![Dibujo de un alosaurio](./assests/images/alosaurio.jpg 'De Fred Wierum - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=47577505')](https://es.wikipedia.org/wiki/Allosaurus#/media/Archivo:Allosaurus_Revised.jpg 'De Fred Wierum - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=47577505')
 
@@ -1428,17 +1430,27 @@ Simplemente, porque me encanta Savage Worlds, es uno de los sistemas genéricos 
 
 ### ¿Por qué dinosaurios contra nazis?
 Toda esta campaña es principalmente producto de mi gusto por los crossover en diferentes géneros. Puede parecer increíble, pero es una mezcla entre mi gusto por películas bélicas como La gran evasión, Los cañones de Navarone o El desafío de las águilas y querer poder meter algo parecido a Pokémon pero sin derechos. Es por ello que escogí dinosaurios, que tienen un rollo Pokémon. Son criaturas "fantásticas" con capacidades muy especiales que no tienen el resto de seres vivos. 
+
 Y sinceramente porque los dinosaurios molan.
 
-### Maltrato animal
-Estoy totalmente en contra del maltrato animal y espero que las personas que vayan a jugar esta campaña sientan el mismo respeto que yo por los animales y el medio ambiente en general. MI idea al crear esta campaña es que los dinosaurios fueran personajes importantes en la trama que luchen y sufran como los PJ y que se haga lo que sea necesario para protegerlos y viceversa. La muerte de un dinosaurio no puede ser algo banal debe tener una justificación y ser importante en una trama.
+### ¿Mujeres en la II Guerra Mundial?
+Si te haces esta pregunta, con 5 minutos buscando en internet podrás ver que su participación fue mucha y muy importante tanto en primera línea de combate, como en casa con el esfuerzo de guerra, como espías y descifrando códigos, etc. Si en tu mesa oyes que no puede o debe haber PJ femeninos, ya te digo que mejor vete de ahí.
 
-Si en tu mesa se usan a los compañeros dinosaurios como objetos de usar tirar y donde no importa si sufren o mueren, tómatelo como una tremenda "red flag".   
+He tratado de hacer esta ambientación lo más inclusiva y abierta que puedo y es por ello que estoy seguro de que habré hecho muchas cosas mal.
+
+He tratado de que haya diversidad entre PNJ con todo tipo de opciones de género, raza, etc. y sin definir su orientación sexual para que DJ puedas decidirla a tu gusto. He tratado de evitar clichés y espero haberlo hecho, pero sois muy libres de cambiarlo a vuestro gusto.
+
+### Maltrato animal
+Estoy totalmente en contra del maltrato animal y espero que las personas que vayan a jugar esta campaña sientan el mismo respeto que yo por los animales y el medio ambiente en general. Mi idea al crear esta campaña es que los dinosaurios fueran personajes importantes en la trama que luchen y sufran como los PJ y que se haga lo que sea necesario para protegerlos y viceversa. La muerte de un dinosaurio no puede ser algo banal debe tener una justificación y ser importante en una trama.
+
+\saltopagina
+
+Si en tu mesa se usan a los compañeros dinosaurios como objetos de usar tirar y donde no importa si sufren o mueren, tómatelo como una tremenda "red flag".  
+
+Para aportar mi granito de arena os diré que el servidor donde se aloja esta ambientación es un servidor verde certificado por la [Green Web Foundation](https://www.thegreenwebfoundation.org/green-web-check/?url=https%3A%2F%2Fmundoperdido.gwannon.com%2F).
 
 ### Suicidio
 El suicidio es un tema tratado, aunque sea un poco de pasada, en esta campaña. Es un tema espinoso que no debemos tomarlo a la ligera. Es por ello que creo que ser cuidadoso a la hora de mostrarlo o eliminarlo si crees que no tu mesa no está preparado. Como decimos más adelante establece si lo ves necesarios los velos y las herramientas de seguridad necesarias para tratarlo.
- 
-\saltopagina
 
 ### Fascismo y nazismo
 Esta campaña va de joder los malvados planes de los nazis, así que cualquier tipo de actividad en partida que suponga simpatizar con nazis y fascistas y su ideología debería ser una "red flag" clarísima. Si tus compañeros y compañeras de mesa ensalzan de alguna manera las ideas de nazis y fascistas, deberías levantarte e irte y si eres tú, él o la que las ensalza que sepas que eres un pedazo de mierda. 
@@ -1447,15 +1459,13 @@ Esta campaña va de joder los malvados planes de los nazis, así que cualquier t
 Ninguna, ya que para empezar hay dinosaurios. El espíritu de esta campaña está más cerca del pulp y de las películas de evasiones y misiones imposibles de la II Guerra Mundial que de los hechos históricos. La veracidad ha sido sacrificada en pos de la aventura. Por ejemplo, se busca más que haya un épico combate a puñetazos sobre la superficie de un zepelín al hecho de estos cayeron en desuso antes de empezar la guerra.  
 
 ### ¿Puedo hacer lo quiera con esta campaña?
-Sí, puedes. Con referenciarla puedes hacer lo que quieras. Si te gusta como se tratan la II Guerra Mundial, olvídate de los dinosaurios y juega una aventura de comandos. O puedes usar las estadísticas de los dinosaurios y hacer una aventura en el Mundo Perdido.
-
-### Define los velos y herramientas de seguridad
-> Antes de iniciar la aventura, todos los miembros de la mesa debéis definir las herramientas de seguridad que queráis utilizar y los temas o escenas que deben evitarse durante la partida para que nadie se sienta incómodo durante la sesión de juego. Podéis escoger los elementos que no queráis incluir durante la partida previamente o podéis utilizar un mecanismo de seguridad cuando estos aparezcan.
+Sí, puedes. Con referenciarla puedes hacer lo que quieras. Si te gusta como se trata la II Guerra Mundial, olvídate de los dinosaurios y juega una aventura de comandos. O puedes usar las estadísticas de los dinosaurios y hacer una aventura en el Mundo Perdido.
 
 \saltopagina
 
+### Define los velos y herramientas de seguridad
+> Antes de iniciar la aventura, todos los miembros de la mesa debéis definir las herramientas de seguridad que queráis utilizar y los temas o escenas que deben evitarse durante la partida para que nadie se sienta incómodo durante la sesión de juego. Podéis escoger los elementos que no queráis incluir durante la partida previamente o podéis utilizar un mecanismo de seguridad cuando estos aparezcan.
 > No importa cuál sea la herramienta de seguridad o el tipo de mecanismo utilicéis, pero es importante recordad que el rol es un juego y todos deben pasarlo bien. En caso de que consideréis entre todos que no necesitáis una herramienta de seguridad tampoco pasa nada, pero en ese caso es necesario que el director de juego se asegure de forma más activa de que ningún miembro de la mesa se sienta incómodo o lo esté pasando mal.
-
 > **Por:** [FaustoRolero](https://twitter.com/FaustoRolero)
 
 Aquí tienes algunas herramientas de seguridad que puedes usar:
@@ -1470,10 +1480,11 @@ Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a tra
 * Los dinosaurios están basados en [Savage Free Bestiary](https://docs.google.com/document/d/1qu4zzMYbPqOquVlCfgpPeoCmCEqGUgWh5dz-rpKJ1ck/edit?hl=it&authkey=CIySp98E#heading=h.7xcwydin4cfe)
 * [Libro original](https://archive.org/details/lostworldbeingac00doylrich/page/n220/mode/1up) en inglés con ilustraciones
 
+\saltopagina
+
 ### Imágenes
 No soy propietario de ninguna de las imágenes de este documento. Estoy usando imágenes con licencia CC y atribuyéndola a su propietario. Si hay algún error, hacédmelo saber para corregirlo. Estas son las imágenes que por diseño no he podido atribuir de manera adecuada enlazándolas correctamente.
 
-\saltopagina
 
 * [Portada "La campaña"](https://es.wikipedia.org/wiki/El_mundo_perdido_(pel%C3%ADcula_de_1925)#/media/Archivo:The_Lost_World_(1925)_-_film_poster.jpg)
 * [Portada "Parte 1: La isla de Skye"](https://pixabay.com/es/photos/isla-de-skye-escocia-gran-breta%C3%B1a-4415029/)
