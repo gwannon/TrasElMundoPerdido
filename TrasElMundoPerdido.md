@@ -173,18 +173,30 @@ Salvo casos especiales, la Fundación Roxton puede conseguir cualquier tipo de m
 ## Cómo llevar dinosaurios
 La idea principal sobre cómo tratar e interpretar a los dinosaurios no es que sean meras extensiones de tus comandos, sino que sean una especie de PNJ llevados a medias por ti y tu mesa de juego. 
 
-Deberían tener un poco de libre albedrío y algo de carácter (definido principalmente por la desventaja que le pone su humano) y a la vez obedecer las órdenes de su compañero humano. De forma que, por ejemplo, un alosaurio sanguinario seguirá peleando pese a que su humano le ordene detenerse.
+A la hora de interpretarlos debes considerar que deberían tener un poco de libre albedrío y algo de carácter (definido principalmente por su especia y por la desventaja que le pone su humano) y a la vez seguir las órdenes de su compañero humano. De forma que, por ejemplo, un alosaurio sanguinario y con algunas heridas seguirá peleando pese a que su humano le ordene detenerse.
+
+Recuerda además que hay usos especiales de los benis que pueden cambiar la forma en que los humanos y los saurios interactúan.
 
 ## Carácter de los saurios
-El carácter de los dinosaurios tiene una gran parte marcada por su fisionomía, pero luego hay una parte de su personalidad que se debe a sus experiencias vitales. No tienen una gran memoria, pero hay eventos que se les graban a fuego y forjan su carácter. Para empezar veamos el carácter general de cada especie.
+El carácter de los dinosaurios tiene una gran parte marcada por su especie y fisionomía, pero luego hay una parte de su personalidad que se debe a sus experiencias vitales. No tienen una gran memoria, pero hay eventos que se les graban a fuego y forjan su carácter. Para empezar veamos el carácter general de cada especie.
 
-* A priori, los carnívoros son más agresivos en general, aunque los estegosaurios y los iguanodontes pueden serlo también para proteger a su manada y sus crías.
-* Los acuáticos suelen ser más distantes. Vivimos en mundos distintos y eso hace que no entiendan tanto a los humanos como a los dinosaurios terrestres. Sin embargo, trabajan entre ellos muy bien.
-* Los pterodáctilos tienen a ser bastante individualistas y competitivos. 
-* La capacidad de vuelo de los pterodáctilos, que les permite escapar rápidamente de situaciones de peligro, hace que sean bastante fastidiosos. Pueden pasarse horas chinchando a sus compañeros y salir volando cuando estos se enfadan. Esto ha hecho también que sean un poco cobardes en general, huyendo a la mínima.
-* xxx
+### Carnívoros terrestres
+A priori, los carnívoros son más agresivos en general. En la naturaleza son cazadores solitarios, con lo que es difícil tratar de coordinarlos con otras especies tanto porque las ven como competidores o como presas.
 
-xxx
+
+
+### Carnívoros acuáticos
+Los acuáticos suelen ser más distantes. Vivimos en mundos distintos y eso hace que no entiendan tanto a los humanos como a los dinosaurios terrestres o aéreos. Sin embargo, como cazan normalmente en manadas trabajan muy bien entre ellos.
+
+### Carnívoros aéreos
+Los pterodáctilos tienen a ser bastante competitivos entre ellos buscando ser el más rápido y mejor cazador. Esto junto a u capacidad de vuelo hace que sean bastante molestos. Pueden pasarse horas mirando quien puede chinchar más a un carnívoro para salir volando cuando estos se enfadan y les atacan. Pero esa capacidad de vuelo ha hecho también que sean un poco cobardes en general, huyendo a la mínima. Sin embargo son más valientes y atrevidos en grupo.
+
+\saltopagina
+
+### Herbívoros
+Son quizás los menos agresivos, pero pueden ser tremendamente agresivos cuando tienen que proteger a su manada y sus crías. Tampoco son los más listos, pero establecen fuertes lazos sociales entre ellos y los humanos formando entre todos una manada y como ya hemos dicho harán lo que sea para proteger a su manada. Otra de sus características es trabajan bien en equipo. Varios estegosaurios protegiendo una zona con sus colas llenas de pinchos es un espectáculo digno de ver, por no hablar de varios iguanodones corriendo a los lados de un jeep para protegerlo de enemigos. 
+
+[![Dibujo de un enfretamiento de un tiranosaurio y un triceratos](./assests/images/enfrentamiento.jpg 'Charles R. Knight')](https://commons.wikimedia.org/wiki/Category:Charles_R._Knight#/media/File:Annual_report_of_the_Director_to_the_Board_of_Trustees_for_the_year_.._(1926)_(18434166321).jpg 'Charles R. Knight')
 
 ## Día a día de los dinosaurios
 xxx
@@ -225,16 +237,18 @@ Con el arnés adecuado, un buzo puede sujetarse a un saurio acuático y moverse 
 Por otro lado, han sido entrenados para enseñarles un objeto y ellos buscar en el fondo de su piscina un objeto parecido y traerlo. Incluso podrían colaborar dos saurios si necesitan mover un objeto pesado o con forma difícil de manejar.
 
 ### Misiones de combate
-Si bien, hablamos de perfectas máquinas de guerra, su competencia son todos el intelecto humano en forma de barcos de guerra, tanques y aviones de combate. A priori, un alosaurio no es rival para un tanque en combate directo, pero este puede acechar al tanque durante días, seguirle por cualquier tipo de terreno y cuando los ocupantes salen a repostar ser devorados vivos.
+Si bien, hablamos de perfectas máquinas de guerra, su competencia son todos el intelecto humano en forma de armas de fuego y explosivos, barcos de guerra, tanques y aviones de combate. A priori, un alosaurio o un megalosaurio no es rival para un tanque en combate directo, pero este puede acechar al tanque durante días, seguirle por cualquier tipo de terreno y cuando los ocupantes salen a repostar ser devorados vivos.
+
+Los estegosaurios y los iguanodones tampoco se quedan atrás. Son seres que han aprendido a sobrevivir en un ambiente muy peligroso con lo que están dotados de poderosas armas como sus colas con pinchos. Solamente con su peso y su dura piel pueden hacer frente a un pelotón de soldados nazis sin sufrir más que algunos rasguños.
+
+Por último los pterodáctilos e ictiosaurios y plesiosaurios son muy peligrosos en su medio. Quizás no puedan derribar un UBoat o un Messerschmidt. Pero un buzo no es rival para un ictiosaurio y un pterodáctilo puede atrapar a un soldado nazi, elevarse hasta 100 metros y dejarlo caer en unos pocos segundos.
+
+\saltopagina
 
 La Fundación ha entrenado a los saurios para obedecer órdenes como "ataca", "auxilio" o "huye", aunque ten claro que tu compañero difícilmente huirá si estás en peligro.
 
-xxx
-
 ### Misiones de rescate
 Las misiones de rescate pueden ser de cualquier índole y no tienen un equipo perfecto. Siempre depende de las circunstancias del rescate, no es lo mismo rescatar a unos rehenes en un tren en marcha que asaltar un castillo bávaro usado como prisión.
-
-\saltopagina
 
 Lo que si tienes que saber es que siempre necesitarás dos tipos de dinosaurio, el que rescate al objetivo y el que te permita que el anterior rescate al objetivo.
 
@@ -252,9 +266,9 @@ Como las misiones en principio deberían ser cortas, a lo sumo una semana, los g
 
 A nivel de juego, se supone que se llevan alimentos de sobra en las misiones y no deberían estar contando si quedan o no provisiones, esto no es "Econonomic D&D" no vamos a llevar al extremo el consumo/gasto de provisiones. Si fuera necesario, puedes montarle alguna escena para conseguir alimento fresco en el mercado local mientras evitan patrullas nazis. 
 
-> La regla general es que no hay problemas de alimentación para los carnívoros a no ser que las misiones sean largas y/o la falta de comida sea parte de la aventura. En estos casos, si quieres que haya un extra de complejidad puedes presionarles con la falta de comida de sus saurios.
-
 \saltopagina
+
+> La regla general es que no hay problemas de alimentación para los carnívoros a no ser que las misiones sean largas y/o la falta de comida sea parte de la aventura. En estos casos, si quieres que haya un extra de complejidad puedes presionarles con la falta de comida de sus saurios.
 
 ## ¿Qué sabe la gente normal de los dinosaurios?
 En 1940 la paleontología y en concreto los dinosaurios no son algo popular. La gente sabía que hace mucho tiempo habían existido lagartos gigantes que atacaban a los cavernícolas.
@@ -273,12 +287,12 @@ La existencia de los comandos humanos/dinosaurio no ha salido nunca de salas de 
 
 Pero eso no quiere decir que otras potencias como Rusia o Estados Unidos no tengan sospechas de lo que se esconde en una isla perdida de Escocia.
 
+\saltopagina
+
 ### Nazis
 Ni los nazis ni otros países del Eje parecen saber nada de la Fundación y sus activos. Sin embargo, la pasión por el Tercer Reich por lo sobrenatural le ha llevado algunas veces a estar muy cerca.
 
 Un grupo de científicos nazis estudiaron los textos recopilados de la presentación del Doctor Challenger en Viena ante el Congreso de Paleontología de 1909 sobre su primer viaje a la tierra de Maple White. El propio Führer, al enterarse de todo esto, propuso financiar una expedición militar.
-
-\saltopagina
 
 Ante esta situación, la Fundación tuvo que buscar y contratar a un grupo de mercenarios para que saboteara e hiciera fracasar la expedición nazi. Este fue el germen que hizo que lady Roxton, a pesar de sus reticencias, pensará en un comando de saboteadores y combatientes formado por saurios y humanos.
 

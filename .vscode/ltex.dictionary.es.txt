@@ -96,3 +96,7 @@ Inverness
 Führer
 1d4
 romancear
+iguanodones
+UBoat
+Messerschmitt
+Messerschmidt

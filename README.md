@@ -17,11 +17,11 @@
     * Pajarera de los pterodáctilos
   * El campamento
 
-## Acerca de los dinosaurios (4)
-* Carácter de los saurios
+## Acerca de los dinosaurios (1)
 * Día a día de los dinosaurios
-* Dinosaurios en misiones
-  * Misiones de combate
+
+## Recursos 
+* https://commons.wikimedia.org/wiki/Category:Charles_R._Knight
 
 ***
 
