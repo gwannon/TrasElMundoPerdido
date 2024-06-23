@@ -744,7 +744,7 @@ xxx
 
 ***
 
-# Parte 5: La Francia Ocupada
+# Parte 5: Normandía
 xxx
 
 ## Preparando el día D
@@ -930,7 +930,7 @@ Al volver a Skye os informan de que un huevo de pterodáctilo ha desaparecido de
 xxx
 
 ## Semillas de aventuras
-xxx
+Además de los relatos salvajes aquí te propongo una serie de semillas de aventuras si quieres alargar tus partidas o darles más profundidad.
 
 ### La gran evasión
 xxx
@@ -938,10 +938,18 @@ xxx
 ***
 
 # Aliados, antagonistas y dinosaurios
-xxx
+En este capítulo vamos a ver todos los personajes que van a poblar esta campaña desde Lady Roxton, hasta una simple tabernera de un pueblo perdido de Normandía. 
+
+Aquí tienes, primero, aliados de tus comandos, miembros de la Fundación, altos cargos de Inteligencia Militar. Continuamos con antagonistas, todo una serie de malvados nazis que van a ponérselo difícil a tus comandos. Además, tenemos toda una serie de secuaces que llenarán tus aventuras de todo tipo de personajes.
+
+Por último, tenemos una sección con los auténticos protagonistas de esta campaña los dinosaurios con extensas descripciones, ilustraciones, escalas en relación con los humanos, etc.
 
 ## Aliados
 xxx
+
+Las vidas sentimentales y sexuales de los personajes de esta ambientación han sido dejadas a propósito sin definir para que las adaptes como más te interese. Así que cualquier persona de tu mesa podrá "romancear" con cualquier PNJ que encuentres aquí.
+
+Recuerda también que en los pocos casos en se habla de familia, no se especifica a propósito cómo es y quiénes la componen. Móntate las relaciones sexo-afectivas y familiares que mejor se ajusten a tus gustos y los de tu mesa y con las que todos os encontréis cómodos.
 
 ### Profesor G. E. Challenger (✝)
 xxx
@@ -952,6 +960,8 @@ xxx
 ### Edward Malone
 xxx
 
+\saltopagina
+
 ### Lady Margaret Roxton
 xxx
 
@@ -961,8 +971,6 @@ xxx
 * **Ventajas:** Soldado, xxx
 * **Desventajas:** xxx
 * **Equipo:** xxx
-
-\saltopagina
 
 ### Dolores Branningan, capitana del "Mary Anning"
 xxx
@@ -983,6 +991,8 @@ xxx
 * **Ventajas:** Soldado, xxx
 * **Desventajas:** xxx
 * **Equipo:** xxx
+
+\saltopagina
 
 ## Antagonistas
 xxx
