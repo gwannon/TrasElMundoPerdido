@@ -1,4 +1,4 @@
-# Hace 65 millones de años los dinosaurios dominaron la Tierra...
+# Hace 65 millones de años los dinosaurios dominaron la Tierra ...
 
 
 &nbsp;
@@ -7,7 +7,7 @@
 
 &nbsp;
 
-## ... y ahora han vuelto para matar nazis.
+## ... Y ahora han vuelto para matar nazis.
 
 Estamos en el verano de 1940 y casi toda Europa ha caído bajo el poder de la maquinaria de guerra nazi. 
 
@@ -49,7 +49,7 @@ xxx
 xxx
 
 ### Descubrimientos asombrosos
-De lo primero que descubrieron es que la evolución no se había parado en el Mundo Perdido, sino que los saurios habían seguido evolucionando y principalmente su capacidad craneal era mayor que los fósiles de sus antepasados, con lo que se podía deducir que eran más inteligentes que sus antepasados. Son capaces de solucionar problemas básicos y de realizar rutinas tras un proceso de aprendizaje.
+De lo primero que descubrieron es que la evolución no se había parado en el Mundo Perdido, sino que los saurios habían seguido evolucionando y principalmente su capacidad craneal era mayor que los fósiles de sus antepasados, con lo que se podía deducir que eran más inteligentes que sus antepasados. De hecho, son capaces de solucionar problemas básicos y de realizar rutinas tras un proceso de aprendizaje.
  
 Pero el gran descubrimiento que hizo Roxton en esta segunda expedición es que todos los saurios tenían cierto grado de domesticación. No eran mascotas como perros y gatos, ni tampoco animales de granja, pero habían convivido con los humanos primitivos de la meseta durante miles de años (cosa que no había ocurrido en el resto del mundo) y esto había transformado sus instintos poco a poco.
 
@@ -64,7 +64,7 @@ Estas interacciones fueron con los siglos evolucionado y grabándose en los inst
 ## La Fundación Roxton
 xxx
 
-Una de las razones de lord Roxton para montar las instalaciones de la Fundación en Escocia, es que los posibles avistamientos de monstruos prehistóricos podían verse como un intento más de un loco escocés queriendo llamar la atención sobre el Lago Ness. De hecho, desde 1930 se han multiplicado los avistamientos de monstruos de todo tipo y estos hechos son rápidamente noticias en la prensa amarilla. Esto hace que los testigos sean desprestigiados rápidamente por la opinión pública y la comunidad científica a pesar de que muchas veces han podido reales.
+Una de las razones de lord Roxton para montar las instalaciones de la Fundación en Escocia, es que los posibles avistamientos de monstruos prehistóricos podían verse como un intento más de un loco escocés queriendo llamar la atención sobre el Lago Ness. De hecho, desde 1930 se han multiplicado los avistamientos de monstruos de todo tipo y estos hechos son rápidamente noticias en la prensa amarilla. Esto hace que los testigos sean desprestigiados rápidamente por la opinión pública y la comunidad científica, a pesar de que muchas veces han podido ser reales.
 
 ### Lady Roxton
 xxx
@@ -74,7 +74,7 @@ Legalmente la Fundación Roxton es una organización de defensa e investigación
 
 Tiene becas, hace recaudaciones de fondos, hace campañas de concienciación, patrocina eventos de defensa animal y contra la caza, y todas actividades de típicas, pero siempre teniendo en cuenta que va dirigido a las clases altas inglesas.
 
-La Fundación usa a veces estás actividades como tapadera para sus fines reales. Por ejemplo, renovó todo el hospital animal del zoo de Londres y Dublín y se quedó el viejo para sus instalaciones. Un par de veces ya han organizado eventos para invitar a posibles traidores y que Inteligencia militar entrará en su casa a buscar pruebas.
+La Fundación usa a veces estás actividades como tapadera para sus fines reales. Por ejemplo, renovó todo el hospital animal del zoo de Londres y Dublin y se quedó el viejo para sus instalaciones. Un par de veces ya han organizado eventos para invitar a posibles traidores y que Inteligencia militar entrará en su casa a buscar pruebas.
 
 \saltopagina
 
@@ -82,7 +82,7 @@ La Fundación usa a veces estás actividades como tapadera para sus fines reales
 xxx
 
 Las instalaciones en la isla no están concentradas en un único lugar, sino que están dispersas por los terrenos de la fundación. La idea es evitar que los reconocimientos aéreos nazis descubran las instalaciones. Si no se revisan a conciencia las fotos se considerará que son grupos dispersos de granjas.
-Los dinosaurios en libertad a pesar de su tamaño, siguen con instintos de cazador y presa y se ocultan bastante bien entre bosques y maleza alta. Aun así alguien de la inteligencia nazi puede descubrir el pastel fácilmente si le pone interés.
+Los dinosaurios en libertad a pesar de su tamaño, siguen con instintos de cazador y presa y se ocultan bastante bien entre bosques y maleza alta. Aun así, alguien de la inteligencia nazi puede descubrir el pastel fácilmente si le pone interés.
 
 #### La forja de Weyland
 Este taller y forja está dirigido por Weyland (su mote en la forja), un herrero/ingeniero que la Fundación enroló para hacer todos los artilugios y piezas de metal que necesitan en la isla, desde rejas o cadenas o bardas y escudos.
@@ -127,7 +127,7 @@ Aunque las comunicaciones pueden ser escuchadas por la Inteligencia Nazi, se usa
 
 #### La esclusa de los plesiosaurios
 
-El "Mary Anning" llena unos tanques de agua para el transporte de los saurios acuáticos. No son especialmente grandes así que han dotado a esos tanques de una esclusa que permite a los ictiosaurios y a los plesiosaurios salir al mar cuando el carguero va a una velocidad más o menos lenta o está parado en un puerto.
+El "Mary Anning" llena unos tanques de agua para el transporte de los saurios acuáticos. No son especialmente grandes, así que han dotado a esos tanques de una esclusa que permite a los ictiosaurios y a los plesiosaurios salir al mar cuando el carguero va a una velocidad más o menos lenta o está parado en un puerto.
 
 Desde el barco se suele lanzar una boya con la que suelen jugar y con la que hacen carreras cuando el barco está en movimiento. No solo sirve para tenerlos entretenidos y en forma. También hace que no se vayan lejos del barco, por ejemplo, buscando presas.
 
@@ -178,7 +178,7 @@ Deberían tener un poco de libre albedrío y algo de carácter (definido princip
 ## Carácter de los saurios
 El carácter de los dinosaurios tiene una gran parte marcada por su fisionomía, pero luego hay una parte de su personalidad que se debe a sus experiencias vitales. No tienen una gran memoria, pero hay eventos que se les graban a fuego y forjan su carácter. Para empezar veamos el carácter general de cada especie.
 
-* A priori los carnívoros son más agresivos en general, aunque los estegosaurios y los iguanodontes pueden serlo también para proteger a su manada y sus crías.
+* A priori, los carnívoros son más agresivos en general, aunque los estegosaurios y los iguanodontes pueden serlo también para proteger a su manada y sus crías.
 * Los acuáticos suelen ser más distantes. Vivimos en mundos distintos y eso hace que no entiendan tanto a los humanos como a los dinosaurios terrestres. Sin embargo, trabajan entre ellos muy bien.
 * Los pterodáctilos tienen a ser bastante individualistas y competitivos. 
 * La capacidad de vuelo de los pterodáctilos, que les permite escapar rápidamente de situaciones de peligro, hace que sean bastante fastidiosos. Pueden pasarse horas chinchando a sus compañeros y salir volando cuando estos se enfadan. Esto ha hecho también que sean un poco cobardes en general, huyendo a la mínima.
@@ -206,12 +206,12 @@ Para empezar hay que pensar que la mayoría de las misiones van a tener un compo
 
 Los dinosaurios atienden a órdenes muy sencillas en estas situaciones como "silencio", "escóndete" o "quieto", a no ser que sus instintos más básicos le digan lo contrario. Por ejemplo, un estegosaurio no se quedará quieto si ve que están atacando y matando a su manada (tus comandos y sus dinosaurios).
 
-Aún que parezca que animales de varias toneladas no pueden esconderse, piensa que durante millones de años la evolución ha ido afilando sus capacidades para el sigilo, tanto los herbívoros para esconderse y no ser atacados, como para los carnívoros con su capacidad de tender emboscadas a sus presas. Ten en cuenta, además, que tienen su camuflaje natural y que la Fundación ha desarrollado diferentes inventos para mejorar su capacidad de infiltrarse.
+Aunque parezca que animales de varias toneladas no pueden esconderse, piensa que durante millones de años la evolución ha ido afilando sus capacidades para el sigilo, tanto los herbívoros para esconderse y no ser atacados, como para los carnívoros con su capacidad de tender emboscadas a sus presas. Ten en cuenta, además, que tienen su camuflaje natural y que la Fundación ha desarrollado diferentes inventos para mejorar su capacidad de infiltrarse.
 
 \saltopagina
 
 ### Misiones de reconocimiento aéreo
-Como dinosaurios voladores estas misiones son cosa de los pterodáctilos. Estos saurios voladores han aprendido mediante refuerzo positivo a ir de un humano origen a uno destino en más o menos línea recta hasta unos 3 o 4 km. 
+Como dinosaurios voladores estas misiones son cosa de los pterodáctilos. Estos saurios voladores han aprendido mediante refuerzo positivo a ir de un humano origen a otro humano destino en más o menos línea recta hasta unos 3 o 4 km. 
 
 A partir de ahí solo hay que poner un arnés con cámaras de fotos de precisión con autodisparador y se puede sacar fotos de las instalaciones que el pterodáctilo sobrevuele.
 
@@ -220,7 +220,7 @@ Es una misión arriesgada porque expone mucho al pterodáctilo a ser visto. La v
 ### Misiones acuáticas
 Las misiones acuáticas son exclusivas de plesiosaurios e ictiosaurios. En estas misiones estos dos saurios pueden ayudar a los buzos a moverse más deprisa y a buscar objetos y rescatarlos.
 
-Con el arnés adecuado un buzo puede sujetarse a un saurio acuático y moverse a increíbles velocidades bajo el agua. 
+Con el arnés adecuado, un buzo puede sujetarse a un saurio acuático y moverse a increíbles velocidades bajo el agua. 
 
 Por otro lado, han sido entrenados para enseñarles un objeto y ellos buscar en el fondo de su piscina un objeto parecido y traerlo. Incluso podrían colaborar dos saurios si necesitan mover un objeto pesado o con forma difícil de manejar.
 
@@ -241,18 +241,18 @@ Lo que si tienes que saber es que siempre necesitarás dos tipos de dinosaurio, 
 Siguiendo con los ejemplos anteriores, puedes usar la fuerza y la agilidad del iguanodonte para subir al tren saltando desde un puente y rompiendo el techo del tren para sacar a tu rehén y que un pterodáctilo se lleve a los prisioneros y prisioneras volando mientras tú con el iguanodonte cubres la retirada.
 
 En el caso del castillo puedes usar un estegosaurio y un megalosaurio para montar una distracción. Estos dos son capaces de sobra de distraer a las defensas terrestres del castillo mientras un comando con un plesiosaurio se infiltra por el pozo de agua a través de una red de acuíferos para rescatar 
-a los prisioneros
+a los prisioneros.
 
 ### Alimentación durante las misiones
-Además de la ocultación de los dinosaurios, el otro problema principal de llevar a los dinosaurios es alimentarlos. A priori los herbívoros pueden llevar el alimento almacenado en el barco sin problema y en la misión podrían alimentarse de lo que de la tierra y en caso de necesidad conseguir comida fresca de mercados y de granjas locales no debería ser problemático. Seguramente pueden dejar una hora a sus herbívoros en algún manzanar y que se alimenten de sus frutas o 
+Además de la ocultación de los dinosaurios, el otro problema principal de llevar a los dinosaurios es alimentarlos. A priori, los herbívoros pueden llevar el alimento almacenado en el barco sin problema y en la misión podrían alimentarse de lo que de la tierra y en caso de necesidad conseguir comida fresca de mercados y de granjas locales no debería ser problemático. Seguramente pueden dejar una hora a sus herbívoros en algún manzanar y que se alimenten de sus frutas o 
 
 El problema son los carnívoros de gran tamaño durante la misión, ya que en viaje el "Mary Anning" tiene unas grandes cámaras frigoríficas con alimento. Los de pequeño tamaño como pterodáctilos o ictiosaurios pueden cazar más o menos de forma segura sin ser detectados por el aire o por el agua. 
 
-Como las misiones en principio deberían ser cortas, a lo sumo una semana, los grandes carnívoros deberían poder proveerse sin problemas durante los combates devorando a nazis y a sus monturas. Piensa que los nazis son una fantástica fuente de proteínas y muchas instalaciones militares solían tener animales de granja como vacas u ovejas para tener ciertos suministros frescos.
+Como las misiones en principio deberían ser cortas, a lo sumo una semana, los grandes carnívoros deberían poder proveerse sin problemas durante los combates, devorando a nazis y a sus monturas. Piensa que los nazis son una fantástica fuente de proteínas y muchas instalaciones militares solían tener animales de granja como vacas u ovejas para tener ciertos suministros frescos.
 
-A nivel de juego, se supone que se llevan alimentos de sobra en las misiones y no deberían estar contando si quedan o no provisiones, esto no es "Econonomic D&D" no vamos a llevar al extremo el consumo/gasto de provisiones. Si fuera necesario puedes montarle alguna escena para conseguir alimento fresco en el mercado local mientras evitan patrullas nazis. 
+A nivel de juego, se supone que se llevan alimentos de sobra en las misiones y no deberían estar contando si quedan o no provisiones, esto no es "Econonomic D&D" no vamos a llevar al extremo el consumo/gasto de provisiones. Si fuera necesario, puedes montarle alguna escena para conseguir alimento fresco en el mercado local mientras evitan patrullas nazis. 
 
-> La regla general es que no hay problemas de alimentación para los carnívoros a no ser que las misiones sean largas y/o la falta de comida sea parte de la aventura. En estos casos si quieres que haya un extra de complejidad puedes presionarles con la falta de comida de sus saurios.
+> La regla general es que no hay problemas de alimentación para los carnívoros a no ser que las misiones sean largas y/o la falta de comida sea parte de la aventura. En estos casos, si quieres que haya un extra de complejidad puedes presionarles con la falta de comida de sus saurios.
 
 \saltopagina
 
@@ -266,7 +266,7 @@ Los dinosaurios eran un monstruo más del imaginario popular junto a otros seres
 Una persona de la calle con estudios medios podría interpretar un avistamiento de dinosaurios como un ataque alienígena, un monstruo congelado en un iceberg derretido, superlagartos mutados, incluso ser un dragón despertado por la magia.
 
 ## Mantener en secreto a los dinosaurios
-Mantener en secreto la existencia de dinosaurios es una de las preocupaciones de la Fundación y como hemos visto lo lleva haciéndolo desde 1912. De hecho, han arriesgado mucho al ofrecer a sus especímenes más dotados e inteligentes a la Inteligencia militar inglesa, pero como ya sabemos "tiempos desesperados exigen medidas desesperadas". Así que la Fundación y sus saurios salieron a la luz para unas pocas personas del ejército inglés.
+Mantener en secreto la existencia de dinosaurios es una de las preocupaciones de la Fundación y como hemos visto lo lleva haciéndolo desde 1912. De hecho, han arriesgado mucho al ofrecer a sus especímenes más dotados e inteligentes a la Inteligencia militar inglesa, pero como ya sabemos, "tiempos desesperados exigen medidas desesperadas". Así que la Fundación y sus saurios salieron a la luz para unas pocas personas del ejército inglés.
 
 ### Aliados.
 La existencia de los comandos humanos/dinosaurio no ha salido nunca de salas de la inteligencia inglesa. Ningún aliado sabe de ellas o por lo menos ha dado señales de conocer su existencia.
@@ -274,9 +274,9 @@ La existencia de los comandos humanos/dinosaurio no ha salido nunca de salas de 
 Pero eso no quiere decir que otras potencias como Rusia o Estados Unidos no tengan sospechas de lo que se esconde en una isla perdida de Escocia.
 
 ### Nazis
-Ni los nazis ni otros países del Eje parecen saber nada de la Fundación y sus activos. Sin embargo la pasión por el Tercer Reich por lo sobrenatural le ha llevado algunas veces a estar muy cerca.
+Ni los nazis ni otros países del Eje parecen saber nada de la Fundación y sus activos. Sin embargo, la pasión por el Tercer Reich por lo sobrenatural le ha llevado algunas veces a estar muy cerca.
 
-Un grupo de científicos nazis estudiaron los textos recopilados de la presentación del Doctor Challenger en Viena ante el Congreso de Paleontología de 19xxx sobre su primer viaje a la tierra de Maple White. El propio Führer, al enterarse de todo esto, propuso financiar una expedición militar.
+Un grupo de científicos nazis estudiaron los textos recopilados de la presentación del Doctor Challenger en Viena ante el Congreso de Paleontología de 1909 sobre su primer viaje a la tierra de Maple White. El propio Führer, al enterarse de todo esto, propuso financiar una expedición militar.
 
 \saltopagina
 
@@ -285,7 +285,7 @@ Ante esta situación, la Fundación tuvo que buscar y contratar a un grupo de me
 ### Opinión pública
 La opinión pública es totalmente ignorante de la existencia de los dinosaurios y de uso en operaciones militares. Solo algunos "conspiranoicos" y cazadores de monstruos tienen constancia de avistamientos de estos seres y casi todos los atribuyen al monstruo del Lago Ness.
 
-También puede que algún periódico sensacionalista haya publicado algún historía sobre avistamientos de saurios, pero normalmente si darle mucho bombo y siendo desprestigiado rápidamente por la comunidad científica.
+También puede que algún periódico sensacionalista haya publicado alguna historia sobre avistamientos de saurios, pero normalmente si darle mucho bombo y siendo desprestigiado rápidamente por la comunidad científica.
 
 ### Códigos secretos para los dinosaurios
 Dentro de la política de ocultación de los saurios, se ha establecido unos nombres claves para cada tipo de dinosaurio que se ha de usar tanto en comunicaciones escritas como de radio. En la descripción de cada dinosaurio viene el nombre en clave de la especie.
@@ -318,6 +318,7 @@ Estamos hablando de personas entrenadas en campos tan diversos como la encriptac
 
 #### Comando
 Hablamos de personas especializadas en algún tipo de combate y normalmente con buenas capacidades atléticas y de infiltración.
+
 Pueden ser estar especializados en combate cuerpo a cuerpo, armas de fuego a cierta y larga distancia, demoliciones, artillería.
 
 \saltopagina
@@ -616,7 +617,7 @@ Al principio de cada misión (Noruega, Francia, etc.) recibirán una charla info
 A continuación deberán elaborar un listado de dinosaurios que quieren llevar y de equipamiento especial que podrían necesitar. Si se pasan con sus peticiones puedes decirles que el Alto Mando les niega ciertas cosas y si es necesario podrán hacer otro listado.
 
 ### Dinosaurios
-A priori no hay límites a la hora de formar tu equipo de dinosaurios. Lo normal sería que cada comando llevará a su compañero y a otro dinosaurio y que ninguna especie se repitiera más de 3 veces. 
+A priori, no hay límites a la hora de formar tu equipo de dinosaurios. Lo normal sería que cada comando llevará a su compañero y a otro dinosaurio y que ninguna especie se repitiera más de 3 veces. 
 
 La idea es que vayan siempre con su compañero y tengan un sustituto en el barco por si su dinosaurio desaparece, es malherido o, nadie lo quiera, muera.
 
@@ -1485,6 +1486,8 @@ Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a tra
 ### Imágenes
 No soy propietario de ninguna de las imágenes de este documento. Estoy usando imágenes con licencia CC y atribuyéndola a su propietario. Si hay algún error, hacédmelo saber para corregirlo. Estas son las imágenes que por diseño no he podido atribuir de manera adecuada enlazándolas correctamente.
 
+* [Portada "La fundación Roxton"](https://www.pexels.com/es-es/foto/castillo-sitio-historico-lugares-de-interes-atraccion-turistica-8369892/)
+* [Portada "Acerca de los dinosaurios"](https://en.wikipedia.org/wiki/Charles_R._Knight)
 
 * [Portada "La campaña"](https://es.wikipedia.org/wiki/El_mundo_perdido_(pel%C3%ADcula_de_1925)#/media/Archivo:The_Lost_World_(1925)_-_film_poster.jpg)
 * [Portada "Parte 1: La isla de Skye"](https://pixabay.com/es/photos/isla-de-skye-escocia-gran-breta%C3%B1a-4415029/)

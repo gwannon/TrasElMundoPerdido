@@ -408,6 +408,18 @@ table tr th:last-of-type:after {
 }
 
 /* secciones */
+section:nth-of-type(5) h1 {
+  background: #000 url(../images/fundacion-roxton.jpg) top center no-repeat;
+  background-size: cover;
+  text-shadow: 0 0 20px black;
+}
+
+section:nth-of-type(6) h1 {
+  background: #000 url(../images/acerca-dinosaurios.jpg) center center no-repeat;
+  background-size: cover;
+  text-shadow: 0 0 20px black;
+}
+
 section:nth-of-type(8) h1 {
   background: #000 url(../images/campana.jpg) center center no-repeat;
   background-size: cover;
