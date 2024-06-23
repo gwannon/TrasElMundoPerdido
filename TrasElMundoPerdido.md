@@ -1486,9 +1486,9 @@ Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a tra
 ### Imágenes
 No soy propietario de ninguna de las imágenes de este documento. Estoy usando imágenes con licencia CC y atribuyéndola a su propietario. Si hay algún error, hacédmelo saber para corregirlo. Estas son las imágenes que por diseño no he podido atribuir de manera adecuada enlazándolas correctamente.
 
+* [Portada "Hace 65 millones de años los dinosaurios dominaron la Tierra ..."](https://en.wikipedia.org/wiki/Charles_R._Knight)
 * [Portada "La fundación Roxton"](https://www.pexels.com/es-es/foto/castillo-sitio-historico-lugares-de-interes-atraccion-turistica-8369892/)
 * [Portada "Acerca de los dinosaurios"](https://en.wikipedia.org/wiki/Charles_R._Knight)
-
 * [Portada "La campaña"](https://es.wikipedia.org/wiki/El_mundo_perdido_(pel%C3%ADcula_de_1925)#/media/Archivo:The_Lost_World_(1925)_-_film_poster.jpg)
 * [Portada "Parte 1: La isla de Skye"](https://pixabay.com/es/photos/isla-de-skye-escocia-gran-breta%C3%B1a-4415029/)
 * [Portada "Parte 2: Norte de África"](https://en.wikipedia.org/wiki/Siege_of_Tobruk#/media/File:Men_of_the_Leicestershire_Rgt._man_a_Bren_gun_near_Tobruk.jpg)
