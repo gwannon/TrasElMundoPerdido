@@ -5,6 +5,10 @@
 
 [Versión PDF](https://mundoperdido.gwannon.com/pdf/)
 
+# Por hacer de la versión 0.4
+* Estadísticas de dinosaurios
+* Estadísticas de secuaces
+
 # Por hacer de la versión 0.3
 
 ## La Fundación Roxton (8)
