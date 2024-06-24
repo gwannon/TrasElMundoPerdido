@@ -1367,6 +1367,10 @@ xxx
 ## Otros animales y seres prehistóricos del Mundo Perdido:
 xxx
 
+\saltopagina
+
+[![Dibujo artístico de Cavernicolas](./assests/images/cavernicolas.jpg 'Guide leaflet - Charles R. Knight')](https://commons.wikimedia.org/wiki/Category:Charles_R._Knight#/media/File:Guide_leaflet_(1901)_(14766909282).jpg 'Guide leaflet - Charles R. Knight')
+
 ### Cavernícola
 xxx
 

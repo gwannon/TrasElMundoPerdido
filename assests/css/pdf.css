@@ -38,5 +38,12 @@ body {
     display: block;
   }
   
+  section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) .saltopagina + p a:has(img[alt^=Dibujo]):before,
+  section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) .saltopagina + p a:has(img[alt^=Plano]):before,
+  section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) .saltopagina + p a:has(img[alt^=Imagen]):before,
+  section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) .saltopagina + p a:has(img[alt^=Retrato]):before {
+    rotate: -85deg;
+    top: 32px;
+  }
 
 }
