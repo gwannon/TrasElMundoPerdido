@@ -426,6 +426,12 @@ section:nth-of-type(6) h1 {
   text-shadow: 0 0 20px black;
 }
 
+section:nth-of-type(7) h1 {
+  background: #000 url(../images/reglas.jpg) center right no-repeat;
+  background-size: cover;
+  text-shadow: 0 0 20px black;
+}
+
 section:nth-of-type(8) h1 {
   background: #000 url(../images/campana.jpg) center center no-repeat;
   background-size: cover;

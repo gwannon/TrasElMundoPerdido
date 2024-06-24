@@ -28,7 +28,11 @@ Puede que esté en tus manos cambiar el rumbo de la guerra y salvar al mundo de 
 ***
 
 # La Fundación Roxton
-xxx
+El [mundo perdido](https://es.wikipedia.org/wiki/El_mundo_perdido) (The Lost World) es una novela de ciencia ficción de 1912 escrita por Sir Arthur Conan Doyle, famoso por crear a Sherlock Holmes. Trata sobre una expedición a una meseta sudamericana perdida en donde aún sobreviven dinosaurios y otros animales prehistóricos. 
+
+Esta campaña toma como reales todos los hechos que pasan en esa novela y avanza hasta el verano del año 1940. Europa está sumida en la II Guerra mundial y tu mesa encarnará a un grupo de comandos que irán haciendo peligrosas misiones por algunos de los escenarios más característicos de esta guerra. 
+
+Pero no estarán solos en esas aventuras, sino que irán acompañados de dinosaurios sacados de ese mundo perdido y entrenados para ayudar a tus comandos en todo tipo de misiones.   
 
 ## El mundo perdido
 xxx
@@ -1532,6 +1536,7 @@ No soy propietario de ninguna de las imágenes de este documento. Estoy usando i
 * [Portada "Hace 65 millones de años los dinosaurios dominaron la Tierra ..."](https://en.wikipedia.org/wiki/Charles_R._Knight)
 * [Portada "La fundación Roxton"](https://www.pexels.com/es-es/foto/castillo-sitio-historico-lugares-de-interes-atraccion-turistica-8369892/)
 * [Portada "Acerca de los dinosaurios"](https://en.wikipedia.org/wiki/Charles_R._Knight)
+* [Portada "Reglas especiales para la campaña"](https://www.kcl.ac.uk/behind-the-few-the-womens-auxiliary-air-force-and-their-contribution-to-british-intelligence-during-the-second-world-war)
 * [Portada "La campaña"](https://es.wikipedia.org/wiki/El_mundo_perdido_(pel%C3%ADcula_de_1925)#/media/Archivo:The_Lost_World_(1925)_-_film_poster.jpg)
 * [Portada "Parte 1: La isla de Skye"](https://pixabay.com/es/photos/isla-de-skye-escocia-gran-breta%C3%B1a-4415029/)
 * [Portada "Parte 2: Norte de África"](https://en.wikipedia.org/wiki/Siege_of_Tobruk#/media/File:Men_of_the_Leicestershire_Rgt._man_a_Bren_gun_near_Tobruk.jpg)
