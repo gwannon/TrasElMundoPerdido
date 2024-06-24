@@ -53,13 +53,16 @@ De lo primero que descubrieron es que la evolución no se había parado en el Mu
  
 Pero el gran descubrimiento que hizo Roxton en esta segunda expedición es que todos los saurios tenían cierto grado de domesticación. No eran mascotas como perros y gatos, ni tampoco animales de granja, pero habían convivido con los humanos primitivos de la meseta durante miles de años (cosa que no había ocurrido en el resto del mundo) y esto había transformado sus instintos poco a poco.
 
-Los antropólogos y antropólogas de la fundación se dedicaron a estudiar a los cavernícolas y descubrieron interacciones entre ambas especies que habían llevado a los saurios a ser en parte domesticados. 
-
 \saltopagina
+
+Los antropólogos y antropólogas de la fundación se dedicaron a estudiar a los cavernícolas y descubrieron interacciones entre ambas especies que habían llevado a los saurios a ser en parte domesticados. 
 
 Las tribus de humanos primitivos habían aprendido a dejar parte de su caza lejos de sus asentamientos para alejar a los grandes depredadores y a atraer a los herbívoros dejando gran cantidad de frutas en ciertos lugares donde era más fácil cazarlos o alejarlos de sus nidos y entonces robar sus huevos o sus crías. 
 
 Estas interacciones fueron con los siglos evolucionado y grabándose en los instintos de los saurios, de forma que saben que salvo en caso de agresión, necesidad y hambre, un humano es más útil vivo que muerto. Este hecho, junto a la selección de los mejores y más inteligentes ejemplares, hizo que la Fundación pudiera domesticar dinosaurios con técnicas avanzadas de condicionamiento positivo en unos 15 años.
+
+### Política de no intromisión
+Una de las políticas claves que estableció Lord Roxton en su expedición fue la no intervención en la vida de los hombres y mujeres primitivos. xxx
 
 ## La Fundación Roxton
 xxx
@@ -71,6 +74,8 @@ xxx
 
 ### Las actividades oficiales de la Fundación 
 Legalmente la Fundación Roxton es una organización de defensa e investigación de la vida salvaje y como tal realiza muchas actividades públicas en este sentido. De hecho, los terrenos de la isla de Skype están registrados como una reserva natural de animales en peligro de extinción.
+
+\saltopagina
 
 Tiene becas, hace recaudaciones de fondos, hace campañas de concienciación, patrocina eventos de defensa animal y contra la caza, y todas actividades de típicas, pero siempre teniendo en cuenta que va dirigido a las clases altas inglesas.
 
@@ -1217,7 +1222,7 @@ xxx
   * **Mordisco:** FUE+d8.
   * **Miedo -2:** Quien vea un poderoso alosaurio deberá hacer una tirada contra miedo con una penalización de -2.
   * **Impávido:** Es inmune a las tiradas de miedo e Intimidar.
-  * **Grande:** +1 herida. Los enemigos de tamaño normal obtienen un +2 para atacar tiradas contra ellos.
+  * **Grande:** +1 herida. Los enemigos de tamaño normal obtienen un +2 en tiradas de ataque contra ellos.
   * **Tamaño +6:** +6 a Dureza
   * **Pisotón:** Daño FUE. El pisotón del alosaurio cuenta como arma pesada. Un enemigo pisoteado debe realizar una tirada opuesta de FUE contra el alosaurio para liberarse. Mientras el alosaurio no se mueva, continuará causando daño de FUE a la víctima en cada ronda (aunque normalmente la morderá hasta matarla una vez que la tenga atrapada), y obtiene un +2 al golpe y al daño de su mordisco contra su presa.
   * **Tragar entero:** Los alosaurios pueden tragarse enteras presas de Tamaño +1 o inferiores. Mientras está dentro del estómago, el objetivo es agarrado según el libro de reglas básico y sufre 2d6 de daño por asalto debido a los jugos digestivos, hasta que se lo come o le corta el estómago. La armadura no ofrece protección.
@@ -1241,13 +1246,25 @@ Sus potentes piernas también le convierten en el dinosaurio terrestre más ráp
 
 xxx
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+\saltopagina
+
+* **Atributos:** Agilidad d6, Astucia d6 (A), Espíritu d8, Fuerza d12+3, Vigor d12
 * **Habilidades:** xxx
-* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
-* **Ventajas:** xxx
+* **Paso:** 6; **Parada:** 5; **Dureza:** 16(2)
+* **Ventajas:** Atletismo d6, Pelea d6, Notar d8
 * **Desventajas:** xxx
 * **Capacidades especiales:**
+  * **Armadura +2:** Piel escamosa.
   * **Coletazo:** FUE+d6. Si durante su turno, un estegosaurio no se mueve puede hacer un ataque de área en 3 casillas adyacentes entre sí y alrededor suyo. Hace una tirada por cada enemigo en el área. Todo enemigo que pase por esa zona hasta el siguiente turno del estegosaurio recibe un ataque. Varios estegosaurios puede combinar estos barridos con sus colas con pinchos de forma que crean una barrera defensiva que nadie en su sano juicio querría atravesar.
+  * **Grande:** +1 herida. Los enemigos de tamaño normal obtienen un +2 en tiradas de ataque contra ellos.
+  * **Tamaño +6:** +6 a Dureza
+  * **Placas dorsales:** xxx
+
+[![Escala Estegosaurio](./assests/images/escala-estegosaurio.png 'Tamaño de S. ungulatus y S. stenops comparados con un ser humano. Matt Martyniuk')](https://es.wikipedia.org/wiki/Archivo:Human-allosaurus_size_comparison.png 'Tamaño de S. ungulatus y S. stenops comparados con un ser humano. Matt Martyniuk')
+
+El estegosaurio pesa 3 y 4 de toneladas y crece hasta 9 metros de largo de la cabeza a la punta de la cola y 4 metros de alto. 
+
+Este saurio es famosos por sus placas dorsales, xxx. También tiene cuatro espinas en la cola, cada una de 60 a 90 cm de largo, que usa para su defensa.
 
 \saltopagina
 
@@ -1261,7 +1278,7 @@ xxx
 
 xxx
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Atributos:** Agilidad dX, Astucia dX (A), Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** xxx
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
 * **Ventajas:** xxx
@@ -1280,7 +1297,7 @@ xxx
 
 xxx
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Atributos:** Agilidad dX, Astucia dX (A), Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** xxx
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
 * **Ventajas:** xxx
@@ -1305,7 +1322,7 @@ xxx
 
 xxx
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Atributos:** Agilidad dX, Astucia dX (A), Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** xxx
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
 * **Ventajas:** xxx
@@ -1314,7 +1331,7 @@ xxx
 
 \saltopagina
 
-[![Boceto Plesiosaurus dolichodeirus](./assests/images/plesiosaurio.jpg 'Plesiosaurus dolichodeirus Creator: Dmitry Bogdanov')](https://es.wikipedia.org/wiki/Glyptodon#/media/Archivo:GLYPTODON.jpg 'Plesiosaurus dolichodeirus Creator: Dmitry Bogdanov')
+[![Boceto Plesiosaurus dolichodeirus](./assests/images/plesiosaurio.jpg 'Plesiosaurus dolichodeirus Creator: Dmitry Bogdanov')](https://es.m.wikipedia.org/wiki/Archivo:Plesiosaurus_3DB.jpg 'Plesiosaurus dolichodeirus Creator: Dmitry Bogdanov')
 
 ### Plesiosaurio
 * Carnívoro
@@ -1324,7 +1341,7 @@ xxx
 
 xxx
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Atributos:** Agilidad dX, Astucia dX (A), Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** xxx
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
 * **Ventajas:** xxx
@@ -1362,10 +1379,8 @@ xxx
   * **Tamaño +2:** xxx
   * **Lento:** En el suelo solo tiene Paso 4 y no puede correr.
 
-xxx
-
 ## Otros animales y seres prehistóricos del Mundo Perdido:
-xxx
+Como ya hemos contado, la expedición Challenger no solo encontró dinosaurios, también otros animales prehistóricos como el megaloceros, un alce de gran tamaño que pobló, las praderas de Euroasia. También estuvieron en contacto con homínidos anteriores a los humanos e incluso con humanos primitivos que viven en cavernas. 
 
 \saltopagina
 
