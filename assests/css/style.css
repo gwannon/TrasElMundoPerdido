@@ -226,7 +226,7 @@ section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type)
 
 section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Retrato]) {
   rotate: -3deg;
-  width: 50%;
+  width: 40%;
   float: left;
   margin-right: 57px;
   margin-bottom: 30px;

@@ -34,11 +34,23 @@ Esta campaña toma como reales todos los hechos que pasan en esa novela y avanza
 
 Pero no estarán solos en esas aventuras, sino que irán acompañados de dinosaurios sacados de ese mundo perdido y entrenados para ayudar a tus comandos en todo tipo de misiones.   
 
+[![Foto de los miembros masculinos, ricos y blancos de la expedición al Mundo Perdido](./assests/images/expedicion.jpg 'Page 222 (The Lost World, 1912)')](https://archive.org/details/lostworldbeingac00doylrich/page/11/mode/1up 'Page 222 (The Lost World, 1912)')
+
 ## El mundo perdido
 xxx
 
-[![Foto de los miembros masculinos, ricos y blancos de la expedición al Mundo Perdido](./assests/images/expedicion.jpg 'Page 222 (The Lost World, 1912)')](https://archive.org/details/lostworldbeingac00doylrich/page/11/mode/1up 'Page 222 (The Lost World, 1912)')
+\saltopagina
 
+### Profesor G. E. Challenger (✝)
+xxx
+
+### Lord John Roxton (✝)
+xxx
+
+### Edward Malone
+xxx
+
+### Una aventura increíble
 xxx
 
 \saltopagina
@@ -78,10 +90,10 @@ Una de las razones de lord Roxton para montar las instalaciones de la Fundación
 ### Lady Roxton
 xxx
 
+\saltopagina
+
 ### Las actividades oficiales de la Fundación 
 Legalmente la Fundación Roxton es una organización de defensa e investigación de la vida salvaje y como tal realiza muchas actividades públicas en este sentido. De hecho, los terrenos de la isla de Skye están registrados como una reserva natural de animales en peligro de extinción.
-
-\saltopagina
 
 Tiene becas, hace recaudaciones de fondos, hace campañas de concienciación, patrocina eventos de defensa animal y contra la caza, y todas actividades de típicas, pero siempre teniendo en cuenta que va dirigido a las clases altas inglesas.
 
@@ -972,18 +984,8 @@ Por último, tenemos una sección con los auténticos protagonistas de esta camp
 ## Aliados
 xxx
 
-Las vidas sentimentales y sexuales de los personajes de esta ambientación han sido dejadas a propósito sin definir para que las adaptes como más te interese. Así que cualquier persona de tu mesa podrá "romancear" con cualquier PNJ que encuentres aquí.
-
-Recuerda también que en los pocos casos en se habla de familia, no se especifica a propósito cómo es y quiénes la componen. Móntate las relaciones sexo-afectivas y familiares que mejor se ajusten a tus gustos y los de tu mesa y con las que todos os encontréis cómodos.
-
-### Profesor G. E. Challenger (✝)
-xxx
-
-### Lord John Roxton
-xxx
-
-### Edward Malone
-xxx
+> Las vidas sentimentales y sexuales de los personajes de esta ambientación han sido dejadas a propósito sin definir para que las adaptes como más te interese. Así que cualquier persona de tu mesa podrá "romancear" con cualquier PNJ que encuentres aquí.
+> Recuerda también que en los pocos casos en se habla de familia, no se especifica a propósito cómo es y quiénes la componen. Móntate las relaciones sexo-afectivas y familiares que mejor se ajusten a tus gustos y los de tu mesa y con las que todos os encontréis cómodos.
 
 \saltopagina
 
@@ -997,17 +999,38 @@ xxx
 * **Desventajas:** xxx
 * **Equipo:** xxx
 
+
+
 ### Dolores Branningan, capitana del "Mary Anning"
+
+[![Retrato de Dolores Branningan](./assests/images/branningan.jpg 'Molly Kool, the first woman in, North America, to qualify to be a deep sea captain, in 1937.')](https://en.wikipedia.org/wiki/Molly_Kool#/media/File:Molly_Kool,_the_first_woman_in,_North_America,_to_qualify_to_be_a_deep_sea_captain,_in_1937_(cropped).jpg 'Molly Kool, the first woman in, North America, to qualify to be a deep sea captain, in 1937.')
+
+El agua salada lleva corriendo por las venas de los Branningans desde hace generaciones. Siempre han estado ligados al mar desde tiempos de Drake. Cuando la Fundación en 1916 compro el viejo carguero "Ambassador" y le cambió el nombre por el "Mary Anning" contrataron a la capitana Dolores como parte del contrato de compra venta.
+
+Dolores lleva toda la vida en un barco y cuando pisa tierra firme está rara e incómoda. Espera retirarse a alguna isla del Caribe bebiendo ron y bailando bachata.
+
+Como buena irlandesa es risueña y alegre con una tonada siempre en los labios y si sus manos no están sujetando un timón están sujetando una pinta de cerveza.
+
+* **Atributos:** Agilidad d6, Astucia d8, Espíritu d8, Fuerza d8, Vigor d6
+* **Habilidades:** Atletismo d8, Conocimientos Generales d6, Disparar d8, Idioma Inglés d8, Idioma Español d6, Navegar d10, Notar d8, Pelear d6, Persuadir d6, Reparar d8, Sigilo d4
+* **Paso:** 6; **Parada:** 5; **Dureza:** 5
+* **Ventajas:** Soldado, xxx
+* **Desventajas:** xxx
+* **Equipo:** xxx
+
+\saltopagina
+
+### Weyland, armero e ingeniero
 xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Idioma Español d4, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
 * **Ventajas:** Soldado, xxx
 * **Desventajas:** xxx
 * **Equipo:** xxx
 
-### Weyland, armero e ingeniero
+### General Linton, Inteligencia Militar y enlace con el alto mando
 xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
