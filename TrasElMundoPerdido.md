@@ -79,7 +79,7 @@ Una de las razones de lord Roxton para montar las instalaciones de la Fundación
 xxx
 
 ### Las actividades oficiales de la Fundación 
-Legalmente la Fundación Roxton es una organización de defensa e investigación de la vida salvaje y como tal realiza muchas actividades públicas en este sentido. De hecho, los terrenos de la isla de Skype están registrados como una reserva natural de animales en peligro de extinción.
+Legalmente la Fundación Roxton es una organización de defensa e investigación de la vida salvaje y como tal realiza muchas actividades públicas en este sentido. De hecho, los terrenos de la isla de Skye están registrados como una reserva natural de animales en peligro de extinción.
 
 \saltopagina
 
@@ -1020,16 +1020,9 @@ xxx
 \saltopagina
 
 ## Antagonistas
-xxx
+Una historia es tan buena como sus antagonistas y aquí tienes a los villanos y villanas que van a hacer la vida imposible a tus comandos, haciendo que se jueguen su vida y la de sus saurios en cada misión.
 
-\saltopagina
-
-## Secuaces
-Aquí te presentamos toda una galería de personajes no jugadores genéricos que van a pulular por las cubiertas de tus barcos, los barracones de tus instalaciones militares y las trincheras y campos de batalla. También los puedes usar como base para tus PNJ. Si el capitán al cargo de la muralla norte de Tobruk va a ser importante, coge a un oficial y adórnalo con tus propios detalles.
-
-Recuerda que en esta campaña muchos de estos PNJ genéricos puedes personalizarlos con diferentes habilidades y ventajas. Quizás el soldado que lleva un camión puede que tenga un d6 en Conducir o la líder guerrillera pueda tener un Persuadir alto para arengar a sus tropas.
-
-### Infantería 
+### Theodor von Liebenfels, general nazi y ocultista
 xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
@@ -1039,15 +1032,54 @@ xxx
 * **Desventajas:** xxx
 * **Equipo:** xxx
 
+###  Artur Eckart, científico loco nazi
+xxx
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Notar d4, Persuadir d4, Sigilo d4
+* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+* **Ventajas:** Soldado, xxx
+* **Desventajas:** xxx
+* **Equipo:** xxx
+
+\saltopagina
+
+###  Irma Bormann, espía de las SS
+xxx
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Notar d4, Persuadir d4, Sigilo d4
+* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+* **Ventajas:** Soldado, xxx
+* **Desventajas:** xxx
+* **Equipo:** xxx
+
+\saltopagina
+
+## Secuaces
+Aquí te presentamos toda una galería de personajes no jugadores genéricos que van a pulular por las cubiertas de tus barcos, los barracones de tus instalaciones militares y las trincheras y campos de batalla. También los puedes usar como base para tus PNJ. Si el capitán al cargo de la muralla norte de Tobruk va a ser importante, coge a un oficial y adórnalo con tus propios detalles.
+
+Recuerda que en esta campaña muchos de estos PNJ genéricos puedes personalizarlos con diferentes habilidades y ventajas. Quizás el soldado que lleva un camión puede que tenga un d6 en Conducir o la líder guerrillera pueda tener un Persuadir alto para arengar a sus tropas.
+
+### Infantería 
+Hablamos de combatientes de baja graduación de cualquier rama del ejército. Se pueden personalizar según su trabajo normal, por ejemplo, +1 nivel a Reparar si es repara vehículos o +1 nivel a Disparar si está en primera línea del frente, etc. 
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Notar d4, Persuadir d4, Sigilo d4
+* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+* **Ventajas:** Soldado, xxx
+* **Desventajas:** Obligaciones (ejército).
+* **Equipo:** Fusil, bayoneta(FUE+d4), casco (+1 dureza cabeza), 2 granadas.
+
 ### Oficial
 xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
-* **Ventajas:** xxx
-* **Desventajas:** xxx
-* **Equipo:** xxx
+* **Ventajas:** Mando, Soldado.
+* **Desventajas:** Obligaciones (ejército).
+* **Equipo:** Pistola, casco (+1 dureza cabeza).
 
 \saltopagina
 
@@ -1072,36 +1104,36 @@ xxx
 * **Equipo:** xxx
 
 ### Combatiente de la guerrilla
-xxx
+Incluye a cualquier tipo de persona que empuñe un arma y defienda sus tierras de los invasores nazis. Desde jóvenes sin experiencia y con mucho ánimo hasta personas ancianas experimentadas pero cansadas de luchas.
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma materno d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
 * **Ventajas:** Soldado, xxx
 * **Desventajas:** xxx
-* **Equipo:** xxx
+* **Equipo:** Fusil, machete(FUE+d6), 1 granada.
 
 \saltopagina
 
 ### Líder de la guerrilla
-xxx
+Todas guerrilla cuenta con una líder o un líder carismático capaz de mover a sus combatientes hacia el combate y salir victoriosos de las más graves situaciones de combate. 
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma materno d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
 * **Ventajas:** Soldado, xxx
 * **Desventajas:** xxx
-* **Equipo:** xxx
+* **Equipo:** Fusil, machete(FUE+d6), 1 granada.
 
 ### Infantería nazi
-xxx
+Hablamos de combatientes de baja graduación de cualquier rama del ejército nazi. Se pueden personalizar según su trabajo normal, por ejemplo, +1 nivel a Supervivencia si es un explorador o +1 nivel a Conducir si vigila las carreteras en una moto BMW R-71, etc. 
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Alemán d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
 * **Ventajas:** Soldado, xxx
-* **Desventajas:** xxx
-* **Equipo:** xxx
+* **Desventajas:** Obligaciones (ejército).
+* **Equipo:** Fusil, bayoneta(FUE+d4), casco (+1 dureza cabeza), 2 granadas.
 
 ### Oficial nazi
 xxx
@@ -1109,9 +1141,9 @@ xxx
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Alemán d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
-* **Ventajas:** xxx
-* **Desventajas:** xxx
-* **Equipo:** xxx
+* **Ventajas:** Mando, Soldado.
+* **Desventajas:** Obligaciones (ejército).
+* **Equipo:** Pistola.
 
 \saltopagina
 
@@ -1123,7 +1155,7 @@ xxx
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
 * **Ventajas:** Soldado, xxx
 * **Desventajas:** xxx
-* **Equipo:** xxx
+* **Equipo:** Ametralladora pesada, casco (+1 dureza cabeza).
 
 ### Infantería nazi acorazado
 xxx
@@ -1133,7 +1165,7 @@ xxx
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
 * **Ventajas:** Soldado, xxx
 * **Desventajas:** xxx
-* **Equipo:** xxx
+* **Equipo:** Subfusil de asalto, peto de malla acorazado (+1 dureza), casco (+1 dureza cabeza).
 
 ### Infantería nazi con lanzallamas
 xxx
@@ -1143,7 +1175,8 @@ xxx
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
 * **Ventajas:** Soldado, xxx
 * **Desventajas:** xxx
-* **Equipo:** xxx
+* **Equipo:** Lanzallamas, traje ignífugo, casco nazi (+1 dureza cabeza).
+
 
 \saltopagina
 
@@ -1349,7 +1382,7 @@ xxx
 
 * **Atributos:** Agilidad dX, Astucia dX (A), Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** xxx
-* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+* **Paso:** --; **Parada:** xxx; **Dureza:** xxx
 * **Ventajas:** xxx
 * **Desventajas:** xxx
 * **Capacidades especiales:**
@@ -1413,7 +1446,7 @@ xxx
 
 xxx
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Atributos:** Agilidad dX, Astucia dX (A), Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** xxx
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
 * **Ventajas:** xxx
@@ -1431,7 +1464,7 @@ xxx
 
 xxx
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Atributos:** Agilidad dX, Astucia dX (A), Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** xxx
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
 * **Ventajas:** xxx
@@ -1443,7 +1476,7 @@ xxx
 ### Pitecántropo
 xxx
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Atributos:** Agilidad dX, Astucia dX (A), Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
 * **Ventajas:** xxx
