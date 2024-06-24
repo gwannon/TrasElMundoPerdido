@@ -26,6 +26,7 @@
 
 ## Recursos 
 * https://commons.wikimedia.org/wiki/Category:Charles_R._Knight
+* https://www.rawpixel.com/search/blacksmith?page=4&path=_topics%7C%24free&sort=popular
 
 ***
 
