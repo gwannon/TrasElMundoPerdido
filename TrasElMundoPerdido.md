@@ -66,9 +66,11 @@ Las tribus de humanos primitivos habían aprendido a dejar parte de su caza lejo
 Estas interacciones fueron con los siglos evolucionado y grabándose en los instintos de los saurios, de forma que saben que salvo en caso de agresión, necesidad y hambre, un humano es más útil vivo que muerto. Este hecho, junto a la selección de los mejores y más inteligentes ejemplares, hizo que la Fundación pudiera domesticar dinosaurios con técnicas avanzadas de condicionamiento positivo en unos 15 años.
 
 ### Política de no intromisión
-Una de las políticas claves que estableció Lord Roxton en su expedición fue la no intervención en la vida de los hombres y mujeres primitivos. xxx
+Una de las políticas claves que estableció Lord Roxton en su expedición fue la no intervención en la vida de los hombres y mujeres primitivos. Estoy incluía todo tipo de intervención que trastocase su modo de vida, 
 
-## La Fundación Roxton
+Lo único que está permitido es un comercio muy básico en el que la Fundación no saca ningún beneficio, solamente usa estos encuentros para estudiar a sus vecinos de las cavernas. Intercambian pieles, alimentos y algunas herramientas muy básicas.
+
+## La Fundación Roxton hoy en día
 xxx
 
 Una de las razones de lord Roxton para montar las instalaciones de la Fundación en Escocia, es que los posibles avistamientos de monstruos prehistóricos podían verse como un intento más de un loco escocés queriendo llamar la atención sobre el Lago Ness. De hecho, desde 1930 se han multiplicado los avistamientos de monstruos de todo tipo y estos hechos son rápidamente noticias en la prensa amarilla. Esto hace que los testigos sean desprestigiados rápidamente por la opinión pública y la comunidad científica, a pesar de que muchas veces han podido ser reales.
@@ -737,7 +739,7 @@ El ejército necesita que el comando entre Tobruk y saque a un agente que tiene 
 
 xxx
 
-## Otras misiones
+## Otras misiones en Tobruk
 xxx
 
 ***
@@ -748,7 +750,7 @@ xxx
 ## Batalla del Río de la Plata
 xxx
 
-## Otras misiones
+## Otras misiones en el Río de la Plata
 xxx
 
 ***
@@ -762,7 +764,7 @@ Sabotear las fábricas de agua pesada de Telemark es fundamental si queremos gan
 ```
 xxx
 
-## Otras misiones
+## Otras misiones En Noruega
 xxx
 
 ***
@@ -773,7 +775,7 @@ xxx
 ## Preparando el día D
 xxx
 
-## Otras misiones
+## Otras misiones en Normandía
 xxx
 
 ### Arte robado
@@ -791,7 +793,7 @@ xxx
 ## El sitio de Stalingrado
 xxx
 
-## Otras misiones
+## Otras misiones en Stalingrado
 xxx
 
 ***
@@ -1489,11 +1491,11 @@ He tratado de hacer esta ambientación lo más inclusiva y abierta que puedo y e
 He tratado de que haya diversidad entre PNJ con todo tipo de opciones de género, raza, etc. y sin definir su orientación sexual para que DJ puedas decidirla a tu gusto. He tratado de evitar clichés y espero haberlo hecho, pero sois muy libres de cambiarlo a vuestro gusto.
 
 ### Maltrato animal
-Estoy totalmente en contra del maltrato animal y espero que las personas que vayan a jugar esta campaña sientan el mismo respeto que yo por los animales y el medio ambiente en general. Mi idea al crear esta campaña es que los dinosaurios fueran personajes importantes en la trama que luchen y sufran como los PJ y que se haga lo que sea necesario para protegerlos y viceversa. La muerte de un dinosaurio no puede ser algo banal debe tener una justificación y ser importante en una trama.
+Estoy totalmente en contra del maltrato animal y espero que las personas que vayan a jugar esta campaña sientan el mismo respeto que yo por los animales y el medio ambiente en general. Mi idea al crear esta campaña es que los dinosaurios fueran personajes importantes en la trama que luchen y sufran como los PJ y que se haga lo que sea necesario para protegerlos y viceversa. 
 
 \saltopagina
 
-Si en tu mesa se usan a los compañeros dinosaurios como objetos de usar tirar y donde no importa si sufren o mueren, tómatelo como una tremenda "red flag".  
+La muerte de un dinosaurio no puede ser algo banal, debe tener una justificación y ser importante en una trama, ya que son tan importantes como los PJ de las personas de tu mesa. Si en tu mesa se usan a los compañeros dinosaurios como objetos de usar tirar y donde no importa si sufren o mueren, tómatelo como una tremenda "red flag".  
 
 Para aportar mi granito de arena os diré que el servidor donde se aloja esta ambientación es un servidor verde certificado por la [Green Web Foundation](https://www.thegreenwebfoundation.org/green-web-check/?url=https%3A%2F%2Fmundoperdido.gwannon.com%2F).
 
