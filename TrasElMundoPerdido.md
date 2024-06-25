@@ -78,7 +78,7 @@ Las tribus de humanos primitivos habían aprendido a dejar parte de su caza lejo
 Estas interacciones fueron con los siglos evolucionado y grabándose en los instintos de los saurios, de forma que saben que salvo en caso de agresión, necesidad y hambre, un humano es más útil vivo que muerto. Este hecho, junto a la selección de los mejores y más inteligentes ejemplares, hizo que la Fundación pudiera domesticar dinosaurios con técnicas avanzadas de condicionamiento positivo en unos 15 años.
 
 ### Política de no intromisión
-Una de las políticas claves que estableció Lord Roxton en su expedición fue la no intervención en la vida de los hombres y mujeres primitivos. Estoy incluía todo tipo de intervención que trastocase su modo de vida, 
+Una de las políticas claves que estableció Lord Roxton en su expedición fue la no intervención en la vida de los hombres y mujeres primitivos. Esto incluye todo tipo de intervención que trastocase su modo de vida, no se les da ningún tipo de tecnología, no se les ayuda salvo en cosas muy graves y no se les trata de enseñar ningún de conocimiento.
 
 Lo único que está permitido es un comercio muy básico en el que la Fundación no saca ningún beneficio, solamente usa estos encuentros para estudiar a sus vecinos de las cavernas. Intercambian pieles, alimentos y algunas herramientas muy básicas.
 
@@ -129,11 +129,11 @@ xxx
 \saltopagina
 
 #### Pieza de artillería antiaérea camuflada
-En la cubierta principal, camuflada dentro de un contenedor de madera que se desmonta quitando unos pestillos, hay una ametralladora pesada.
+En la cubierta principal, camuflada dentro de un contenedor de madera que se desmonta quitando unos pestillos, hay un cañón de 20mm antiaéreo.
 
 No es ni de lejos suficiente para enfrentarse a un barco de guerra o un submarino, pero podría derribar a un caza solitario, cubrir la huida de un comando en bote o barrer un puerto si fuera necesario.
 
-Estadísticas xxx
+Para esta arma puedes usar las estadísticas del cañón de 20 mm de las armas montadas en vehículos que salen en el manual básico.
 
 #### Sala de misiones
 Esta sala llena de pupitres, una gran pizarra y un pequeño proyector de cine y otro de diapositivas sirve para explicar a los comandos la misión en la que se van a embarcar.
@@ -458,7 +458,7 @@ Recibes un **+2 en tiradas en que las matemáticas sean importantes**, desde Apo
 
 ### Nueva desventaja para dinosaurios: Joven
 **Requisitos:** Novato
-El dinosaurio no es un espécimen adulto y todavía no ha llegado a su tamaño de adulto. Es por ello que tiene 1 punto menos de tamaño que lo normal en su especie con todas las consecuencias en Dureza, número de heridas, etc. Tambień supone que el equipamiento que se le ponga no puede usarse en otros dinosaurios de su especie porque es específico para él y viceversa. Adaptarlo de uno a otro llevará 1 hora de trabajo con las herramientas adecuadas.
+El dinosaurio no es un espécimen adulto y todavía no ha llegado a su tamaño de adulto. Es por ello que tiene 1 punto menos de tamaño que lo normal en su especie con todas las consecuencias en Dureza, número de heridas, etc. También supone que el equipamiento que se le ponga no puede usarse en otros dinosaurios de su especie porque es específico para él y viceversa. Adaptarlo de uno a otro llevará 1 hora de trabajo con las herramientas adecuadas.
 
 Podrá quitarse si se quiere gastando un avance conseguido a partir de Experimentado.
 
@@ -480,12 +480,12 @@ por las abarrotadas calles del zoco de Marrakech, así que aquí tienes las esta
 
 |VEHÍCULO|TAMAÑO|MANIOBRA.|VEL. MÁX.|DUREZA|TRIPULACIÓN|
 |--------|------|----|--|------|-----|
-|Alosaurio|xxx|xxx|xxx|55 km/h|1+1|
-|Estegosaurio|xxx|xxx|xxx|20 km/h|1+1|
-|Iguanodon|xxx|xxx|xxx|25 km/h|1|
-|Megalosaurio|xxx|xxx|xxx|50 km/h|1+1|
-|Pterodáctilo|xxx|xxx|xxx|95 km/h|1|
-|Plesiosaurio|xxx|xxx|xxx|40 km/h|1|
+|Alosaurio|6|0|55 km/h|17|1+1|
+|Estegosaurio| |-1|20 km/h|16|1+1|
+|Iguanodon| | |25 km/h| |1|
+|Megalosaurio| | |50 km/h| |1+1|
+|Plesiosaurio| | |40 km/h| |1|
+|Pterodáctilo|2|+1|95 km/h|9|1|
 
 Recuerda que los dinosaurios son también parte de la tripulación del vehículo. Así pues, aparte de correr, pueden hacer otras acciones en cada ronda de persecución como atacar al enemigo, derribar árboles para cortar el camino a sus perseguidores, etc.
 
@@ -560,7 +560,7 @@ Este arnés de nailon superligero se coloca sobre el pterodáctilo como si fuera
 ### Barda
 Estas armaduras para monturas no son ya muy eficaces en la guerra moderna. Son pesadas, farragosas de llevar y no dan protección frente a armas de fuego modernas. Esto, unido a la protección natural de los dinosaurios, ha hecho que solo sean útiles en muy contadas ocasiones. 
 
-La Fundación puede crear en su forja todas las piezas de armadura que se deseen. xxx
+La Fundación puede crear en su forja todas las piezas de armadura que se deseen. Se pueden diseñar y forjar bardas de malla (+3), placas(+3) o coraza(+4) y que cubran las partes que se deseen. Recuerda que no son recomendabas en climas extremos como nieve o desierto.
 
 \saltopagina
 
@@ -847,7 +847,7 @@ Cuando el zepelín sobrevoló el Mundo Perdido descubrió el campamento de la Fu
 
 xxx
 
-[![Dibujo de un enfretamiento de un tiranosaurio y un triceratos](./assests/images/enfrentamiento.jpg 'Charles R. Knight')](https://commons.wikimedia.org/wiki/Category:Charles_R._Knight#/media/File:Annual_report_of_the_Director_to_the_Board_of_Trustees_for_the_year_.._(1926)_(18434166321).jpg 'Charles R. Knight')
+[![Dibujo de un enfrentamiento de un tiranosaurio y un triceratos](./assests/images/enfrentamiento.jpg 'Charles R. Knight')](https://commons.wikimedia.org/wiki/Category:Charles_R._Knight#/media/File:Annual_report_of_the_Director_to_the_Board_of_Trustees_for_the_year_.._(1926)_(18434166321).jpg 'Charles R. Knight')
 
 ## Batalla del Mundo Perdido
 xxx
