@@ -291,9 +291,9 @@ El problema son los carnívoros de gran tamaño durante la misión, ya que en vi
 
 Como las misiones en principio deberían ser cortas, a lo sumo una semana, los grandes carnívoros deberían poder proveerse sin problemas durante los combates, devorando a nazis y a sus monturas. Piensa que los nazis son una fantástica fuente de proteínas y muchas instalaciones militares solían tener animales de granja como vacas u ovejas para tener ciertos suministros frescos.
 
-A nivel de juego, se supone que se llevan alimentos de sobra en las misiones y no deberían estar contando si quedan o no provisiones, esto no es "Econonomic D&D" no vamos a llevar al extremo el consumo/gasto de provisiones. Si fuera necesario, puedes montarle alguna escena para conseguir alimento fresco en el mercado local mientras evitan patrullas nazis. 
-
 \saltopagina
+
+A nivel de juego, se supone que se llevan alimentos de sobra en las misiones y no deberían estar contando si quedan o no provisiones, esto no es "Econonomic D&D" no vamos a llevar al extremo el consumo/gasto de provisiones. Si fuera necesario, puedes montarle alguna escena para conseguir alimento fresco en el mercado local mientras evitan patrullas nazis. 
 
 > La regla general es que no hay problemas de alimentación para los carnívoros a no ser que las misiones sean largas y/o la falta de comida sea parte de la aventura. En estos casos, si quieres que haya un extra de complejidad puedes presionarles con la falta de comida de sus saurios.
 
@@ -309,12 +309,12 @@ Una persona de la calle con estudios medios podría interpretar un avistamiento 
 ## Mantener en secreto a los dinosaurios
 Mantener en secreto la existencia de dinosaurios es una de las preocupaciones de la Fundación y como hemos visto lo lleva haciéndolo desde 1912. De hecho, han arriesgado mucho al ofrecer a sus especímenes más dotados e inteligentes a la Inteligencia militar inglesa, pero como ya sabemos, "tiempos desesperados exigen medidas desesperadas". Así que la Fundación y sus saurios salieron a la luz para unas pocas personas del ejército inglés.
 
+\saltopagina
+
 ### Aliados.
 La existencia de los comandos humanos/dinosaurio no ha salido nunca de salas de la inteligencia inglesa. Ningún aliado sabe de ellas o por lo menos ha dado señales de conocer su existencia.
 
 Pero eso no quiere decir que otras potencias como Rusia o Estados Unidos no tengan sospechas de lo que se esconde en una isla perdida de Escocia.
-
-\saltopagina
 
 ### Nazis
 Ni los nazis ni otros países del Eje parecen saber nada de la Fundación y sus activos. Sin embargo, la pasión por el Tercer Reich por lo sobrenatural le ha llevado algunas veces a estar muy cerca.

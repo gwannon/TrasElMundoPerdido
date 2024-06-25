@@ -21,9 +21,6 @@
     * Pajarera de los pterodáctilos
   * El campamento
 
-##  (1)
-* Día a día de los dinosaurios
-
 ## Recursos 
 * https://commons.wikimedia.org/wiki/Category:Charles_R._Knight
 * https://www.rawpixel.com/search/blacksmith?page=4&path=_topics%7C%24free&sort=popular
@@ -33,9 +30,9 @@
 # Changelog
 
 ## Versión 0.3 En desarrollo
+* "Acerca de los dinosaurios" terminado.
 
 ## Versión 0.2 13/08/2024
-* "Acerca de los dinosaurios" terminado.
 * "La campaña" terminado.
 * "Epilogo" terminado.
 * "Reglas especiales para la campaña" terminado.
