@@ -21,7 +21,7 @@
     * Pajarera de los pterodáctilos
   * El campamento
 
-## Acerca de los dinosaurios (1)
+##  (1)
 * Día a día de los dinosaurios
 
 ## Recursos 
@@ -35,7 +35,8 @@
 ## Versión 0.3 En desarrollo
 
 ## Versión 0.2 13/08/2024
-* "La campaña" terminado
+* "Acerca de los dinosaurios" terminado.
+* "La campaña" terminado.
 * "Epilogo" terminado.
 * "Reglas especiales para la campaña" terminado.
 

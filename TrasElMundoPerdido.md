@@ -206,8 +206,6 @@ El carácter de los dinosaurios tiene una gran parte marcada por su especie y fi
 ### Carnívoros terrestres
 A priori, los carnívoros son más agresivos en general. En la naturaleza son cazadores solitarios, con lo que es difícil tratar de coordinarlos con otras especies tanto porque las ven como competidores o como presas.
 
-
-
 ### Carnívoros acuáticos
 Los acuáticos suelen ser más distantes. Vivimos en mundos distintos y eso hace que no entiendan tanto a los humanos como a los dinosaurios terrestres o aéreos. Sin embargo, como cazan normalmente en manadas trabajan muy bien entre ellos.
 
@@ -217,14 +215,20 @@ Los pterodáctilos tienen a ser bastante competitivos entre ellos buscando ser e
 \saltopagina
 
 ### Herbívoros
-Son quizás los menos agresivos, pero pueden ser tremendamente agresivos cuando tienen que proteger a su manada y sus crías. Tampoco son los más listos, pero establecen fuertes lazos sociales entre ellos y los humanos formando entre todos una manada y como ya hemos dicho harán lo que sea para proteger a su manada. Otra de sus características es trabajan bien en equipo. Varios estegosaurios protegiendo una zona con sus colas llenas de pinchos es un espectáculo digno de ver, por no hablar de varios iguanodones corriendo a los lados de un jeep para protegerlo de enemigos. 
+Son quizás los menos agresivos, pero pueden ser tremendamente agresivos cuando tienen que proteger a su manada y sus crías. Tampoco son los más listos, pero establecen fuertes lazos sociales entre ellos y los humanos formando entre todos una manada y como ya hemos dicho harán lo que sea para proteger a su manada. Otra de sus características es trabajan bien en equipo. Varios estegosaurios protegiendo una zona con sus colas llenas de pinchos es un espectáculo digno de ver, por no hablar de varios iguanodones corriendo a los lados de un JEEP para protegerlo de enemigos. 
 
-[![Dibujo de un enfretamiento de un tiranosaurio y un triceratos](./assests/images/enfrentamiento.jpg 'Charles R. Knight')](https://commons.wikimedia.org/wiki/Category:Charles_R._Knight#/media/File:Annual_report_of_the_Director_to_the_Board_of_Trustees_for_the_year_.._(1926)_(18434166321).jpg 'Charles R. Knight')
+[![Boceto de un nido alosaurios al que están robando los huevos](./assests/images/nido.jpg 'The Horrors of Thieving by FredTheDinosaurman')](https://www.deviantart.com/fredthedinosaurman/art/The-Horrors-of-Thieving-682621092 'The Horrors of Thieving by FredTheDinosaurman')
 
-## Día a día de los dinosaurios
-xxx
+## Vida de los dinosaurios
+Los dinosaurios traídos de la tierra de Maple White son diurnos con lo que realizan toda su actividad principalmente de día, pero eso no quiere decir que no estén activos de noche. Pueden realizar todo tipos de tareas de noche ya que son de sangre caliente y pueden regular su temperatura incluso sin sol, pero como los humanos son están adaptados a moverse de noche. 
+
+El plumaje/plumón que tienen algunos de ellos les permite resistir en climas más fríos de lo que se pensaría a priori y también soportar el altas temperaturas. Así pues, pueden sobrevivir en una gran variedad de ambientes y climas desde la nieve hasta el desierto.
 
 \saltopagina
+
+La esperanza normal de vida de un dinosaurio está entre 20 y 30 años variando según especies. En general cuanto mayor tamaño tienen más viven, pero tardan también más en llegar a su tamaño adulto. Según estudios hechos en los dinosaurios de la Fundación y en pruebas de campo en la meseta de Maple White, un alosaurio puede vivir hasta los 30 y pico años, pero no conseguirá su tamaño de adulto hasta pasados los 20 años.  
+
+Todas estas especies construyen nidos y ponen huevos en ellos. Los incuban entre 3 y 6 meses. Las crías empiezan a ser independientes de sus padres a partir del año.
 
 ## Dinosaurios vs. tecnología
 En principio, los dinosaurios están acostumbrados a la tecnología actual. No tienen miedo a los ruidos fuertes como armas de fuego pesadas o bombardeos, que no quiere decir que les sea tremendamente molesto. No huyen tampoco del fuego o del humo y puede correr sin problemas al lado de coches, camiones o trenes sin tendencias violentas. También pueden ser transportados en vehículos sin problemas como barcos o aviones de transporte.
@@ -241,9 +245,9 @@ Para empezar hay que pensar que la mayoría de las misiones van a tener un compo
 
 Los dinosaurios atienden a órdenes muy sencillas en estas situaciones como "silencio", "escóndete" o "quieto", a no ser que sus instintos más básicos le digan lo contrario. Por ejemplo, un estegosaurio no se quedará quieto si ve que están atacando y matando a su manada (tus comandos y sus dinosaurios).
 
-Aunque parezca que animales de varias toneladas no pueden esconderse, piensa que durante millones de años la evolución ha ido afilando sus capacidades para el sigilo, tanto los herbívoros para esconderse y no ser atacados, como para los carnívoros con su capacidad de tender emboscadas a sus presas. Ten en cuenta, además, que tienen su camuflaje natural y que la Fundación ha desarrollado diferentes inventos para mejorar su capacidad de infiltrarse.
-
 \saltopagina
+
+Aunque parezca que animales de varias toneladas no pueden esconderse, piensa que durante millones de años la evolución ha ido afilando sus capacidades para el sigilo, tanto los herbívoros para esconderse y no ser atacados, como para los carnívoros con su capacidad de tender emboscadas a sus presas. Ten en cuenta, además, que tienen su camuflaje natural y que la Fundación ha desarrollado diferentes inventos para mejorar su capacidad de infiltrarse.
 
 ### Misiones de reconocimiento aéreo
 Como dinosaurios voladores estas misiones son cosa de los pterodáctilos. Estos saurios voladores han aprendido mediante refuerzo positivo a ir de un humano origen a otro humano destino en más o menos línea recta hasta unos 3 o 4 km. 
@@ -264,9 +268,9 @@ Si bien, hablamos de perfectas máquinas de guerra, su competencia son todos el 
 
 Los estegosaurios y los iguanodones tampoco se quedan atrás. Son seres que han aprendido a sobrevivir en un ambiente muy peligroso con lo que están dotados de poderosas armas como sus colas con pinchos. Solamente con su peso y su dura piel pueden hacer frente a un pelotón de soldados nazis sin sufrir más que algunos rasguños.
 
-Por último los pterodáctilos e ictiosaurios y plesiosaurios son muy peligrosos en su medio. Quizás no puedan derribar un UBoat o un Messerschmidt. Pero un buzo no es rival para un ictiosaurio y un pterodáctilo puede atrapar a un soldado nazi, elevarse hasta 100 metros y dejarlo caer en unos pocos segundos.
-
 \saltopagina
+
+Por último los pterodáctilos e ictiosaurios y plesiosaurios son muy peligrosos en su medio. Quizás no puedan derribar un UBoat o un Messerschmidt. Pero un buzo no es rival para un ictiosaurio y un pterodáctilo puede atrapar a un soldado nazi, elevarse hasta 100 metros y dejarlo caer en unos pocos segundos.
 
 La Fundación ha entrenado a los saurios para obedecer órdenes como "ataca", "auxilio" o "huye", aunque ten claro que tu compañero difícilmente huirá si estás en peligro.
 
@@ -452,6 +456,14 @@ Recibes un **+2 en tiradas en que las matemáticas sean importantes**, desde Apo
 
 \saltopagina
 
+### Nueva desventaja para dinosaurios: Joven
+**Requisitos:** Novato
+El dinosaurio no es un espécimen adulto y todavía no ha llegado a su tamaño de adulto. Es por ello que tiene 1 punto menos de tamaño que lo normal en su especie con todas las consecuencias en Dureza, número de heridas, etc. Tambień supone que el equipamiento que se le ponga no puede usarse en otros dinosaurios de su especie porque es específico para él y viceversa. Adaptarlo de uno a otro llevará 1 hora de trabajo con las herramientas adecuadas.
+
+Podrá quitarse si se quiere gastando un avance conseguido a partir de Experimentado.
+
+\saltopagina
+
 ## Vehículos
 En esta tabla tenemos los vehículos típicos de las películas de la II Guerra Mundial como la BMW R-71, la moto con sidecar que persigue al camión donde escapa el comando, o Volkswagen Typ 82, en que vemos al general nazi moviéndose por el campo de batalla mientras lo conduce el espía inglés vestido de soldado alemán. 
 
@@ -594,7 +606,7 @@ Se ha intentado montar armas de fuego pesadas encima de los dinosaurios, pero si
 Como en el caso del collar de entrenamiento, no deberían ser equipo que deberías permitir usar a tus comandos. Más bien serían las mejoras que un alto oficial de las SS pondría a su alosaurio de combate al que no se preocupa el bienestar de su compañero.
 
 ### Plaustro
-Este carro de madera con estructura metálica está adaptado a las diferentes fisonomías de iguanodontes y estegosaurios y permite transportar gran cantidad de material por terrenos difíciles. Puede adaptarse al lugar y por ejemplo tener esquís para la nieve en vez de ruedas.
+Este carro de madera con estructura metálica está adaptado a las diferentes fisonomías de iguanodones y estegosaurios y permite transportar gran cantidad de material por terrenos difíciles. Puede adaptarse al lugar y por ejemplo tener esquís para la nieve en vez de ruedas.
 
 > La capacidad de carga de un dinosaurio tirando de un plaustro se calcula como si su FUE fuera x4, siempre que la carga vaya en el carro y esté medianamente equilibrada y bien colocada.
 
@@ -640,10 +652,10 @@ Si deseas jugar los diferentes escenarios de guerra en orden cronológico por ri
 
 \saltopagina
 
-1. Batalla del Río de la Plata (1939)
+1. Batalla del Río de la Plata (1939, aunque la partida empieza en el verano de 1940)
 2. Sitio de Tobruk (1941)
 3. El sitio de Stalingrado (1942-1943)
-3. Batalla del Río de la Plata (1943)
+3. Operación Gunnerside (1943)
 4. Preparando el día D (1944)
 
 ## Preparando las misiones
@@ -835,10 +847,10 @@ Cuando el zepelín sobrevoló el Mundo Perdido descubrió el campamento de la Fu
 
 xxx
 
+[![Dibujo de un enfretamiento de un tiranosaurio y un triceratos](./assests/images/enfrentamiento.jpg 'Charles R. Knight')](https://commons.wikimedia.org/wiki/Category:Charles_R._Knight#/media/File:Annual_report_of_the_Director_to_the_Board_of_Trustees_for_the_year_.._(1926)_(18434166321).jpg 'Charles R. Knight')
+
 ## Batalla del Mundo Perdido
 xxx
-
-[![Boceto de un nido alosaurios al que están robando los huevos](./assests/images/nido.jpg 'The Horrors of Thieving by FredTheDinosaurman')](https://www.deviantart.com/fredthedinosaurman/art/The-Horrors-of-Thieving-682621092 'The Horrors of Thieving by FredTheDinosaurman')
 
 \saltopagina
 
@@ -990,6 +1002,9 @@ xxx
 \saltopagina
 
 ### Lady Margaret Roxton
+
+[![Retrato de Lady Margaret Roxton](./assests/images/lady-broxton.jpg 'Chalk drawing of Beatrice Webb by Jessie Holiday, circa 1909')](https://en.wikipedia.org/wiki/Beatrice_Webb#/media/File:Webb_beatrice_(middle_age).jpg 'Chalk drawing of Beatrice Webb by Jessie Holiday, circa 1909')
+
 xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
@@ -999,13 +1014,13 @@ xxx
 * **Desventajas:** xxx
 * **Equipo:** xxx
 
-
+**Sugerencia de interpretación:** xxx
 
 ### Dolores Branningan, capitana del "Mary Anning"
 
 [![Retrato de Dolores Branningan](./assests/images/branningan.jpg 'Molly Kool, the first woman in, North America, to qualify to be a deep sea captain, in 1937.')](https://en.wikipedia.org/wiki/Molly_Kool#/media/File:Molly_Kool,_the_first_woman_in,_North_America,_to_qualify_to_be_a_deep_sea_captain,_in_1937_(cropped).jpg 'Molly Kool, the first woman in, North America, to qualify to be a deep sea captain, in 1937.')
 
-El agua salada lleva corriendo por las venas de los Branningans desde hace generaciones. Siempre han estado ligados al mar desde tiempos de Drake. Cuando la Fundación en 1916 compro el viejo carguero "Ambassador" y le cambió el nombre por el "Mary Anning" contrataron a la capitana Dolores como parte del contrato de compra venta.
+El agua salada lleva corriendo por las venas de los Branningans desde hace generaciones. Siempre han estado ligados al mar desde tiempos de Drake. Cuando la Fundación en 1916 compro el viejo carguero "Ambassador" y le cambió el nombre por el "Mary Anning" contrataron a la capitana Dolores como parte del contrato de compraventa.
 
 Dolores lleva toda la vida en un barco y cuando pisa tierra firme está rara e incómoda. Espera retirarse a alguna isla del Caribe bebiendo ron y bailando bachata.
 
@@ -1014,11 +1029,14 @@ Como buena irlandesa es risueña y alegre con una tonada siempre en los labios y
 * **Atributos:** Agilidad d6, Astucia d8, Espíritu d8, Fuerza d8, Vigor d6
 * **Habilidades:** Atletismo d8, Conocimientos Generales d6, Disparar d8, Idioma Inglés d8, Idioma Español d6, Navegar d10, Notar d8, Pelear d6, Persuadir d6, Reparar d8, Sigilo d4
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
-* **Ventajas:** Soldado, xxx
+
+\saltopagina
+
+* **Ventajas:** xxx
 * **Desventajas:** xxx
 * **Equipo:** xxx
 
-\saltopagina
+**Sugerencia de interpretación:** xxx
 
 ### Weyland, armero e ingeniero
 xxx
@@ -1030,15 +1048,19 @@ xxx
 * **Desventajas:** xxx
 * **Equipo:** xxx
 
+**Sugerencia de interpretación:** xxx
+
 ### General Linton, Inteligencia Militar y enlace con el alto mando
 xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
-* **Ventajas:** Soldado, xxx
+* **Ventajas:** xxx
 * **Desventajas:** xxx
 * **Equipo:** xxx
+
+**Sugerencia de interpretación:** xxx
 
 \saltopagina
 
@@ -1051,9 +1073,11 @@ xxx
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
-* **Ventajas:** Soldado, xxx
+* **Ventajas:** xxx
 * **Desventajas:** xxx
 * **Equipo:** xxx
+
+**Sugerencia de interpretación:** xxx
 
 ###  Artur Eckart, científico loco nazi
 xxx
@@ -1061,9 +1085,11 @@ xxx
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
-* **Ventajas:** Soldado, xxx
+* **Ventajas:** xxx
 * **Desventajas:** xxx
 * **Equipo:** xxx
+
+**Sugerencia de interpretación:** xxx
 
 \saltopagina
 
@@ -1073,9 +1099,11 @@ xxx
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
-* **Ventajas:** Soldado, xxx
+* **Ventajas:** xxx
 * **Desventajas:** xxx
 * **Equipo:** xxx
+
+**Sugerencia de interpretación:** xxx
 
 \saltopagina
 
@@ -1267,7 +1295,7 @@ Que no hayan sido encontradas, no quiere decir que en la tierra de Maple White n
 * Carnívoro
 * Terrestre
 * 4x2 casillas
-* Código: xxx
+* Código: Matilda (por el tanque inglés A12 Matilda II)
 
 xxx
 
@@ -1303,7 +1331,7 @@ Sus potentes piernas también le convierten en el dinosaurio terrestre más ráp
 ### Estegosaurio
 * Herbívoro
 * Terrestre
-* 0x0 casillas
+* 3x2 casillas
 * Código: xxx
 
 xxx
@@ -1335,8 +1363,8 @@ Este saurio es famosos por sus placas dorsales, xxx. También tiene cuatro espin
 ### Ictiosaurio
 * Carnívoro
 * Acuático
-* 0x0 casillas
-* Código: xxx
+* 2x1 casillas
+* Código: LCA (Lancha de desembarco)
 
 xxx
 
@@ -1355,7 +1383,7 @@ xxx
 * Herbívoro
 * Terrestre
 * 0x0 casillas
-* Código: xxx
+* Código: Willys (por el vehículo todoterreno Jeep Willys MB)
 
 xxx
 
@@ -1379,7 +1407,7 @@ xxx
 ### Megalosaurio
 * Carnívoro
 * Terrestre
-* 0x0 casillas
+* 3x2 casillas
 * Código: xxx
 
 xxx
@@ -1398,7 +1426,7 @@ xxx
 ### Plesiosaurio
 * Carnívoro
 * Acuático
-* 0x0 casillas
+* 3x1 casillas
 * Código: DUKW (Pronunciado como DUCK, PATO en castellano)
 
 xxx
@@ -1423,7 +1451,7 @@ Su cuerpo está totalmente adaptado a la vida acuática. Su piel no es escamosa,
 ### Pterodáctilo
 * Carnívoro
 * Volador
-* 0x0 casillas
+* 3x1 casillas
 * Código: Spitfire
 
 xxx
