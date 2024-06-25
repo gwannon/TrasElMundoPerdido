@@ -475,8 +475,7 @@ En esta tabla tenemos los vehículos típicos de las películas de la II Guerra 
 |VW Typ 82 "Kübelwagen"|3|+1|80 km/h|13(3)|1+4|
 
 ### Dinosaurios como vehículos
-Todos queremos ver persecuciones entre dinosaurios y motos nazis por una carretera de montaña de los Alpes o una carrera entre un alosaurio y unos "Kübelwagen"
-por las abarrotadas calles del zoco de Marrakech, así que aquí tienes las estadísticas de diferentes dinosaurios como vehículos a la hora de hacer persecuciones.
+Todos queremos ver persecuciones entre dinosaurios y motos nazis por una carretera de montaña de los Alpes o una carrera entre un alosaurio y unos "Kübelwagen" por las abarrotadas calles del zoco de Marrakech, así que aquí tienes las estadísticas de diferentes dinosaurios como vehículos a la hora de hacer persecuciones.
 
 |VEHÍCULO|TAMAÑO|MANIOBRA.|VEL. MÁX.|DUREZA|TRIPULACIÓN|
 |--------|------|----|--|------|-----|
