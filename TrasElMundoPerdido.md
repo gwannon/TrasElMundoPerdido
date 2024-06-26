@@ -108,7 +108,7 @@ Las instalaciones en la isla no están concentradas en un único lugar, sino que
 Los dinosaurios en libertad a pesar de su tamaño, siguen con instintos de cazador y presa y se ocultan bastante bien entre bosques y maleza alta. Aun así, alguien de la inteligencia nazi puede descubrir el pastel fácilmente si le pone interés.
 
 #### Habitats
-Tras muchos años de estudio se han ido creando una serie de hábitats para cada especie donde viven y son estudiados. Mientras que los pterodáctilos rápidamente se habituaron a los acantilados de la isla donde montaron sus nidos sin problemas, los carnívoros han sido los más complicados por su carácter, su agresividad y su alimentación. Hábitats actuales.
+Tras muchos años de estudio se han ido creando una serie de hábitats para cada especie donde viven y son estudiados. Mientras que los pterodáctilos se habituaron rápidamente y sin problemas a los acantilados de la isla donde montaron sus nidos, los carnívoros han sido los más complicados por su carácter, su agresividad y su alimentación. Hábitats actuales.
 
 * **Acantilados oeste** de la isla es la zona de anidación de los pterodáctilos.
 * Aprovechando unas **piscinas naturales** en una de tantas calas de la isla se ha montado un hábitat para los saurios acuáticos.
@@ -123,6 +123,11 @@ La Fundación, como santuario natural, paga a los pescadores locales para que no
 
 \saltopagina
 
+[![Foto del castillo de Dunvegan](./assests/images/dunvegan.jpg 'De Pam Brophy, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=605496')](https://es.wikipedia.org/wiki/Castillo_de_Dunvegan#/media/Archivo:Dunvegan_Castle.jpg 'De Pam Brophy, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=605496')
+
+#### Castillo de Dunvegan
+xxx
+
 #### La forja de Weyland
 Este taller y forja está dirigido por Weyland (su mote en la forja), un herrero/ingeniero que la Fundación enroló para hacer todos los artilugios y piezas de metal que necesitan en la isla, desde rejas o cadenas o bardas y escudos.
 
@@ -134,6 +139,8 @@ El "Mary Anning" es un barco carguero de tamaño medio botado por la Fundación 
 
 La fundación le puso el nombre de la famosa paleontóloga georgiana Mary Anning, que hizo grandes descubrimientos en saurios acuáticos como el ictiosaurio o el plesiosaurio.
 
+\saltopagina
+
 Durante años fue usado por la Fundación para el transporte de saurios y provisiones vía marítima. Pero cuando estalló la guerra y la Fundación contacto con el Alto Mando, el barco paso en secreto por los astilleros reales. Todo el espacio de carga fue acondicionado para llevar cómodamente a los dinosaurios y a sus compañeros humanos en sus largos viajes a sus diferentes misiones.
 
 En el resto del espacio libre se crearon diferentes habitáculos con material y equipo útil en sus misiones, desde un hospital de campaña para humanos y dinosaurios hasta una sala oscura para revelar fotos. Cuenta también con grandes zonas de almacenaje y un congelador de tamaño industrial para almacenar las provisiones de los grandes saurios.
@@ -141,8 +148,6 @@ En el resto del espacio libre se crearon diferentes habitáculos con material y 
 La capitán Dolores Branningan y su tripulación tienen años de experiencia tratando con dinosaurios y saliendo airosos de situaciones peligrosas. Es por ello que en caso de necesidad podrían sustituir a un comando en una misión.
 
 xxx
-
-\saltopagina
 
 #### Pieza de artillería antiaérea camuflada
 En la cubierta principal, camuflada dentro de un contenedor de madera que se desmonta quitando unos pestillos, hay un cañón de 20mm antiaéreo.
@@ -164,6 +169,8 @@ Los comandos pueden usar su radio portátil para comunicarse con el barco y este
 
 Aunque las comunicaciones pueden ser escuchadas por la Inteligencia Nazi, se usa un método de nombres en clave para tratar de ofuscar la información lo más posible. Aun así, una persona experta podría sacar el mensaje e incluso triangular la señal.
 
+\saltopagina
+
 #### La esclusa de los plesiosaurios
 
 El "Mary Anning" llena unos tanques de agua para el transporte de los saurios acuáticos. No son especialmente grandes, así que han dotado a esos tanques de una esclusa que permite a los ictiosaurios y a los plesiosaurios salir al mar cuando el carguero va a una velocidad más o menos lenta o está parado en un puerto.
@@ -173,8 +180,6 @@ Desde el barco se suele lanzar una boya con la que suelen jugar y con la que hac
 #### Pajarera de los pterodáctilos
 En la cubierta superior, si es necesario, la tripulación del barco puede montar una jaula gigantesca para los pterodáctilos. La pajarera tiene una estructura metálica de mecanotubo que se cubre con malla de cuerda reforzada con cable metálico. El tamaño es de 20m de largo, 5 de ancho y 5 de alto y
 se tarda 1,5 horas en montarlo.
-
-\saltopagina
 
 La idea es tanto servir de refugio a los pterodáctilos en caso de clima adverso, como, también, un sitio de tenerlos controlados. Como ya hemos dicho, los aéreos son muy asustadizos en solitario y muy valientes en grupo, lo que hace que ante situaciones de estrés puedan huir o atacar, y como vuelan, es muy fácil que sean avistados. La pajarera les permite tener cierto espacio para moverse, pero los mantiene controlados.
 
@@ -191,6 +196,8 @@ La Fundación tiene en la meseta de Maple White un campamento fijo de científic
 
 De media hay unas 20 personas viviendo en un enclave de unos 10 pabellones. Son autosuficientes en temas de suministros básicos como agua y comida, y cada cierto tiempo reciben suministros médicos, materiales y equipos nuevos.
 
+\saltopagina
+
 Esta comunidad permanente de investigaciones ha establecido relaciones con los cavernícolas y han tenido éxito en sus primeros intercambios culturales y comerciales, siguiendo siempre los protocolos establecidos por la Fundación.
 
 Este enclave se sitúa al sur del Lago Central que les provee de pesca y agua. Esto les permite estudiar los saurios acuáticos y estar lo suficientemente lejos de los habitantes de las cuevas para no molestarlos ni interferir en su día a día, pero lo suficientemente cerca para estudiarlos tenerlos controlados. 
@@ -204,8 +211,6 @@ Listado normal de residentes:
 * Un/a cocinero/a y su ayudante
 * Un/a doctor/a y su ayudante
 * Dos cazadores/as encargados de proteger el enclave y conseguir alimento
-
-\saltopagina
 
 ### Recursos económicos
 La fundación Roxton tienes unos recursos increíbles, ya que se ha dedicado durante años a extraer diamantes de la arcilla azul del pantano del Mundo Perdido. 
@@ -481,11 +486,32 @@ Recibes un **+2 en tiradas en que las matemáticas sean importantes**, desde Apo
 
 \saltopagina
 
+### Nueva ventaja para dinosaurios: Aviso de peligro
+**Requisitos:** Novato, Herbívoro
+Llevar milenios siendo una presa ha hecho que ciertos especímenes de tu especie detecte los peligros y tenga un sistema de alarma. Obtienes un +2 a Notar para detectar enemigos y además algún tipo de señal (bramido, golpear el suelo con la cola, chocar las alas, etc.) para avisar al resto de la manada.
+
+### Nueva ventaja para dinosaurios: Raptor
+**Requisitos:** Novato, Carnívoro
+El saurio carnívoro es un experto cazador con lo que puede obtiene +2 a Notar al buscar a su presa y +2 a sigilo al tender emboscadas a sus presas.
+
+### Nueva ventaja para dinosaurios: Aletas fuertes
+**Requisitos:** Novato, Acuático, Agilidad d6+
+El Paso nadando del dinosaurio aumenta en +2.
+
+### Nueva ventaja para dinosaurios: Alas rápidas
+**Requisitos:** Novato, Vuelo, Agilidad d6+
+El Paso de Vuelo del dinosaurio aumenta en +2.
+
 ### Nueva desventaja para dinosaurios: Joven
 **Requisitos:** Novato
 El dinosaurio no es un espécimen adulto y todavía no ha llegado a su tamaño de adulto. Es por ello que tiene 1 punto menos de tamaño que lo normal en su especie con todas las consecuencias en Dureza, número de heridas, etc. También supone que el equipamiento que se le ponga no puede usarse en otros dinosaurios de su especie porque es específico para él y viceversa. Adaptarlo de uno a otro llevará 1 hora de trabajo con las herramientas adecuadas.
 
 Podrá quitarse si se quiere gastando un avance conseguido a partir de Experimentado.
+
+### Nueva desventaja para dinosaurios: xxx
+**Requisitos:** Novato
+
+xxx
 
 \saltopagina
 
@@ -1678,7 +1704,7 @@ Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a tra
 No soy propietario de ninguna de las imágenes de este documento. Estoy usando imágenes con licencia CC y atribuyéndola a su propietario. Si hay algún error, hacédmelo saber para corregirlo. Estas son las imágenes que por diseño no he podido atribuir de manera adecuada enlazándolas correctamente.
 
 * [Portada "Hace 65 millones de años los dinosaurios dominaron la Tierra ..."](https://en.wikipedia.org/wiki/Charles_R._Knight)
-* [Portada "La fundación Roxton"](https://www.pexels.com/es-es/foto/castillo-sitio-historico-lugares-de-interes-atraccion-turistica-8369892/)
+* [Portada "La fundación Roxton"](https://www.pexels.com/zh-cn/photo/brown-concrete-building-near-body-of-water-6726778/)
 * [Portada "Acerca de los dinosaurios"](https://en.wikipedia.org/wiki/Charles_R._Knight)
 * [Portada "Reglas especiales para la campaña"](https://www.kcl.ac.uk/behind-the-few-the-womens-auxiliary-air-force-and-their-contribution-to-british-intelligence-during-the-second-world-war)
 * [Portada "La campaña"](https://es.wikipedia.org/wiki/El_mundo_perdido_(pel%C3%ADcula_de_1925)#/media/Archivo:The_Lost_World_(1925)_-_film_poster.jpg)
