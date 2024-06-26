@@ -1066,7 +1066,7 @@ xxx
 
 **Sugerencia de interpretación:** xxx
 
-### General Linton, Inteligencia Militar y enlace con el alto mando
+### General Linton, Inteligencia Militar y enlace con el alto mando &#x2638;
 xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
