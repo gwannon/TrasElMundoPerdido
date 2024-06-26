@@ -107,6 +107,22 @@ xxx
 Las instalaciones en la isla no están concentradas en un único lugar, sino que están dispersas por los terrenos de la fundación. La idea es evitar que los reconocimientos aéreos nazis descubran las instalaciones. Si no se revisan a conciencia las fotos se considerará que son grupos dispersos de granjas.
 Los dinosaurios en libertad a pesar de su tamaño, siguen con instintos de cazador y presa y se ocultan bastante bien entre bosques y maleza alta. Aun así, alguien de la inteligencia nazi puede descubrir el pastel fácilmente si le pone interés.
 
+#### Habitats
+Tras muchos años de estudio se han ido creando una serie de hábitats para cada especie donde viven y son estudiados. Mientras que los pterodáctilos rápidamente se habituaron a los acantilados de la isla donde montaron sus nidos sin problemas, los carnívoros han sido los más complicados por su carácter, su agresividad y su alimentación. Hábitats actuales.
+
+* **Acantilados oeste** de la isla es la zona de anidación de los pterodáctilos.
+* Aprovechando unas **piscinas naturales** en una de tantas calas de la isla se ha montado un hábitat para los saurios acuáticos.
+* Las **praderas sur de la isla** son perfectas para los estegosaurios y los iguanodones que parecen no tener problemas con las vacas y ovejas que había en los terrenos de la Fundación.
+* Las **praderas norte de la isla** son los dominios de los carnívoros. Se aprovechó una de las penínsulas de la isla que tenía un macizo rocoso en su istmo poniendo muros y rejas en el único paso que hay, por la costa sur de la península. El macizo tiene un sistema de cuevas naturales que sirven de refugio.
+
+Los saurios terrestres están en semilibertad, ya que pueden moverse por extensas zonas, pero no pueden salir de la isla y están controlados por los guardabosques de la Fundación. Aún pudiendo moverse casi libremente por la isla, los ataques a humanos casi no existen. Saben que los humanos les son más útiles vivos que muertos y mientras se les tenga bien alimentados, solo los especímenes jóvenes de los carnívoros han dado algún problema.
+
+Los acuáticos y voladores pueden moverse fuera de la isla sin problemas, pero estos no se alejan mucho, aunque ha habido casos de avistamientos. De hecho, hace unos años un plesiosaurio desorientado y enfermo acabo en el lago Ness desatando la locura por Nessy en la zona. 
+
+La Fundación, como santuario natural, paga a los pescadores locales para que no faenen en la zona, por ello, los bancos de peces que sirven de alimento a plesiosaurios, ictiosaurios y pterodáctilos son muy abundantes. Ante esta situación muy pocos ejemplares han querido alejarse de la isla.
+
+\saltopagina
+
 #### La forja de Weyland
 Este taller y forja está dirigido por Weyland (su mote en la forja), un herrero/ingeniero que la Fundación enroló para hacer todos los artilugios y piezas de metal que necesitan en la isla, desde rejas o cadenas o bardas y escudos.
 
@@ -155,12 +171,14 @@ El "Mary Anning" llena unos tanques de agua para el transporte de los saurios ac
 Desde el barco se suele lanzar una boya con la que suelen jugar y con la que hacen carreras cuando el barco está en movimiento. No solo sirve para tenerlos entretenidos y en forma. También hace que no se vayan lejos del barco, por ejemplo, buscando presas.
 
 #### Pajarera de los pterodáctilos
-xxx
+En la cubierta superior, si es necesario, la tripulación del barco puede montar una jaula gigantesca para los pterodáctilos. La pajarera tiene una estructura metálica de mecanotubo que se cubre con malla de cuerda reforzada con cable metálico. El tamaño es de 20m de largo, 5 de ancho y 5 de alto y
+se tarda 1,5 horas en montarlo.
 
 \saltopagina
 
-#### Otras instalaciones del barco
+La idea es tanto servir de refugio a los pterodáctilos en caso de clima adverso, como, también, un sitio de tenerlos controlados. Como ya hemos dicho, los aéreos son muy asustadizos en solitario y muy valientes en grupo, lo que hace que ante situaciones de estrés puedan huir o atacar, y como vuelan, es muy fácil que sean avistados. La pajarera les permite tener cierto espacio para moverse, pero los mantiene controlados.
 
+#### Otras instalaciones del barco
 Además de cosas normales en este tipo de cargueros, como cocina o sala común, cuenta con todas estas instalaciones.
 
 * Mini-gimnasio con pesas y algunos artilugios deportivos.
@@ -173,14 +191,21 @@ La Fundación tiene en la meseta de Maple White un campamento fijo de científic
 
 De media hay unas 20 personas viviendo en un enclave de unos 10 pabellones. Son autosuficientes en temas de suministros básicos como agua y comida, y cada cierto tiempo reciben suministros médicos, materiales y equipos nuevos.
 
-Esta comunidad permanente de investigaciones ha establecido relaciones con los cavernícolas y han tenido éxito en sus primeros intercambios culturales y comerciales.
+Esta comunidad permanente de investigaciones ha establecido relaciones con los cavernícolas y han tenido éxito en sus primeros intercambios culturales y comerciales, siguiendo siempre los protocolos establecidos por la Fundación.
 
-Este enclave se sitúa al sur del Lago Central que les provee de pesca y agua.
-
-xxx
+Este enclave se sitúa al sur del Lago Central que les provee de pesca y agua. Esto les permite estudiar los saurios acuáticos y estar lo suficientemente lejos de los habitantes de las cuevas para no molestarlos ni interferir en su día a día, pero lo suficientemente cerca para estudiarlos tenerlos controlados. 
 
 Listado normal de residentes:
-* xxx
+* 
+* 4/6 expertos/as en zoología, paleontología, biología y botánica
+* 2 especialistas de laboratorio preparados para hacer cualquier tipo de prueba
+* 2 antropólogos/as
+* Un/a ingeniero/a 1 su ayudante
+* Un/a cocinero/a y su ayudante
+* Un/a doctor/a y su ayudante
+* Dos cazadores/as encargados de proteger el enclave y conseguir alimento
+
+\saltopagina
 
 ### Recursos económicos
 La fundación Roxton tienes unos recursos increíbles, ya que se ha dedicado durante años a extraer diamantes de la arcilla azul del pantano del Mundo Perdido. 
