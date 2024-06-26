@@ -41,10 +41,10 @@ xxx
 
 \saltopagina
 
-### Profesor G. E. Challenger (✝)
+### Profesor G. E. Challenger
 xxx
 
-### Lord John Roxton (✝)
+### Lord John Roxton
 xxx
 
 ### Edward Malone
@@ -977,6 +977,21 @@ Al volver a Skye os informan de que un huevo de pterodáctilo ha desaparecido de
 
 xxx
 
+## Titanes de tiempos pretéritos
+```
+La gente de Inteligencia Militar ha tenido una idea genial, usar a los saurios en una película de bajo presupuesto. De forma que si alguien ves a los dinosaurios puedan decir que era un truco cinematográfico. 
+```
+
+Lady Roxton quiere hablar con tus comandos. Mientras descansan entre misiones, tiene un pequeño trabajo que puede que incluso sea de su agrado. Cuando Lady Roxton les atienda les preguntará si les gusta el cine y les pasará una copia del guion. Si le dan un vistazo rápido es un guion de una película de serie B de dinosaurios llamada "Titanes de tiempos pretéritos", un título muy pretencioso para una cutre película. 
+
+IM quiere que se usen dinosaurios reales y no efectos especiales para recrear a los dinosaurios. La genial idea que han tenido es que si alguien ve a uno de los saurios, hace una foto o incluso los graba en celuloide, poder decir que es un truco del cine y poner "Titanes de tiempos pretéritos" como ejemplo de lo que la gente de Hollywood puede hacer. 
+
+Si revisan el guion podrán ver que tendrán que rodar escenas disfrazados de trogloditas luchando contra unos dinosaurios. También parece que rodarán con Marina Flowers, una estrella en ascenso de Hollywood, que tiene fama de ser problemática.
+
+xxx
+
+\saltopagina
+
 ## Semillas de aventuras
 Además de los relatos salvajes aquí te propongo una serie de semillas de aventuras si quieres alargar tus partidas o darles más profundidad.
 
@@ -992,6 +1007,8 @@ Aquí tienes, primero, aliados de tus comandos, miembros de la Fundación, altos
 
 Por último, tenemos una sección con los auténticos protagonistas de esta campaña los dinosaurios con extensas descripciones, ilustraciones, escalas en relación con los humanos, etc.
 
+> Recuerda que todo PJs con este símbolo (&#x2638;) en su nombre son considerados comodines con todo lo que ello conlleva.
+
 ## Aliados
 xxx
 
@@ -1000,7 +1017,7 @@ xxx
 
 \saltopagina
 
-### Lady Margaret Roxton
+### Lady Margaret Roxton &#x2638;
 
 [![Retrato de Lady Margaret Roxton](./assests/images/lady-broxton.jpg 'Chalk drawing of Beatrice Webb by Jessie Holiday, circa 1909')](https://en.wikipedia.org/wiki/Beatrice_Webb#/media/File:Webb_beatrice_(middle_age).jpg 'Chalk drawing of Beatrice Webb by Jessie Holiday, circa 1909')
 
@@ -1015,7 +1032,7 @@ xxx
 
 **Sugerencia de interpretación:** xxx
 
-### Dolores Branningan, capitana del "Mary Anning"
+### Dolores Branningan, capitana del "Mary Anning" &#x2638;
 
 [![Retrato de Dolores Branningan](./assests/images/branningan.jpg 'Molly Kool, the first woman in, North America, to qualify to be a deep sea captain, in 1937.')](https://en.wikipedia.org/wiki/Molly_Kool#/media/File:Molly_Kool,_the_first_woman_in,_North_America,_to_qualify_to_be_a_deep_sea_captain,_in_1937_(cropped).jpg 'Molly Kool, the first woman in, North America, to qualify to be a deep sea captain, in 1937.')
 
@@ -1027,17 +1044,17 @@ Como buena irlandesa es risueña y alegre con una tonada siempre en los labios y
 
 * **Atributos:** Agilidad d6, Astucia d8, Espíritu d8, Fuerza d8, Vigor d6
 * **Habilidades:** Atletismo d8, Conocimientos Generales d6, Disparar d8, Idioma Inglés d8, Idioma Español d6, Navegar d10, Notar d8, Pelear d6, Persuadir d6, Reparar d8, Sigilo d4
-* **Paso:** 6; **Parada:** 5; **Dureza:** 5
 
 \saltopagina
 
+* **Paso:** 6; **Parada:** 5; **Dureza:** 5
 * **Ventajas:** xxx
 * **Desventajas:** xxx
 * **Equipo:** xxx
 
 **Sugerencia de interpretación:** xxx
 
-### Weyland, armero e ingeniero
+### Weyland, armero e ingeniero &#x2638;
 xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
@@ -1066,7 +1083,7 @@ xxx
 ## Antagonistas
 Una historia es tan buena como sus antagonistas y aquí tienes a los villanos y villanas que van a hacer la vida imposible a tus comandos, haciendo que se jueguen su vida y la de sus saurios en cada misión.
 
-### Theodor von Liebenfels, general nazi y ocultista
+### Theodor von Liebenfels, general nazi y ocultista &#x2638;
 xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
@@ -1078,7 +1095,7 @@ xxx
 
 **Sugerencia de interpretación:** xxx
 
-###  Artur Eckart, científico loco nazi
+###  Artur Eckart, científico loco nazi &#x2638;
 xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
@@ -1092,7 +1109,7 @@ xxx
 
 \saltopagina
 
-###  Irma Bormann, espía de las SS
+###  Irma Bormann, espía de las SS &#x2638;
 xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
