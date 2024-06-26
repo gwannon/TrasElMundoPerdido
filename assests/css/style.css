@@ -211,7 +211,8 @@ a:has(img) {
 section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Dibujo]):before,
 section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Plano]):before,
 section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Imagen]):before,
-section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Retrato]):before {
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Retrato]):before,
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Detalle]):before {
   content: "";
   display: block;
   position: absolute;
@@ -224,7 +225,8 @@ section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type)
   z-index: 10;
 }
 
-section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Retrato]) {
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Retrato]),
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Detalle])  {
   rotate: -3deg;
   width: 40%;
   float: left;
@@ -233,7 +235,8 @@ section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type)
   box-shadow: 7px 10px 22px -8px #000;
 }
 
-section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Retrato]):before {
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Retrato]):before,
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Detalle]):before {
   top: 48px;
   left: -40px;
   right: auto;

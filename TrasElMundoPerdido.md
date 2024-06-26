@@ -757,10 +757,16 @@ xxx
 
 ## Sitio de Tobruk
 ```
-El ejército necesita que el comando entre Tobruk y saque a un agente que tiene información vital para inteligencia militar. El único problema es que la ciudad esta asediada por los "Africa Korps".
+El ejército necesita que el comando entre Tobruk y saque a un agente que tiene un objeto de vital importancia para IM. El único problema es que la ciudad esta asediada por los "Africa Korps" por tierra aire y mar.
 ```
 
 xxx
+
+### La maquina enigma
+
+[![Detalle de Maquina Enigma](./assests/images/maquina-enigma.jpg 'Máquina Enigma a bordo de un Sd.KFz 251 de Heinz Guderian')](https://es.wikipedia.org/wiki/Enigma_(m%C3%A1quina)#/media/Archivo:Bundesarchiv_Bild_101I-769-0229-10A,_Frankreich,_Guderian,_%22Enigma%22.jpg 'Máquina Enigma a bordo de un Sd.KFz 251 de Heinz Guderian')
+
+Enigma es una máquina electromagnética para cifrar y descifrar mensajes. Es usada por todas las ramas del ejército nazi para encriptar y desencriptar sus comunicaciones. Jocelyn no ha conseguido una de estas máquinas enteras, pero ha conseguido una de sus partes fundamentales, los rotores de conversión. Estudiandolos se podría llegar a crear un sistema para descifrar los mensajes interceptados rápidamente. 
 
 ## Otras misiones en Tobruk
 xxx
@@ -1071,6 +1077,17 @@ xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Notar d4, Persuadir d4, Sigilo d4
+* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+* **Ventajas:** xxx
+* **Desventajas:** xxx
+* **Equipo:** xxx
+
+**Sugerencia de interpretación:** xxx
+
+### Jocelyn Van Croft, espía inglesa &#x2638;
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Idioma Árabe d8, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
 * **Ventajas:** xxx
 * **Desventajas:** xxx
