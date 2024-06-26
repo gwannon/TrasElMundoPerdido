@@ -766,7 +766,7 @@ xxx
 
 [![Detalle de Maquina Enigma](./assests/images/maquina-enigma.jpg 'Máquina Enigma a bordo de un Sd.KFz 251 de Heinz Guderian')](https://es.wikipedia.org/wiki/Enigma_(m%C3%A1quina)#/media/Archivo:Bundesarchiv_Bild_101I-769-0229-10A,_Frankreich,_Guderian,_%22Enigma%22.jpg 'Máquina Enigma a bordo de un Sd.KFz 251 de Heinz Guderian')
 
-Enigma es una máquina electromagnética para cifrar y descifrar mensajes. Es usada por todas las ramas del ejército nazi para encriptar y desencriptar sus comunicaciones. Jocelyn no ha conseguido una de estas máquinas enteras, pero ha conseguido una de sus partes fundamentales, los rotores de conversión. Estudiandolos se podría llegar a crear un sistema para descifrar los mensajes interceptados rápidamente. 
+Enigma es una máquina electromagnética para cifrar y descifrar mensajes. Es usada por todas las ramas del ejército nazi para encriptar y desencriptar sus comunicaciones. Jocelyn no ha conseguido una de estas máquinas enteras, pero ha conseguido una de sus partes fundamentales, los rotores de conversión. Estudiándolos se podría llegar a crear un sistema para descifrar los mensajes interceptados rápidamente. 
 
 ## Otras misiones en Tobruk
 xxx
