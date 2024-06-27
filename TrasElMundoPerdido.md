@@ -37,6 +37,18 @@ Pero no estarán solos en esas aventuras, sino que irán acompañados de dinosau
 [![Foto de los miembros masculinos, ricos y blancos de la expedición al Mundo Perdido](./assests/images/expedicion.jpg 'Page 222 (The Lost World, 1912)')](https://archive.org/details/lostworldbeingac00doylrich/page/11/mode/1up 'Page 222 (The Lost World, 1912)')
 
 ## El mundo perdido
+Todo comienzo en 1910 cuando el excéntrico y genial doctor en Zoología George E. Challenger, que se encontraba de expedición en el Amazonas, fue llamado por una tribu de aborígenes para curar a un estadounidense que habían encontrado medio muerto cerca de su poblado. Cuando llegó, Maple White, que así se llamaba el vagabundo y pintor, desafortunadamente ya había expirado. 
+
+\saltopagina
+
+[![Foto de la meseta](./assests/images/roraima.jpg 'Mañana despejada en Monte Roraima, vista desde la vía que lleva allá desde la comunidad pemón de Paraitepuy, en la Gran Sabana, Venezuela - Paolo Costa Baldi')](https://es.wikipedia.org/wiki/Roraima_(tepuy)#/media/Archivo:Roraima3_(79).JPG 'Mañana despejada en Monte Roraima, vista desde la vía que lleva allá desde la comunidad pemón de Paraitepuy, en la Gran Sabana, Venezuela - Paolo Costa Baldi')
+
+Challenger encontró entre sus objetos personales una libreta de dibujos con extraños bocetos de gigantescas bestias prehistóricas que habitaban una meseta  tremendamente alta y seguramente inaccesible a pie.
+
+Challenger encontró el lugar que Maple había dibujado y lo llamó la "Tierra de Maple White", pero no pudo acceder a ella por falta de material de escalada y provisiones. Aunque consiguió fotografías de pterodáctilos y algunas pruebas físicas como huesos de dinosaurios, lo perdió casi todo en un accidente a su regreso a Londres. Las pocas pruebas que pudo conservar fueron tachadas de fraude y él de farsante.
+
+A pesar de ello, Challenger consiguió el apoyo de Lord Roxton xxx
+
 xxx
 
 \saltopagina
@@ -898,8 +910,6 @@ xxx
 
 ## Carrera al Mundo perdido
 xxx
-
-[![Foto de la meseta](./assests/images/roraima.jpg 'Mañana despejada en Monte Roraima, vista desde la vía que lleva allá desde la comunidad pemón de Paraitepuy, en la Gran Sabana, Venezuela - Paolo Costa Baldi')](https://es.wikipedia.org/wiki/Roraima_(tepuy)#/media/Archivo:Roraima3_(79).JPG 'Mañana despejada en Monte Roraima, vista desde la vía que lleva allá desde la comunidad pemón de Paraitepuy, en la Gran Sabana, Venezuela - Paolo Costa Baldi')
 
 \saltopagina
 
