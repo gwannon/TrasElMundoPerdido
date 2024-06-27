@@ -471,6 +471,18 @@ section:nth-of-type(13) h1 {
   text-shadow: 0 0 20px black;
 }
 
+section:nth-of-type(14) h1 {
+  background: #000 url(../images/estalingrado.jpg) center center no-repeat;
+  background-size: cover;
+  text-shadow: 0 0 20px black;
+}
+
+section:nth-of-type(15) h1 {
+  background: #000 url(../images/regreso-casa.jpg) left center no-repeat;
+  background-size: cover;
+  text-shadow: 0 0 20px black;
+}
+
 section:nth-of-type(16) h1 {
   background: #000 url(../images/regreso.jpg) top right no-repeat;
   background-size: cover;

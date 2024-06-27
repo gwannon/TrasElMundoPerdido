@@ -32,9 +32,10 @@ El [mundo perdido](https://es.wikipedia.org/wiki/El_mundo_perdido) (The Lost Wor
 
 Esta campaña toma como reales todos los hechos que pasan en esa novela y avanza hasta el verano del año 1940. Europa está sumida en la II Guerra mundial y tu mesa encarnará a un grupo de comandos que irán haciendo peligrosas misiones por algunos de los escenarios más característicos de esta guerra. 
 
-Pero no estarán solos en esas aventuras, sino que irán acompañados de dinosaurios sacados de ese mundo perdido y entrenados para ayudar a tus comandos en todo tipo de misiones.   
+Pero no estarán solos en esas aventuras, sino que irán acompañados de dinosaurios sacados de ese mundo perdido y entrenados para ayudar a tus comandos en todo tipo de misiones.  
 
-[![Foto de los miembros masculinos, ricos y blancos de la expedición al Mundo Perdido](./assests/images/expedicion.jpg 'Page 222 (The Lost World, 1912)')](https://archive.org/details/lostworldbeingac00doylrich/page/11/mode/1up 'Page 222 (The Lost World, 1912)')
+
+[![Dibujo de un estegosaurio](./assests/images/estegosaurio-encuentro.jpg 'Encuentro con el Stegosaurus - Arthur Conan Doyle')](https://es.wikipedia.org/wiki/El_mundo_perdido#/media/Archivo:Page_59_(The_Lost_World._1912).jpg 'Encuentro con el Stegosaurus - Arthur Conan Doyle')
 
 ## El mundo perdido
 Todo comienzo en 1910 cuando el excéntrico y genial doctor en Zoología George E. Challenger, que se encontraba de expedición en el Amazonas, fue llamado por una tribu de aborígenes para curar a un estadounidense que habían encontrado medio muerto cerca de su poblado. Cuando llegó, Maple White, que así se llamaba el vagabundo y pintor, desafortunadamente ya había expirado. 
@@ -52,6 +53,8 @@ A pesar de ello, Challenger consiguió el apoyo de Lord Roxton xxx
 xxx
 
 \saltopagina
+
+[![Foto de los miembros masculinos, ricos y blancos de la expedición al Mundo Perdido](./assests/images/expedicion.jpg 'Page 222 (The Lost World, 1912)')](https://archive.org/details/lostworldbeingac00doylrich/page/11/mode/1up 'Page 222 (The Lost World, 1912)')
 
 ### Profesor G. E. Challenger
 xxx
@@ -71,7 +74,6 @@ xxx
 
 \saltopagina
 
-[![Dibujo de un estegosaurio](./assests/images/estegosaurio-encuentro.jpg 'Encuentro con el Stegosaurus - Arthur Conan Doyle')](https://es.wikipedia.org/wiki/El_mundo_perdido#/media/Archivo:Page_59_(The_Lost_World._1912).jpg 'Encuentro con el Stegosaurus - Arthur Conan Doyle')
 
 ## La expedición Roxton
 xxx
@@ -1733,6 +1735,8 @@ No soy propietario de ninguna de las imágenes de este documento. Estoy usando i
 * [Portada "Parte 3: Río de la plata"](https://upload.wikimedia.org/wikipedia/commons/c/ce/Graf_Spee_Wreck_USNphoto_1.jpg)
 * [Portada "Parte 4: Noruega"](https://www.nia.no/en/the-saboteurs/)
 * [Portada "Parte 5: La Francia Ocupada"](https://en.wikipedia.org/wiki/Battle_of_Saint-Malo#/media/File:Bomb_exploding_during_the_Battle_of_Saint-Malo_August_1944.jpg)
+* [Portada "Parte 6: El frente ruso"](https://es.wikipedia.org/wiki/Batalla_de_Stalingrado#/media/Archivo:RIAN_archive_602161_Center_of_Stalingrad_after_liberation.jpg)
+* [Portada "Parte 7: Regreso a casa"](https://garystockbridge617.getarchive.net/amp/media/agare1939-44-1949-58-seereederei-frigga-ag-hemort-hamburg-7e3056)
 * [Portada "Parte 8: Regreso al mundo perdido"](https://es.wikipedia.org/wiki/Roraima_(tepuy)#/media/Archivo:Los_Jacuzzis.jpg)
 * [Portada "Parte 9: La Selva Negra"](https://www.pexels.com/photo/a-view-of-the-hohenzollern-castle-in-germany-13127331/)
 * [Epílogo](https://commons.wikimedia.org/wiki/File:Dinosaur_footprint_%284056320716%29.jpg)
@@ -1747,6 +1751,9 @@ Si necesitas música para ambientar tus partidas estás son algunas ideas:
 
 * BSO de **La gran evasión**: Perfecta para darle un tono épico y otras veces desenfadado. Si tus comandos son unos viejunos seguramente entrarán en ambiente con los primeros compases.
 * BSO de **Violentos de Kelly**: Si quieres un toque más desenfadado a tus aventuras, tiene el punto perfecto.
+
+\saltopagina
+
 * BSO de **Cañones de Navarone**: Otra buena opción para música épica.
 * BSO de **Adiós al rey**: Esta joya de Basil Poleoduris es idónea para momentos trágicos aunque el sonido de flautas a veces no pegue.
 
