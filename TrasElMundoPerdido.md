@@ -1585,12 +1585,12 @@ Como ya hemos contado, la expedición Challenger no solo encontró dinosaurios, 
 ### Cavernícola
 xxx
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Atributos:** Agilidad d6, Astucia d4, Espíritu d6, Fuerza d8, Vigor d8
 * **Habilidades:** Atletismo d4, Conocimientos Generales d4, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
-* **Ventajas:** xxx
-* **Desventajas:** xxx
-* **Equipo:** xxx
+* **Paso:** 6; **Parada:** xxx; **Dureza:** 6
+* **Ventajas:** Matagigantes
+* **Desventajas:** Manazas (menor), Analfabeto (menor)
+* **Equipo:** Pieles (+1 armadura pecho y piernas), hacha de piedra (FUE+d4), lanza de punta de piedra (FUE+d4, parada +1, alcance 1, dos manos)
 
 \saltopagina
 
@@ -1633,12 +1633,14 @@ xxx
 ### Pitecántropo
 xxx
 
-* **Atributos:** Agilidad dX, Astucia dX (A), Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
-* **Ventajas:** xxx
+* **Atributos:** Agilidad d10, Astucia d8 (A), Espíritu d8, Fuerza d6, Vigor d6
+* **Habilidades:** Atletismo d10, Notar d6, Pelear d6, Sigilo d6
+* **Paso:** 6; **Parada:** 5; **Dureza:** 5
+* **Ventajas:** Acróbata
 * **Desventajas:** xxx
-* **Equipo:** xxx
+* **Capacidades especiales:**
+  * **Mordisco:** FUE+d4 de daño.
+  * **Buen trepador:** Paso 8 trepando. Los pitecántropos pasan gran parte de su vida en los árboles y su cuerpo está adaptado a ello. Añaden +2 a sus tiradas de Atletismo cuando trepan.
 
 \saltopagina
 
@@ -1647,16 +1649,17 @@ xxx
 ### Phorusrhacos
 * Carnívoro
 * Terrestre
-* 0x0 casillas
+* 1x1 casillas
 
 xxx
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Atributos:** Agilidad d8, Astucia d4 (A), Espíritu d6, Fuerza d8, Vigor d6
 * **Habilidades:** xxx
-* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
-* **Ventajas:** xxx
+* **Paso:** 8; **Parada:** xxx; **Dureza:** 5
+* **Ventajas:** Pies ligeros, xxx
 * **Desventajas:** xxx
 * **Capacidades especiales:**
+  * **Picotazo:** FUE+d6
 
 ***
 
@@ -1673,33 +1676,14 @@ Toda esta campaña es principalmente producto de mi gusto por los crossover en d
 
 Y sinceramente porque los dinosaurios molan.
 
-### ¿Mujeres en la II Guerra Mundial?
-Si te haces esta pregunta, con 5 minutos buscando en internet podrás ver que su participación fue mucha y muy importante tanto en primera línea de combate, como en casa con el esfuerzo de guerra, como espías y descifrando códigos, etc. Si en tu mesa oyes que no puede o debe haber PJ femeninos, ya te digo que mejor vete de ahí.
-
-He tratado de hacer esta ambientación lo más inclusiva y abierta que puedo y es por ello que estoy seguro de que habré hecho muchas cosas mal.
-
-He tratado de que haya diversidad entre PNJ con todo tipo de opciones de género, raza, etc. y sin definir su orientación sexual para que DJ puedas decidirla a tu gusto. He tratado de evitar clichés y espero haberlo hecho, pero sois muy libres de cambiarlo a vuestro gusto.
-
-### Maltrato animal
-Estoy totalmente en contra del maltrato animal y espero que las personas que vayan a jugar esta campaña sientan el mismo respeto que yo por los animales y el medio ambiente en general. Mi idea al crear esta campaña es que los dinosaurios fueran personajes importantes en la trama que luchen y sufran como los PJ y que se haga lo que sea necesario para protegerlos y viceversa. 
-
-\saltopagina
-
-La muerte de un dinosaurio no puede ser algo banal, debe tener una justificación y ser importante en una trama, ya que son tan importantes como los PJ de las personas de tu mesa. Si en tu mesa se usan a los compañeros dinosaurios como objetos de usar tirar y donde no importa si sufren o mueren, tómatelo como una tremenda "red flag".  
-
-Para aportar mi granito de arena os diré que el servidor donde se aloja esta ambientación es un servidor verde certificado por la [Green Web Foundation](https://www.thegreenwebfoundation.org/green-web-check/?url=https%3A%2F%2Fmundoperdido.gwannon.com%2F).
-
-### Suicidio
-El suicidio es un tema tratado, aunque sea un poco de pasada, en esta campaña. Es un tema espinoso que no debemos tomarlo a la ligera. Es por ello que creo que ser cuidadoso a la hora de mostrarlo o eliminarlo si crees que no tu mesa no está preparado. Como decimos más adelante establece si lo ves necesarios los velos y las herramientas de seguridad necesarias para tratarlo.
-
-### Fascismo y nazismo
-Esta campaña va de joder los malvados planes de los nazis, así que cualquier tipo de actividad en partida que suponga simpatizar con nazis y fascistas y su ideología debería ser una "red flag" clarísima. Si tus compañeros y compañeras de mesa ensalzan de alguna manera las ideas de nazis y fascistas, deberías levantarte e irte y si eres tú, él o la que las ensalza que sepas que eres un pedazo de mierda. 
-
 ### Veracidad histórica
 Ninguna, ya que para empezar hay dinosaurios. El espíritu de esta campaña está más cerca del pulp y de las películas de evasiones y misiones imposibles de la II Guerra Mundial que de los hechos históricos. La veracidad ha sido sacrificada en pos de la aventura. Por ejemplo, se busca más que haya un épico combate a puñetazos sobre la superficie de un zepelín al hecho de estos cayeron en desuso antes de empezar la guerra.  
 
 ### ¿Puedo hacer lo quiera con esta campaña?
 Sí, puedes. Con referenciarla puedes hacer lo que quieras. Si te gusta como se trata la II Guerra Mundial, olvídate de los dinosaurios y juega una aventura de comandos. O puedes usar las estadísticas de los dinosaurios y hacer una aventura en el Mundo Perdido.
+
+### Participar en el proyecto
+Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a través de GitHub en este [proyecto](https://github.com/gwannon/TrasElMundoPerdido). Si no estás familiarizado con Git, pues me mandas un DM en Twitter a [@Gwannon](https://twitter.com/gwannon) y hablamos.
 
 \saltopagina
 
@@ -1713,14 +1697,33 @@ Aquí tienes algunas herramientas de seguridad que puedes usar:
 * [DEVIR](https://devir.es/herramientas-seguridad-rol)
 * [NetCon](https://www.netconplay.com/guia-de-buenas-practicas/herramientas-en-la-mesa/)
 
-### Participar en el proyecto
-Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a través de GitHub en este [proyecto](https://github.com/gwannon/TrasElMundoPerdido). Si no estás familiarizado con Git, pues me mandas un DM en Twitter a [@Gwannon](https://twitter.com/gwannon) y hablamos.
+### ¿Mujeres en la II Guerra Mundial?
+Si vas a hacer esta pregunta, mejor pierde 5 minutos buscando en internet podrás ver que su participación fue mucha y muy importante tanto en primera línea de combate, como en casa con el esfuerzo de guerra, como espías y descifrando códigos, etc. Si en tu mesa oyes que no puede o debe haber PJ femeninos, ya te digo que mejor vete de ahí.
+
+He tratado de hacer esta ambientación lo más inclusiva y abierta que puedo y es por ello que estoy seguro de que habré hecho muchas cosas mal.
+
+He tratado de que haya diversidad entre PNJ con todo tipo de opciones de género, raza, etc. y sin definir su orientación sexual para que DJ puedas decidirla a tu gusto. He tratado de evitar clichés y espero haberlo hecho, pero sois muy libres de cambiarlo a vuestro gusto.
+
+\saltopagina
+
+### Maltrato animal
+Estoy totalmente en contra del maltrato animal y espero que las personas que vayan a jugar esta campaña sientan el mismo respeto que yo por los animales y el medio ambiente en general. Mi idea al crear esta campaña es que los dinosaurios fueran personajes importantes en la trama que luchen y sufran como los PJ y que se haga lo que sea necesario para protegerlos y viceversa. 
+
+La muerte de un dinosaurio no puede ser algo banal, debe tener una justificación y ser importante en una trama, ya que son tan importantes como los PJ de las personas de tu mesa. Si en tu mesa se usan a los compañeros dinosaurios como objetos de usar tirar y donde no importa si sufren o mueren, tómatelo como una tremenda "red flag".  
+
+Para aportar mi granito de arena os diré que el servidor donde se aloja esta ambientación es un servidor verde certificado por la [Green Web Foundation](https://www.thegreenwebfoundation.org/green-web-check/?url=https%3A%2F%2Fmundoperdido.gwannon.com%2F).
+
+### Suicidio
+El suicidio es un tema tratado, aunque sea un poco de pasada, en esta campaña. Es un tema espinoso que no debemos tomarlo a la ligera. Es por ello que creo que ser cuidadoso a la hora de mostrarlo o eliminarlo si crees que no tu mesa no está preparado. Como decimos más adelante establece si lo ves necesarios los velos y las herramientas de seguridad necesarias para tratarlo.
+
+### Fascismo y nazismo
+Esta campaña va de joder los malvados planes de los nazis, así que cualquier tipo de actividad en partida que suponga simpatizar con nazis y fascistas y su ideología debería ser una "red flag" clarísima. Si tus compañeros y compañeras de mesa ensalzan de alguna manera las ideas de nazis y fascistas, deberías levantarte e irte y si eres tú, él o la que las ensalza que sepas que eres un pedazo de mierda. 
+
+\saltopagina
 
 ## Atribuciones
 * Los dinosaurios están basados en [Savage Free Bestiary](https://docs.google.com/document/d/1qu4zzMYbPqOquVlCfgpPeoCmCEqGUgWh5dz-rpKJ1ck/edit?hl=it&authkey=CIySp98E#heading=h.7xcwydin4cfe)
 * [Libro original](https://archive.org/details/lostworldbeingac00doylrich/page/n220/mode/1up) en inglés con ilustraciones
-
-\saltopagina
 
 ### Imágenes
 No soy propietario de ninguna de las imágenes de este documento. Estoy usando imágenes con licencia CC y atribuyéndola a su propietario. Si hay algún error, hacédmelo saber para corregirlo. Estas son las imágenes que por diseño no he podido atribuir de manera adecuada enlazándolas correctamente.
@@ -1745,17 +1748,6 @@ No soy propietario de ninguna de las imágenes de este documento. Estoy usando i
 * [Sello Top Secret](https://pixabay.com/es/illustrations/ultra-secreto-confidencial-2054429/)
 * [Siluetas de dinosaurios](https://www.cleanpng.com/free/dinosaur-silhouette.html)
 * [Celo](https://www.freepik.com/free-vector/plastic-adhesive-duct-tape-set-with-transparent-background-realistic-images-with-pieces-sealing-tape-vector-illustration_132327926.htm)
-
-## Música para ambientar
-Si necesitas música para ambientar tus partidas estás son algunas ideas:
-
-* BSO de **La gran evasión**: Perfecta para darle un tono épico y otras veces desenfadado. Si tus comandos son unos viejunos seguramente entrarán en ambiente con los primeros compases.
-* BSO de **Violentos de Kelly**: Si quieres un toque más desenfadado a tus aventuras, tiene el punto perfecto.
-
-\saltopagina
-
-* BSO de **Cañones de Navarone**: Otra buena opción para música épica.
-* BSO de **Adiós al rey**: Esta joya de Basil Poleoduris es idónea para momentos trágicos aunque el sonido de flautas a veces no pegue.
 
 \saltopagina
 

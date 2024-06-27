@@ -1,0 +1,885 @@
+InfoKey: Subject
+InfoValue: OPERACIÓN: Tras El Mundo Perdido es una campaña para el juego de rol Savage Worlds con la que podrás jugar aventuras durante la Segunda Guerra Mundial con un comando del ejército inglés que usa dinosaurios en sus misiones contra los nazis. Versión 0.3
+
+InfoKey: Author
+InfoValue: @Gwannon
+
+InfoKey: Keywords
+InfoValue: juego de rol, Savage Worlds, dinosaurios, nazis, II Guerra Mundial
+
+BookmarkBegin
+BookmarkTitle: Portada
+BookmarkLevel: 1
+BookmarkPageNumber: 1
+BookmarkBegin
+BookmarkTitle: Campaña para Savage WorldsEdición Aventura
+BookmarkLevel: 3
+BookmarkPageNumber: 1
+BookmarkBegin
+BookmarkTitle: Una campaña donde lucharás contra nazis a lomos de dinosaurios.
+BookmarkLevel: 2
+BookmarkPageNumber: 1
+BookmarkBegin
+BookmarkTitle: Licencia de uso
+BookmarkLevel: 2
+BookmarkPageNumber: 3
+BookmarkBegin
+BookmarkTitle: Hace 65 millones de años los dinosaurios dominaron la Tierra ...
+BookmarkLevel: 1
+BookmarkPageNumber: 5
+BookmarkBegin
+BookmarkTitle: ... Y ahora han vuelto para matar nazis.
+BookmarkLevel: 2
+BookmarkPageNumber: 6
+BookmarkBegin
+BookmarkTitle: La Fundación Roxton
+BookmarkLevel: 1
+BookmarkPageNumber: 7
+BookmarkBegin
+BookmarkTitle: El mundo perdido
+BookmarkLevel: 2
+BookmarkPageNumber: 8
+BookmarkBegin
+BookmarkTitle: Profesor G. E. Challenger
+BookmarkLevel: 3
+BookmarkPageNumber: 10
+BookmarkBegin
+BookmarkTitle: Lord John Roxton
+BookmarkLevel: 3
+BookmarkPageNumber: 10
+BookmarkBegin
+BookmarkTitle: Edward Malone
+BookmarkLevel: 3
+BookmarkPageNumber: 10
+BookmarkBegin
+BookmarkTitle: Una aventura increíble
+BookmarkLevel: 3
+BookmarkPageNumber: 10
+BookmarkBegin
+BookmarkTitle: La expedición Roxton
+BookmarkLevel: 2
+BookmarkPageNumber: 12
+BookmarkBegin
+BookmarkTitle: Descubrimientos asombrosos
+BookmarkLevel: 3
+BookmarkPageNumber: 12
+BookmarkBegin
+BookmarkTitle: Política de no intromisión
+BookmarkLevel: 3
+BookmarkPageNumber: 13
+BookmarkBegin
+BookmarkTitle: La Fundación Roxton hoy en día
+BookmarkLevel: 2
+BookmarkPageNumber: 13
+BookmarkBegin
+BookmarkTitle: Lady Roxton
+BookmarkLevel: 3
+BookmarkPageNumber: 13
+BookmarkBegin
+BookmarkTitle: Las actividades oficiales de la Fundación
+BookmarkLevel: 3
+BookmarkPageNumber: 14
+BookmarkBegin
+BookmarkTitle: Las instalaciones de la Fundación Roxton
+BookmarkLevel: 3
+BookmarkPageNumber: 15
+BookmarkBegin
+BookmarkTitle: Habitats
+BookmarkLevel: 4
+BookmarkPageNumber: 15
+BookmarkBegin
+BookmarkTitle: Castillo de Dunvegan
+BookmarkLevel: 4
+BookmarkPageNumber: 16
+BookmarkBegin
+BookmarkTitle: La forja de Weyland
+BookmarkLevel: 4
+BookmarkPageNumber: 16
+BookmarkBegin
+BookmarkTitle: Hospital de dinosaurios
+BookmarkLevel: 4
+BookmarkPageNumber: 16
+BookmarkBegin
+BookmarkTitle: El "Mary Anning" y sus instalaciones
+BookmarkLevel: 3
+BookmarkPageNumber: 16
+BookmarkBegin
+BookmarkTitle: Pieza de artillería antiaérea camuflada
+BookmarkLevel: 4
+BookmarkPageNumber: 17
+BookmarkBegin
+BookmarkTitle: Sala de misiones
+BookmarkLevel: 4
+BookmarkPageNumber: 17
+BookmarkBegin
+BookmarkTitle: Sala de radio
+BookmarkLevel: 4
+BookmarkPageNumber: 17
+BookmarkBegin
+BookmarkTitle: La esclusa de los plesiosaurios
+BookmarkLevel: 4
+BookmarkPageNumber: 18
+BookmarkBegin
+BookmarkTitle: Pajarera de los pterodáctilos
+BookmarkLevel: 4
+BookmarkPageNumber: 18
+BookmarkBegin
+BookmarkTitle: Otras instalaciones del barco
+BookmarkLevel: 4
+BookmarkPageNumber: 18
+BookmarkBegin
+BookmarkTitle: El campamento
+BookmarkLevel: 3
+BookmarkPageNumber: 18
+BookmarkBegin
+BookmarkTitle: Recursos económicos
+BookmarkLevel: 3
+BookmarkPageNumber: 19
+BookmarkBegin
+BookmarkTitle: Acerca de los dinosaurios
+BookmarkLevel: 1
+BookmarkPageNumber: 20
+BookmarkBegin
+BookmarkTitle: Cómo llevar dinosaurios
+BookmarkLevel: 2
+BookmarkPageNumber: 21
+BookmarkBegin
+BookmarkTitle: Carácter de los saurios
+BookmarkLevel: 2
+BookmarkPageNumber: 21
+BookmarkBegin
+BookmarkTitle: Carnívoros terrestres
+BookmarkLevel: 3
+BookmarkPageNumber: 21
+BookmarkBegin
+BookmarkTitle: Carnívoros acuáticos
+BookmarkLevel: 3
+BookmarkPageNumber: 21
+BookmarkBegin
+BookmarkTitle: Carnívoros aéreos
+BookmarkLevel: 3
+BookmarkPageNumber: 21
+BookmarkBegin
+BookmarkTitle: Herbívoros
+BookmarkLevel: 3
+BookmarkPageNumber: 22
+BookmarkBegin
+BookmarkTitle: Vida de los dinosaurios
+BookmarkLevel: 2
+BookmarkPageNumber: 22
+BookmarkBegin
+BookmarkTitle: Dinosaurios vs. tecnología
+BookmarkLevel: 2
+BookmarkPageNumber: 23
+BookmarkBegin
+BookmarkTitle: Dinosaurios en misiones
+BookmarkLevel: 2
+BookmarkPageNumber: 23
+BookmarkBegin
+BookmarkTitle: Misiones de infiltración 
+BookmarkLevel: 3
+BookmarkPageNumber: 23
+BookmarkBegin
+BookmarkTitle: Misiones de reconocimiento aéreo
+BookmarkLevel: 3
+BookmarkPageNumber: 24
+BookmarkBegin
+BookmarkTitle: Misiones acuáticas
+BookmarkLevel: 3
+BookmarkPageNumber: 24
+BookmarkBegin
+BookmarkTitle: Misiones de combate
+BookmarkLevel: 3
+BookmarkPageNumber: 24
+BookmarkBegin
+BookmarkTitle: Misiones de rescate
+BookmarkLevel: 3
+BookmarkPageNumber: 25
+BookmarkBegin
+BookmarkTitle: Alimentación durante las misiones
+BookmarkLevel: 3
+BookmarkPageNumber: 25
+BookmarkBegin
+BookmarkTitle: ¿Qué sabe la gente normal de los dinosaurios?
+BookmarkLevel: 2
+BookmarkPageNumber: 26
+BookmarkBegin
+BookmarkTitle: Mantener en secreto a los dinosaurios
+BookmarkLevel: 2
+BookmarkPageNumber: 26
+BookmarkBegin
+BookmarkTitle: Aliados.
+BookmarkLevel: 3
+BookmarkPageNumber: 27
+BookmarkBegin
+BookmarkTitle: Nazis
+BookmarkLevel: 3
+BookmarkPageNumber: 27
+BookmarkBegin
+BookmarkTitle: Opinión pública
+BookmarkLevel: 3
+BookmarkPageNumber: 27
+BookmarkBegin
+BookmarkTitle: Códigos secretos para los dinosaurios
+BookmarkLevel: 3
+BookmarkPageNumber: 27
+BookmarkBegin
+BookmarkTitle: Reglas especiales para la campaña
+BookmarkLevel: 1
+BookmarkPageNumber: 28
+BookmarkBegin
+BookmarkTitle: Creación de personajes
+BookmarkLevel: 2
+BookmarkPageNumber: 29
+BookmarkBegin
+BookmarkTitle: Arquetipos
+BookmarkLevel: 3
+BookmarkPageNumber: 29
+BookmarkBegin
+BookmarkTitle: Agente de inteligencia
+BookmarkLevel: 4
+BookmarkPageNumber: 29
+BookmarkBegin
+BookmarkTitle: Comando
+BookmarkLevel: 4
+BookmarkPageNumber: 29
+BookmarkBegin
+BookmarkTitle: Conductor/a
+BookmarkLevel: 4
+BookmarkPageNumber: 30
+BookmarkBegin
+BookmarkTitle: Espía
+BookmarkLevel: 4
+BookmarkPageNumber: 30
+BookmarkBegin
+BookmarkTitle: Explorador/a
+BookmarkLevel: 4
+BookmarkPageNumber: 30
+BookmarkBegin
+BookmarkTitle: Ingeniera/o
+BookmarkLevel: 4
+BookmarkPageNumber: 30
+BookmarkBegin
+BookmarkTitle: Paleontóloga/o
+BookmarkLevel: 4
+BookmarkPageNumber: 31
+BookmarkBegin
+BookmarkTitle: Periodista
+BookmarkLevel: 4
+BookmarkPageNumber: 31
+BookmarkBegin
+BookmarkTitle: Remiendatajos
+BookmarkLevel: 4
+BookmarkPageNumber: 31
+BookmarkBegin
+BookmarkTitle: Nuevas reglas
+BookmarkLevel: 2
+BookmarkPageNumber: 31
+BookmarkBegin
+BookmarkTitle: Nuevo uso de benis: Estos tontos humanos
+BookmarkLevel: 3
+BookmarkPageNumber: 31
+BookmarkBegin
+BookmarkTitle: Nuevo uso de benis: Momento de genialidad
+BookmarkLevel: 3
+BookmarkPageNumber: 32
+BookmarkBegin
+BookmarkTitle: Nueva ventaja: Compañero dinosaurio
+BookmarkLevel: 3
+BookmarkPageNumber: 32
+BookmarkBegin
+BookmarkTitle: Nueva ventaja: Los números primos son rojos y huelen dulces
+BookmarkLevel: 3
+BookmarkPageNumber: 32
+BookmarkBegin
+BookmarkTitle: Nueva ventaja para dinosaurios: Aviso de peligro
+BookmarkLevel: 3
+BookmarkPageNumber: 33
+BookmarkBegin
+BookmarkTitle: Nueva ventaja para dinosaurios: Raptor
+BookmarkLevel: 3
+BookmarkPageNumber: 33
+BookmarkBegin
+BookmarkTitle: Nueva ventaja para dinosaurios: Aletas fuertes
+BookmarkLevel: 3
+BookmarkPageNumber: 33
+BookmarkBegin
+BookmarkTitle: Nueva ventaja para dinosaurios: Alas rápidas
+BookmarkLevel: 3
+BookmarkPageNumber: 33
+BookmarkBegin
+BookmarkTitle: Nueva desventaja para dinosaurios: Joven
+BookmarkLevel: 3
+BookmarkPageNumber: 33
+BookmarkBegin
+BookmarkTitle: Nueva desventaja para dinosaurios: Parte de la manada
+BookmarkLevel: 3
+BookmarkPageNumber: 34
+BookmarkBegin
+BookmarkTitle: Vehículos
+BookmarkLevel: 2
+BookmarkPageNumber: 35
+BookmarkBegin
+BookmarkTitle: Dinosaurios como vehículos
+BookmarkLevel: 3
+BookmarkPageNumber: 35
+BookmarkBegin
+BookmarkTitle: Equipo especial
+BookmarkLevel: 2
+BookmarkPageNumber: 36
+BookmarkBegin
+BookmarkTitle: Cápsulas de suicidio
+BookmarkLevel: 3
+BookmarkPageNumber: 36
+BookmarkBegin
+BookmarkTitle: Maletín de revelado de foto
+BookmarkLevel: 3
+BookmarkPageNumber: 36
+BookmarkBegin
+BookmarkTitle: Radio de campaña
+BookmarkLevel: 3
+BookmarkPageNumber: 37
+BookmarkBegin
+BookmarkTitle: Otro equipo especial
+BookmarkLevel: 3
+BookmarkPageNumber: 37
+BookmarkBegin
+BookmarkTitle: Equipo para dinosaurios
+BookmarkLevel: 2
+BookmarkPageNumber: 38
+BookmarkBegin
+BookmarkTitle: Arnés acuático
+BookmarkLevel: 3
+BookmarkPageNumber: 38
+BookmarkBegin
+BookmarkTitle: Arnés con cámara fotográfica
+BookmarkLevel: 3
+BookmarkPageNumber: 38
+BookmarkBegin
+BookmarkTitle: Arnés de vuelo
+BookmarkLevel: 3
+BookmarkPageNumber: 39
+BookmarkBegin
+BookmarkTitle: Barda
+BookmarkLevel: 3
+BookmarkPageNumber: 39
+BookmarkBegin
+BookmarkTitle: Collar de entrenamiento y mando de control
+BookmarkLevel: 3
+BookmarkPageNumber: 40
+BookmarkBegin
+BookmarkTitle: Disfraces y otros métodos de ocultación
+BookmarkLevel: 3
+BookmarkPageNumber: 40
+BookmarkBegin
+BookmarkTitle: Pinturas de camuflaje
+BookmarkLevel: 4
+BookmarkPageNumber: 40
+BookmarkBegin
+BookmarkTitle: Tiendas de campaña de camuflaje
+BookmarkLevel: 4
+BookmarkPageNumber: 41
+BookmarkBegin
+BookmarkTitle: Disfraces
+BookmarkLevel: 4
+BookmarkPageNumber: 41
+BookmarkBegin
+BookmarkTitle: Inyección letal
+BookmarkLevel: 3
+BookmarkPageNumber: 41
+BookmarkBegin
+BookmarkTitle: Mejoras de combate
+BookmarkLevel: 3
+BookmarkPageNumber: 41
+BookmarkBegin
+BookmarkTitle: Plaustro
+BookmarkLevel: 3
+BookmarkPageNumber: 42
+BookmarkBegin
+BookmarkTitle: Ropa de invierno
+BookmarkLevel: 3
+BookmarkPageNumber: 42
+BookmarkBegin
+BookmarkTitle: Silla de montar y arreos
+BookmarkLevel: 3
+BookmarkPageNumber: 42
+BookmarkBegin
+BookmarkTitle: La campaña
+BookmarkLevel: 1
+BookmarkPageNumber: 43
+BookmarkBegin
+BookmarkTitle: Resumen
+BookmarkLevel: 2
+BookmarkPageNumber: 44
+BookmarkBegin
+BookmarkTitle: Orden cronológico
+BookmarkLevel: 3
+BookmarkPageNumber: 44
+BookmarkBegin
+BookmarkTitle: Preparando las misiones
+BookmarkLevel: 2
+BookmarkPageNumber: 45
+BookmarkBegin
+BookmarkTitle: Dinosaurios
+BookmarkLevel: 3
+BookmarkPageNumber: 45
+BookmarkBegin
+BookmarkTitle: Equipamiento
+BookmarkLevel: 3
+BookmarkPageNumber: 45
+BookmarkBegin
+BookmarkTitle: Los viajes
+BookmarkLevel: 2
+BookmarkPageNumber: 46
+BookmarkBegin
+BookmarkTitle: Personalizando y continuando la campaña
+BookmarkLevel: 2
+BookmarkPageNumber: 46
+BookmarkBegin
+BookmarkTitle: Más Mundos Perdidos y más especies de dinosaurios
+BookmarkLevel: 3
+BookmarkPageNumber: 46
+BookmarkBegin
+BookmarkTitle: Otros conflictos bélicos
+BookmarkLevel: 3
+BookmarkPageNumber: 47
+BookmarkBegin
+BookmarkTitle: Ciencia extraña
+BookmarkLevel: 3
+BookmarkPageNumber: 47
+BookmarkBegin
+BookmarkTitle: Otras formas de magia
+BookmarkLevel: 3
+BookmarkPageNumber: 47
+BookmarkBegin
+BookmarkTitle: Mentalismo
+BookmarkLevel: 4
+BookmarkPageNumber: 47
+BookmarkBegin
+BookmarkTitle: Magia negra, vudú y nigromancia
+BookmarkLevel: 4
+BookmarkPageNumber: 48
+BookmarkBegin
+BookmarkTitle: Parte 1: La isla de Skye
+BookmarkLevel: 1
+BookmarkPageNumber: 49
+BookmarkBegin
+BookmarkTitle: Reclutamiento
+BookmarkLevel: 2
+BookmarkPageNumber: 50
+BookmarkBegin
+BookmarkTitle: Entrenamiento
+BookmarkLevel: 2
+BookmarkPageNumber: 50
+BookmarkBegin
+BookmarkTitle: Dinosaurios a la fuga
+BookmarkLevel: 2
+BookmarkPageNumber: 50
+BookmarkBegin
+BookmarkTitle: Primera misión
+BookmarkLevel: 2
+BookmarkPageNumber: 50
+BookmarkBegin
+BookmarkTitle: Embarcando en el "Mary Anning"
+BookmarkLevel: 2
+BookmarkPageNumber: 50
+BookmarkBegin
+BookmarkTitle: Parte 2: Norte de África
+BookmarkLevel: 1
+BookmarkPageNumber: 51
+BookmarkBegin
+BookmarkTitle: Sitio de Tobruk
+BookmarkLevel: 2
+BookmarkPageNumber: 52
+BookmarkBegin
+BookmarkTitle: La maquina enigma
+BookmarkLevel: 3
+BookmarkPageNumber: 52
+BookmarkBegin
+BookmarkTitle: Otras misiones en Tobruk
+BookmarkLevel: 2
+BookmarkPageNumber: 52
+BookmarkBegin
+BookmarkTitle: Parte 3: Río de la plata
+BookmarkLevel: 1
+BookmarkPageNumber: 53
+BookmarkBegin
+BookmarkTitle: Batalla del Río de la Plata
+BookmarkLevel: 2
+BookmarkPageNumber: 54
+BookmarkBegin
+BookmarkTitle: Otras misiones en el Río de la Plata
+BookmarkLevel: 2
+BookmarkPageNumber: 54
+BookmarkBegin
+BookmarkTitle: Parte 4: Noruega
+BookmarkLevel: 1
+BookmarkPageNumber: 55
+BookmarkBegin
+BookmarkTitle: Operación Gunnerside
+BookmarkLevel: 2
+BookmarkPageNumber: 56
+BookmarkBegin
+BookmarkTitle: Otras misiones En Noruega
+BookmarkLevel: 2
+BookmarkPageNumber: 56
+BookmarkBegin
+BookmarkTitle: Parte 5: Normandía
+BookmarkLevel: 1
+BookmarkPageNumber: 57
+BookmarkBegin
+BookmarkTitle: Preparando el día D
+BookmarkLevel: 2
+BookmarkPageNumber: 58
+BookmarkBegin
+BookmarkTitle: Otras misiones en Normandía
+BookmarkLevel: 2
+BookmarkPageNumber: 58
+BookmarkBegin
+BookmarkTitle: Arte robado
+BookmarkLevel: 3
+BookmarkPageNumber: 58
+BookmarkBegin
+BookmarkTitle: Parte 6: El frente ruso
+BookmarkLevel: 1
+BookmarkPageNumber: 59
+BookmarkBegin
+BookmarkTitle: El sitio de Stalingrado
+BookmarkLevel: 2
+BookmarkPageNumber: 60
+BookmarkBegin
+BookmarkTitle: Otras misiones en Stalingrado
+BookmarkLevel: 2
+BookmarkPageNumber: 60
+BookmarkBegin
+BookmarkTitle: Parte 7: Regreso a casa
+BookmarkLevel: 1
+BookmarkPageNumber: 61
+BookmarkBegin
+BookmarkTitle: Traición
+BookmarkLevel: 2
+BookmarkPageNumber: 62
+BookmarkBegin
+BookmarkTitle: Parte 8: Regreso al Mundo Perdido
+BookmarkLevel: 1
+BookmarkPageNumber: 63
+BookmarkBegin
+BookmarkTitle: Carrera al Mundo perdido
+BookmarkLevel: 2
+BookmarkPageNumber: 64
+BookmarkBegin
+BookmarkTitle: Misión de rescate
+BookmarkLevel: 2
+BookmarkPageNumber: 65
+BookmarkBegin
+BookmarkTitle: Batalla del Mundo Perdido
+BookmarkLevel: 2
+BookmarkPageNumber: 65
+BookmarkBegin
+BookmarkTitle: El zepelín
+BookmarkLevel: 3
+BookmarkPageNumber: 66
+BookmarkBegin
+BookmarkTitle: Parte 9: La Selva Negra
+BookmarkLevel: 1
+BookmarkPageNumber: 67
+BookmarkBegin
+BookmarkTitle: La fortaleza inexpugnable
+BookmarkLevel: 2
+BookmarkPageNumber: 68
+BookmarkBegin
+BookmarkTitle: El castillo de Hohenzollern
+BookmarkLevel: 3
+BookmarkPageNumber: 70
+BookmarkBegin
+BookmarkTitle: Relatos salvajes
+BookmarkLevel: 1
+BookmarkPageNumber: 71
+BookmarkBegin
+BookmarkTitle: Un día en el museo
+BookmarkLevel: 2
+BookmarkPageNumber: 72
+BookmarkBegin
+BookmarkTitle: Cena de etiqueta
+BookmarkLevel: 2
+BookmarkPageNumber: 72
+BookmarkBegin
+BookmarkTitle: El pecio
+BookmarkLevel: 2
+BookmarkPageNumber: 73
+BookmarkBegin
+BookmarkTitle: Campo minado
+BookmarkLevel: 2
+BookmarkPageNumber: 73
+BookmarkBegin
+BookmarkTitle: Limpiando el puerto
+BookmarkLevel: 2
+BookmarkPageNumber: 73
+BookmarkBegin
+BookmarkTitle: ¿Quién es Marion Fairfax?
+BookmarkLevel: 2
+BookmarkPageNumber: 74
+BookmarkBegin
+BookmarkTitle: Marion Fairfax
+BookmarkLevel: 3
+BookmarkPageNumber: 75
+BookmarkBegin
+BookmarkTitle: Despedidas
+BookmarkLevel: 2
+BookmarkPageNumber: 75
+BookmarkBegin
+BookmarkTitle: El secreto de los Branningan
+BookmarkLevel: 2
+BookmarkPageNumber: 75
+BookmarkBegin
+BookmarkTitle: Espécimen perdido
+BookmarkLevel: 2
+BookmarkPageNumber: 76
+BookmarkBegin
+BookmarkTitle: Titanes de tiempos pretéritos
+BookmarkLevel: 2
+BookmarkPageNumber: 76
+BookmarkBegin
+BookmarkTitle: Semillas de aventuras
+BookmarkLevel: 2
+BookmarkPageNumber: 77
+BookmarkBegin
+BookmarkTitle: La gran evasión
+BookmarkLevel: 3
+BookmarkPageNumber: 77
+BookmarkBegin
+BookmarkTitle: Aliados, antagonistas y dinosaurios
+BookmarkLevel: 1
+BookmarkPageNumber: 78
+BookmarkBegin
+BookmarkTitle: Aliados
+BookmarkLevel: 2
+BookmarkPageNumber: 79
+BookmarkBegin
+BookmarkTitle: Lady Margaret Roxton ☸
+BookmarkLevel: 3
+BookmarkPageNumber: 80
+BookmarkBegin
+BookmarkTitle: Dolores Branningan, capitana del "Mary Anning" ☸
+BookmarkLevel: 3
+BookmarkPageNumber: 80
+BookmarkBegin
+BookmarkTitle: Weyland, armero e ingeniero ☸
+BookmarkLevel: 3
+BookmarkPageNumber: 81
+BookmarkBegin
+BookmarkTitle: General Linton, Inteligencia Militar y enlace con el alto mando ☸
+BookmarkLevel: 3
+BookmarkPageNumber: 81
+BookmarkBegin
+BookmarkTitle: Jocelyn Van Croft, espía inglesa ☸
+BookmarkLevel: 3
+BookmarkPageNumber: 82
+BookmarkBegin
+BookmarkTitle: Antagonistas
+BookmarkLevel: 2
+BookmarkPageNumber: 83
+BookmarkBegin
+BookmarkTitle: Theodor von Liebenfels, general nazi y ocultista ☸
+BookmarkLevel: 3
+BookmarkPageNumber: 83
+BookmarkBegin
+BookmarkTitle: Artur Eckart, científico loco nazi ☸
+BookmarkLevel: 3
+BookmarkPageNumber: 83
+BookmarkBegin
+BookmarkTitle: Irma Bormann, espía de las SS ☸
+BookmarkLevel: 3
+BookmarkPageNumber: 84
+BookmarkBegin
+BookmarkTitle: Secuaces
+BookmarkLevel: 2
+BookmarkPageNumber: 85
+BookmarkBegin
+BookmarkTitle: Infantería
+BookmarkLevel: 3
+BookmarkPageNumber: 85
+BookmarkBegin
+BookmarkTitle: Oficial
+BookmarkLevel: 3
+BookmarkPageNumber: 85
+BookmarkBegin
+BookmarkTitle: Mujeres y hombres de ciencia
+BookmarkLevel: 3
+BookmarkPageNumber: 86
+BookmarkBegin
+BookmarkTitle: Tripulante del Mary Anning
+BookmarkLevel: 3
+BookmarkPageNumber: 86
+BookmarkBegin
+BookmarkTitle: Combatiente de la guerrilla
+BookmarkLevel: 3
+BookmarkPageNumber: 86
+BookmarkBegin
+BookmarkTitle: Líder de la guerrilla
+BookmarkLevel: 3
+BookmarkPageNumber: 87
+BookmarkBegin
+BookmarkTitle: Infantería nazi
+BookmarkLevel: 3
+BookmarkPageNumber: 87
+BookmarkBegin
+BookmarkTitle: Oficial nazi
+BookmarkLevel: 3
+BookmarkPageNumber: 87
+BookmarkBegin
+BookmarkTitle: Infantería nazi con armamento pesado
+BookmarkLevel: 3
+BookmarkPageNumber: 88
+BookmarkBegin
+BookmarkTitle: Infantería nazi acorazado
+BookmarkLevel: 3
+BookmarkPageNumber: 88
+BookmarkBegin
+BookmarkTitle: Infantería nazi con lanzallamas
+BookmarkLevel: 3
+BookmarkPageNumber: 88
+BookmarkBegin
+BookmarkTitle: Menestral/a
+BookmarkLevel: 3
+BookmarkPageNumber: 89
+BookmarkBegin
+BookmarkTitle: Mercader
+BookmarkLevel: 3
+BookmarkPageNumber: 89
+BookmarkBegin
+BookmarkTitle: Burócrata
+BookmarkLevel: 3
+BookmarkPageNumber: 89
+BookmarkBegin
+BookmarkTitle: Artista
+BookmarkLevel: 3
+BookmarkPageNumber: 90
+BookmarkBegin
+BookmarkTitle: Delincuente de los bajos fondos
+BookmarkLevel: 3
+BookmarkPageNumber: 90
+BookmarkBegin
+BookmarkTitle: Dinosaurios del Mundo Perdido
+BookmarkLevel: 2
+BookmarkPageNumber: 91
+BookmarkBegin
+BookmarkTitle: Alosaurio
+BookmarkLevel: 3
+BookmarkPageNumber: 91
+BookmarkBegin
+BookmarkTitle: Estegosaurio
+BookmarkLevel: 3
+BookmarkPageNumber: 93
+BookmarkBegin
+BookmarkTitle: Ictiosaurio
+BookmarkLevel: 3
+BookmarkPageNumber: 95
+BookmarkBegin
+BookmarkTitle: Iguanodon
+BookmarkLevel: 3
+BookmarkPageNumber: 96
+BookmarkBegin
+BookmarkTitle: Megalosaurio
+BookmarkLevel: 3
+BookmarkPageNumber: 98
+BookmarkBegin
+BookmarkTitle: Plesiosaurio
+BookmarkLevel: 3
+BookmarkPageNumber: 99
+BookmarkBegin
+BookmarkTitle: Pterodáctilo
+BookmarkLevel: 3
+BookmarkPageNumber: 100
+BookmarkBegin
+BookmarkTitle: Otros animales y seres prehistóricos del Mundo Perdido:
+BookmarkLevel: 2
+BookmarkPageNumber: 101
+BookmarkBegin
+BookmarkTitle: Cavernícola
+BookmarkLevel: 3
+BookmarkPageNumber: 102
+BookmarkBegin
+BookmarkTitle: Glyptodon
+BookmarkLevel: 3
+BookmarkPageNumber: 103
+BookmarkBegin
+BookmarkTitle: Megaloceros
+BookmarkLevel: 3
+BookmarkPageNumber: 104
+BookmarkBegin
+BookmarkTitle: Pitecántropo
+BookmarkLevel: 3
+BookmarkPageNumber: 105
+BookmarkBegin
+BookmarkTitle: Phorusrhacos
+BookmarkLevel: 3
+BookmarkPageNumber: 106
+BookmarkBegin
+BookmarkTitle: Epílogo
+BookmarkLevel: 1
+BookmarkPageNumber: 107
+BookmarkBegin
+BookmarkTitle: Notas del autor
+BookmarkLevel: 2
+BookmarkPageNumber: 108
+BookmarkBegin
+BookmarkTitle: ¿Por qué Savage Worlds?
+BookmarkLevel: 3
+BookmarkPageNumber: 108
+BookmarkBegin
+BookmarkTitle: ¿Por qué dinosaurios contra nazis?
+BookmarkLevel: 3
+BookmarkPageNumber: 108
+BookmarkBegin
+BookmarkTitle: Veracidad histórica
+BookmarkLevel: 3
+BookmarkPageNumber: 108
+BookmarkBegin
+BookmarkTitle: ¿Puedo hacer lo quiera con esta campaña?
+BookmarkLevel: 3
+BookmarkPageNumber: 108
+BookmarkBegin
+BookmarkTitle: Participar en el proyecto
+BookmarkLevel: 3
+BookmarkPageNumber: 108
+BookmarkBegin
+BookmarkTitle: Define los velos y herramientas de seguridad
+BookmarkLevel: 3
+BookmarkPageNumber: 109
+BookmarkBegin
+BookmarkTitle: ¿Mujeres en la II Guerra Mundial?
+BookmarkLevel: 3
+BookmarkPageNumber: 109
+BookmarkBegin
+BookmarkTitle: Maltrato animal
+BookmarkLevel: 3
+BookmarkPageNumber: 110
+BookmarkBegin
+BookmarkTitle: Suicidio
+BookmarkLevel: 3
+BookmarkPageNumber: 110
+BookmarkBegin
+BookmarkTitle: Fascismo y nazismo
+BookmarkLevel: 3
+BookmarkPageNumber: 110
+BookmarkBegin
+BookmarkTitle: Atribuciones
+BookmarkLevel: 2
+BookmarkPageNumber: 111
+BookmarkBegin
+BookmarkTitle: Imágenes
+BookmarkLevel: 3
+BookmarkPageNumber: 111
+BookmarkBegin
+BookmarkTitle: Otros proyectos que te pueden interesar
+BookmarkLevel: 2
+BookmarkPageNumber: 112
+BookmarkBegin
+BookmarkTitle: Tras el Mundo Perdido
+BookmarkLevel: 4
+BookmarkPageNumber: 113
+BookmarkBegin
+BookmarkTitle: Contraportada
+BookmarkLevel: 1
+BookmarkPageNumber: 113
