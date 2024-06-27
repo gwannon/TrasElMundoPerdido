@@ -1637,7 +1637,7 @@ xxx
 * **Habilidades:** Atletismo d10, Notar d6, Pelear d6, Sigilo d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
 * **Ventajas:** Acróbata
-* **Desventajas:** xxx
+* **Desventajas:** Cobarde (mayor)
 * **Capacidades especiales:**
   * **Mordisco:** FUE+d4 de daño.
   * **Buen trepador:** Paso 8 trepando. Los pitecántropos pasan gran parte de su vida en los árboles y su cuerpo está adaptado a ello. Añaden +2 a sus tiradas de Atletismo cuando trepan.
