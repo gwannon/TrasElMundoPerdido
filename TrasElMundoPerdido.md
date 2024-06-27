@@ -472,7 +472,7 @@ El comando que adquiere esta ventaja puede convertir a un dinosaurio con el que 
 * Lo primero será darle nombre
 * El **compañero dinosaurio se convierte en comodín** con lo que tiene sus propios benis y su dado de héroe.
 * Por **cada Rango que alcance el comando el compañero conseguirá un avance**. Si se coge esta ventaja siendo experimentado, el compañero tendrá derecho a dos avances por Novato y por Experimentado. Cuando alcance el rango de Veterano y siguientes tendrá derecho a un nuevo avance por cada nuevo rango.
-* Habrá que ponerle algún tipo de desventaja mental o física que marque su carácter, como Tozudo, Curioso, etc.
+* Habrá que ponerle 2 desventajas mentales o físicas que marquen su carácter, como Tozudo, Curioso, Joven, etc.
 * El compañero animal no atacará al comando bajo ninguna circunstancia normal.
 * Si por alguna causa fallece el compañero, el héroe podrá reemplazarlo tras 1d4 días. Si lo desea puede cambiar esta ventaja por otra que cumpla los requisitos.
 
@@ -488,30 +488,37 @@ Recibes un **+2 en tiradas en que las matemáticas sean importantes**, desde Apo
 
 ### Nueva ventaja para dinosaurios: Aviso de peligro
 **Requisitos:** Novato, Herbívoro
+
 Llevar milenios siendo una presa ha hecho que ciertos especímenes de tu especie detecte los peligros y tenga un sistema de alarma. Obtienes un +2 a Notar para detectar enemigos y además algún tipo de señal (bramido, golpear el suelo con la cola, chocar las alas, etc.) para avisar al resto de la manada.
 
 ### Nueva ventaja para dinosaurios: Raptor
 **Requisitos:** Novato, Carnívoro
+
 El saurio carnívoro es un experto cazador con lo que puede obtiene +2 a Notar al buscar a su presa y +2 a sigilo al tender emboscadas a sus presas.
 
 ### Nueva ventaja para dinosaurios: Aletas fuertes
 **Requisitos:** Novato, Acuático, Agilidad d6+
+
 El Paso nadando del dinosaurio aumenta en +2.
 
 ### Nueva ventaja para dinosaurios: Alas rápidas
 **Requisitos:** Novato, Vuelo, Agilidad d6+
+
 El Paso de Vuelo del dinosaurio aumenta en +2.
 
 ### Nueva desventaja para dinosaurios: Joven
 **Requisitos:** Novato
+
 El dinosaurio no es un espécimen adulto y todavía no ha llegado a su tamaño de adulto. Es por ello que tiene 1 punto menos de tamaño que lo normal en su especie con todas las consecuencias en Dureza, número de heridas, etc. También supone que el equipamiento que se le ponga no puede usarse en otros dinosaurios de su especie porque es específico para él y viceversa. Adaptarlo de uno a otro llevará 1 hora de trabajo con las herramientas adecuadas.
 
 Podrá quitarse si se quiere gastando un avance conseguido a partir de Experimentado.
 
-### Nueva desventaja para dinosaurios: xxx
+\saltopagina
+
+### Nueva desventaja para dinosaurios: Parte de la manada
 **Requisitos:** Novato
 
-xxx
+Nuestro saurio siempre ha formado parte de una manda y no actúa bien cuando está solo. Todas las tiradas que haga solo fuera de combate tienen un -1.  
 
 \saltopagina
 
@@ -1135,6 +1142,8 @@ xxx
 
 **Sugerencia de interpretación:** xxx
 
+\saltopagina
+
 ### Jocelyn Van Croft, espía inglesa &#x2638;
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
@@ -1203,8 +1212,8 @@ Hablamos de combatientes de baja graduación de cualquier rama del ejército. Se
 * **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
 * **Ventajas:** Soldado, xxx
-* **Desventajas:** Obligaciones (ejército).
-* **Equipo:** Fusil, bayoneta(FUE+d4), casco (+1 dureza cabeza), 2 granadas.
+* **Desventajas:** Obligaciones (ejército)
+* **Equipo:** Fusil, bayoneta(FUE+d4), casco (+1 dureza cabeza), 2 granadas
 
 ### Oficial
 xxx
@@ -1213,8 +1222,8 @@ xxx
 * **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
 * **Ventajas:** Mando, Soldado.
-* **Desventajas:** Obligaciones (ejército).
-* **Equipo:** Pistola, casco (+1 dureza cabeza).
+* **Desventajas:** Obligaciones (ejército)
+* **Equipo:** Pistola, casco (+1 dureza cabeza)
 
 \saltopagina
 
@@ -1246,7 +1255,7 @@ Incluye a cualquier tipo de persona que empuñe un arma y defienda sus tierras d
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
 * **Ventajas:** Soldado, xxx
 * **Desventajas:** xxx
-* **Equipo:** Fusil, machete(FUE+d6), 1 granada.
+* **Equipo:** Fusil, machete(FUE+d6), 1 granada
 
 \saltopagina
 
@@ -1258,29 +1267,30 @@ Todas guerrilla cuenta con una líder o un líder carismático capaz de mover a 
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
 * **Ventajas:** Soldado, xxx
 * **Desventajas:** xxx
-* **Equipo:** Fusil, machete(FUE+d6), 1 granada.
+* **Equipo:** Fusil, machete(FUE+d6), 1 granada
 
 ### Infantería nazi
 Hablamos de combatientes de baja graduación de cualquier rama del ejército nazi. Se pueden personalizar según su trabajo normal, por ejemplo, +1 nivel a Supervivencia si es un explorador o +1 nivel a Conducir si vigila las carreteras en una moto BMW R-71, etc. 
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Alemán d4, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+* **Atributos:** Agilidad d6, Astucia d6, Espíritu d4, Fuerza d8, Vigor d8
+* **Habilidades:** Atletismo d6, Conducir d6, Conocimientos Generales d6, Disparar d8, Idioma Alemán d4, Notar d6, Pelear d6, Persuadir d4, Sigilo d6
+* **Paso:** 6; **Parada:** 5; **Dureza:** 6
 * **Ventajas:** Soldado, xxx
-* **Desventajas:** Obligaciones (ejército).
-* **Equipo:** Fusil, bayoneta(FUE+d4), casco (+1 dureza cabeza), 2 granadas.
+* **Desventajas:** Obligaciones (ejército)
+* **Equipo:** Fusil, bayoneta(FUE+d4), casco (+1 dureza cabeza), 2 granadas
 
 ### Oficial nazi
-xxx
+Hablamos del típico oficial nazi, altivo, déspota, seguramente muy sádico y que siempre está gritando. No tengas ningún reparo en acabar con ellos, la lista de crímenes de guerra y de lesa humanidad que haya cometido será seguramente larguísima, perfectos para que se los coma de un bocado un alosaurio.
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Alemán d4, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
-* **Ventajas:** Mando, Soldado.
-* **Desventajas:** Obligaciones (ejército).
-* **Equipo:** Pistola.
+* **Atributos:** Agilidad d6, Astucia d6, Espíritu d4, Fuerza d6, Vigor d6
+* **Habilidades:** Atletismo d6, Conducir d6, Conocimientos Generales d6, Disparar d8, Idioma Alemán d6, Idioma Inglés d4, Intimidar d8, Notar d8, Pelear d6, Persuadir d6, Sigilo d6
+* **Paso:** 6; **Parada:** 5; **Dureza:** 5
 
 \saltopagina
+
+* **Ventajas:** Mando, Soldado, xxx
+* **Desventajas:** Obligaciones (ejército), Elige 1 (Avaricioso, Sanguinario, Vengativo)
+* **Equipo:** Pistola
 
 ### Infantería nazi con armamento pesado
 xxx
@@ -1289,8 +1299,8 @@ xxx
 * **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Alemán d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
 * **Ventajas:** Soldado, xxx
-* **Desventajas:** xxx
-* **Equipo:** Ametralladora pesada, casco (+1 dureza cabeza).
+* **Desventajas:** Obligaciones (ejército)
+* **Equipo:** Ametralladora pesada, casco (+1 dureza cabeza)
 
 ### Infantería nazi acorazado
 xxx
@@ -1299,8 +1309,8 @@ xxx
 * **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Alemán d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
 * **Ventajas:** Soldado, xxx
-* **Desventajas:** xxx
-* **Equipo:** Subfusil de asalto, peto de malla acorazado (+1 dureza), casco (+1 dureza cabeza).
+* **Desventajas:** Obligaciones (ejército)
+* **Equipo:** Subfusil de asalto, peto de malla acorazado (+1 dureza), casco (+1 dureza cabeza)
 
 ### Infantería nazi con lanzallamas
 xxx
@@ -1308,12 +1318,12 @@ xxx
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Alemán d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
-* **Ventajas:** Soldado, xxx
-* **Desventajas:** xxx
-* **Equipo:** Lanzallamas, traje ignífugo, casco nazi (+1 dureza cabeza).
-
 
 \saltopagina
+
+* **Ventajas:** Soldado, xxx
+* **Desventajas:** xxx
+* **Equipo:** Lanzallamas, traje ignífugo, casco nazi (+1 dureza cabeza)
 
 ### Menestral/a
 Estamos hablando de personas que tiene un oficio manual; desde la herrera del pueblo o el alfarero, hasta los tejedores o los albañiles y carpinteros. Son gente que sabe mucho de su trabajo, pero poco más. Hacen un buen trabajo, cobran por ello y tratan de sobrevivir. Puedes gastar un par de puntos de habilidad en especializarles.
@@ -1360,7 +1370,7 @@ Bailarines y bailarinas, actores y actrices, intérpretes musicales de cualquier
 ### Delincuente de los bajos fondos
 Los oscuros callejones de las grandes ciudades están llenas de este tipo de personajes. Tenemos matones, descuideras, cortabolsas, timadores, ladronas, etc.
 
-* **Atributos:** Agilidad d6, Astucia d4, Espíritu d6, Fuerza d6, Vigor d6.
+* **Atributos:** Agilidad d6, Astucia d4, Espíritu d6, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d6, Conocimientos Generales d6, Disparar d4, Idioma materno d6, Intimidar d6, Latrocinio d6, Notar d6, Pelear d6, Sigilo d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
 * **Desventajas:** Buscado (Mayor, por robos), Elige 1 o más: Avaricioso (Mayor), Canalla (Menor), Cojo (Mayor), Feo (Menor), Habito (Mayor, Cocaína), Manco (Mayor), Mudo (Mayor)
