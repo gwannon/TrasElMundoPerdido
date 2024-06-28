@@ -1067,7 +1067,7 @@ xxx
 
 ## La protesta
 ```
-Un joven activista medioambiental se ha encadenado a la entrada principal que da acceso al castillo Dunvengan y amenaza con prenderse fuego si no paran los experimentos con animales que se realizan en el castillo.
+Un joven activista medioambiental se ha encadenado a la entrada principal del muro exterior del castillo Dunvengan y amenaza con prenderse fuego si no paran los experimentos con animales que se realizan en el castillo.
 ```
 
 xxx
