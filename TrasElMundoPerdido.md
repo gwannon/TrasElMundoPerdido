@@ -48,7 +48,7 @@ Challenger encontró entre sus objetos personales una libreta de dibujos con ext
 
 Challenger encontró el lugar que Maple había dibujado y lo llamó la "Tierra de Maple White", pero no pudo acceder a ella por falta de material de escalada y provisiones. Aunque consiguió fotografías de pterodáctilos y algunas pruebas físicas como huesos de dinosaurios, lo perdió casi todo en un accidente a su regreso a Londres. Las pocas pruebas que pudo conservar fueron tachadas de fraude y él de farsante.
 
-A pesar de ello, Challenger consiguió el apoyo de Lord Roxton xxx
+A pesar de ello, Challenger consiguió el apoyo de Lord John Roxton xxx
 
 xxx
 
@@ -56,14 +56,10 @@ xxx
 
 [![Foto de los miembros masculinos, ricos y blancos de la expedición al Mundo Perdido](./assests/images/expedicion.jpg 'Page 222 (The Lost World, 1912)')](https://archive.org/details/lostworldbeingac00doylrich/page/11/mode/1up 'Page 222 (The Lost World, 1912)')
 
-### Profesor G. E. Challenger
-xxx
-
-### Lord John Roxton
-xxx
-
-### Edward Malone
-xxx
+* **Profesor G. E. Challenger:** xxx
+* **Lord John Roxton:** xxx
+* **Edward Malone:** xxx
+* **Profesor Summerlee:** xxx
 
 ### Una aventura increíble
 xxx
@@ -73,7 +69,6 @@ xxx
 [![Mapa del Mundo Perdido hecho por Maple White](./assests/images/maple-white-mapa.jpg 'Page 222 (The Lost World, 1912)')](https://es.wikipedia.org/wiki/Archivo:Page_222_(The_Lost_World,_1912).jpg 'Page 222 (The Lost World, 1912)')
 
 \saltopagina
-
 
 ## La expedición Roxton
 xxx
@@ -102,6 +97,8 @@ xxx
 Una de las razones de lord Roxton para montar las instalaciones de la Fundación en Escocia, es que los posibles avistamientos de monstruos prehistóricos podían verse como un intento más de un loco escocés queriendo llamar la atención sobre el Lago Ness. De hecho, desde 1930 se han multiplicado los avistamientos de monstruos de todo tipo y estos hechos son rápidamente noticias en la prensa amarilla. Esto hace que los testigos sean desprestigiados rápidamente por la opinión pública y la comunidad científica, a pesar de que muchas veces han podido ser reales.
 
 ### Lady Roxton
+Poco sabía Margaret Roxton, sobrina de Lord Roxton, lo que iba a cambiar su vida cuando el albacea testamentario de su tío se presentó en su para entregarle una fabulosa fortuna y el control de la fundación con su nombre.
+
 xxx
 
 \saltopagina
@@ -1065,6 +1062,27 @@ IM quiere que se usen dinosaurios reales y no efectos especiales para recrear a 
 Si revisan el guion podrán ver que tendrán que rodar escenas disfrazados de trogloditas luchando contra unos dinosaurios. También parece que rodarán con Marina Flowers, una estrella en ascenso de Hollywood, que tiene fama de ser problemática.
 
 xxx
+
+\saltopagina
+
+## La protesta
+```
+Un joven activista medioambiental se ha encadenado a la entrada principal que da acceso al castillo Dunvengan y amenaza con prenderse fuego si no paran los experimentos con animales que se realizan en el castillo.
+```
+
+xxx
+
+### Gerald Durrell &#x2638;
+Este, joven naturalista y activista medioambiental va a ser un pequeño quebradero de cabeza para la Fundación. xxx
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Notar d4, Persuadir d4, Sigilo d4
+* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+* **Ventajas:** xxx
+* **Desventajas:** Joven, xxx
+* **Equipo:** xxx
+
+**Sugerencia de interpretación:** xxx
 
 \saltopagina
 
