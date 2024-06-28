@@ -1416,10 +1416,7 @@ Que no hayan sido encontradas, no quiere decir que en la tierra de Maple White n
 [![Dibujo de un alosaurio](./assests/images/alosaurio.jpg 'De Fred Wierum - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=47577505')](https://es.wikipedia.org/wiki/Allosaurus#/media/Archivo:Allosaurus_Revised.jpg 'De Fred Wierum - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=47577505')
 
 ### Alosaurio
-* Carnívoro
-* Terrestre
-* 4x2 casillas
-* Código: Matilda (por el tanque inglés A12 Matilda II)
+**Carnívoro | Terrestre | 4x2 casillas | Código: Matilda (por el tanque inglés A12 Matilda II)**
 
 xxx
 
@@ -1453,10 +1450,7 @@ Sus potentes piernas también le convierten en el dinosaurio terrestre más ráp
 
 
 ### Estegosaurio
-* Herbívoro
-* Terrestre
-* 3x2 casillas
-* Código: xxx
+**Herbívoro | Terrestre | 3x2 casillas | Código: xxx**
 
 xxx
 
@@ -1485,10 +1479,7 @@ Este saurio es famosos por sus placas dorsales, xxx. También tiene cuatro espin
 [![Dibujo recreación artística de un Ictiosaurio](./assests/images/ictiosaurio.jpg 'Shonisaurus - Nobu Tamura (http://spinops.blogspot.com)')](https://es.wikipedia.org/wiki/Ichthyosauria#/media/Archivo:Shonisaurus_BW_2.jpg 'Shonisaurus - Nobu Tamura (http://spinops.blogspot.com)')
 
 ### Ictiosaurio
-* Carnívoro
-* Acuático
-* 2x1 casillas
-* Código: LCA (Lancha de desembarco)
+**Carnívoro | Acuático | 2x1 casillas | Código: LCA (Lancha de desembarco)**
 
 xxx
 
@@ -1504,10 +1495,7 @@ xxx
 [![Foto artística de un Iguanodon](./assests/images/iguanodon.jpg 'Life restoration of I. galvensis - Caz41985')](https://en.wikipedia.org/wiki/Iguanodon#/media/File:Iguanodon_galvensis.png 'Life restoration of I. galvensis - Caz41985')
 
 ### Iguanodon
-* Herbívoro
-* Terrestre
-* 0x0 casillas
-* Código: Willys (por el vehículo todoterreno Jeep Willys MB)
+**Herbívoro | Terrestre | 0x0 casillas | Código: Willys (por el vehículo todoterreno Jeep Willys MB)**
 
 xxx
 
@@ -1529,10 +1517,7 @@ xxx
 [![Boceto y recreación artística de un Megalosaurio](./assests/images/megalosaurio.jpg 'Megalosaurus por LadyOfHats')](https://es.wikipedia.org/wiki/Megalosaurus_bucklandii#/media/Archivo:Megalosaurus_dinosaur.png 'Megalosaurus por LadyOfHats')
 
 ### Megalosaurio
-* Carnívoro
-* Terrestre
-* 3x2 casillas
-* Código: xxx
+**Carnívoro | Terrestre | 3x2 casillas | Código: xxx**
 
 xxx
 
@@ -1548,10 +1533,7 @@ xxx
 [![Boceto Plesiosaurus dolichodeirus](./assests/images/plesiosaurio.jpg 'Plesiosaurus dolichodeirus Creator: Dmitry Bogdanov')](https://es.m.wikipedia.org/wiki/Archivo:Plesiosaurus_3DB.jpg 'Plesiosaurus dolichodeirus Creator: Dmitry Bogdanov')
 
 ### Plesiosaurio
-* Carnívoro
-* Acuático
-* 3x1 casillas
-* Código: DUKW (Pronunciado como DUCK, PATO en castellano)
+**Carnívoro | Acuático | 3x1 casillas | Código: DUKW (Pronunciado como DUCK, PATO en castellano)**
 
 xxx
 
@@ -1573,10 +1555,7 @@ Su cuerpo está totalmente adaptado a la vida acuática. Su piel no es escamosa,
 [![Dibujo de pterodáctilo volando](./assests/images/pterodactilo.jpg 'Matthew P. Martyniuk')](https://es.wikipedia.org/wiki/Pterodactylus#/media/Archivo:Pterodactylus_holotype_fly_mmartyniuk.png 'Matthew P. Martyniuk')
 
 ### Pterodáctilo
-* Carnívoro
-* Volador
-* 3x1 casillas
-* Código: Spitfire
+**Carnívoro | Volador | 3x1 casillas | Código: Spitfire**
 
 xxx
 
@@ -1615,9 +1594,7 @@ xxx
 [![Foto artística de un Glyptodon](./assests/images/glyptodon.jpg 'Recreación artística de un Glyptodon - Luca Mendieta https://biopicturestudio.blogspot.com/')](https://es.wikipedia.org/wiki/Glyptodon#/media/Archivo:GLYPTODON.jpg 'Recreación artística de un Glyptodon - Luca Mendieta https://biopicturestudio.blogspot.com/')
 
 ### Glyptodon
-* Herbívoro
-* Terrestre
-* 0x0 casillas
+**Herbívoro | Terrestre | 0x0 casillas**
 
 xxx
 
@@ -1633,9 +1610,7 @@ xxx
 [![Boceto de un Megaloceros](./assests/images/megaloceros.jpg 'Various deer of the genera Megaloceros and Praemegaceros, from left to right, M. savini, P. cazioti, P. obscurus, M. pachyosteus, M. giganteus, and P. verticornis (C) Stanton F. Fink - Apokryltaros')](https://it.wikipedia.org/wiki/Megaloceros#/media/File:Megaloceros_Species.jpg 'Various deer of the genera Megaloceros and Praemegaceros, from left to right, M. savini, P. cazioti, P. obscurus, M. pachyosteus, M. giganteus, and P. verticornis (C) Stanton F. Fink - Apokryltaros')
 
 ### Megaloceros
-* Herbívoro
-* Terrestre
-* 0x0 casillas
+**Herbívoro | Terrestre | 0x0 casillas**
 
 xxx
 
@@ -1665,19 +1640,22 @@ xxx
 [![Dibujo de un Phorusrhacos](./assests/images/phorusrhacos.jpg 'Recreación en vida. - ДиБгд')](https://es.wikipedia.org/wiki/Phorusrhacos#/media/Archivo:Phorusrhacos_longissimusDB24.jpg 'Recreación en vida. - ДиБгд')
 
 ### Phorusrhacos
-* Carnívoro
-* Terrestre
-* 1x1 casillas
+**Carnívoro | Terrestre | 1x1 casillas**
 
-xxx
+Estas grandes aves depredadoras no voladoras miden alrededor de 2.5 metros de alto y pesan aproximadamente 130 kilogramos. Usan las garras de sus patas y sus enormes picos para matar a pequeñas presas, también se alimentan de carroña. Se les encuentra normalmente en bosques y pastizales. Se considera entre las mayores aves carnívoras que hayan existido.
 
 * **Atributos:** Agilidad d8, Astucia d4 (A), Espíritu d6, Fuerza d8, Vigor d6
-* **Habilidades:** xxx
-* **Paso:** 8; **Parada:** xxx; **Dureza:** 5
-* **Ventajas:** Pies ligeros, xxx
-* **Desventajas:** xxx
+* **Habilidades:** Atletismo d8, Notar d8, Pelear d8, Sigilo d8
+* **Paso:** 8; **Parada:** 6; **Dureza:** 6
+* **Ventajas:** Pies ligeros
+* **Desventajas:** --
+
+\saltopagina
+
 * **Capacidades especiales:**
-  * **Picotazo:** FUE+d6
+  * **Tamaño +1:** Ronda os 2,5 m de alto y los 130 kg.
+  * **Picotazo/Garras:** FUE+d6
+  * **Camuflaje:** Los colores de su plumaje les permite camuflarse en bosques y pastizales. +1 a Sigilo en bosques y pastizales.
 
 ***
 
