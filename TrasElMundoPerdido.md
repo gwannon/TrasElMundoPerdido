@@ -46,7 +46,7 @@ Todo comienzo en 1910 cuando el excéntrico y genial doctor en Zoología George 
 
 Challenger encontró entre sus objetos personales una libreta de dibujos con extraños bocetos de gigantescas bestias prehistóricas que habitaban una meseta  tremendamente alta y seguramente inaccesible a pie.
 
-Challenger encontró el lugar que Maple había dibujado y lo llamó la "Tierra de Maple White", pero no pudo acceder a ella por falta de material de escalada y provisiones. Aunque consiguió fotografías de pterodáctilos y algunas pruebas físicas como huesos de dinosaurios, lo perdió casi todo en un accidente a su regreso a Londres. Las pocas pruebas que pudo conservar fueron tachadas de fraude y él de farsante.
+Challenger encontró el lugar que Maple había dibujado y lo llamó la "Tierra de Maple White", pero no pudo acceder a ella por falta de material de escalada y provisiones. Aunque consiguió fotografías de pteranodones y algunas pruebas físicas como huesos de dinosaurios, lo perdió casi todo en un accidente a su regreso a Londres. Las pocas pruebas que pudo conservar fueron tachadas de fraude y él de farsante.
 
 A pesar de ello, Challenger consiguió el apoyo de Lord John Roxton xxx
 
@@ -119,9 +119,9 @@ Las instalaciones en la isla no están concentradas en un único lugar, sino que
 Los dinosaurios en libertad a pesar de su tamaño, siguen con instintos de cazador y presa y se ocultan bastante bien entre bosques y maleza alta. Aun así, alguien de la inteligencia nazi puede descubrir el pastel fácilmente si le pone interés.
 
 #### Habitats
-Tras muchos años de estudio se han ido creando una serie de hábitats para cada especie donde viven y son estudiados. Mientras que los pterodáctilos se habituaron rápidamente y sin problemas a los acantilados de la isla donde montaron sus nidos, los carnívoros han sido los más complicados por su carácter, su agresividad y su alimentación. Hábitats actuales.
+Tras muchos años de estudio se han ido creando una serie de hábitats para cada especie donde viven y son estudiados. Mientras que los pteranodones se habituaron rápidamente y sin problemas a los acantilados de la isla donde montaron sus nidos, los carnívoros han sido los más complicados por su carácter, su agresividad y su alimentación. Hábitats actuales.
 
-* **Acantilados oeste** de la isla es la zona de anidación de los pterodáctilos.
+* **Acantilados oeste** de la isla es la zona de anidación de los pteranodones.
 * Aprovechando unas **piscinas naturales** en una de tantas calas de la isla se ha montado un hábitat para los saurios acuáticos.
 * Las **praderas sur de la isla** son perfectas para los estegosaurios y los iguanodones que parecen no tener problemas con las vacas y ovejas que había en los terrenos de la Fundación.
 * Las **praderas norte de la isla** son los dominios de los carnívoros. Se aprovechó una de las penínsulas de la isla que tenía un macizo rocoso en su istmo poniendo muros y rejas en el único paso que hay, por la costa sur de la península. El macizo tiene un sistema de cuevas naturales que sirven de refugio.
@@ -130,7 +130,7 @@ Los saurios terrestres están en semilibertad, ya que pueden moverse por extensa
 
 Los acuáticos y voladores pueden moverse fuera de la isla sin problemas, pero estos no se alejan mucho, aunque ha habido casos de avistamientos. De hecho, hace unos años un plesiosaurio desorientado y enfermo acabo en el lago Ness desatando la locura por Nessy en la zona. 
 
-La Fundación, como santuario natural, paga a los pescadores locales para que no faenen en la zona, por ello, los bancos de peces que sirven de alimento a plesiosaurios, ictiosaurios y pterodáctilos son muy abundantes. Ante esta situación muy pocos ejemplares han querido alejarse de la isla.
+La Fundación, como santuario natural, paga a los pescadores locales para que no faenen en la zona, por ello, los bancos de peces que sirven de alimento a plesiosaurios, ictiosaurios y pteranodones son muy abundantes. Ante esta situación muy pocos ejemplares han querido alejarse de la isla.
 
 \saltopagina
 
@@ -188,11 +188,11 @@ El "Mary Anning" llena unos tanques de agua para el transporte de los saurios ac
 
 Desde el barco se suele lanzar una boya con la que suelen jugar y con la que hacen carreras cuando el barco está en movimiento. No solo sirve para tenerlos entretenidos y en forma. También hace que no se vayan lejos del barco, por ejemplo, buscando presas.
 
-#### Pajarera de los pterodáctilos
-En la cubierta superior, si es necesario, la tripulación del barco puede montar una jaula gigantesca para los pterodáctilos. La pajarera tiene una estructura metálica de mecanotubo que se cubre con malla de cuerda reforzada con cable metálico. El tamaño es de 20m de largo, 5 de ancho y 5 de alto y
+#### Pajarera de los pteranodones
+En la cubierta superior, si es necesario, la tripulación del barco puede montar una jaula gigantesca para los pteranodones. La pajarera tiene una estructura metálica de mecanotubo que se cubre con malla de cuerda reforzada con cable metálico. El tamaño es de 20m de largo, 5 de ancho y 5 de alto y
 se tarda 1,5 horas en montarlo.
 
-La idea es tanto servir de refugio a los pterodáctilos en caso de clima adverso, como, también, un sitio de tenerlos controlados. Como ya hemos dicho, los aéreos son muy asustadizos en solitario y muy valientes en grupo, lo que hace que ante situaciones de estrés puedan huir o atacar, y como vuelan, es muy fácil que sean avistados. La pajarera les permite tener cierto espacio para moverse, pero los mantiene controlados.
+La idea es tanto servir de refugio a los pteranodones en caso de clima adverso, como, también, un sitio de tenerlos controlados. Como ya hemos dicho, los aéreos son muy asustadizos en solitario y muy valientes en grupo, lo que hace que ante situaciones de estrés puedan huir o atacar, y como vuelan, es muy fácil que sean avistados. La pajarera les permite tener cierto espacio para moverse, pero los mantiene controlados.
 
 #### Otras instalaciones del barco
 Además de cosas normales en este tipo de cargueros, como cocina o sala común, cuenta con todas estas instalaciones.
@@ -251,7 +251,7 @@ A priori, los carnívoros son más agresivos en general. En la naturaleza son ca
 Los acuáticos suelen ser más distantes. Vivimos en mundos distintos y eso hace que no entiendan tanto a los humanos como a los dinosaurios terrestres o aéreos. Sin embargo, como cazan normalmente en manadas trabajan muy bien entre ellos.
 
 ### Carnívoros aéreos
-Los pterodáctilos tienen a ser bastante competitivos entre ellos buscando ser el más rápido y mejor cazador. Esto junto a u capacidad de vuelo hace que sean bastante molestos. Pueden pasarse horas mirando quien puede chinchar más a un carnívoro para salir volando cuando estos se enfadan y les atacan. Pero esa capacidad de vuelo ha hecho también que sean un poco cobardes en general, huyendo a la mínima. Sin embargo son más valientes y atrevidos en grupo.
+Los pteranodones tienen a ser bastante competitivos entre ellos buscando ser el más rápido y mejor cazador. Esto junto a u capacidad de vuelo hace que sean bastante molestos. Pueden pasarse horas mirando quien puede chinchar más a un carnívoro para salir volando cuando estos se enfadan y les atacan. Pero esa capacidad de vuelo ha hecho también que sean un poco cobardes en general, huyendo a la mínima. Sin embargo son más valientes y atrevidos en grupo.
 
 \saltopagina
 
@@ -291,11 +291,11 @@ Los dinosaurios atienden a órdenes muy sencillas en estas situaciones como "sil
 Aunque parezca que animales de varias toneladas no pueden esconderse, piensa que durante millones de años la evolución ha ido afilando sus capacidades para el sigilo, tanto los herbívoros para esconderse y no ser atacados, como para los carnívoros con su capacidad de tender emboscadas a sus presas. Ten en cuenta, además, que tienen su camuflaje natural y que la Fundación ha desarrollado diferentes inventos para mejorar su capacidad de infiltrarse.
 
 ### Misiones de reconocimiento aéreo
-Como dinosaurios voladores estas misiones son cosa de los pterodáctilos. Estos saurios voladores han aprendido mediante refuerzo positivo a ir de un humano origen a otro humano destino en más o menos línea recta hasta unos 3 o 4 km. 
+Como dinosaurios voladores estas misiones son cosa de los pteranodones. Estos saurios voladores han aprendido mediante refuerzo positivo a ir de un humano origen a otro humano destino en más o menos línea recta hasta unos 3 o 4 km. 
 
-A partir de ahí solo hay que poner un arnés con cámaras de fotos de precisión con autodisparador y se puede sacar fotos de las instalaciones que el pterodáctilo sobrevuele.
+A partir de ahí solo hay que poner un arnés con cámaras de fotos de precisión con autodisparador y se puede sacar fotos de las instalaciones que el pteranodon sobrevuele.
 
-Es una misión arriesgada porque expone mucho al pterodáctilo a ser visto. La ventaja es que normalmente no miramos al cielo mucho y el ojo no entrenado puede confundirlos con aves de gran tamaño.
+Es una misión arriesgada porque expone mucho al pteranodon a ser visto. La ventaja es que normalmente no miramos al cielo mucho y el ojo no entrenado puede confundirlos con aves de gran tamaño.
 
 ### Misiones acuáticas
 Las misiones acuáticas son exclusivas de plesiosaurios e ictiosaurios. En estas misiones estos dos saurios pueden ayudar a los buzos a moverse más deprisa y a buscar objetos y rescatarlos.
@@ -311,7 +311,7 @@ Los estegosaurios y los iguanodones tampoco se quedan atrás. Son seres que han 
 
 \saltopagina
 
-Por último los pterodáctilos e ictiosaurios y plesiosaurios son muy peligrosos en su medio. Quizás no puedan derribar un UBoat o un Messerschmidt. Pero un buzo no es rival para un ictiosaurio y un pterodáctilo puede atrapar a un soldado nazi, elevarse hasta 100 metros y dejarlo caer en unos pocos segundos.
+Por último los pteranodones e ictiosaurios y plesiosaurios son muy peligrosos en su medio. Quizás no puedan derribar un UBoat o un Messerschmidt. Pero un buzo no es rival para un ictiosaurio y un pteranodon puede atrapar a un soldado nazi, elevarse hasta 100 metros y dejarlo caer en unos pocos segundos.
 
 La Fundación ha entrenado a los saurios para obedecer órdenes como "ataca", "auxilio" o "huye", aunque ten claro que tu compañero difícilmente huirá si estás en peligro.
 
@@ -320,7 +320,7 @@ Las misiones de rescate pueden ser de cualquier índole y no tienen un equipo pe
 
 Lo que si tienes que saber es que siempre necesitarás dos tipos de dinosaurio, el que rescate al objetivo y el que te permita que el anterior rescate al objetivo.
 
-Siguiendo con los ejemplos anteriores, puedes usar la fuerza y la agilidad del iguanodonte para subir al tren saltando desde un puente y rompiendo el techo del tren para sacar a tu rehén y que un pterodáctilo se lleve a los prisioneros y prisioneras volando mientras tú con el iguanodonte cubres la retirada.
+Siguiendo con los ejemplos anteriores, puedes usar la fuerza y la agilidad del iguanodonte para subir al tren saltando desde un puente y rompiendo el techo del tren para sacar a tu rehén y que un pteranodon se lleve a los prisioneros y prisioneras volando mientras tú con el iguanodonte cubres la retirada.
 
 En el caso del castillo puedes usar un estegosaurio y un megalosaurio para montar una distracción. Estos dos son capaces de sobra de distraer a las defensas terrestres del castillo mientras un comando con un plesiosaurio se infiltra por el pozo de agua a través de una red de acuíferos para rescatar 
 a los prisioneros.
@@ -328,7 +328,7 @@ a los prisioneros.
 ### Alimentación durante las misiones
 Además de la ocultación de los dinosaurios, el otro problema principal de llevar a los dinosaurios es alimentarlos. A priori, los herbívoros pueden llevar el alimento almacenado en el barco sin problema y en la misión podrían alimentarse de lo que de la tierra y en caso de necesidad conseguir comida fresca de mercados y de granjas locales no debería ser problemático. Seguramente pueden dejar una hora a sus herbívoros en algún manzanar y que se alimenten de sus frutas o 
 
-El problema son los carnívoros de gran tamaño durante la misión, ya que en viaje el "Mary Anning" tiene unas grandes cámaras frigoríficas con alimento. Los de pequeño tamaño como pterodáctilos o ictiosaurios pueden cazar más o menos de forma segura sin ser detectados por el aire o por el agua. 
+El problema son los carnívoros de gran tamaño durante la misión, ya que en viaje el "Mary Anning" tiene unas grandes cámaras frigoríficas con alimento. Los de pequeño tamaño como pteranodones o ictiosaurios pueden cazar más o menos de forma segura sin ser detectados por el aire o por el agua. 
 
 Como las misiones en principio deberían ser cortas, a lo sumo una semana, los grandes carnívoros deberían poder proveerse sin problemas durante los combates, devorando a nazis y a sus monturas. Piensa que los nazis son una fantástica fuente de proteínas y muchas instalaciones militares solían tener animales de granja como vacas u ovejas para tener ciertos suministros frescos.
 
@@ -553,7 +553,7 @@ Todos queremos ver persecuciones entre dinosaurios y motos nazis por una carrete
 |Iguanodon| | |25 km/h| |1|
 |Megalosaurio| | |50 km/h| |1+1|
 |Plesiosaurio| | |40 km/h| |1|
-|Pterodáctilo|2|+1|95 km/h|9|1|
+|Pteranodon|2|+1|95 km/h|9|1|
 
 Recuerda que los dinosaurios son también parte de la tripulación del vehículo. Así pues, aparte de correr, pueden hacer otras acciones en cada ronda de persecución como atacar al enemigo, derribar árboles para cortar el camino a sus perseguidores, etc.
 
@@ -609,7 +609,7 @@ Adicionalmente, viene con una red de nailon que permite portar hasta 10 kilos en
 > El saurio acuático que lleva el arnés y a un buzo pierde 1 punto de paso en el agua, no por el peso, sino porque estropea su hidrodinámica. 
 
 ### Arnés con cámara fotográfica 
-Este arnés con 1 o más cámaras fotográficas de alta precisión en el pecho se coloca a un pterodáctilo y permiten hacerse foto áreas de posiciones enemigas.
+Este arnés con 1 o más cámaras fotográficas de alta precisión en el pecho se coloca a un pteranodon y permiten hacerse foto áreas de posiciones enemigas.
 
 > Las cámaras tienen una serie de temporizadores que establecen cuándo y cada cuánto tiempo sacar fotos. Para calcular esto se puede hacer una **tirada de Ciencias o de Supervivencia**. Cuanto mayor sea la tirada, más precisas serán las fotos.
 > Con un éxito conseguirán una descripción detallada del lugar y por cada avance podrán hacer dos preguntas para sacar información que pudiera saberse a través de fotografías áreas.
@@ -617,13 +617,13 @@ Este arnés con 1 o más cámaras fotográficas de alta precisión en el pecho s
 \saltopagina
 
 ### Arnés de vuelo
-Este arnés de nailon superligero se coloca sobre el pterodáctilo como si fuera un chaleco. El chaleco tiene unos mosquetes en el vientre al que se engancha el pasajero. El arnés tiene dos especies de mandos de cometas para que el humano pueda indicarle en líneas generales la ruta a seguir. El pterodáctilo no toma los tirones de los mandos como órdenes directas, sino como indicaciones. El saurio es el que decide que acciones de vuelo tomar para más o menos seguir las indicaciones dadas.
+Este arnés de nailon superligero se coloca sobre el pteranodon como si fuera un chaleco. El chaleco tiene unos mosquetes en el vientre al que se engancha el pasajero. El arnés tiene dos especies de mandos de cometas para que el humano pueda indicarle en líneas generales la ruta a seguir. El pteranodon no toma los tirones de los mandos como órdenes directas, sino como indicaciones. El saurio es el que decide que acciones de vuelo tomar para más o menos seguir las indicaciones dadas.
 
-> Un pterodáctilo con un pasajero pierde 1 punto de paso en vuelo. Los comandos sobrecargados de material o de mayor tamaño de lo normal (Fornidos y Obesos) quitan un punto extra de paso en vuelo, al suponer mayor obstáculo a la aerodinámica del saurio volador.
+> Un pteranodon con un pasajero pierde 1 punto de paso en vuelo. Los comandos sobrecargados de material o de mayor tamaño de lo normal (Fornidos y Obesos) quitan un punto extra de paso en vuelo, al suponer mayor obstáculo a la aerodinámica del saurio volador.
 
-> El aterrizaje lo debe ejecutar el humano (tirada de Atletismo). El pterodáctilo reducirá su velocidad al máximo y el humano se soltará los mosquetes al tomar tierra y rodará por el suelo hasta pararse, quedando tendido en el suelo. Si falla, recibirá 2d6 puntos de daño. Por otro lado, podrá gastar avances en conseguir efectos especiales como sacar el arma mientras aterriza o aterrizar de pies en vez de tendido en el suelo.
+> El aterrizaje lo debe ejecutar el humano (tirada de Atletismo). El pteranodon reducirá su velocidad al máximo y el humano se soltará los mosquetes al tomar tierra y rodará por el suelo hasta pararse, quedando tendido en el suelo. Si falla, recibirá 2d6 puntos de daño. Por otro lado, podrá gastar avances en conseguir efectos especiales como sacar el arma mientras aterriza o aterrizar de pies en vez de tendido en el suelo.
 
-> El pterodáctilo **no puede iniciar el vuelo con pasajeros desde el suelo**, debe **lanzarse desde por lo menos 20 metros de altura** para poder coger velocidad en la caída y remontar el vuelo.
+> El pteranodon **no puede iniciar el vuelo con pasajeros desde el suelo**, debe **lanzarse desde por lo menos 20 metros de altura** para poder coger velocidad en la caída y remontar el vuelo.
 
 ### Barda
 Estas armaduras para monturas no son ya muy eficaces en la guerra moderna. Son pesadas, farragosas de llevar y no dan protección frente a armas de fuego modernas. Esto, unido a la protección natural de los dinosaurios, ha hecho que solo sean útiles en muy contadas ocasiones. 
@@ -843,9 +843,26 @@ xxx
 
 ### La maquina enigma
 
-[![Detalle de Maquina Enigma](./assests/images/maquina-enigma.jpg 'Máquina Enigma a bordo de un Sd.KFz 251 de Heinz Guderian')](https://es.wikipedia.org/wiki/Enigma_(m%C3%A1quina)#/media/Archivo:Bundesarchiv_Bild_101I-769-0229-10A,_Frankreich,_Guderian,_%22Enigma%22.jpg 'Máquina Enigma a bordo de un Sd.KFz 251 de Heinz Guderian')
+[![Detalle de Máquina Enigma](./assests/images/maquina-enigma.jpg 'Máquina Enigma a bordo de un Sd.KFz 251 de Heinz Guderian')](https://es.wikipedia.org/wiki/Enigma_(m%C3%A1quina)#/media/Archivo:Bundesarchiv_Bild_101I-769-0229-10A,_Frankreich,_Guderian,_%22Enigma%22.jpg 'Máquina Enigma a bordo de un Sd.KFz 251 de Heinz Guderian')
 
 Enigma es una máquina electromagnética para cifrar y descifrar mensajes. Es usada por todas las ramas del ejército nazi para encriptar y desencriptar sus comunicaciones. Jocelyn no ha conseguido una de estas máquinas enteras, pero ha conseguido una de sus partes fundamentales, los rotores de conversión. Estudiándolos se podría llegar a crear un sistema para descifrar los mensajes interceptados rápidamente. 
+
+xxx
+
+#### Visita a Bletchley Park
+Mientras estaban en la de regreso, recibieron las órdenes de escoltar ellos mismos a Jocelyn y el engranaje hasta las instalaciones militares de Bletchley Park. 
+
+Branningan cree que lo mejor es desembarcar en Portsmouth, de ahí a Oxford y luego Bletchley Park. Tendrán que alquilar un vehículo. El "Mary Anning" con los dinosaurios seguirá por el mar de Irlanda hasta Skye.
+
+\saltopagina
+
+No deben fiarse de nadie hasta llegar a su destino. IM está seguro que hay nazis en suelo inglés con órdenes de destruir el rotor.
+
+xxx
+
+```
+Si hay fans de la informática en tu mesa quizás sea un detalle bonito que [Alan Turing](https://es.wikipedia.org/wiki/Alan_Turing) o [Joan Clarke](https://es.wikipedia.org/wiki/Joan_Clarke) recojan en rotor, se quiten las gafas estupefacta y exclamen "Esto podría cambiar el curso de la guerra. Habéis salvado miles sino millones de vidas".
+```
 
 ## Otras misiones en Tobruk
 xxx
@@ -1055,7 +1072,7 @@ xxx
 
 ## Espécimen perdido
 ```
-Al volver a Skye os informan de que un huevo de pterodáctilo ha desaparecido de su nido. Han encontrado pisadas cerca y los padres tienen señales de lucha.
+Al volver a Skye os informan de que un huevo de pteranodon ha desaparecido de su nido. Han encontrado pisadas cerca y los padres tienen señales de lucha.
 ```
 
 xxx
@@ -1077,7 +1094,7 @@ xxx
 
 ## La protesta
 ```
-Un joven activista medioambiental se ha encadenado a la entrada principal del muro exterior del castillo Dunvengan y amenaza con prenderse fuego si no paran los experimentos con animales que se realizan en el castillo.
+Un joven activista medioambiental se ha encadenado a la entrada principal del muro exterior del castillo Dunvegan y amenaza con prenderse fuego si no paran los experimentos con animales que se realizan en el castillo.
 ```
 
 xxx
@@ -1114,7 +1131,7 @@ Además de los relatos salvajes aquí te propongo una serie de semillas de avent
 Alguien de tus comandos, incluso todos, han caído prisioneros de los nazis y deberán escapar de un campo de prisioneros al más puro estilo "La gran evasión".
 
 ### La epidemia
-Desde el campamento llegan malas noticias una enfermedad está afectando a todos los saurios de la meseta. Quizás la cura exija buscar gente y productos por todo el mundo, incluso igual en el propio Berlín. 
+Desde el campamento llegan malas noticias una enfermedad está afectando a todos los saurios de la meseta. Quizás la cura exija buscar gente y productos por todo el mundo, incluso igual en el propio Berlin. 
 
 ***
 
@@ -1577,9 +1594,9 @@ Un plesiosaurio adulto de talla media crece entre 3 a 5 metros de longitud y pes
 
 Su cuerpo está totalmente adaptado a la vida acuática. Su piel no es escamosa, sino lisa para una mejor hidrodinámica. Tienen un largo cuello que mide más o menos la mitad de su cuerpo y que usa como timón a la hora de nadar. Para terminar, sus extremidades de un metro cada una formaban aletas alargadas, en forma de remo. 
 
-[![Dibujo de pterodáctilo volando](./assests/images/pterodactilo.jpg 'Matthew P. Martyniuk')](https://es.wikipedia.org/wiki/Pterodactylus#/media/Archivo:Pterodactylus_holotype_fly_mmartyniuk.png 'Matthew P. Martyniuk')
+[![Dibujo de pteranodon volando](./assests/images/pteranodon.jpg 'Matthew P. Martyniuk')](https://es.wikipedia.org/wiki/Pterodactylus#/media/Archivo:Pterodactylus_holotype_fly_mmartyniuk.png 'Matthew P. Martyniuk')
 
-### Pterodáctilo
+### Pteranodon
 **Carnívoro | Volador | 3x1 casillas | Código: Spitfire**
 
 xxx
@@ -1592,10 +1609,14 @@ xxx
 * **Capacidades especiales:**
   * **Armadura +1:** Piel escamosa.
   * **Picotazo/Garras:** FUE+d6.
-  * **Volar:** Los pterodáctilos tienen un paso de volando de 12 (solo 4 en la primera ronda, porque sus enormes cuerpos les dificultan volar inicialmente). Tienen una subida de -1.
-  * **Ataque volador:** Cuando el pterodáctilo vuela a toda velocidad, puede realizar un ataque volador, obteniendo un +2 al daño. Si consigue un avance en su tirada de ataque cuando vuela contra un humano o un oponente de menor tamaño, lo atrapa y se lo lleva, probablemente a su nido.
-  * **Tamaño +2:** xxx
+  * **Volar:** Los pteranodones tienen un paso de volando de 12 (solo 4 en la primera ronda, porque sus enormes cuerpos les dificultan volar inicialmente). Tienen una subida de -1.
+  * **Ataque volador:** Cuando el pteranodon vuela a toda velocidad, puede realizar un ataque volador, obteniendo un +2 al daño. Si consigue un avance en su tirada de ataque cuando vuela contra un humano o un oponente de menor tamaño, lo atrapa y se lo lleva, probablemente a su nido.
+  * **Tamaño +2:** Podían llegar a tener una envergadura de alas de 5 o 6 m y un peso de unos 60 kilos.
   * **Lento:** En el suelo solo tiene Paso 4 y no puede correr.
+
+[![Escala Pteranodon](./assests/images/escala-pteranodon.png 'Scale diagram for Pteranodon longiceps by Matt Martyniuk')](https://commons.wikimedia.org/wiki/File:Pteranodon_scale.png 'Scale diagram for Pteranodon longiceps by Matt Martyniuk')
+
+xxx
 
 ## Otros animales y seres prehistóricos del Mundo Perdido:
 Como ya hemos contado, la expedición Challenger no solo encontró dinosaurios, también otros animales prehistóricos como el megaloceros, un alce de gran tamaño que pobló, las praderas de Euroasia. También estuvieron en contacto con homínidos anteriores a los humanos e incluso con humanos primitivos que viven en cavernas. 
