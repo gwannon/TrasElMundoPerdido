@@ -29,6 +29,7 @@
 
 ## Versión 0.3 En desarrollo
 * "Acerca de los dinosaurios" terminado.
+* Creadas imágenes para todos los capítulos
 
 ## Versión 0.2 13/08/2024
 * "La campaña" terminado.

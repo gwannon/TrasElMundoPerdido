@@ -1738,6 +1738,8 @@ No soy propietario de ninguna de las imágenes de este documento. Estoy usando i
 * [Portada "Parte 7: Regreso a casa"](https://garystockbridge617.getarchive.net/amp/media/agare1939-44-1949-58-seereederei-frigga-ag-hemort-hamburg-7e3056)
 * [Portada "Parte 8: Regreso al mundo perdido"](https://es.wikipedia.org/wiki/Roraima_(tepuy)#/media/Archivo:Los_Jacuzzis.jpg)
 * [Portada "Parte 9: La Selva Negra"](https://www.pexels.com/photo/a-view-of-the-hohenzollern-castle-in-germany-13127331/)
+* [Portada "Relatos salvajes"](https://pixabay.com/es/photos/mapa-tierra-sudamerica-geograf%C3%ADa-428639/)
+* [Portada "Aliados, antagonistas y dinosaurios"](https://ca.m.wikipedia.org/wiki/Fitxer:%CE%93%CF%85%CE%BD%CE%B1%CE%AF%CE%BA%CE%B5%CF%82_%CF%83%CF%84%CF%81%CE%B1%CF%84%CE%B9%CF%8E%CF%84%CE%B5%CF%82_%CF%84%CE%BF%CF%85_%CE%95%CE%9B%CE%91%CE%A3.jpg)
 * [Epílogo](https://commons.wikimedia.org/wiki/File:Dinosaur_footprint_%284056320716%29.jpg)
 * [Fondo portada y contraportada](https://pixabay.com/es/photos/papel-viejo-textura-pergamino-1074131/)
 * [Fondo páginas interiores](https://pixabay.com/es/illustrations/papertexture-textura-papel-2061710/)
