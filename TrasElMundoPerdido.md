@@ -483,7 +483,7 @@ El comando que adquiere esta ventaja puede convertir a un dinosaurio con el que 
 * Lo primero será darle nombre
 * El **compañero dinosaurio se convierte en comodín** con lo que tiene sus propios benis y su dado de héroe.
 * Por **cada Rango que alcance el comando el compañero conseguirá un avance**. Si se coge esta ventaja siendo experimentado, el compañero tendrá derecho a dos avances por Novato y por Experimentado. Cuando alcance el rango de Veterano y siguientes tendrá derecho a un nuevo avance por cada nuevo rango.
-* Habrá que ponerle 2 desventajas mentales o físicas que marquen su carácter, como Tozudo, Curioso, Joven, etc.
+* Habrá que ponerle 2 desventajas mentales o físicas que marquen su carácter, como Tozudo, Curioso, Joven, etc. y además la desventaja Mania (menor)
 * El compañero animal no atacará al comando bajo ninguna circunstancia normal.
 * Si por alguna causa fallece el compañero, el héroe podrá reemplazarlo tras 1d4 días. Si lo desea puede cambiar esta ventaja por otra que cumpla los requisitos.
 
@@ -753,11 +753,12 @@ Vamos a usar el recurso fílmico llamado "viajar por el mapa". Cuando tu comando
 No hay tablas de encuentros aleatorios, ni tiradas de climatología, ni nada por el estilo. Aunque eres libre, si quieres, de meter los encuentros que desees.
 
 ## Personalizando y continuando la campaña
-En este apartado te ofrezco algunas ideas para personalizar y hacer más tu tuya la campaña. Las personalizaciones que te sugerimos van en tres direcciones distintas, que son fácilmente implementables con el manual básico de SWAE, un poco de trabajo por tu parte como DJ y un rato buscando por internet.
+En este apartado te ofrezco algunas ideas para personalizar y hacer más tu tuya la campaña. Las personalizaciones que te sugerimos van en 4 direcciones distintas, que son fácilmente implementables con el manual básico de SWAE, un poco de trabajo por tu parte como DJ y un rato buscando por internet.
 
-* Más dinosaurios y mundo perdidos
+* Más dinosaurios y mundos perdidos
 * Más escenarios de guerra
 * Añadir magia
+* Humor
 
 ### Más Mundos Perdidos y más especies de dinosaurios
 La tierra de Maple White no tiene por qué ser el único mundo perdido. Quizás los nazis hayan descubierto una tierra salvaje en mitad de la Antártida alimentada por el calor de los volcanes donde han sobrevivido otras especies de dinosaurios. Sin olvidarnos que igual en alguna sima oceánica haya gigantescos saurios acuáticos que una bomba nuclear lanzada sobre Japón pueda despertar.
@@ -770,13 +771,13 @@ Los dinosaurios elegidos para esta campaña han sido los que aparecen en la nove
 Esta campaña está desarrollada para jugarla en la II Guerra Mundial en Europa y Norte de África, pero con algunos cambios puedes prepararla para otros conflictos bélicos. Vemos algunos ejemplos:
 
 * Podrían enclavarse en la I Guerra Mundial sin mucho problema. La novela de El Mundo Perdido se desarrolla hacia el 1910 así que quedarían todavía 6 años hasta la guerra mundial.
-* Podrías trasladar el teatro de operaciones de Europa y Norte de África con base en Inglaterra a por ejemplo el Pacífico con base en San Francisco y sustituyendo a los nazis por imperialistas nazis.
+* Podrías trasladar el teatro de operaciones de Europa y Norte de África con base en Inglaterra a por ejemplo el Pacífico con base en San Francisco y sustituyendo a los nazis por imperialistas japoneses.
 * Podrías aplicar todo este contenido a una Guerra Fría más o menos beligerante en la que tus comandos se enfrentarán a los comunistas rusos de Stalin.
 
 ### Ciencia extraña
 No hay ningún tipo de magia en esta campaña, pero eso no quiere decir que no puedas meterla. La forma más sencilla y que creo que mejor pega es usar la Ciencia Extraña.
 
-Nunca sobran científicas y científicos locos nazis, así que puedes meter ciertos elementos de Ciencia Extraña para darle un toque más pulp a la aventura. Estamos hablando de soldados nazis con mochilas de salto y pistolas de rayos o sueros de supersoldado que permitan enfrentarse cuerpo a cuerpo contra los dinosaurios.
+Nunca sobran científicas y científicos locos nazis, así que puedes meter ciertos elementos de Ciencia Extraña para darle un toque más pulp a la aventura. Estamos hablando de soldados nazis con mochilas de salto y pistolas de rayos o sueros de supersoldado que les permitan enfrentarse cuerpo a cuerpo contra los dinosaurios.
 
 Si quieres rizar el rizo y conseguir altas cuotas de pulp, se podría, por ejemplo, hacer que los nazis tengan tecnología alienígena procedente de un platillo volante.
 
@@ -794,6 +795,15 @@ Todos estos poderes mentales pueden cuadrar en esta campaña dando a tus némesi
 Todos conocemos de la fascinación de los nazis y la magia. Pero no nos vale una magia normal, brillante y luminosa. Hablamos de magia corrupta, de maldiciones, nigromancia, vudú, de rituales sangrientos y de sacrificios animales y humanos.
 
 Que tus comandos sean víctimas de posesiones, que sean atacados en sus sueños, o que tengan que obedecer a un brujo/nazi porque les ha arrancado el corazón y si no le obedecen los matará, son elementos que pueden añadir mucha diversión a esta campaña. 
+
+### Humor
+Esta campaña no es especialmente sería, aunque no deja de tener sus momentos serios y dramáticos. Así que el humor es algo que puedes meter, si quieres, en tus sesiones de muchas y variadas formas.
+
+* Los dinosaurios pueden comportarse a veces de forma loca e inesperada. Quizás se coman algo valioso y tengas que esperar a que los caguen o se nieguen a moverse y tengan que sobornarles como chucherías y mimos.
+* Aprovecha las Manías que tienen como Compañeros Dinosaurios para crear escenas locas. Quizás siempre intenten ir en el sidecar de la moto nazi o ir de copiloto en un jeep, roben cosas brillantes o se pirren por un alimento y hagan lo que sea por conseguirlo.
+* Tendrán que hacer muchas cosas raras para ocultar a los saurios y algunas puede que sean muy divertidas.
+* Hay relatos salvajes con buenos momentos de comedia. Por ejemplo, en "Titanes de tiempos pretéritos" deberán rodar una película de dinosaurios y tus comandos participar de extras como cavernícolas. Aprovecha a jugar un par de escenas haciendo todos el mamarracho.
+* Mete nazis más tontos con costumbres nazis exageradas como no parar de hacer el saludo fascista y con acentos divertidos. Haz que mueran de formas estúpidas. Recuerda al ejecutivo de Jurassic Park que muere sentado en un váter.
 
 ***
 
@@ -1084,13 +1094,27 @@ Este, joven naturalista y activista medioambiental va a ser un pequeño quebrade
 
 **Sugerencia de interpretación:** xxx
 
+## El prototipo
+```
+La gente de IM tiene nuevos inventos e ingenios para saurios y necesita que sean testados en una misión real. Quizás en su proximo viaje puedan llevárselos y hacer una prueba de campo.
+```
+
+\saltopagina
+
+Esto no es exactamente un relato, sino una serie de ingenios y cachivaches que pueden llevarse en cada misión para probarlos. Son cacharros con funciones locas que fallan un montón y que tienen a explotar. Tómatelo como algo divertido y humorístico que meter en las grandes misiones. Si el humor no encaja en como llevas esta campaña, obvia completamente esta parte. 
+
+xxx
+
 \saltopagina
 
 ## Semillas de aventuras
 Además de los relatos salvajes aquí te propongo una serie de semillas de aventuras si quieres alargar tus partidas o darles más profundidad.
 
 ### La gran evasión
-xxx
+Alguien de tus comandos, incluso todos, han caído prisioneros de los nazis y deberán escapar de un campo de prisioneros al más puro estilo "La gran evasión".
+
+### La epidemia
+Desde el campamento llegan malas noticias una enfermedad está afectando a todos los saurios de la meseta. Quizás la cura exija buscar gente y productos por todo el mundo, incluso igual en el propio Berlín. 
 
 ***
 
@@ -1505,12 +1529,13 @@ xxx
 * **Ventajas:** xxx
 * **Desventajas:** xxx
 * **Capacidades especiales:**
+  * **Manos prensiles:** xxx
 
 \saltopagina
 
 [![Escala Iguanodon](./assests/images/escala-iguanodon.png 'Size chart for Iguanodon bernissartensis, based on an illustration by ArthurWeasley')](https://en.wikipedia.org/wiki/File:Iguanodon_scale.png 'Size chart for Iguanodon bernissartensis, based on an illustration by ArthurWeasley')
 
-xxx
+Este herbívoro que podía andar a dos o cuatro patas pesaban un promedio de 3 toneladas​ y medían cerca de 10 metros de largo, pudiendo alcanzar en algunos casos los 13 metros. En las patas delanteras tres dedos forman una especie de pezuñas, pero tienen un cuarto dedo, un pulgar oponible que le permitía manipular objetos como frutas o ramas.
 
 \saltopagina
 
