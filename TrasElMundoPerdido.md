@@ -1524,12 +1524,22 @@ Este saurio es famosos por sus placas dorsales, xxx. También tiene cuatro espin
 
 xxx
 
+Ictiosaurio fue el primer fósil completo descubierto a principios del siglo XIX por Mary Anning en Inglaterra.
+
 * **Atributos:** Agilidad dX, Astucia dX (A), Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** xxx
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
 * **Ventajas:** xxx
 * **Desventajas:** xxx
 * **Capacidades especiales:**
+    * **Acuático:** Paso 10 nadando.
+    * **Grandes ojos:** xxx
+
+\saltopagina
+
+[![Escala Ictiosaurio](./assests/images/escala-ictiosaurio.png 'Ichthyosaurus con un humano a escala. Abyssal leviathin')](https://es.wikipedia.org/wiki/Ichthyosaurus#/media/Archivo:Ichthyooscale.png 'Ichthyosaurus con un humano a escala. Abyssal leviathin')
+
+El ictiosaurio mide unos 2 metros de largo y pesa entre unos 150 y 170 kilos. Se caracterizan por tener unos grandes ojos adaptados perfectamente para ver debajo del agua. Su forma es una mezcla de pez espada y delfín lo que le convierte en un depredador rápido y ágil.
 
 \saltopagina
 
@@ -1585,6 +1595,7 @@ xxx
 * **Ventajas:** xxx
 * **Desventajas:** xxx
 * **Capacidades especiales:**
+  * **Acuático:** Paso 10 nadando.
 
 \saltopagina
 
@@ -1594,7 +1605,7 @@ Un plesiosaurio adulto de talla media crece entre 3 a 5 metros de longitud y pes
 
 Su cuerpo está totalmente adaptado a la vida acuática. Su piel no es escamosa, sino lisa para una mejor hidrodinámica. Tienen un largo cuello que mide más o menos la mitad de su cuerpo y que usa como timón a la hora de nadar. Para terminar, sus extremidades de un metro cada una formaban aletas alargadas, en forma de remo. 
 
-[![Dibujo de pteranodon volando](./assests/images/pteranodon.jpg 'Matthew P. Martyniuk')](https://es.wikipedia.org/wiki/Pterodactylus#/media/Archivo:Pterodactylus_holotype_fly_mmartyniuk.png 'Matthew P. Martyniuk')
+[![Dibujo de pteranodon volando](./assests/images/pteranodon.jpg 'NobuTamura email:nobu.tamura@yahoo.com www.palaeocritti.com')](https://commons.wikimedia.org/wiki/File:Pteranodon_NT.jpg 'NobuTamura email:nobu.tamura@yahoo.com www.palaeocritti.com')
 
 ### Pteranodon
 **Carnívoro | Volador | 3x1 casillas | Código: Spitfire**
@@ -1616,7 +1627,7 @@ xxx
 
 [![Escala Pteranodon](./assests/images/escala-pteranodon.png 'Scale diagram for Pteranodon longiceps by Matt Martyniuk')](https://commons.wikimedia.org/wiki/File:Pteranodon_scale.png 'Scale diagram for Pteranodon longiceps by Matt Martyniuk')
 
-xxx
+Los pteranodones son unos de los saurios voladores de mayor tamaño, llegando a 5 o 6 metros de envergadura de alas y un peso entre 30 y 90 kilos. Se caracterizan frente a otras especies por su cresta de infinidad de formas y tamaños.  
 
 ## Otros animales y seres prehistóricos del Mundo Perdido:
 Como ya hemos contado, la expedición Challenger no solo encontró dinosaurios, también otros animales prehistóricos como el megaloceros, un alce de gran tamaño que pobló, las praderas de Euroasia. También estuvieron en contacto con homínidos anteriores a los humanos e incluso con humanos primitivos que viven en cavernas. 
@@ -1656,16 +1667,19 @@ xxx
 [![Boceto de un Megaloceros](./assests/images/megaloceros.jpg 'Various deer of the genera Megaloceros and Praemegaceros, from left to right, M. savini, P. cazioti, P. obscurus, M. pachyosteus, M. giganteus, and P. verticornis (C) Stanton F. Fink - Apokryltaros')](https://it.wikipedia.org/wiki/Megaloceros#/media/File:Megaloceros_Species.jpg 'Various deer of the genera Megaloceros and Praemegaceros, from left to right, M. savini, P. cazioti, P. obscurus, M. pachyosteus, M. giganteus, and P. verticornis (C) Stanton F. Fink - Apokryltaros')
 
 ### Megaloceros
-**Herbívoro | Terrestre | 0x0 casillas**
+**Herbívoro | Terrestre | 2x1 casillas**
 
-xxx
+A pesar de su aspecto más cercano a los alces (de hecho se les conocía como alces irlandeses) están emparentados con los gamos. A estos herbívoros les gustan las praderas y los bosques abiertos. Su altura hasta la grupa es de unos 2 metros y la cornamenta podía llegar a los 3,5 metros de punta a punta.
 
-* **Atributos:** Agilidad dX, Astucia dX (A), Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** xxx
-* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
-* **Ventajas:** xxx
-* **Desventajas:** xxx
+* **Atributos:** Agilidad d6, Astucia d6 (A), Espíritu d8, Fuerza d12, Vigor d10
+* **Habilidades:** Notar d6, Pelear d8
+* **Paso:** 8; **Parada:** 6; **Dureza:** 9(1)
+* **Ventajas:** Pies ligeros
 * **Capacidades especiales:**
+  * **Armadura +1:** Piel dura.
+  * **Cascos:** FUE+d4. Pueden golpear hacia delante o hacia atrás, como deseen.
+  * **Cornamenta:** FUE+d8. Si hace una acción de correr para desplazarse, al menos, cinco pasos (10 m) y golpea con ellos, añade +4 al daño de un único ataque de Pelear con éxito.
+  * **Tamaño +2:** Mide de media unos 2 metros hasta la grupa y mucho más según el tamaño de la cornamenta.
 
 \saltopagina
 
