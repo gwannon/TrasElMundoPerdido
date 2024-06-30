@@ -1578,9 +1578,9 @@ Estos herbívoros pesaban un promedio de 3 toneladas​ y medían cerca de 10 me
 [![Boceto y recreación artística de un Megalosaurio](./assests/images/megalosaurio.jpg 'Megalosaurus por LadyOfHats')](https://es.wikipedia.org/wiki/Megalosaurus_bucklandii#/media/Archivo:Megalosaurus_dinosaur.png 'Megalosaurus por LadyOfHats')
 
 ### Megalosaurio
-**Carnívoro | Terrestre | 3x2 casillas | Código: xxx**
+**Carnívoro | Terrestre | 3x2 casillas | Código: Long Tom (cañón de gran tamaño)**
 
-El megalosaurio es el segundo gran depredador de la meseta de Maple White. Es de menor tamaño que es alosaurio, pero como él caza crías o ejemplares jovenes o muy viejos de iguanodones y estegosaurios. También caza megaloceros y otras criaturas terrestres de tamaño medio. Aunque su tamaño es grande es de pequeña constitución con lo que pesa mucho menos de otros saurios de su mismo tamaño.
+El megalosaurio es el segundo gran depredador de la meseta de Maple White. Es de menor tamaño que es alosaurio, pero como él caza crías o ejemplares jóvenes o muy viejos de iguanodones y estegosaurios. También caza megaloceros y otras criaturas terrestres de tamaño medio. Aunque su tamaño es grande es de pequeña constitución con lo que pesa mucho menos de otros saurios de su mismo tamaño.
 
 * **Atributos:** Agilidad d6, Astucia d4 (A), Espíritu d6, Fuerza d12+4, Vigor d12
 * **Habilidades:** Atletismo d8, Notar d6, Pelear d8, Sigilo d6, Supervivencia d6
@@ -1589,7 +1589,7 @@ El megalosaurio es el segundo gran depredador de la meseta de Maple White. Es de
   * **Armadura +2:** Escamas resistentes
   * **Mordisco:** FUE+d6
   * **Grande:** +1 herida. Los enemigos de tamaño normal obtienen un +2 en tiradas de ataque contra ellos.
-  * **Tamaño +5:** xxx
+  * **Tamaño +5:** 9m de largo y una altura de unos 2,5m con un peso total de una tonelada
 
 \saltopagina
 
