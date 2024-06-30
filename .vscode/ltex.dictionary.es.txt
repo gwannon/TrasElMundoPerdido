@@ -114,3 +114,4 @@ pteranodones
 pteranodon
 terópodo
 terópodos
+megaloceros

@@ -6,9 +6,6 @@
 [Versión PDF](https://mundoperdido.gwannon.com/pdf/)
 
 # Por hacer de la versión 0.3
-* Estadísticas de dinosaurios
-  * Megalosaurio
-  * Plesiosaurio
 * Estadísticas de secuaces
   * Infantería
   * Oficial
@@ -40,7 +37,8 @@
 # Changelog
 
 ## Versión 0.3.1 En desarrollo
-* Dinosaurios terminados: Pteranodon
+* Dinosaurios terminados: Pteranodon, Plesiosaurio, Megalosaurio
+* Secuaces terminados: 
 
 ## Versión 0.3 30/06/2024
 * "Acerca de los dinosaurios" terminado.

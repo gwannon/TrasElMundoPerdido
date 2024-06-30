@@ -860,9 +860,7 @@ No deben fiarse de nadie hasta llegar a su destino. IM está seguro que hay nazi
 
 xxx
 
-```
-Si hay fans de la informática en tu mesa quizás sea un detalle bonito que [Alan Turing](https://es.wikipedia.org/wiki/Alan_Turing) o [Joan Clarke](https://es.wikipedia.org/wiki/Joan_Clarke) recojan en rotor, se quiten las gafas estupefacta y exclamen "Esto podría cambiar el curso de la guerra. Habéis salvado miles sino millones de vidas".
-```
+> Si hay fans de la informática en tu mesa quizás sea un detalle bonito que [Alan Turing](https://es.wikipedia.org/wiki/Alan_Turing) o [Joan Clarke](https://es.wikipedia.org/wiki/Joan_Clarke) recojan en rotor, se quiten las gafas estupefacta y exclamen "Esto podría cambiar el curso de la guerra. Habéis salvado miles sino millones de vidas".
 
 ## Otras misiones en Tobruk
 xxx
@@ -1533,7 +1531,7 @@ Los ictiosaurios descienden reptiles que volvieron al mar como hicieron delfines
 Ictiosaurio fue el primer fósil completo descubierto a principios del siglo XIX por Mary Anning en Inglaterra.
 
 * **Atributos:** Agilidad d10, Astucia d6 (A), Espíritu d6, Fuerza d8, Vigor d8
-* **Habilidades:** Atletismo d6, Notar d6, Pelear d8
+* **Habilidades:** Atletismo d6, Notar d6, Pelear d8, Sigilo d6
 * **Paso:** 6; **Parada:** 6; **Dureza:** 7(1)
 * **Capacidades especiales:**
     * **Acuático:** Paso 10 nadando.
@@ -1582,37 +1580,41 @@ Estos herbívoros pesaban un promedio de 3 toneladas​ y medían cerca de 10 me
 ### Megalosaurio
 **Carnívoro | Terrestre | 3x2 casillas | Código: xxx**
 
-xxx
+El megalosaurio es el segundo gran depredador de la meseta de Maple White. Es de menor tamaño que es alosaurio, pero como él caza crías o ejemplares jovenes o muy viejos de iguanodones y estegosaurios. También caza megaloceros y otras criaturas terrestres de tamaño medio. Aunque su tamaño es grande es de pequeña constitución con lo que pesa mucho menos de otros saurios de su mismo tamaño.
 
-* **Atributos:** Agilidad dX, Astucia dX (A), Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** xxx
-* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
-* **Ventajas:** xxx
-* **Desventajas:** xxx
+* **Atributos:** Agilidad d6, Astucia d4 (A), Espíritu d6, Fuerza d12+4, Vigor d12
+* **Habilidades:** Atletismo d8, Notar d6, Pelear d8, Sigilo d6, Supervivencia d6
+* **Paso:** 6; **Parada:** 6; **Dureza:** 15 (2)
 * **Capacidades especiales:**
+  * **Armadura +2:** Escamas resistentes
+  * **Mordisco:** FUE+d6
+  * **Grande:** +1 herida. Los enemigos de tamaño normal obtienen un +2 en tiradas de ataque contra ellos.
+  * **Tamaño +5:** xxx
+
+\saltopagina
 
 [![Escala Megalosaurio](./assests/images/escala-megalosaurio.png 'Size comparison between Megalosaurus and a human by Conty')](https://commons.wikimedia.org/wiki/File:Megalosaurus_SIZE.png 'Size comparison between Megalosaurus and a human by Conty')
 
 El tamaño de largo de un megalosaurio adulto ronda los 9m y una altura de unos 2,5m. Su peso se estima en una tonelada. Como la mayoría de terópodos (dinosaurios bípedos) y a diferencia del alosaurio, sus extremidades superiores eran cortas y no le servían de mucho.
-
-\saltopagina
 
 [![Boceto Plesiosaurus dolichodeirus](./assests/images/plesiosaurio.jpg 'Plesiosaurus dolichodeirus Creator: Dmitry Bogdanov')](https://es.m.wikipedia.org/wiki/Archivo:Plesiosaurus_3DB.jpg 'Plesiosaurus dolichodeirus Creator: Dmitry Bogdanov')
 
 ### Plesiosaurio
 **Carnívoro | Acuático | 3x1 casillas | Código: DUKW (Pronunciado como DUCK, PATO en castellano)**
 
-xxx
+Otro reptil que volvió al mar como el ictiosaurio, pero quizás en vez de evolucionar a algo parecido a delfines o peces espadas lo hizo hacia mamíferos marinos como focas y morsas.
 
-* **Atributos:** Agilidad dX, Astucia dX (A), Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** xxx
-* **Paso:** --; **Parada:** xxx; **Dureza:** xxx
-* **Ventajas:** xxx
-* **Desventajas:** xxx
-* **Capacidades especiales:**
-  * **Acuático:** Paso 10 nadando.
+Su largo cuello les permite sacar la cabeza fuera del agua y poder mirar en todas las direcciones y evitar ataques por sorpresa. Su boca tienes unos poderosos dientes capaces de romper los caparazones de los crustáceos de los que se alimenta.
 
 \saltopagina
+
+* **Atributos:** Agilidad d8, Astucia d6 (A), Espíritu d8, Fuerza d12, Vigor d12
+* **Habilidades:** Atletismo d10, Notar d8, Pelear d8, Sigilo d6
+* **Paso:** --; **Parada:** 6; **Dureza:** 11
+* **Capacidades especiales:**
+  * **Acuático:** Paso 10 nadando.
+  * **Mordisco:** FUE+d6
+  * **Tamaño +3:** Mide de 3 a 5 metros de longitud y pesa entre 500 y 700 kg.
 
 [![Escala Plesiosaurio](./assests/images/escala-plesiosaurio.png 'Plesiosaurus con un humano a escala. Abyssal leviathin')](https://es.wikipedia.org/wiki/Plesiosaurus#/media/Archivo:Plesioscale.png 'Plesiosaurus con un humano a escala. Abyssal leviathin')
 
@@ -1625,11 +1627,13 @@ Su cuerpo está totalmente adaptado a la vida acuática. Su piel no es escamosa,
 ### Pteranodon
 **Carnívoro | Volador | 3x1 casillas | Código: Spitfire**
 
-Que los reptiles aprendieron a volar que las aves descienden de estos dinosaurios voladores es de sobra conocido. Los pteranodones son el culmen de los reptiles voladores y aunque torpes en tierra son los amos de los aires. Los pteranodones pasan mucho tiempo pescando en el mar y como las grandes aves marinas, su vuelo se basada más en el planeo con sus grandes alas que en el aleteo.
-
-Como bien nos ha enseñado el cine (en realidad no) son capaces de lanzarse contra sus presas o enemigos agarrarlos y elevarse con ellos para llevarlos a su nido para alimentar a sus crías o para dejarlos caer de grandes alturas. 
+Que los reptiles aprendieron a volar que las aves descienden de estos dinosaurios voladores es de sobra conocido. Los pteranodones son el culmen de los reptiles voladores y aunque torpes en tierra son los amos de los aires.
 
 \saltopagina
+
+Los pteranodones pasan mucho tiempo pescando en el mar y como las grandes aves marinas, su vuelo se basada más en el planeo con sus grandes alas que en el aleteo.
+
+Como bien nos ha enseñado el cine (en realidad no) son capaces de lanzarse contra sus presas o enemigos agarrarlos y elevarse con ellos para llevarlos a su nido para alimentar a sus crías o para dejarlos caer de grandes alturas. 
 
 * **Atributos:** Agilidad d10, Astucia d6 (A), Espíritu d6, Fuerza d8, Vigor d8
 * **Habilidades:** Notar d10, Pelear d6
@@ -1646,10 +1650,10 @@ Como bien nos ha enseñado el cine (en realidad no) son capaces de lanzarse cont
 
 Los pteranodones son unos de los saurios voladores de mayor tamaño, llegando a 5 o 6 metros de envergadura de alas y un peso entre 30 y 90 kilos. Se caracterizan frente a otras especies por su cresta de infinidad de formas y tamaños.  
 
-## Otros animales y seres prehistóricos del Mundo Perdido:
-Como ya hemos contado, la expedición Challenger no solo encontró dinosaurios, también otros animales prehistóricos como el megaloceros, un alce de gran tamaño que pobló, las praderas de Euroasia. También estuvieron en contacto con homínidos anteriores a los humanos e incluso con humanos primitivos que viven en cavernas. 
-
 \saltopagina
+
+## Otros animales y seres prehistóricos
+La expedición Challenger no solo encontró dinosaurios, también otros animales prehistóricos como el megaloceros o el glyptodon. También estuvieron en contacto con homínidos anteriores a los humanos e incluso con humanos primitivos. 
 
 [![Dibujo artístico de Cavernicolas](./assests/images/cavernicolas.jpg 'Guide leaflet - Charles R. Knight')](https://commons.wikimedia.org/wiki/Category:Charles_R._Knight#/media/File:Guide_leaflet_(1901)_(14766909282).jpg 'Guide leaflet - Charles R. Knight')
 
@@ -1658,18 +1662,17 @@ Como ya hemos contado, la expedición Challenger no solo encontró dinosaurios, 
 
 Estos humanos primitivos, no son diferentes de nosotros. Quizás son más fuertes y resistentes por su dura vida. Son cazadores y recolectores, por no decir carroñeros. Son capaces de crear y usar herramientas sencillas que usa para cazar, curtir pieles, trenzar cuerdas, hacer cestos, ... Han descubierto el fuego lo que ha mejorado mucho su calidad de vida.
 
-Aunque no se enfrentan a los titanes que pisan su mundo, han desarrollado técnicas para enfrentarse, sobre todo en grupo, contra seres mucho más grandes que ellos.
-
-Tienen un lenguaje de gruñidos muy básico basando en la supervivencia (peligro, comida, agua, etc.), pero que todavía no les sirve para transmitir información.
+Aunque no se enfrentan a los titanes que pisan su mundo, han desarrollado técnicas para enfrentarse, sobre todo en grupo, contra seres mucho más grandes que ellos. Tienen también un lenguaje de gruñidos muy básico basado en la supervivencia (peligro, comida, agua, etc.), pero que todavía no les sirve para transmitir información.
 
 * **Atributos:** Agilidad d6, Astucia d4, Espíritu d6, Fuerza d8, Vigor d8
 * **Habilidades:** Atletismo d6, Conocimientos Generales d4, Intimidar d6, Notar d6, Pelear d8, Sigilo d6, Supervivencia d8
 * **Paso:** 6; **Parada:** 6; **Dureza:** 6
 * **Ventajas:** Matagigantes
 * **Desventajas:** Manazas (menor), Analfabeto (menor)
-* **Equipo:** Pieles (+1 armadura pecho y piernas), hacha de piedra (FUE+d4), lanza de punta de piedra (FUE+d4, parada +1, alcance 1, dos manos)
 
 \saltopagina
+
+* **Equipo:** Pieles (+1 armadura pecho y piernas), hacha de piedra (FUE+d4), lanza de punta de piedra (FUE+d4, parada +1, alcance 1, dos manos)
 
 [![Foto artística de un Glyptodon](./assests/images/glyptodon.jpg 'Recreación artística de un Glyptodon - Luca Mendieta https://biopicturestudio.blogspot.com/')](https://es.wikipedia.org/wiki/Glyptodon#/media/Archivo:GLYPTODON.jpg 'Recreación artística de un Glyptodon - Luca Mendieta https://biopicturestudio.blogspot.com/')
 
