@@ -1459,16 +1459,17 @@ Que no hayan sido encontradas, no quiere decir que en la tierra de Maple White n
 ### Alosaurio
 **Carnívoro | Terrestre | 4x2 casillas | Código: Matilda (por el tanque inglés A12 Matilda II)**
 
-xxx
+El alosaurio es el mayor de los saurios que sobreviven en la tierra de Maple White y al más terrible de ellos. Es un terópodo, es decir que es bípedo, pero a diferencia de otros terópodos, como el tiranosaurio, sus brazos eran más largos y podían ser usados para atacar y sujetar las presas.
 
-> Oficialmente en la novela de El mundo perdido no hay T-Rex, pero si sientes la necesidad de que tu campaña tenga T-Rexes, puedes usar las estadísticas de alosaurio subiéndole un punto al tamaño.
+Como depredadores, pueden llegar a cazar estegosaurios, aunque siempre especímenes jóvenes, viejos o enfermos. Su vista les permite calcular bastante precisamente las distancias con lo que son bastante efectivos en sus ataques por sorpresa.
+
+* **Atributos:** Agilidad d6, Astucia d6 (A), Espíritu d12, Fuerza d12+6, Vigor d10
+* **Habilidades:** Atletismo d6, Intimidar d12, Notar d6, Pelear d8, Supervivencia d6
+* **Paso:** 8; **Parada:** 6; **Dureza:** 17(3)
+* **Ventajas:** Nervios de Acero Mejorados
 
 \saltopagina
 
-* **Atributos:** Agilidad d6, Astucia d6 (A), Espíritu d12, Fuerza d12+6, Vigor d10
-* **Habilidades:** Intimidar d12, Notar d6, Pelear d8, Supervivencia d6
-* **Paso:** 8; **Parada:** 6; **Dureza:** 17(3)
-* **Ventajas:** Nervios de Acero Mejorados
 * **Capacidades especiales:**
   * **Armadura +3:** Piel escamosa y dura.
   * **Mordisco:** FUE+d8.
@@ -1485,84 +1486,94 @@ Un alosaurio adulto de talla media crece hasta 12 metros de longitud de la cabez
 
 Sus potentes piernas también le convierten en el dinosaurio terrestre más rápido del Mundo perdido con una velocidad máxima de 55 km/h.
 
+> Oficialmente en la novela de El mundo perdido no hay T-Rex, pero si sientes la necesidad de que tu campaña tenga T-Rexes, puedes usar las estadísticas de alosaurio subiéndole un punto al tamaño.
+
 \saltopagina
 
-[![Foto de un estegosaurio](./assests/images/estegosaurio.jpg 'Life restoration of the "Sophie" Stegosaurus specimen - Fred Wierum')](https://es.wikipedia.org/wiki/Stegosaurus#/media/Archivo:Stegosaurus_stenops_Life_Reconstruction.png 'Life restoration of the "Sophie" Stegosaurus specimen - Fred Wierum')
+[![Dibujo de un estegosaurio](./assests/images/estegosaurio.jpg 'Life restoration of the "Sophie" Stegosaurus specimen - Fred Wierum')](https://es.wikipedia.org/wiki/Stegosaurus#/media/Archivo:Stegosaurus_stenops_Life_Reconstruction.png 'Life restoration of the "Sophie" Stegosaurus specimen - Fred Wierum')
 
 
 ### Estegosaurio
 **Herbívoro | Terrestre | 3x2 casillas | Código: xxx**
 
-xxx
+Debido a sus distintivas espinas de la cola y sus placas dorsales, el estegosaurio es uno de los más reconocidos dinosaurios. Es el mayor herbívoro del mundo perdido y gracias a su masa y a su fuerte y elevada cola puede hacerle frente, incluso derrotar a un alosaurio. Sus placas dorsales son una mezcla de sistema de termorregulación y de protección. 
 
-\saltopagina
+En general son lentos y tranquilos, pero la creencia de que eran poco inteligentes por su pequeño cerebro es falsa. Viven en manadas y son muy protectores con sus crías. No hay que olvidar que debajo de su imagen de tranquilos herbívoros hay unas máquinas letales capaces de hacer frente a cualquier enemigo mucho más si no está solo. 
 
 * **Atributos:** Agilidad d6, Astucia d6 (A), Espíritu d8, Fuerza d12+3, Vigor d12
 * **Habilidades:** xxx
 * **Paso:** 6; **Parada:** 5; **Dureza:** 16(2)
 * **Ventajas:** Atletismo d6, Pelea d6, Notar d8
-* **Desventajas:** xxx
 * **Capacidades especiales:**
   * **Armadura +2:** Piel escamosa.
-  * **Coletazo:** FUE+d6. Si durante su turno, un estegosaurio no se mueve puede hacer un ataque de área en 3 casillas adyacentes entre sí y alrededor suyo. Hace una tirada por cada enemigo en el área. Todo enemigo que pase por esa zona hasta el siguiente turno del estegosaurio recibe un ataque. Varios estegosaurios puede combinar estos barridos con sus colas con pinchos de forma que crean una barrera defensiva que nadie en su sano juicio querría atravesar.
   * **Grande:** +1 herida. Los enemigos de tamaño normal obtienen un +2 en tiradas de ataque contra ellos.
   * **Tamaño +6:** +6 a Dureza
-  * **Placas dorsales:** xxx
+
+\saltopagina
+
+* 
+  * **Coletazo:** FUE+d6. Si durante su turno, no se mueve puede hacer un ataque de área en 3 casillas adyacentes entre sí y alrededor suyo. Hace una tirada por cada enemigo en el área. Todo enemigo que pase por esa zona hasta el siguiente turno del estegosaurio recibe un ataque. Varios estegosaurios puede combinar estos barridos con sus colas con pinchos de forma que crean una barrera defensiva que nadie en su sano juicio querría atravesar.
+  * **Placas dorsales:** Las placas de su espalda hacen que los ataques cuerpo a cuerpo de enemigos más altos o que solo puedan atacar desde arriba sean más difíciles y tengan un -2. 
 
 [![Escala Estegosaurio](./assests/images/escala-estegosaurio.png 'Tamaño de S. ungulatus y S. stenops comparados con un ser humano. Matt Martyniuk')](https://es.wikipedia.org/wiki/Archivo:Human-allosaurus_size_comparison.png 'Tamaño de S. ungulatus y S. stenops comparados con un ser humano. Matt Martyniuk')
 
 El estegosaurio pesa 3 y 4 de toneladas y crece hasta 9 metros de largo de la cabeza a la punta de la cola y 4 metros de alto. 
 
-Este saurio es famosos por sus placas dorsales, xxx. También tiene cuatro espinas en la cola, cada una de 60 a 90 cm de largo, que usa para su defensa.
+Como ya hemos comentado, este saurio es famoso por sus placas dorsales y también tiene cuatro espinas en la cola, cada una de 60 a 90 cm de largo, que usa para su defensa.
 
-\saltopagina
-
-[![Dibujo recreación artística de un Ictiosaurio](./assests/images/ictiosaurio.jpg 'Shonisaurus - Nobu Tamura (http://spinops.blogspot.com)')](https://es.wikipedia.org/wiki/Ichthyosauria#/media/Archivo:Shonisaurus_BW_2.jpg 'Shonisaurus - Nobu Tamura (http://spinops.blogspot.com)')
+[![Foto recreación artística de un Ictiosaurio](./assests/images/ictiosaurio.jpg 'Shonisaurus - Nobu Tamura (http://spinops.blogspot.com)')](https://es.wikipedia.org/wiki/Ichthyosauria#/media/Archivo:Shonisaurus_BW_2.jpg 'Shonisaurus - Nobu Tamura (http://spinops.blogspot.com)')
 
 ### Ictiosaurio
 **Carnívoro | Acuático | 2x1 casillas | Código: LCA (Lancha de desembarco)**
 
-xxx
-
-Ictiosaurio fue el primer fósil completo descubierto a principios del siglo XIX por Mary Anning en Inglaterra.
-
-* **Atributos:** Agilidad dX, Astucia dX (A), Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** xxx
-* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
-* **Ventajas:** xxx
-* **Desventajas:** xxx
-* **Capacidades especiales:**
-    * **Acuático:** Paso 10 nadando.
-    * **Grandes ojos:** xxx
+Los ictiosaurios descienden reptiles que volvieron al mar como hicieron delfines y ballenas. Como ellos respiran aire con lo que cada cierto tiempo tienen que subir a la superficie a tomar aire. Están totalmente adaptados al medio acuático y se alimentan de peces y calamares.  
 
 \saltopagina
 
+Ictiosaurio fue el primer fósil completo descubierto a principios del siglo XIX por Mary Anning en Inglaterra.
+
+* **Atributos:** Agilidad d10, Astucia d6 (A), Espíritu d6, Fuerza d8, Vigor d8
+* **Habilidades:** Atletismo d6, Notar d6, Pelear d8
+* **Paso:** 6; **Parada:** 6; **Dureza:** 7(1)
+* **Capacidades especiales:**
+    * **Acuático:** Paso 10 nadando.
+    * **Mordisco:** FUE+d6
+    * **Piel dura +1:** Su piel dura y lisa no solo le protege del frío del mar, también de ataques de otros animales.
+    * **Grandes ojos:** Tiene una vista excelente dentro del agua de forma que no sufre ninguna penalización de visibilidad debajo del agua.
+
 [![Escala Ictiosaurio](./assests/images/escala-ictiosaurio.png 'Ichthyosaurus con un humano a escala. Abyssal leviathin')](https://es.wikipedia.org/wiki/Ichthyosaurus#/media/Archivo:Ichthyooscale.png 'Ichthyosaurus con un humano a escala. Abyssal leviathin')
 
-El ictiosaurio mide unos 2 metros de largo y pesa entre unos 150 y 170 kilos. Se caracterizan por tener unos grandes ojos adaptados perfectamente para ver debajo del agua. Su forma es una mezcla de pez espada y delfín lo que le convierte en un depredador rápido y ágil.
+El ictiosaurio mide unos 2 metros de largo y pesa entre unos 150 y 170 kilos. Se caracterizan por tener unos grandes ojos adaptados perfectamente para ver debajo del agua.
+
+Su forma es una mezcla de pez espada y delfín lo que le convierte en un depredador rápido y ágil que puede llegar a los 40 km/h en condiciones óptimas.
+
+&nbsp;
+
+### Iguanodon
+**Herbívoro | Terrestre | 3x2 casillas | Código: Willys (por el vehículo todoterreno Jeep Willys MB)**
+
+Estos saurios han sido reconstruidos a lo largo de los años muchas veces y cada una de ellas erróneas. Ahora sabemos que podía andar a dos o cuatro patas, siendo más rápidos a dos patas, aunque con la edad dejan de andar de forma bípeda y se impone andar a 4 patas.
+
+Quizás su característica más interesante sean sus extremidades superiores. En las patas delanteras tenían 5 dedos, tres dedos forman una especie de pezuñas, capaces de soportar su peso al andar. Tienen, además, un cuarto dedo, un pulgar con una gran garra para defensa y un menique articulado que le permitía manipular objetos como frutas o ramas.
+
+* **Atributos:** Agilidad d8, Astucia d6 (A), Espíritu d6, Fuerza d12+1, Vigor d8
+* **Habilidades:** Atletismo d8, Notar d6, Pelear d6
+* **Paso:** 6; **Parada:** 5; **Dureza:** 13(2)
 
 \saltopagina
 
 [![Foto artística de un Iguanodon](./assests/images/iguanodon.jpg 'Life restoration of I. galvensis - Caz41985')](https://en.wikipedia.org/wiki/Iguanodon#/media/File:Iguanodon_galvensis.png 'Life restoration of I. galvensis - Caz41985')
 
-### Iguanodon
-**Herbívoro | Terrestre | 0x0 casillas | Código: Willys (por el vehículo todoterreno Jeep Willys MB)**
-
-xxx
-
-* **Atributos:** Agilidad dX, Astucia dX (A), Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** xxx
-* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
-* **Ventajas:** xxx
-* **Desventajas:** xxx
 * **Capacidades especiales:**
-  * **Manos prensiles:** xxx
-
-\saltopagina
+  * **Armadura +2:** Piel escamosa.
+  * **Garras/pico:** FUE+d4
+  * **Grande:** +1 herida. Los enemigos de tamaño normal obtienen un +2 en tiradas de ataque contra ellos.
+  * **Manos prensiles:** Puede manipular botones, palancas y manillas de forma eficaz gracias a sus largos brazos y su meñique articulado. 
+  * **Tamaño +5:** +5 a Dureza. 3 toneladas de peso y unos 10 metros de cabeza a punta de la cola 
 
 [![Escala Iguanodon](./assests/images/escala-iguanodon.png 'Size chart for Iguanodon bernissartensis, based on an illustration by ArthurWeasley')](https://en.wikipedia.org/wiki/File:Iguanodon_scale.png 'Size chart for Iguanodon bernissartensis, based on an illustration by ArthurWeasley')
 
-Este herbívoro que podía andar a dos o cuatro patas pesaban un promedio de 3 toneladas​ y medían cerca de 10 metros de largo, pudiendo alcanzar en algunos casos los 13 metros. En las patas delanteras tres dedos forman una especie de pezuñas, pero tienen un cuarto dedo, un pulgar oponible que le permitía manipular objetos como frutas o ramas.
+Estos herbívoros pesaban un promedio de 3 toneladas​ y medían cerca de 10 metros de largo de punta a punta, pudiendo alcanzar en algunos casos los 13 metros, y hasta 2,7m de altura.
 
 \saltopagina
 
@@ -1579,6 +1590,10 @@ xxx
 * **Ventajas:** xxx
 * **Desventajas:** xxx
 * **Capacidades especiales:**
+
+[![Escala Megalosaurio](./assests/images/escala-megalosaurio.png 'Size comparison between Megalosaurus and a human by Conty')](https://commons.wikimedia.org/wiki/File:Megalosaurus_SIZE.png 'Size comparison between Megalosaurus and a human by Conty')
+
+El tamaño de largo de un megalosaurio adulto ronda los 9m y una altura de unos 2,5m. Su peso se estima en una tonelada. Como la mayoría de terópodos (dinosaurios bípedos) y a diferencia del alosaurio, sus extremidades superiores eran cortas y no le servían de mucho.
 
 \saltopagina
 
@@ -1637,11 +1652,17 @@ Como ya hemos contado, la expedición Challenger no solo encontró dinosaurios, 
 [![Dibujo artístico de Cavernicolas](./assests/images/cavernicolas.jpg 'Guide leaflet - Charles R. Knight')](https://commons.wikimedia.org/wiki/Category:Charles_R._Knight#/media/File:Guide_leaflet_(1901)_(14766909282).jpg 'Guide leaflet - Charles R. Knight')
 
 ### Cavernícola
-xxx
+**Omnívoro | Terrestre | 1x1 casillas**
+
+Estos humanos primitivos, no son diferentes de nosotros. Quizás son más fuertes y resistentes por su dura vida. Son cazadores y recolectores, por no decir carroñeros. Son capaces de crear y usar herramientas sencillas que usa para cazar, curtir pieles, trenzar cuerdas, hacer cestos, ... Han descubierto el fuego lo que ha mejorado mucho su calidad de vida.
+
+Aunque no se enfrentan a los titanes que pisan su mundo, han desarrollado técnicas para enfrentarse, sobre todo en grupo, contra seres mucho más grandes que ellos.
+
+Tienen un lenguaje de gruñidos muy básico basando en la supervivencia (peligro, comida, agua, etc.), pero que todavía no les sirve para transmitir información.
 
 * **Atributos:** Agilidad d6, Astucia d4, Espíritu d6, Fuerza d8, Vigor d8
-* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** xxx; **Dureza:** 6
+* **Habilidades:** Atletismo d6, Conocimientos Generales d4, Intimidar d6, Notar d6, Pelear d8, Sigilo d6, Supervivencia d8
+* **Paso:** 6; **Parada:** 6; **Dureza:** 6
 * **Ventajas:** Matagigantes
 * **Desventajas:** Manazas (menor), Analfabeto (menor)
 * **Equipo:** Pieles (+1 armadura pecho y piernas), hacha de piedra (FUE+d4), lanza de punta de piedra (FUE+d4, parada +1, alcance 1, dos manos)
@@ -1651,16 +1672,18 @@ xxx
 [![Foto artística de un Glyptodon](./assests/images/glyptodon.jpg 'Recreación artística de un Glyptodon - Luca Mendieta https://biopicturestudio.blogspot.com/')](https://es.wikipedia.org/wiki/Glyptodon#/media/Archivo:GLYPTODON.jpg 'Recreación artística de un Glyptodon - Luca Mendieta https://biopicturestudio.blogspot.com/')
 
 ### Glyptodon
-**Herbívoro | Terrestre | 0x0 casillas**
+**Herbívoro | Terrestre | 2x1 casillas**
 
-xxx
+Este gran mamífero acorazado miden unos 3m de largo y 1,5 de alto y podían llegar a las 2 tn de peso. Su caparazón es una buena defensa contra depredadores y su cola reforzada de placas óseas es muy fuerte lo que la convierte en una efectiva arma contundente.
 
-* **Atributos:** Agilidad dX, Astucia dX (A), Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** xxx
-* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
-* **Ventajas:** xxx
-* **Desventajas:** xxx
+Tienen muy mala visión de día y solo ven bien de noche, por eso prefieren los bosques frondosos donde la luz del sol no les molestaba tanto.
+
+* **Atributos:** Agilidad d6, Astucia d6 (A), Espíritu d6, Fuerza d12, Vigor d10
+* **Habilidades:** Pelear d8, Notar d4
+* **Paso:** 6; **Parada:** 6; **Dureza:** 14(4)
 * **Capacidades especiales:**
+  * **Armadura +4:** Caparazón óseo.
+  * **Tamaño +3:** Mide de media unos 3 metros de largo y pesaba cerca de una tonelada.
 
 \saltopagina
 
@@ -1683,19 +1706,25 @@ A pesar de su aspecto más cercano a los alces (de hecho se les conocía como al
 
 \saltopagina
 
+[![Imagen de un Pitecántropo](./assests/images/pitecantropo.jpg 'Reconstrucción facial de A. afarensis. Cicero Moraes')](https://es.wikipedia.org/wiki/Australopithecus_afarensis#/media/Archivo:Australopithecus_afarensis.png 'Reconstrucción facial de A. afarensis. Cicero Moraes')
+
+
 ### Pitecántropo
-xxx
+**Herbívoro | Terrestre/Arboreo | 1x1 casillas**
+
+Estos homínidos que pueden andar de pie son considerados el eslabón perdido entre el primate y el humano. Son muy buenos trepadores y muy fuertes como sus ancestros primates. Son agresivos y territoriales y habitan los bosques de la meseta de Maple White.
 
 * **Atributos:** Agilidad d10, Astucia d8 (A), Espíritu d8, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d10, Notar d6, Pelear d6, Sigilo d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
 * **Ventajas:** Acróbata
 * **Desventajas:** Cobarde (mayor)
+
+\saltopagina
+
 * **Capacidades especiales:**
   * **Mordisco:** FUE+d4 de daño.
   * **Buen trepador:** Paso 8 trepando. Los pitecántropos pasan gran parte de su vida en los árboles y su cuerpo está adaptado a ello. Añaden +2 a sus tiradas de Atletismo cuando trepan.
-
-\saltopagina
 
 [![Dibujo de un Phorusrhacos](./assests/images/phorusrhacos.jpg 'Recreación en vida. - ДиБгд')](https://es.wikipedia.org/wiki/Phorusrhacos#/media/Archivo:Phorusrhacos_longissimusDB24.jpg 'Recreación en vida. - ДиБгд')
 
@@ -1707,11 +1736,10 @@ Estas grandes aves depredadoras no voladoras miden alrededor de 2.5 metros de al
 * **Atributos:** Agilidad d8, Astucia d4 (A), Espíritu d6, Fuerza d8, Vigor d6
 * **Habilidades:** Atletismo d8, Notar d8, Pelear d8, Sigilo d8
 * **Paso:** 8; **Parada:** 6; **Dureza:** 6
-* **Ventajas:** Pies ligeros
-* **Desventajas:** --
 
 \saltopagina
 
+* **Ventajas:** Pies ligeros
 * **Capacidades especiales:**
   * **Tamaño +1:** Ronda os 2,5 m de alto y los 130 kg.
   * **Picotazo/Garras:** FUE+d6

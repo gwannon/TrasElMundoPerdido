@@ -5,11 +5,11 @@
 
 [Versión PDF](https://mundoperdido.gwannon.com/pdf/)
 
-# Por hacer de la versión 0.4
+# Por hacer de la versión 0.3
 * Estadísticas de dinosaurios
 * Estadísticas de secuaces
 
-# Por hacer de la versión 0.3
+# Por hacer de la versión 0.4
 
 ## La Fundación Roxton (6)
 * El mundo perdido
@@ -27,10 +27,13 @@
 
 # Changelog
 
-## Versión 0.3 En desarrollo
+## Versión 0.3.1 En desarrollo
+
+## Versión 0.3 30/06/2024
 * "Acerca de los dinosaurios" terminado.
 * Creadas imágenes para todos los capítulos
-* Animales terminados: Megaloceros, Phorusrhacos
+* Dinosaurios terminados: Alosaurio, Estegosaurio, Ictiosaurio, Iguanodones
+* Animales terminados: Megaloceros, Phorusrhacos, Pitecántropo, Cavernícola, Glyptodon
 
 ## Versión 0.2 13/08/2024
 * "La campaña" terminado.

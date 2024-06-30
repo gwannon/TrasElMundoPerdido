@@ -112,3 +112,5 @@ Ambassador
 Durrell
 pteranodones
 pteranodon
+terópodo
+terópodos

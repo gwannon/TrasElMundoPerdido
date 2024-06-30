@@ -131,6 +131,7 @@ h2 {
   display: inline-block;
   overflow: hidden;
   padding-bottom: 15px;
+  clear: both;
 }
 
 h2:after,
@@ -155,6 +156,7 @@ h3 {
   overflow: hidden;
   padding-bottom: 15px;
   margin-bottom: 5px;
+  clear: both;
 }
 
 section > ul > li,
@@ -170,6 +172,10 @@ section > ul > li:before {
   display: block;
   position: absolute;
   left: 0px;
+}
+
+section div.saltopagina + ul > li:before {
+  display: none;
 }
 
 section > ul > li > ul > li:before {
