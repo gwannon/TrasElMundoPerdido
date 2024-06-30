@@ -1366,7 +1366,7 @@ Hablamos del típico oficial nazi, altivo, déspota, seguramente muy sádico y q
 ### Infantería nazi con armamento pesado
 xxx
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Atributos:** Agilidad d6, Astucia d6, Espíritu d4, Fuerza d8, Vigor d6
 * **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Alemán d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
 * **Ventajas:** Soldado, xxx
@@ -1376,7 +1376,7 @@ xxx
 ### Infantería nazi acorazado
 xxx
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Atributos:** Agilidad d6, Astucia d6, Espíritu d4, Fuerza d8, Vigor d6
 * **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Alemán d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
 * **Ventajas:** Soldado, xxx
@@ -1384,17 +1384,17 @@ xxx
 * **Equipo:** Subfusil de asalto, peto de malla acorazado (+1 dureza), casco (+1 dureza cabeza)
 
 ### Infantería nazi con lanzallamas
-xxx
+Este soldado nazi está especializado en el uso de lanzallamas como arma de combate. Su tremenda capacidad de destrucción se compensa con las altas posibilidades que el lanzallamas falle y explote.
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Alemán d4, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+* **Atributos:** Agilidad d6, Astucia d6, Espíritu d4, Fuerza d8, Vigor d8
+* **Habilidades:** Atletismo d4, Conocimientos Generales d6, Disparar d8, Idioma Alemán d6, Pelear d4, Notar d4, Intimidar d6
+* **Paso:** 6; **Parada:** 4; **Dureza:** 7(1)
 
 \saltopagina
 
 * **Ventajas:** Soldado, xxx
 * **Desventajas:** xxx
-* **Equipo:** Lanzallamas, traje ignífugo, casco nazi (+1 dureza cabeza)
+* **Equipo:** Lanzallamas, traje ignífugo (+1), casco nazi (+1 dureza cabeza)
 
 ### Menestral/a
 Estamos hablando de personas que tiene un oficio manual; desde la herrera del pueblo o el alfarero, hasta los tejedores o los albañiles y carpinteros. Son gente que sabe mucho de su trabajo, pero poco más. Hacen un buen trabajo, cobran por ello y tratan de sobrevivir. Puedes gastar un par de puntos de habilidad en especializarles.
@@ -1494,14 +1494,14 @@ Sus potentes piernas también le convierten en el dinosaurio terrestre más ráp
 
 
 ### Estegosaurio
-**Herbívoro | Terrestre | 3x2 casillas | Código: xxx**
+**Herbívoro | Terrestre | 3x2 casillas | Código: Bren Carrier (Vehículo blindado de transporte de tropas)**
 
 Debido a sus distintivas espinas de la cola y sus placas dorsales, el estegosaurio es uno de los más reconocidos dinosaurios. Es el mayor herbívoro del mundo perdido y gracias a su masa y a su fuerte y elevada cola puede hacerle frente, incluso derrotar a un alosaurio. Sus placas dorsales son una mezcla de sistema de termorregulación y de protección. 
 
 En general son lentos y tranquilos, pero la creencia de que eran poco inteligentes por su pequeño cerebro es falsa. Viven en manadas y son muy protectores con sus crías. No hay que olvidar que debajo de su imagen de tranquilos herbívoros hay unas máquinas letales capaces de hacer frente a cualquier enemigo mucho más si no está solo. 
 
 * **Atributos:** Agilidad d6, Astucia d6 (A), Espíritu d8, Fuerza d12+3, Vigor d12
-* **Habilidades:** xxx
+* **Habilidades:** Atletismo d4, Notar d8, Pelear d8
 * **Paso:** 6; **Parada:** 5; **Dureza:** 16(2)
 * **Ventajas:** Atletismo d6, Pelea d6, Notar d8
 * **Capacidades especiales:**
@@ -1625,7 +1625,9 @@ Su cuerpo está totalmente adaptado a la vida acuática. Su piel no es escamosa,
 ### Pteranodon
 **Carnívoro | Volador | 3x1 casillas | Código: Spitfire**
 
-xxx
+Que los reptiles aprendieron a volar que las aves descienden de estos dinosaurios voladores es de sobra conocido. Los pteranodones son el culmen de los reptiles voladores y aunque torpes en tierra son los amos de los aires. Los pteranodones pasan mucho tiempo pescando en el mar y como las grandes aves marinas, su vuelo se basada más en el planeo con sus grandes alas que en el aleteo.
+
+Como bien nos ha enseñado el cine (en realidad no) son capaces de lanzarse contra sus presas o enemigos agarrarlos y elevarse con ellos para llevarlos a su nido para alimentar a sus crías o para dejarlos caer de grandes alturas. 
 
 \saltopagina
 
@@ -1803,11 +1805,12 @@ El suicidio es un tema tratado, aunque sea un poco de pasada, en esta campaña. 
 ### Fascismo y nazismo
 Esta campaña va de joder los malvados planes de los nazis, así que cualquier tipo de actividad en partida que suponga simpatizar con nazis y fascistas y su ideología debería ser una "red flag" clarísima. Si tus compañeros y compañeras de mesa ensalzan de alguna manera las ideas de nazis y fascistas, deberías levantarte e irte y si eres tú, él o la que las ensalza que sepas que eres un pedazo de mierda. 
 
-\saltopagina
-
 ## Atribuciones
 * Los dinosaurios están basados en [Savage Free Bestiary](https://docs.google.com/document/d/1qu4zzMYbPqOquVlCfgpPeoCmCEqGUgWh5dz-rpKJ1ck/edit?hl=it&authkey=CIySp98E#heading=h.7xcwydin4cfe)
+* Las descripciones de dinosaurios y de los eventos de la II Guerra Mundial están desarrolladas a partir de textos de la Wikipedia.
 * [Libro original](https://archive.org/details/lostworldbeingac00doylrich/page/n220/mode/1up) en inglés con ilustraciones
+
+\saltopagina
 
 ### Imágenes
 No soy propietario de ninguna de las imágenes de este documento. Estoy usando imágenes con licencia CC y atribuyéndola a su propietario. Si hay algún error, hacédmelo saber para corregirlo. Estas son las imágenes que por diseño no he podido atribuir de manera adecuada enlazándolas correctamente.

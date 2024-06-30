@@ -7,7 +7,19 @@
 
 # Por hacer de la versión 0.3
 * Estadísticas de dinosaurios
+  * Megalosaurio
+  * Plesiosaurio
 * Estadísticas de secuaces
+  * Infantería
+  * Oficial
+  * Mujeres y hombres de ciencia
+  * Tripulante del Mary Anning
+  * Combatiente de la guerrilla
+  * Líder de la guerrilla
+  * Infantería nazi
+  * Oficial nazi
+  * Infantería nazi acorazado
+  * Infantería nazi con lanzallamas
 
 # Por hacer de la versión 0.4
 
@@ -28,6 +40,7 @@
 # Changelog
 
 ## Versión 0.3.1 En desarrollo
+* Dinosaurios terminados: Pteranodon
 
 ## Versión 0.3 30/06/2024
 * "Acerca de los dinosaurios" terminado.
