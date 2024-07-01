@@ -1301,14 +1301,14 @@ xxx
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
-* **Ventajas:** Mando, Soldado.
+* **Ventajas:** Mando, Soldado
 * **Desventajas:** Obligaciones (ejército)
 * **Equipo:** Pistola, casco (+1 dureza cabeza)
 
 \saltopagina
 
 ### Mujeres y hombres de ciencia
-Hablamos de todo tipo de especialista en cualquier campo de la ciencia, desde paleontólogas a zoólogos, físicos, químicas, astronomos, biologas, etc. Deberían tener formación universitaria y puede que tengan formación militar o de supervivencia si son militares o han participado en expediciones por todo el mundo.
+Hablamos de todo tipo de especialista en cualquier campo de la ciencia, desde paleontólogas a zoólogos, físicos, químicas, astrónomos, biólogas, etc. Deberían tener formación universitaria y puede que tengan formación militar o de supervivencia si son militares o han participado en expediciones por todo el mundo.
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma materno d4, Notar d4, Persuadir d4, Sigilo d4
@@ -1334,7 +1334,7 @@ Incluye a cualquier tipo de persona que empuñe un arma y defienda sus tierras d
 * **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma materno d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
 * **Ventajas:** Soldado, xxx
-* **Desventajas:** xxx
+* **Desventajas:** Leal, xxx
 * **Equipo:** Fusil, machete(FUE+d6), 1 granada
 
 \saltopagina
@@ -1345,7 +1345,7 @@ Todas guerrilla cuenta con una líder o un líder carismático capaz de mover a 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma materno d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
-* **Ventajas:** Soldado, xxx
+* **Ventajas:** Mando, Soldado, xxx
 * **Desventajas:** xxx
 * **Equipo:** Fusil, machete(FUE+d6), 1 granada
 
@@ -1356,7 +1356,7 @@ Hablamos de combatientes de baja graduación de cualquier rama del ejército naz
 * **Habilidades:** Atletismo d6, Conducir d6, Conocimientos Generales d6, Disparar d8, Idioma Alemán d4, Notar d6, Pelear d6, Persuadir d4, Sigilo d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 6
 * **Ventajas:** Soldado, xxx
-* **Desventajas:** Obligaciones (ejército)
+* **Desventajas:** Obligaciones (ejército), Fanático (SS)
 * **Equipo:** Fusil, bayoneta(FUE+d4), casco (+1 dureza cabeza), 2 granadas
 
 ### Oficial nazi
@@ -1369,7 +1369,7 @@ Hablamos del típico oficial nazi, altivo, déspota, seguramente muy sádico y q
 \saltopagina
 
 * **Ventajas:** Mando, Soldado, xxx
-* **Desventajas:** Obligaciones (ejército), Elige 1 (Avaricioso, Sanguinario, Vengativo)
+* **Desventajas:** Obligaciones (ejército), Fanático (SS), Elige 1 (Avaricioso, Sanguinario, Vengativo, Sobreconfiado)
 * **Equipo:** Pistola
 
 ### Infantería nazi con armamento pesado
@@ -1379,7 +1379,7 @@ Este soldado nazi es por así decirlo ua arama de destrucción personal. Tiene u
 * **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Alemán d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
 * **Ventajas:** Soldado, xxx
-* **Desventajas:** Obligaciones (ejército)
+* **Desventajas:** Obligaciones (ejército), Fanático (SS)
 * **Equipo:** Ametralladora pesada con arnés de sujeción (necesita un turno completo para deshacerse de este equipo), casco (+1 dureza cabeza)
 
 ### Infantería nazi acorazado
@@ -1389,7 +1389,7 @@ xxx
 * **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Alemán d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
 * **Ventajas:** Soldado, xxx
-* **Desventajas:** Obligaciones (ejército)
+* **Desventajas:** Obligaciones (ejército), Fanático (SS)
 * **Equipo:** Subfusil de asalto, peto de malla acorazado (+1 dureza), casco (+1 dureza cabeza)
 
 ### Infantería nazi con lanzallamas
@@ -1401,8 +1401,8 @@ Este soldado nazi está especializado en el uso de lanzallamas como arma de comb
 
 \saltopagina
 
-* **Ventajas:** Soldado, xxx
-* **Desventajas:** xxx
+* **Ventajas:** Soldado, Ansia de muerte???
+* **Desventajas:** Obligaciones (ejército), Fanático (SS) 
 * **Equipo:** Lanzallamas, traje ignífugo (+1), casco nazi (+1 dureza cabeza)
 
 ### Menestral/a
