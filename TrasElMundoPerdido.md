@@ -1296,12 +1296,12 @@ Hablamos de combatientes de baja graduación de cualquier rama del ejército. Se
 * **Equipo:** Fusil, bayoneta(FUE+d4), casco (+1 dureza cabeza), 2 granadas
 
 ### Oficial
-xxx
+Hablamos de todo tipo de oficiales que hace años que no han pisado un campo de batalla o una trinchera. Siempre van con su uniforme inmaculado y sus botas brillantes. Se pueden personalizar según su trabajo normal, por ejemplo, +1 nivel a Tácticas si trabaja en el alto mando o +1 nivel a Intimidar o Persuadir si se encarga de interrogatorios, etc. 
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Notar d4, Persuadir d4, Sigilo d4, Tácticas d6
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
-* **Ventajas:** Mando, Soldado
+* **Ventajas:** Mando
 * **Desventajas:** Obligaciones (ejército)
 * **Equipo:** Pistola, casco (+1 dureza cabeza)
 
@@ -1317,15 +1317,15 @@ Hablamos de todo tipo de especialista en cualquier campo de la ciencia, desde pa
 * **Desventajas:** xxx
 * **Equipo:** xxx
 
-### Tripulante del Mary Anning
-xxx
+### Tripulante del "Mary Anning"
+Los y las tripulantes del "Mary Anning" son de lo mejor que la marina mercante puede ofrecer. Saben enfrentarse con valentía a lo que el mar les pueda echar y no son capaces de saltarse bloqueos marítimos y meter contrabando sin que los nazis lo detecten. Hablan inglés y español de sus constantes viajes a Sudamerica.
 
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d6, Fuerza d6, Vigor d8
-* **Habilidades:** Atletismo d6, Conocimientos Generales d6, Dispara d6, Idioma Español d6, Idioma Inglés d6, Navegar d6, Notar d6, Pelear d6, Persuadir d4, Reparar d6, Sigilo d4, Supervivencia d6
+* **Habilidades:** Atletismo d6, Conocimientos Generales d6, Dispara d6, Latrocinio d6, Idioma Español d6, Idioma Inglés d6, Navegar d6, Notar d6, Pelear d6, Persuadir d4, Reparar d6, Sigilo d4, Supervivencia d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 6
 * **Ventajas:** xxx
 * **Desventajas:** xxx
-* **Equipo:** xxx
+* **Equipo:** Machete(FUE+d6), xxx
 
 ### Combatiente de la guerrilla
 Incluye a cualquier tipo de persona que empuñe un arma y defienda sus tierras de los invasores nazis. Desde jóvenes sin experiencia y con mucho ánimo hasta personas ancianas experimentadas pero cansadas de luchas.
@@ -1373,7 +1373,7 @@ Hablamos del típico oficial nazi, altivo, déspota, seguramente muy sádico y q
 * **Equipo:** Pistola
 
 ### Infantería nazi con armamento pesado
-Este soldado nazi es por así decirlo ua arama de destrucción personal. Tiene una especie de arnés que le permite sostener una ametralladora pesada y moverse (lentamente) con ella. Mientras los saurios no estén cerca de él, es un temible adversario. Su problema es que en cuerpo a cuerpo es torpe y lento.
+Este soldado nazi es por así decirlo una arma de destrucción personal. Tiene una especie de arnés que le permite sostener una ametralladora pesada y moverse (lentamente) con ella. Mientras los saurios no estén cerca de él, es un temible adversario. Su problema es que en cuerpo a cuerpo es torpe y lento.
 
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d4, Fuerza d8, Vigor d6
 * **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Alemán d4, Notar d4, Persuadir d4, Sigilo d4
@@ -1383,14 +1383,14 @@ Este soldado nazi es por así decirlo ua arama de destrucción personal. Tiene u
 * **Equipo:** Ametralladora pesada con arnés de sujeción (necesita un turno completo para deshacerse de este equipo), casco (+1 dureza cabeza)
 
 ### Infantería nazi acorazado
-xxx
+La idea de este soldado nazi es crear una persona que sea un tanque. Con tanto blindaje encima que no tenga problemas en meterse directamente en la línea de fuego del enemigo con sus armas automáticas. Como en otros casos su capacidad de movimiento es limitada debido al peso de la armadura y de su armamento. Por todo esto es más fácil evitarlo que enfrentarse a él directamente. 
 
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d4, Fuerza d8, Vigor d6
 * **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Alemán d4, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+* **Paso:** 6; **Parada:** xxx; **Dureza:** 8(3)
 * **Ventajas:** Soldado, xxx
 * **Desventajas:** Obligaciones (ejército), Fanático (SS)
-* **Equipo:** Subfusil de asalto, peto de malla acorazado (+1 dureza), casco (+1 dureza cabeza)
+* **Equipo:** Subfusil de asalto, peto de malla acorazado (+4 dureza), casco (+1 dureza cabeza)
 
 ### Infantería nazi con lanzallamas
 Este soldado nazi está especializado en el uso de lanzallamas como arma de combate. Su tremenda capacidad de destrucción se compensa con las altas posibilidades que el lanzallamas falle y explote.
