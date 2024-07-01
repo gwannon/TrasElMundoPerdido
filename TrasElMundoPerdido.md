@@ -1134,7 +1134,10 @@ xxx
 \saltopagina
 
 ## Semillas de aventuras
-Además de los relatos salvajes aquí te propongo una serie de semillas de aventuras si quieres alargar tus partidas o darles más profundidad.
+Además de los relatos salvajes, aquí te propongo una serie de semillas de aventuras si quieres alargar tus partidas o darles más profundidad.
+
+### Samuráis y ninjas
+El Tercer Reich pide ayuda al ejército imperial japonés y estos envían a grupo de ninjas y samuráis para hacer frente a tus comandos y sus saurios. Quizás puedas animar las partidas con ataques de ninjas mientras duermen en un tren nocturno a París o tal vez tus comandos tengan que enfrentarse a un samurái que para las balas con su espada e invoca su chi a través de ella. 
 
 ### La gran evasión
 Alguien de tus comandos, incluso todos, han caído prisioneros de los nazis y deberán escapar de un campo de prisioneros al más puro estilo "La gran evasión".
@@ -1288,87 +1291,85 @@ Recuerda que en esta campaña muchos de estos PNJ genéricos puedes personalizar
 ### Infantería 
 Hablamos de combatientes de baja graduación de cualquier rama del ejército. Se pueden personalizar según su trabajo normal, por ejemplo, +1 nivel a Reparar si es repara vehículos o +1 nivel a Disparar si está en primera línea del frente, etc. 
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
-* **Ventajas:** Soldado, xxx
-* **Desventajas:** Obligaciones (ejército)
+* **Atributos:** Agilidad d6, Astucia d6, Espíritu d6, Fuerza d6, Vigor d6
+* **Habilidades:** Atletismo d6, Conocimientos Generales d6, Disparar d8, Idioma materno d6, Notar d6, Pelear d6, Persuadir d4, Sigilo d4
+* **Paso:** 6; **Parada:** 5; **Dureza:** 5
+* **Ventajas:** Soldado
+* **Desventajas:** Obligaciones (ejército), Leal
 * **Equipo:** Fusil, bayoneta(FUE+d4), casco (+1 dureza cabeza), 2 granadas
 
 ### Oficial
 Hablamos de todo tipo de oficiales que hace años que no han pisado un campo de batalla o una trinchera. Siempre van con su uniforme inmaculado y sus botas brillantes. Se pueden personalizar según su trabajo normal, por ejemplo, +1 nivel a Tácticas si trabaja en el alto mando o +1 nivel a Intimidar o Persuadir si se encarga de interrogatorios, etc. 
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Notar d4, Persuadir d4, Sigilo d4, Tácticas d6
-* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
-* **Ventajas:** Mando
-* **Desventajas:** Obligaciones (ejército)
-* **Equipo:** Pistola, casco (+1 dureza cabeza)
+* **Atributos:** Agilidad d6, Astucia d6, Espíritu d4, Fuerza d6, Vigor d6
+* **Habilidades:** Atletismo d6, Conducir d6, Conocimientos Generales d6, Disparar d8, Idioma materno d6, Intimidar d8, Notar d8, Pelear d6, Persuadir d6, Sigilo d6, Tácticas d6
+* **Paso:** 6; **Parada:** 5; **Dureza:** 5
 
 \saltopagina
+
+* **Ventajas:** Mando, Inspiración
+* **Desventajas:** Obligaciones (ejército), Leal
+* **Equipo:** Pistola, casco (+1 dureza cabeza)
 
 ### Mujeres y hombres de ciencia
 Hablamos de todo tipo de especialista en cualquier campo de la ciencia, desde paleontólogas a zoólogos, físicos, químicas, astrónomos, biólogas, etc. Deberían tener formación universitaria y puede que tengan formación militar o de supervivencia si son militares o han participado en expediciones por todo el mundo.
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma materno d4, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
-* **Ventajas:** xxx
-* **Desventajas:** xxx
-* **Equipo:** xxx
+* **Atributos:** Agilidad d6, Astucia d8, Espíritu d6, Fuerza d6, Vigor d6
+* **Habilidades:** Atletismo d4, Ciencias d8, Conocimientos Generales d8, Idioma materno d8, Notar d8, Persuadir d4, Sigilo d4
+* **Paso:** 6; **Parada:** 4; **Dureza:** 5
+* **Ventajas:** Elige 1 (Persona de recursos, Mr. Arreglalotodo, Investigador, McGyver)
+* **Desventajas:** Elige 1 (Avergonzado, Despistado, Fobia, Patoso)
+* **Equipo:** Equipo científico adecuado a su especialidad y material de escritura
 
 ### Tripulante del "Mary Anning"
-Los y las tripulantes del "Mary Anning" son de lo mejor que la marina mercante puede ofrecer. Saben enfrentarse con valentía a lo que el mar les pueda echar y no son capaces de saltarse bloqueos marítimos y meter contrabando sin que los nazis lo detecten. Hablan inglés y español de sus constantes viajes a Sudamerica.
+Los y las tripulantes del "Mary Anning" son de lo mejor que la marina mercante puede ofrecer. Saben enfrentarse con valentía a lo que el mar les pueda echar y no son capaces de saltarse bloqueos marítimos y meter contrabando sin que los nazis lo detecten. Hablan inglés y español de sus constantes viajes a Sudamérica.
 
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d6, Fuerza d6, Vigor d8
 * **Habilidades:** Atletismo d6, Conocimientos Generales d6, Dispara d6, Latrocinio d6, Idioma Español d6, Idioma Inglés d6, Navegar d6, Notar d6, Pelear d6, Persuadir d4, Reparar d6, Sigilo d4, Supervivencia d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 6
-* **Ventajas:** xxx
-* **Desventajas:** xxx
-* **Equipo:** Machete(FUE+d6), xxx
+* **Ventajas:** Manos firmes
+* **Equipo:** Machete(FUE+d6), Salvavidas, Caja de herramientas
 
 ### Combatiente de la guerrilla
 Incluye a cualquier tipo de persona que empuñe un arma y defienda sus tierras de los invasores nazis. Desde jóvenes sin experiencia y con mucho ánimo hasta personas ancianas experimentadas pero cansadas de luchas.
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma materno d4, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
-* **Ventajas:** Soldado, xxx
-* **Desventajas:** Leal, xxx
-* **Equipo:** Fusil, machete(FUE+d6), 1 granada
-
 \saltopagina
+
+* **Atributos:** Agilidad d6, Astucia d4, Espíritu d8, Fuerza d8, Vigor d6
+* **Habilidades:** Atletismo d6, Conocimientos Generales d6, Disparar d8, Idioma materno d6, Notar d6, Pelear d6, Persuadir d4, Sigilo d8, Supervivencia d6
+* **Paso:** 6; **Parada:** 5; **Dureza:** 5
+* **Desventajas:** Leal
+* **Equipo:** Fusil, machete(FUE+d6), 1 granada
 
 ### Líder de la guerrilla
 Todas guerrilla cuenta con una líder o un líder carismático capaz de mover a sus combatientes hacia el combate y salir victoriosos de las más graves situaciones de combate. 
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma materno d4, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
-* **Ventajas:** Mando, Soldado, xxx
-* **Desventajas:** xxx
+* **Atributos:** Agilidad d6, Astucia d4, Espíritu d8, Fuerza d8, Vigor d8
+* **Habilidades:** Atletismo d6, Conocimientos Generales d6, Disparar d8, Idioma materno d6, Notar d6, Pelear d8, Persuadir d4, Sigilo d8, Supervivencia d6, Tácticas d6
+* **Paso:** 6; **Parada:** 6; **Dureza:** 6
+* **Ventajas:** Mando, Osado
+* **Desventajas:** Enemigo (Mayor, Nazis)
 * **Equipo:** Fusil, machete(FUE+d6), 1 granada
 
 ### Infantería nazi
 Hablamos de combatientes de baja graduación de cualquier rama del ejército nazi. Se pueden personalizar según su trabajo normal, por ejemplo, +1 nivel a Supervivencia si es un explorador o +1 nivel a Conducir si vigila las carreteras en una moto BMW R-71, etc. 
 
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d4, Fuerza d8, Vigor d8
-* **Habilidades:** Atletismo d6, Conducir d6, Conocimientos Generales d6, Disparar d8, Idioma Alemán d4, Notar d6, Pelear d6, Persuadir d4, Sigilo d6
+* **Habilidades:** Atletismo d6, Conducir d6, Conocimientos Generales d6, Disparar d8, Idioma materno d6, Notar d6, Pelear d6, Persuadir d4, Sigilo d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 6
-* **Ventajas:** Soldado, xxx
+* **Ventajas:** Soldado
 * **Desventajas:** Obligaciones (ejército), Fanático (SS)
 * **Equipo:** Fusil, bayoneta(FUE+d4), casco (+1 dureza cabeza), 2 granadas
+
+\saltopagina
 
 ### Oficial nazi
 Hablamos del típico oficial nazi, altivo, déspota, seguramente muy sádico y que siempre está gritando. No tengas ningún reparo en acabar con ellos, la lista de crímenes de guerra y de lesa humanidad que haya cometido será seguramente larguísima, perfectos para que se los coma de un bocado un alosaurio.
 
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d4, Fuerza d6, Vigor d6
-* **Habilidades:** Atletismo d6, Conducir d6, Conocimientos Generales d6, Disparar d8, Idioma Alemán d6, Idioma Inglés d4, Intimidar d8, Notar d8, Pelear d6, Persuadir d6, Sigilo d6
+* **Habilidades:** Atletismo d6, Conducir d6, Conocimientos Generales d6, Disparar d8, Idioma materno d6, Idioma Inglés d4, Intimidar d8, Notar d8, Pelear d6, Persuadir d6, Sigilo d6, Tácticas d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
-
-\saltopagina
-
-* **Ventajas:** Mando, Soldado, xxx
+* **Ventajas:** Mando, Soldado, Inspiración
 * **Desventajas:** Obligaciones (ejército), Fanático (SS), Elige 1 (Avaricioso, Sanguinario, Vengativo, Sobreconfiado)
 * **Equipo:** Pistola
 
@@ -1376,19 +1377,21 @@ Hablamos del típico oficial nazi, altivo, déspota, seguramente muy sádico y q
 Este soldado nazi es por así decirlo una arma de destrucción personal. Tiene una especie de arnés que le permite sostener una ametralladora pesada y moverse (lentamente) con ella. Mientras los saurios no estén cerca de él, es un temible adversario. Su problema es que en cuerpo a cuerpo es torpe y lento.
 
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d4, Fuerza d8, Vigor d6
-* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Alemán d4, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
-* **Ventajas:** Soldado, xxx
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Disparar d10, Idioma materno d6, Pelear d4, Notar d4, Persuadir d4, Sigilo d4
+* **Paso:** 6 (sobrecargado: paso 4 y no puede correr); **Parada:** 4; **Dureza:** 5
+* **Ventajas:** Soldado, Manos firmes
 * **Desventajas:** Obligaciones (ejército), Fanático (SS)
-* **Equipo:** Ametralladora pesada con arnés de sujeción (necesita un turno completo para deshacerse de este equipo), casco (+1 dureza cabeza)
+* **Equipo:** Ametralladora pesada con arnés de sujeción (necesita un turno completo para deshacerse de este equipo) y gran cantidad de munición, casco (+1 dureza cabeza)
 
 ### Infantería nazi acorazado
-La idea de este soldado nazi es crear una persona que sea un tanque. Con tanto blindaje encima que no tenga problemas en meterse directamente en la línea de fuego del enemigo con sus armas automáticas. Como en otros casos su capacidad de movimiento es limitada debido al peso de la armadura y de su armamento. Por todo esto es más fácil evitarlo que enfrentarse a él directamente. 
+La idea de este soldado nazi es crear una persona que sea un tanque. Con tanto blindaje encima que no tenga problemas en meterse directamente en la línea de fuego del enemigo con sus armas automáticas. Como en otros casos su capacidad de movimiento es limitada debido al peso de la armadura y de su armamento. Por todo esto es más fácil evitarlo que enfrentarse a él directamente.
+
+\saltopagina
 
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d4, Fuerza d8, Vigor d6
-* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Alemán d4, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** xxx; **Dureza:** 8(3)
-* **Ventajas:** Soldado, xxx
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Disparar d8, Idioma materno d6, Pelear d4, Notar d4, Persuadir d4, Sigilo d4
+* **Paso:** 6 (sobrecargado: paso 4 y no puede correr); **Parada:** 4; **Dureza:** 9(4)
+* **Ventajas:** Soldado, Disparo rápido
 * **Desventajas:** Obligaciones (ejército), Fanático (SS)
 * **Equipo:** Subfusil de asalto, peto de malla acorazado (+4 dureza), casco (+1 dureza cabeza)
 
@@ -1396,13 +1399,10 @@ La idea de este soldado nazi es crear una persona que sea un tanque. Con tanto b
 Este soldado nazi está especializado en el uso de lanzallamas como arma de combate. Su tremenda capacidad de destrucción se compensa con las altas posibilidades que el lanzallamas falle y explote.
 
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d4, Fuerza d8, Vigor d8
-* **Habilidades:** Atletismo d4, Conocimientos Generales d6, Disparar d8, Idioma Alemán d6, Pelear d4, Notar d4, Intimidar d6
+* **Habilidades:** Atletismo d4, Conocimientos Generales d6, Disparar d8, Idioma materno d6, Pelear d4, Notar d4, Intimidar d6
 * **Paso:** 6; **Parada:** 4; **Dureza:** 7(1)
-
-\saltopagina
-
-* **Ventajas:** Soldado, Ansia de muerte???
-* **Desventajas:** Obligaciones (ejército), Fanático (SS) 
+* **Ventajas:** Soldado, Sin piedad
+* **Desventajas:** Obligaciones (ejército), Fanático (SS),Deseo de muerte
 * **Equipo:** Lanzallamas, traje ignífugo (+1), casco nazi (+1 dureza cabeza)
 
 ### Menestral/a
@@ -1412,6 +1412,9 @@ Estamos hablando de personas que tiene un oficio manual; desde la herrera del pu
 * **Habilidades:** Atletismo d4, Ciencias d4, Conocimientos Generales d6, Idioma materno d6, Notar d4, Pelear d4, Reparar d8, Sigilo d4
 * **Paso:** 6; **Parada:** 4; **Dureza:** 5
 * **Ventajas:** Elige 1 o más: Mr. Arreglalotodo, Hombre de recursos
+
+\saltopagina
+
 * **Desventajas:** Elige 1 o más: Avaricioso (Mayor), Feo (Menor), Habito (Mayor, Alcoholismo), Pobreza (Menor)
 * **Equipo:** Cuchillo o una herramienta de su oficio (FUE+d4)
 
@@ -1428,8 +1431,6 @@ Vamos desde dependientes de tiendas hasta taberneros y toda la estructura de gen
 ### Burócrata
 Estamos hablando desde caros oficiales como alcalde/sa a las personas encargadas del registro, pasando por la gente que recauda los impuestos o chupatintas que están detrás de un mostrador en los juzgados.
 
-\saltopagina
-
 * **Atributos:** Agilidad d4, Astucia d6, Espíritu d6, Fuerza d4, Vigor d4
 * **Habilidades:** Atletismo d4, Conocimientos Generales d6, Humanidades d6, Idioma materno d6, Notar d6, Pelear d4, Persuadir d6, Sigilo d4
 * **Paso:** 6; **Parada:** 4; **Dureza:** 4
@@ -1439,6 +1440,8 @@ Estamos hablando desde caros oficiales como alcalde/sa a las personas encargadas
 
 ### Artista
 Bailarines y bailarinas, actores y actrices, intérpretes musicales de cualquier tipo, comediantes, ...
+
+\saltopagina
 
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d8, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d6, Conocimientos Generales d6, Humanidades d6, Idioma materno d8, Interpretación d8, Notar d6, Persuadir d6, Sigilo d4, Sigilo d4
