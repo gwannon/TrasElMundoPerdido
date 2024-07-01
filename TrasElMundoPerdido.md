@@ -1154,10 +1154,12 @@ Aquí tienes, primero, aliados de tus comandos, miembros de la Fundación, altos
 
 Por último, tenemos una sección con los auténticos protagonistas de esta campaña los dinosaurios con extensas descripciones, ilustraciones, escalas en relación con los humanos, etc.
 
-> Recuerda que todo PJs con este símbolo (&#x2638;) en su nombre son considerados comodines con todo lo que ello conlleva.
+> Recuerda que todo PJ con este símbolo (&#x2638;) en su nombre son considerados comodines con todo lo que ello conlleva.
+
+Con cada PJ viene una "sugerencia de interpretación". Como bien dice su nombre es una sugerencia y eres libre de seguirla o no. Es tu aventura no la nuestra.
 
 ## Aliados
-xxx
+Don Quijote no sería nada sin su Sancho Pancho y tus comandos no serían nada sin sus aliados. En este apartado encontrarás a los principales aliados de tu mesa, gentes de la Fundación, de IM y PNJ que encontrarán cada escenario.
 
 > Las vidas sentimentales y sexuales de los personajes de esta ambientación han sido dejadas a propósito sin definir para que las adaptes como más te interese. Así que cualquier persona de tu mesa podrá "romancear" con cualquier PNJ que encuentres aquí.
 > Recuerda también que en los pocos casos en se habla de familia, no se especifica a propósito cómo es y quiénes la componen. Móntate las relaciones sexo-afectivas y familiares que mejor se ajusten a tus gustos y los de tu mesa y con las que todos os encontréis cómodos.
