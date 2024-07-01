@@ -1111,12 +1111,23 @@ Este, joven naturalista y activista medioambiental va a ser un pequeño quebrade
 
 ## El prototipo
 ```
-La gente de IM tiene nuevos inventos e ingenios para saurios y necesita que sean testados en una misión real. Quizás en su proximo viaje puedan llevárselos y hacer una prueba de campo.
+La gente de IM tiene nuevos inventos e ingenios para saurios y necesita que sean testados en una misión real. Quizás en su próximo viaje puedan llevárselos y hacer una prueba de campo.
 ```
 
 \saltopagina
 
-Esto no es exactamente un relato, sino una serie de ingenios y cachivaches que pueden llevarse en cada misión para probarlos. Son cacharros con funciones locas que fallan un montón y que tienen a explotar. Tómatelo como algo divertido y humorístico que meter en las grandes misiones. Si el humor no encaja en como llevas esta campaña, obvia completamente esta parte. 
+Esto no es exactamente un relato, sino una serie de ingenios y cachivaches que pueden llevarse en cada misión para probarlos. Son cacharros con funciones locas que fallan un montón y que tienden a explotar. Tómatelo como algo divertido y humorístico que meter en las grandes misiones. Si el humor no encaja en como llevas esta campaña, obvia completamente esta parte. 
+
+### Antena de radio para estegosaurios
+xxx
+
+### Flotadores para alosaurios
+Los dinosaurios terrestres no son buenos nadadores y la gente de IM han decidido crear unos flotadores en forma de rosca para alosaurios y megalosaurios.
+
+xxx
+
+### Ruidos de la selva
+En IM han metido en un mini-fonógrafo ruidos de la selva para que los dinosaurios se sientan como en casa en casos de estrés.
 
 xxx
 
@@ -1297,7 +1308,7 @@ xxx
 \saltopagina
 
 ### Mujeres y hombres de ciencia
-xxx
+Hablamos de todo tipo de especialista en cualquier campo de la ciencia, desde paleontólogas a zoólogos, físicos, químicas, astronomos, biologas, etc. Deberían tener formación universitaria y puede que tengan formación militar o de supervivencia si son militares o han participado en expediciones por todo el mundo.
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma materno d4, Notar d4, Persuadir d4, Sigilo d4
@@ -1362,14 +1373,14 @@ Hablamos del típico oficial nazi, altivo, déspota, seguramente muy sádico y q
 * **Equipo:** Pistola
 
 ### Infantería nazi con armamento pesado
-xxx
+Este soldado nazi es por así decirlo ua arama de destrucción personal. Tiene una especie de arnés que le permite sostener una ametralladora pesada y moverse (lentamente) con ella. Mientras los saurios no estén cerca de él, es un temible adversario. Su problema es que en cuerpo a cuerpo es torpe y lento.
 
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d4, Fuerza d8, Vigor d6
 * **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Alemán d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
 * **Ventajas:** Soldado, xxx
 * **Desventajas:** Obligaciones (ejército)
-* **Equipo:** Ametralladora pesada, casco (+1 dureza cabeza)
+* **Equipo:** Ametralladora pesada con arnés de sujeción (necesita un turno completo para deshacerse de este equipo), casco (+1 dureza cabeza)
 
 ### Infantería nazi acorazado
 xxx
