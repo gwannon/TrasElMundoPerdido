@@ -5,19 +5,6 @@
 
 [Versión PDF](https://mundoperdido.gwannon.com/pdf/)
 
-# Por hacer de la versión 0.3
-* Estadísticas de secuaces
-  * Infantería
-  * Oficial
-  * Mujeres y hombres de ciencia
-  * Tripulante del Mary Anning
-  * Combatiente de la guerrilla
-  * Líder de la guerrilla
-  * Infantería nazi
-  * Oficial nazi
-  * Infantería nazi acorazado
-  * Infantería nazi con lanzallamas
-
 # Por hacer de la versión 0.4
 
 ## La Fundación Roxton (6)
@@ -36,7 +23,9 @@
 
 # Changelog
 
-## Versión 0.3.1 En desarrollo
+## Versión 0.4
+
+## Versión 0.3.1 02/07/2024
 * Dinosaurios terminados: Pteranodon, Plesiosaurio, Megalosaurio
 * Secuaces terminados: Infantería, Oficial, Mujeres y hombres de ciencia, Tripulante del "Mary Anning", Combatiente de la guerrilla, Líder de la guerrilla, Infantería nazi, Oficial nazi, Infantería nazi acorazado, Infantería nazi con lanzallamas
 
