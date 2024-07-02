@@ -13,7 +13,6 @@
 * La Fundación Roxton
   * Lady Roxton
   * Las instalaciones de la Fundación Roxton
-  * Castillo de Dunvegan
 
 ## Recursos 
 * https://commons.wikimedia.org/wiki/Category:Charles_R._Knight

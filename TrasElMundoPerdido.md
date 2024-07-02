@@ -137,20 +137,30 @@ La Fundación, como santuario natural, paga a los pescadores locales para que no
 [![Foto del castillo de Dunvegan](./assests/images/dunvegan.jpg 'De Pam Brophy, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=605496')](https://es.wikipedia.org/wiki/Castillo_de_Dunvegan#/media/Archivo:Dunvegan_Castle.jpg 'De Pam Brophy, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=605496')
 
 #### Castillo de Dunvegan
-xxx
+Este castillo fue alquilado por Lord Roxton a la familia McLeod y las zonas que estaban catalogadas como protegidas fue acondicionado como oficinas, dormitorios y salas de estar para los trabajadores de la Fundación. Lady Roxton usa las dependencias principales como sus aposentos. 
+
+Tiene 3 pisos y una altura de 15 metros. En su momento fue un fortín inexpugnable, pero ahora solo ofrece algo de defensa en caso de ataque. Solo es accesible por su lado este, ya que el resto da al mar.
+
+La única línea de teléfono de la isla está en el castillo y Lady Roxton ha pasado mucho dinero para que el viejo castillo tenga electricidad.
+
+IM ha dejado cerca pero en el propio castillo artillería anti-área, pero nunca llegado tan lejos una aeronave nazi.
 
 #### La forja de Weyland
 Este taller y forja está dirigido por Weyland (su mote en la forja), un herrero/ingeniero que la Fundación enroló para hacer todos los artilugios y piezas de metal que necesitan en la isla, desde rejas o cadenas o bardas y escudos.
 
+xxx
+
+\saltopagina
+
 #### Hospital de dinosaurios
 Además de un pequeño hospital para humanos (los casos más graves se llevan al de Inverness), cuenta con un completísimo hospital para saurios totalmente adaptado a su fisiología y tamaño. Hay establos de recuperación, quirófanos reforzados para los más grandes, máquinas de rayos-x para diferentes especies, etc.
+
+El hospital tiene un pequeño laboratorio para todo tipo de experimentos y pruebas.
 
 ### El "Mary Anning" y sus instalaciones
 El "Mary Anning" es un barco carguero de tamaño medio botado por la Fundación para el transporte de dinosaurios y comandos.
 
 La fundación le puso el nombre de la famosa paleontóloga georgiana Mary Anning, que hizo grandes descubrimientos en saurios acuáticos como el ictiosaurio o el plesiosaurio.
-
-\saltopagina
 
 Durante años fue usado por la Fundación para el transporte de saurios y provisiones vía marítima. Pero cuando estalló la guerra y la Fundación contacto con el Alto Mando, el barco paso en secreto por los astilleros reales. Todo el espacio de carga fue acondicionado para llevar cómodamente a los dinosaurios y a sus compañeros humanos en sus largos viajes a sus diferentes misiones.
 
@@ -167,9 +177,10 @@ No es ni de lejos suficiente para enfrentarse a un barco de guerra o un submarin
 
 Para esta arma puedes usar las estadísticas del cañón de 20 mm de las armas montadas en vehículos que salen en el manual básico.
 
+\saltopagina
+
 #### Sala de misiones
 Esta sala llena de pupitres, una gran pizarra y un pequeño proyector de cine y otro de diapositivas sirve para explicar a los comandos la misión en la que se van a embarcar.
-
 
 #### Sala de radio
 Esta radio militar de onda corta, permite al "Mary Anning" comunicarse con la fundación desde cualquier lugar del mundo para mandar información y recibirla.
@@ -179,8 +190,6 @@ Durante las misiones, siempre hay alguien de guardia en la sala de radio, las 24
 Los comandos pueden usar su radio portátil para comunicarse con el barco y este rebotar el mensaje a la Fundación. En un par de horas podrían mandar un mensaje y conseguir su respuesta.
 
 Aunque las comunicaciones pueden ser escuchadas por la Inteligencia Nazi, se usa un método de nombres en clave para tratar de ofuscar la información lo más posible. Aun así, una persona experta podría sacar el mensaje e incluso triangular la señal.
-
-\saltopagina
 
 #### La esclusa de los plesiosaurios
 
@@ -197,6 +206,8 @@ La idea es tanto servir de refugio a los pteranodones en caso de clima adverso, 
 #### Otras instalaciones del barco
 Además de cosas normales en este tipo de cargueros, como cocina o sala común, cuenta con todas estas instalaciones.
 
+\saltopagina
+
 * Mini-gimnasio con pesas y algunos artilugios deportivos.
 * Celdas para 3 prisioneros/as
 * Armería completísima con una pequeña Santabárbara para los explosivos.
@@ -206,8 +217,6 @@ Además de cosas normales en este tipo de cargueros, como cocina o sala común, 
 La Fundación tiene en la meseta de Maple White un campamento fijo de científicos y científicas que estudian la fauna y flora del lugar. También se dedican a la cría y selección dinosaurios para su estudio, mandando los más dotados a la isla de Skye. Por último, dedican esfuerzos a extraer diamantes, siempre cumpliendo las estrictas cuotas que marca la Fundación.
 
 De media hay unas 20 personas viviendo en un enclave de unos 10 pabellones. Son autosuficientes en temas de suministros básicos como agua y comida, y cada cierto tiempo reciben suministros médicos, materiales y equipos nuevos.
-
-\saltopagina
 
 Esta comunidad permanente de investigaciones ha establecido relaciones con los cavernícolas y han tenido éxito en sus primeros intercambios culturales y comerciales, siguiendo siempre los protocolos establecidos por la Fundación.
 
