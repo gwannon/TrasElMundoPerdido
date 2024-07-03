@@ -7,12 +7,14 @@
 
 # Por hacer de la versión 0.4
 
-## La Fundación Roxton (6)
+## La Fundación Roxton (7)
 * El mundo perdido
 * La expedición Roxton
-* La Fundación Roxton
+* La Fundación Roxton hoy en día
   * Lady Roxton
   * Las instalaciones de la Fundación Roxton
+    * La forja de Weyland
+  * El "Mary Anning" y sus instalaciones
 
 ## Recursos 
 * https://commons.wikimedia.org/wiki/Category:Charles_R._Knight

@@ -110,18 +110,24 @@ Tiene becas, hace recaudaciones de fondos, hace campañas de concienciación, pa
 
 La Fundación usa a veces estás actividades como tapadera para sus fines reales. Por ejemplo, renovó todo el hospital animal del zoo de Londres y Dublin y se quedó el viejo para sus instalaciones. Un par de veces ya han organizado eventos para invitar a posibles traidores y que Inteligencia militar entrará en su casa a buscar pruebas.
 
-\saltopagina
+### Las instalaciones de la Fundación Roxton en Skye
+Lord Roxton trato su las instalaciones de Skye como una simple reserva natural, unos terrenos aislados donde los saurios estaban en libertad y el castillo Dunvegan donde algunos zoólogos de confianza podían trabajar (casi siempre con el visto bueno del profesor Challenger). 
 
-### Las instalaciones de la Fundación Roxton
-xxx
+Fue Lady Roxton quien vio que todo esto era insuficiente. Debíamos estudiar todo este increíble descubrimiento de forma adecuada y no solo los dinosaurios sino también los "homo sapiens" de la meseta.
 
+Ella perfeccionó los hábitats que cada especie había creado, montó el hospital y el taller. También puso a funcionar la Fundación como sistema para conseguir investigadores e investigadoras de confianza a través de becas. Se becaba a alguien y se le estudiaba, si parecía de confianza se le ofrecía para trabajar en Skye o Maple White según capacidades y estudios.
+
+
+#### Distribución de los edificios
 Las instalaciones en la isla no están concentradas en un único lugar, sino que están dispersas por los terrenos de la fundación. La idea es evitar que los reconocimientos aéreos nazis descubran las instalaciones. Si no se revisan a conciencia las fotos se considerará que son grupos dispersos de granjas.
 Los dinosaurios en libertad a pesar de su tamaño, siguen con instintos de cazador y presa y se ocultan bastante bien entre bosques y maleza alta. Aun así, alguien de la inteligencia nazi puede descubrir el pastel fácilmente si le pone interés.
 
-#### Habitats
+\saltopagina
+
+#### Hábitats
 Tras muchos años de estudio se han ido creando una serie de hábitats para cada especie donde viven y son estudiados. Mientras que los pteranodones se habituaron rápidamente y sin problemas a los acantilados de la isla donde montaron sus nidos, los carnívoros han sido los más complicados por su carácter, su agresividad y su alimentación. Hábitats actuales.
 
-* **Acantilados oeste** de la isla es la zona de anidación de los pteranodones.
+* **Acantilados del oeste** de la isla es la zona de anidación de los pteranodones.
 * Aprovechando unas **piscinas naturales** en una de tantas calas de la isla se ha montado un hábitat para los saurios acuáticos.
 * Las **praderas sur de la isla** son perfectas para los estegosaurios y los iguanodones que parecen no tener problemas con las vacas y ovejas que había en los terrenos de la Fundación.
 * Las **praderas norte de la isla** son los dominios de los carnívoros. Se aprovechó una de las penínsulas de la isla que tenía un macizo rocoso en su istmo poniendo muros y rejas en el único paso que hay, por la costa sur de la península. El macizo tiene un sistema de cuevas naturales que sirven de refugio.
@@ -1107,40 +1113,46 @@ Un joven activista medioambiental se ha encadenado a la entrada principal del mu
 xxx
 
 ### Gerald Durrell &#x2638;
-Este, joven naturalista y activista medioambiental va a ser un pequeño quebradero de cabeza para la Fundación. xxx
+Este, joven naturalista y activista medioambiental va a ser un pequeño quebradero de cabeza para la Fundación. Gerald lleva rodeado de animales y estudiándolos desde pequeño. Son su amor y su obsesión y no va a permitir, como cree, que la Fundación haga experimentos con anmales para los militares y los maltrate. 
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
-* **Ventajas:** xxx
-* **Desventajas:** Joven, xxx
-* **Equipo:** xxx
+* **Atributos:** Agilidad d6, Astucia d6, Espíritu d10, Fuerza d6, Vigor d6
+* **Habilidades:** Atletismo d6, Conocimientos Generales d6, Ciencias d8, Disparar d6, Idioma materno d6, Idioma griego d6, Pelear d4, Notar d8, Persuadir d8, Sigilo d8
+* **Paso:** 6; **Parada:** 4; **Dureza:** 5
+* **Ventajas:** Afortunado, Vínculo animal
+* **Desventajas:** Joven (menor), Pobreza
+* **Equipo:** Cadena gruesa, candado, mochila con agua y provisiones y una manta
 
-**Sugerencia de interpretación:** xxx
+**Sugerencia de interpretación:** Eres muy cabezota. Si piensas que están experimentando con animales hasta que no entres y lo veas con tus propios ojos, nada podrá convencerte de lo contrario. 
+
+\saltopagina
 
 ## El prototipo
 ```
 La gente de IM tiene nuevos inventos e ingenios para saurios y necesita que sean testados en una misión real. Quizás en su próximo viaje puedan llevárselos y hacer una prueba de campo.
 ```
 
-\saltopagina
-
 Esto no es exactamente un relato, sino una serie de ingenios y cachivaches que pueden llevarse en cada misión para probarlos. Son cacharros con funciones locas que fallan un montón y que tienden a explotar. Tómatelo como algo divertido y humorístico que meter en las grandes misiones. Si el humor no encaja en como llevas esta campaña, obvia completamente esta parte. 
 
 ### Antena de radio para estegosaurios
-xxx
+Desde IM han creado una especie de fundas de tela metálica con cables y antenas para colocar en las placas dorsales de un estegosaurio y que funcionarían como antena amplificadora de señal de radio. Es bastante efectiva, pero al mínimo movimiento del saurio, la señal puede desaparecer o amplificarse demasiado.
+
+> Cuando lo usen, tira un d6, con 1 la señal se corta, 2-5 funciona normal y con 6 se amplifica. Si se amplifica, pueden pillar mensajes del enemigo con información valiosa, si los ves perdidos, o puedes usarlo para meter relatos salvajes. Haz la tirada cada vez que necesiten comunicarse, si se ponen a juguetear con la radio no conseguirán nada.
+
+La antena podría usarse para disfrazar al estegosaurio de algún tipo de ser extraterrestre si lo apoyan con luces y humo. No se me ocurre en que situación les podría venir bien, pero la posibilidad existe.
+
+\saltopagina
 
 ### Flotadores para alosaurios
 Los dinosaurios terrestres no son buenos nadadores y la gente de IM han decidido crear unos flotadores en forma de rosca para alosaurios y megalosaurios.
 
 xxx
 
+
+
 ### Ruidos de la selva
 En IM han metido en un mini-fonógrafo ruidos de la selva para que los dinosaurios se sientan como en casa en casos de estrés.
 
 xxx
-
-\saltopagina
 
 ## Semillas de aventuras
 Además de los relatos salvajes, aquí te propongo una serie de semillas de aventuras si quieres alargar tus partidas o darles más profundidad.
