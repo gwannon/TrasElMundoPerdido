@@ -129,6 +129,10 @@ Los dinosaurios en libertad a pesar de su tamaño, siguen con instintos de cazad
 
 \saltopagina
 
+[![Mapa de las instalaciones de la isla de Skye](./assests/images/skye.svg 'Blank map of the Isle of Skye, UK, as well as the adjacent islands')](https://en.m.wikipedia.org/wiki/File:Isle_of_Skye_UK_location_map.svg 'Blank map of the Isle of Skye, UK, as well as the adjacent islands')
+
+\saltopagina
+
 #### Hábitats
 Tras muchos años de estudio se han ido creando una serie de hábitats para cada especie donde viven y son estudiados. Mientras que los pteranodones se habituaron rápidamente y sin problemas a los acantilados de la isla donde montaron sus nidos, los carnívoros han sido los más complicados por su carácter, su agresividad y su alimentación. Hábitats actuales.
 
