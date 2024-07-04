@@ -129,7 +129,20 @@ Los dinosaurios en libertad a pesar de su tamaño, siguen con instintos de cazad
 
 \saltopagina
 
-[![Mapa de las instalaciones de la isla de Skye](./assests/images/skye.svg 'Blank map of the Isle of Skye, UK, as well as the adjacent islands')](https://en.m.wikipedia.org/wiki/File:Isle_of_Skye_UK_location_map.svg 'Blank map of the Isle of Skye, UK, as well as the adjacent islands')
+[![Mapa de las instalaciones de la isla de Skye](./assests/images/skye.jpg 'Blank map of the Isle of Skye, UK, as well as the adjacent islands')](https://en.m.wikipedia.org/wiki/File:Isle_of_Skye_UK_location_map.svg 'Blank map of the Isle of Skye, UK, as well as the adjacent islands')
+
+* Rojo carnívoros
+* Azul acuáticos
+* Verde herbívoros
+* Violeta voladores
+
+1. Castillo Dunvegan
+2. Hospital
+3. Taller de Weyland
+4. Zona de embarque y fondeo del "Mary Anning"
+5. Pieza de artillería anti-aérea
+
+====== Valla de la reserva
 
 \saltopagina
 
@@ -138,7 +151,7 @@ Tras muchos años de estudio se han ido creando una serie de hábitats para cada
 
 * **Acantilados del oeste** de la isla es la zona de anidación de los pteranodones.
 * Aprovechando unas **piscinas naturales** en una de tantas calas de la isla se ha montado un hábitat para los saurios acuáticos.
-* Las **praderas sur de la isla** son perfectas para los estegosaurios y los iguanodones que parecen no tener problemas con las vacas y ovejas que había en los terrenos de la Fundación.
+* Las **praderas sur de la reserva** son perfectas para los estegosaurios y los iguanodones que parecen no tener problemas con las vacas y ovejas que había en los terrenos de la Fundación.
 * Las **praderas norte de la isla** son los dominios de los carnívoros. Se aprovechó una de las penínsulas de la isla que tenía un macizo rocoso en su istmo poniendo muros y rejas en el único paso que hay, por la costa sur de la península. El macizo tiene un sistema de cuevas naturales que sirven de refugio.
 
 Los saurios terrestres están en semilibertad, ya que pueden moverse por extensas zonas, pero no pueden salir de la isla y están controlados por los guardabosques de la Fundación. Aún pudiendo moverse casi libremente por la isla, los ataques a humanos casi no existen. Saben que los humanos les son más útiles vivos que muertos y mientras se les tenga bien alimentados, solo los especímenes jóvenes de los carnívoros han dado algún problema.
@@ -147,10 +160,6 @@ Los acuáticos y voladores pueden moverse fuera de la isla sin problemas, pero e
 
 La Fundación, como santuario natural, paga a los pescadores locales para que no faenen en la zona, por ello, los bancos de peces que sirven de alimento a plesiosaurios, ictiosaurios y pteranodones son muy abundantes. Ante esta situación muy pocos ejemplares han querido alejarse de la isla.
 
-\saltopagina
-
-[![Foto del castillo de Dunvegan](./assests/images/dunvegan.jpg 'De Pam Brophy, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=605496')](https://es.wikipedia.org/wiki/Castillo_de_Dunvegan#/media/Archivo:Dunvegan_Castle.jpg 'De Pam Brophy, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=605496')
-
 #### Castillo de Dunvegan
 Este castillo fue alquilado por Lord Roxton a la familia McLeod y las zonas que estaban catalogadas como protegidas fue acondicionado como oficinas, dormitorios y salas de estar para los trabajadores de la Fundación. Lady Roxton usa las dependencias principales como sus aposentos. 
 
@@ -158,19 +167,29 @@ Tiene 3 pisos y una altura de 15 metros. En su momento fue un fortín inexpugnab
 
 La única línea de teléfono de la isla está en el castillo y Lady Roxton ha pagado mucho dinero para que el viejo castillo tenga electricidad.
 
-IM ha dejado cerca pero en el propio castillo artillería anti-área, pero nunca llegado tan lejos una aeronave nazi.
+\saltopagina
+
+[![Foto del castillo de Dunvegan](./assests/images/dunvegan.jpg 'De Pam Brophy, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=605496')](https://es.wikipedia.org/wiki/Castillo_de_Dunvegan#/media/Archivo:Dunvegan_Castle.jpg 'De Pam Brophy, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=605496')
+
+IM ha dejado cerca pero no en el propio castillo artillería anti-área, pero nunca llegado tan lejos una aeronave nazi.
 
 #### La forja de Weyland
 Este taller y forja está dirigido por Weyland (su mote en la forja), un herrero/ingeniero que la Fundación enroló para hacer todos los artilugios y piezas de metal que necesitan en la isla, desde rejas o cadenas o bardas y escudos.
 
 El taller está construido en una vieja forja, pero las instalaciones están totalmente modernizadas, hornos y equipamiento eléctrico y capacidad de trabajar con todo tipo de materiales desde acero hasta cerámica, baquelita o titanio.
 
-\saltopagina
-
 #### Hospital de dinosaurios
 Además de un pequeño hospital para humanos (los casos más graves se llevan al de Inverness), cuenta con un completísimo hospital para saurios totalmente adaptado a su fisiología y tamaño. Hay establos de recuperación, quirófanos reforzados para los más grandes, máquinas de rayos-x para diferentes especies, etc.
 
 El hospital tiene un pequeño laboratorio para todo tipo de experimentos y pruebas y se usaban laboratorios privados para estudios más complejos. Con la participación de la Fundación en misiones las pruebas complicadas son enviadas a IM y desde allí se encargan de realizarlas. 
+
+\saltopagina
+
+#### Otras instalaciones
+
+* Cala de fondeo y embarque del "Mary Anning".
+* Hay varios jeeps todoterreno para mover y controlar las manadas de saurios y moverse por la reserva. 
+* Hay varias granjas normales con maquinaria agrícola donde se crían animales para alimentar carnívoros y diferentes frutas y verduras para los herbívoros. También abastecen de comida al personal de la Fundación.
 
 ### El "Mary Anning" y sus instalaciones
 El "Mary Anning" es un barco carguero de tamaño medio botado por la Fundación para el transporte de dinosaurios y comandos.
