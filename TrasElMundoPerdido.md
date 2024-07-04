@@ -161,7 +161,7 @@ xxx
 #### Hospital de dinosaurios
 Además de un pequeño hospital para humanos (los casos más graves se llevan al de Inverness), cuenta con un completísimo hospital para saurios totalmente adaptado a su fisiología y tamaño. Hay establos de recuperación, quirófanos reforzados para los más grandes, máquinas de rayos-x para diferentes especies, etc.
 
-El hospital tiene un pequeño laboratorio para todo tipo de experimentos y pruebas.
+El hospital tiene un pequeño laboratorio para todo tipo de experimentos y pruebas y se usaban laboratorios privados para estudios más complejos. Con la participación de la Fundación en misiones las pruebas complicadas son enviadas a IM y desde allí se encargan de realizarlas. 
 
 ### El "Mary Anning" y sus instalaciones
 El "Mary Anning" es un barco carguero de tamaño medio botado por la Fundación para el transporte de dinosaurios y comandos.
