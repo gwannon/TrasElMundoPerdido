@@ -78,28 +78,33 @@ De lo primero que descubrieron es que la evolución no se había parado en el Mu
  
 Pero el gran descubrimiento que hizo Roxton en esta segunda expedición es que todos los saurios tenían cierto grado de domesticación. No eran mascotas como perros y gatos, ni tampoco animales de granja, pero habían convivido con los humanos primitivos de la meseta durante miles de años (cosa que no había ocurrido en el resto del mundo) y esto había transformado sus instintos poco a poco.
 
-\saltopagina
-
 Los antropólogos y antropólogas de la fundación se dedicaron a estudiar a los cavernícolas y descubrieron interacciones entre ambas especies que habían llevado a los saurios a ser en parte domesticados. 
 
 Las tribus de humanos primitivos habían aprendido a dejar parte de su caza lejos de sus asentamientos para alejar a los grandes depredadores y a atraer a los herbívoros dejando gran cantidad de frutas en ciertos lugares donde era más fácil cazarlos o alejarlos de sus nidos y entonces robar sus huevos o sus crías. 
 
 Estas interacciones fueron con los siglos evolucionado y grabándose en los instintos de los saurios, de forma que saben que salvo en caso de agresión, necesidad y hambre, un humano es más útil vivo que muerto. Este hecho, junto a la selección de los mejores y más inteligentes ejemplares, hizo que la Fundación pudiera domesticar dinosaurios con técnicas avanzadas de condicionamiento positivo en unos 15 años.
 
+\saltopagina
+
+## La Fundación J. Roxton
+Tras el regreso de su segunda expedición y con las sacas llenas de diamantes, Lord Roxton decidió dedicar ese dinero al estudio de los dinosaurios y su protección. Quería mantener la meseta de Maple White tal y como la había conocido. Así pues creó la Fundación J. Roxton.
+
+xxx
+
 ### Política de no intromisión
 Una de las políticas claves que estableció Lord Roxton en su expedición fue la no intervención en la vida de los hombres y mujeres primitivos. Esto incluye todo tipo de intervención que trastocase su modo de vida, no se les da ningún tipo de tecnología, no se les ayuda salvo en cosas muy graves y no se les trata de enseñar ningún de conocimiento.
 
 Lo único que está permitido es un comercio muy básico en el que la Fundación no saca ningún beneficio, solamente usa estos encuentros para estudiar a sus vecinos de las cavernas. Intercambian pieles, alimentos y algunas herramientas muy básicas.
 
-## La Fundación Roxton hoy en día
-xxx
-
-Una de las razones de lord Roxton para montar las instalaciones de la Fundación en Escocia, es que los posibles avistamientos de monstruos prehistóricos podían verse como un intento más de un loco escocés queriendo llamar la atención sobre el Lago Ness. De hecho, desde 1930 se han multiplicado los avistamientos de monstruos de todo tipo y estos hechos son rápidamente noticias en la prensa amarilla. Esto hace que los testigos sean desprestigiados rápidamente por la opinión pública y la comunidad científica, a pesar de que muchas veces han podido ser reales.
-
 ### Lady Roxton
 Poco sabía Margaret Roxton, sobrina de Lord Roxton, lo que iba a cambiar su vida cuando el albacea testamentario de su tío se presentó en su para entregarle una fabulosa fortuna y el control de la fundación con su nombre.
 
 xxx
+
+### La Fundación Roxton hoy en día
+xxx
+
+Una de las razones de lord Roxton para montar las instalaciones de la Fundación en Escocia, es que los posibles avistamientos de monstruos prehistóricos podían verse como un intento más de un loco escocés queriendo llamar la atención sobre el Lago Ness. De hecho, desde 1930 se han multiplicado los avistamientos de monstruos de todo tipo y estos hechos son rápidamente noticias en la prensa amarilla. Esto hace que los testigos sean desprestigiados rápidamente por la opinión pública y la comunidad científica, a pesar de que muchas veces han podido ser reales.
 
 \saltopagina
 
@@ -147,14 +152,14 @@ Este castillo fue alquilado por Lord Roxton a la familia McLeod y las zonas que 
 
 Tiene 3 pisos y una altura de 15 metros. En su momento fue un fortín inexpugnable, pero ahora solo ofrece algo de defensa en caso de ataque. Solo es accesible por su lado este, ya que el resto da al mar.
 
-La única línea de teléfono de la isla está en el castillo y Lady Roxton ha pasado mucho dinero para que el viejo castillo tenga electricidad.
+La única línea de teléfono de la isla está en el castillo y Lady Roxton ha pagado mucho dinero para que el viejo castillo tenga electricidad.
 
 IM ha dejado cerca pero en el propio castillo artillería anti-área, pero nunca llegado tan lejos una aeronave nazi.
 
 #### La forja de Weyland
 Este taller y forja está dirigido por Weyland (su mote en la forja), un herrero/ingeniero que la Fundación enroló para hacer todos los artilugios y piezas de metal que necesitan en la isla, desde rejas o cadenas o bardas y escudos.
 
-xxx
+El taller está construido en una vieja forja, pero las instalaciones están totalmente modernizadas, hornos y equipamiento eléctrico y capacidad de trabajar con todo tipo de materiales desde acero hasta cerámica, baquelita o titanio.
 
 \saltopagina
 
@@ -172,9 +177,7 @@ Durante años fue usado por la Fundación para el transporte de saurios y provis
 
 En el resto del espacio libre se crearon diferentes habitáculos con material y equipo útil en sus misiones, desde un hospital de campaña para humanos y dinosaurios hasta una sala oscura para revelar fotos. Cuenta también con grandes zonas de almacenaje y un congelador de tamaño industrial para almacenar las provisiones de los grandes saurios.
 
-La capitán Dolores Branningan y su tripulación tienen años de experiencia tratando con dinosaurios y saliendo airosos de situaciones peligrosas. Es por ello que en caso de necesidad podrían sustituir a un comando en una misión.
-
-xxx
+La capitán Dolores Branningan y su tripulación tienen años de experiencia tratando con dinosaurios y saliendo airosos de situaciones peligrosas. Es por ello que en caso de necesidad podrían sustituir a un comando en una misión. El barco tiene una tripulación 24 personas, todos de confianza y bien pagados.
 
 #### Pieza de artillería antiaérea camuflada
 En la cubierta principal, camuflada dentro de un contenedor de madera que se desmonta quitando unos pestillos, hay un cañón de 20mm antiaéreo.
@@ -243,7 +246,11 @@ La fundación Roxton tienes unos recursos increíbles, ya que se ha dedicado dur
 
 Pero todo esto se ha hecho bajo el más absoluto secreto, de forma que nadie sepa la fortuna real que maneja la Fundación. 
 
+\saltopagina
+
 Salvo casos especiales, la Fundación Roxton puede conseguir cualquier tipo de material y producto legal y contratar a cualquier persona que sea necesaria.
+
+Como curiosidad todos los trabajadores de la Fundación tienen un seguro de vida contratado con Guardian Assurance Company de Londres de 500.000 libras en caso de incapacidad y de 1.000.000 de libras para sus familias en caso de deceso.
 
 ***
 

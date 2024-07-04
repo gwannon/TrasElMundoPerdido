@@ -12,8 +12,6 @@
 * La expedición Roxton
 * La Fundación Roxton hoy en día
   * Lady Roxton
-  * Las instalaciones de la Fundación Roxton
-    * La forja de Weyland
   * El "Mary Anning" y sus instalaciones
 
 ## Recursos 
