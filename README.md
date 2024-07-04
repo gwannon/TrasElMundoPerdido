@@ -9,8 +9,10 @@
 
 ## La Fundación Roxton (7)
 * El mundo perdido
+  * Una aventura increíble
 * La expedición Roxton
-* La Fundación Roxton hoy en día
+* La Fundación J. Roxton
+  * La Fundación Roxton hoy en día
   * Lady Roxton
   * El "Mary Anning" y sus instalaciones
 
@@ -22,7 +24,8 @@
 
 # Changelog
 
-## Versión 0.4
+## Versión 0.4 En desarrollo
+* Terminado mapa de las instalaciones de la isla de SKye
 
 ## Versión 0.3.1 02/07/2024
 * Dinosaurios terminados: Pteranodon, Plesiosaurio, Megalosaurio
