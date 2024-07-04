@@ -171,7 +171,7 @@ La única línea de teléfono de la isla está en el castillo y Lady Roxton ha p
 
 [![Foto del castillo de Dunvegan](./assests/images/dunvegan.jpg 'De Pam Brophy, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=605496')](https://es.wikipedia.org/wiki/Castillo_de_Dunvegan#/media/Archivo:Dunvegan_Castle.jpg 'De Pam Brophy, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=605496')
 
-IM ha dejado cerca pero no en el propio castillo artillería anti-área, pero nunca llegado tan lejos una aeronave nazi.
+IM ha dejado cerca pero no en el propio castillo artillería anti-área, pero nunca ha llegado tan lejos una aeronave nazi.
 
 #### La forja de Weyland
 Este taller y forja está dirigido por Weyland (su mote en la forja), un herrero/ingeniero que la Fundación enroló para hacer todos los artilugios y piezas de metal que necesitan en la isla, desde rejas o cadenas o bardas y escudos.
