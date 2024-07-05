@@ -131,16 +131,18 @@ Los dinosaurios en libertad a pesar de su tamaño, siguen con instintos de cazad
 
 [![Mapa de las instalaciones de la isla de Skye](./assests/images/skye.jpg 'Blank map of the Isle of Skye, UK, as well as the adjacent islands')](https://en.m.wikipedia.org/wiki/File:Isle_of_Skye_UK_location_map.svg 'Blank map of the Isle of Skye, UK, as well as the adjacent islands')
 
-* Rojo carnívoros
-* Azul acuáticos
-* Verde herbívoros
-* Violeta voladores
+Mapa de la isla de Skye
+
+* Rojo  = carnívoros
+* Azul = acuáticos
+* Verde = herbívoros
+* Amarillo = voladores
 
 1. Castillo Dunvegan
 2. Hospital
 3. Taller de Weyland
 4. Zona de embarque y fondeo del "Mary Anning"
-5. Pieza de artillería anti-aérea
+5. Pieza de artillería antiaérea
 
 ====== Valla de la reserva
 
