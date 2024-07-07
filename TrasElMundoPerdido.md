@@ -1163,7 +1163,9 @@ Este, joven naturalista y activista medioambiental va a ser un pequeño quebrade
 La gente de IM tiene nuevos inventos e ingenios para saurios y necesita que sean testados en una misión real. Quizás en su próximo viaje puedan llevárselos y hacer una prueba de campo.
 ```
 
-Esto no es exactamente un relato, sino una serie de ingenios y cachivaches que pueden llevarse en cada misión para probarlos. Son cacharros con funciones locas que fallan un montón y que tienden a explotar. Tómatelo como algo divertido y humorístico que meter en las grandes misiones. Si el humor no encaja en como llevas esta campaña, obvia completamente esta parte. 
+Esto no es exactamente un relato, sino una serie de ingenios y cachivaches que pueden llevarse en cada misión para probarlos. Son cacharros con funciones locas que fallan un montón y que tienden a explotar. Tómatelo como algo divertido y humorístico que meter en las grandes misiones. Si el humor no encaja en como llevas esta campaña, obvia completamente esta parte.
+
+Los comandos no deberían conocer como funcionan solo lo que les digan desde IM, deberán averiguarlo en sus misiones.
 
 ### Antena de radio para estegosaurios
 Desde IM han creado una especie de fundas de tela metálica con cables y antenas para colocar en las placas dorsales de un estegosaurio y que funcionarían como antena amplificadora de señal de radio. Es bastante efectiva, pero al mínimo movimiento del saurio, la señal puede desaparecer o amplificarse demasiado.
@@ -1174,17 +1176,18 @@ La antena podría usarse para disfrazar al estegosaurio de algún tipo de ser ex
 
 \saltopagina
 
-### Flotadores para alosaurios
-Los dinosaurios terrestres no son buenos nadadores y la gente de IM han decidido crear unos flotadores en forma de rosca para alosaurios y megalosaurios.
+### Flotadores para dinosaurios
+Los dinosaurios carnívoros terrestres no son buenos nadadores y la gente de IM han decidido crear unos flotadores en forma de rosca para alosaurios y megalosaurios. Estos flotadores con colores de camuflaje se colocan entre los brazos y las piernas. Cabe decir que se ven ridículos en el agua con los flotadores.
 
-xxx
-
-
+> Permiten nadar con sus extremidades traseras 1 casilla por turno. NO pueden hundirse a no ser que el flotador se rompa. 
+> Cuesta 5 turnos ponerlo y quitarlo y mientras los tengan puestos tienen un -2 a Intimidar.
 
 ### Ruidos de la selva
 En IM han metido en un mini-fonógrafo ruidos de la selva para que los dinosaurios se sientan como en casa en casos de estrés.
 
-xxx
+> Ponerles la música de la selva da un +2 a las tiradas de Medicina para curarles cuando están escuchándolos. El problema es que los relaja tanto que mientras escuchan la música y la hora posterior tienen un -1 a todas las tiradas. 
+
+\saltopagina
 
 ## Semillas de aventuras
 Además de los relatos salvajes, aquí te propongo una serie de semillas de aventuras si quieres alargar tus partidas o darles más profundidad.
@@ -1223,6 +1226,10 @@ Don Quijote no sería nada sin su Sancho Pancho y tus comandos no serían nada s
 
 [![Retrato de Lady Margaret Roxton](./assests/images/lady-broxton.jpg 'Chalk drawing of Beatrice Webb by Jessie Holiday, circa 1909')](https://en.wikipedia.org/wiki/Beatrice_Webb#/media/File:Webb_beatrice_(middle_age).jpg 'Chalk drawing of Beatrice Webb by Jessie Holiday, circa 1909')
 
+La tranquila vida en Londres de Margaret Roxton se vio alterada cuando heredó el título de su tío, Lord John Roxton, su gran fortuna, su espectacular colección de armas de fuego y su reserva de animales en escocia. 
+
+Margaret creció con las historias de caza que su tío le contaba cuando visitaba a su hermana y su familia. Eran grandes aventuras de África y sobre todo de Sudamérica, de la que estaba enamorada; cómo se había enfrentado a esclavistas, cómo había recorrido los rápidos de afluentes de amazonas, las costumbres de las tribus indígenas, etc.
+
 xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
@@ -1233,6 +1240,8 @@ xxx
 * **Equipo:** xxx
 
 **Sugerencia de interpretación:** xxx
+
+\saltopagina
 
 ### Dolores Branningan, capitana del "Mary Anning" &#x2638;
 
@@ -1246,15 +1255,14 @@ Como buena irlandesa es risueña y alegre con una tonada siempre en los labios y
 
 * **Atributos:** Agilidad d6, Astucia d8, Espíritu d8, Fuerza d8, Vigor d6
 * **Habilidades:** Atletismo d8, Conocimientos Generales d6, Disparar d8, Idioma Inglés d8, Idioma Español d6, Navegar d10, Notar d8, Pelear d6, Persuadir d6, Reparar d8, Sigilo d4
-
-\saltopagina
-
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
 * **Ventajas:** xxx
 * **Desventajas:** xxx
 * **Equipo:** xxx
 
 **Sugerencia de interpretación:** xxx
+
+\saltopagina
 
 ### Weyland, armero e ingeniero &#x2638;
 xxx
