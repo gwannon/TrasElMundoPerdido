@@ -99,6 +99,17 @@ Lo único que está permitido es un comercio muy básico en el que la Fundación
 ### Lady Roxton
 Poco sabía Margaret Roxton, sobrina de Lord Roxton, lo que iba a cambiar su vida cuando el albacea testamentario de su tío se presentó en su para entregarle una fabulosa fortuna y el control de la fundación con su nombre.
 
+Pasado el impacto inicial, rápidamente Margaret se hizo a su nueva situación y tras instalarse en Dunvegan, empezó a empaparse de todos lo que rodeaba. En unos meses conocía perfectamente toda la historia de la Fundación, sus recursos, sus reglas, sus actuaciones y formas de trabajar.
+
+Mientras que Lord Roxton trato de mantener ocultos tanto Maple White como la reserva de Skye, Margaret sabía que esa una tarea imposible sin ayuda exterior. El mundo de Margaret era un mundo de fotografías con teleobjetivo, de cámaras de cine y de micrófonos y radio. Nada podía mantenerse en secreto, tarde o temprano alguien captaría a un pterodáctilo volando o se metería en los terrenos de Skye para investigar que había tras sus alambrados.
+
+Su primera gran acción como directora de la Fundación fue intentar hablar con el Gobierno, hablarles de los dinosaurios y del mundo perdido. No consiguió nada, ni una misera audición. Desde el gobierno se la tomo como una loca excéntrica a la que evitar. Pero sus peticiones si fueron escuchados que ella no podía imaginarse. Agentes de Inteligencia Militar a las órdenes del General Linton se pusieron en contacto con Lady Roxton.  
+
+\saltopagina
+
+xxx
+
+### La Guerra
 xxx
 
 ### La Fundación Roxton hoy en día
@@ -1094,14 +1105,14 @@ xxx
 
 \saltopagina
 
-### Marion Fairfax
+### Marion Fairfax &#x2638;
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
-* **Ventajas:** Soldado, xxx
+* **Atributos:** Agilidad d6, Astucia d10, Espíritu d8, Fuerza d6, Vigor d6
+* **Habilidades:** Atletismo d6, Ciencias d6, Conocimientos Generales d10, Humanidades d10, Idioma materno d10, Interpretar d10, Notar d6, Persuadir d8, Sigilo d4
+* **Paso:** 6; **Parada:** 4; **Dureza:** 5
+* **Ventajas:** xxx
 * **Desventajas:** xxx
-* **Equipo:** xxx
+* **Equipo:** Bolso grande lleno papeles para tonar notas, cámara de fotos, algún libro de teoría del cine
 
 ## Despedidas
 ```
