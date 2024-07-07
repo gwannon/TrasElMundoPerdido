@@ -907,7 +907,12 @@ No deben fiarse de nadie hasta llegar a su destino. IM está seguro que hay nazi
 
 xxx
 
-> Si hay fans de la informática en tu mesa quizás sea un detalle bonito que [Alan Turing](https://es.wikipedia.org/wiki/Alan_Turing) o [Joan Clarke](https://es.wikipedia.org/wiki/Joan_Clarke) recojan en rotor, se quiten las gafas estupefacta y exclamen "Esto podría cambiar el curso de la guerra. Habéis salvado miles sino millones de vidas".
+> Si hay fans de la informática en tu mesa quizás sea un detalle bonito que [Alan Turing](https://es.wikipedia.org/wiki/Alan_Turing) o [Joan Clarke](https://es.wikipedia.org/wiki/Joan_Clarke) recojan en rotor, se quiten las gafas estupefactas y exclamen "Esto podría cambiar el curso de la guerra. Habéis salvado miles si no millones de vidas".
+
+### La pista
+Cuando vuelvan a irse de misión Lady Margaret les enseñará un documento de Bletchley Park. Con las posiciones que tenía el rotor antes de sacarlo de la máquina Enigma han sacado unas palabras: Fundación Roxton infiltrado. 
+
+Esto supone que la fundación está en el radar de las SS. Algo deben sospechar los nazis si usan una compleja máquina de cifrado para enviar mensajes referentes a la Fundación. Con una tirada de Investigar podrás datar este mensaje antes de que tus comandos ingresarán en la Fundación.
 
 ## Otras misiones en Tobruk
 xxx
