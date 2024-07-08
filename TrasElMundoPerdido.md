@@ -555,6 +555,11 @@ Recibes un **+2 en tiradas en que las matemáticas sean importantes**, desde Apo
 
 \saltopagina
 
+### Nueva desventaja: Alergia a los saurios (mayor)
+**Requisitos:** Novato
+
+Tienes alergia al plumón de los saurios. Al entrar en contacto por más de 5 minutos con un saurio (montar, curarlo, ponerle una barda, etc.) empiezas a tener síntomas de alergia, mocos, ojos llorosos, estornudos, ronchas y urticaria en la piel. En caso de alergia tendrás un -1 a todas las tiradas (menos de combate) hasta que pase una hora de estar en contacto con el saurio.
+
 ### Nueva ventaja para dinosaurios: Aviso de peligro
 **Requisitos:** Novato, Herbívoro
 
@@ -575,14 +580,16 @@ El Paso nadando del dinosaurio aumenta en +2.
 
 El Paso de Vuelo del dinosaurio aumenta en +2.
 
+\saltopagina
+
 ### Nueva desventaja para dinosaurios: Joven
 **Requisitos:** Novato
 
-El dinosaurio no es un espécimen adulto y todavía no ha llegado a su tamaño de adulto. Es por ello que tiene 1 punto menos de tamaño que lo normal en su especie con todas las consecuencias en Dureza, número de heridas, etc. También supone que el equipamiento que se le ponga no puede usarse en otros dinosaurios de su especie porque es específico para él y viceversa. Adaptarlo de uno a otro llevará 1 hora de trabajo con las herramientas adecuadas.
+El dinosaurio no es un espécimen adulto y todavía no ha llegado a su tamaño de adulto. Es por ello que tiene 1 punto menos de tamaño que lo normal en su especie con todas las consecuencias en Dureza, número de heridas, etc.
+
+También supone que el equipamiento que se le ponga no puede usarse en otros dinosaurios de su especie porque es específico para él y viceversa. Adaptarlo de uno a otro llevará 1 hora de trabajo con las herramientas adecuadas.
 
 Podrá quitarse si se quiere gastando un avance conseguido a partir de Experimentado.
-
-\saltopagina
 
 ### Nueva desventaja para dinosaurios: Parte de la manada
 **Requisitos:** Novato
@@ -1050,11 +1057,86 @@ Todos los relatos salvajes que encontrarás en este capítulo son aventuras que 
 
 Están pensadas como interludios divertidos en los que los tu mesa podrá desarrollar el trasfondo de sus comandos, hacer contactos, conseguir o devolver favores o simplemente conocer más cosas de este mundo.
 
+## El prototipo
+```
+La gente de IM tiene nuevos inventos e ingenios para saurios y necesita que sean testados en una misión real. Quizás en su próximo viaje puedan llevárselos y hacer una prueba de campo.
+```
+
+Esto no es exactamente un relato, sino una serie de ingenios y cachivaches que pueden llevarse en cada misión para probarlos. Son cacharros con funciones locas que fallan un montón y que tienden a explotar. Tómatelo como algo divertido y humorístico que meter en las grandes misiones. Si el humor no encaja en como llevas esta campaña, obvia completamente esta parte.
+
+Los comandos no deberían conocer como funcionan solo lo que les digan desde IM, deberán averiguarlo en sus misiones.
+
+### Antena de radio para estegosaurios
+Desde IM han creado una especie de fundas de tela metálica con cables y antenas para colocar en las placas dorsales de un estegosaurio y que funcionarían como antena amplificadora de señal de radio. Es bastante efectiva, pero al mínimo movimiento del saurio, la señal puede desaparecer o amplificarse demasiado.
+
+> Cuando lo usen, tira un d6, con 1 la señal se corta, 2-5 funciona normal y con 6 se amplifica. Si se amplifica, pueden pillar mensajes del enemigo con información valiosa, si los ves perdidos, o puedes usarlo para meter relatos salvajes. Haz la tirada cada vez que necesiten comunicarse, si se ponen a juguetear con la radio no conseguirán nada.
+
+\saltopagina
+
+La antena podría usarse para disfrazar al estegosaurio de algún tipo de ser extraterrestre si lo apoyan con luces y humo. No se me ocurre en que situación les podría venir bien, pero la posibilidad existe.
+
+### Flotadores para dinosaurios
+Los dinosaurios carnívoros terrestres no son buenos nadadores y la gente de IM han decidido crear unos flotadores en forma de rosca para alosaurios y megalosaurios. Estos flotadores con colores de camuflaje se colocan entre los brazos y las piernas. Cabe decir que se ven ridículos en el agua con los flotadores.
+
+> Permiten nadar con sus extremidades traseras 1 casilla por turno. NO pueden hundirse a no ser que el flotador se rompa. 
+> Cuesta 5 turnos ponerlo y quitarlo y mientras los tengan puestos tienen un -2 a Intimidar.
+
+### Ruidos de la selva
+En IM han metido en un mini-fonógrafo ruidos de la selva para que los dinosaurios se sientan como en casa en casos de estrés.
+
+> Ponerles la música de la selva da un +2 a las tiradas de Medicina para curarles cuando están escuchándolos. El problema es que los relaja tanto que mientras escuchan la música y la hora posterior tienen un -1 a todas las tiradas. 
+
+### Material reflectante
+Espías industriales del MI6 han conseguido en EUA (en los laboratorios de la empresa M3) unos prototipos de material reflectante. Este material refleja la luz de forma que son visibles, aunque las condiciones de luz sean mínimas.
+
+\saltopagina
+
+Desde IM han les han proporcionado 2 planchas de 4m² de este material para que lo prueben en misiones. Pueden usarlo como quieran, desde hacer pequeñas piezas para marcar zonas de aterrizaje o marcar una ruta de escape de las alcantarillas, hasta ponerlo en las placas del estegosaurio y que sea visible a muchos metros de distancia y pueda recogerlo un helicóptero.
+
+Hay que recordar que solo es útil de noche o con poca luz y como con otros de los prototipos de este relato, este material puede usarse como parte de un disfraz.
+
+> Usar material reflectante en un objeto, animal o persona hace que pierda 2 puntos en su bonificación de sigilo por falta de luz con trozos pequeños (de un palmo o menos). Con trozos más grandes queda a discreción del DJ. 
+
+## La protesta
+```
+Un joven activista medioambiental se ha encadenado a la entrada principal del muro exterior del castillo Dunvegan y amenaza con prenderse fuego si no paran los experimentos con animales que se realizan en el castillo.
+```
+
+Cuando tus comandos vuelve una misión se encuentran a un chaval de unos 15 o 16 años encadenado (3 cadenas con 3 candados, -2 Latrocinio cada candado, cada cadena tiene una consistencia de 9) a la puerta principal de los terrenos de la fundación. Tiene varios carteles donde se puede leer "Lady Roxton experimenta con animales en peligro de extinción." o "La Fundación Roxton es una tapadera del ejército para experimentar con animales". Tiene un hornillo para cocinar y calentarse y un gran macuto (también encadenado) con provisiones para 7 días.
+
+Tendrán que buscar la manera de deshacerse de Gerald, bien por la fuerza, bien con el engaño o bien con la persuasión. Lady Margaret no quiere que nadie de fuera entre en las instalaciones. Bajo ninguna circunstancia debería dejársele entrar.
+
+Por la fuerza es el camino más rápido, pero no pueden hacerle nada porque está fuera de los terrenos. Si le dañan de alguna manera les pondrá una demanda, habrá un juicio por lesiones y demás. Puede aparecer alguien de la prensa cuando vayan a actuar contra Gerald para complicarlo.
+
+\saltopagina
+
+Pueden intentar engañarle, prometerle que le dejarán entrar y ver las instalaciones y cuando se desate no hacerle ni caso. En esa situación al volver de otra misión Gerald volverá a estar con dos compañeros, así con más gente hasta que le deje entrar.
+
+Si tratan de persuadirle de que desista o que se canse cuando se le acabe la comida. Es casi imposible, es terriblemente tozudo. Solo unas muy buenas tiradas podrían convencerle.
+
+La última poción es investigar el pasado de Gerald y tratar de que Lady Margaret le deje entrar en el recinto.Si investigan su pasado, está limpio, ninguna relación con nazis y tras asombrarse al ver los dinosaurios pedirá ir al campamento como becario.
+
+### Gerald Durrell &#x2638;
+Este, joven naturalista y activista medioambiental va a ser un pequeño quebradero de cabeza para la Fundación. Gerald lleva rodeado de animales y estudiándolos desde pequeño. Son su amor y su obsesión y no va a permitir, como cree, que la Fundación haga experimentos con animales para los militares y los maltrate. 
+
+* **Atributos:** Agilidad d6, Astucia d6, Espíritu d10, Fuerza d6, Vigor d6
+* **Habilidades:** Atletismo d6, Conocimientos Generales d6, Ciencias d8, Disparar d6, Idioma materno d6, Idioma griego d6, Pelear d4, Notar d8, Persuadir d8, Sigilo d8
+* **Paso:** 6; **Parada:** 4; **Dureza:** 5
+* **Ventajas:** Afortunado, Vínculo animal
+* **Desventajas:** Joven (menor), Pobreza, Tozudo
+* **Equipo:** Cadena gruesa, candado, mochila con agua y provisiones y una manta
+
+**Sugerencia de interpretación:** Eres muy cabezota. Si piensas que están experimentando con animales hasta que no entres y lo veas con tus propios ojos, nada podrá convencerte de lo contrario. 
+
+\saltopagina
+
 ## Un día en el museo
 ```
 Quizás una visita al Museo de Ciencias Naturales ayude a solucionar un nuevo problema que ha supuesto la cría de dinosaurios.
 ```
 xxx
+
+\saltopagina
 
 ## Cena de etiqueta
 ```
@@ -1072,6 +1154,8 @@ Mientras el Mary Anning surcaba el mar uno de los plesiosaurios que viaja con é
 
 xxx
 
+\saltopagina
+
 ## Campo minado
 ```
 Mientras tus comandos atraviesan una zona despejada de terreno, descubren para su desgracia que se han metido en un campo de minas.
@@ -1079,12 +1163,13 @@ Mientras tus comandos atraviesan una zona despejada de terreno, descubren para s
 
 xxx
 
+\saltopagina
+
 ## Limpiando el puerto
 ```
 El alto mando necesita que tus comandos limpien de minas un puerto. En principio parece sencillo, pero cuando hay explosivos de por medio todo se complica. 
 ```
 xxx
-
 
 \saltopagina
 
@@ -1103,8 +1188,6 @@ Marion siempre va acompañada de su editora, Alice Gerald, que no se separa de e
 
 xxx
 
-\saltopagina
-
 ### Marion Fairfax &#x2638;
 
 * **Atributos:** Agilidad d6, Astucia d10, Espíritu d8, Fuerza d6, Vigor d6
@@ -1112,9 +1195,13 @@ xxx
 * **Paso:** 6; **Parada:** 4; **Dureza:** 5
 * **Ventajas:** Atractiva, Famosa
 * **Desventajas:** Curiosa
-* **Equipo:** Bolso grande lleno papeles para tonar notas, cámara de fotos, algún libro de teoría del cine
 
+\saltopagina
+
+* **Equipo:** Bolso grande lleno papeles para tonar notas, cámara de fotos, algún libro de teoría del cine
 **Sugerencia de interpretación:** Marion es un amor de persona, simpática, agradable y siempre sonriente. Se desvive por sus fans, firma libros hasta tener calambres y siempre tiene tiempo para hablar con ellos, también contesta todas sus cartas. No les puede negar nada.
+
+\saltopagina
 
 ## Despedidas
 ```
@@ -1142,6 +1229,8 @@ Al volver a Skye os informan de que un huevo de pteranodon ha desaparecido de su
 
 xxx
 
+\saltopagina
+
 ## Titanes de tiempos pretéritos
 ```
 La gente de Inteligencia Militar ha tenido una idea genial, usar a los saurios en una película de bajo presupuesto. De forma que si alguien ves a los dinosaurios puedan decir que era un truco cinematográfico. 
@@ -1156,79 +1245,6 @@ Si revisan el guion podrán ver que tendrán que rodar escenas disfrazados de tr
 xxx
 
 \saltopagina
-
-## La protesta
-```
-Un joven activista medioambiental se ha encadenado a la entrada principal del muro exterior del castillo Dunvegan y amenaza con prenderse fuego si no paran los experimentos con animales que se realizan en el castillo.
-```
-
-Cuando tus comandos vuelve una misión se encuentran a un chaval de unos 15 o 16 años encadenado (3 cadenas con 3 candados, -2 Latrocinio cada candado, cada cadena tiene una consistencia de 9) a la puerta principal de los terrenos de la fundación. Tiene varios carteles donde se puede leer "Lady Roxton experimenta con animales en peligro de extinción." o "La Fundación Roxton es una tapadera del ejército para experimentar con animales". Tiene un hornillo para cocinar y calentarse y un gran macuto (también encadenado) con provisiones para 7 días.
-
-Tendrán que buscar la manera de deshacerse de Gerald, bien por la fuerza, bien con el engaño o bien con la persuasión. Lady Margaret no quiere que nadie de fuera entre en las instalaciones. Bajo ninguna circunstancia debería dejársele entrar.
-
-Por la fuerza es el camino más rápido, pero no pueden hacerle nada porque está fuera de los terrenos. Si le dañan de alguna manera les pondrá una demanda, habrá un juicio por lesiones y demás. Puede aparecer alguien de la prensa cuando vayan a actuar contra Gerald para complicarlo.
-
-Pueden intentar engañarle, prometerle que le dejarán entrar y ver las instalaciones y cuando se desate no hacerle ni caso. En esa situación al volver de otra misión Gerald volverá a estar con dos compañeros, así con más gente hasta que le deje entrar.
-
-Si tratan de persuadirle de que desista o que se canse cuando se le acabe la comida. Es casi imposible, es terriblemente tozudo. Solo unas muy buenas tiradas podrían convencerle.
-
-La última poción es investigar el pasado de Gerald y tratar de que Lady Margaret le deje entrar en el recinto.Si investigan su pasado, está limpio, ninguna relación con nazis y tras asombrarse al ver los dinosaurios pedirá ir al campamento como becario.
-
-\saltopagina
-
-### Gerald Durrell &#x2638;
-Este, joven naturalista y activista medioambiental va a ser un pequeño quebradero de cabeza para la Fundación. Gerald lleva rodeado de animales y estudiándolos desde pequeño. Son su amor y su obsesión y no va a permitir, como cree, que la Fundación haga experimentos con animales para los militares y los maltrate. 
-
-* **Atributos:** Agilidad d6, Astucia d6, Espíritu d10, Fuerza d6, Vigor d6
-* **Habilidades:** Atletismo d6, Conocimientos Generales d6, Ciencias d8, Disparar d6, Idioma materno d6, Idioma griego d6, Pelear d4, Notar d8, Persuadir d8, Sigilo d8
-* **Paso:** 6; **Parada:** 4; **Dureza:** 5
-* **Ventajas:** Afortunado, Vínculo animal
-* **Desventajas:** Joven (menor), Pobreza, Tozudo
-* **Equipo:** Cadena gruesa, candado, mochila con agua y provisiones y una manta
-
-**Sugerencia de interpretación:** Eres muy cabezota. Si piensas que están experimentando con animales hasta que no entres y lo veas con tus propios ojos, nada podrá convencerte de lo contrario. 
-
-\saltopagina
-
-## El prototipo
-```
-La gente de IM tiene nuevos inventos e ingenios para saurios y necesita que sean testados en una misión real. Quizás en su próximo viaje puedan llevárselos y hacer una prueba de campo.
-```
-
-Esto no es exactamente un relato, sino una serie de ingenios y cachivaches que pueden llevarse en cada misión para probarlos. Son cacharros con funciones locas que fallan un montón y que tienden a explotar. Tómatelo como algo divertido y humorístico que meter en las grandes misiones. Si el humor no encaja en como llevas esta campaña, obvia completamente esta parte.
-
-Los comandos no deberían conocer como funcionan solo lo que les digan desde IM, deberán averiguarlo en sus misiones.
-
-### Antena de radio para estegosaurios
-Desde IM han creado una especie de fundas de tela metálica con cables y antenas para colocar en las placas dorsales de un estegosaurio y que funcionarían como antena amplificadora de señal de radio. Es bastante efectiva, pero al mínimo movimiento del saurio, la señal puede desaparecer o amplificarse demasiado.
-
-> Cuando lo usen, tira un d6, con 1 la señal se corta, 2-5 funciona normal y con 6 se amplifica. Si se amplifica, pueden pillar mensajes del enemigo con información valiosa, si los ves perdidos, o puedes usarlo para meter relatos salvajes. Haz la tirada cada vez que necesiten comunicarse, si se ponen a juguetear con la radio no conseguirán nada.
-
-La antena podría usarse para disfrazar al estegosaurio de algún tipo de ser extraterrestre si lo apoyan con luces y humo. No se me ocurre en que situación les podría venir bien, pero la posibilidad existe.
-
-\saltopagina
-
-### Flotadores para dinosaurios
-Los dinosaurios carnívoros terrestres no son buenos nadadores y la gente de IM han decidido crear unos flotadores en forma de rosca para alosaurios y megalosaurios. Estos flotadores con colores de camuflaje se colocan entre los brazos y las piernas. Cabe decir que se ven ridículos en el agua con los flotadores.
-
-> Permiten nadar con sus extremidades traseras 1 casilla por turno. NO pueden hundirse a no ser que el flotador se rompa. 
-> Cuesta 5 turnos ponerlo y quitarlo y mientras los tengan puestos tienen un -2 a Intimidar.
-
-### Ruidos de la selva
-En IM han metido en un mini-fonógrafo ruidos de la selva para que los dinosaurios se sientan como en casa en casos de estrés.
-
-> Ponerles la música de la selva da un +2 a las tiradas de Medicina para curarles cuando están escuchándolos. El problema es que los relaja tanto que mientras escuchan la música y la hora posterior tienen un -1 a todas las tiradas. 
-
-### Material reflectante
-Espías industriales del MI6 han conseguido en EUA (en los laboratorios de la empresa M3) unos prototipos de material reflectante. Este material refleja la luz de forma que son visibles, aunque las condiciones de luz sean mínimas.
-
-Desde IM han les han proporcionado 2 planchas de 4m² de este material para que lo prueben en misiones. Pueden usarlo como quieran, desde hacer pequeñas piezas para marcar zonas de aterrizaje o marcar una ruta de escape de las alcantarillas, hasta ponerlo en las placas del estegosaurio y que sea visible a muchos metros de distancia y pueda recogerlo un helicóptero.
-
-\saltopagina
-
-Hay que recordar que solo es útil de noche o con poca luz y como con otros de los prototipos de este relato, este material puede usarse como parte de un disfraz.
-
-> Usar material reflectante en un objeto, animal o persona hace que pierda 2 puntos en su bonificación de sigilo por falta de luz con trozos pequeños (de un palmo o menos). Con trozos más grandes queda a discreción del DJ. 
 
 ## Semillas de aventuras
 Además de los relatos salvajes, aquí te propongo una serie de semillas de aventuras si quieres alargar tus partidas o darles más profundidad.
