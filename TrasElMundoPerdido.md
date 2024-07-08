@@ -1203,19 +1203,28 @@ En IM han metido en un mini-fonógrafo ruidos de la selva para que los dinosauri
 
 > Ponerles la música de la selva da un +2 a las tiradas de Medicina para curarles cuando están escuchándolos. El problema es que los relaja tanto que mientras escuchan la música y la hora posterior tienen un -1 a todas las tiradas. 
 
+### Material reflectante
+Espías industriales del MI6 han conseguido en EUA (en los laboratorios de la empresa M3) unos prototipos de material reflectante. Este material refleja la luz de forma que son visibles, aunque las condiciones de luz sean mínimas.
+
+Desde IM han les han proporcionado 2 planchas de 4m² de este material para que lo prueben en misiones. Pueden usarlo como quieran, desde hacer pequeñas piezas para marcar zonas de aterrizaje o marcar una ruta de escape de las alcantarillas, hasta ponerlo en las placas del estegosaurio y que sea visible a muchos metros de distancia y pueda recogerlo un helicóptero.
+
+Hay que recordar que solo es útil de noche o con poca luz y como con otros de los prototipos de este relato, este material puede usarse como parte de un disfraz.
+
+> Usar material reflectante en un objeto, animal o persona hace que pierda 2 puntos en su bonificación de sigilo por falta de luz con trozos pequeños (de un palmo o menos). Con trozos más grandes queda a discreción del DJ. 
+
 \saltopagina
 
 ## Semillas de aventuras
 Además de los relatos salvajes, aquí te propongo una serie de semillas de aventuras si quieres alargar tus partidas o darles más profundidad.
 
 ### Samuráis y ninjas
-El Tercer Reich pide ayuda al ejército imperial japonés y estos envían a grupo de ninjas y samuráis para hacer frente a tus comandos y sus saurios. Quizás puedas animar las partidas con ataques de ninjas mientras duermen en un tren nocturno a París o tal vez tus comandos tengan que enfrentarse a un samurái que para las balas con su espada e invoca su chi a través de ella. 
+El Tercer Reich pide ayuda al ejército imperial japonés y estos envían a grupo de ninjas y samuráis para hacer frente a tus comandos y sus saurios. Quizás puedas animar las partidas con ataques de ninjas mientras duermen en un tren nocturno a París o tal vez tus comandos tengan que enfrentarse a un samurái que para las balas con su espada e invoca su ki a través de ella. 
 
 ### La gran evasión
 Alguien de tus comandos, incluso todos, han caído prisioneros de los nazis y deberán escapar de un campo de prisioneros al más puro estilo "La gran evasión".
 
 ### La epidemia
-Desde el campamento llegan malas noticias una enfermedad está afectando a todos los saurios de la meseta. Quizás la cura exija buscar gente y productos por todo el mundo, incluso igual en el propio Berlin. 
+Desde el campamento llegan malas noticias una enfermedad está afectando a todos los saurios de la meseta. Quizás la cura exija buscar gente y productos por todo el mundo, incluso igual en el propio Berlín. 
 
 ***
 

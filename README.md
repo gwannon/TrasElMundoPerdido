@@ -12,20 +12,23 @@
   * Una aventura increíble
 * La expedición Roxton
 * La Fundación J. Roxton
-  * La Fundación Roxton hoy en día
   * Lady Roxton
-  * El "Mary Anning" y sus instalaciones
+  * La Guerra
+  * La Fundación Roxton hoy en día
 
 ## Recursos 
 * https://commons.wikimedia.org/wiki/Category:Charles_R._Knight
 * https://www.rawpixel.com/search/blacksmith?page=4&path=_topics%7C%24free&sort=popular
 
 ***
+***
 
 # Changelog
 
 ## Versión 0.4 En desarrollo
-* Terminado mapa de las instalaciones de la isla de SKye
+* Terminado mapa de las instalaciones de la isla de Skye
+* Terminado relato salvaje: El prototipo
+* Terminado relato salvaje: La protesta
 
 ## Versión 0.3.1 02/07/2024
 * Dinosaurios terminados: Pteranodon, Plesiosaurio, Megalosaurio
@@ -49,6 +52,7 @@
 * Creada estructura general de la campaña
 * Montada [página web del proyecto](https://mundoperdido.gwannon.com/)
 
+***
 ***
 
 # Script para convertir MD a PDF
