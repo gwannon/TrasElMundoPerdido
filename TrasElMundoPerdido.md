@@ -1097,7 +1097,7 @@ En 1924 en Hollywood una guionista/actriz llamada Marion Fairfax intentaba vende
 
 Hoy esa guionista en ciernes, es una famosa escritora de ciencia ficción que está de visita en Londres para promocionar su libro. La Fundación quiere aprovechar y averiguar cómo su guion era tan acertado. 
 
-Se va a hospedar durante 4 noches en el Savoy y se dedicará a firmar sus obras y hacer lecturas en diferentes librerías de Londres. También tiene una comida con otras célebres escritoras como Agatha Christie. El quinto día primera volverá a Nueva York en barco. 
+Se va a hospedar durante 4 noches en el "Savoy" y se dedicará a firmar sus obras y hacer lecturas en diferentes librerías de Londres. También tiene una comida con otras célebres escritoras como Agatha Christie. El quinto día primera volverá a Nueva York en barco. 
 
 Marion siempre va acompañada de su editora, Alice Gerald, que no se separa de ella nunca. Así que el primer paso será deshacerse de Alice para poder acercarse a Marion.
 
@@ -1490,7 +1490,7 @@ Este soldado nazi está especializado en el uso de lanzallamas como arma de comb
 * **Habilidades:** Atletismo d4, Conocimientos Generales d6, Disparar d8, Idioma materno d6, Pelear d4, Notar d4, Intimidar d6
 * **Paso:** 6; **Parada:** 4; **Dureza:** 7(1)
 * **Ventajas:** Soldado, Sin piedad
-* **Desventajas:** Obligaciones (ejército), Fanático (SS),Deseo de muerte
+* **Desventajas:** Obligaciones (ejército), Fanático (SS), Deseo de muerte
 * **Equipo:** Lanzallamas, traje ignífugo (+1), casco nazi (+1 dureza cabeza)
 
 ### Menestral/a
@@ -1733,7 +1733,7 @@ Que los reptiles aprendieron a volar que las aves descienden de estos dinosaurio
 
 \saltopagina
 
-Los pteranodones pasan mucho tiempo pescando en el mar y como las grandes aves marinas, su vuelo se basada más en el planeo con sus grandes alas que en el aleteo.
+Los pteranodones pasan mucho tiempo pescando en el mar y como las grandes aves marinas, su vuelo se basaba más en el planeo con sus grandes alas que en el aleteo.
 
 Como bien nos ha enseñado el cine (en realidad no) son capaces de lanzarse contra sus presas o enemigos agarrarlos y elevarse con ellos para llevarlos a su nido para alimentar a sus crías o para dejarlos caer de grandes alturas. 
 
@@ -1813,7 +1813,7 @@ A pesar de su aspecto más cercano a los alces (de hecho se les conocía como al
 
 \saltopagina
 
-[![Imagen de un Pitecántropo](./assests/images/pitecantropo.jpg 'Reconstrucción facial de A. afarensis. Cicero Moraes')](https://es.wikipedia.org/wiki/Australopithecus_afarensis#/media/Archivo:Australopithecus_afarensis.png 'Reconstrucción facial de A. afarensis. Cicero Moraes')
+[![Imagen de un Pitecántropo](./assests/images/pitecantropo.jpg 'Reconstrucción facial de A. afarensis. Cícero Moraes')](https://es.wikipedia.org/wiki/Australopithecus_afarensis#/media/Archivo:Australopithecus_afarensis.png 'Reconstrucción facial de A. afarensis. Cicero Moraes')
 
 
 ### Pitecántropo
@@ -1893,7 +1893,7 @@ Si vas a hacer esta pregunta, mejor pierde 5 minutos buscando en internet podrá
 
 He tratado de hacer esta ambientación lo más inclusiva y abierta que puedo y es por ello que estoy seguro de que habré hecho muchas cosas mal.
 
-He tratado de que haya diversidad entre PNJ con todo tipo de opciones de género, raza, etc. y sin definir su orientación sexual para que DJ puedas decidirla a tu gusto. He tratado de evitar clichés y espero haberlo hecho, pero sois muy libres de cambiarlo a vuestro gusto.
+He tratado de que haya diversidad entre PNJ con todo tipo de opciones de género, raza, etc. y sin definir su orientación sexual para que DJ puedas decidirla a tu gusto. He intentado evitar clichés y espero haberlo hecho, pero sois muy libres de cambiarlo a vuestro gusto.
 
 \saltopagina
 
