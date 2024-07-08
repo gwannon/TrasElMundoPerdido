@@ -25,7 +25,9 @@
 
 # Changelog
 
-## Versión 0.4 En desarrollo
+## Versión 0.4.1 En desarrollo
+
+## Versión 0.4 08/07/2024
 * Terminado mapa de las instalaciones de la isla de Skye
 * Terminado relato salvaje: El prototipo
 * Terminado relato salvaje: La protesta

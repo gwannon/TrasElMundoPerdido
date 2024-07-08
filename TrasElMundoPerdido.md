@@ -1108,17 +1108,21 @@ xxx
 ### Marion Fairfax &#x2638;
 
 * **Atributos:** Agilidad d6, Astucia d10, Espíritu d8, Fuerza d6, Vigor d6
-* **Habilidades:** Atletismo d6, Ciencias d6, Conocimientos Generales d10, Humanidades d10, Idioma materno d10, Interpretar d10, Notar d6, Persuadir d8, Sigilo d4
+* **Habilidades:** Atletismo d6, Ciencias d6, Conocimientos Generales d10, Humanidades d10, Idioma materno d10, Interpretar d10, Investigar d8, Notar d6, Persuadir d8, Sigilo d4
 * **Paso:** 6; **Parada:** 4; **Dureza:** 5
-* **Ventajas:** xxx
-* **Desventajas:** xxx
+* **Ventajas:** Atractiva, Famosa
+* **Desventajas:** Curiosa
 * **Equipo:** Bolso grande lleno papeles para tonar notas, cámara de fotos, algún libro de teoría del cine
+
+**Sugerencia de interpretación:** Marion es un amor de persona, simpática, agradable y siempre sonriente. Se desvive por sus fans, firma libros hasta tener calambres y siempre tiene tiempo para hablar con ellos, también contesta todas sus cartas. No les puede negar nada.
 
 ## Despedidas
 ```
 La guerra se ha acabado y quizás es el momento de que los dinosaurios vuelvan a su mundo. 
 ```
 xxx
+
+\saltopagina
 
 ## El secreto de los Branningan
 ```
@@ -1158,16 +1162,28 @@ xxx
 Un joven activista medioambiental se ha encadenado a la entrada principal del muro exterior del castillo Dunvegan y amenaza con prenderse fuego si no paran los experimentos con animales que se realizan en el castillo.
 ```
 
-xxx
+Cuando tus comandos vuelve una misión se encuentran a un chaval de unos 15 o 16 años encadenado (3 cadenas con 3 candados, -2 Latrocinio cada candado, cada cadena tiene una consistencia de 9) a la puerta principal de los terrenos de la fundación. Tiene varios carteles donde se puede leer "Lady Roxton experimenta con animales en peligro de extinción." o "La Fundación Roxton es una tapadera del ejército para experimentar con animales". Tiene un hornillo para cocinar y calentarse y un gran macuto (también encadenado) con provisiones para 7 días.
+
+Tendrán que buscar la manera de deshacerse de Gerald, bien por la fuerza, bien con el engaño o bien con la persuasión. Lady Margaret no quiere que nadie de fuera entre en las instalaciones. Bajo ninguna circunstancia debería dejársele entrar.
+
+Por la fuerza es el camino más rápido, pero no pueden hacerle nada porque está fuera de los terrenos. Si le dañan de alguna manera les pondrá una demanda, habrá un juicio por lesiones y demás. Puede aparecer alguien de la prensa cuando vayan a actuar contra Gerald para complicarlo.
+
+Pueden intentar engañarle, prometerle que le dejarán entrar y ver las instalaciones y cuando se desate no hacerle ni caso. En esa situación al volver de otra misión Gerald volverá a estar con dos compañeros, así con más gente hasta que le deje entrar.
+
+Si tratan de persuadirle de que desista o que se canse cuando se le acabe la comida. Es casi imposible, es terriblemente tozudo. Solo unas muy buenas tiradas podrían convencerle.
+
+La última poción es investigar el pasado de Gerald y tratar de que Lady Margaret le deje entrar en el recinto.Si investigan su pasado, está limpio, ninguna relación con nazis y tras asombrarse al ver los dinosaurios pedirá ir al campamento como becario.
+
+\saltopagina
 
 ### Gerald Durrell &#x2638;
-Este, joven naturalista y activista medioambiental va a ser un pequeño quebradero de cabeza para la Fundación. Gerald lleva rodeado de animales y estudiándolos desde pequeño. Son su amor y su obsesión y no va a permitir, como cree, que la Fundación haga experimentos con anmales para los militares y los maltrate. 
+Este, joven naturalista y activista medioambiental va a ser un pequeño quebradero de cabeza para la Fundación. Gerald lleva rodeado de animales y estudiándolos desde pequeño. Son su amor y su obsesión y no va a permitir, como cree, que la Fundación haga experimentos con animales para los militares y los maltrate. 
 
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d10, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d6, Conocimientos Generales d6, Ciencias d8, Disparar d6, Idioma materno d6, Idioma griego d6, Pelear d4, Notar d8, Persuadir d8, Sigilo d8
 * **Paso:** 6; **Parada:** 4; **Dureza:** 5
 * **Ventajas:** Afortunado, Vínculo animal
-* **Desventajas:** Joven (menor), Pobreza
+* **Desventajas:** Joven (menor), Pobreza, Tozudo
 * **Equipo:** Cadena gruesa, candado, mochila con agua y provisiones y una manta
 
 **Sugerencia de interpretación:** Eres muy cabezota. Si piensas que están experimentando con animales hasta que no entres y lo veas con tus propios ojos, nada podrá convencerte de lo contrario. 
@@ -1208,11 +1224,11 @@ Espías industriales del MI6 han conseguido en EUA (en los laboratorios de la em
 
 Desde IM han les han proporcionado 2 planchas de 4m² de este material para que lo prueben en misiones. Pueden usarlo como quieran, desde hacer pequeñas piezas para marcar zonas de aterrizaje o marcar una ruta de escape de las alcantarillas, hasta ponerlo en las placas del estegosaurio y que sea visible a muchos metros de distancia y pueda recogerlo un helicóptero.
 
+\saltopagina
+
 Hay que recordar que solo es útil de noche o con poca luz y como con otros de los prototipos de este relato, este material puede usarse como parte de un disfraz.
 
 > Usar material reflectante en un objeto, animal o persona hace que pierda 2 puntos en su bonificación de sigilo por falta de luz con trozos pequeños (de un palmo o menos). Con trozos más grandes queda a discreción del DJ. 
-
-\saltopagina
 
 ## Semillas de aventuras
 Además de los relatos salvajes, aquí te propongo una serie de semillas de aventuras si quieres alargar tus partidas o darles más profundidad.
