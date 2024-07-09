@@ -103,7 +103,7 @@ Pasado el impacto inicial, rápidamente Margaret se hizo a su nueva situación y
 
 Mientras que Lord Roxton trato de mantener ocultos tanto Maple White como la reserva de Skye, Margaret sabía que esa una tarea imposible sin ayuda exterior. El mundo de Margaret era un mundo de fotografías con teleobjetivo, de cámaras de cine y de micrófonos y radio. Nada podía mantenerse en secreto, tarde o temprano alguien captaría a un pterodáctilo volando o se metería en los terrenos de Skye para investigar que había tras sus alambrados.
 
-Su primera gran acción como directora de la Fundación fue intentar hablar con el Gobierno, hablarles de los dinosaurios y del mundo perdido. No consiguió nada, ni una misera audición. Desde el gobierno se la tomo como una loca excéntrica a la que evitar. Pero sus peticiones si fueron escuchados que ella no podía imaginarse. Agentes de Inteligencia Militar a las órdenes del General Linton se pusieron en contacto con Lady Roxton.  
+Su primera gran acción como directora de la Fundación fue intentar hablar con el Gobierno, hablarles de los dinosaurios y del mundo perdido. No consiguió nada, ni una misera audición. Desde el gobierno se la tomo como una loca excéntrica a la que evitar. Pero sus peticiones si fueron escuchados que ella no podía imaginarse. Agentes de Inteligencia Militar (IM) a las órdenes del General Linton se pusieron en contacto con Lady Roxton.  
 
 \saltopagina
 
@@ -124,7 +124,7 @@ Legalmente la Fundación Roxton es una organización de defensa e investigación
 
 Tiene becas, hace recaudaciones de fondos, hace campañas de concienciación, patrocina eventos de defensa animal y contra la caza, y todas actividades de típicas, pero siempre teniendo en cuenta que va dirigido a las clases altas inglesas.
 
-La Fundación usa a veces estás actividades como tapadera para sus fines reales. Por ejemplo, renovó todo el hospital animal del zoo de Londres y Dublin y se quedó el viejo para sus instalaciones. Un par de veces ya han organizado eventos para invitar a posibles traidores y que Inteligencia militar entrará en su casa a buscar pruebas.
+La Fundación usa a veces estás actividades como tapadera para sus fines reales. Por ejemplo, renovó todo el hospital animal del zoo de Londres y Dublin y se quedó el viejo para sus instalaciones. Un par de veces ya han organizado eventos para invitar a posibles traidores y que IM entrará en su casa a buscar pruebas.
 
 ### Las instalaciones de la Fundación Roxton en Skye
 Lord Roxton trato su las instalaciones de Skye como una simple reserva natural, unos terrenos aislados donde los saurios estaban en libertad y el castillo Dunvegan donde algunos zoólogos de confianza podían trabajar (casi siempre con el visto bueno del profesor Challenger). 
@@ -234,7 +234,7 @@ Durante las misiones, siempre hay alguien de guardia en la sala de radio, las 24
 
 Los comandos pueden usar su radio portátil para comunicarse con el barco y este rebotar el mensaje a la Fundación. En un par de horas podrían mandar un mensaje y conseguir su respuesta.
 
-Aunque las comunicaciones pueden ser escuchadas por la Inteligencia Nazi, se usa un método de nombres en clave para tratar de ofuscar la información lo más posible. Aun así, una persona experta podría sacar el mensaje e incluso triangular la señal.
+Aunque las comunicaciones pueden ser escuchadas por la inteligencia nazi, se usa un método de nombres en clave para tratar de ofuscar la información lo más posible. Aun así, una persona experta podría sacar el mensaje e incluso triangular la señal.
 
 #### La esclusa de los plesiosaurios
 
@@ -406,7 +406,7 @@ Los dinosaurios eran un monstruo más del imaginario popular junto a otros seres
 Una persona de la calle con estudios medios podría interpretar un avistamiento de dinosaurios como un ataque alienígena, un monstruo congelado en un iceberg derretido, superlagartos mutados, incluso ser un dragón despertado por la magia.
 
 ## Mantener en secreto a los dinosaurios
-Mantener en secreto la existencia de dinosaurios es una de las preocupaciones de la Fundación y como hemos visto lo lleva haciéndolo desde 1912. De hecho, han arriesgado mucho al ofrecer a sus especímenes más dotados e inteligentes a la Inteligencia militar inglesa, pero como ya sabemos, "tiempos desesperados exigen medidas desesperadas". Así que la Fundación y sus saurios salieron a la luz para unas pocas personas del ejército inglés.
+Mantener en secreto la existencia de dinosaurios es una de las preocupaciones de la Fundación y como hemos visto lo lleva haciéndolo desde 1912. De hecho, han arriesgado mucho al ofrecer a sus especímenes más dotados e inteligentes a la IM inglesa, pero como ya sabemos, "tiempos desesperados exigen medidas desesperadas". Así que la Fundación y sus saurios salieron a la luz para unas pocas personas del ejército inglés.
 
 \saltopagina
 
@@ -541,9 +541,9 @@ El comando que adquiere esta ventaja puede convertir a un dinosaurio con el que 
 * Lo primero será darle nombre
 * El **compañero dinosaurio se convierte en comodín** con lo que tiene sus propios benis y su dado de héroe.
 * Por **cada Rango que alcance el comando el compañero conseguirá un avance**. Si se coge esta ventaja siendo experimentado, el compañero tendrá derecho a dos avances por Novato y por Experimentado. Cuando alcance el rango de Veterano y siguientes tendrá derecho a un nuevo avance por cada nuevo rango.
-* Habrá que ponerle 2 desventajas mentales o físicas que marquen su carácter, como Tozudo, Curioso, Joven, etc. y además la desventaja Mania (menor)
+* Habrá que ponerle 2 desventajas mentales o físicas que marquen su carácter, como Tozudo, Curioso, Joven, etc. y además la desventaja Manía (menor)
 * El compañero animal no atacará al comando bajo ninguna circunstancia normal.
-* Si por alguna causa fallece el compañero, el héroe podrá reemplazarlo tras 1d4 días. Si lo desea puede cambiar esta ventaja por otra que cumpla los requisitos.
+* Si por alguna causa fallece el compañero, el héroe podrá reemplazarlo tras 1d4 días. Si lo desea puede cambiar esta ventaja por otra que cumpla los requisitos y dejará de tener compañero saurio.
 
 Esta ventaja **sustituye a la ventaja Señor de las Bestias**. La ventaja Vínculo Animal solo serviría para dar benis a otros dinosaurios que no sean compañeros de ningún comando. 
 
@@ -614,10 +614,11 @@ Todos queremos ver persecuciones entre dinosaurios y motos nazis por una carrete
 |VEHÍCULO|TAMAÑO|MANIOBRA.|VEL. MÁX.|DUREZA|TRIPULACIÓN|
 |--------|------|----|--|------|-----|
 |Alosaurio|6|0|55 km/h|17|1+1|
-|Estegosaurio| |-1|20 km/h|16|1+1|
-|Iguanodon| | |25 km/h| |1|
-|Megalosaurio| | |50 km/h| |1+1|
-|Plesiosaurio| | |40 km/h| |1|
+|Estegosaurio|6|-1|20 km/h|16|1+1|
+|Ictiosaurio|1|+1|40 km/h|7|1|
+|Iguanodon|5|-1|25 km/h|13|1|
+|Megalosaurio|5|-1|50 km/h|15|1+1|
+|Plesiosaurio|3|0|40 km/h|11|1|
 |Pteranodon|2|+1|95 km/h|9|1|
 
 Recuerda que los dinosaurios son también parte de la tripulación del vehículo. Así pues, aparte de correr, pueden hacer otras acciones en cada ronda de persecución como atacar al enemigo, derribar árboles para cortar el camino a sus perseguidores, etc.
@@ -794,7 +795,7 @@ Si deseas jugar los diferentes escenarios de guerra en orden cronológico por ri
 ## Preparando las misiones
 Preparar la misión antes de partir con Mary Anning es una tarea muy importante, ya que la selección de dinosaurios y el equipo que lleven marcará cómo se desarrollará, convirtiendo una misión suicida en un paseo y viceversa.
 
-Al principio de cada misión (Noruega, Francia, etc.) recibirán una charla informativa con toda la información que Inteligencia ha recabado y luego una rueda de preguntas.
+Al principio de cada misión (Noruega, Francia, etc.) recibirán una charla informativa con toda la información que IM ha recabado y luego una rueda de preguntas.
 
 A continuación deberán elaborar un listado de dinosaurios que quieren llevar y de equipamiento especial que podrían necesitar. Si se pasan con sus peticiones puedes decirles que el Alto Mando les niega ciertas cosas y si es necesario podrán hacer otro listado.
 
@@ -1193,7 +1194,7 @@ xxx
 * **Atributos:** Agilidad d6, Astucia d10, Espíritu d8, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d6, Ciencias d6, Conocimientos Generales d10, Humanidades d10, Idioma materno d10, Interpretar d10, Investigar d8, Notar d6, Persuadir d8, Sigilo d4
 * **Paso:** 6; **Parada:** 4; **Dureza:** 5
-* **Ventajas:** Atractiva, Famosa
+* **Ventajas:** Famosa
 * **Desventajas:** Curiosa
 
 \saltopagina
@@ -1233,16 +1234,28 @@ xxx
 
 ## Titanes de tiempos pretéritos
 ```
-La gente de Inteligencia Militar ha tenido una idea genial, usar a los saurios en una película de bajo presupuesto. De forma que si alguien ves a los dinosaurios puedan decir que era un truco cinematográfico. 
+La gente de IM ha tenido una idea genial, usar a los saurios en una película de bajo presupuesto. De forma que si alguien ves a los dinosaurios puedan decir que era un truco cinematográfico. 
 ```
 
 Lady Roxton quiere hablar con tus comandos. Mientras descansan entre misiones, tiene un pequeño trabajo que puede que incluso sea de su agrado. Cuando Lady Roxton les atienda les preguntará si les gusta el cine y les pasará una copia del guion. Si le dan un vistazo rápido es un guion de una película de serie B de dinosaurios llamada "Titanes de tiempos pretéritos", un título muy pretencioso para una cutre película. 
 
 IM quiere que se usen dinosaurios reales y no efectos especiales para recrear a los dinosaurios. La genial idea que han tenido es que si alguien ve a uno de los saurios, hace una foto o incluso los graba en celuloide, poder decir que es un truco del cine y poner "Titanes de tiempos pretéritos" como ejemplo de lo que la gente de Hollywood puede hacer. 
 
-Si revisan el guion podrán ver que tendrán que rodar escenas disfrazados de trogloditas luchando contra unos dinosaurios. También parece que rodarán con Marina Flowers, una estrella en ascenso de Hollywood, que tiene fama de ser problemática.
+### Revisando el guión
+Si revisan el guion que les da lady Margaret podrán ver que tendrán que rodar escenas disfrazados de trogloditas luchando contra unos dinosaurios. También parece que rodarán con Marina Flowers, una estrella en ascenso de Hollywood, que tiene fama de ser problemática.
 
 xxx
+
+### Marina Flowers, famosa actriz de Hollywood &#x2638;
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Idioma Árabe d8, Notar d4, Persuadir d4, Sigilo d4
+* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+* **Ventajas:** Atractiva, Famosa
+* **Desventajas:** xxx
+* **Equipo:** xxx
+
+**Sugerencia de interpretación:** xxx
 
 \saltopagina
 
@@ -1263,7 +1276,7 @@ Desde el campamento llegan malas noticias una enfermedad está afectando a todos
 # Aliados, antagonistas y dinosaurios
 En este capítulo vamos a ver todos los personajes que van a poblar esta campaña desde Lady Roxton, hasta una simple tabernera de un pueblo perdido de Normandía. 
 
-Aquí tienes, primero, aliados de tus comandos, miembros de la Fundación, altos cargos de Inteligencia Militar. Continuamos con antagonistas, todo una serie de malvados nazis que van a ponérselo difícil a tus comandos. Además, tenemos toda una serie de secuaces que llenarán tus aventuras de todo tipo de personajes.
+Aquí tienes, primero, aliados de tus comandos, miembros de la Fundación, altos cargos de IM. Continuamos con antagonistas, todo una serie de malvados nazis que van a ponérselo difícil a tus comandos. Además, tenemos toda una serie de secuaces que llenarán tus aventuras de todo tipo de personajes.
 
 Por último, tenemos una sección con los auténticos protagonistas de esta campaña los dinosaurios con extensas descripciones, ilustraciones, escalas en relación con los humanos, etc.
 
@@ -1292,7 +1305,7 @@ xxx
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
-* **Ventajas:** Soldado, xxx
+* **Ventajas:** Alcurnia, xxx
 * **Desventajas:** xxx
 * **Equipo:** xxx
 
@@ -1333,7 +1346,7 @@ xxx
 
 **Sugerencia de interpretación:** xxx
 
-### General Linton, Inteligencia Militar y enlace con el alto mando &#x2638;
+### General Linton, director de la IM y enlace con el alto mando &#x2638;
 xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX

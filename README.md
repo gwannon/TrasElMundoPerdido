@@ -5,16 +5,40 @@
 
 [Versión PDF](https://mundoperdido.gwannon.com/pdf/)
 
-# Por hacer de la versión 0.4
+# Por hacer de la versión 0.9
+* Parte 8: Regreso al Mundo Perdido
+* Parte 9: La Selva Negra
 
-## La Fundación Roxton (7)
-* El mundo perdido
-  * Una aventura increíble
-* La expedición Roxton
-* La Fundación J. Roxton
-  * Lady Roxton
-  * La Guerra
-  * La Fundación Roxton hoy en día
+# Por hacer de la versión 0.8
+* Parte 6: El frente ruso
+* Parte 7: Regreso a casa
+
+# Por hacer de la versión 0.7
+* Parte 5: Normandía
+* Parte 4: Noruega
+
+# Por hacer de la versión 0.6
+* Parte 2: Norte de África
+* Parte 3: Río de la plata
+
+# Por hacer de la versión 0.5
+* Parte 1: La isla de Skye (6)
+  * Reclutamiento
+  * Entrenamiento
+  * Dinosaurios a la fuga
+  * Primera misión
+  * Embarcando en el "Mary Anning"
+* Relatos salvajes
+
+# Por hacer de la versión 0.4
+* La Fundación Roxton (7)
+  * El mundo perdido
+    * Una aventura increíble
+  * La expedición Roxton
+  * La Fundación J. Roxton
+    * Lady Roxton
+    * La Guerra
+    * La Fundación Roxton hoy en día
 
 ## Recursos 
 * https://commons.wikimedia.org/wiki/Category:Charles_R._Knight
@@ -26,6 +50,8 @@
 # Changelog
 
 ## Versión 0.4.1 En desarrollo
+* Tabla de dinosaurios como vehículos terminada
+
 
 ## Versión 0.4 08/07/2024
 * Terminado mapa de las instalaciones de la isla de Skye
