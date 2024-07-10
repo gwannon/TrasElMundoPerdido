@@ -210,16 +210,20 @@ El hospital tiene un pequeño laboratorio para todo tipo de experimentos y prueb
 * Hay varios jeeps todoterreno para mover y controlar las manadas de saurios y moverse por la reserva. 
 * Hay varias granjas normales con maquinaria agrícola donde se crían animales para alimentar carnívoros y diferentes frutas y verduras para los herbívoros. También abastecen de comida al personal de la Fundación.
 
-[![Foto del Mary Anning](./assests/images/regreso-casa.jpg 'Ägare:/1939-44, 1949-58/: Seereederei Frigga A.G. Hemort: Hamburg.')](https://garystockbridge617.getarchive.net/amp/media/agare1939-44-1949-58-seereederei-frigga-ag-hemort-hamburg-7e3056 'Ägare:/1939-44, 1949-58/: Seereederei Frigga A.G. Hemort: Hamburg.')
+&nbsp;
+
+[![Estampa del Mary Anning](./assests/images/regreso-casa.jpg 'Ägare:/1939-44, 1949-58/: Seereederei Frigga A.G. Hemort: Hamburg.')](https://garystockbridge617.getarchive.net/amp/media/agare1939-44-1949-58-seereederei-frigga-ag-hemort-hamburg-7e3056 'Ägare:/1939-44, 1949-58/: Seereederei Frigga A.G. Hemort: Hamburg.')
 
 ### El "Mary Anning" y sus instalaciones
 El "Mary Anning" es un barco carguero de tamaño medio botado por la Fundación para el transporte de dinosaurios y comandos.
 
 La fundación le puso el nombre de la famosa paleontóloga georgiana Mary Anning, que hizo grandes descubrimientos en saurios acuáticos como el ictiosaurio o el plesiosaurio.
 
-Durante años fue usado por la Fundación para el transporte de saurios y provisiones vía marítima. Pero cuando estalló la guerra y la Fundación contacto con el Alto Mando, el barco paso en secreto por los astilleros reales. Todo el espacio de carga fue acondicionado para llevar cómodamente a los dinosaurios y a sus compañeros humanos en sus largos viajes a sus diferentes misiones.
+Durante años fue usado por la Fundación para el transporte de saurios y provisiones vía marítima. Pero cuando estalló la guerra y la Fundación contacto con el Alto Mando, el barco paso en secreto por los astilleros reales.
 
 \saltopagina
+
+Todo el espacio de carga fue acondicionado para llevar cómodamente a los dinosaurios y a sus compañeros humanos en sus largos viajes a sus diferentes misiones.
 
 En el resto del espacio libre se crearon diferentes habitáculos con material y equipo útil en sus misiones, desde un hospital de campaña para humanos y dinosaurios hasta una sala oscura para revelar fotos. Cuenta también con grandes zonas de almacenaje y un congelador de tamaño industrial para almacenar las provisiones de los grandes saurios.
 
@@ -235,6 +239,8 @@ Para esta arma puedes usar las estadísticas del cañón de 20 mm de las armas m
 #### Sala de misiones
 Esta sala llena de pupitres, una gran pizarra y un pequeño proyector de cine y otro de diapositivas sirve para explicar a los comandos la misión en la que se van a embarcar.
 
+Es importante destacar que hay una pequeña caja fuerte que solo los comandos saben la combinación de apertura para guardar documentos importantes.
+
 #### Sala de radio
 Esta radio militar de onda corta, permite al "Mary Anning" comunicarse con la fundación desde cualquier lugar del mundo para mandar información y recibirla.
 
@@ -244,11 +250,11 @@ Los comandos pueden usar su radio portátil para comunicarse con el barco y este
 
 Aunque las comunicaciones pueden ser escuchadas por la inteligencia nazi, se usa un método de nombres en clave para tratar de ofuscar la información lo más posible. Aun así, una persona experta podría sacar el mensaje e incluso triangular la señal.
 
+\saltopagina
+
 #### La esclusa de los plesiosaurios
 
 El "Mary Anning" llena unos tanques de agua para el transporte de los saurios acuáticos. No son especialmente grandes, así que han dotado a esos tanques de una esclusa que permite a los ictiosaurios y a los plesiosaurios salir al mar cuando el carguero va a una velocidad más o menos lenta o está parado en un puerto.
-
-\saltopagina
 
 Desde el barco se suele lanzar una boya con la que suelen jugar y con la que hacen carreras cuando el barco está en movimiento. No solo sirve para tenerlos entretenidos y en forma. También hace que no se vayan lejos del barco, por ejemplo, buscando presas.
 
@@ -271,13 +277,13 @@ La Fundación tiene en la meseta de Maple White un campamento fijo de científic
 
 De media hay unas 20 personas viviendo en un enclave de unos 10 pabellones. Son autosuficientes en temas de suministros básicos como agua y comida, y cada cierto tiempo reciben suministros médicos, materiales y equipos nuevos.
 
-Esta comunidad permanente de investigaciones ha establecido relaciones con los cavernícolas y han tenido éxito en sus primeros intercambios culturales y comerciales, siguiendo siempre los protocolos establecidos por la Fundación.
-
-Este enclave se sitúa al sur del Lago Central que les provee de pesca y agua. Esto les permite estudiar los saurios acuáticos y estar lo suficientemente lejos de los habitantes de las cuevas para no molestarlos ni interferir en su día a día, pero lo suficientemente cerca para estudiarlos tenerlos controlados. 
-
 \saltopagina
 
 [![Imagen de la construcción del campamento](./assests/images/campamento.jpg 'Men pulling on rope over fallen tree during the Roosevelt-Rondon Scientific Expedition to Brazil')](https://www.loc.gov/item/2006689851/ 'Men pulling on rope over fallen tree during the Roosevelt-Rondon Scientific Expedition to Brazil')
+
+Esta comunidad permanente de investigaciones ha establecido relaciones con los cavernícolas y han tenido éxito en sus primeros intercambios culturales y comerciales, siguiendo siempre los protocolos establecidos por la Fundación.
+
+Este enclave se sitúa al sur del Lago Central que les provee de pesca y agua. Esto les permite estudiar los saurios acuáticos y estar lo suficientemente lejos de los habitantes de las cuevas para no molestarlos ni interferir en su día a día, pero lo suficientemente cerca para estudiarlos tenerlos controlados. 
 
 Listado normal de residentes:
 * 
@@ -289,9 +295,10 @@ Listado normal de residentes:
 * Un/a doctor/a y su ayudante
 * Dos cazadores/as encargados de proteger el enclave y conseguir alimento
 
+\saltopagina
+
 La Fundación paga grandes sumas de dinero a las autoridades bolivianas para que eviten que se acerquen al mundo perdido cualquier tipo de expedición o que sobrevuelen vuelos comerciales. En teoría posee los derechos de explotación mineral y forestal de la zona a través de varias empresas fantasma de forma que nadie puede tener intereses económicos en la zona porque no puede explotarlos.
 
-\saltopagina
 
 ### Recursos económicos
 La fundación Roxton tienes unos recursos increíbles, ya que se ha dedicado durante años a extraer diamantes de la arcilla azul del pantano del Mundo Perdido. 
@@ -329,6 +336,8 @@ Los pteranodones tienen a ser bastante competitivos entre ellos buscando ser el 
 
 ### Herbívoros
 Son quizás los menos agresivos, pero pueden ser tremendamente agresivos cuando tienen que proteger a su manada y sus crías. Tampoco son los más listos, pero establecen fuertes lazos sociales entre ellos y los humanos formando entre todos una manada y como ya hemos dicho harán lo que sea para proteger a su manada. Otra de sus características es trabajan bien en equipo. Varios estegosaurios protegiendo una zona con sus colas llenas de pinchos es un espectáculo digno de ver, por no hablar de varios iguanodones corriendo a los lados de un JEEP para protegerlo de enemigos. 
+
+&nbsp;
 
 [![Boceto de un nido alosaurios al que están robando los huevos](./assests/images/nido.jpg 'The Horrors of Thieving by FredTheDinosaurman')](https://www.deviantart.com/fredthedinosaurman/art/The-Horrors-of-Thieving-682621092 'The Horrors of Thieving by FredTheDinosaurman')
 
@@ -555,7 +564,7 @@ El comando que adquiere esta ventaja puede convertir a un dinosaurio con el que 
 * Lo primero será darle nombre
 * El **compañero dinosaurio se convierte en comodín** con lo que tiene sus propios benis y su dado de héroe.
 * Por **cada Rango que alcance el comando el compañero conseguirá un avance**. Si se coge esta ventaja siendo experimentado, el compañero tendrá derecho a dos avances por Novato y por Experimentado. Cuando alcance el rango de Veterano y siguientes tendrá derecho a un nuevo avance por cada nuevo rango.
-* Habrá que ponerle 2 desventajas mentales o físicas que marquen su carácter, como Tozudo, Curioso, Joven, etc. y además la desventaja Manía (menor)
+* Habrá que ponerle 2 desventajas mayores (o 2 menores) mentales o físicas que marquen su carácter, como Tozudo, Curioso, Sanguinario, etc. y además la desventaja Manía (menor) con alguna cosa curiosa y divertida, tipo "le vuelve loco el queso".
 * El compañero animal no atacará al comando bajo ninguna circunstancia normal.
 * Si por alguna causa fallece el compañero, el héroe podrá reemplazarlo tras 1d4 días. Si lo desea puede cambiar esta ventaja por otra que cumpla los requisitos y dejará de tener compañero saurio.
 
@@ -574,30 +583,34 @@ Recibes un **+2 en tiradas en que las matemáticas sean importantes**, desde Apo
 
 Tienes alergia al plumón de los saurios. Al entrar en contacto por más de 5 minutos con un saurio (montar, curarlo, ponerle una barda, etc.) empiezas a tener síntomas de alergia, mocos, ojos llorosos, estornudos, ronchas y urticaria en la piel. En caso de alergia tendrás un -1 a todas las tiradas (menos de combate) hasta que pase una hora de estar en contacto con el saurio.
 
+### Nueva ventaja para dinosaurios: Alas rápidas
+**Requisitos:** Novato, Vuelo, Agilidad d6+
+
+Su capacidad de volar es excepcionalmente rápida, convirtiéndole en uno de los especímenes más veloces en el aire. El Paso de Vuelo del dinosaurio aumenta en +2.
+
+### Nueva ventaja para dinosaurios: Aletas fuertes
+**Requisitos:** Novato, Acuático, Agilidad d6+
+
+Su capacidad de nadar es excepcionalmente rápida, convirtiéndole en uno de los especímenes más veloces en el agua. El Paso nadando del dinosaurio aumenta en +2.
+
 ### Nueva ventaja para dinosaurios: Aviso de peligro
 **Requisitos:** Novato, Herbívoro
 
 Llevar milenios siendo una presa ha hecho que ciertos especímenes de tu especie detecte los peligros y tenga un sistema de alarma. Obtienes un +2 a Notar para detectar enemigos y además algún tipo de señal (bramido, golpear el suelo con la cola, chocar las alas, etc.) para avisar al resto de la manada.
+
+### Nueva ventaja para dinosaurios: Buen paciente
+**Requisitos:** Novato
+
+El saurio es muy buen paciente y se comporta muy bien cuando hay que realizarle pruebas o realizar curas. Las tiradas de Ciencias al practicarle pruebas y experimentos y las de Medicina al curar heridas e enfermedades obtiene un +2.
+
+\saltopagina
 
 ### Nueva ventaja para dinosaurios: Raptor
 **Requisitos:** Novato, Carnívoro
 
 El saurio carnívoro es un experto cazador con lo que puede obtiene +2 a Notar al buscar a su presa y +2 a sigilo al tender emboscadas a sus presas.
 
-### Nueva ventaja para dinosaurios: Aletas fuertes
-**Requisitos:** Novato, Acuático, Agilidad d6+
-
-El Paso nadando del dinosaurio aumenta en +2.
-
-### Nueva ventaja para dinosaurios: Alas rápidas
-**Requisitos:** Novato, Vuelo, Agilidad d6+
-
-El Paso de Vuelo del dinosaurio aumenta en +2.
-
-\saltopagina
-
-### Nueva desventaja para dinosaurios: Joven
-**Requisitos:** Novato
+### Nueva desventaja para dinosaurios: Joven (Mayor)
 
 El dinosaurio no es un espécimen adulto y todavía no ha llegado a su tamaño de adulto. Es por ello que tiene 1 punto menos de tamaño que lo normal en su especie con todas las consecuencias en Dureza, número de heridas, etc.
 
@@ -605,10 +618,13 @@ También supone que el equipamiento que se le ponga no puede usarse en otros din
 
 Podrá quitarse si se quiere gastando un avance conseguido a partir de Experimentado.
 
-### Nueva desventaja para dinosaurios: Parte de la manada
-**Requisitos:** Novato
+### Nueva desventaja para dinosaurios: Parte de la manada (Menor)
 
 Nuestro saurio siempre ha formado parte de una manda y no actúa bien cuando está solo. Todas las tiradas que haga solo fuera de combate tienen un -1.  
+
+### Nueva desventaja para dinosaurios: Mal paciente (Menor)
+
+El saurio es muy mal paciente y se comporta muy mal y agresivamente cuando hay que realizarle pruebas o realizar curas. Las tiradas de Ciencias al practicarle pruebas y experimentos y las de Medicina al curar heridas e enfermedades obtiene un -1.
 
 \saltopagina
 

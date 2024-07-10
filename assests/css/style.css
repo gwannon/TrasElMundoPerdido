@@ -259,7 +259,8 @@ section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type)
 /* ------------- Cinta adhesiva --------------- */
 section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a img[alt^=Boceto],
 section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a img[alt^=Atlas],
-section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a img[alt^=Ilustración] {
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a img[alt^=Ilustración],
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a img[alt^=Estampa] {
   box-shadow: none;
 }
 
@@ -268,7 +269,9 @@ section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type)
 section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Atlas]):before,
 section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Atlas]):after,
 section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Ilustración]):before,
-section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Ilustración]):after {
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Ilustración]):after,
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Estampa]):before,
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Estampa]):after {
   content: "";
   display: block;
   position: absolute;
@@ -284,7 +287,8 @@ section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type)
 
 section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Boceto]):after,
 section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Atlas]):after,
-section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Ilustración]):after
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Ilustración]):after,
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Estampa]):after
  {
   rotate: -180deg;
   top: auto;
