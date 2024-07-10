@@ -277,6 +277,8 @@ Este enclave se sitúa al sur del Lago Central que les provee de pesca y agua. E
 
 \saltopagina
 
+[![Imagen de la construcción del campamento](./assests/images/campamento.jpg 'Men pulling on rope over fallen tree during the Roosevelt-Rondon Scientific Expedition to Brazil')](https://www.loc.gov/item/2006689851/ 'Men pulling on rope over fallen tree during the Roosevelt-Rondon Scientific Expedition to Brazil')
+
 Listado normal de residentes:
 * 
 * 4/6 expertos/as en zoología, paleontología, biología y botánica
@@ -286,6 +288,10 @@ Listado normal de residentes:
 * Un/a cocinero/a y su ayudante
 * Un/a doctor/a y su ayudante
 * Dos cazadores/as encargados de proteger el enclave y conseguir alimento
+
+La Fundación paga grandes sumas de dinero a las autoridades bolivianas para que eviten que se acerquen al mundo perdido cualquier tipo de expedición o que sobrevuelen vuelos comerciales. En teoría posee los derechos de explotación mineral y forestal de la zona a través de varias empresas fantasma de forma que nadie puede tener intereses económicos en la zona porque no puede explotarlos.
+
+\saltopagina
 
 ### Recursos económicos
 La fundación Roxton tienes unos recursos increíbles, ya que se ha dedicado durante años a extraer diamantes de la arcilla azul del pantano del Mundo Perdido. 
