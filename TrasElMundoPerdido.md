@@ -110,11 +110,11 @@ Su primera gran acción como directora de la Fundación fue intentar hablar con 
 xxx
 
 ### La Guerra
-El 1 de septiembre de 1939 los nazis entran en Polonia y se desata la Segunda Guerra Mundial y Lady Roxton se encuentra en su despacho dos oficiales de IM con un proyecto centrado en sus dinosaurios que ayudará a la guerra. Reticente las primeras semanas, no le quedo otro remedio que acceder a las peticiones de IM ante el imparable avance de las fuerzas nazis.
+El 1 de septiembre de 1939 los nazis entran en Polonia, se desata la Segunda Guerra Mundial y Lady Roxton se encuentra en su despacho dos oficiales de IM con un proyecto centrado en sus dinosaurios que ayudaría a la guerra. Reticente las primeras semanas, no le quedo otro remedio que acceder a las peticiones de IM ante el imparable avance de las fuerzas nazis sobre Francia.
 
-Rápidamente todos los experimentos y todos los trabajos que había solicitado IM para probar y desarrollar con los saurios tuvieron una nueva dimensión. Simples ejercicios de lanzar y traer para plesiosaurios, podían ser aplicados en misiones militares para recuperar objetos hundidos. Estudios sobre si los pteranodes podían buscar y encontrar a sus cuidadores y llegar hasta ellos, se convertían en formas muy interesantes de hacer espionaje aéreo de instalaciones nazis. 
+Rápidamente todos los experimentos y todos los trabajos que había solicitado IM para probar y desarrollar con los saurios tuvieron una nueva dimensión. Simples ejercicios de lanzar y traer para plesiosaurios, podían ser aplicados en misiones militares para recuperar objetos hundidos. Estudios sobre si los pteranodones podían buscar y encontrar a sus cuidadores y llegar hasta ellos, se convertían en formas muy interesantes de hacer espionaje aéreo de instalaciones nazis. 
 
-Lady Roxton sabía que había sido engañada, pero ahora había problemas más acuciantes. Ya solventaría todos estos temas despues de ganar la guerra.
+Lady Roxton sabía que había sido engañada, pero ahora había problemas más acuciantes. Ya solventaría todos estos temas después de ganar la guerra.
 
 xxx
 
@@ -210,12 +210,16 @@ El hospital tiene un pequeño laboratorio para todo tipo de experimentos y prueb
 * Hay varios jeeps todoterreno para mover y controlar las manadas de saurios y moverse por la reserva. 
 * Hay varias granjas normales con maquinaria agrícola donde se crían animales para alimentar carnívoros y diferentes frutas y verduras para los herbívoros. También abastecen de comida al personal de la Fundación.
 
+[![Foto del Mary Anning](./assests/images/regreso-casa.jpg 'Ägare:/1939-44, 1949-58/: Seereederei Frigga A.G. Hemort: Hamburg.')](https://garystockbridge617.getarchive.net/amp/media/agare1939-44-1949-58-seereederei-frigga-ag-hemort-hamburg-7e3056 'Ägare:/1939-44, 1949-58/: Seereederei Frigga A.G. Hemort: Hamburg.')
+
 ### El "Mary Anning" y sus instalaciones
 El "Mary Anning" es un barco carguero de tamaño medio botado por la Fundación para el transporte de dinosaurios y comandos.
 
 La fundación le puso el nombre de la famosa paleontóloga georgiana Mary Anning, que hizo grandes descubrimientos en saurios acuáticos como el ictiosaurio o el plesiosaurio.
 
 Durante años fue usado por la Fundación para el transporte de saurios y provisiones vía marítima. Pero cuando estalló la guerra y la Fundación contacto con el Alto Mando, el barco paso en secreto por los astilleros reales. Todo el espacio de carga fue acondicionado para llevar cómodamente a los dinosaurios y a sus compañeros humanos en sus largos viajes a sus diferentes misiones.
+
+\saltopagina
 
 En el resto del espacio libre se crearon diferentes habitáculos con material y equipo útil en sus misiones, desde un hospital de campaña para humanos y dinosaurios hasta una sala oscura para revelar fotos. Cuenta también con grandes zonas de almacenaje y un congelador de tamaño industrial para almacenar las provisiones de los grandes saurios.
 
@@ -227,8 +231,6 @@ En la cubierta principal, camuflada dentro de un contenedor de madera que se des
 No es ni de lejos suficiente para enfrentarse a un barco de guerra o un submarino, pero podría derribar a un caza solitario, cubrir la huida de un comando en bote o barrer un puerto si fuera necesario.
 
 Para esta arma puedes usar las estadísticas del cañón de 20 mm de las armas montadas en vehículos que salen en el manual básico.
-
-\saltopagina
 
 #### Sala de misiones
 Esta sala llena de pupitres, una gran pizarra y un pequeño proyector de cine y otro de diapositivas sirve para explicar a los comandos la misión en la que se van a embarcar.
@@ -246,6 +248,8 @@ Aunque las comunicaciones pueden ser escuchadas por la inteligencia nazi, se usa
 
 El "Mary Anning" llena unos tanques de agua para el transporte de los saurios acuáticos. No son especialmente grandes, así que han dotado a esos tanques de una esclusa que permite a los ictiosaurios y a los plesiosaurios salir al mar cuando el carguero va a una velocidad más o menos lenta o está parado en un puerto.
 
+\saltopagina
+
 Desde el barco se suele lanzar una boya con la que suelen jugar y con la que hacen carreras cuando el barco está en movimiento. No solo sirve para tenerlos entretenidos y en forma. También hace que no se vayan lejos del barco, por ejemplo, buscando presas.
 
 #### Pajarera de los pteranodones
@@ -256,8 +260,6 @@ La idea es tanto servir de refugio a los pteranodones en caso de clima adverso, 
 
 #### Otras instalaciones del barco
 Además de cosas normales en este tipo de cargueros, como cocina o sala común, cuenta con todas estas instalaciones.
-
-\saltopagina
 
 * Mini-gimnasio con pesas y algunos artilugios deportivos.
 * Celdas para 3 prisioneros/as
@@ -272,6 +274,8 @@ De media hay unas 20 personas viviendo en un enclave de unos 10 pabellones. Son 
 Esta comunidad permanente de investigaciones ha establecido relaciones con los cavernícolas y han tenido éxito en sus primeros intercambios culturales y comerciales, siguiendo siempre los protocolos establecidos por la Fundación.
 
 Este enclave se sitúa al sur del Lago Central que les provee de pesca y agua. Esto les permite estudiar los saurios acuáticos y estar lo suficientemente lejos de los habitantes de las cuevas para no molestarlos ni interferir en su día a día, pero lo suficientemente cerca para estudiarlos tenerlos controlados. 
+
+\saltopagina
 
 Listado normal de residentes:
 * 
@@ -288,11 +292,9 @@ La fundación Roxton tienes unos recursos increíbles, ya que se ha dedicado dur
 
 Pero todo esto se ha hecho bajo el más absoluto secreto, de forma que nadie sepa la fortuna real que maneja la Fundación. 
 
-\saltopagina
-
 Salvo casos especiales, la Fundación Roxton puede conseguir cualquier tipo de material y producto legal y contratar a cualquier persona que sea necesaria.
 
-Como curiosidad todos los trabajadores de la Fundación tienen un seguro de vida contratado con Guardian Assurance Company de Londres de 500.000 libras en caso de incapacidad y de 1.000.000 de libras para sus familias en caso de deceso.
+Como curiosidad todos los trabajadores de la Fundación tienen un seguro de vida contratado con Guardian Assurance Company de Londres de 100.000 libras en caso de incapacidad y de 300.000 de libras para sus familias en caso de deceso.
 
 ***
 
@@ -1254,10 +1256,10 @@ xxx
 
 ### Marina Flowers, famosa actriz de Hollywood &#x2638;
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Idioma Árabe d8, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
-* **Ventajas:** Atractiva, Famosa
+* **Atributos:** Agilidad d6, Astucia d8, Espíritu d10, Fuerza d6, Vigor d6
+* **Habilidades:** Atletismo d8, Ciencias d6, Conocimientos Generales d6, Humanidades d6, Idioma Inglés d8, Idioma castellano d6, Interpretar d10, Notar d6, Pelear d6, Persuadir d8, Sigilo d6
+* **Paso:** 6; **Parada:** 5; **Dureza:** 5
+* **Ventajas:** Atractiva, Carismática, Muy Famosa
 * **Desventajas:** xxx
 * **Equipo:** xxx
 
