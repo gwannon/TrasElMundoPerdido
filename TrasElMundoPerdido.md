@@ -103,13 +103,19 @@ Pasado el impacto inicial, rápidamente Margaret se hizo a su nueva situación y
 
 Mientras que Lord Roxton trato de mantener ocultos tanto Maple White como la reserva de Skye, Margaret sabía que esa una tarea imposible sin ayuda exterior. El mundo de Margaret era un mundo de fotografías con teleobjetivo, de cámaras de cine y de micrófonos y radio. Nada podía mantenerse en secreto, tarde o temprano alguien captaría a un pterodáctilo volando o se metería en los terrenos de Skye para investigar que había tras sus alambrados.
 
-Su primera gran acción como directora de la Fundación fue intentar hablar con el Gobierno, hablarles de los dinosaurios y del mundo perdido. No consiguió nada, ni una misera audición. Desde el gobierno se la tomo como una loca excéntrica a la que evitar. Pero sus peticiones si fueron escuchados que ella no podía imaginarse. Agentes de Inteligencia Militar (IM) a las órdenes del General Linton se pusieron en contacto con Lady Roxton.  
+Su primera gran acción como directora de la Fundación fue intentar hablar con el Gobierno, hablarles de los dinosaurios y del mundo perdido. No consiguió nada, ni una misera audición. Desde el gobierno se la tomo como una loca excéntrica a la que evitar. Pero sus peticiones si fueron escuchadas por alguien que ella no podía imaginarse. Agentes de Inteligencia Militar (IM) a las órdenes del General Linton se pusieron en contacto con Lady Roxton.  
 
 \saltopagina
 
 xxx
 
 ### La Guerra
+El 1 de septiembre de 1939 los nazis entran en Polonia y se desata la Segunda Guerra Mundial y Lady Roxton se encuentra en su despacho dos oficiales de IM con un proyecto centrado en sus dinosaurios que ayudará a la guerra. Reticente las primeras semanas, no le quedo otro remedio que acceder a las peticiones de IM ante el imparable avance de las fuerzas nazis.
+
+Rápidamente todos los experimentos y todos los trabajos que había solicitado IM para probar y desarrollar con los saurios tuvieron una nueva dimensión. Simples ejercicios de lanzar y traer para plesiosaurios, podían ser aplicados en misiones militares para recuperar objetos hundidos. Estudios sobre si los pteranodes podían buscar y encontrar a sus cuidadores y llegar hasta ellos, se convertían en formas muy interesantes de hacer espionaje aéreo de instalaciones nazis. 
+
+Lady Roxton sabía que había sido engañada, pero ahora había problemas más acuciantes. Ya solventaría todos estos temas despues de ganar la guerra.
+
 xxx
 
 ### La Fundación Roxton hoy en día

@@ -19,7 +19,7 @@
 
 # Por hacer de la versión 0.6
 * Parte 2: Norte de África
-* Parte 3: Río de la plata
+* Parte 3: Río de la Plata
 
 # Por hacer de la versión 0.5
 * Parte 1: La isla de Skye (6)
@@ -50,8 +50,7 @@
 # Changelog
 
 ## Versión 0.4.1 En desarrollo
-* Tabla de dinosaurios como vehículos terminada
-
+* Terminada tabla de dinosaurios como vehículos
 
 ## Versión 0.4 08/07/2024
 * Terminado mapa de las instalaciones de la isla de Skye
