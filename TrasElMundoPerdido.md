@@ -48,10 +48,10 @@ Challenger encontró entre sus objetos personales una libreta de dibujos con ext
 
 Challenger encontró el lugar que Maple había dibujado y lo llamó la "Tierra de Maple White", pero no pudo acceder a ella por falta de material de escalada y provisiones. Aunque consiguió fotografías de pteranodones y algunas pruebas físicas como huesos de dinosaurios, lo perdió casi todo en un accidente a su regreso a Londres. Las pocas pruebas que pudo conservar fueron tachadas de fraude y él de farsante.
 
-A pesar de ello, Challenger consiguió el apoyo de Lord John Roxton, el profesor Summerlee y de Edward Malone, un periodista de La Gazzette y monto una expedición a la selva venezolana para demostrar que su descubrimiento era real. 
+A pesar de ello, Challenger consiguió el apoyo de Lord John Roxton, el profesor Summerlee y de Edward Malone, un periodista del Daily Gazette y monto una expedición a la selva venezolana para demostrar que su descubrimiento era real. 
 
 * **Lord John Roxton:** Era un enamorado de Sudamérica, un fantástico cazador y había luchado por liberar de esclavistas diferentes tribus de indígenas.  
-* **Edward Malone:** Este joven periodista de La Gazzette se enroló en esta aventura para demostrar su valor ante su enamorada.
+* **Edward Malone:** Este joven periodista del Daily Gazette se enroló en esta aventura para demostrar su valor ante su enamorada.
 * **Profesor Summerlee:** Viejo contrincante intelectual del Profesor Challenger se apuntó como una forma de dar un punto imparcial a la expedición.
 
 \saltopagina
@@ -59,7 +59,7 @@ A pesar de ello, Challenger consiguió el apoyo de Lord John Roxton, el profesor
 [![Foto de la meseta](./assests/images/roraima.jpg 'Mañana despejada en Monte Roraima, vista desde la vía que lleva allá desde la comunidad pemón de Paraitepuy, en la Gran Sabana, Venezuela - Paolo Costa Baldi')](https://es.wikipedia.org/wiki/Roraima_(tepuy)#/media/Archivo:Roraima3_(79).JPG 'Mañana despejada en Monte Roraima, vista desde la vía que lleva allá desde la comunidad pemón de Paraitepuy, en la Gran Sabana, Venezuela - Paolo Costa Baldi')
 
 ### Una aventura increíble
-Tras varias aventuras y desventuras, la expedición consiguió llegar y acceder a la inaccesible la meseta que nombraron como la Tierra de Maple White. En esa tierra descubrieron no solo pteranodones, sino también iguanodones, alosaurios, estegosaurios, ictiosaurios y plesiosaurios. xxx 
+Tras varias aventuras y desventuras, la expedición consiguió llegar y acceder a la inaccesible la meseta que nombraron como la Tierra de Maple White. En esa tierra descubrieron no solo pteranodones, sino también iguanodones, alosaurios, estegosaurios, ictiosaurios y plesiosaurios. 
 
 xxx
 
@@ -88,19 +88,19 @@ Estas interacciones fueron con los siglos evolucionado y grabándose en los inst
 ## La Fundación J. Roxton
 Tras el regreso de su segunda expedición y con las sacas llenas de diamantes, Lord Roxton decidió dedicar ese dinero al estudio de los dinosaurios y su protección. Quería mantener la meseta de Maple White tal y como la había conocido. Así pues creó la Fundación J. Roxton. 
 
-Lord Roxton, también vio la necesidad de crear una reserva natural de saurios, en caso de que algo pasara en la meseta. Por ello la Fundación compró casi una quinta parte de la isla de Skye en Escocia y monto una reserva natural. La Fundación en su necesidad de preservar a los animales de la reserva tuvo que empezar a estudiarlo, porque nada de lo que se sabía sobre los dinosaurios les era de ayuda.
+Lord Roxton, también vio la necesidad de crear una reserva natural de saurios, en caso de que algo pasara en la meseta. Por ello la Fundación compró casi una quinta parte de la isla de Skye en Escocia y monto una reserva natural. La Fundación en su necesidad de preservar a los animales de la reserva tuvo que empezar a estudiarlo, porque nada de lo que se sabía la ciencia actual sobre los dinosaurios les era de ayuda.
 
 La vida de aventuras de Lord Roxton se convirtió en una vida de burocracia al frente de la Fundación y de estudio no solo de los saurios sino de las cavernícolas, convirtiéndose en un experto antropólogo. Pero aun así solía aprovechar algunos viajes a la meseta de Maple White para revivir sus años de cazador/explorador.
 
-Una de las razones de lord Roxton para montar las instalaciones de la Fundación en Escocia, es que los posibles avistamientos de monstruos prehistóricos podían verse como un intento más de un loco escocés queriendo llamar la atención sobre el Lago Ness. De hecho, desde 1930 se han multiplicado los avistamientos de monstruos de todo tipo y estos hechos son rápidamente noticias en la prensa amarilla. Esto hace que los testigos sean desprestigiados rápidamente por la opinión pública y la comunidad científica, a pesar de que muchas veces han podido ser reales.
+La principal razón de lord Roxton para montar las instalaciones de la Fundación en Escocia, es que los posibles avistamientos de monstruos prehistóricos podían verse como un intento más de un loco escocés queriendo llamar la atención sobre el Lago Ness. De hecho, desde 1930 se han multiplicado los avistamientos de monstruos de todo tipo y estos hechos son rápidamente noticias en la prensa amarilla. Esto hace que los testigos sean desprestigiados rápidamente por la opinión pública y la comunidad científica, a pesar de que muchas veces han podido ser reales.
 
 ### Política de no intromisión
-Una de las políticas claves que estableció Lord Roxton en su expedición fue la no intervención en la vida de los hombres y mujeres primitivos. Esto incluye todo tipo de intervención que trastocase su modo de vida, no se les da ningún tipo de tecnología, no se les ayuda salvo en cosas muy graves y no se les trata de enseñar ningún de conocimiento.
+Una de las políticas claves que estableció Lord Roxton en su expedición fue la no intervención en la vida de los hombres y mujeres primitivos. Esto incluye todo tipo de intervención que trastocase su modo de vida. No se les da ningún tipo de tecnología, no se les ayuda salvo en cosas muy graves y no se les trata de enseñar ningún de conocimiento.
 
 Lo único que está permitido es un comercio muy básico en el que la Fundación no saca ningún beneficio, solamente usa estos encuentros para estudiar a sus vecinos de las cavernas. Intercambian pieles, alimentos y algunas herramientas muy básicas.
 
 ### Lady Roxton
-Poco sabía Margaret Roxton, sobrina de Lord Roxton, lo que iba a cambiar su vida cuando el albacea testamentario de su tío se presentó en su para entregarle una fabulosa fortuna y el control de la fundación con su nombre.
+Poco sabía Margaret Roxton, sobrina de Lord Roxton, lo que iba a cambiar su vida cuando el albacea testamentario de su tío se presentó en su para entregarle una fabulosa fortuna y el control de la fundación con su nombre, tras la muerte de su tío por un ataque al corazón.
 
 Pasado el impacto inicial, rápidamente Margaret se hizo a su nueva situación y tras instalarse en Dunvegan, empezó a empaparse de todos lo que rodeaba. En unos meses conocía perfectamente toda la historia de la Fundación, sus recursos, sus reglas, sus actuaciones y formas de trabajar.
 
@@ -110,9 +110,9 @@ Mientras que Lord Roxton trato de mantener ocultos tanto Maple White como la res
 
 Su primera gran acción como directora de la Fundación fue intentar hablar con el Gobierno, hablarles de los dinosaurios y del mundo perdido. No consiguió nada, ni una misera audición. Desde el gobierno se la tomo como una loca excéntrica a la que evitar. Pero sus peticiones si fueron escuchadas por alguien que ella no podía imaginarse. Agentes de Inteligencia Militar (IM) a las órdenes del General Linton se pusieron en contacto con Lady Roxton.  
 
-IM empezó a suministrar a la Fundación de todo de especialistas que tenían acceso a las instalaciones y los saurios. Llevaban todo tipo de equipamiento especial y hacía toda serie de nuevos experimentos y pruebas. Gracias a ellos las investigaciones de la Fundación avanzaron en años lo que les habría llevado décadas. 
+IM empezó a suministrar a la Fundación de todo tipo de especialistas que tenían acceso a las instalaciones y los saurios. Llevaban todo tipo de equipamiento especial y hacía toda serie de nuevos experimentos y pruebas. Gracias a ellos las investigaciones de la Fundación avanzaron en años lo que les habría llevado décadas. 
 
-A cambio IM proporcionaba cobertura a la Fundación, por ejemplo, el "Mary Anning" no necesitaba pasar por aduanas al salir o entrar al paás y cuando llegaba a Venezuela casualmente nadie quería inspeccionar la carga al salir o al entrar. La Fundación conseguía informes muy detallados de sus posibles investigadores y becarios con lo que podía hacer una selección más eficaz y descartar las personas que podían dar problemas.
+A cambio IM proporcionaba cobertura a la Fundación, por ejemplo, el "Mary Anning" no necesitaba pasar por aduanas al salir o entrar al país y cuando llegaba a Venezuela casualmente nadie quería inspeccionar la carga al salir o al entrar. La Fundación conseguía informes muy detallados de sus posibles investigadores y becarios con lo que podía hacer una selección más eficaz y descartar las personas que podían dar problemas.
 
 También parece ser que desaparecieron todas las posibles señales que hubiera en medios de comunicación y otras organizaciones gubernamentales nacionales y extranjeras como las notas y cartas Edward Malone de la primera expedición al Mundo Perdido.
 
@@ -137,7 +137,7 @@ Legalmente la Fundación Roxton es una organización de defensa e investigación
 
 Tiene becas, hace recaudaciones de fondos, hace campañas de concienciación, patrocina eventos de defensa animal y contra la caza, y todas actividades de típicas, pero siempre teniendo en cuenta que va dirigido a las clases altas inglesas.
 
-La Fundación usa a veces estás actividades como tapadera para sus fines reales. Por ejemplo, renovó todo el hospital animal del zoo de Londres y Dublin y se quedó el viejo para sus instalaciones. Un par de veces ya han organizado eventos para invitar a posibles traidores y que IM entrará en su casa a buscar pruebas.
+La Fundación usa a veces estás actividades como tapadera para sus fines reales. Por ejemplo, renovó todo el hospital animal del zoo de Londres y Dublín y se quedó el viejo para sus instalaciones. Un par de veces ya han organizado eventos para invitar a posibles traidores y que IM entrará en su casa a buscar pruebas.
 
 ### Las instalaciones de la Fundación Roxton en Skye
 Lord Roxton trato su las instalaciones de Skye como una simple reserva natural, unos terrenos aislados donde los saurios estaban en libertad y el castillo Dunvegan donde algunos zoólogos de confianza podían trabajar (casi siempre con el visto bueno del profesor Challenger). 
@@ -156,7 +156,7 @@ Los dinosaurios en libertad a pesar de su tamaño, siguen con instintos de cazad
 
 Mapa de la isla de Skye
 
-* Rojo  = carnívoros
+* Rojo = carnívoros
 * Azul = acuáticos
 * Verde = herbívoros
 * Amarillo = voladores
@@ -212,14 +212,14 @@ El hospital tiene un pequeño laboratorio para todo tipo de experimentos y prueb
 
 #### Otras instalaciones
 
-* En el Castillo Dunvegan está la mayor biblioteca de paleontología del mundo con muchos tratados que han hecho los trabajadores de la Fundación investigando los saurios en la meseta y en Skie.
+* En el Castillo Dunvegan está la mayor biblioteca de paleontología del mundo con muchos tratados que han hecho los trabajadores de la Fundación investigando los saurios en la meseta y en Skye.
 * Cala de fondeo y embarque del "Mary Anning".
 * Hay varios jeeps todoterreno para mover y controlar las manadas de saurios y moverse por la reserva. 
 * Hay varias granjas normales con maquinaria agrícola donde se crían animales para alimentar carnívoros y diferentes frutas y verduras para los herbívoros. También abastecen de comida al personal de la Fundación.
 
 &nbsp;
 
-[![Estampa del Mary Anning](./assests/images/regreso-casa.jpg 'Ägare:/1939-44, 1949-58/: Seereederei Frigga A.G. Hemort: Hamburg.')](https://garystockbridge617.getarchive.net/amp/media/agare1939-44-1949-58-seereederei-frigga-ag-hemort-hamburg-7e3056 'Ägare:/1939-44, 1949-58/: Seereederei Frigga A.G. Hemort: Hamburg.')
+[![Estampa del "Mary Anning"](./assests/images/regreso-casa.jpg 'Ägare:/1939-44, 1949-58/: Seereederei Frigga A.G. Hemort: Hamburg.')](https://garystockbridge617.getarchive.net/amp/media/agare1939-44-1949-58-seereederei-frigga-ag-hemort-hamburg-7e3056 'Ägare:/1939-44, 1949-58/: Seereederei Frigga A.G. Hemort: Hamburg.')
 
 ### El "Mary Anning" y sus instalaciones
 El "Mary Anning" es un barco carguero de tamaño medio botado por la Fundación para el transporte de dinosaurios y comandos.
@@ -237,7 +237,7 @@ En el resto del espacio libre se crearon diferentes habitáculos con material y 
 La capitán Dolores Branningan y su tripulación tienen años de experiencia tratando con dinosaurios y saliendo airosos de situaciones peligrosas. Es por ello que en caso de necesidad podrían sustituir a un comando en una misión. El barco tiene una tripulación 24 personas, todos de confianza y bien pagados.
 
 #### Pieza de artillería antiaérea camuflada
-En la cubierta principal, camuflada dentro de un contenedor de madera que se desmonta quitando unos pestillos, hay un cañón de 20mm antiaéreo.
+En la cubierta principal, camuflada dentro de un contenedor de madera que se desmonta quitando unos pestillos, hay un cañón de 20 mm antiaéreo.
 
 No es ni de lejos suficiente para enfrentarse a un barco de guerra o un submarino, pero podría derribar a un caza solitario, cubrir la huida de un comando en bote o barrer un puerto si fuera necesario.
 
@@ -266,7 +266,7 @@ El "Mary Anning" llena unos tanques de agua para el transporte de los saurios ac
 Desde el barco se suele lanzar una boya con la que suelen jugar y con la que hacen carreras cuando el barco está en movimiento. No solo sirve para tenerlos entretenidos y en forma. También hace que no se vayan lejos del barco, por ejemplo, buscando presas.
 
 #### Pajarera de los pteranodones
-En la cubierta superior, si es necesario, la tripulación del barco puede montar una jaula gigantesca para los pteranodones. La pajarera tiene una estructura metálica de mecanotubo que se cubre con malla de cuerda reforzada con cable metálico. El tamaño es de 20m de largo, 5 de ancho y 5 de alto y
+En la cubierta superior, si es necesario, la tripulación del barco puede montar una jaula gigantesca para los pteranodones. La pajarera tiene una estructura metálica de mecanotubo que se cubre con malla de cuerda reforzada con cable metálico. El tamaño es de 20 m de largo, 5 de ancho y 5 de alto y
 se tarda 1,5 horas en montarlo.
 
 La idea es tanto servir de refugio a los pteranodones en caso de clima adverso, como, también, un sitio de tenerlos controlados. Como ya hemos dicho, los aéreos son muy asustadizos en solitario y muy valientes en grupo, lo que hace que ante situaciones de estrés puedan huir o atacar, y como vuelan, es muy fácil que sean avistados. La pajarera les permite tener cierto espacio para moverse, pero los mantiene controlados.
@@ -349,7 +349,7 @@ Son quizás los menos agresivos, pero pueden ser tremendamente agresivos cuando 
 [![Boceto de un nido alosaurios al que están robando los huevos](./assests/images/nido.jpg 'The Horrors of Thieving by FredTheDinosaurman')](https://www.deviantart.com/fredthedinosaurman/art/The-Horrors-of-Thieving-682621092 'The Horrors of Thieving by FredTheDinosaurman')
 
 ## Vida de los dinosaurios
-Los dinosaurios traídos de la tierra de Maple White son diurnos con lo que realizan toda su actividad principalmente de día, pero eso no quiere decir que no estén activos de noche. Pueden realizar todo tipos de tareas de noche, ya que son de sangre caliente y pueden regular su temperatura incluso sin sol, pero como los humanos no están adaptados a moverse de noche. 
+Los saurios traídos de la tierra de Maple White son diurnos con lo que realizan toda su actividad principalmente de día, pero eso no quiere decir que no estén activos de noche. Pueden realizar todo tipos de tareas de noche, ya que son de sangre caliente y pueden regular su temperatura incluso sin sol, pero como los humanos no están adaptados a moverse de noche. 
 
 El plumaje/plumón que tienen algunos de ellos les permite resistir en climas más fríos de lo que se pensaría a priori y también soportar las altas temperaturas. Así pues, pueden sobrevivir en una gran variedad de ambientes y climas desde la nieve hasta el desierto.
 
@@ -608,7 +608,7 @@ Llevar milenios siendo una presa ha hecho que ciertos especímenes de tu especie
 ### Nueva ventaja para dinosaurios: Buen paciente
 **Requisitos:** Novato
 
-El saurio es muy buen paciente y se comporta muy bien cuando hay que realizarle pruebas o realizar curas. Las tiradas de Ciencias al practicarle pruebas y experimentos y las de Medicina al curar heridas e enfermedades obtiene un +2.
+El saurio es muy buen paciente y se comporta muy bien cuando hay que realizarle pruebas o realizar curas. Las tiradas de Ciencias al practicarle pruebas y experimentos y las de Medicina al curar heridas y enfermedades obtiene un +2.
 
 \saltopagina
 
@@ -631,7 +631,7 @@ Nuestro saurio siempre ha formado parte de una manda y no actúa bien cuando est
 
 ### Nueva desventaja para dinosaurios: Mal paciente (Menor)
 
-El saurio es muy mal paciente y se comporta muy mal y agresivamente cuando hay que realizarle pruebas o realizar curas. Las tiradas de Ciencias al practicarle pruebas y experimentos y las de Medicina al curar heridas e enfermedades obtiene un -1.
+El saurio es muy mal paciente y se comporta muy mal y agresivamente cuando hay que realizarle pruebas o realizar curas. Las tiradas de Ciencias al practicarle pruebas y experimentos y las de Medicina al curar heridas y enfermedades obtiene un -1.
 
 \saltopagina
 
@@ -944,7 +944,7 @@ El ejército necesita que el comando entre Tobruk y saque a un agente que tiene 
 
 xxx
 
-### La maquina enigma
+### La máquina enigma
 
 [![Detalle de Máquina Enigma](./assests/images/maquina-enigma.jpg 'Máquina Enigma a bordo de un Sd.KFz 251 de Heinz Guderian')](https://es.wikipedia.org/wiki/Enigma_(m%C3%A1quina)#/media/Archivo:Bundesarchiv_Bild_101I-769-0229-10A,_Frankreich,_Guderian,_%22Enigma%22.jpg 'Máquina Enigma a bordo de un Sd.KFz 251 de Heinz Guderian')
 
@@ -1052,7 +1052,7 @@ Cuando el zepelín sobrevoló el Mundo Perdido descubrió el campamento de la Fu
 
 xxx
 
-[![Dibujo de un enfrentamiento de un tiranosaurio y un triceratos](./assests/images/enfrentamiento.jpg 'Charles R. Knight')](https://commons.wikimedia.org/wiki/Category:Charles_R._Knight#/media/File:Annual_report_of_the_Director_to_the_Board_of_Trustees_for_the_year_.._(1926)_(18434166321).jpg 'Charles R. Knight')
+[![Dibujo de un enfrentamiento de un tiranosaurio y un triceratops](./assests/images/enfrentamiento.jpg 'Charles R. Knight')](https://commons.wikimedia.org/wiki/Category:Charles_R._Knight#/media/File:Annual_report_of_the_Director_to_the_Board_of_Trustees_for_the_year_.._(1926)_(18434166321).jpg 'Charles R. Knight')
 
 ## Batalla del Mundo Perdido
 xxx
@@ -1152,7 +1152,7 @@ Pueden intentar engañarle, prometerle que le dejarán entrar y ver las instalac
 
 Si tratan de persuadirle de que desista o que se canse cuando se le acabe la comida. Es casi imposible, es terriblemente tozudo. Solo unas muy buenas tiradas podrían convencerle.
 
-La última poción es investigar el pasado de Gerald y tratar de que Lady Margaret le deje entrar en el recinto.Si investigan su pasado, está limpio, ninguna relación con nazis y tras asombrarse al ver los dinosaurios pedirá ir al campamento como becario.
+La última poción es investigar el pasado de Gerald y tratar de que Lady Margaret le deje entrar en el recinto. Si investigan su pasado, está limpio, ninguna relación con nazis y tras asombrarse al ver los dinosaurios pedirá ir al campamento como becario.
 
 ### Gerald Durrell &#x2638;
 Este, joven naturalista y activista medioambiental va a ser un pequeño quebradero de cabeza para la Fundación. Gerald lleva rodeado de animales y estudiándolos desde pequeño. Son su amor y su obsesión y no va a permitir, como cree, que la Fundación haga experimentos con animales para los militares y los maltrate. 
@@ -1278,7 +1278,7 @@ Lady Roxton quiere hablar con tus comandos. Mientras descansan entre misiones, t
 
 IM quiere que se usen dinosaurios reales y no efectos especiales para recrear a los dinosaurios. La genial idea que han tenido es que si alguien ve a uno de los saurios, hace una foto o incluso los graba en celuloide, poder decir que es un truco del cine y poner "Titanes de tiempos pretéritos" como ejemplo de lo que la gente de Hollywood puede hacer. 
 
-### Revisando el guión
+### Revisando el guion
 Si revisan el guion que les da lady Margaret podrán ver que tendrán que rodar escenas disfrazados de trogloditas luchando contra unos dinosaurios. También parece que rodarán con Marina Flowers, una estrella en ascenso de Hollywood, que tiene fama de ser problemática.
 
 xxx
@@ -1755,7 +1755,7 @@ Quizás su característica más interesante sean sus extremidades superiores. En
 
 [![Escala Iguanodon](./assests/images/escala-iguanodon.png 'Size chart for Iguanodon bernissartensis, based on an illustration by ArthurWeasley')](https://en.wikipedia.org/wiki/File:Iguanodon_scale.png 'Size chart for Iguanodon bernissartensis, based on an illustration by ArthurWeasley')
 
-Estos herbívoros pesaban un promedio de 3 toneladas​ y medían cerca de 10 metros de largo de punta a punta, pudiendo alcanzar en algunos casos los 13 metros, y hasta 2,7m de altura.
+Estos herbívoros pesaban un promedio de 3 toneladas​ y medían cerca de 10 metros de largo de punta a punta, pudiendo alcanzar en algunos casos los 13 metros, y hasta 2,7 m de altura.
 
 \saltopagina
 
@@ -1773,13 +1773,13 @@ El megalosaurio es el segundo gran depredador de la meseta de Maple White. Es de
   * **Armadura +2:** Escamas resistentes
   * **Mordisco:** FUE+d6
   * **Grande:** +1 herida. Los enemigos de tamaño normal obtienen un +2 en tiradas de ataque contra ellos.
-  * **Tamaño +5:** 9m de largo y una altura de unos 2,5m con un peso total de una tonelada
+  * **Tamaño +5:** 9 m de largo y una altura de unos 2,5 m con un peso total de una tonelada
 
 \saltopagina
 
 [![Escala Megalosaurio](./assests/images/escala-megalosaurio.png 'Size comparison between Megalosaurus and a human by Conty')](https://commons.wikimedia.org/wiki/File:Megalosaurus_SIZE.png 'Size comparison between Megalosaurus and a human by Conty')
 
-El tamaño de largo de un megalosaurio adulto ronda los 9m y una altura de unos 2,5m. Su peso se estima en una tonelada. Como la mayoría de terópodos (dinosaurios bípedos) y a diferencia del alosaurio, sus extremidades superiores eran cortas y no le servían de mucho.
+El tamaño de largo de un megalosaurio adulto ronda los 9 m y una altura de unos 2,5 m. Su peso se estima en una tonelada. Como la mayoría de terópodos (dinosaurios bípedos) y a diferencia del alosaurio, sus extremidades superiores eran cortas y no le servían de mucho.
 
 [![Boceto Plesiosaurus dolichodeirus](./assests/images/plesiosaurio.jpg 'Plesiosaurus dolichodeirus Creator: Dmitry Bogdanov')](https://es.m.wikipedia.org/wiki/Archivo:Plesiosaurus_3DB.jpg 'Plesiosaurus dolichodeirus Creator: Dmitry Bogdanov')
 
