@@ -42,26 +42,25 @@ Todo comienzo en 1910 cuando el excéntrico y genial doctor en Zoología George 
 
 \saltopagina
 
-[![Foto de la meseta](./assests/images/roraima.jpg 'Mañana despejada en Monte Roraima, vista desde la vía que lleva allá desde la comunidad pemón de Paraitepuy, en la Gran Sabana, Venezuela - Paolo Costa Baldi')](https://es.wikipedia.org/wiki/Roraima_(tepuy)#/media/Archivo:Roraima3_(79).JPG 'Mañana despejada en Monte Roraima, vista desde la vía que lleva allá desde la comunidad pemón de Paraitepuy, en la Gran Sabana, Venezuela - Paolo Costa Baldi')
+[![Foto de los miembros masculinos, ricos y blancos de la expedición al Mundo Perdido](./assests/images/expedicion.jpg 'Page 222 (The Lost World, 1912)')](https://archive.org/details/lostworldbeingac00doylrich/page/11/mode/1up 'Page 222 (The Lost World, 1912)')
 
-Challenger encontró entre sus objetos personales una libreta de dibujos con extraños bocetos de gigantescas bestias prehistóricas que habitaban una meseta  tremendamente alta y seguramente inaccesible a pie.
+Challenger encontró entre sus objetos personales una libreta de dibujos con extraños bocetos de gigantescas bestias prehistóricas que habitaban una meseta tremendamente alta y seguramente inaccesible a pie.
 
 Challenger encontró el lugar que Maple había dibujado y lo llamó la "Tierra de Maple White", pero no pudo acceder a ella por falta de material de escalada y provisiones. Aunque consiguió fotografías de pteranodones y algunas pruebas físicas como huesos de dinosaurios, lo perdió casi todo en un accidente a su regreso a Londres. Las pocas pruebas que pudo conservar fueron tachadas de fraude y él de farsante.
 
-A pesar de ello, Challenger consiguió el apoyo de Lord John Roxton xxx
+A pesar de ello, Challenger consiguió el apoyo de Lord John Roxton, el profesor Summerlee y de Edward Malone, un periodista de La Gazzette y monto una expedición a la selva venezolana para demostrar que su descubrimiento era real. 
 
-xxx
+* **Lord John Roxton:** Era un enamorado de Sudamérica, un fantástico cazador y había luchado por liberar de esclavistas diferentes tribus de indígenas.  
+* **Edward Malone:** Este joven periodista de La Gazzette se enroló en esta aventura para demostrar su valor ante su enamorada.
+* **Profesor Summerlee:** Viejo contrincante intelectual del Profesor Challenger se apuntó como una forma de dar un punto imparcial a la expedición.
 
 \saltopagina
 
-[![Foto de los miembros masculinos, ricos y blancos de la expedición al Mundo Perdido](./assests/images/expedicion.jpg 'Page 222 (The Lost World, 1912)')](https://archive.org/details/lostworldbeingac00doylrich/page/11/mode/1up 'Page 222 (The Lost World, 1912)')
-
-* **Profesor G. E. Challenger:** xxx
-* **Lord John Roxton:** xxx
-* **Edward Malone:** xxx
-* **Profesor Summerlee:** xxx
+[![Foto de la meseta](./assests/images/roraima.jpg 'Mañana despejada en Monte Roraima, vista desde la vía que lleva allá desde la comunidad pemón de Paraitepuy, en la Gran Sabana, Venezuela - Paolo Costa Baldi')](https://es.wikipedia.org/wiki/Roraima_(tepuy)#/media/Archivo:Roraima3_(79).JPG 'Mañana despejada en Monte Roraima, vista desde la vía que lleva allá desde la comunidad pemón de Paraitepuy, en la Gran Sabana, Venezuela - Paolo Costa Baldi')
 
 ### Una aventura increíble
+Tras varias aventuras y desventuras, la expedición consiguió llegar y acceder a la inaccesible la meseta que nombraron como la Tierra de Maple White. En esa tierra descubrieron no solo pteranodones, sino también iguanodones, alosaurios, estegosaurios, ictiosaurios y plesiosaurios. xxx 
+
 xxx
 
 \saltopagina
@@ -87,9 +86,13 @@ Estas interacciones fueron con los siglos evolucionado y grabándose en los inst
 \saltopagina
 
 ## La Fundación J. Roxton
-Tras el regreso de su segunda expedición y con las sacas llenas de diamantes, Lord Roxton decidió dedicar ese dinero al estudio de los dinosaurios y su protección. Quería mantener la meseta de Maple White tal y como la había conocido. Así pues creó la Fundación J. Roxton.
+Tras el regreso de su segunda expedición y con las sacas llenas de diamantes, Lord Roxton decidió dedicar ese dinero al estudio de los dinosaurios y su protección. Quería mantener la meseta de Maple White tal y como la había conocido. Así pues creó la Fundación J. Roxton. 
 
-xxx
+Lord Roxton, también vio la necesidad de crear una reserva natural de saurios, en caso de que algo pasara en la meseta. Por ello la Fundación compró casi una quinta parte de la isla de Skye en Escocia y monto una reserva natural. La Fundación en su necesidad de preservar a los animales de la reserva tuvo que empezar a estudiarlo, porque nada de lo que se sabía sobre los dinosaurios les era de ayuda.
+
+La vida de aventuras de Lord Roxton se convirtió en una vida de burocracia al frente de la Fundación y de estudio no solo de los saurios sino de las cavernícolas, convirtiéndose en un experto antropólogo. Pero aun así solía aprovechar algunos viajes a la meseta de Maple White para revivir sus años de cazador/explorador.
+
+Una de las razones de lord Roxton para montar las instalaciones de la Fundación en Escocia, es que los posibles avistamientos de monstruos prehistóricos podían verse como un intento más de un loco escocés queriendo llamar la atención sobre el Lago Ness. De hecho, desde 1930 se han multiplicado los avistamientos de monstruos de todo tipo y estos hechos son rápidamente noticias en la prensa amarilla. Esto hace que los testigos sean desprestigiados rápidamente por la opinión pública y la comunidad científica, a pesar de que muchas veces han podido ser reales.
 
 ### Política de no intromisión
 Una de las políticas claves que estableció Lord Roxton en su expedición fue la no intervención en la vida de los hombres y mujeres primitivos. Esto incluye todo tipo de intervención que trastocase su modo de vida, no se les da ningún tipo de tecnología, no se les ayuda salvo en cosas muy graves y no se les trata de enseñar ningún de conocimiento.
@@ -101,13 +104,17 @@ Poco sabía Margaret Roxton, sobrina de Lord Roxton, lo que iba a cambiar su vid
 
 Pasado el impacto inicial, rápidamente Margaret se hizo a su nueva situación y tras instalarse en Dunvegan, empezó a empaparse de todos lo que rodeaba. En unos meses conocía perfectamente toda la historia de la Fundación, sus recursos, sus reglas, sus actuaciones y formas de trabajar.
 
-Mientras que Lord Roxton trato de mantener ocultos tanto Maple White como la reserva de Skye, Margaret sabía que esa una tarea imposible sin ayuda exterior. El mundo de Margaret era un mundo de fotografías con teleobjetivo, de cámaras de cine y de micrófonos y radio. Nada podía mantenerse en secreto, tarde o temprano alguien captaría a un pterodáctilo volando o se metería en los terrenos de Skye para investigar que había tras sus alambrados.
+\saltopagina
+
+Mientras que Lord Roxton trato de mantener ocultos tanto Maple White como la reserva de Skye, Margaret sabía que esa una tarea imposible sin ayuda exterior. El mundo de Margaret era un mundo de fotografías con teleobjetivo, de cámaras de cine y de micrófonos y de radio. Nada podía mantenerse en secreto, tarde o temprano alguien captaría a un pteranodon volando o se metería en los terrenos de Skye para investigar que había tras sus alambrados.
 
 Su primera gran acción como directora de la Fundación fue intentar hablar con el Gobierno, hablarles de los dinosaurios y del mundo perdido. No consiguió nada, ni una misera audición. Desde el gobierno se la tomo como una loca excéntrica a la que evitar. Pero sus peticiones si fueron escuchadas por alguien que ella no podía imaginarse. Agentes de Inteligencia Militar (IM) a las órdenes del General Linton se pusieron en contacto con Lady Roxton.  
 
-\saltopagina
+IM empezó a suministrar a la Fundación de todo de especialistas que tenían acceso a las instalaciones y los saurios. Llevaban todo tipo de equipamiento especial y hacía toda serie de nuevos experimentos y pruebas. Gracias a ellos las investigaciones de la Fundación avanzaron en años lo que les habría llevado décadas. 
 
-xxx
+A cambio IM proporcionaba cobertura a la Fundación, por ejemplo, el "Mary Anning" no necesitaba pasar por aduanas al salir o entrar al paás y cuando llegaba a Venezuela casualmente nadie quería inspeccionar la carga al salir o al entrar. La Fundación conseguía informes muy detallados de sus posibles investigadores y becarios con lo que podía hacer una selección más eficaz y descartar las personas que podían dar problemas.
+
+También parece ser que desaparecieron todas las posibles señales que hubiera en medios de comunicación y otras organizaciones gubernamentales nacionales y extranjeras como las notas y cartas Edward Malone de la primera expedición al Mundo Perdido.
 
 ### La Guerra
 El 1 de septiembre de 1939 los nazis entran en Polonia, se desata la Segunda Guerra Mundial y Lady Roxton se encuentra en su despacho dos oficiales de IM con un proyecto centrado en sus dinosaurios que ayudaría a la guerra. Reticente las primeras semanas, no le quedo otro remedio que acceder a las peticiones de IM ante el imparable avance de las fuerzas nazis sobre Francia.
@@ -116,12 +123,12 @@ Rápidamente todos los experimentos y todos los trabajos que había solicitado I
 
 Lady Roxton sabía que había sido engañada, pero ahora había problemas más acuciantes. Ya solventaría todos estos temas después de ganar la guerra.
 
+\saltopagina
+
 xxx
 
 ### La Fundación Roxton hoy en día
 xxx
-
-Una de las razones de lord Roxton para montar las instalaciones de la Fundación en Escocia, es que los posibles avistamientos de monstruos prehistóricos podían verse como un intento más de un loco escocés queriendo llamar la atención sobre el Lago Ness. De hecho, desde 1930 se han multiplicado los avistamientos de monstruos de todo tipo y estos hechos son rápidamente noticias en la prensa amarilla. Esto hace que los testigos sean desprestigiados rápidamente por la opinión pública y la comunidad científica, a pesar de que muchas veces han podido ser reales.
 
 \saltopagina
 
@@ -135,10 +142,9 @@ La Fundación usa a veces estás actividades como tapadera para sus fines reales
 ### Las instalaciones de la Fundación Roxton en Skye
 Lord Roxton trato su las instalaciones de Skye como una simple reserva natural, unos terrenos aislados donde los saurios estaban en libertad y el castillo Dunvegan donde algunos zoólogos de confianza podían trabajar (casi siempre con el visto bueno del profesor Challenger). 
 
-Fue Lady Roxton quien vio que todo esto era insuficiente. Debíamos estudiar todo este increíble descubrimiento de forma adecuada y no solo los dinosaurios sino también los "homo sapiens" de la meseta.
+Fue Lady Roxton quien vio que todo esto era insuficiente. Debíamos estudiar todo este increíble descubrimiento de forma adecuada y no solo los dinosaurios sino también los "Homo sapiens" de la meseta.
 
 Ella perfeccionó los hábitats que cada especie había creado, montó el hospital y el taller. También puso a funcionar la Fundación como sistema para conseguir investigadores e investigadoras de confianza a través de becas. Se becaba a alguien y se le estudiaba, si parecía de confianza se le ofrecía para trabajar en Skye o Maple White según capacidades y estudios.
-
 
 #### Distribución de los edificios
 Las instalaciones en la isla no están concentradas en un único lugar, sino que están dispersas por los terrenos de la fundación. La idea es evitar que los reconocimientos aéreos nazis descubran las instalaciones. Si no se revisan a conciencia las fotos se considerará que son grupos dispersos de granjas.
@@ -190,7 +196,7 @@ La única línea de teléfono de la isla está en el castillo y Lady Roxton ha p
 
 [![Foto del castillo de Dunvegan](./assests/images/dunvegan.jpg 'De Pam Brophy, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=605496')](https://es.wikipedia.org/wiki/Castillo_de_Dunvegan#/media/Archivo:Dunvegan_Castle.jpg 'De Pam Brophy, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=605496')
 
-IM ha dejado cerca pero no en el propio castillo artillería anti-área, pero nunca ha llegado tan lejos una aeronave nazi.
+IM ha dejado cerca, pero no en el propio castillo artillería anti-área, pero nunca ha llegado tan lejos una aeronave nazi.
 
 #### La forja de Weyland
 Este taller y forja está dirigido por Weyland (su mote en la forja), un herrero/ingeniero que la Fundación enroló para hacer todos los artilugios y piezas de metal que necesitan en la isla, desde rejas o cadenas o bardas y escudos.
@@ -206,6 +212,7 @@ El hospital tiene un pequeño laboratorio para todo tipo de experimentos y prueb
 
 #### Otras instalaciones
 
+* En el Castillo Dunvegan está la mayor biblioteca de paleontología del mundo con muchos tratados que han hecho los trabajadores de la Fundación investigando los saurios en la meseta y en Skie.
 * Cala de fondeo y embarque del "Mary Anning".
 * Hay varios jeeps todoterreno para mover y controlar las manadas de saurios y moverse por la reserva. 
 * Hay varias granjas normales con maquinaria agrícola donde se crían animales para alimentar carnívoros y diferentes frutas y verduras para los herbívoros. También abastecen de comida al personal de la Fundación.
@@ -219,9 +226,9 @@ El "Mary Anning" es un barco carguero de tamaño medio botado por la Fundación 
 
 La fundación le puso el nombre de la famosa paleontóloga georgiana Mary Anning, que hizo grandes descubrimientos en saurios acuáticos como el ictiosaurio o el plesiosaurio.
 
-Durante años fue usado por la Fundación para el transporte de saurios y provisiones vía marítima. Pero cuando estalló la guerra y la Fundación contacto con el Alto Mando, el barco paso en secreto por los astilleros reales.
-
 \saltopagina
+
+Durante años fue usado por la Fundación para el transporte de saurios y provisiones vía marítima. Pero cuando estalló la guerra y la Fundación contacto con el Alto Mando, el barco paso en secreto por los astilleros reales.
 
 Todo el espacio de carga fue acondicionado para llevar cómodamente a los dinosaurios y a sus compañeros humanos en sus largos viajes a sus diferentes misiones.
 
@@ -248,9 +255,9 @@ Durante las misiones, siempre hay alguien de guardia en la sala de radio, las 24
 
 Los comandos pueden usar su radio portátil para comunicarse con el barco y este rebotar el mensaje a la Fundación. En un par de horas podrían mandar un mensaje y conseguir su respuesta.
 
-Aunque las comunicaciones pueden ser escuchadas por la inteligencia nazi, se usa un método de nombres en clave para tratar de ofuscar la información lo más posible. Aun así, una persona experta podría sacar el mensaje e incluso triangular la señal.
-
 \saltopagina
+
+Aunque las comunicaciones pueden ser escuchadas por la inteligencia nazi, se usa un método de nombres en clave para tratar de ofuscar la información lo más posible. Aun así, una persona experta podría sacar el mensaje e incluso triangular la señal.
 
 #### La esclusa de los plesiosaurios
 
@@ -297,7 +304,7 @@ Listado normal de residentes:
 
 \saltopagina
 
-La Fundación paga grandes sumas de dinero a las autoridades bolivianas para que eviten que se acerquen al mundo perdido cualquier tipo de expedición o que sobrevuelen vuelos comerciales. En teoría posee los derechos de explotación mineral y forestal de la zona a través de varias empresas fantasma de forma que nadie puede tener intereses económicos en la zona porque no puede explotarlos.
+La Fundación paga grandes sumas de dinero a las autoridades venezolanas para que eviten que se acerquen al mundo perdido cualquier tipo de expedición o que sobrevuelen vuelos comerciales. En teoría posee los derechos de explotación mineral y forestal de la zona a través de varias empresas fantasma de forma que nadie puede tener intereses económicos en la zona porque no puede explotarlos.
 
 
 ### Recursos económicos
@@ -330,7 +337,7 @@ A priori, los carnívoros son más agresivos en general. En la naturaleza son ca
 Los acuáticos suelen ser más distantes. Vivimos en mundos distintos y eso hace que no entiendan tanto a los humanos como a los dinosaurios terrestres o aéreos. Sin embargo, como cazan normalmente en manadas trabajan muy bien entre ellos.
 
 ### Carnívoros aéreos
-Los pteranodones tienen a ser bastante competitivos entre ellos buscando ser el más rápido y mejor cazador. Esto junto a u capacidad de vuelo hace que sean bastante molestos. Pueden pasarse horas mirando quien puede chinchar más a un carnívoro para salir volando cuando estos se enfadan y les atacan. Pero esa capacidad de vuelo ha hecho también que sean un poco cobardes en general, huyendo a la mínima. Sin embargo son más valientes y atrevidos en grupo.
+Los pteranodones tienen a ser bastante competitivos entre ellos buscando ser el más rápido y mejor cazador y con ello establecer sus relaciones de poder. Esto junto a u capacidad de vuelo hace que sean bastante molestos. Pueden pasarse horas mirando quien puede chinchar más a un carnívoro para salir volando cuando estos se enfadan y les atacan. Pero esa capacidad de vuelo ha hecho también que sean un poco cobardes en general, huyendo a la mínima. Sin embargo son más valientes y atrevidos en grupo.
 
 \saltopagina
 
@@ -342,9 +349,9 @@ Son quizás los menos agresivos, pero pueden ser tremendamente agresivos cuando 
 [![Boceto de un nido alosaurios al que están robando los huevos](./assests/images/nido.jpg 'The Horrors of Thieving by FredTheDinosaurman')](https://www.deviantart.com/fredthedinosaurman/art/The-Horrors-of-Thieving-682621092 'The Horrors of Thieving by FredTheDinosaurman')
 
 ## Vida de los dinosaurios
-Los dinosaurios traídos de la tierra de Maple White son diurnos con lo que realizan toda su actividad principalmente de día, pero eso no quiere decir que no estén activos de noche. Pueden realizar todo tipos de tareas de noche ya que son de sangre caliente y pueden regular su temperatura incluso sin sol, pero como los humanos son están adaptados a moverse de noche. 
+Los dinosaurios traídos de la tierra de Maple White son diurnos con lo que realizan toda su actividad principalmente de día, pero eso no quiere decir que no estén activos de noche. Pueden realizar todo tipos de tareas de noche, ya que son de sangre caliente y pueden regular su temperatura incluso sin sol, pero como los humanos no están adaptados a moverse de noche. 
 
-El plumaje/plumón que tienen algunos de ellos les permite resistir en climas más fríos de lo que se pensaría a priori y también soportar el altas temperaturas. Así pues, pueden sobrevivir en una gran variedad de ambientes y climas desde la nieve hasta el desierto.
+El plumaje/plumón que tienen algunos de ellos les permite resistir en climas más fríos de lo que se pensaría a priori y también soportar las altas temperaturas. Así pues, pueden sobrevivir en una gran variedad de ambientes y climas desde la nieve hasta el desierto.
 
 \saltopagina
 
@@ -415,7 +422,7 @@ Como las misiones en principio deberían ser cortas, a lo sumo una semana, los g
 
 \saltopagina
 
-A nivel de juego, se supone que se llevan alimentos de sobra en las misiones y no deberían estar contando si quedan o no provisiones, esto no es "Econonomic D&D" no vamos a llevar al extremo el consumo/gasto de provisiones. Si fuera necesario, puedes montarle alguna escena para conseguir alimento fresco en el mercado local mientras evitan patrullas nazis. 
+A nivel de juego, se supone que se llevan alimentos de sobra en las misiones y no deberían estar contando si quedan o no provisiones, esto no es "Economic D&D" no vamos a llevar al extremo el consumo/gasto de provisiones. Si fuera necesario, puedes montarle alguna escena para conseguir alimento fresco en el mercado local mientras evitan patrullas nazis. 
 
 > La regla general es que no hay problemas de alimentación para los carnívoros a no ser que las misiones sean largas y/o la falta de comida sea parte de la aventura. En estos casos, si quieres que haya un extra de complejidad puedes presionarles con la falta de comida de sus saurios.
 
@@ -1122,7 +1129,7 @@ Espías industriales del MI6 han conseguido en EUA (en los laboratorios de la em
 
 \saltopagina
 
-Desde IM han les han proporcionado 2 planchas de 4m² de este material para que lo prueben en misiones. Pueden usarlo como quieran, desde hacer pequeñas piezas para marcar zonas de aterrizaje o marcar una ruta de escape de las alcantarillas, hasta ponerlo en las placas del estegosaurio y que sea visible a muchos metros de distancia y pueda recogerlo un helicóptero.
+Desde IM han les han proporcionado 2 planchas de 4 m² de este material para que lo prueben en misiones. Pueden usarlo como quieran, desde hacer pequeñas piezas para marcar zonas de aterrizaje o marcar una ruta de escape de las alcantarillas, hasta ponerlo en las placas del estegosaurio y que sea visible a muchos metros de distancia y pueda recogerlo un helicóptero.
 
 Hay que recordar que solo es útil de noche o con poca luz y como con otros de los prototipos de este relato, este material puede usarse como parte de un disfraz.
 
@@ -1133,7 +1140,7 @@ Hay que recordar que solo es útil de noche o con poca luz y como con otros de l
 Un joven activista medioambiental se ha encadenado a la entrada principal del muro exterior del castillo Dunvegan y amenaza con prenderse fuego si no paran los experimentos con animales que se realizan en el castillo.
 ```
 
-Cuando tus comandos vuelve una misión se encuentran a un chaval de unos 15 o 16 años encadenado (3 cadenas con 3 candados, -2 Latrocinio cada candado, cada cadena tiene una consistencia de 9) a la puerta principal de los terrenos de la fundación. Tiene varios carteles donde se puede leer "Lady Roxton experimenta con animales en peligro de extinción." o "La Fundación Roxton es una tapadera del ejército para experimentar con animales". Tiene un hornillo para cocinar y calentarse y un gran macuto (también encadenado) con provisiones para 7 días.
+Cuando tus comandos vuelve una misión se encuentran a un chaval de unos 15 o 16 años encadenado (3 cadenas con 3 candados, -2 Latrocinio cada candado, cada cadena tiene una consistencia de 9) a la puerta principal de los terrenos de la fundación. Tiene varios carteles donde se puede leer "Lady Roxton experimenta con animales en peligro de extinción" o "La Fundación Roxton es una tapadera del ejército para experimentar con animales". Tiene un hornillo para cocinar y calentarse y un gran macuto (también encadenado) con provisiones para 7 días.
 
 Tendrán que buscar la manera de deshacerse de Gerald, bien por la fuerza, bien con el engaño o bien con la persuasión. Lady Margaret no quiere que nadie de fuera entre en las instalaciones. Bajo ninguna circunstancia debería dejársele entrar.
 
@@ -1711,10 +1718,10 @@ Ictiosaurio fue el primer fósil completo descubierto a principios del siglo XIX
 * **Habilidades:** Atletismo d6, Notar d6, Pelear d8, Sigilo d6
 * **Paso:** 6; **Parada:** 6; **Dureza:** 7(1)
 * **Capacidades especiales:**
-    * **Acuático:** Paso 10 nadando.
-    * **Mordisco:** FUE+d6
-    * **Piel dura +1:** Su piel dura y lisa no solo le protege del frío del mar, también de ataques de otros animales.
-    * **Grandes ojos:** Tiene una vista excelente dentro del agua de forma que no sufre ninguna penalización de visibilidad debajo del agua.
+  * **Acuático:** Paso 10 nadando.
+  * **Mordisco:** FUE+d6
+  * **Piel dura +1:** Su piel dura y lisa no solo le protege del frío del mar, también de ataques de otros animales.
+  * **Grandes ojos:** Tiene una vista excelente dentro del agua de forma que no sufre ninguna penalización de visibilidad debajo del agua.
 
 [![Escala Ictiosaurio](./assests/images/escala-ictiosaurio.png 'Ichthyosaurus con un humano a escala. Abyssal leviathin')](https://es.wikipedia.org/wiki/Ichthyosaurus#/media/Archivo:Ichthyooscale.png 'Ichthyosaurus con un humano a escala. Abyssal leviathin')
 
@@ -1804,7 +1811,7 @@ Su cuerpo está totalmente adaptado a la vida acuática. Su piel no es escamosa,
 ### Pteranodon
 **Carnívoro | Volador | 3x1 casillas | Código: Spitfire**
 
-Que los reptiles aprendieron a volar que las aves descienden de estos dinosaurios voladores es de sobra conocido. Los pteranodones son el culmen de los reptiles voladores y aunque torpes en tierra son los amos de los aires.
+Que los reptiles aprendieron a volar y que las aves descienden de estos dinosaurios voladores es de sobra conocido. Los pteranodones son el culmen de los reptiles voladores y aunque torpes en tierra son los amos de los aires.
 
 \saltopagina
 
@@ -1822,6 +1829,7 @@ Como bien nos ha enseñado el cine (en realidad no) son capaces de lanzarse cont
   * **Ataque volador:** Cuando el pteranodon vuela a toda velocidad, puede realizar un ataque volador, obteniendo un +2 al daño. Si consigue un avance en su tirada de ataque cuando vuela contra un humano o un oponente de menor tamaño, lo atrapa y se lo lleva, probablemente a su nido.
   * **Tamaño +2:** Podían llegar a tener una envergadura de alas de 5 o 6 m y un peso de unos 60 kilos.
   * **Lento:** En el suelo solo tiene Paso 4 y no puede correr.
+  * **Veneno:** Después de un combate contra pteranodones, si recibes una herida, debes tirar VIG. En caso de fallar, el día siguiente tendrá un nivel de fatiga, que se recupera tras dormir una noche, debido a la fiebre y malestar general generados por la infección de las bacterias de su pico y sus garras.
 
 [![Escala Pteranodon](./assests/images/escala-pteranodon.png 'Scale diagram for Pteranodon longiceps by Matt Martyniuk')](https://commons.wikimedia.org/wiki/File:Pteranodon_scale.png 'Scale diagram for Pteranodon longiceps by Matt Martyniuk')
 
@@ -1832,12 +1840,12 @@ Los pteranodones son unos de los saurios voladores de mayor tamaño, llegando a 
 ## Otros animales y seres prehistóricos
 La expedición Challenger no solo encontró dinosaurios, también otros animales prehistóricos como el megaloceros o el glyptodon. También estuvieron en contacto con homínidos anteriores a los humanos e incluso con humanos primitivos. 
 
-[![Dibujo artístico de Cavernicolas](./assests/images/cavernicolas.jpg 'Guide leaflet - Charles R. Knight')](https://commons.wikimedia.org/wiki/Category:Charles_R._Knight#/media/File:Guide_leaflet_(1901)_(14766909282).jpg 'Guide leaflet - Charles R. Knight')
+[![Dibujo artístico de Cavernícolas](./assests/images/cavernicolas.jpg 'Guide leaflet - Charles R. Knight')](https://commons.wikimedia.org/wiki/Category:Charles_R._Knight#/media/File:Guide_leaflet_(1901)_(14766909282).jpg 'Guide leaflet - Charles R. Knight')
 
 ### Cavernícola
 **Omnívoro | Terrestre | 1x1 casillas**
 
-Estos humanos primitivos, no son diferentes de nosotros. Quizás son más fuertes y resistentes por su dura vida. Son cazadores y recolectores, por no decir carroñeros. Son capaces de crear y usar herramientas sencillas que usa para cazar, curtir pieles, trenzar cuerdas, hacer cestos, ... Han descubierto el fuego lo que ha mejorado mucho su calidad de vida.
+Estos humanos primitivos no son diferentes de nosotros. Quizás son más fuertes y resistentes por su dura vida. Son cazadores y recolectores, por no decir carroñeros. Son capaces de crear y usar herramientas sencillas que usa para cazar, curtir pieles, trenzar cuerdas, hacer cestos, ... Han descubierto el fuego lo que ha mejorado mucho su calidad de vida.
 
 Aunque no se enfrentan a los titanes que pisan su mundo, han desarrollado técnicas para enfrentarse, sobre todo en grupo, contra seres mucho más grandes que ellos. Tienen también un lenguaje de gruñidos muy básico basado en la supervivencia (peligro, comida, agua, etc.), pero que todavía no les sirve para transmitir información.
 
@@ -1856,7 +1864,7 @@ Aunque no se enfrentan a los titanes que pisan su mundo, han desarrollado técni
 ### Glyptodon
 **Herbívoro | Terrestre | 2x1 casillas**
 
-Este gran mamífero acorazado miden unos 3m de largo y 1,5 de alto y podían llegar a las 2 tn de peso. Su caparazón es una buena defensa contra depredadores y su cola reforzada de placas óseas es muy fuerte lo que la convierte en una efectiva arma contundente.
+Este gran mamífero acorazado miden unos 3 m de largo y 1,5 de alto y podían llegar a las 2 tn de peso. Su caparazón es una buena defensa contra depredadores y su cola reforzada de placas óseas es muy fuerte lo que la convierte en una efectiva arma contundente.
 
 Tienen muy mala visión de día y solo ven bien de noche, por eso prefieren los bosques frondosos donde la luz del sol no les molestaba tanto.
 
@@ -1892,7 +1900,7 @@ A pesar de su aspecto más cercano a los alces (de hecho se les conocía como al
 
 
 ### Pitecántropo
-**Herbívoro | Terrestre/Arboreo | 1x1 casillas**
+**Herbívoro | Terrestre/Arbóreo | 1x1 casillas**
 
 Estos homínidos que pueden andar de pie son considerados el eslabón perdido entre el primate y el humano. Son muy buenos trepadores y muy fuertes como sus ancestros primates. Son agresivos y territoriales y habitan los bosques de la meseta de Maple White.
 
@@ -1968,7 +1976,7 @@ Si vas a hacer esta pregunta, mejor pierde 5 minutos buscando en internet podrá
 
 He tratado de hacer esta ambientación lo más inclusiva y abierta que puedo y es por ello que estoy seguro de que habré hecho muchas cosas mal.
 
-He tratado de que haya diversidad entre PNJ con todo tipo de opciones de género, raza, etc. y sin definir su orientación sexual para que DJ puedas decidirla a tu gusto. He intentado evitar clichés y espero haberlo hecho, pero sois muy libres de cambiarlo a vuestro gusto.
+He tratado de que haya diversidad entre PNJ con todo tipo de opciones de género, raza, etc. y sin definir su orientación sexual para que DJ puedas decidirla a tu gusto. También he intentado evitar clichés y espero haberlo hecho, pero sois muy libres de cambiarlo a vuestro gusto.
 
 \saltopagina
 
