@@ -30,7 +30,7 @@ Puede que esté en tus manos cambiar el rumbo de la guerra y salvar al mundo de 
 # La Fundación Roxton
 El [mundo perdido](https://es.wikipedia.org/wiki/El_mundo_perdido) (The Lost World) es una novela de ciencia ficción de 1912 escrita por Sir Arthur Conan Doyle, famoso por crear a Sherlock Holmes. Trata sobre una expedición a una meseta sudamericana perdida en donde aún sobreviven dinosaurios y otros animales prehistóricos. 
 
-Esta campaña toma como reales todos los hechos que pasan en esa novela y avanza hasta el verano del año 1940. Europa está sumida en la II Guerra mundial y tu mesa encarnará a un grupo de comandos que irán haciendo peligrosas misiones por algunos de los escenarios más característicos de esta guerra. 
+Esta campaña toma como reales todos los hechos que pasan en esa novela y avanza hasta el verano del año 1940. Europa está sumida en la II Guerra Mundial y tu mesa encarnará a un grupo de comandos que irán haciendo peligrosas misiones por algunos de los escenarios más característicos de esta guerra. 
 
 Pero no estarán solos en esas aventuras, sino que irán acompañados de dinosaurios sacados de ese mundo perdido y entrenados para ayudar a tus comandos en todo tipo de misiones.  
 
@@ -86,51 +86,51 @@ Estas interacciones fueron con los siglos evolucionado y grabándose en los inst
 \saltopagina
 
 ## La Fundación J. Roxton
-Tras el regreso de su segunda expedición y con las sacas llenas de diamantes, Lord Roxton decidió dedicar ese dinero al estudio de los dinosaurios y su protección. Quería mantener la meseta de Maple White tal y como la había conocido. Así pues creó la Fundación J. Roxton. 
+Tras el regreso de su segunda expedición y con las sacas llenas de diamantes, Lord Roxton decidió dedicar ese dinero al estudio de los dinosaurios y su protección. Quería mantener la meseta de Maple White tal y como la había conocido. Así pues, creó la Fundación J. Roxton. 
 
-Lord Roxton, también vio la necesidad de crear una reserva natural de saurios, en caso de que algo pasara en la meseta. Por ello la Fundación compró casi una quinta parte de la isla de Skye en Escocia y monto una reserva natural. La Fundación en su necesidad de preservar a los animales de la reserva tuvo que empezar a estudiarlo, porque nada de lo que se sabía la ciencia actual sobre los dinosaurios les era de ayuda.
+Lord Roxton, también vio la necesidad de crear una reserva natural de saurios, en caso de que algo pasara en la meseta. Por ello la Fundación compró casi una quinta parte de la isla de Skye en Escocia y monto una reserva natural. La Fundación, en su necesidad de preservar a los animales de la reserva, tuvo que empezar a estudiarlo, porque nada de lo que se sabía la ciencia actual sobre los dinosaurios les era de ayuda.
 
 La vida de aventuras de Lord Roxton se convirtió en una vida de burocracia al frente de la Fundación y de estudio no solo de los saurios sino de las cavernícolas, convirtiéndose en un experto antropólogo. Pero aun así solía aprovechar algunos viajes a la meseta de Maple White para revivir sus años de cazador/explorador.
 
 La principal razón de lord Roxton para montar las instalaciones de la Fundación en Escocia, es que los posibles avistamientos de monstruos prehistóricos podían verse como un intento más de un loco escocés queriendo llamar la atención sobre el Lago Ness. De hecho, desde 1930 se han multiplicado los avistamientos de monstruos de todo tipo y estos hechos son rápidamente noticias en la prensa amarilla. Esto hace que los testigos sean desprestigiados rápidamente por la opinión pública y la comunidad científica, a pesar de que muchas veces han podido ser reales.
 
 ### Política de no intromisión
-Una de las políticas claves que estableció Lord Roxton en su expedición fue la no intervención en la vida de los hombres y mujeres primitivos. Esto incluye todo tipo de intervención que trastocase su modo de vida. No se les da ningún tipo de tecnología, no se les ayuda salvo en cosas muy graves y no se les trata de enseñar ningún de conocimiento.
+Una de las políticas claves que estableció Lord Roxton en su expedición fue la no intervención en la vida de los hombres y mujeres primitivos. Esto incluye todo tipo de intervención que trastocase su modo de vida. No se les da ningún tipo de tecnología, no se les ayuda salvo en cosas muy graves y no se les trata de enseñar ningún tipo de conocimiento.
 
 Lo único que está permitido es un comercio muy básico en el que la Fundación no saca ningún beneficio, solamente usa estos encuentros para estudiar a sus vecinos de las cavernas. Intercambian pieles, alimentos y algunas herramientas muy básicas.
 
 ### Lady Roxton
 Poco sabía Margaret Roxton, sobrina de Lord Roxton, lo que iba a cambiar su vida cuando el albacea testamentario de su tío se presentó en su para entregarle una fabulosa fortuna y el control de la fundación con su nombre, tras la muerte de su tío por un ataque al corazón.
 
-Pasado el impacto inicial, rápidamente Margaret se hizo a su nueva situación y tras instalarse en Dunvegan, empezó a empaparse de todos lo que rodeaba. En unos meses conocía perfectamente toda la historia de la Fundación, sus recursos, sus reglas, sus actuaciones y formas de trabajar.
-
 \saltopagina
+
+Pasado el impacto inicial, rápidamente Margaret se hizo a su nueva situación y tras instalarse en Dunvegan, empezó a empaparse de todos lo que rodeaba. En unos meses conocía perfectamente toda la historia de la Fundación, sus recursos, sus reglas, sus actuaciones y formas de trabajar.
 
 Mientras que Lord Roxton trato de mantener ocultos tanto Maple White como la reserva de Skye, Margaret sabía que esa una tarea imposible sin ayuda exterior. El mundo de Margaret era un mundo de fotografías con teleobjetivo, de cámaras de cine y de micrófonos y de radio. Nada podía mantenerse en secreto, tarde o temprano alguien captaría a un pteranodon volando o se metería en los terrenos de Skye para investigar que había tras sus alambrados.
 
-Su primera gran acción como directora de la Fundación fue intentar hablar con el Gobierno, hablarles de los dinosaurios y del mundo perdido. No consiguió nada, ni una misera audición. Desde el gobierno se la tomo como una loca excéntrica a la que evitar. Pero sus peticiones si fueron escuchadas por alguien que ella no podía imaginarse. Agentes de Inteligencia Militar (IM) a las órdenes del General Linton se pusieron en contacto con Lady Roxton.  
+Su primera gran acción como directora de la Fundación fue intentar hablar con el Gobierno, hablarles de los dinosaurios y del mundo perdido. No consiguió nada, ni una misera audición. Desde el gobierno se la tomo como una loca excéntrica a la que evitar. Pero sus peticiones sí fueron escuchadas por alguien que ella no podía imaginarse. Agentes de Inteligencia Militar (IM) a las órdenes del General Linton se pusieron en contacto con Lady Roxton.  
 
-IM empezó a suministrar a la Fundación de todo tipo de especialistas que tenían acceso a las instalaciones y los saurios. Llevaban todo tipo de equipamiento especial y hacía toda serie de nuevos experimentos y pruebas. Gracias a ellos las investigaciones de la Fundación avanzaron en años lo que les habría llevado décadas. 
+IM empezó a suministrar a la Fundación de todo tipo de especialistas que tenían acceso a las instalaciones y los saurios. Llevaban todo tipo de equipamiento especial y hacía toda serie de nuevos experimentos y pruebas. Gracias a ellos, las investigaciones de la Fundación avanzaron en años, lo que les habría llevado décadas. 
 
-A cambio IM proporcionaba cobertura a la Fundación, por ejemplo, el "Mary Anning" no necesitaba pasar por aduanas al salir o entrar al país y cuando llegaba a Venezuela casualmente nadie quería inspeccionar la carga al salir o al entrar. La Fundación conseguía informes muy detallados de sus posibles investigadores y becarios con lo que podía hacer una selección más eficaz y descartar las personas que podían dar problemas.
+A cambio, IM proporcionaba cobertura a la Fundación, por ejemplo, el "Mary Anning" no necesitaba pasar por aduanas al salir o entrar al país y cuando llegaba a Venezuela casualmente nadie quería inspeccionar la carga al salir o al entrar. La Fundación conseguía informes muy detallados de sus posibles investigadores y gente con becas con lo que podía hacer una selección más eficaz y descartar las personas que podían dar problemas.
 
-También parece ser que desaparecieron todas las posibles señales que hubiera en medios de comunicación y otras organizaciones gubernamentales nacionales y extranjeras como las notas y cartas Edward Malone de la primera expedición al Mundo Perdido.
+También parece ser que desaparecieron todas las posibles señales que hubiera en medios de comunicación y otras organizaciones gubernamentales nacionales y extranjeras, como las notas y cartas Edward Malone de la primera expedición al Mundo Perdido.
 
 ### La Guerra
 El 1 de septiembre de 1939 los nazis entran en Polonia, se desata la Segunda Guerra Mundial y Lady Roxton se encuentra en su despacho dos oficiales de IM con un proyecto centrado en sus dinosaurios que ayudaría a la guerra. Reticente las primeras semanas, no le quedo otro remedio que acceder a las peticiones de IM ante el imparable avance de las fuerzas nazis sobre Francia.
 
 Rápidamente todos los experimentos y todos los trabajos que había solicitado IM para probar y desarrollar con los saurios tuvieron una nueva dimensión. Simples ejercicios de lanzar y traer para plesiosaurios, podían ser aplicados en misiones militares para recuperar objetos hundidos. Estudios sobre si los pteranodones podían buscar y encontrar a sus cuidadores y llegar hasta ellos, se convertían en formas muy interesantes de hacer espionaje aéreo de instalaciones nazis. 
 
-Lady Roxton sabía que había sido engañada, pero ahora había problemas más acuciantes. Ya solventaría todos estos temas después de ganar la guerra.
-
 \saltopagina
 
-xxx
+La IM ya tiene sus "monstruos" preparados para combatir y ahora necesita la parte humana que los controle, así que sus agentes de inteligencia están como locos buscando los activos idóneos para trabajar con los saurios en las misiones que piensan asignarles.
+
+Lady Roxton sabe que había sido engañada, pero ahora hay problemas más acuciantes. Ya solventará todos estos temas después de ganar la guerra.
 
 ### La Fundación Roxton hoy en día
-xxx
+A día de hoy (verano de 1940) debemos considerar que la Fundación Roxton es una división no militar del IM. Lady Roxton tiene el control financiero de la Fundación y mantiene en secreto la localización de la Tierra de Maple White, pero ha perdido el control de las instalaciones en Skye. Solo conserva el derecho a veto, puede vetar personas y misiones, pero no puede tomar decisiones sobre quien entra o sale o como se llevan a cabo las misiones. Temas menores como organización de eventos o recaudación de fondos siguen en su control.
 
-\saltopagina
+Aun así Lady Roxton intenta mantener el control de las misiones, de forma que tratará de atraer a su lado a los comandos y al personal científico que trabajan en Skye. De esta forma, está informada de todo lo que hace la IM en la Fundación y puede incluso dar órdenes o asesorar a los comandos en misión.
 
 ### Las actividades oficiales de la Fundación 
 Legalmente la Fundación Roxton es una organización de defensa e investigación de la vida salvaje y como tal realiza muchas actividades públicas en este sentido. De hecho, los terrenos de la isla de Skye están registrados como una reserva natural de animales en peligro de extinción.
@@ -141,14 +141,6 @@ La Fundación usa a veces estás actividades como tapadera para sus fines reales
 
 ### Las instalaciones de la Fundación Roxton en Skye
 Lord Roxton trato su las instalaciones de Skye como una simple reserva natural, unos terrenos aislados donde los saurios estaban en libertad y el castillo Dunvegan donde algunos zoólogos de confianza podían trabajar (casi siempre con el visto bueno del profesor Challenger). 
-
-Fue Lady Roxton quien vio que todo esto era insuficiente. Debíamos estudiar todo este increíble descubrimiento de forma adecuada y no solo los dinosaurios sino también los "Homo sapiens" de la meseta.
-
-Ella perfeccionó los hábitats que cada especie había creado, montó el hospital y el taller. También puso a funcionar la Fundación como sistema para conseguir investigadores e investigadoras de confianza a través de becas. Se becaba a alguien y se le estudiaba, si parecía de confianza se le ofrecía para trabajar en Skye o Maple White según capacidades y estudios.
-
-#### Distribución de los edificios
-Las instalaciones en la isla no están concentradas en un único lugar, sino que están dispersas por los terrenos de la fundación. La idea es evitar que los reconocimientos aéreos nazis descubran las instalaciones. Si no se revisan a conciencia las fotos se considerará que son grupos dispersos de granjas.
-Los dinosaurios en libertad a pesar de su tamaño, siguen con instintos de cazador y presa y se ocultan bastante bien entre bosques y maleza alta. Aun así, alguien de la inteligencia nazi puede descubrir el pastel fácilmente si le pone interés.
 
 \saltopagina
 
@@ -171,6 +163,14 @@ Mapa de la isla de Skye
 
 \saltopagina
 
+Fue Lady Roxton quien vio que todo esto era insuficiente. Debíamos estudiar todo este increíble descubrimiento de forma adecuada y no solo los dinosaurios sino también los "Homo sapiens" de la meseta.
+
+Ella perfeccionó los hábitats que cada especie había creado, montó el hospital y el taller. También puso a funcionar la Fundación como sistema para conseguir investigadores e investigadoras de confianza a través de becas. Se becaba a alguien y se le estudiaba, si parecía de confianza se le ofrecía para trabajar en Skye o Maple White según capacidades y estudios.
+
+#### Distribución de los edificios
+Las instalaciones en la isla no están concentradas en un único lugar, sino que están dispersas por los terrenos de la fundación. La idea es evitar que los reconocimientos aéreos nazis descubran las instalaciones. Si no se revisan a conciencia las fotos se considerará que son grupos dispersos de granjas.
+Los dinosaurios en libertad a pesar de su tamaño, siguen con instintos de cazador y presa y se ocultan bastante bien entre bosques y maleza alta. Aun así, alguien de la inteligencia nazi puede descubrir el pastel fácilmente si le pone interés.
+
 #### Hábitats
 Tras muchos años de estudio se han ido creando una serie de hábitats para cada especie donde viven y son estudiados. Mientras que los pteranodones se habituaron rápidamente y sin problemas a los acantilados de la isla donde montaron sus nidos, los carnívoros han sido los más complicados por su carácter, su agresividad y su alimentación. Hábitats actuales.
 
@@ -183,6 +183,8 @@ Los saurios terrestres están en semilibertad, ya que pueden moverse por extensa
 
 Los acuáticos y voladores pueden moverse fuera de la isla sin problemas, pero estos no se alejan mucho, aunque ha habido casos de avistamientos. De hecho, hace unos años un plesiosaurio desorientado y enfermo acabo en el lago Ness desatando la locura por Nessy en la zona. 
 
+\saltopagina
+
 La Fundación, como santuario natural, paga a los pescadores locales para que no faenen en la zona, por ello, los bancos de peces que sirven de alimento a plesiosaurios, ictiosaurios y pteranodones son muy abundantes. Ante esta situación muy pocos ejemplares han querido alejarse de la isla.
 
 #### Castillo de Dunvegan
@@ -192,11 +194,13 @@ Tiene 3 pisos y una altura de 15 metros. En su momento fue un fortín inexpugnab
 
 La única línea de teléfono de la isla está en el castillo y Lady Roxton ha pagado mucho dinero para que el viejo castillo tenga electricidad.
 
-\saltopagina
-
 [![Foto del castillo de Dunvegan](./assests/images/dunvegan.jpg 'De Pam Brophy, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=605496')](https://es.wikipedia.org/wiki/Castillo_de_Dunvegan#/media/Archivo:Dunvegan_Castle.jpg 'De Pam Brophy, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=605496')
 
+&nbsp;
+
 IM ha dejado cerca, pero no en el propio castillo artillería anti-área, pero nunca ha llegado tan lejos una aeronave nazi.
+
+\saltopagina
 
 #### La forja de Weyland
 Este taller y forja está dirigido por Weyland (su mote en la forja), un herrero/ingeniero que la Fundación enroló para hacer todos los artilugios y piezas de metal que necesitan en la isla, desde rejas o cadenas o bardas y escudos.
@@ -208,8 +212,6 @@ Además de un pequeño hospital para humanos (los casos más graves se llevan al
 
 El hospital tiene un pequeño laboratorio para todo tipo de experimentos y pruebas y se usaban laboratorios privados para estudios más complejos. Con la participación de la Fundación en misiones las pruebas complicadas son enviadas a IM y desde allí se encargan de realizarlas. 
 
-\saltopagina
-
 #### Otras instalaciones
 
 * En el Castillo Dunvegan está la mayor biblioteca de paleontología del mundo con muchos tratados que han hecho los trabajadores de la Fundación investigando los saurios en la meseta y en Skye.
@@ -217,22 +219,24 @@ El hospital tiene un pequeño laboratorio para todo tipo de experimentos y prueb
 * Hay varios jeeps todoterreno para mover y controlar las manadas de saurios y moverse por la reserva. 
 * Hay varias granjas normales con maquinaria agrícola donde se crían animales para alimentar carnívoros y diferentes frutas y verduras para los herbívoros. También abastecen de comida al personal de la Fundación.
 
-&nbsp;
-
-[![Estampa del "Mary Anning"](./assests/images/regreso-casa.jpg 'Ägare:/1939-44, 1949-58/: Seereederei Frigga A.G. Hemort: Hamburg.')](https://garystockbridge617.getarchive.net/amp/media/agare1939-44-1949-58-seereederei-frigga-ag-hemort-hamburg-7e3056 'Ägare:/1939-44, 1949-58/: Seereederei Frigga A.G. Hemort: Hamburg.')
-
 ### El "Mary Anning" y sus instalaciones
 El "Mary Anning" es un barco carguero de tamaño medio botado por la Fundación para el transporte de dinosaurios y comandos.
 
 La fundación le puso el nombre de la famosa paleontóloga georgiana Mary Anning, que hizo grandes descubrimientos en saurios acuáticos como el ictiosaurio o el plesiosaurio.
 
-\saltopagina
-
 Durante años fue usado por la Fundación para el transporte de saurios y provisiones vía marítima. Pero cuando estalló la guerra y la Fundación contacto con el Alto Mando, el barco paso en secreto por los astilleros reales.
+
+\saltopagina
 
 Todo el espacio de carga fue acondicionado para llevar cómodamente a los dinosaurios y a sus compañeros humanos en sus largos viajes a sus diferentes misiones.
 
 En el resto del espacio libre se crearon diferentes habitáculos con material y equipo útil en sus misiones, desde un hospital de campaña para humanos y dinosaurios hasta una sala oscura para revelar fotos. Cuenta también con grandes zonas de almacenaje y un congelador de tamaño industrial para almacenar las provisiones de los grandes saurios.
+
+&nbsp;
+
+[![Estampa del "Mary Anning"](./assests/images/regreso-casa.jpg 'Ägare:/1939-44, 1949-58/: Seereederei Frigga A.G. Hemort: Hamburg.')](https://garystockbridge617.getarchive.net/amp/media/agare1939-44-1949-58-seereederei-frigga-ag-hemort-hamburg-7e3056 'Ägare:/1939-44, 1949-58/: Seereederei Frigga A.G. Hemort: Hamburg.')
+
+&nbsp;
 
 La capitán Dolores Branningan y su tripulación tienen años de experiencia tratando con dinosaurios y saliendo airosos de situaciones peligrosas. Es por ello que en caso de necesidad podrían sustituir a un comando en una misión. El barco tiene una tripulación 24 personas, todos de confianza y bien pagados.
 
@@ -240,6 +244,8 @@ La capitán Dolores Branningan y su tripulación tienen años de experiencia tra
 En la cubierta principal, camuflada dentro de un contenedor de madera que se desmonta quitando unos pestillos, hay un cañón de 20 mm antiaéreo.
 
 No es ni de lejos suficiente para enfrentarse a un barco de guerra o un submarino, pero podría derribar a un caza solitario, cubrir la huida de un comando en bote o barrer un puerto si fuera necesario.
+
+\saltopagina
 
 Para esta arma puedes usar las estadísticas del cañón de 20 mm de las armas montadas en vehículos que salen en el manual básico.
 
@@ -255,8 +261,6 @@ Durante las misiones, siempre hay alguien de guardia en la sala de radio, las 24
 
 Los comandos pueden usar su radio portátil para comunicarse con el barco y este rebotar el mensaje a la Fundación. En un par de horas podrían mandar un mensaje y conseguir su respuesta.
 
-\saltopagina
-
 Aunque las comunicaciones pueden ser escuchadas por la inteligencia nazi, se usa un método de nombres en clave para tratar de ofuscar la información lo más posible. Aun así, una persona experta podría sacar el mensaje e incluso triangular la señal.
 
 #### La esclusa de los plesiosaurios
@@ -271,6 +275,8 @@ se tarda 1,5 horas en montarlo.
 
 La idea es tanto servir de refugio a los pteranodones en caso de clima adverso, como, también, un sitio de tenerlos controlados. Como ya hemos dicho, los aéreos son muy asustadizos en solitario y muy valientes en grupo, lo que hace que ante situaciones de estrés puedan huir o atacar, y como vuelan, es muy fácil que sean avistados. La pajarera les permite tener cierto espacio para moverse, pero los mantiene controlados.
 
+\saltopagina
+
 #### Otras instalaciones del barco
 Además de cosas normales en este tipo de cargueros, como cocina o sala común, cuenta con todas estas instalaciones.
 
@@ -278,15 +284,17 @@ Además de cosas normales en este tipo de cargueros, como cocina o sala común, 
 * Celdas para 3 prisioneros/as
 * Armería completísima con una pequeña Santabárbara para los explosivos.
 
+[![Imagen de la construcción del campamento](./assests/images/campamento.jpg 'Men pulling on rope over fallen tree during the Roosevelt-Rondon Scientific Expedition to Brazil')](https://www.loc.gov/item/2006689851/ 'Men pulling on rope over fallen tree during the Roosevelt-Rondon Scientific Expedition to Brazil')
+
+&nbsp;
+
 ### El campamento
 
 La Fundación tiene en la meseta de Maple White un campamento fijo de científicos y científicas que estudian la fauna y flora del lugar. También se dedican a la cría y selección dinosaurios para su estudio, mandando los más dotados a la isla de Skye. Por último, dedican esfuerzos a extraer diamantes, siempre cumpliendo las estrictas cuotas que marca la Fundación.
 
-De media hay unas 20 personas viviendo en un enclave de unos 10 pabellones. Son autosuficientes en temas de suministros básicos como agua y comida, y cada cierto tiempo reciben suministros médicos, materiales y equipos nuevos.
-
 \saltopagina
 
-[![Imagen de la construcción del campamento](./assests/images/campamento.jpg 'Men pulling on rope over fallen tree during the Roosevelt-Rondon Scientific Expedition to Brazil')](https://www.loc.gov/item/2006689851/ 'Men pulling on rope over fallen tree during the Roosevelt-Rondon Scientific Expedition to Brazil')
+De media hay unas 20 personas viviendo en un enclave de unos 10 pabellones. Son autosuficientes en temas de suministros básicos como agua y comida, y cada cierto tiempo reciben suministros médicos, materiales y equipos nuevos.
 
 Esta comunidad permanente de investigaciones ha establecido relaciones con los cavernícolas y han tenido éxito en sus primeros intercambios culturales y comerciales, siguiendo siempre los protocolos establecidos por la Fundación.
 
@@ -302,12 +310,10 @@ Listado normal de residentes:
 * Un/a doctor/a y su ayudante
 * Dos cazadores/as encargados de proteger el enclave y conseguir alimento
 
-\saltopagina
-
 La Fundación paga grandes sumas de dinero a las autoridades venezolanas para que eviten que se acerquen al mundo perdido cualquier tipo de expedición o que sobrevuelen vuelos comerciales. En teoría posee los derechos de explotación mineral y forestal de la zona a través de varias empresas fantasma de forma que nadie puede tener intereses económicos en la zona porque no puede explotarlos.
 
 
-### Recursos económicos
+### Recursos económicos y no económicos
 La fundación Roxton tienes unos recursos increíbles, ya que se ha dedicado durante años a extraer diamantes de la arcilla azul del pantano del Mundo Perdido. 
 
 Pero todo esto se ha hecho bajo el más absoluto secreto, de forma que nadie sepa la fortuna real que maneja la Fundación. 
@@ -315,6 +321,8 @@ Pero todo esto se ha hecho bajo el más absoluto secreto, de forma que nadie sep
 Salvo casos especiales, la Fundación Roxton puede conseguir cualquier tipo de material y producto legal y contratar a cualquier persona que sea necesaria.
 
 Como curiosidad todos los trabajadores de la Fundación tienen un seguro de vida contratado con Guardian Assurance Company de Londres de 100.000 libras en caso de incapacidad y de 300.000 de libras para sus familias en caso de deceso.
+
+Y lo que el dinero de la Fundación no puede conseguir, la IM puede conseguirlo legal o ilegalmente, pero en ese caso siempre será bajo su control y supervisión. La IM puede agilizar burocracias, conseguir permisos especiales o accesos a la última tecnología de guerra.
 
 ***
 
@@ -917,18 +925,39 @@ Como muchas grandes aventuras, nuestra campaña va a empezar en un lugar pequeñ
 Puedes aprovechar para hacer una sesión 0 con cada comando en el que le reclutan para una extraña misión en Escocia, bastante lejos de donde está acción ahora mismo en la guerra. Veamos algunas ideas para el reclutamiento.
 
 * Tu superior te dice que te trasladan a Escocia a un proyecto secreto. Firma los papeles y recoge tu macuto, tienes que estar allí en 3 días. Tras mirar los horarios de trenes tienes la noche libre para una última juerga en Londres, Manchester, Dublín, etc.
-* IM ha comprado la hipoteca que solicitaste para continuar con tus investigaciones y te propone saldarla si trabajas con ellos en un proyecto secreto en Escocia. Al día siguiente de firmar con el IM, cuando entras por la puerta de tu laboratorio no hay nada. Se han llevado todo y solo hay un sobre muy gordo con billetes de tren e instrucciones para llegar a la isla de Skye.  
-* Tu oficial superior te ofrece la posibilidad de librarte de pasar unos cuantos meses en la prisión militar si te enrolas en un proyecto secreto de IM. NO te puede decir mucho más, pero que puede ser peor que una fría prisión militar. 
-* xxx
+* IM ha comprado el préstamo que solicitaste para continuar con tus investigaciones y te propone saldarla si trabajas con ellos en un proyecto secreto en Escocia. Al día siguiente de firmar con el IM, cuando entras por la puerta de tu laboratorio no hay nada. Se han llevado todo y solo hay un sobre muy gordo con billetes de tren e instrucciones para llegar a la isla de Skye.  
+* Tu oficial superior te ofrece la posibilidad de librarte de pasar los años de condena que te quedan en la prisión militar si te enrolas en un proyecto secreto de IM. NO te puede decir mucho más, pero que puede ser peor que una fría prisión militar. Si no estás dispuesto a participar quizás los guardas pueden convencerte cuando nadie mire.
+* Un militar al que no conoces aparece en tu laboratorio y te muestra unas extrañas escamas que nunca habías visto o quizás los restos de unos huevos que no parecen de ningún animal actual. Te propone formar parte de un proyecto donde podrás estudiar cosas asombrosas que nunca nadie ha visto hasta ahora. Si no quieres participar, te deja su tarjeta y la extraña muestra para que la estudies, sabe que en cuanto descubras alguno de sus secretos aparecerás en su puerta para aceptar participar en el proyecto.
+
+Si investigan solo sabrán que les trasladarán a la reserva de animales salvajes de la Fundación Roxton en la isla de Skye. Unas buenas tiradas de investigar no sacarán a la luz nada extraño, pero dará a entender que alguien ha limpiado la información que se puede sacar de archivos, bibliotecas y periódicos.
 
 ## Primeros pasos
-Del ferry que une Escocia con la isla de Skye desembarcarán tus comandos con sus macutos y unos papeles que deberán entregar a su superior.
+Del ferry que une tierra firme con la isla de Skye desembarcan tus comandos con sus macutos. Nadie más ha tomado el ferry así que se conocen de vista. Delante del grupo se para un pequeño camión y el conductor les mira y les dice con un fuerte acento escocés "Entrad atrás, tenemos bastante camino hasta el castillo y pronto se hará de noche. Por cierto, soy Willy.". 
 
+\saltopagina
+
+Mientras se miran unos a otros en el remolque pueden presentarse y describirse. De repente se parará el camión y Willy les dirá que ya han llegado. Al salir podrán ver el impresionante castillo Dunvegan con la luz del atardecer. 
+
+Una ama de llaves les pedirá que les sigan y los repartirá por sus habitaciones. Las habitaciones son de 2 personas, así que trata de emparejarlos de forma que den juego y diversión. En media hora la cena estará lista.
+
+
+### La cena con LaDy Roxton
+xxx
+
+### Mira es un dinosaurio
 xxx
 
 ## Entrenamiento
 xxx
-En un momento dado les dará afinidad animal con su nuevo dinosaurio.
+
+El objetivo de esta parte es que tus comandos conozcan a los saurios, sus fortalezas y sus debilidades y puedas ver con que dinosaurio tienen más afinidad.
+
+### Compañeros para siempre
+Durante la fase de entrenamiento deberías formar las parejas de humano/saurio asignandoles la ventaja "Compañero dinosaurio" al saurio que veas que mejor conecta con tus comandos. 
+
+xxx
+
+\saltopagina
 
 ## Dinosaurios a la fuga
 ```
@@ -963,7 +992,7 @@ Enigma es una máquina electromagnética para cifrar y descifrar mensajes. Es us
 xxx
 
 #### Visita a Bletchley Park
-Mientras estaban en la de regreso, recibieron las órdenes de escoltar ellos mismos a Jocelyn y el engranaje hasta las instalaciones militares de Bletchley Park. 
+Mientras están de regreso en el "Mary Anning", recibirán órdenes de escoltar ellos mismos a Jocelyn y el engranaje hasta las instalaciones militares de Bletchley Park. 
 
 Branningan cree que lo mejor es desembarcar en Portsmouth, de ahí a Oxford y luego Bletchley Park. Tendrán que alquilar un vehículo. El "Mary Anning" con los dinosaurios seguirá por el mar de Irlanda hasta Skye.
 
@@ -978,7 +1007,7 @@ xxx
 ### La pista
 Cuando vuelvan a irse de misión Lady Margaret les enseñará un documento de Bletchley Park. Con las posiciones que tenía el rotor antes de sacarlo de la máquina Enigma han sacado unas palabras: Fundación Roxton infiltrado. 
 
-Esto supone que la fundación está en el radar de las SS. Algo deben sospechar los nazis si usan una compleja máquina de cifrado para enviar mensajes referentes a la Fundación. Con una tirada de Investigar podrás datar este mensaje antes de que tus comandos ingresarán en la Fundación.
+Esto supone que la Fundación está en el radar de las SS. Algo deben sospechar los nazis si usan una compleja máquina de cifrado para enviar mensajes referentes a la Fundación. Con una tirada de Investigar podrás datar este mensaje a semanas antes de que tus comandos ingresarán en la Fundación.
 
 ## Otras misiones en Tobruk
 xxx
