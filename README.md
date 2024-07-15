@@ -31,14 +31,10 @@
 * Relatos salvajes
 
 # Por hacer de la versión 0.4
-* La Fundación Roxton (7)
-  * El mundo perdido
-    * Una aventura increíble
-  * La expedición Roxton
-  * La Fundación J. Roxton
-    * Lady Roxton
-    * La Guerra
-    * La Fundación Roxton hoy en día
+* Una aventura increíble
+* La expedición Roxton
+* La Guerra
+* La Fundación Roxton hoy en día
 
 ## Recursos 
 * https://commons.wikimedia.org/wiki/Category:Charles_R._Knight
@@ -51,6 +47,7 @@
 
 ## Versión 0.4.1 En desarrollo
 * Terminada tabla de dinosaurios como vehículos
+* Terminada ambientación "Lady Roxton"
 
 ## Versión 0.4 08/07/2024
 * Terminado mapa de las instalaciones de la isla de Skye
