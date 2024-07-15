@@ -913,15 +913,18 @@ Esta campaña no es especialmente sería, aunque no deja de tener sus momentos s
 # Parte 1: La isla de Skye
 Como muchas grandes aventuras, nuestra campaña va a empezar en un lugar pequeño y casi despoblado, el pueblo de Kyleakin, al sur de la Isla de Skye.
 
-Del ferry que une Escocia con la isla de Skye desembarcarán tus comandos con sus macutos y unos papeles que deberán entregar a su superior.
-
 ## Reclutamiento
 Puedes aprovechar para hacer una sesión 0 con cada comando en el que le reclutan para una extraña misión en Escocia, bastante lejos de donde está acción ahora mismo en la guerra. Veamos algunas ideas para el reclutamiento.
 
-* Tu superior te dice que te trasladan a Escocia a un proyecto secreto. Firma los papeles y recoge tu macuto, tienes que estar allí en 3 días.
-* IM ha comprado la hipoteca que solicitaste para continuar con tus investigaciones y te propone saldarla si trabajas con ellos en un proyecto secreto en Escocia.
+* Tu superior te dice que te trasladan a Escocia a un proyecto secreto. Firma los papeles y recoge tu macuto, tienes que estar allí en 3 días. Tras mirar los horarios de trenes tienes la noche libre para una última juerga en Londres, Manchester, Dublín, etc.
+* IM ha comprado la hipoteca que solicitaste para continuar con tus investigaciones y te propone saldarla si trabajas con ellos en un proyecto secreto en Escocia. Al día siguiente de firmar con el IM, cuando entras por la puerta de tu laboratorio no hay nada. Se han llevado todo y solo hay un sobre muy gordo con billetes de tren e instrucciones para llegar a la isla de Skye.  
 * Tu oficial superior te ofrece la posibilidad de librarte de pasar unos cuantos meses en la prisión militar si te enrolas en un proyecto secreto de IM. NO te puede decir mucho más, pero que puede ser peor que una fría prisión militar. 
 * xxx
+
+## Primeros pasos
+Del ferry que une Escocia con la isla de Skye desembarcarán tus comandos con sus macutos y unos papeles que deberán entregar a su superior.
+
+xxx
 
 ## Entrenamiento
 xxx
