@@ -1327,7 +1327,27 @@ Si revisan el guion que les da lady Margaret podrán ver que tendrán que rodar 
 
 Un equipo de cine del IM que se dedica a rodar propaganda de guerra rodará las escenas con los dinosaurios y se ha instalado en una de las granjas cercana a unas cuevas. Van a montar unos decorados y están preparando el atrezo, han hecho pinturas rupestres en las cuevas y han hecho taparrabos de pieles, lanzas de piedra, etc.
 
+### Marina hace su entrada
 xxx
+
+\saltopagina
+
+La IM quiere a Marina en esta película porque es una actriz con bastante fama que atraerá a mucha gente a las salas, pero sobre todo porque tiene fama de inventarse historias raras, de fantasear bastante y en general de comportarse de forma excéntrica. IM sabe que no contará nada de los saurios (firmado está y ella cumple sus contratos), pero si lo hiciera podrían desacreditarla fácilmente.
+
+### 1ª secuencia
+xxx
+
+### 2ª secuencia
+xxx
+
+### 3ª secuencia
+xxx
+
+### Otras secuencias
+Si quieres hacer más secuencias aquí tienes algunas ideas divertidas.
+
+* Los cavernícolas deben robar un huevo gigante sin romperlo mientras esquivan a sus progenitores. Al final se harán una tortilla gigante (basado en una de las escenas de la película "Cavernícola" de 1981).
+* xxx
 
 ### Marina Flowers, famosa actriz de Hollywood &#x2638;
 
