@@ -969,7 +969,7 @@ xxx
 
 ## Primera misión
 ```
-Los comandos y sus saurios tendrán su priemra misión en la pequeña isla de Jersey, frente a la costa francesa.
+Los comandos y sus saurios tendrán su primera misión en la pequeña isla de Jersey, frente a la costa francesa.
 ```
 xxx
 
@@ -1325,7 +1325,7 @@ IM quiere que se usen dinosaurios reales y no efectos especiales para recrear a 
 ### Revisando el guion
 Si revisan el guion que les da lady Margaret podrán ver que tendrán que rodar escenas estando disfrazados de trogloditas y luchando contra unos dinosaurios. También parece que rodarán con Marina Flowers, una estrella en ascenso de Hollywood, que tiene fama de ser problemática.
 
-xxx
+Un equipo de cine del IM que se dedica a rodar propaganda de guerra rodará las escenas con los dinosaurios y se ha instalado en una de las granjas cercana a unas cuevas. Van a montar unos decorados y están preparando el atrezo, han hecho pinturas rupestres en las cuevas y han hecho taparrabos de pieles, lanzas de piedra, etc.  
 
 ### Marina Flowers, famosa actriz de Hollywood &#x2638;
 
