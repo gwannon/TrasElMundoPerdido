@@ -822,7 +822,9 @@ El conspirador se ha vendido a los nazis y les ha entregado el secreto más impo
 
 También ha propiciado la caída y la destrucción de la Fundación Roxton. Las instalaciones han sido arrasadas y los dinosaurios que vivían en ellas han sido capturados o asesinados. Así que a partir de este momento volarán solos. 
 
-Todos estos eventos les obligarán a empezar una carrera contra los nazis por llegar al Mundo Perdido antes que ellos y sabotear su misión de captura de dinosaurios.
+Todos estos eventos les obligarán a empezar una carrera contra los nazis por llegar al Mundo Perdido antes que ellos y sabotear su misión de captura de dinosaurios. Allí descubrirán la auténtica verdad, el traidor era un doble agente y la IM montó todo el operativo de los dinosaurios en misiones para atraer a los nazis. La IM sabía que Hitler se volvería loco cuando los dinosaurios fueran detectados y trataría de conseguirse sus propios saurios "arios".
+
+De esta forma, una gran cantidad de las fuerzas y recursos (tropas de combate, espías, submarinos, barcos y grandes cantidades de dinero y combustible) que iban a ser usados en primera línea de combate serían destinados a buscar y capturar unas criaturas "míticas" en la selva boliviana.   
 
 La aventura acabará en la Selva Negra donde tu comando deberá tomar un castillo inexpugnable protegido por tropas nazis y los dinosaurios que los nazis capturaron en la Fundación y desbaratar los planes de crear un arma terrible con un descubrimiento que han hecho en el Mundo Perdido, los diamantes de la arcilla azul.
 
