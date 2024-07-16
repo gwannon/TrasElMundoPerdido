@@ -430,7 +430,7 @@ Como las misiones en principio deberían ser cortas, a lo sumo una semana, los g
 
 \saltopagina
 
-A nivel de juego, se supone que se llevan alimentos de sobra en las misiones y no deberían estar contando si quedan o no provisiones, esto no es "Economic D&D" no vamos a llevar al extremo el consumo/gasto de provisiones. Si fuera necesario, puedes montarle alguna escena para conseguir alimento fresco en el mercado local mientras evitan patrullas nazis. 
+En partida se supone que se llevan alimentos de sobra en las misiones y no deberían estar contando si quedan o no provisiones, esto no es "Economic D&D" no vamos a llevar al extremo el consumo/gasto de provisiones. Si fuera necesario, puedes montarle alguna escena para conseguir alimento fresco en el mercado local mientras evitan patrullas nazis. 
 
 > La regla general es que no hay problemas de alimentación para los carnívoros a no ser que las misiones sean largas y/o la falta de comida sea parte de la aventura. En estos casos, si quieres que haya un extra de complejidad puedes presionarles con la falta de comida de sus saurios.
 
@@ -479,7 +479,7 @@ En este apartado encontrarás toda una serie de reglas que modifican las reglas 
 Hay una serie de reglas en esta campaña que modifican las normas generales de creación de personajes. No son muchas, ni muy complicadas, pero tienen su sentido. Veámoslas:
 
 * No se pueden coger Trasfondos arcanos, las Ventajas de poder, la Resistencia Arcana y Voluntad de Hierro.
-* **No existen** las habilidades arcanas como **Fe, Hechicería o Psiónica** y tampoco las ventajas que pidan esas habilidades como Inventor.
+* Las habilidades arcanas como **Fe, Hechicería o Psiónica no existen** y tampoco las ventajas que pidan esas habilidades como Inventor.
 * No hay elementos paranormales en la aventura, con lo que el **Ocultismo se engloba en Humanidades** dentro de ciencias sociales como Historia, Teología, Antropología, etc.
 * **No existe la habilidad Ordenadores.** Electrónica cubre todo tipo de aparatos electrónicos con capacidades computacionales.
 * Hay nuevas Ventajas: Compañero dinosaurio, Los números primos son rojos y huelen dulces.
@@ -941,10 +941,10 @@ Mientras se miran unos a otros en el remolque pueden presentarse y describirse. 
 Una ama de llaves les pedirá que les sigan y los repartirá por sus habitaciones. Las habitaciones son de 2 personas, así que trata de emparejarlos de forma que den juego y diversión. En media hora la cena estará lista.
 
 
-### La cena con LaDy Roxton
+### La cena con Lady Roxton
 xxx
 
-### Mira es un dinosaurio
+### ¡Mira! ¡Es un dinosaurio!
 xxx
 
 ## Entrenamiento
@@ -953,7 +953,7 @@ xxx
 El objetivo de esta parte es que tus comandos conozcan a los saurios, sus fortalezas y sus debilidades y puedas ver con que dinosaurio tienen más afinidad.
 
 ### Compañeros para siempre
-Durante la fase de entrenamiento deberías formar las parejas de humano/saurio asignandoles la ventaja "Compañero dinosaurio" al saurio que veas que mejor conecta con tus comandos. 
+Durante la fase de entrenamiento deberías formar las parejas de humano/saurio asignándoles la ventaja "Compañero dinosaurio" al saurio que veas que mejor conecta con tus comandos. 
 
 xxx
 
@@ -966,6 +966,9 @@ Una manada variopinta de saurios ha escapado de la ciudad. Hay que captura y dev
 xxx
 
 ## Primera misión
+```
+Los comandos y sus saurios tendrán su priemra misión en la pequeña isla de Jersey, frente a la costa francesa.
+```
 xxx
 
 ## Embarcando en el "Mary Anning"
@@ -1318,7 +1321,7 @@ Lady Roxton quiere hablar con tus comandos. Mientras descansan entre misiones, t
 IM quiere que se usen dinosaurios reales y no efectos especiales para recrear a los dinosaurios. La genial idea que han tenido es que si alguien ve a uno de los saurios, hace una foto o incluso los graba en celuloide, poder decir que es un truco del cine y poner "Titanes de tiempos pretéritos" como ejemplo de lo que la gente de Hollywood puede hacer. 
 
 ### Revisando el guion
-Si revisan el guion que les da lady Margaret podrán ver que tendrán que rodar escenas disfrazados de trogloditas luchando contra unos dinosaurios. También parece que rodarán con Marina Flowers, una estrella en ascenso de Hollywood, que tiene fama de ser problemática.
+Si revisan el guion que les da lady Margaret podrán ver que tendrán que rodar escenas estando disfrazados de trogloditas y luchando contra unos dinosaurios. También parece que rodarán con Marina Flowers, una estrella en ascenso de Hollywood, que tiene fama de ser problemática.
 
 xxx
 
@@ -1638,7 +1641,7 @@ Vamos desde dependientes de tiendas hasta taberneros y toda la estructura de gen
 * **Equipo:** Cuchillo (FUE+d4)
 
 ### Burócrata
-Estamos hablando desde caros oficiales como alcalde/sa a las personas encargadas del registro, pasando por la gente que recauda los impuestos o chupatintas que están detrás de un mostrador en los juzgados.
+Estamos hablando desde cargos oficiales como alcalde o la alcaldesa a las personas encargadas del registro, pasando por la gente que recauda los impuestos o chupatintas que están detrás de un mostrador en los juzgados.
 
 * **Atributos:** Agilidad d4, Astucia d6, Espíritu d6, Fuerza d4, Vigor d4
 * **Habilidades:** Atletismo d4, Conocimientos Generales d6, Humanidades d6, Idioma materno d6, Notar d6, Pelear d4, Persuadir d6, Sigilo d4
@@ -2085,7 +2088,7 @@ Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage
 #### Tras el Mundo Perdido
 Creado por [Gwannon](https://gwannon.itch.io/)
 
-Tras el Mundo Perdido es una campaña de puntos argumentales donde lucharás contra nazis a lomos de dinosaurios.
+"OPERACIÓN: Tras el Mundo Perdido" es una campaña de puntos argumentales donde lucharás contra nazis a lomos de dinosaurios.
 
 Este libro contiene:
 

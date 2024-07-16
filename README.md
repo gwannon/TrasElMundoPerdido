@@ -33,8 +33,6 @@
 # Por hacer de la versión 0.4
 * Una aventura increíble
 * La expedición Roxton
-* La Guerra
-* La Fundación Roxton hoy en día
 
 ## Recursos 
 * https://commons.wikimedia.org/wiki/Category:Charles_R._Knight
@@ -45,9 +43,13 @@
 
 # Changelog
 
-## Versión 0.4.1 En desarrollo
+## Versión 0.4.2 En desarrollo
+
+## Versión 0.4.1 16/07/2024
 * Terminada tabla de dinosaurios como vehículos
 * Terminada ambientación "Lady Roxton"
+* Terminada ambientación "La Guerra"
+* Terminada ambientación "La Fundación Roxton hoy en día"
 
 ## Versión 0.4 08/07/2024
 * Terminado mapa de las instalaciones de la isla de Skye
