@@ -826,12 +826,12 @@ Todos estos eventos les obligarán a empezar una carrera contra los nazis por ll
 
 De esta forma, una gran cantidad de las fuerzas y recursos (tropas de combate, espías, submarinos, barcos y grandes cantidades de dinero y combustible) que iban a ser usados en primera línea de combate serían destinados a buscar y capturar unas criaturas "míticas" en la selva boliviana.   
 
+\saltopagina
+
 La aventura acabará en la Selva Negra donde tu comando deberá tomar un castillo inexpugnable protegido por tropas nazis y los dinosaurios que los nazis capturaron en la Fundación y desbaratar los planes de crear un arma terrible con un descubrimiento que han hecho en el Mundo Perdido, los diamantes de la arcilla azul.
 
 ### Orden cronológico
 Si deseas jugar los diferentes escenarios de guerra en orden cronológico por rigor histórico, esta es la secuencia de eventos.
-
-\saltopagina
 
 1. Batalla del Río de la Plata (1939, aunque la partida empieza en el verano de 1940)
 2. Sitio de Tobruk (1941)
@@ -853,10 +853,10 @@ La idea es que vayan siempre con su compañero y tengan un sustituto en el barco
 
 Si ves muy descompensado el grupo, puedes restringirles especies y cantidades. Las excusas pueden ser variadas; están en celo y son muy agresivos, están criando y deben cuidar su nido, etc.
 
+\saltopagina
+
 ### Equipamiento
 En el tema de equipo, mientras no se pasen con el armamento y los explosivos puedes ser bastante permisivo. Si usan artilugios que no son ni armas ni explosivos, seguramente tienen un plan divertido que deberías por lo menos dejarles probar por loco y poco adecuado que sea. Como mínimo siempre será divertido.
-
-\saltopagina
 
 ## Los viajes
 Como buena historia de aventuras, los viajes no serán importantes, no importa ni el coste ni el tiempo ni si hay submarinos alemanes en esas aguas. Siempre llegarán a tiempo y sin problemas a no ser que el viaje sea la propia aventura. 
@@ -876,9 +876,9 @@ En este apartado te ofrezco algunas ideas para personalizar y hacer más tu tuya
 ### Más Mundos Perdidos y más especies de dinosaurios
 La tierra de Maple White no tiene por qué ser el único mundo perdido. Quizás los nazis hayan descubierto una tierra salvaje en mitad de la Antártida alimentada por el calor de los volcanes donde han sobrevivido otras especies de dinosaurios. Sin olvidarnos que igual en alguna sima oceánica haya gigantescos saurios acuáticos que una bomba nuclear lanzada sobre Japón pueda despertar.
 
-Los dinosaurios elegidos para esta campaña han sido los que aparecen en la novela original de Sir Arthur Conan Doyle, pero puedes encontrar fácilmente las estadísticas de otras especies como el tiranosaurio. Así que mete las especies que quieras, incluso especies más modernas y perfectamente disfrutabas como un tigre dientes de sable o un mamut.
-
 \saltopagina
+
+Los dinosaurios elegidos para esta campaña han sido los que aparecen en la novela original de Sir Arthur Conan Doyle, pero puedes encontrar fácilmente las estadísticas de otras especies como el tiranosaurio. Así que mete las especies que quieras, incluso especies más modernas y perfectamente disfrutabas como un tigre dientes de sable o un mamut.
 
 ### Otros conflictos bélicos
 Esta campaña está desarrollada para jugarla en la II Guerra Mundial en Europa y Norte de África, pero con algunos cambios puedes prepararla para otros conflictos bélicos. Vemos algunos ejemplos:
@@ -900,9 +900,9 @@ Si la Ciencia Extraña no es lo tuyo, quizás otras formas de magia más tradici
 #### Mentalismo
 Hablamos de personajes de miradas penetrantes que pueden leer mentes, mover objetos con el poder de sus pensamientos o de ver el futuro. 
 
-Todos estos poderes mentales pueden cuadrar en esta campaña dando a tus némesis nazi la capacidad de combatir a los dinosaurios de tú a tú. Imagínate a tus comandos cargando con sus monturas dinosaurios contra un capitán de las SS que se eleva con el poder de su mente y que lanza gigantescas rocas con sus poderes telepáticos.  
-
 \saltopagina
+
+Todos estos poderes mentales pueden cuadrar en esta campaña dando a tus némesis nazi la capacidad de combatir a los dinosaurios de tú a tú. Imagínate a tus comandos cargando con sus monturas dinosaurios contra un capitán de las SS que se eleva con el poder de su mente y que lanza gigantescas rocas con sus poderes telepáticos.  
 
 #### Magia negra, vudú y nigromancia
 Todos conocemos de la fascinación de los nazis y la magia. Pero no nos vale una magia normal, brillante y luminosa. Hablamos de magia corrupta, de maldiciones, nigromancia, vudú, de rituales sangrientos y de sacrificios animales y humanos.
