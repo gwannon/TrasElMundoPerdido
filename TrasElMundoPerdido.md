@@ -1349,16 +1349,24 @@ Si quieres hacer más secuencias aquí tienes algunas ideas divertidas.
 * Los cavernícolas deben robar un huevo gigante sin romperlo mientras esquivan a sus progenitores. Al final se harán una tortilla gigante (basado en una de las escenas de la película "Cavernícola" de 1981).
 * xxx
 
+\saltopagina
+
 ### Marina Flowers, famosa actriz de Hollywood &#x2638;
+
+[![Retrato de Marina Flowers](./assests/images/marina.webp 'Shining by ArthurHenri')](https://www.deviantart.com/arthurhenri/art/Shining-768612780 'Shining by ArthurHenri')
+
+Marina Flowers es la reina de las películas de Serie de B. En sus películas ha sido secuestrada por todo tipo de seres, desde marcianos hasta hormigas gigantes o monstruos marinos. Su legión de fans incondicionales asegura una taquilla decente en todas sus producciones y eso le asegura siempre trabajo, mediocre pero trabajo. Es famosa por sus desmayos, la crítica los describe como los mejores, y por sus locuras. 
+
+No es excéntrica, ni va de diva, simplemente tiene ramalazos raros y de repente coloca la comida del catering por colores, se despierta a media noche y riza el pelo de todas sus pelucas o desaparece para aparecer horas más tarde con lazos naranjas para toda la gente de la producción. si se le pregunta suele contar extrañas historias para justificar esas conductas. Por lo demás, es una bellísima persona.  
 
 * **Atributos:** Agilidad d6, Astucia d8, Espíritu d10, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d8, Ciencias d6, Conocimientos Generales d6, Humanidades d6, Idioma Inglés d8, Idioma castellano d6, Interpretar d10, Notar d6, Pelear d6, Persuadir d8, Sigilo d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
 * **Ventajas:** Atractiva, Carismática, Muy Famosa
-* **Desventajas:** xxx
-* **Equipo:** xxx
+* **Desventajas:** Rarezas (mayor). Cada día debe hacer algún tipo de actividad rara. Puede evitarla tirando ESP, pero cada día sin hacer rarezas tiene un -1 a tiradas de habilidades de ESP o AST, incluida la propia tirada de ESP para evitar hacer rarezas.
+* **Equipo:** Maquillaje, 
 
-**Sugerencia de interpretación:** xxx
+**Sugerencia de interpretación:** Eres muy carismática y habladora, siempre interesándote por lo demás y ayudándoles en lo que sea. Te gusta flirtear, y hacerte querer. En general da gusto estar contigo hasta que tu cerebro hace clic y te dejas llevar por tu lado raro.
 
 \saltopagina
 
