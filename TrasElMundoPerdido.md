@@ -1347,7 +1347,8 @@ xxx
 Si quieres hacer más secuencias aquí tienes algunas ideas divertidas.
 
 * Los cavernícolas deben robar un huevo gigante sin romperlo mientras esquivan a sus progenitores. Al final se harán una tortilla gigante (basado en una de las escenas de la película "Cavernícola" de 1981).
-* xxx
+* Los y las cavernícolas hacen unos extraños (y extremadamente ridículos) bailes en la cueva a la luz de la hoguera para atraer a posibles parejas sexuales y románticas.
+* Alguna secuencia acuática con los ictiosaurios y los plesiosaurios.
 
 \saltopagina
 
