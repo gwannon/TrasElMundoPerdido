@@ -1458,7 +1458,7 @@ xxx
 
 **Sugerencia de interpretación:** xxx
 
-### General Linton, director de la IM y enlace con el alto mando &#x2638;
+### General Eugene Linton, director de la IM y enlace con el alto mando &#x2638;
 xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
@@ -1471,6 +1471,18 @@ xxx
 **Sugerencia de interpretación:** xxx
 
 \saltopagina
+
+### Teniente Horace Chambers, mano ejecutora de la IM y el General Linton &#x2638;
+xxx
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Notar d4, Persuadir d4, Sigilo d4
+* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+* **Ventajas:** xxx
+* **Desventajas:** xxx
+* **Equipo:** xxx
+
+**Sugerencia de interpretación:** xxx
 
 ### Jocelyn Van Croft, espía inglesa &#x2638;
 
