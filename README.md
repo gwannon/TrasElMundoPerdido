@@ -23,7 +23,6 @@
 
 # Por hacer de la versión 0.5
 * Parte 1: La isla de Skye (6)
-  * Reclutamiento
   * Entrenamiento
   * Dinosaurios a la fuga
   * Primera misión

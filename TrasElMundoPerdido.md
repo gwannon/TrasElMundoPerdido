@@ -940,26 +940,33 @@ Del ferry que une tierra firme con la isla de Skye desembarcan tus comandos con 
 
 Mientras se miran unos a otros en el remolque pueden presentarse y describirse. De repente se parará el camión y Willy les dirá que ya han llegado. Al salir podrán ver el impresionante castillo Dunvegan con la luz del atardecer. 
 
-Una ama de llaves les pedirá que les sigan y los repartirá por sus habitaciones. Las habitaciones son de 2 personas, así que trata de emparejarlos de forma que den juego y diversión. En media hora la cena estará lista.
+Una ama de llaves les pedirá que les sigan y los repartirá por sus habitaciones. Las habitaciones son de 2 personas, así que trata de emparejarlos de forma que den juego y diversión. En media hora la comida estará lista.
 
 
-### La cena con Lady Roxton
+### La comida con Lady Roxton
+Lady Roxton llegará la última al comedor, se presentará a los comandos y presentará la Fundación. Les dirá que están en una reserva de vida animal muy especial y que van a participar en un proyecto secreto de la IM. Puede que este proyecto ayude a acabar con la amenaza nazi.
+
+Evitará hablar de los saurios todavía. Lady Roxton es muy dada a la teatralidad y quiere presentarles a sus chicos de la forma apropiada. Responderá a las preguntas con vaguedades, van a hacer misiones secretas por todo el mundo luchando contra nazis, rescatarán gentes, harán misiones de espionaje, etc. todo bajo sus órdenes y las de la IM.
 xxx
 
 ### ¡Mira! ¡Es un dinosaurio!
-xxx
+Recuerdas la primera vez que ves un dinosaurio en Jurassic Park, así debería ser esta escena. Mientras Lady Roxton los lleva en un jeep por la tierra de la reserva, se desviara por un camino de cabras para alcanzar una colina. Desde arriba se encontrarán con una manada de estegosaurios pastando en una pradera cercana. Puedes poner incluso la [suite principal](https://www.youtube.com/watch?v=IL-pu2vhb88&t=60s).
+
+A partir de ahí, Lady Roxton los conducirá por los diferentes hábitats mostrándoles las especies de saurios que hay (iguanodones, pteranodones, ictiosaurios y plesiosaurios). Dejará para el final los alosaurios y megalosaurios que se dedicarán a devorar una vaca. En un alarde Lady Roxton se acercará a los carnívoros y ellos ni se inmutarán.
+
+Si algún comando se baja del jeep y se acerca a Lady Roxton, el carnívoro más cercano se acercará a olerlo. Debería hacer una tirada de miedo cuando se le acerque a olisquearle y note su caliente aliento. Si falla la tirada de miedo igual hasta se mea encima.  
 
 ## Entrenamiento
 xxx
 
 El objetivo de esta parte es que tus comandos conozcan a los saurios, sus fortalezas y sus debilidades y puedas ver con que dinosaurio tienen más afinidad.
+ 
+\saltopagina
 
 ### Compañeros para siempre
 Durante la fase de entrenamiento deberías formar las parejas de humano/saurio asignándoles la ventaja "Compañero dinosaurio" al saurio que veas que mejor conecta con tus comandos. 
 
 xxx
-
-\saltopagina
 
 ## Dinosaurios a la fuga
 ```
@@ -973,13 +980,13 @@ Los comandos y sus saurios tendrán su primera misión en la pequeña isla de Je
 ```
 xxx
 
-## Embarcando en el "Mary Anning"
+### Embarcando en el "Mary Anning"
 xxx
 
 ***
 
 # Parte 2: Norte de África
-xxx
+El Norte de África es una de las ubicaciones más exóticas de esta campaña, arena, sol y calor insoportable. Quizás sea un cambio interesante después de unos meses en la fría Escocia. También puede ser interesante tras congelarse el culo en Noruega o en Stalingrado.
 
 ## Sitio de Tobruk
 ```
@@ -1014,18 +1021,12 @@ Cuando vuelvan a irse de misión Lady Margaret les enseñará un documento de Bl
 
 Esto supone que la Fundación está en el radar de las SS. Algo deben sospechar los nazis si usan una compleja máquina de cifrado para enviar mensajes referentes a la Fundación. Con una tirada de Investigar podrás datar este mensaje a semanas antes de que tus comandos ingresarán en la Fundación.
 
-## Otras misiones en Tobruk
-xxx
-
 ***
 
 # Parte 3: Río de la plata
 xxx
 
 ## Batalla del Río de la Plata
-xxx
-
-## Otras misiones en el Río de la Plata
 xxx
 
 ***
@@ -1039,9 +1040,6 @@ Sabotear las fábricas de agua pesada de Telemark es fundamental si queremos gan
 ```
 xxx
 
-## Otras misiones En Noruega
-xxx
-
 ***
 
 # Parte 5: Normandía
@@ -1050,25 +1048,12 @@ xxx
 ## Preparando el día D
 xxx
 
-## Otras misiones en Normandía
-xxx
-
-### Arte robado
-```
-Tu comando debe ayudar a los "Monuments Men" a recuperar arte robado por los Nazis.
-```
-
-xxx
-
 ***
 
 # Parte 6: El frente ruso
 xxx
 
 ## El sitio de Stalingrado
-xxx
-
-## Otras misiones en Stalingrado
 xxx
 
 ***
@@ -1198,7 +1183,7 @@ Si tratan de persuadirle de que desista o que se canse cuando se le acabe la com
 
 La última poción es investigar el pasado de Gerald y tratar de que Lady Margaret le deje entrar en el recinto. Si investigan su pasado, está limpio, ninguna relación con nazis y tras asombrarse al ver los dinosaurios pedirá ir al campamento como becario.
 
-### Gerald Durrell &#x2638;
+### Gerald Durrell, joven activista medioambiental &#x2638;
 Este, joven naturalista y activista medioambiental va a ser un pequeño quebradero de cabeza para la Fundación. Gerald lleva rodeado de animales y estudiándolos desde pequeño. Son su amor y su obsesión y no va a permitir, como cree, que la Fundación haga experimentos con animales para los militares y los maltrate. 
 
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d10, Fuerza d6, Vigor d6
@@ -1313,6 +1298,15 @@ xxx
 
 \saltopagina
 
+## Arte robado
+```
+Tu comando debe ayudar a los "Monuments Men" a recuperar arte robado por los Nazis.
+```
+
+xxx
+
+\saltopagina
+
 ## Titanes de tiempos pretéritos
 ```
 La gente de IM ha tenido una idea genial, usar a los saurios en una película de bajo presupuesto. De forma que si alguien ves a los dinosaurios puedan decir que era un truco cinematográfico. 
@@ -1328,7 +1322,7 @@ Si revisan el guion que les da lady Margaret podrán ver que tendrán que rodar 
 Un equipo de cine del IM que se dedica a rodar propaganda de guerra rodará las escenas con los dinosaurios y se ha instalado en una de las granjas cercana a unas cuevas. Van a montar unos decorados y están preparando el atrezo, han hecho pinturas rupestres en las cuevas y han hecho taparrabos de pieles, lanzas de piedra, etc.
 
 ### Marina hace su entrada
-xxx
+Marina hará su entrada unas horas después, montada a caballo y vestida con un kilt. Llegará al galope gritando como una posesa. Se presentará como Marina McFlowers y tras saludos y besos preguntará por su habitación e ira a refrescarse. No se la volverá a ver hasta 
 
 \saltopagina
 
@@ -1352,6 +1346,14 @@ Si quieres hacer más secuencias aquí tienes algunas ideas divertidas.
 
 \saltopagina
 
+### Compañero saurio
+Puede ser interesante que durante el rodaje Marina establezca un vínculo con alguno de los dinosaurios. Esto hará que marina y sus rarezas puedan aparecer cada cierto tiempo por el castillo Dunvegan a visitar a su compañero saurio. Puedes usarlo como un comando pre-generado para un jugador o jugadora que quiera jugar una sesión o como un PJ que les dé apoyo en sus aventuras sobre todo en los relatos salvajes.
+
+Puede ser en alguna escena en que algún saurio la ataca o los cavernícolas la capturan, otro saurio de fuera de la escena salga a defenderla.
+
+### Sospechas
+Si tus comandos pueden acceder al visionado de la película durante la edición o en su estreno con una tirada de Humanidades verán que las tomas son tremendamente realistas. Las marionetas de otras películas no tienen primeros planos para que no se vean los cables, pero en "Titanes de tiempos pretéritos" hay planos muy cercanos. La idea de la película es que sirva de excusa si alguien dice haber visto un saurio, pero parece que quieran que los expertos en saurios pudieran darse cuenta de que son reales. 
+
 ### Marina Flowers, famosa actriz de Hollywood &#x2638;
 
 [![Retrato de Marina Flowers](./assests/images/marina.webp 'Shining by ArthurHenri')](https://www.deviantart.com/arthurhenri/art/Shining-768612780 'Shining by ArthurHenri')
@@ -1360,12 +1362,14 @@ Marina Flowers es la reina de las películas de Serie de B. En sus películas ha
 
 No es excéntrica, ni va de diva, simplemente tiene ramalazos raros y de repente coloca la comida del catering por colores, se despierta a media noche y riza el pelo de todas sus pelucas o desaparece para aparecer horas más tarde con lazos naranjas para toda la gente de la producción. si se le pregunta suele contar extrañas historias para justificar esas conductas. Por lo demás, es una bellísima persona.  
 
+\saltopagina
+
 * **Atributos:** Agilidad d6, Astucia d8, Espíritu d10, Fuerza d6, Vigor d6
-* **Habilidades:** Atletismo d8, Ciencias d6, Conocimientos Generales d6, Humanidades d6, Idioma Inglés d8, Idioma castellano d6, Interpretar d10, Notar d6, Pelear d6, Persuadir d8, Sigilo d6
+* **Habilidades:** Atletismo d8, Cabalgar d6, Ciencias d6, Conducir d6, Conocimientos Generales d6, Humanidades d6, Idioma Inglés d8, Idioma castellano d6, Interpretar d10, Notar d6, Pelear d6, Persuadir d8, Sigilo d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
 * **Ventajas:** Atractiva, Carismática, Muy Famosa
 * **Desventajas:** Rarezas (mayor). Cada día debe hacer algún tipo de actividad rara. Puede evitarla tirando ESP, pero cada día sin hacer rarezas tiene un -1 a tiradas de habilidades de ESP o AST, incluida la propia tirada de ESP para evitar hacer rarezas.
-* **Equipo:** Maquillaje, 
+* **Equipo:** Maquillaje, Kilt, Caballo
 
 **Sugerencia de interpretación:** Eres muy carismática y habladora, siempre interesándote por lo demás y ayudándoles en lo que sea. Te gusta flirtear, y hacerte querer. En general da gusto estar contigo hasta que tu cerebro hace clic y te dejas llevar por tu lado raro.
 
@@ -1653,7 +1657,10 @@ La idea de este soldado nazi es crear una persona que sea un tanque. Con tanto b
 * **Equipo:** Subfusil de asalto, peto de malla acorazado (+4 dureza), casco (+1 dureza cabeza)
 
 ### Infantería nazi con lanzallamas
-Este soldado nazi está especializado en el uso de lanzallamas como arma de combate. Su tremenda capacidad de destrucción se compensa con las altas posibilidades que el lanzallamas falle y explote.
+
+[![Retrato de nazi con un lanzallamas](./assests/images/lanzallamas.jpg 'German soldier with Flammenwerfer 41')](https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_101I-299-1808-15A,_Nordfrankreich,_Soldat_mit_Flammenwerfer.jpg 'German soldier with Flammenwerfer 41')
+
+Este soldado nazi está especializado en el uso de lanzallamas como arma de combate. Con esta desbastadora arma se puede incinerar a un grupo de enemigos en segundos e incendiar vehículos enemigos. Pueden hacer grandes quemaduras en los de gran tamaño que son más fáciles de acertar. Su tremenda capacidad de destrucción se compensa con las altas posibilidades que el lanzallamas falle y su portador muera envuelto de fuego de queroseno.
 
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d4, Fuerza d8, Vigor d8
 * **Habilidades:** Atletismo d4, Conocimientos Generales d6, Disparar d8, Idioma materno d6, Pelear d4, Notar d4, Intimidar d6
@@ -1665,13 +1672,12 @@ Este soldado nazi está especializado en el uso de lanzallamas como arma de comb
 ### Menestral/a
 Estamos hablando de personas que tiene un oficio manual; desde la herrera del pueblo o el alfarero, hasta los tejedores o los albañiles y carpinteros. Son gente que sabe mucho de su trabajo, pero poco más. Hacen un buen trabajo, cobran por ello y tratan de sobrevivir. Puedes gastar un par de puntos de habilidad en especializarles.
 
+\saltopagina
+
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d4, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d4, Ciencias d4, Conocimientos Generales d6, Idioma materno d6, Notar d4, Pelear d4, Reparar d8, Sigilo d4
 * **Paso:** 6; **Parada:** 4; **Dureza:** 5
 * **Ventajas:** Elige 1 o más: Mr. Arreglalotodo, Hombre de recursos
-
-\saltopagina
-
 * **Desventajas:** Elige 1 o más: Avaricioso (Mayor), Feo (Menor), Habito (Mayor, Alcoholismo), Pobreza (Menor)
 * **Equipo:** Cuchillo o una herramienta de su oficio (FUE+d4)
 
@@ -1695,10 +1701,10 @@ Estamos hablando desde cargos oficiales como alcalde o la alcaldesa a las person
 * **Ventajas:** Elige 1 o más: Alcurnia, Callejear, Responsable, Rico
 * **Equipo:** Cuchillo (FUE+d4) y objetos de burócrata como papel, pluma estilográfica o sellos oficiales
 
+\saltopagina
+
 ### Artista
 Bailarines y bailarinas, actores y actrices, intérpretes musicales de cualquier tipo, comediantes, ...
-
-\saltopagina
 
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d8, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d6, Conocimientos Generales d6, Humanidades d6, Idioma materno d8, Interpretación d8, Notar d6, Persuadir d6, Sigilo d4, Sigilo d4
