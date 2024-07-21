@@ -155,7 +155,7 @@ Mapa de la isla de Skye
 
 1. Castillo Dunvegan
 2. Hospital
-3. Taller de Weyland
+3. Taller de Wayland
 4. Zona de embarque y fondeo del "Mary Anning"
 5. Pieza de artillería antiaérea
 
@@ -202,8 +202,8 @@ IM ha dejado cerca, pero no en el propio castillo artillería anti-área, pero n
 
 \saltopagina
 
-#### La forja de Weyland
-Este taller y forja está dirigido por Weyland (su mote en la forja), un herrero/ingeniero que la Fundación enroló para hacer todos los artilugios y piezas de metal que necesitan en la isla, desde rejas o cadenas o bardas y escudos.
+#### La forja de Wayland
+Este taller y forja está dirigido por Wayland (su mote en la forja), un herrero/ingeniero que la Fundación enroló para hacer todos los artilugios y piezas de metal que necesitan en la isla, desde rejas o cadenas o bardas y escudos.
 
 El taller está construido en una vieja forja, pero las instalaciones están totalmente modernizadas, hornos y equipamiento eléctrico y capacidad de trabajar con todo tipo de materiales desde acero hasta cerámica, baquelita o titanio.
 
@@ -1242,18 +1242,41 @@ xxx
 
 ## ¿Quién es Marion Fairfax?
 ```
-En 1924 en Hollywood una guionista/actriz llamada Marion Fairfax intentaba vender un guion de cine que era casi calcado a la expedición de Challenger. La Fundación Roxton compro los derechos e hizo desaparecer el manuscrito.
+En 1924 en Hollywood una guionista/actriz llamada Marion Fairfax intentaba vender un guion de cine que era casi calcado a la expedición de Challenger. La Fundación Roxton compró los derechos cinematográficos a través de una empresa pantalla e hizo desaparecer el manuscrito del guión.
 ```
 
 [![Retrato de Marion Fairfax](./assests/images/marion-fairfax.jpg 'American screenwriter Marion Fairfax, page 24 of the October 1921 Photoplay.')](https://es.wikipedia.org/wiki/Marion_Fairfax#/media/Archivo:Marion_Fairfax.jpg 'American screenwriter Marion Fairfax, page 24 of the October 1921 Photoplay.')
 
-Hoy esa guionista en ciernes, es una famosa escritora de ciencia ficción que está de visita en Londres para promocionar su libro. La Fundación quiere aprovechar y averiguar cómo su guion era tan acertado. 
+Hoy esa guionista en ciernes, es una famosa escritora de ciencia ficción que está de visita en Londres para promocionar su libro. La Fundación quiere aprovechar y averiguar cómo su guion era tan acertado. Si hubo en su momento una filtración es importante saberlo y solucionarla.
 
-Se va a hospedar durante 4 noches en el "Savoy" y se dedicará a firmar sus obras y hacer lecturas en diferentes librerías de Londres. También tiene una comida con otras célebres escritoras como Agatha Christie. El quinto día primera volverá a Nueva York en barco. 
+Se va a hospedar durante 4 noches en el "Savoy", uno de los hoteles más elegantes y caros de Londres. Como curiosidad la entrada del "Savoy" en el único lugar de toda Inglaterra donde se circula por la derecha. 
+
+Se dedicará a firmar sus obras y hacer lecturas en 4 librerías de Londres (Foyles, Daunt Books, Hatchards y por último los almacenes Liberty). También tiene el último día una cena con otras célebres escritoras como Agatha Christie. El quinto día, a primera hora, volverá a Nueva York en barco. 
+
+### Intentos fallidos
+Pueden intentar acercarse a Marion en el "Savoy" o en una de las librerías. Pero estos intentos deberían fallar todas. Algunas opciones:
+
+* Hay tal cantidad de fans esperando hablar con su autora preferida que es imposible acercarse. Si se ponen violentos los fans se volverán locos y habrá una turba de fans enloquecidos.
+
+\saltopagina
+
+* La seguridad de la librería o del "Savoy" cree que los comandos son sospechosos y los expulsará del local.
+* Cuando consigan acercarse a Marion habrá una alarma de incendio o incluso un aviso de bombardeo y evacuarán el local.
+* Al estar cerca de ella, estará indispuesta y tendrá que ir al baño y ya no volverá. El agua y la comida inglesa es demasiado para su estómago americano.
+
+Si se lo trabajan bien puedes darles algunos benis, pero lo divertido es que fracasen e incitarles a cada vez llevar a cabo planes más locos, como disfrazarse de fans, colarse como camareros o infiltrase en plan ninja en el hotel.
+
+### Cena de escritoras
+La última oportunidad será una comida de escritoras famosas como Agatha Christie, Virginia Woolf, Pamela Lyndon Travers (autora de Mary Poppins). a esta altura y con todos sus planes anteriores fallando deberían buscar un plan realmente loco. Si no les ves animados, recibirán un telegrama de Lady Roxton metiéndoles presión.
 
 Marion siempre va acompañada de su editora, Alice Gerald, que no se separa de ella nunca. Así que el primer paso será deshacerse de Alice para poder acercarse a Marion.
 
 xxx
+
+### El secreto de Marion
+xxx
+
+\saltopagina
 
 ### Marion Fairfax &#x2638;
 
@@ -1262,10 +1285,8 @@ xxx
 * **Paso:** 6; **Parada:** 4; **Dureza:** 5
 * **Ventajas:** Famosa
 * **Desventajas:** Curiosa
-
-\saltopagina
-
 * **Equipo:** Bolso grande lleno papeles para tonar notas, cámara de fotos, algún libro de teoría del cine
+
 **Sugerencia de interpretación:** Marion es un amor de persona, simpática, agradable y siempre sonriente. Se desvive por sus fans, firma libros hasta tener calambres y siempre tiene tiempo para hablar con ellos, también contesta todas sus cartas. No les puede negar nada.
 
 \saltopagina
@@ -1450,20 +1471,28 @@ Como buena irlandesa es risueña y alegre con una tonada siempre en los labios y
 
 \saltopagina
 
-### Weyland, armero e ingeniero &#x2638;
-xxx
+### Wayland, armero e ingeniero &#x2638;
+[![Primer plano de Wayland](./assests/images/wayland.jpg 'Title: NYA (National Youth Administration) work center, Brooklyn, New York. Turret-lathe workers, Negro and white, who are receiving training in machine shop practice, carrying out an operation on a turret lathe Creator(s): Henle, Fritz, photographer')](https://picryl.com/media/turret-lathe-workers-8d36007v-f58c5b 'Title: NYA (National Youth Administration) work center, Brooklyn, New York. Turret-lathe workers, Negro and white, who are receiving training in machine shop practice, carrying out an operation on a turret lathe Creator(s): Henle, Fritz, photographer')
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
-* **Ventajas:** Soldado, xxx
+Este joven jamaicano es un genio de la mecánica. Parece que las máquinas obedecieran sus órdenes y que hablara con ellas. Puede reparar lo que sea y en tiempo récord y si le das el equipo adecuado puedes hacerte lo que necesitas. Wayland es autodidacta, nunca ha ido a la universidad o instituto profesional, todo lo ha aprendido de pasar horas en el taller y leyendo libros de mecánica, electrónica, etc.
+
+Wayland no es su nombre verdadero, fue el mote que le pusieron en la Fundación al ver sus asombrosas capacidades con herrero e ingeniero. Su auténtico nombre es Marcus Tosh.
+
+La Fundación le reclutó, cuando el "Mary Anning" tuvo que hacer reparaciones en Jamaica tras una terrible tormenta. Resucito de entre los muertos el motor del barco y consiguió mejorar su rendimiento un 5%.  
+
+* **Atributos:** Agilidad d6, Astucia d10, Espíritu d8, Fuerza d8, Vigor d10
+* **Habilidades:** Atletismo d6, Ciencias d8, Conocimientos Generales d6, Disparar d6, Idioma Inglés d8, Idioma Español d4, interpretar d6, Notar d8, Pelear d6, Persuadir d4, Reparar d12, Sigilo d6
+* **Paso:** 6; **Parada:** 5; **Dureza:** 7
+* **Ventajas:** McGuiver, Mr. Arreglalotodo
 * **Desventajas:** xxx
-* **Equipo:** xxx
+* **Equipo:** Herramientas de buena calidad, Mandil de cuero de herrero (+1 pecho y piernas), Soplete de acetileno
 
-**Sugerencia de interpretación:** xxx
+**Sugerencia de interpretación:** Siempre estás alegre, canturreando las canciones que ponen en tu radio, la cual nunca apagas. Te entusiasman los nuevos retos y estás deseoso de que alguien aparezca por tu taller con algún reto que ponga a prueba tus capacidades.  
 
 ### General Eugene Linton, director de la IM y enlace con el alto mando &#x2638;
 xxx
+
+\saltopagina
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Notar d4, Persuadir d4, Sigilo d4
@@ -1473,8 +1502,6 @@ xxx
 * **Equipo:** xxx
 
 **Sugerencia de interpretación:** xxx
-
-\saltopagina
 
 ### Teniente Horace Chambers, mano ejecutora de la IM y el General Linton &#x2638;
 xxx
@@ -1517,7 +1544,10 @@ xxx
 **Sugerencia de interpretación:** xxx
 
 ###  Artur Eckart, científico loco nazi &#x2638;
+[![Primer plano de Wayland](./assests/images/eckart.jpg 'Geoffrey N. Pyke by State Library Victoria Collections')](https://www.flickr.com/photos/statelibraryofvictoria_collections/ 'Geoffrey N. Pyke by State Library Victoria Collections')
 xxx
+
+\saltopagina
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Notar d4, Persuadir d4, Sigilo d4
@@ -1528,9 +1558,11 @@ xxx
 
 **Sugerencia de interpretación:** xxx
 
-\saltopagina
-
 ###  Irma Bormann, espía de las SS &#x2638;
+[![Retrato de Irma Bormann](./assests/images/bormann.jpg 'Studio portrait photo of Veronica Lake taken for promotional use.')](https://es.wikipedia.org/wiki/Veronica_Lake#/media/Archivo:Veronica_Lake_still.jpg 'Studio portrait photo of Veronica Lake taken for promotional use.')
+
+Irma es la _femme fatale_ por excelencia, seductora y misteriosa, pero también sádica y mortal. Nadie puede escapar de sus encantos. 
+
 xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
