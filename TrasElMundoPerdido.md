@@ -957,10 +957,25 @@ A partir de ahí, Lady Roxton los conducirá por los diferentes hábitats mostr�
 Si algún comando se baja del jeep y se acerca a Lady Roxton, el carnívoro más cercano se acercará a olerlo. Debería hacer una tirada de miedo cuando se le acerque a olisquearle y note su caliente aliento. Si falla la tirada de miedo igual hasta se mea encima.  
 
 ## Entrenamiento
-xxx
+A partir de este momento empezarán el entrenamiento con los diferentes dinosaurios que pueden durar unas semanas. El objetivo de esta parte es que tus comandos conozcan a los saurios, sus fortalezas y sus debilidades y puedas ver con que dinosaurio tienen más afinidad. Tendrán diferentes prácticas.
 
-El objetivo de esta parte es que tus comandos conozcan a los saurios, sus fortalezas y sus debilidades y puedas ver con que dinosaurio tienen más afinidad.
- 
+\saltopagina
+
+* **Vuelo con los pteranodones.** Harán prácticas de vuelo, el pteranodon deberá recogerlos del suelo u llevarlos lejos. El pteranodon y el humano deberán pasar una tirada de Atletismo para dejarse atrapar y para atraparlo. El pteranodon podrá llevarlo bastante lejos hasta que unos cientos de metros más allá. Cuantos más avances consigan en las tiradas más lejos les llevará. Si falla el pteranodon no le agarrará y si falla el comando se caerá (2d6 de daño de caída). También les enseñarán a darles órdenes básicas de sobrevolar una zona y volver.
+* Podrán hacer pruebas de **monta con estegosaurios e iguanodones** con Cabalgar. Puedes, si no se les ocurre a tus comandos, organizar una carrera. También podrían hacer prácticas de tiro desde sus monturas (recuerda el -2 por disparar sobre una plataforma inestable).
+* Prácticas de **submarinismo con los ictiosaurios y plesiosaurios**. Serán ejercicios de inmersión y natación con ellos (tiradas de atletismo de saurio y humano). También podrán lanzarles objetos y que los recuperen del fondo del mar (tiradas de Notar para buscar el objeto y Atletismo para nadar rápido a recogerlo). 
+* Los entrenamientos con los **carnívoros serán unas pruebas de combate**. Deberán derribar a 5 maniquíes de diferentes materiales, cada uno más resistente al anterior, paja (consistencia 4), madera (6), madera con arpillera (8), madera con refuerzos metálicos (10) y acero (12). Los jinetes pueden apoyar a su montura en combate pasando una tirada de Cabalgar e indicarle la mejor posición o forma de atacar.
+
+Puedes inventarte otros ejercicios, si ves que tu mesa se entretiene con estos mini-juegos. Aparte de trabajar con ellos aprenderán a cuidarlos, alimentarlos y entenderlos, de forma en una semana tendrán un +1 todas las tiradas relacionadas con los saurios que no sean de combate, como curarlos, entender sus señales o reacciones, etc.
+
+### Justa con alosaurios
+Las justas con alosaurio pueden ser un divertido deporte entre comandos para resolver sus diferencias. Cada jinete puede ir montado en un alosaurio con unas protecciones (+3 de dureza) y una lanza de caballería (FUE+d8) diseñadas por Wayland para romperse fácilmente.
+
+1. Cuando dos jinetes de saurios se enfrentan, se sacan cartas de iniciativa. El que saca la carta más alta va primero, si el valor de la carta es igual o hay una diferencia de 1, van al mismo tiempo.
+2. Cuando le toca atacar debe hacer un ataque con su habilidad Pelear. Recuerda que tienen un -2 por atacar montados. La montura debe hacer una tirada de Atletismo, si la pasa dará un +2 al daño por la carga y un +4 si consigue dos avances. 
+3. Si el atacante impacta en su objetivo y consigue dejarlo aturdido o hacerle una herida, el defensor deberá hacer una tirada de Cabalgar para evitar caerse.
+4. La justa son 3 lances. Si el jinete impacta en su objetivo y rompe la lanza (deja aturdido o hace herida) gana 1 punto. Si derriba su contrincante gana 3 puntos. Si alguno de los jinetes no puede terminar los 3 lances (por ejemplo por heridas) pierde la justa. 
+
 \saltopagina
 
 ### Compañeros para siempre
@@ -982,6 +997,21 @@ xxx
 
 ### Embarcando en el "Mary Anning"
 xxx
+
+\saltopagina
+
+### La antena
+```
+Los alemanes han destruido las antenas que permitían escuchar la BBC en la isla de Jersey. Tus comandos tienen órdenes de montar un nuevo tipo de repetidor de señal más pequeña y potente en una de las cimas de la isla.
+```
+Devolver la emisión de la BBC en las islas del canal es un golpe de efecto. Por un lado sube la moral de la población y deja en ridículo a los nazis a quienes se les ha colado efectivos ingleses hasta la cocina.
+
+La IM ha encontrado una pequeña colina alejada de los núcleos urbanos. Con los saurios podrán moverse en sigilo por la noche cargando con la nueva antena, que es más pequeña, pero aun así pesa casi tonelada y media. La batería no debería durar más de un día, pero es suficiente para su campaña de propaganda.
+
+xxx
+
+### Algo no suena bien
+Si tus comandos no se dan cuentan y lo arreglan, estarán dejando huellas de los estegosaurios o iguanodones en los terrenos de la isla. Dándole vueltas a todo esto debería ser sospechoso que a la IM no haya visto el problema de las huellas. Todavía no tienen que sospecharlo ahora, pero con el tiempo podrán darse cuenta de que la IM quiere que los nazis encuentren las huellas y las estudien.
 
 ***
 
@@ -1556,7 +1586,7 @@ xxx
 * **Desventajas:** xxx
 * **Equipo:** xxx
 
-**Sugerencia de interpretación:** xxx
+**Sugerencia de interpretación:** Tu locura esta al nivel de tu genialidad científica, así que estás muy muy loco. Gritas y susurras en la misma frase y hablas contigo mismo. Te preguntas y te respondes con diferentes voces incluso discutes a voces contigo mismo. Y de repente vuelves a la normalidad durante unos segundos pareciendo totalmente normal.
 
 ###  Irma Bormann, espía de las SS &#x2638;
 [![Retrato de Irma Bormann](./assests/images/bormann.jpg 'Studio portrait photo of Veronica Lake taken for promotional use.')](https://es.wikipedia.org/wiki/Veronica_Lake#/media/Archivo:Veronica_Lake_still.jpg 'Studio portrait photo of Veronica Lake taken for promotional use.')

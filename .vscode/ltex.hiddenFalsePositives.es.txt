@@ -3,3 +3,4 @@
 {"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\Q¿Puedo hacer con esta ambientación lo quiera?\nxxx\\E$"}
 {"rule":"AGREEMENT_DET_NOUN","sentence":"^\\QTripulante del Mary Anning\nxxx\\E$"}
 {"rule":"TODO_EL","sentence":"^\\QAprovecha a jugar un par de escenas haciendo todos el mamarracho.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QSi alguno de los jinetes no puede terminar los 3 lances (por ejemplo por heridas) pierde la justa.\\E$"}
