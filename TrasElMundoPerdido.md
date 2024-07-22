@@ -976,8 +976,9 @@ Las justas con alosaurios pueden ser un divertido deporte entre comandos para re
 
 1. Cuando dos jinetes de saurios se enfrentan, se sacan cartas de iniciativa. El que saca la carta más alta va primero, si el valor de la carta es igual o hay una diferencia de 1, van al mismo tiempo.
 2. Cuando le toca atacar debe hacer un ataque con su habilidad Pelear. Recuerda que tienen un -2 por atacar montados. La montura debe hacer una tirada de Atletismo, si la pasa dará un +2 al daño por la carga y un +4 si consigue dos avances. 
-3. Si el atacante impacta en su objetivo y consigue dejarlo aturdido o hacerle una herida, el defensor deberá hacer una tirada de Cabalgar para evitar caerse.
-4. La justa son 3 lances. Si el jinete impacta en su objetivo y rompe la lanza (deja aturdido o hace herida) gana 1 punto. Si derriba su contrincante gana 3 puntos. Si alguno de los jinetes no puede terminar los 3 lances (por ejemplo por heridas) pierde la justa. 
+3. Si el atacante impacta en su objetivo y consigue dejarlo aturdido o hacerle una herida, el defensor deberá hacer una tirada de Cabalgar para evitar caerse (recuerda aplicar los penalizadores por herida a esa tirada).
+4. La justa son 3 lances. Si el jinete impacta en su objetivo y rompe la lanza (deja aturdido o hace herida al contrincante) gana 1 punto. Si derriba su contrincante gana 3 puntos. Si alguno de los jinetes no puede terminar los 3 lances (por ejemplo por heridas) pierde la justa. 
+5. En caso de empate a punto hay un 4º lance o los que sean necesarios.
 
 \saltopagina
 
