@@ -23,10 +23,10 @@
 
 # Por hacer de la versión 0.5
 * Parte 1: La isla de Skye (6)
-  * Entrenamiento
   * Dinosaurios a la fuga
   * Primera misión
-  * Embarcando en el "Mary Anning"
+    * Embarcando en el "Mary Anning"
+    * La antena
 * Relatos salvajes
 
 # Por hacer de la versión 0.4
@@ -43,6 +43,8 @@
 # Changelog
 
 ## Versión 0.4.2 En desarrollo
+* Terminada la parte de "Reclutamiento" de "Parte 1: La isla de Skye"
+* Terminada la parte de "Entrenamiento de "Parte 1: La isla de Skye"
 
 ## Versión 0.4.1 16/07/2024
 * Terminada tabla de dinosaurios como vehículos

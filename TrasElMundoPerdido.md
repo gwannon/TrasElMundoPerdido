@@ -961,15 +961,18 @@ A partir de este momento empezarán el entrenamiento con los diferentes dinosaur
 
 \saltopagina
 
+Los entrenamientos estarán dirigidos por la propia Lady Roxton que disfrutará de sus golpes y caídas y humillando a los comandos (solo un poquito) cuando lo hagan mal.
+
 * **Vuelo con los pteranodones.** Harán prácticas de vuelo, el pteranodon deberá recogerlos del suelo u llevarlos lejos. El pteranodon y el humano deberán pasar una tirada de Atletismo para dejarse atrapar y para atraparlo. El pteranodon podrá llevarlo bastante lejos hasta que unos cientos de metros más allá. Cuantos más avances consigan en las tiradas más lejos les llevará. Si falla el pteranodon no le agarrará y si falla el comando se caerá (2d6 de daño de caída). También les enseñarán a darles órdenes básicas de sobrevolar una zona y volver.
 * Podrán hacer pruebas de **monta con estegosaurios e iguanodones** con Cabalgar. Puedes, si no se les ocurre a tus comandos, organizar una carrera. También podrían hacer prácticas de tiro desde sus monturas (recuerda el -2 por disparar sobre una plataforma inestable).
+* Puedes hacerles unos **dispositivos construidos por Wayland que simulen la defensa con la cola de los estegosaurios** y que se lleven unos cuantos porrazos. xxx
 * Prácticas de **submarinismo con los ictiosaurios y plesiosaurios**. Serán ejercicios de inmersión y natación con ellos (tiradas de atletismo de saurio y humano). También podrán lanzarles objetos y que los recuperen del fondo del mar (tiradas de Notar para buscar el objeto y Atletismo para nadar rápido a recogerlo). 
 * Los entrenamientos con los **carnívoros serán unas pruebas de combate**. Deberán derribar a 5 maniquíes de diferentes materiales, cada uno más resistente al anterior, paja (consistencia 4), madera (6), madera con arpillera (8), madera con refuerzos metálicos (10) y acero (12). Los jinetes pueden apoyar a su montura en combate pasando una tirada de Cabalgar e indicarle la mejor posición o forma de atacar.
 
 Puedes inventarte otros ejercicios, si ves que tu mesa se entretiene con estos mini-juegos. Aparte de trabajar con ellos aprenderán a cuidarlos, alimentarlos y entenderlos, de forma en una semana tendrán un +1 todas las tiradas relacionadas con los saurios que no sean de combate, como curarlos, entender sus señales o reacciones, etc.
 
 ### Justa con alosaurios
-Las justas con alosaurio pueden ser un divertido deporte entre comandos para resolver sus diferencias. Cada jinete puede ir montado en un alosaurio con unas protecciones (+3 de dureza) y una lanza de caballería (FUE+d8) diseñadas por Wayland para romperse fácilmente.
+Las justas con alosaurios pueden ser un divertido deporte entre comandos para resolver sus diferencias. Cada jinete puede ir montado en un alosaurio con unas protecciones (+3 de dureza) y una lanza de caballería (FUE+d8) diseñadas por Wayland para romperse fácilmente.
 
 1. Cuando dos jinetes de saurios se enfrentan, se sacan cartas de iniciativa. El que saca la carta más alta va primero, si el valor de la carta es igual o hay una diferencia de 1, van al mismo tiempo.
 2. Cuando le toca atacar debe hacer un ataque con su habilidad Pelear. Recuerda que tienen un -2 por atacar montados. La montura debe hacer una tirada de Atletismo, si la pasa dará un +2 al daño por la carga y un +4 si consigue dos avances. 
@@ -1173,10 +1176,12 @@ Desde IM han creado una especie de fundas de tela metálica con cables y antenas
 La antena podría usarse para disfrazar al estegosaurio de algún tipo de ser extraterrestre si lo apoyan con luces y humo. No se me ocurre en que situación les podría venir bien, pero la posibilidad existe.
 
 ### Flotadores para dinosaurios
-Los dinosaurios carnívoros terrestres no son buenos nadadores y la gente de IM han decidido crear unos flotadores en forma de rosca para alosaurios y megalosaurios. Estos flotadores con colores de camuflaje se colocan entre los brazos y las piernas. Cabe decir que se ven ridículos en el agua con los flotadores.
+Los dinosaurios carnívoros terrestres no son buenos nadadores y la gente de IM han decidido crear unos flotadores en forma de rosca para alosaurios y megalosaurios. Estos flotadores con colores de camuflaje se colocan entre los brazos y las piernas. Cabe decir que se ven ridículos en el agua con los flotadores. Lo malo es que hay que tira de ellos ya que no pueden nadar solo flotar.
 
-> Permiten nadar con sus extremidades traseras 1 casilla por turno. NO pueden hundirse a no ser que el flotador se rompa. 
-> Cuesta 5 turnos ponerlo y quitarlo y mientras los tengan puestos tienen un -2 a Intimidar.
+Para los herbívoros, que nadan algo mejor, tienen unos en forma de barra que se ajustan con cinchas a los lados y les permiten andar a los perrito con lo que son más autónomos en el agua.
+
+> A los herbívoros les permite nadar con sus extremidades 1 casilla por turno. Los carnívoros solo flotan. No pueden hundirse a no ser que el flotador se rompa. 
+> Cuesta 5 turnos ponerlo y otros 5 quitarlo y mientras los tengan puestos tienen un -2 a Intimidar.
 
 ### Ruidos de la selva
 En IM han metido en un mini-fonógrafo ruidos de la selva para que los dinosaurios se sientan como en casa en casos de estrés.
