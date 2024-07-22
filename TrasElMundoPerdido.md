@@ -976,11 +976,12 @@ Las justas con alosaurios pueden ser un divertido deporte entre comandos para re
 
 1. Cuando dos jinetes de saurios se enfrentan, se sacan cartas de iniciativa. El que saca la carta más alta va primero, si el valor de la carta es igual o hay una diferencia de 1, van al mismo tiempo.
 2. Cuando le toca atacar debe hacer un ataque con su habilidad Pelear. Recuerda que tienen un -2 por atacar montados. La montura debe hacer una tirada de Atletismo, si la pasa dará un +2 al daño por la carga y un +4 si consigue dos avances. 
+
+\saltopagina
+
 3. Si el atacante impacta en su objetivo y consigue dejarlo aturdido o hacerle una herida, el defensor deberá hacer una tirada de Cabalgar para evitar caerse (recuerda aplicar los penalizadores por herida a esa tirada).
 4. La justa son 3 lances. Si el jinete impacta en su objetivo y rompe la lanza (deja aturdido o hace herida al contrincante) gana 1 punto. Si derriba su contrincante gana 3 puntos. Si alguno de los jinetes no puede terminar los 3 lances (por ejemplo por heridas) pierde la justa. 
 5. En caso de empate a punto hay un 4º lance o los que sean necesarios.
-
-\saltopagina
 
 ### Compañeros para siempre
 Durante la fase de entrenamiento deberías formar las parejas de humano/saurio asignándoles la ventaja "Compañero dinosaurio" al saurio que veas que mejor conecta con tus comandos. 
@@ -993,25 +994,35 @@ Una manada variopinta de saurios ha escapado de la ciudad. Hay que captura y dev
 ```
 xxx
 
+\saltopagina
+
 ## Primera misión
 ```
 Los comandos y sus saurios tendrán su primera misión en la pequeña isla de Jersey, frente a la costa francesa.
 ```
-xxx
 
-### Embarcando en el "Mary Anning"
-xxx
+Lady Roxton reunirá a los comandos en su despacho. Van a salir a su primera misión de campo y es importante que lo haga bien para la continuidad del programa.
 
-\saltopagina
+Los alemanes han destruido las antenas que permitían escuchar la BBC en la isla de Jersey, muy cerca de la costa francesa en el canal de la Mancha. Tus comandos deben de montar un nuevo tipo de repetidor de señal más pequeña y potente en una de las cimas de la isla sin que los detecten los nazis.
 
-### La antena
-```
-Los alemanes han destruido las antenas que permitían escuchar la BBC en la isla de Jersey. Tus comandos tienen órdenes de montar un nuevo tipo de repetidor de señal más pequeña y potente en una de las cimas de la isla.
-```
 Devolver la emisión de la BBC en las islas del canal es un golpe de efecto. Por un lado sube la moral de la población y deja en ridículo a los nazis a quienes se les ha colado efectivos ingleses hasta la cocina.
 
 La IM ha encontrado una pequeña colina alejada de los núcleos urbanos. Con los saurios podrán moverse en sigilo por la noche cargando con la nueva antena, que es más pequeña, pero aun así pesa casi tonelada y media. La batería no debería durar más de un día, pero es suficiente para su campaña de propaganda.
 
+Tienen que recuperar las comunicaciones con la pequeña isla de Jersey. Deberán transportar una antena en una ubicación secreta de la isla e instalarla. Deberán llevar un par de estegosaurios para cargar con la antena y un saurio acuático para ayudarles a desembarcar en la isla. Pueden llevarse
+
+### Embarcando en el "Mary Anning"
+xxx
+
+### Infiltración
+xxx
+
+### Colocando la antena
+xxx
+
+\saltopagina
+
+### Escape de Jersey
 xxx
 
 ### Algo no suena bien
