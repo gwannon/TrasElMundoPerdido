@@ -1013,10 +1013,10 @@ Devolver la emisión de la BBC en las islas del canal es un golpe de efecto. Por
 
 La IM ha encontrado una pequeña colina alejada de los núcleos urbanos. Con los saurios podrán moverse en sigilo por la noche cargando con la nueva antena, que es más pequeña, pero aun así pesa casi tonelada y media. La batería no debería durar más de un día, pero es suficiente para su campaña de propaganda.
 
-Tienen que recuperar las comunicaciones con la pequeña isla de Jersey. Deberán transportar una antena en una ubicación secreta de la isla e instalarla. Deberán llevar un par de estegosaurios para cargar con la antena y un saurio acuático para ayudarles a desembarcar en la isla. Pueden llevarse
+Tienen que recuperar las comunicaciones con la pequeña isla de Jersey. Deberán transportar una antena en una ubicación secreta de la isla e instalarla. Deberán llevar un par de estegosaurios para cargar con la antena y un saurio acuático para ayudarles a desembarcar en la isla. Pueden llevarse otros dos saurios más y los suyo es que haya la mayor cantidad de compañeros saurios posibles.
 
 ### Embarcando en el "Mary Anning"
-xxx
+Esta será la primera vez que verán el "Mary Anning", el barco que será su hogar lejos de su hogar durante un par de semanas.
 
 ### Infiltración
 xxx
@@ -1053,7 +1053,7 @@ Enigma es una máquina electromagnética para cifrar y descifrar mensajes. Es us
 xxx
 
 #### Visita a Bletchley Park
-Mientras están de regreso en el "Mary Anning", recibirán órdenes de escoltar ellos mismos a Jocelyn y el engranaje hasta las instalaciones militares de Bletchley Park. 
+Mientras están de regreso en el "Mary Anning", recibirán órdenes de escoltar ellos mismos a Jocelyn y al engranaje hasta las instalaciones militares de Bletchley Park. 
 
 Branningan cree que lo mejor es desembarcar en Portsmouth, de ahí a Oxford y luego Bletchley Park. Tendrán que alquilar un vehículo. El "Mary Anning" con los dinosaurios seguirá por el mar de Irlanda hasta Skye.
 
