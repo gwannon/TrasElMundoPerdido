@@ -1016,7 +1016,7 @@ La IM ha encontrado una pequeña colina alejada de los núcleos urbanos. Con los
 Tienen que recuperar las comunicaciones con la pequeña isla de Jersey. Deberán transportar una antena en una ubicación secreta de la isla e instalarla. Deberán llevar un par de estegosaurios para cargar con la antena y un saurio acuático para ayudarles a desembarcar en la isla. Pueden llevarse otros dos saurios más y los suyo es que haya la mayor cantidad de compañeros saurios posibles.
 
 ### Embarcando en el "Mary Anning"
-Esta será la primera vez que verán el "Mary Anning", el barco que será su hogar lejos de su hogar durante un par de semanas.
+Esta será la primera vez que verán el "Mary Anning", el barco que será su hogar lejos de su hogar durante muchas semanas. xxx
 
 ### Infiltración
 xxx
