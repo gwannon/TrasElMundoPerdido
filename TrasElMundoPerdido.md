@@ -969,16 +969,19 @@ Los entrenamientos estarán dirigidos por la propia Lady Roxton que disfrutará 
 * Prácticas de **submarinismo con los ictiosaurios y plesiosaurios**. Serán ejercicios de inmersión y natación con ellos (tiradas de atletismo de saurio y humano). También podrán lanzarles objetos y que los recuperen del fondo del mar (tiradas de Notar para buscar el objeto y Atletismo para nadar rápido a recogerlo). 
 * Los entrenamientos con los **carnívoros serán unas pruebas de combate**. Deberán derribar a 5 maniquíes de diferentes materiales, cada uno más resistente al anterior, paja (consistencia 4), madera (6), madera con arpillera (8), madera con refuerzos metálicos (10) y acero (12). Los jinetes pueden apoyar a su montura en combate pasando una tirada de Cabalgar e indicarle la mejor posición o forma de atacar.
 
-Puedes inventarte otros ejercicios, si ves que tu mesa se entretiene con estos mini-juegos. Aparte de trabajar con ellos aprenderán a cuidarlos, alimentarlos y entenderlos, de forma en una semana tendrán un +1 todas las tiradas relacionadas con los saurios que no sean de combate, como curarlos, entender sus señales o reacciones, etc.
+Puedes inventarte otros ejercicios, si ves que tu mesa se entretiene con estos mini-juegos. 
+
+Aparte de trabajar con ellos aprenderán a cuidarlos, alimentarlos y entenderlos, de forma en una semana tendrán un +1 todas las tiradas relacionadas con los saurios que no sean de combate, como curarlos, entender sus señales o reacciones, etc. Puede aprovechar cada vez que van a un hábitat nuevo para contarles algo nuevo de los dinosaurios del lugar.
+
+También conocerán a Wayland. Puede que les toque montar una reja caída en el hábitat de los alosaurios o reparar un jeep al que un estegosaurio ha golpeado con su cola, etc. 
 
 ### Justa con alosaurios
 Las justas con alosaurios pueden ser un divertido deporte entre comandos para resolver sus diferencias. Cada jinete puede ir montado en un alosaurio con unas protecciones (+3 de dureza) y una lanza de caballería (FUE+d8) diseñadas por Wayland para romperse fácilmente.
 
-1. Cuando dos jinetes de saurios se enfrentan, se sacan cartas de iniciativa. El que saca la carta más alta va primero, si el valor de la carta es igual o hay una diferencia de 1, van al mismo tiempo.
-2. Cuando le toca atacar debe hacer un ataque con su habilidad Pelear. Recuerda que tienen un -2 por atacar montados. La montura debe hacer una tirada de Atletismo, si la pasa dará un +2 al daño por la carga y un +4 si consigue dos avances. 
-
 \saltopagina
 
+1. Cuando dos jinetes de saurios se enfrentan, se sacan cartas de iniciativa. El que saca la carta más alta va primero, si el valor de la carta es igual o hay una diferencia de 1, van al mismo tiempo.
+2. Cuando le toca atacar debe hacer un ataque con su habilidad Pelear. Recuerda que tienen un -2 por atacar montados. La montura debe hacer una tirada de Atletismo, si la pasa dará un +2 al daño por la carga y un +4 si consigue dos avances. 
 3. Si el atacante impacta en su objetivo y consigue dejarlo aturdido o hacerle una herida, el defensor deberá hacer una tirada de Cabalgar para evitar caerse (recuerda aplicar los penalizadores por herida a esa tirada).
 4. La justa son 3 lances. Si el jinete impacta en su objetivo y rompe la lanza (deja aturdido o hace herida al contrincante) gana 1 punto. Si derriba su contrincante gana 3 puntos. Si alguno de los jinetes no puede terminar los 3 lances (por ejemplo por heridas) pierde la justa. 
 5. En caso de empate a punto hay un 4º lance o los que sean necesarios.
@@ -987,18 +990,25 @@ Las justas con alosaurios pueden ser un divertido deporte entre comandos para re
 ```
 Una manada variopinta de saurios ha escapado de la ciudad. Hay que captura y devolverla antes de lleguen a grandes ciudades como Inverness, Edimburgo o Glasgow.
 ```
+
+Lady Roxton llega en su jeep a donde estén y bastante nerviosa les dirá que un iguanodonte joven ha escapado del hábitat de los herbívoros. No debería poder salir de la isla, pero hay que cazarlo antes de que llegue a algún núcleo urbano. Lady Roxton les deja su jeep y cerca habrá una moto, un caballo u otro jeep.
+
+A partir de aquí saca el mapa del la isla y déjales que traten de establecer un la posible localización del iguanodonte. Se generoso con los benis si tienen buenas ideas porque los necesitarán para devolver al saurio al redil.
+
 xxx
 
 ### Compañeros para siempre
 Durante la fase de entrenamiento y la fuga de dinosaurios deberías formar las parejas de humano/saurio asignándole la ventaja "Compañero dinosaurio" al saurio que veas que mejor conecta con cada comando.
 
+\saltopagina
+
 Esta escena debería ser especial para cada comando, así que no la fuerces demasiado, y si ves que no se da la situación puedes dejarla para su primera misión en la isla de Jersey. Veamos algunos ejemplos.
 
 * Quizás el comando le da parte de su comida al saurio y este ya no se separe de él.
 * Puede que al saurio lo hayan expulsado de la manada y al acercarse al comando y mostrarle cariño se convierta en su manada.
+* Yendo a las historias clásicas, puede que el comando le saque una espina que tenía en una pata y que provocaba mucho dolor. Al quitársela, se granjea la amistad del saurio. 
+* Seguramente un alosaurio y un megalosaurio se sentirán inclinados a seguir a un comando que ni se inmute cuando estos gigantes depredadores se les acerque a la carrera rugiendo.
 * xxx
-
-\saltopagina
 
 ## Primera misión
 ```
@@ -1015,6 +1025,8 @@ La IM ha encontrado una pequeña colina alejada de los núcleos urbanos. Con los
 
 Tienen que recuperar las comunicaciones con la pequeña isla de Jersey. Deberán transportar una antena en una ubicación secreta de la isla e instalarla. Deberán llevar un par de estegosaurios para cargar con la antena y un saurio acuático para ayudarles a desembarcar en la isla. Pueden llevarse otros dos saurios más y los suyo es que haya la mayor cantidad de compañeros saurios posibles.
 
+\saltopagina
+
 ### Embarcando en el "Mary Anning"
 Esta será la primera vez que verán el "Mary Anning", el barco que será su hogar lejos de su hogar durante muchas semanas. xxx
 
@@ -1023,8 +1035,6 @@ xxx
 
 ### Colocando la antena
 xxx
-
-\saltopagina
 
 ### Escape de Jersey
 xxx
