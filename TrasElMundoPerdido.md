@@ -983,16 +983,20 @@ Las justas con alosaurios pueden ser un divertido deporte entre comandos para re
 4. La justa son 3 lances. Si el jinete impacta en su objetivo y rompe la lanza (deja aturdido o hace herida al contrincante) gana 1 punto. Si derriba su contrincante gana 3 puntos. Si alguno de los jinetes no puede terminar los 3 lances (por ejemplo por heridas) pierde la justa. 
 5. En caso de empate a punto hay un 4º lance o los que sean necesarios.
 
-### Compañeros para siempre
-Durante la fase de entrenamiento deberías formar las parejas de humano/saurio asignándoles la ventaja "Compañero dinosaurio" al saurio que veas que mejor conecta con tus comandos. 
-
-xxx
-
 ## Dinosaurios a la fuga
 ```
 Una manada variopinta de saurios ha escapado de la ciudad. Hay que captura y devolverla antes de lleguen a grandes ciudades como Inverness, Edimburgo o Glasgow.
 ```
 xxx
+
+### Compañeros para siempre
+Durante la fase de entrenamiento y la fuga de dinosaurios deberías formar las parejas de humano/saurio asignándole la ventaja "Compañero dinosaurio" al saurio que veas que mejor conecta con cada comando.
+
+Esta escena debería ser especial para cada comando, así que no la fuerces demasiado, y si ves que no se da la situación puedes dejarla para su primera misión en la isla de Jersey. Veamos algunos ejemplos.
+
+* Quizás el comando le da parte de su comida al saurio y este ya no se separe de él.
+* Puede que al saurio lo hayan expulsado de la manada y al acercarse al comando y mostrarle cariño se convierta en su manada.
+* xxx
 
 \saltopagina
 
@@ -1188,9 +1192,9 @@ Desde IM han creado una especie de fundas de tela metálica con cables y antenas
 La antena podría usarse para disfrazar al estegosaurio de algún tipo de ser extraterrestre si lo apoyan con luces y humo. No se me ocurre en que situación les podría venir bien, pero la posibilidad existe.
 
 ### Flotadores para dinosaurios
-Los dinosaurios carnívoros terrestres no son buenos nadadores y la gente de IM han decidido crear unos flotadores en forma de rosca para alosaurios y megalosaurios. Estos flotadores con colores de camuflaje se colocan entre los brazos y las piernas. Cabe decir que se ven ridículos en el agua con los flotadores. Lo malo es que hay que tira de ellos ya que no pueden nadar solo flotar.
+Los dinosaurios carnívoros terrestres no son buenos nadadores y la gente de IM han decidido crear unos flotadores en forma de rosca para alosaurios y megalosaurios. Estos flotadores con colores de camuflaje se colocan entre los brazos y las piernas. Cabe decir que se ven ridículos en el agua con los flotadores. Lo malo es que hay que tira de ellos, ya que no pueden nadar solo flotar.
 
-Para los herbívoros, que nadan algo mejor, tienen unos en forma de barra que se ajustan con cinchas a los lados y les permiten andar a los perrito con lo que son más autónomos en el agua.
+Para los herbívoros, que nadan algo mejor, tienen unos en forma de barra que se ajustan con cinchas a los lados y les permiten andar a lo perrito con lo que son más autónomos en el agua.
 
 > A los herbívoros les permite nadar con sus extremidades 1 casilla por turno. Los carnívoros solo flotan. No pueden hundirse a no ser que el flotador se rompa. 
 > Cuesta 5 turnos ponerlo y otros 5 quitarlo y mientras los tengan puestos tienen un -2 a Intimidar.
