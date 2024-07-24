@@ -991,16 +991,20 @@ Las justas con alosaurios pueden ser un divertido deporte entre comandos para re
 Una manada variopinta de saurios ha escapado de la ciudad. Hay que captura y devolverla antes de lleguen a grandes ciudades como Inverness, Edimburgo o Glasgow.
 ```
 
-Lady Roxton llega en su jeep a donde estén y bastante nerviosa les dirá que un iguanodonte joven ha escapado del hábitat de los herbívoros. No debería poder salir de la isla, pero hay que cazarlo antes de que llegue a algún núcleo urbano. Lady Roxton les deja su jeep y cerca habrá una moto, un caballo u otro jeep.
+Lady Roxton llega en su jeep a donde estén y bastante nerviosa les dirá que un iguanodonte joven ha escapado del hábitat de los herbívoros. No debería poder salir de la isla, pero hay que cazarlo antes de que llegue a algún núcleo urbano. Lady Roxton les deja su jeep y cerca habrá una moto, un caballo u otro jeep, lo que veas más divertido. El jeep de Lady Roxton tiene una radio para comunicarse con ella en el castillo Dunvegan.
 
-A partir de aquí saca el mapa del la isla y déjales que traten de establecer un la posible localización del iguanodonte. Se generoso con los benis si tienen buenas ideas porque los necesitarán para devolver al saurio al redil.
+A partir de aquí saca el mapa del la isla y déjales que traten de establecer un la posible localización del iguanodonte. Sé generoso con los benis si tienen buenas ideas porque los necesitarán para devolver al saurio al redil.
 
-xxx
+A partir de ahí, que sigan su plan de búsqueda (con algunas tiradas de Notar y Conducir) hasta que localicen al iguanodonte, entonces empezará una persecución donde el iguanodonte tendrá 2 cartas de ventajas. xxx
+
+Si fallan en la persecución tendrán que volver a buscarlo, pero habrá un 20% de posibilidades de que lo haya visto alguien, si vuelven a fallar un 40% y así sucesivamente hasta que alguien lo vea. Entonces tendrán que interceptar al testigo (coge las estadísticas de un Menestral/a) y persuadirle sobornarle o intimidarle para que no diga nada.
+
+\saltopagina
+
+Si consiguen alcanzarle y hacerle una herida, se dejará caer y no se querrá mover, con lo que la persecución terminará. Tendrán que darse prisa para llevárselo porque están cerca de un camino y por la hora podría pasar algún campesino de vuelta del trabajo y seguramente se acercará a ayudar. xxx
 
 ### Compañeros para siempre
 Durante la fase de entrenamiento y la fuga de dinosaurios deberías formar las parejas de humano/saurio asignándole la ventaja "Compañero dinosaurio" al saurio que veas que mejor conecta con cada comando.
-
-\saltopagina
 
 Esta escena debería ser especial para cada comando, así que no la fuerces demasiado, y si ves que no se da la situación puedes dejarla para su primera misión en la isla de Jersey. Veamos algunos ejemplos.
 
@@ -1021,11 +1025,11 @@ Los alemanes han destruido las antenas que permitían escuchar la BBC en la isla
 
 Devolver la emisión de la BBC en las islas del canal es un golpe de efecto. Por un lado sube la moral de la población y deja en ridículo a los nazis a quienes se les ha colado efectivos ingleses hasta la cocina.
 
+\saltopagina
+
 La IM ha encontrado una pequeña colina alejada de los núcleos urbanos. Con los saurios podrán moverse en sigilo por la noche cargando con la nueva antena, que es más pequeña, pero aun así pesa casi tonelada y media. La batería no debería durar más de un día, pero es suficiente para su campaña de propaganda.
 
 Tienen que recuperar las comunicaciones con la pequeña isla de Jersey. Deberán transportar una antena en una ubicación secreta de la isla e instalarla. Deberán llevar un par de estegosaurios para cargar con la antena y un saurio acuático para ayudarles a desembarcar en la isla. Pueden llevarse otros dos saurios más y los suyo es que haya la mayor cantidad de compañeros saurios posibles.
-
-\saltopagina
 
 ### Embarcando en el "Mary Anning"
 Esta será la primera vez que verán el "Mary Anning", el barco que será su hogar lejos de su hogar durante muchas semanas. xxx
