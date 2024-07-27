@@ -23,10 +23,9 @@
 
 # Por hacer de la versión 0.5
 * Parte 1: La isla de Skye (6)
-  * Dinosaurios a la fuga
   * Primera misión
-    * Embarcando en el "Mary Anning"
-    * La antena
+    * Colocando la antena
+    * Escape de Jersey
 * Relatos salvajes
 
 # Por hacer de la versión 0.4

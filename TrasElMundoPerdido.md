@@ -942,12 +942,12 @@ Mientras se miran unos a otros en el remolque pueden presentarse y describirse. 
 
 Una ama de llaves les pedirá que les sigan y los repartirá por sus habitaciones. Las habitaciones son de 2 personas, así que trata de emparejarlos de forma que den juego y diversión. En media hora la comida estará lista.
 
-
 ### La comida con Lady Roxton
 Lady Roxton llegará la última al comedor, se presentará a los comandos y presentará la Fundación. Les dirá que están en una reserva de vida animal muy especial y que van a participar en un proyecto secreto de la IM. Puede que este proyecto ayude a acabar con la amenaza nazi.
 
 Evitará hablar de los saurios todavía. Lady Roxton es muy dada a la teatralidad y quiere presentarles a sus chicos de la forma apropiada. Responderá a las preguntas con vaguedades, van a hacer misiones secretas por todo el mundo luchando contra nazis, rescatarán gentes, harán misiones de espionaje, etc. todo bajo sus órdenes y las de la IM.
-xxx
+
+Cuando terminen la comida Lady Roxton les llevará con su jeep a ver las instalaciones. Ha montado una ruta para ver todos los hábitats con los estegosaurios como presentación y dejando los carnívoros terrestres como colofón final. Si son más de 4 comandos tendrán que poner un segundo jeep.
 
 ### ¡Mira! ¡Es un dinosaurio!
 Recuerdas la primera vez que ves un dinosaurio en Jurassic Park, así debería ser esta escena. Mientras Lady Roxton los lleva en un jeep por la tierra de la reserva, se desviara por un camino de cabras para alcanzar una colina. Desde arriba se encontrarán con una manada de estegosaurios pastando en una pradera cercana. Puedes poner incluso la [suite principal](https://www.youtube.com/watch?v=IL-pu2vhb88&t=60s).
@@ -956,16 +956,16 @@ A partir de ahí, Lady Roxton los conducirá por los diferentes hábitats mostr�
 
 Si algún comando se baja del jeep y se acerca a Lady Roxton, el carnívoro más cercano se acercará a olerlo. Debería hacer una tirada de miedo cuando se le acerque a olisquearle y note su caliente aliento. Si falla la tirada de miedo igual hasta se mea encima.  
 
+\saltopagina
+
 ## Entrenamiento
 A partir de este momento empezarán el entrenamiento con los diferentes dinosaurios que pueden durar unas semanas. El objetivo de esta parte es que tus comandos conozcan a los saurios, sus fortalezas y sus debilidades y puedas ver con que dinosaurio tienen más afinidad. Tendrán diferentes prácticas.
-
-\saltopagina
 
 Los entrenamientos estarán dirigidos por la propia Lady Roxton que disfrutará de sus golpes y caídas y humillando a los comandos (solo un poquito) cuando lo hagan mal.
 
 * **Vuelo con los pteranodones.** Harán prácticas de vuelo, el pteranodon deberá recogerlos del suelo u llevarlos lejos. El pteranodon y el humano deberán pasar una tirada de Atletismo para dejarse atrapar y para atraparlo. El pteranodon podrá llevarlo bastante lejos hasta que unos cientos de metros más allá. Cuantos más avances consigan en las tiradas más lejos les llevará. Si falla el pteranodon no le agarrará y si falla el comando se caerá (2d6 de daño de caída). También les enseñarán a darles órdenes básicas de sobrevolar una zona y volver.
 * Podrán hacer pruebas de **monta con estegosaurios e iguanodones** con Cabalgar. Puedes, si no se les ocurre a tus comandos, organizar una carrera. También podrían hacer prácticas de tiro desde sus monturas (recuerda el -2 por disparar sobre una plataforma inestable).
-* Puedes hacerles unos **dispositivos construidos por Wayland que simulen la defensa con la cola de los estegosaurios** y que se lleven unos cuantos porrazos. xxx
+* Puedes hacerles unos **dispositivos construidos por Wayland que simulen la defensa con la cola de los estegosaurios** y que se lleven unos cuantos porrazos. Deberían hacer tiradas enfrentadas de Atletismo o Pelear contra el Pelear del mecanismo (d8). Tendrán que superar 3 tiradas para atravesar la zona de coletazos. Si el dispositivo que da coletazos saca un avance roba una de las tiradas pasadas. En 
 * Prácticas de **submarinismo con los ictiosaurios y plesiosaurios**. Serán ejercicios de inmersión y natación con ellos (tiradas de atletismo de saurio y humano). También podrán lanzarles objetos y que los recuperen del fondo del mar (tiradas de Notar para buscar el objeto y Atletismo para nadar rápido a recogerlo). 
 * Los entrenamientos con los **carnívoros serán unas pruebas de combate**. Deberán derribar a 5 maniquíes de diferentes materiales, cada uno más resistente al anterior, paja (consistencia 4), madera (6), madera con arpillera (8), madera con refuerzos metálicos (10) y acero (12). Los jinetes pueden apoyar a su montura en combate pasando una tirada de Cabalgar e indicarle la mejor posición o forma de atacar.
 
@@ -973,15 +973,15 @@ Puedes inventarte otros ejercicios, si ves que tu mesa se entretiene con estos m
 
 Aparte de trabajar con ellos aprenderán a cuidarlos, alimentarlos y entenderlos, de forma en una semana tendrán un +1 todas las tiradas relacionadas con los saurios que no sean de combate, como curarlos, entender sus señales o reacciones, etc. Puede aprovechar cada vez que van a un hábitat nuevo para contarles algo nuevo de los dinosaurios del lugar.
 
-También conocerán a Wayland. Puede que les toque montar una reja caída en el hábitat de los alosaurios o reparar un jeep al que un estegosaurio ha golpeado con su cola, etc. 
-
-### Justa con alosaurios
-Las justas con alosaurios pueden ser un divertido deporte entre comandos para resolver sus diferencias. Cada jinete puede ir montado en un alosaurio con unas protecciones (+3 de dureza) y una lanza de caballería (FUE+d8) diseñadas por Wayland para romperse fácilmente.
-
 \saltopagina
 
+También conocerán a Wayland. Puede que les toque montar una reja caída en el hábitat de los alosaurios o reparar un jeep al que un estegosaurio ha golpeado con su cola, etc. 
+
+### Justa con dinosaurios
+Las justas con dinosaurios pueden ser un divertido deporte entre comandos para resolver sus diferencias. Cada jinete puede ir montado en un alosaurio con unas protecciones (+3 de dureza) y una lanza de caballería (FUE+d8) diseñadas por Wayland para romperse fácilmente.
+
 1. Cuando dos jinetes de saurios se enfrentan, se sacan cartas de iniciativa. El que saca la carta más alta va primero, si el valor de la carta es igual o hay una diferencia de 1, van al mismo tiempo.
-2. Cuando le toca atacar debe hacer un ataque con su habilidad Pelear. Recuerda que tienen un -2 por atacar montados. La montura debe hacer una tirada de Atletismo, si la pasa dará un +2 al daño por la carga y un +4 si consigue dos avances. 
+2. Cuando le toca atacar debe hacer un ataque con su habilidad Pelear. Recuerda que tienen un -2 por atacar montados. La montura debe hacer una tirada de Atletismo, si la pasa dará un +2 al daño por la carga y un +4 si consigue dos avances. Las monturas bípedas ganan +1 al daño porque tienen más velocidad y las cuadrúpedas +1 a la tirada de ataque por tener mayor estabilidad y menor velocidad. Recuerda que el iguanodonte puede ser bípedo o cuadrúpedo.
 3. Si el atacante impacta en su objetivo y consigue dejarlo aturdido o hacerle una herida, el defensor deberá hacer una tirada de Cabalgar para evitar caerse (recuerda aplicar los penalizadores por herida a esa tirada).
 4. La justa son 3 lances. Si el jinete impacta en su objetivo y rompe la lanza (deja aturdido o hace herida al contrincante) gana 1 punto. Si derriba su contrincante gana 3 puntos. Si alguno de los jinetes no puede terminar los 3 lances (por ejemplo por heridas) pierde la justa. 
 5. En caso de empate a punto hay un 4º lance o los que sean necesarios.
@@ -993,17 +993,24 @@ Una manada variopinta de saurios ha escapado de la ciudad. Hay que captura y dev
 
 Lady Roxton llega en su jeep a donde estén y bastante nerviosa les dirá que un iguanodonte joven ha escapado del hábitat de los herbívoros. No debería poder salir de la isla, pero hay que cazarlo antes de que llegue a algún núcleo urbano. Lady Roxton les deja su jeep y cerca habrá una moto, un caballo u otro jeep, lo que veas más divertido. El jeep de Lady Roxton tiene una radio para comunicarse con ella en el castillo Dunvegan.
 
+\saltopagina
+
 A partir de aquí saca el mapa del la isla y déjales que traten de establecer un la posible localización del iguanodonte. Sé generoso con los benis si tienen buenas ideas porque los necesitarán para devolver al saurio al redil.
 
-A partir de ahí, que sigan su plan de búsqueda (con algunas tiradas de Notar y Conducir) hasta que localicen al iguanodonte, entonces empezará una persecución donde el iguanodonte tendrá 2 cartas de ventajas. xxx
+A continuación, que sigan su plan de búsqueda (con algunas tiradas de Notar y Conducir) hasta que localicen al iguanodonte, entonces empezará una persecución donde el iguanodonte tendrá **2 cartas de ventajas**.
 
 Si fallan en la persecución tendrán que volver a buscarlo, pero habrá un 20% de posibilidades de que lo haya visto alguien, si vuelven a fallar un 40% y así sucesivamente hasta que alguien lo vea. Entonces tendrán que interceptar al testigo (coge las estadísticas de un Menestral/a) y persuadirle sobornarle o intimidarle para que no diga nada.
 
-\saltopagina
+Si consiguen alcanzarle y hacerle una herida, se dejará caer y no se querrá mover, con lo que la persecución terminará. Tendrán que darse prisa para llevárselo porque están cerca de un camino y por la hora podría pasar algún campesino de vuelta del trabajo y seguramente se acercará a ayudar. Algunas sugerencias que podrían funcionar:
 
-Si consiguen alcanzarle y hacerle una herida, se dejará caer y no se querrá mover, con lo que la persecución terminará. Tendrán que darse prisa para llevárselo porque están cerca de un camino y por la hora podría pasar algún campesino de vuelta del trabajo y seguramente se acercará a ayudar. xxx
+* Sobornarle con comida.
+* Tratar de tirar de él con el jeep.
+* Camuflarlo con ramas y hojas.
+* Asustarle con un alosaurio o similar.
 
-### Compañeros para siempre
+Mientras se encargan del iguanodonte, el comando más charlatán debería vérselas con algún campesino (coge las estadísticas de un Menestral/a) que quiere pasar por donde está el iguanodonte. Tendrá que sacar todo su arsenal, porque el campesino es muy cabezota.
+
+## Compañeros para siempre
 Durante la fase de entrenamiento y la fuga de dinosaurios deberías formar las parejas de humano/saurio asignándole la ventaja "Compañero dinosaurio" al saurio que veas que mejor conecta con cada comando.
 
 Esta escena debería ser especial para cada comando, así que no la fuerces demasiado, y si ves que no se da la situación puedes dejarla para su primera misión en la isla de Jersey. Veamos algunos ejemplos.
@@ -1011,8 +1018,12 @@ Esta escena debería ser especial para cada comando, así que no la fuerces dema
 * Quizás el comando le da parte de su comida al saurio y este ya no se separe de él.
 * Puede que al saurio lo hayan expulsado de la manada y al acercarse al comando y mostrarle cariño se convierta en su manada.
 * Yendo a las historias clásicas, puede que el comando le saque una espina que tenía en una pata y que provocaba mucho dolor. Al quitársela, se granjea la amistad del saurio. 
+
+\saltopagina
+
 * Seguramente un alosaurio y un megalosaurio se sentirán inclinados a seguir a un comando que ni se inmute cuando estos gigantes depredadores se les acerque a la carrera rugiendo.
-* xxx
+* Los pteranodones son bastante irritantes. Seguramente intentarán robar el almuerzo de algún comando. Si no le puede robar su comida lo intentará más días hasta que puede que se genere algún tipo de vínculo.
+* Los saurios acuáticos quizás sean los más aliens y por ello no deberías dejar que haya un vínculo con un comando a no ser que haya una buena razón.
 
 ## Primera misión
 ```
@@ -1025,17 +1036,25 @@ Los alemanes han destruido las antenas que permitían escuchar la BBC en la isla
 
 Devolver la emisión de la BBC en las islas del canal es un golpe de efecto. Por un lado sube la moral de la población y deja en ridículo a los nazis a quienes se les ha colado efectivos ingleses hasta la cocina.
 
-\saltopagina
-
 La IM ha encontrado una pequeña colina alejada de los núcleos urbanos. Con los saurios podrán moverse en sigilo por la noche cargando con la nueva antena, que es más pequeña, pero aun así pesa casi tonelada y media. La batería no debería durar más de un día, pero es suficiente para su campaña de propaganda.
 
-Tienen que recuperar las comunicaciones con la pequeña isla de Jersey. Deberán transportar una antena en una ubicación secreta de la isla e instalarla. Deberán llevar un par de estegosaurios para cargar con la antena y un saurio acuático para ayudarles a desembarcar en la isla. Pueden llevarse otros dos saurios más y los suyo es que haya la mayor cantidad de compañeros saurios posibles.
+Tienen que recuperar las comunicaciones con la pequeña isla de Jersey. Deberán transportar una antena en una ubicación secreta de la isla e instalarla. Deberán llevar un par de estegosaurios para cargar con la antena y dos saurios acuático para ayudarles a desembarcar en la isla. No pueden llevarse ningún saurio más y lo suyo es que haya la mayor cantidad de compañeros saurios posibles.
 
 ### Embarcando en el "Mary Anning"
-Esta será la primera vez que verán el "Mary Anning", el barco que será su hogar lejos de su hogar durante muchas semanas. xxx
+Esta será la primera vez que verán el "Mary Anning", el barco que será su hogar lejos de su hogar durante muchas semanas. 
+
+\saltopagina
+
+Estará fondeado en la costa oeste de la isla a la altura de las tierras de la Fundación. Con barcazas de desembarco podrán subir al "Mary Anning" con sus saurios y la pesada antena. La primera en saludarles será la capitana Branningan que luego presentará a la tripulación, 
+
+Pueden aprovechar para conocer las instalaciones básicas del barco y hablar con la capitana, que sabe bastante de transportar saurios en barco, lleva haciéndolo años.
+
+EL viaje es corto, unos 3 días, hasta llegar a la costa de Francia donde está la isla de Jersey. Sin acercarse mucho a costa, tendrán que colocar los flotadores a los estegosaurios y luego en una barcaza irán los comandos y las antenas. Los acuáticos en unos pocos viajes habrán desembarcado a todo el equipo sin hacer el mínimo ruido y sin usar luces. Salvo que pasará algo extraño son prácticamente indetectables. 
 
 ### Infiltración
-xxx
+Una vez en la playa más cercana al objetivo y quitados los flotadores, empieza la misión. En principio, el camino hasta el objetivo debería ser sencillo. Es de noche, el comando no hace ningún tipo de ruido, no usan luces y los nazis no se esperan ningún ataque por esa zona. 
+
+Puedes hacerles ver algunas luces en movimiento, quizás un campesino volviendo a su casa en su tractor o quizás una patrulla nazi. Como sea, deberán camuflarse o tratar de ponerse fuera de su vista. Incluso algún comando podría tratar de despistarlos llamando su atención desde otra parte. Al final será una camioneta de reparto que vuelve de su ruta.    
 
 ### Colocando la antena
 xxx
@@ -1044,7 +1063,7 @@ xxx
 xxx
 
 ### Algo no suena bien
-Si tus comandos no se dan cuentan y lo arreglan, estarán dejando huellas de los estegosaurios o iguanodones en los terrenos de la isla. Dándole vueltas a todo esto debería ser sospechoso que a la IM no haya visto el problema de las huellas. Todavía no tienen que sospecharlo ahora, pero con el tiempo podrán darse cuenta de que la IM quiere que los nazis encuentren las huellas y las estudien.
+Si tus comandos no se dan cuentan y lo arreglan, estarán dejando huellas de los estegosaurios o iguanodones en los terrenos de la isla. Dándole vueltas a todo esto debería ser sospechoso que a la IM no haya visto el problema de las huellas. Todavía no tienen que sospecharlo, pero con el tiempo podrán darse cuenta de que la IM quiere que los nazis encuentren las huellas y las estudien y empiecen a sospechar que existen los dinosaurios.
 
 ***
 
@@ -1539,7 +1558,9 @@ Como buena irlandesa es risueña y alegre con una tonada siempre en los labios y
 ### Wayland, armero e ingeniero &#x2638;
 [![Primer plano de Wayland](./assests/images/wayland.jpg 'Title: NYA (National Youth Administration) work center, Brooklyn, New York. Turret-lathe workers, Negro and white, who are receiving training in machine shop practice, carrying out an operation on a turret lathe Creator(s): Henle, Fritz, photographer')](https://picryl.com/media/turret-lathe-workers-8d36007v-f58c5b 'Title: NYA (National Youth Administration) work center, Brooklyn, New York. Turret-lathe workers, Negro and white, who are receiving training in machine shop practice, carrying out an operation on a turret lathe Creator(s): Henle, Fritz, photographer')
 
-Este joven jamaicano es un genio de la mecánica. Parece que las máquinas obedecieran sus órdenes y que hablara con ellas. Puede reparar lo que sea y en tiempo récord y si le das el equipo adecuado puedes hacerte lo que necesitas. Wayland es autodidacta, nunca ha ido a la universidad o instituto profesional, todo lo ha aprendido de pasar horas en el taller y leyendo libros de mecánica, electrónica, etc.
+Este joven jamaicano es un genio de la mecánica. Parece que las máquinas obedecieran sus órdenes y que hablara con ellas. Su don con las máquinas compensa con su mudez desde su nacimiento. Aprendió lengua de signos y a leer y a escribir de unos misioneros.  
+
+Puede reparar lo que sea y en tiempo récord y si le das el equipo adecuado puedes hacerte lo que necesitas. Wayland es autodidacta, nunca ha ido a la universidad o instituto profesional, todo lo ha aprendido de pasar horas en el taller y leyendo libros de mecánica, electrónica, etc.
 
 Wayland no es su nombre verdadero, fue el mote que le pusieron en la Fundación al ver sus asombrosas capacidades con herrero e ingeniero. Su auténtico nombre es Marcus Tosh.
 
@@ -1549,8 +1570,8 @@ La Fundación le reclutó, cuando el "Mary Anning" tuvo que hacer reparaciones e
 * **Habilidades:** Atletismo d6, Ciencias d8, Conocimientos Generales d6, Disparar d6, Idioma Inglés d8, Idioma Español d4, interpretar d6, Notar d8, Pelear d6, Persuadir d4, Reparar d12, Sigilo d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 7
 * **Ventajas:** McGuiver, Mr. Arreglalotodo
-* **Desventajas:** xxx
-* **Equipo:** Herramientas de buena calidad, Mandil de cuero de herrero (+1 pecho y piernas), Soplete de acetileno
+* **Desventajas:** Mudo
+* **Equipo:** Herramientas de buena calidad, Mandil de cuero de herrero (+1 pecho y piernas), Soplete de acetileno, Papel y lápiz para escribir
 
 **Sugerencia de interpretación:** Siempre estás alegre, canturreando las canciones que ponen en tu radio, la cual nunca apagas. Te entusiasman los nuevos retos y estás deseoso de que alguien aparezca por tu taller con algún reto que ponga a prueba tus capacidades.  
 
