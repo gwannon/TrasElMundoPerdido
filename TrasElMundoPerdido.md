@@ -1051,13 +1051,21 @@ Pueden aprovechar para conocer las instalaciones básicas del barco y hablar con
 
 EL viaje es corto, unos 3 días, hasta llegar a la costa de Francia donde está la isla de Jersey. Sin acercarse mucho a costa, tendrán que colocar los flotadores a los estegosaurios y luego en una barcaza irán los comandos y las antenas. Los acuáticos en unos pocos viajes habrán desembarcado a todo el equipo sin hacer el mínimo ruido y sin usar luces. Salvo que pasará algo extraño son prácticamente indetectables. 
 
+[![Fotografía aérea de la Isla de Jersey](./assests/images/jersey.jpg 'Satellite view of Jersey - Copernicus Sentinel-2, ESA')](https://en.wikipedia.org/wiki/Jersey#/media/File:Jersey_by_Sentinel-2.jpg 'Satellite view of Jersey - Copernicus Sentinel-2, ESA')
+
 ### Infiltración
 Una vez en la playa más cercana al objetivo y quitados los flotadores, empieza la misión. En principio, el camino hasta el objetivo debería ser sencillo. Es de noche, el comando no hace ningún tipo de ruido, no usan luces y los nazis no se esperan ningún ataque por esa zona. 
+
+\saltopagina
 
 Puedes hacerles ver algunas luces en movimiento, quizás un campesino volviendo a su casa en su tractor o quizás una patrulla nazi. Como sea, deberán camuflarse o tratar de ponerse fuera de su vista. Incluso algún comando podría tratar de despistarlos llamando su atención desde otra parte. Al final será una camioneta de reparto que vuelve de su ruta.    
 
 ### Colocando la antena
-xxx
+Para empezar a colocar la antena deben cerciorarse primero que están en la posición indicada. Por ello necesitarán una tirada de Supervivencia a -2 por la baja luminosidad. Si la pasan no se perderán. Si fallan se darán cuenta de que se han equivocado de lugar. Puedes meterles otra escena como la anterior de las luces de un vehículo, si lo deseas. Fracasar supondrá que creen que están en el sitio correcto y sin embargo han fallado estrepitosamente. Solo media isla podrá oír la BBC.
+
+Una vez encontrado el lugar donde poner la antena, necesitarán otra tirada de Electrónica para poner en funcionamiento la antena (orientarla y conectarle adecuadamente a las baterías). Deben tener en cuenta que en cuanto la conecten empezará una cuenta atrás. Los nazis tardarán un poco, pero se terminarán dando de que algo permite conectar con la BBC usando las radios y las teles de la isla. 
+
+En ese momento en general nazi encargado de la isla pondrá a buscar la antena y los __traidores__ que la ha activado. Enseguida la isla se llenará de sonido de camiones, coches y motos nazis que buscan la antena.
 
 ### Escape de Jersey
 xxx
