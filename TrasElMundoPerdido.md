@@ -1065,10 +1065,21 @@ Para empezar a colocar la antena deben cerciorarse primero que están en la posi
 
 Una vez encontrado el lugar donde poner la antena, necesitarán otra tirada de Electrónica para poner en funcionamiento la antena (orientarla y conectarle adecuadamente a las baterías). Deben tener en cuenta que en cuanto la conecten empezará una cuenta atrás. Los nazis tardarán un poco, pero se terminarán dando de que algo permite conectar con la BBC usando las radios y las teles de la isla. 
 
-En ese momento en general nazi encargado de la isla pondrá a buscar la antena y los __traidores__ que la ha activado. Enseguida la isla se llenará de sonido de camiones, coches y motos nazis que buscan la antena.
+En ese momento en general nazi encargado de la isla pondrá a buscar la antena y los __traidores__ que la han activado. Enseguida la isla se llenará de sonido de camiones, coches y motos nazis que buscan la antena.
 
 ### Escape de Jersey
-xxx
+El regreso será igual que la ida, pero para su sorpresa un camión nazi con dos soldados nazis (Infantería nazi) por cada comando más un capitán nazi (Oficial nazi) les estarán esperando. Los soldados están registrando la playa donde han desembarcado y si descubren la barcaza podrían sospechar todo el plan.
+
+Si se ven sobrepasados (mueren más de un tercio de los nazis), el capitán, si sigue vivo, intentará escapar en el camión, para pedir refuerzos. Es importante que ningún nazi salga vivo para que nadie pueda declarar la presencia de los saurios.
+
+Si consiguen acabar con los nazis podrán embarcar en el "Mary Anning" con toda tranquilidad.
+
+En futuros viajes podrían intentar cambiar las baterías de la antena para mosquear a los nazis si tienen tiempo y una batería preparada.
+
+### El discurso del Rey
+Si todo va como marca los planes, mientras le duren las baterías de la antena provisional, los habitantes de la isla de Jersey recibirán mensajes variados de la BBC con varios discursos del Rey y de Churchill. A priori todas estás actividades se considerarán un golpe a la moral de los nazis y un empujón a los isleños de Jersey.
+
+\saltopagina
 
 ### Algo no suena bien
 Si tus comandos no se dan cuentan y lo arreglan, estarán dejando huellas de los estegosaurios o iguanodones en los terrenos de la isla. Dándole vueltas a todo esto debería ser sospechoso que a la IM no haya visto el problema de las huellas. Todavía no tienen que sospecharlo, pero con el tiempo podrán darse cuenta de que la IM quiere que los nazis encuentren las huellas y las estudien y empiecen a sospechar que existen los dinosaurios.

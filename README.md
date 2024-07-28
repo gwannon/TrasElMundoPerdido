@@ -25,7 +25,6 @@
 * Relatos salvajes
 
 # Por hacer de la versión 0.4
-* Primera misión
 * El mundo perdido
 * La expedición Roxton
 
@@ -39,6 +38,7 @@
 # Changelog
 
 # Versión 0.4.3 En desarrollo
+* Terminada la parte de "Primera misión" de "Parte 1: La isla de Skye"
 
 ## Versión 0.4.2 28/07/2024
 * Terminada la parte de "Reclutamiento" de "Parte 1: La isla de Skye"
