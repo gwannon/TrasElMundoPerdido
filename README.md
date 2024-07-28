@@ -22,14 +22,11 @@
 * Parte 3: Río de la Plata
 
 # Por hacer de la versión 0.5
-* Parte 1: La isla de Skye (6)
-  * Primera misión
-    * Colocando la antena
-    * Escape de Jersey
 * Relatos salvajes
 
 # Por hacer de la versión 0.4
-* Una aventura increíble
+* Primera misión
+* El mundo perdido
 * La expedición Roxton
 
 ## Recursos 
@@ -41,9 +38,14 @@
 
 # Changelog
 
-## Versión 0.4.2 En desarrollo
+# Versión 0.4.3 En desarrollo
+
+## Versión 0.4.2 28/07/2024
 * Terminada la parte de "Reclutamiento" de "Parte 1: La isla de Skye"
+* Terminada la parte de "Primeros pasos" de "Parte 1: La isla de Skye"
 * Terminada la parte de "Entrenamiento de "Parte 1: La isla de Skye"
+* Terminada la parte de "Dinosaurios a la fuga" de "Parte 1: La isla de Skye"
+* Terminada la parte de "Compañeros para siempre" de "Parte 1: La isla de Skye"
 
 ## Versión 0.4.1 16/07/2024
 * Terminada tabla de dinosaurios como vehículos
