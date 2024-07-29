@@ -23,6 +23,17 @@
 
 # Por hacer de la versión 0.5
 * Relatos salvajes
+  * Un día en el museo
+  * Cena de etiqueta
+  * El pecio
+  * Campo minado
+  * Limpiando el puerto
+  * ¿Quién es Marion Fairfax?
+  * Despedidas
+  * El secreto de los Branningan
+  * Espécimen perdido
+  * Arte robado
+  * Titanes de tiempos pretéritos
 
 # Por hacer de la versión 0.4
 * El mundo perdido

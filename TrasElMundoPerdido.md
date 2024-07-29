@@ -928,17 +928,17 @@ Puedes aprovechar para hacer una sesión 0 con cada comando en el que le recluta
 
 * Tu superior te dice que te trasladan a Escocia a un proyecto secreto. Firma los papeles y recoge tu macuto, tienes que estar allí en 3 días. Tras mirar los horarios de trenes tienes la noche libre para una última juerga en Londres, Manchester, Dublín, etc.
 * IM ha comprado el préstamo que solicitaste para continuar con tus investigaciones y te propone saldarla si trabajas con ellos en un proyecto secreto en Escocia. Al día siguiente de firmar con el IM, cuando entras por la puerta de tu laboratorio no hay nada. Se han llevado todo y solo hay un sobre muy gordo con billetes de tren e instrucciones para llegar a la isla de Skye.  
-* Tu oficial superior te ofrece la posibilidad de librarte de pasar los años de condena que te quedan en la prisión militar si te enrolas en un proyecto secreto de IM. NO te puede decir mucho más, pero que puede ser peor que una fría prisión militar. Si no estás dispuesto a participar quizás los guardas pueden convencerte cuando nadie mire.
+* Tu oficial superior te ofrece la posibilidad de librarte de pasar los años de condena que te quedan en la prisión militar si te enrolas en un proyecto secreto de IM. N te puede decir mucho más, pero que puede ser peor que una fría prisión militar. Si no estás dispuesto a participar quizás los guardas pueden convencerte cuando nadie mire.
 * Un militar al que no conoces aparece en tu laboratorio y te muestra unas extrañas escamas que nunca habías visto o quizás los restos de unos huevos que no parecen de ningún animal actual. Te propone formar parte de un proyecto donde podrás estudiar cosas asombrosas que nunca nadie ha visto hasta ahora. Si no quieres participar, te deja su tarjeta y la extraña muestra para que la estudies, sabe que en cuanto descubras alguno de sus secretos aparecerás en su puerta para aceptar participar en el proyecto.
 
 Si investigan solo sabrán que les trasladarán a la reserva de animales salvajes de la Fundación Roxton en la isla de Skye. Unas buenas tiradas de investigar no sacarán a la luz nada extraño, pero dará a entender que alguien ha limpiado la información que se puede sacar de archivos, bibliotecas y periódicos.
 
 ## Primeros pasos
-Del ferry que une tierra firme con la isla de Skye desembarcan tus comandos con sus macutos. Nadie más ha tomado el ferry así que se conocen de vista. Delante del grupo se para un pequeño camión y el conductor les mira y les dice con un fuerte acento escocés "Entrad atrás, tenemos bastante camino hasta el castillo y pronto se hará de noche. Por cierto, soy Willy.". 
+Del ferry que une tierra firme con la isla de Skye desembarcan tus comandos con sus macutos. Nadie más ha tomado el ferry así que se conocen de vista. Delante del grupo se para un pequeño camión y el conductor les mira y les dice con un fuerte acento escocés "Entrad atrás, tenemos bastante camino hasta el castillo y no quiero llegar tarde al almuerzo. Por cierto, soy Willy."
 
 \saltopagina
 
-Mientras se miran unos a otros en el remolque pueden presentarse y describirse. De repente se parará el camión y Willy les dirá que ya han llegado. Al salir podrán ver el impresionante castillo Dunvegan con la luz del atardecer. 
+Mientras se miran unos a otros en el remolque pueden presentarse y describirse. De repente se parará el camión y Willy les dirá que ya han llegado. Al salir podrán ver el impresionante castillo Dunvegan con la luz del mediodía. 
 
 Una ama de llaves les pedirá que les sigan y los repartirá por sus habitaciones. Las habitaciones son de 2 personas, así que trata de emparejarlos de forma que den juego y diversión. En media hora la comida estará lista.
 
@@ -1453,13 +1453,28 @@ Marina hará su entrada unas horas después, montada a caballo y vestida con un 
 La IM quiere a Marina en esta película porque es una actriz con bastante fama que atraerá a mucha gente a las salas, pero sobre todo porque tiene fama de inventarse historias raras, de fantasear bastante y en general de comportarse de forma excéntrica. IM sabe que no contará nada de los saurios (firmado está y ella cumple sus contratos), pero si lo hiciera podrían desacreditarla fácilmente.
 
 ### 1ª secuencia
-xxx
+La primera secuencia será de una estampida de saurios. Marina y un par de cavernícolas deberán huir corriendo de un montón de saurios herbívoros que están huyendo de algún tipo de explosión volcánica.  
+
+Por una de las praderas del hábitat de los herbívoros deberán correr los actores escapando de la estampida. Unos de los cavernícolas debe caerse y ser aplastado por los saurios. Cuando el director de la señal debería dejarse caer y gritar como si lo hubieran aplastado. Deberá pasar 3 tiradas enfrentadas de atletismo contra el Atletismo de dos estegosaurios y un iguanodonte. Si la gana, lo esquiva rodando por el suelo, si falla recibe la FUE del saurio de daño. Un compañero saurio no pisará a su humano. 
+
+Será divertido que pongas el [grito Wilhelm](https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d9/Wilhelm_Scream.ogg/Wilhelm_Scream.ogg.mp3) cuando reciba daño.
 
 ### 2ª secuencia
+Marina y otros cavernícolas deberán defenderse del alosaurio. Han huido de él hasta una gran grieta en la roca donde podrán resguardarse.
+
 xxx
 
 ### 3ª secuencia
+Una bandada de pteranodones capturarán a Marina y la llevarán a su nido donde están sus crías. 
+
 xxx
+
+### 4ª secuencia
+Esta secuencia es la batalla final contra el alosaurio. Esta vez Marina liderará a un grupo de cavernícolas contra el malvado depredador.
+
+xxx
+
+\saltopagina
 
 ### Otras secuencias
 Si quieres hacer más secuencias aquí tienes algunas ideas divertidas.
@@ -1468,15 +1483,18 @@ Si quieres hacer más secuencias aquí tienes algunas ideas divertidas.
 * Los y las cavernícolas hacen unos extraños (y extremadamente ridículos) bailes en la cueva a la luz de la hoguera para atraer a posibles parejas sexuales y románticas.
 * Alguna secuencia acuática con los ictiosaurios y los plesiosaurios.
 
-\saltopagina
-
 ### Compañero saurio
 Puede ser interesante que durante el rodaje Marina establezca un vínculo con alguno de los dinosaurios. Esto hará que marina y sus rarezas puedan aparecer cada cierto tiempo por el castillo Dunvegan a visitar a su compañero saurio. Puedes usarlo como un comando pre-generado para un jugador o jugadora que quiera jugar una sesión o como un PJ que les dé apoyo en sus aventuras sobre todo en los relatos salvajes.
 
 Puede ser en alguna escena en que algún saurio la ataca o los cavernícolas la capturan, otro saurio de fuera de la escena salga a defenderla.
 
+### Interés romántico
+Marina también puede ser el interés romántico de cualquiera de tus comandos, no importa ni su género ni su condición sexual. Como he explicado en el apartado anterior, Marina puede ser un personaje muy interesante para campaña y este puede ser otro gancho para meterla en las aventuras.  
+
 ### Sospechas
 Si tus comandos pueden acceder al visionado de la película durante la edición o en su estreno con una tirada de Humanidades verán que las tomas son tremendamente realistas. Las marionetas de otras películas no tienen primeros planos para que no se vean los cables, pero en "Titanes de tiempos pretéritos" hay planos muy cercanos. La idea de la película es que sirva de excusa si alguien dice haber visto un saurio, pero parece que quieran que los expertos en saurios pudieran darse cuenta de que son reales. 
+
+\saltopagina
 
 ### Marina Flowers, famosa actriz de Hollywood &#x2638;
 
@@ -1484,9 +1502,7 @@ Si tus comandos pueden acceder al visionado de la película durante la edición 
 
 Marina Flowers es la reina de las películas de Serie de B. En sus películas ha sido secuestrada por todo tipo de seres, desde marcianos hasta hormigas gigantes o monstruos marinos. Su legión de fans incondicionales asegura una taquilla decente en todas sus producciones y eso le asegura siempre trabajo, mediocre pero trabajo. Es famosa por sus desmayos, la crítica los describe como los mejores, y por sus locuras. 
 
-No es excéntrica, ni va de diva, simplemente tiene ramalazos raros y de repente coloca la comida del catering por colores, se despierta a media noche y riza el pelo de todas sus pelucas o desaparece para aparecer horas más tarde con lazos naranjas para toda la gente de la producción. si se le pregunta suele contar extrañas historias para justificar esas conductas. Por lo demás, es una bellísima persona.  
-
-\saltopagina
+No es excéntrica, ni va de diva, simplemente tiene ramalazos raros y de repente coloca la comida del catering por colores, se despierta a media noche y riza el pelo de todas sus pelucas o desaparece para aparecer horas más tarde con lazos naranjas para toda la gente de la producción. si se le pregunta suele contar extrañas historias para justificar esas conductas. Por lo demás, es una bellísima persona.
 
 * **Atributos:** Agilidad d6, Astucia d8, Espíritu d10, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d8, Cabalgar d6, Ciencias d6, Conducir d6, Conocimientos Generales d6, Humanidades d6, Idioma Inglés d8, Idioma castellano d6, Interpretar d10, Notar d6, Pelear d6, Persuadir d8, Sigilo d6
@@ -1538,7 +1554,7 @@ Don Quijote no sería nada sin su Sancho Pancho y tus comandos no serían nada s
 
 La tranquila vida en Londres de Margaret Roxton se vio alterada cuando heredó el título de su tío, Lord John Roxton, su gran fortuna, su espectacular colección de armas de fuego y su reserva de animales en escocia. 
 
-Margaret creció con las historias de caza que su tío le contaba cuando visitaba a su hermana y su familia. Eran grandes aventuras de África y sobre todo de Sudamérica, de la que estaba enamorada; cómo se había enfrentado a esclavistas, cómo había recorrido los rápidos de afluentes de amazonas, las costumbres de las tribus indígenas, etc.
+Margaret creció con las historias de caza que su tío le contaba cuando visitaba a su hermana y su familia. Eran grandes aventuras de África y sobre todo de Sudamérica, de la que estaba enamorada; cómo se había enfrentado a esclavistas, cómo había recorrido los rápidos de afluentes del Amazonas, las costumbres de las tribus indígenas, etc.
 
 xxx
 
