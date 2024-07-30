@@ -1495,17 +1495,17 @@ Puede ser en alguna escena en que algún saurio la ataca o los cavernícolas la 
 ### Interés romántico
 Marina también puede ser el interés romántico de cualquiera de tus comandos, no importa ni su género ni su condición sexual. Como he explicado en el apartado anterior, Marina puede ser un personaje muy interesante para campaña y este puede ser otro gancho para meterla en las aventuras.  
 
+\saltopagina
+
 ### Sospechas
 Si tus comandos pueden acceder al visionado de la película durante la edición o en su estreno con una tirada de Humanidades verán que las tomas son tremendamente realistas. Las marionetas de otras películas no tienen primeros planos para que no se vean los cables, pero en "Titanes de tiempos pretéritos" hay planos muy cercanos.
-
-\saltopagina
 
 La idea de la película es que sirva de excusa si alguien dice haber visto un saurio, pero parece que quieran que los expertos en saurios pudieran darse cuenta de que son reales.
 
 ### Atrezzo
 Todo el atrezzo de la película lo dejarán los cineastas del IM en las instalaciones de la Isla de Skye, así que si necesitarán disfrazarse de cavernícolas en el futuro, como por ejemplo, cuando vuelvan a la Meseta de Maple White en la parte 8ª de la campaña podrán llevárselo. Dale un beni al que se le ocurra esta idea.
 
-El atrezzo consta de ropas hechas de pieles, sandalias, lanzas y hachas de piedra (la partes afiladas son de goma), pelucas y maquillaje para oscurecer la piel. También hay grandes piedras de cartón-piedra, muslos gigantes asados de dinosaurio y objetos por el estilo. 
+El atrezzo consta de ropas hechas de pieles, sandalias, lanzas y hachas de piedra (las partes afiladas son de goma), pelucas y maquillaje para oscurecer la piel. También hay grandes piedras de cartón-piedra, muslos gigantes asados de dinosaurio y objetos por el estilo. 
 
 ### Marina Flowers, famosa actriz de Hollywood &#x2638;
 
@@ -1514,6 +1514,8 @@ El atrezzo consta de ropas hechas de pieles, sandalias, lanzas y hachas de piedr
 Marina Flowers es la reina de las películas de Serie de B. En sus películas ha sido secuestrada por todo tipo de seres, desde marcianos hasta hormigas gigantes o monstruos marinos. Su legión de fans incondicionales asegura una taquilla decente en todas sus producciones y eso le asegura siempre trabajo, mediocre pero trabajo. Es famosa por sus desmayos, la crítica los describe como los mejores, y por sus locuras. 
 
 No es excéntrica, ni va de diva, simplemente tiene ramalazos raros y de repente coloca la comida del catering por colores, se despierta a media noche y riza el pelo de todas sus pelucas o desaparece para aparecer horas más tarde con lazos naranjas para toda la gente de la producción. si se le pregunta suele contar extrañas historias para justificar esas conductas. Por lo demás, es una bellísima persona.
+
+\saltopagina
 
 * **Atributos:** Agilidad d6, Astucia d8, Espíritu d10, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d8, Cabalgar d6, Ciencias d6, Conducir d6, Conocimientos Generales d6, Humanidades d6, Idioma Inglés d8, Idioma castellano d6, Interpretar d10, Notar d6, Pelear d6, Persuadir d8, Sigilo d6
