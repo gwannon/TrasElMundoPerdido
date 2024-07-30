@@ -1457,26 +1457,26 @@ La primera secuencia será de una estampida de saurios. Marina y un par de caver
 
 Por una de las praderas del hábitat de los herbívoros deberán correr los actores escapando de la estampida. Unos de los cavernícolas debe caerse y ser aplastado por los saurios. Que decidan entre tus comandos quien va a morir en la escena.
 
-Cuando el director de la señal debería dejarse caer y gritar como si lo hubieran aplastado. Deberá pasar 3 tiradas enfrentadas de atletismo contra el Atletismo de dos estegosaurios y un iguanodonte. Si la gana, lo esquiva rodando por el suelo, si falla recibe la FUE del saurio de daño. Un compañero saurio no pisará a su humano. 
+Cuando el director de la señal debería dejarse caer y gritar como si lo hubieran aplastado. Deberá pasar **3 tiradas enfrentadas de Atletismo contra el Atletismo de dos estegosaurios y un iguanodonte**. Si la gana, lo esquiva rodando por el suelo, si falla recibe la FUE del saurio de daño. Un compañero saurio no pisará a su humano. 
 
-Además de las tiradas de Atletismo tendrá que hacer una tirada de Interpretar para hacerse bien el muerto. Si falla la tirada el director volverá a rodar la escena con otro comando. Si fallan todos, cogerá la escena del comando que obtuvo mejor tirada. Recuerda que tus comandos pueden fallar a propósito su tirada para fastidiar a sus compañeros.
+Además de las tiradas de Atletismo tendrá que **hacer una tirada de Interpretar para hacerse bien el muerto**. Si falla la tirada el director volverá a rodar la escena con otro comando. Si fallan todos, hará una segunda ronda. Si vuelven a fallar, cogerá la escena del comando que obtuvo mejor tirada. Recuerda que tus comandos pueden fallar a propósito su tirada para fastidiar a sus compañeros.
 
 Puede ser divertido que pongas el [grito Wilhelm](https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d9/Wilhelm_Scream.ogg/Wilhelm_Scream.ogg.mp3) cuando algún comando finja su muerte.
 
 ### 2ª secuencia
-Marina y otros cavernícolas deberán defenderse del alosaurio. Han huido de él hasta una gran grieta en la roca donde podrán resguardarse.
+Marina y otros cavernícolas harán esquí acuático usando a los plesiosaurios como lanzas. Se pondrán unos esquíes cubiertos de corteza de madera para parecer prehistóricos y los plesiosaurios empezarán a tirar de ellos para que floten sobre el agua. Uno de los cavernícolas, deberá caerse al agua dando unas cuantas volteretas en el aire.
 
 xxx
 
 ### 3ª secuencia
-Una bandada de pteranodones capturarán a Marina y la llevarán a su nido donde están sus crías. 
+Una bandada de pteranodones capturarán a Marina y la llevarán a su nido donde están sus crías. Esta escena tiene dos partes una en que están reunidos Marina y los comandos y de repente los pteranodones raptan a Marina y a un figurante cavernícola. La segunda parte es que al extra lo tiran al mar, mientras que a Marina la dejan en uno de los nidos de los acantilados.
 
 xxx
 
 \saltopagina
 
 ### 4ª secuencia
-Esta secuencia es la batalla final contra el alosaurio. Esta vez Marina liderará a un grupo de cavernícolas contra el malvado depredador.
+Esta secuencia es la batalla final contra el alosaurio. Esta vez Marina liderará a un grupo de cavernícolas contra el malvado depredador. Con lanzas y hachas de cartón-piedra se enfrentarán al alosaurio. El alosaurio deberá coger a uno de los cavernícolas con la boca y luego lanzarlo. Tras eso Marina acabará con el alosaurio clavándole una lanza en la tripa.
 
 xxx
 
