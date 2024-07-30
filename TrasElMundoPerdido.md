@@ -1433,7 +1433,7 @@ xxx
 
 ## Titanes de tiempos pretéritos
 ```
-La gente de IM ha tenido una idea genial, usar a los saurios en una película de bajo presupuesto. De forma que si alguien ves a los dinosaurios puedan decir que era un truco cinematográfico. 
+La gente de IM ha tenido una idea genial, usar a los saurios en una película de bajo presupuesto. De forma que si alguien ve a los dinosaurios puedan decir que era un truco cinematográfico. 
 ```
 
 Lady Roxton quiere hablar con tus comandos. Mientras descansan entre misiones, tiene un pequeño trabajo que puede que incluso sea de su agrado. Cuando Lady Roxton les atienda les preguntará si les gusta el cine y les pasará una copia del guion. Si le dan un vistazo rápido es un guion de una película de serie B de dinosaurios llamada "Titanes de tiempos pretéritos", un título muy pretencioso para una cutre película. 
@@ -1455,9 +1455,13 @@ La IM quiere a Marina en esta película porque es una actriz con bastante fama q
 ### 1ª secuencia
 La primera secuencia será de una estampida de saurios. Marina y un par de cavernícolas deberán huir corriendo de un montón de saurios herbívoros que están huyendo de algún tipo de explosión volcánica.  
 
-Por una de las praderas del hábitat de los herbívoros deberán correr los actores escapando de la estampida. Unos de los cavernícolas debe caerse y ser aplastado por los saurios. Cuando el director de la señal debería dejarse caer y gritar como si lo hubieran aplastado. Deberá pasar 3 tiradas enfrentadas de atletismo contra el Atletismo de dos estegosaurios y un iguanodonte. Si la gana, lo esquiva rodando por el suelo, si falla recibe la FUE del saurio de daño. Un compañero saurio no pisará a su humano. 
+Por una de las praderas del hábitat de los herbívoros deberán correr los actores escapando de la estampida. Unos de los cavernícolas debe caerse y ser aplastado por los saurios. Que decidan entre tus comandos quien va a morir en la escena.
 
-Será divertido que pongas el [grito Wilhelm](https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d9/Wilhelm_Scream.ogg/Wilhelm_Scream.ogg.mp3) cuando reciba daño.
+Cuando el director de la señal debería dejarse caer y gritar como si lo hubieran aplastado. Deberá pasar 3 tiradas enfrentadas de atletismo contra el Atletismo de dos estegosaurios y un iguanodonte. Si la gana, lo esquiva rodando por el suelo, si falla recibe la FUE del saurio de daño. Un compañero saurio no pisará a su humano. 
+
+Además de las tiradas de Atletismo tendrá que hacer una tirada de Interpretar para hacerse bien el muerto. Si falla la tirada el director volverá a rodar la escena con otro comando. Si fallan todos, cogerá la escena del comando que obtuvo mejor tirada. Recuerda que tus comandos pueden fallar a propósito su tirada para fastidiar a sus compañeros.
+
+Puede ser divertido que pongas el [grito Wilhelm](https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d9/Wilhelm_Scream.ogg/Wilhelm_Scream.ogg.mp3) cuando algún comando finja su muerte.
 
 ### 2ª secuencia
 Marina y otros cavernícolas deberán defenderse del alosaurio. Han huido de él hasta una gran grieta en la roca donde podrán resguardarse.
@@ -1469,12 +1473,12 @@ Una bandada de pteranodones capturarán a Marina y la llevarán a su nido donde 
 
 xxx
 
+\saltopagina
+
 ### 4ª secuencia
 Esta secuencia es la batalla final contra el alosaurio. Esta vez Marina liderará a un grupo de cavernícolas contra el malvado depredador.
 
 xxx
-
-\saltopagina
 
 ### Otras secuencias
 Si quieres hacer más secuencias aquí tienes algunas ideas divertidas.
@@ -1492,9 +1496,16 @@ Puede ser en alguna escena en que algún saurio la ataca o los cavernícolas la 
 Marina también puede ser el interés romántico de cualquiera de tus comandos, no importa ni su género ni su condición sexual. Como he explicado en el apartado anterior, Marina puede ser un personaje muy interesante para campaña y este puede ser otro gancho para meterla en las aventuras.  
 
 ### Sospechas
-Si tus comandos pueden acceder al visionado de la película durante la edición o en su estreno con una tirada de Humanidades verán que las tomas son tremendamente realistas. Las marionetas de otras películas no tienen primeros planos para que no se vean los cables, pero en "Titanes de tiempos pretéritos" hay planos muy cercanos. La idea de la película es que sirva de excusa si alguien dice haber visto un saurio, pero parece que quieran que los expertos en saurios pudieran darse cuenta de que son reales. 
+Si tus comandos pueden acceder al visionado de la película durante la edición o en su estreno con una tirada de Humanidades verán que las tomas son tremendamente realistas. Las marionetas de otras películas no tienen primeros planos para que no se vean los cables, pero en "Titanes de tiempos pretéritos" hay planos muy cercanos.
 
 \saltopagina
+
+La idea de la película es que sirva de excusa si alguien dice haber visto un saurio, pero parece que quieran que los expertos en saurios pudieran darse cuenta de que son reales.
+
+### Atrezzo
+Todo el atrezzo de la película lo dejarán los cineastas del IM en las instalaciones de la Isla de Skye, así que si necesitarán disfrazarse de cavernícolas en el futuro, como por ejemplo, cuando vuelvan a la Meseta de Maple White en la parte 8ª de la campaña podrán llevárselo. Dale un beni al que se le ocurra esta idea.
+
+El atrezzo consta de ropas hechas de pieles, sandalias, lanzas y hachas de piedra (la partes afiladas son de goma), pelucas y maquillaje para oscurecer la piel. También hay grandes piedras de cartón-piedra, muslos gigantes asados de dinosaurio y objetos por el estilo. 
 
 ### Marina Flowers, famosa actriz de Hollywood &#x2638;
 
