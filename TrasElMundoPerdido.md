@@ -1453,6 +1453,8 @@ Marina hará su entrada unas horas después, montada a caballo y vestida con un 
 La IM quiere a Marina en esta película porque es una actriz con bastante fama que atraerá a mucha gente a las salas, pero sobre todo porque tiene fama de inventarse historias raras, de fantasear bastante y en general de comportarse de forma excéntrica. IM sabe que no contará nada de los saurios (firmado está y ella cumple sus contratos), pero si lo hiciera podrían desacreditarla fácilmente.
 
 ### 1ª secuencia
+Para la primera secuencia Marina xxx
+
 La primera secuencia será de una estampida de saurios. Marina y un par de cavernícolas deberán huir corriendo de un montón de saurios herbívoros que están huyendo de algún tipo de explosión volcánica.  
 
 Por una de las praderas del hábitat de los herbívoros deberán correr los actores escapando de la estampida. Unos de los cavernícolas debe caerse y ser aplastado por los saurios. Que decidan entre tus comandos quien va a morir en la escena.
@@ -1464,11 +1466,15 @@ Además de las tiradas de Atletismo tendrá que **hacer una tirada de Interpreta
 Puede ser divertido que pongas el [grito Wilhelm](https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d9/Wilhelm_Scream.ogg/Wilhelm_Scream.ogg.mp3) cuando algún comando finja su muerte.
 
 ### 2ª secuencia
+Para la filmación de esta secuencia Marina xxx
+
 Marina y otros cavernícolas harán esquí acuático usando a los plesiosaurios como lanzas. Se pondrán unos esquíes cubiertos de corteza de madera para parecer prehistóricos y los plesiosaurios empezarán a tirar de ellos para que floten sobre el agua. Uno de los cavernícolas, deberá caerse al agua dando unas cuantas volteretas en el aire.
 
 xxx
 
 ### 3ª secuencia
+Como es costumbre Marina llegará xxx
+
 Una bandada de pteranodones capturarán a Marina y la llevarán a su nido donde están sus crías. Esta escena tiene dos partes una en que están reunidos Marina y los comandos y de repente los pteranodones raptan a Marina y a un figurante cavernícola. La segunda parte es que al extra lo tiran al mar, mientras que a Marina la dejan en uno de los nidos de los acantilados.
 
 xxx
@@ -1476,6 +1482,8 @@ xxx
 \saltopagina
 
 ### 4ª secuencia
+Las rarezas de Marina lo dan todo en la última secuencia que van a rodar y xxx 
+
 Esta secuencia es la batalla final contra el alosaurio. Esta vez Marina liderará a un grupo de cavernícolas contra el malvado depredador. Con lanzas y hachas de cartón-piedra se enfrentarán al alosaurio. El alosaurio deberá coger a uno de los cavernícolas con la boca y luego lanzarlo. Tras eso Marina acabará con el alosaurio clavándole una lanza en la tripa.
 
 xxx
@@ -1493,21 +1501,21 @@ Puede ser interesante que durante el rodaje Marina establezca un vínculo con al
 Puede ser en alguna escena en que algún saurio la ataca o los cavernícolas la capturan, otro saurio de fuera de la escena salga a defenderla.
 
 ### Interés romántico
-Marina también puede ser el interés romántico de cualquiera de tus comandos, no importa ni su género ni su condición sexual. Como he explicado en el apartado anterior, Marina puede ser un personaje muy interesante para campaña y este puede ser otro gancho para meterla en las aventuras.  
+Marina también puede ser el interés romántico de cualquiera de tus comandos, no importa ni su género ni su condición sexual. Como he explicado en el apartado anterior, Marina puede ser un personaje muy interesante y divertido para la campaña y este puede ser otro gancho para meterla en las aventuras.  
 
 \saltopagina
 
 ### Sospechas
-Si tus comandos pueden acceder al visionado de la película durante la edición o en su estreno con una tirada de Humanidades verán que las tomas son tremendamente realistas. Las marionetas de otras películas no tienen primeros planos para que no se vean los cables, pero en "Titanes de tiempos pretéritos" hay planos muy cercanos.
+Si tus comandos pueden acceder al visionado de la película durante la edición o en su estreno, con una tirada de Humanidades verán que las tomas son tremendamente realistas. Las marionetas de otras películas no tienen primeros planos para que no se vean los cables, pero en "Titanes de tiempos pretéritos" hay planos muy cercanos.
 
-La idea de la película es que sirva de excusa si alguien dice haber visto un saurio, pero parece que quieran que los expertos en saurios pudieran darse cuenta de que son reales.
+La idea de la película es que sirva de excusa si alguien dice haber visto un saurio, pero parece que quieran que los expertos en saurios puedan darse cuenta de que son reales.
 
 ### Atrezzo
 Todo el atrezzo de la película lo dejarán los cineastas del IM en las instalaciones de la Isla de Skye, así que si necesitarán disfrazarse de cavernícolas en el futuro, como por ejemplo, cuando vuelvan a la Meseta de Maple White en la parte 8ª de la campaña podrán llevárselo. Dale un beni al que se le ocurra esta idea.
 
-El atrezzo consta de ropas hechas de pieles, sandalias, lanzas y hachas de piedra (las partes afiladas son de goma), pelucas y maquillaje para oscurecer la piel. También hay grandes piedras de cartón-piedra, muslos gigantes asados de dinosaurio y objetos por el estilo. 
+El atrezzo consta de ropas hechas de pieles, sandalias, lanzas y hachas de piedra (las partes afiladas son de goma), pelucas y maquillaje para oscurecer la piel. También hay grandes piedras de cartón-piedra, muslos gigantes asados de dinosaurio y objetos por el estilo dignos de los Picapiedra. 
 
-### Marina Flowers, famosa actriz de Hollywood &#x2638;
+### Marina Flowers, reina de la serie B &#x2638;
 
 [![Retrato de Marina Flowers](./assests/images/marina.webp 'Shining by ArthurHenri')](https://www.deviantart.com/arthurhenri/art/Shining-768612780 'Shining by ArthurHenri')
 
