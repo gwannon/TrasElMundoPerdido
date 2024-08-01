@@ -1453,7 +1453,7 @@ Marina hará su entrada unas horas después, montada a caballo y vestida con un 
 La IM quiere a Marina en esta película porque es una actriz con bastante fama que atraerá a mucha gente a las salas, pero sobre todo porque tiene fama de inventarse historias raras, de fantasear bastante y en general de comportarse de forma excéntrica. IM sabe que no contará nada de los saurios (firmado está y ella cumple sus contratos), pero si lo hiciera podrían desacreditarla fácilmente.
 
 ### 1ª secuencia
-Para la primera secuencia Marina xxx
+Para la primera secuencia Marina solo va a hablar con gruñidos y palabras inventadas tanto dentro como fuera del set de rodaje.
 
 La primera secuencia será de una estampida de saurios. Marina y un par de cavernícolas deberán huir corriendo de un montón de saurios herbívoros que están huyendo de algún tipo de explosión volcánica.  
 
@@ -1466,23 +1466,25 @@ Además de las tiradas de Atletismo tendrá que **hacer una tirada de Interpreta
 Puede ser divertido que pongas el [grito Wilhelm](https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d9/Wilhelm_Scream.ogg/Wilhelm_Scream.ogg.mp3) cuando algún comando finja su muerte.
 
 ### 2ª secuencia
-Para la filmación de esta secuencia Marina xxx
+Para la filmación de esta secuencia Marina tiene preparado una sorpresa para todos los extras, una pistola de tatuaje (y demás parafernalia) que vete tú a saber de donde lo ha sacado. Quiere que todos se tatúen una huela de dinosaurio en una nalga.
 
-Marina y otros cavernícolas harán esquí acuático usando a los plesiosaurios como lanzas. Se pondrán unos esquíes cubiertos de corteza de madera para parecer prehistóricos y los plesiosaurios empezarán a tirar de ellos para que floten sobre el agua. Uno de los cavernícolas, deberá caerse al agua dando unas cuantas volteretas en el aire.
+Marina y otros cavernícolas harán esquí acuático usando a los plesiosaurios como lanchas. Se pondrán unos esquíes cubiertos de corteza de madera para parecer prehistóricos y los plesiosaurios empezarán a tirar de ellos para que floten sobre el agua. Uno de los cavernícolas, deberá caerse al agua dando unas cuantas volteretas en el aire.
 
-xxx
+Marina y los comandos deberán pasar una tirada de Atletismo -2 para hacer esquí acuático. Si alguno falla deberán repetir la secuencia. Además alguno deberá conseguir un aumento para hacer alguna acrobacia y luego una tirada de Interpretar para fingir una caída y que le ataque un ictiosaurio. 
+
+\saltopagina
+
+Tienen todos unas bolsas de sangre preparadas para romperlas y que el agua se tiña de rojo. Si fallan sus acrobacias o su actuación al morir volverán a repetir las secuencias.  
 
 ### 3ª secuencia
-Como es costumbre Marina llegará xxx
+Como es costumbre Marina llegará al set de rodaje con una de sus rarezas, ha conseguido unos troncos y quieren practicar lanzamientos de troncos, un deporte tradicional de las tierras altas. 
 
 Una bandada de pteranodones capturarán a Marina y la llevarán a su nido donde están sus crías. Esta escena tiene dos partes una en que están reunidos Marina y los comandos y de repente los pteranodones raptan a Marina y a un figurante cavernícola. La segunda parte es que al extra lo tiran al mar, mientras que a Marina la dejan en uno de los nidos de los acantilados.
 
 xxx
 
-\saltopagina
-
 ### 4ª secuencia
-Las rarezas de Marina lo dan todo en la última secuencia que van a rodar y xxx 
+Las rarezas de Marina lo dan todo en la última secuencia que van a rodar y ha traído un barrilete de whisky escocés para la fiesta post filmación.
 
 Esta secuencia es la batalla final contra el alosaurio. Esta vez Marina liderará a un grupo de cavernícolas contra el malvado depredador. Con lanzas y hachas de cartón-piedra se enfrentarán al alosaurio. El alosaurio deberá coger a uno de los cavernícolas con la boca y luego lanzarlo. Tras eso Marina acabará con el alosaurio clavándole una lanza en la tripa.
 
@@ -1495,6 +1497,13 @@ Si quieres hacer más secuencias aquí tienes algunas ideas divertidas.
 * Los y las cavernícolas hacen unos extraños (y extremadamente ridículos) bailes en la cueva a la luz de la hoguera para atraer a posibles parejas sexuales y románticas.
 * Alguna secuencia acuática con los ictiosaurios y los plesiosaurios.
 
+\saltopagina
+
+### Fin de rodaje
+Toda esta semana de actuar les va a dar todos los que fingieron su muerte exitosamente en algunas de las secuencias anteriores un +2 a Interpretar para hacerse los muertos.
+
+Para el final del rodaje ha preparado una fiesta con alcohol (un barrilete de whiskey), música y baile. Mañana volverá a Estados Unidos y quiere disfrutar de un poco de acción. Deberían beber como cosacos y arrepentirse de todo al día siguiente.
+
 ### Compañero saurio
 Puede ser interesante que durante el rodaje Marina establezca un vínculo con alguno de los dinosaurios. Esto hará que marina y sus rarezas puedan aparecer cada cierto tiempo por el castillo Dunvegan a visitar a su compañero saurio. Puedes usarlo como un comando pre-generado para un jugador o jugadora que quiera jugar una sesión o como un PJ que les dé apoyo en sus aventuras sobre todo en los relatos salvajes.
 
@@ -1503,12 +1512,12 @@ Puede ser en alguna escena en que algún saurio la ataca o los cavernícolas la 
 ### Interés romántico
 Marina también puede ser el interés romántico de cualquiera de tus comandos, no importa ni su género ni su condición sexual. Como he explicado en el apartado anterior, Marina puede ser un personaje muy interesante y divertido para la campaña y este puede ser otro gancho para meterla en las aventuras.  
 
-\saltopagina
-
 ### Sospechas
 Si tus comandos pueden acceder al visionado de la película durante la edición o en su estreno, con una tirada de Humanidades verán que las tomas son tremendamente realistas. Las marionetas de otras películas no tienen primeros planos para que no se vean los cables, pero en "Titanes de tiempos pretéritos" hay planos muy cercanos.
 
 La idea de la película es que sirva de excusa si alguien dice haber visto un saurio, pero parece que quieran que los expertos en saurios puedan darse cuenta de que son reales.
+
+\saltopagina
 
 ### Atrezzo
 Todo el atrezzo de la película lo dejarán los cineastas del IM en las instalaciones de la Isla de Skye, así que si necesitarán disfrazarse de cavernícolas en el futuro, como por ejemplo, cuando vuelvan a la Meseta de Maple White en la parte 8ª de la campaña podrán llevárselo. Dale un beni al que se le ocurra esta idea.
@@ -1523,12 +1532,13 @@ Marina Flowers es la reina de las películas de Serie de B. En sus películas ha
 
 No es excéntrica, ni va de diva, simplemente tiene ramalazos raros y de repente coloca la comida del catering por colores, se despierta a media noche y riza el pelo de todas sus pelucas o desaparece para aparecer horas más tarde con lazos naranjas para toda la gente de la producción. si se le pregunta suele contar extrañas historias para justificar esas conductas. Por lo demás, es una bellísima persona.
 
-\saltopagina
-
 * **Atributos:** Agilidad d6, Astucia d8, Espíritu d10, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d8, Cabalgar d6, Ciencias d6, Conducir d6, Conocimientos Generales d6, Humanidades d6, Idioma Inglés d8, Idioma castellano d6, Interpretar d10, Notar d6, Pelear d6, Persuadir d8, Sigilo d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
 * **Ventajas:** Atractiva, Carismática, Muy Famosa
+
+\saltopagina
+
 * **Desventajas:** Rarezas (mayor). Cada día debe hacer algún tipo de actividad rara. Puede evitarla tirando ESP, pero cada día sin hacer rarezas tiene un -1 a tiradas de habilidades de ESP o AST, incluida la propia tirada de ESP para evitar hacer rarezas.
 * **Equipo:** Maquillaje, Kilt, Caballo
 
