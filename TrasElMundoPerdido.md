@@ -1452,6 +1452,8 @@ Marina hará su entrada unas horas después, montada a caballo y vestida con un 
 
 La IM quiere a Marina en esta película porque es una actriz con bastante fama que atraerá a mucha gente a las salas, pero sobre todo porque tiene fama de inventarse historias raras, de fantasear bastante y en general de comportarse de forma excéntrica. IM sabe que no contará nada de los saurios (firmado está y ella cumple sus contratos), pero si lo hiciera podrían desacreditarla fácilmente.
 
+[![Foto de cavernícolas](./assests/images/cavernicolas.jpg 'Rob Corder - Victor Mature, Carole Landis - One Million BC, 1940 (d. Hal Roach)')](https://www.flickr.com/photos/rocor/49648952763 'Rob Corder - Victor Mature, Carole Landis - One Million BC, 1940 (d. Hal Roach)')
+
 ### 1ª secuencia
 Para la primera secuencia Marina solo va a hablar con gruñidos y palabras inventadas tanto dentro como fuera del set de rodaje.
 
@@ -1460,6 +1462,8 @@ La primera secuencia será de una estampida de saurios. Marina y un par de caver
 Por una de las praderas del hábitat de los herbívoros deberán correr los actores escapando de la estampida. Unos de los cavernícolas debe caerse y ser aplastado por los saurios. Que decidan entre tus comandos quien va a morir en la escena.
 
 Cuando el director de la señal debería dejarse caer y gritar como si lo hubieran aplastado. Deberá pasar **3 tiradas enfrentadas de Atletismo contra el Atletismo de dos estegosaurios y un iguanodonte**. Si la gana, lo esquiva rodando por el suelo, si falla recibe la FUE del saurio de daño. Un compañero saurio no pisará a su humano. 
+
+\saltopagina
 
 Además de las tiradas de Atletismo tendrá que **hacer una tirada de Interpretar para hacerse bien el muerto**. Si falla la tirada el director volverá a rodar la escena con otro comando. Si fallan todos, hará una segunda ronda. Si vuelven a fallar, cogerá la escena del comando que obtuvo mejor tirada. Recuerda que tus comandos pueden fallar a propósito su tirada para fastidiar a sus compañeros.
 
@@ -1472,7 +1476,6 @@ Marina y otros cavernícolas harán esquí acuático usando a los plesiosaurios 
 
 Marina y los comandos deberán pasar una tirada de Atletismo -2 para hacer esquí acuático. Si alguno falla deberán repetir la secuencia. Además alguno deberá conseguir un aumento para hacer alguna acrobacia y luego una tirada de Interpretar para fingir una caída y que le ataque un ictiosaurio. 
 
-\saltopagina
 
 Tienen todos unas bolsas de sangre preparadas para romperlas y que el agua se tiña de rojo. Si fallan sus acrobacias o su actuación al morir volverán a repetir las secuencias.  
 
@@ -1486,6 +1489,8 @@ xxx
 ### 4ª secuencia
 Las rarezas de Marina lo dan todo en la última secuencia que van a rodar y ha traído un barrilete de whisky escocés para la fiesta post filmación.
 
+\saltopagina
+
 Esta secuencia es la batalla final contra el alosaurio. Esta vez Marina liderará a un grupo de cavernícolas contra el malvado depredador. Con lanzas y hachas de cartón-piedra se enfrentarán al alosaurio. El alosaurio deberá coger a uno de los cavernícolas con la boca y luego lanzarlo. Tras eso Marina acabará con el alosaurio clavándole una lanza en la tripa.
 
 xxx
@@ -1497,8 +1502,6 @@ Si quieres hacer más secuencias aquí tienes algunas ideas divertidas.
 * Los y las cavernícolas hacen unos extraños (y extremadamente ridículos) bailes en la cueva a la luz de la hoguera para atraer a posibles parejas sexuales y románticas.
 * Alguna secuencia acuática con los ictiosaurios y los plesiosaurios.
 
-\saltopagina
-
 ### Fin de rodaje
 Toda esta semana de actuar les va a dar todos los que fingieron su muerte exitosamente en algunas de las secuencias anteriores un +2 a Interpretar para hacerse los muertos.
 
@@ -1509,20 +1512,7 @@ Puede ser interesante que durante el rodaje Marina establezca un vínculo con al
 
 Puede ser en alguna escena en que algún saurio la ataca o los cavernícolas la capturan, otro saurio de fuera de la escena salga a defenderla.
 
-### Interés romántico
-Marina también puede ser el interés romántico de cualquiera de tus comandos, no importa ni su género ni su condición sexual. Como he explicado en el apartado anterior, Marina puede ser un personaje muy interesante y divertido para la campaña y este puede ser otro gancho para meterla en las aventuras.  
-
-### Sospechas
-Si tus comandos pueden acceder al visionado de la película durante la edición o en su estreno, con una tirada de Humanidades verán que las tomas son tremendamente realistas. Las marionetas de otras películas no tienen primeros planos para que no se vean los cables, pero en "Titanes de tiempos pretéritos" hay planos muy cercanos.
-
-La idea de la película es que sirva de excusa si alguien dice haber visto un saurio, pero parece que quieran que los expertos en saurios puedan darse cuenta de que son reales.
-
 \saltopagina
-
-### Atrezzo
-Todo el atrezzo de la película lo dejarán los cineastas del IM en las instalaciones de la Isla de Skye, así que si necesitarán disfrazarse de cavernícolas en el futuro, como por ejemplo, cuando vuelvan a la Meseta de Maple White en la parte 8ª de la campaña podrán llevárselo. Dale un beni al que se le ocurra esta idea.
-
-El atrezzo consta de ropas hechas de pieles, sandalias, lanzas y hachas de piedra (las partes afiladas son de goma), pelucas y maquillaje para oscurecer la piel. También hay grandes piedras de cartón-piedra, muslos gigantes asados de dinosaurio y objetos por el estilo dignos de los Picapiedra. 
 
 ### Marina Flowers, reina de la serie B &#x2638;
 
@@ -1537,12 +1527,25 @@ No es excéntrica, ni va de diva, simplemente tiene ramalazos raros y de repente
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
 * **Ventajas:** Atractiva, Carismática, Muy Famosa
 
-\saltopagina
-
 * **Desventajas:** Rarezas (mayor). Cada día debe hacer algún tipo de actividad rara. Puede evitarla tirando ESP, pero cada día sin hacer rarezas tiene un -1 a tiradas de habilidades de ESP o AST, incluida la propia tirada de ESP para evitar hacer rarezas.
 * **Equipo:** Maquillaje, Kilt, Caballo
 
 **Sugerencia de interpretación:** Eres muy carismática y habladora, siempre interesándote por lo demás y ayudándoles en lo que sea. Te gusta flirtear, y hacerte querer. En general da gusto estar contigo hasta que tu cerebro hace clic y te dejas llevar por tu lado raro.
+
+\saltopagina
+
+### Interés romántico
+Marina también puede ser el interés romántico de cualquiera de tus comandos, no importa ni su género ni su condición sexual. Como he explicado en el apartado anterior, Marina puede ser un personaje muy interesante y divertido para la campaña y este puede ser otro gancho para meterla en las aventuras.  
+
+### Sospechas
+Si tus comandos pueden acceder al visionado de la película durante la edición o en su estreno, con una tirada de Humanidades verán que las tomas son tremendamente realistas. Las marionetas de otras películas no tienen primeros planos para que no se vean los cables, pero en "Titanes de tiempos pretéritos" hay planos muy cercanos.
+
+La idea de la película es que sirva de excusa si alguien dice haber visto un saurio, pero parece que quieran que los expertos en saurios puedan darse cuenta de que son reales.
+
+### Atrezzo
+Todo el atrezzo de la película lo dejarán los cineastas del IM en las instalaciones de la Isla de Skye, así que si necesitarán disfrazarse de cavernícolas en el futuro, como por ejemplo, cuando vuelvan a la Meseta de Maple White en la parte 8ª de la campaña podrán llevárselo. Dale un beni al que se le ocurra esta idea.
+
+El atrezzo consta de ropas hechas de pieles, sandalias, lanzas y hachas de piedra (las partes afiladas son de goma), pelucas y maquillaje para oscurecer la piel. También hay grandes piedras de cartón-piedra, muslos gigantes asados de dinosaurio y objetos por el estilo dignos de los Picapiedra. 
 
 \saltopagina
 
