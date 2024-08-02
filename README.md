@@ -28,13 +28,10 @@
   * El pecio
   * Campo minado
   * Limpiando el puerto
-  * ¿Quién es Marion Fairfax?
   * Despedidas
   * El secreto de los Branningan
   * Espécimen perdido
   * Arte robado
-
-# Por hacer de la versión 0.4
 * El mundo perdido
 * La expedición Roxton
 
@@ -47,8 +44,12 @@
 
 # Changelog
 
-# Versión 0.4.3 En desarrollo
+# Versión 0.5 En desarrollo
+* Terminado el Relato Salvaje "¿Quién es Marion Fairfax?"
+
+# Versión 0.4.3 02/08/2024
 * Terminado el Relato Salvaje "Titanes de tiempos pretéritos"
+* Terminado el Relato Salvaje "¿Quién es Marion Fairfax?"
 * Terminada la parte de "Primera misión" de "Parte 1: La isla de Skye"
 
 ## Versión 0.4.2 28/07/2024
