@@ -375,7 +375,7 @@ Así pues, estate seguro de que podrás correr montado en tu alosaurio por un ca
 Recuerda que si tus comandos quieren un poco de complicación a las aventuras pueden poner a sus compañeros dinosaurios fobias incapacitantes como brontofobia (miedo a ruidos muy fuertes como truenos) o pirofobia (miedo al fuego).
 
 ## Dinosaurios en misiones
-Aunque pueda parecer poco creíble, la variedad de misiones que estos reptiles gigantescos puede ser útiles son muy variadas. Todo es cuestión de conocer sus puntos fuertes y débiles y saber aplicarlos a cada situación adecuadamente. Veamos algunas opciones.
+Aunque pueda parecer poco creíble, la variedad de misiones en que estos reptiles gigantescos puede ser útiles son muy variadas. Todo es cuestión de conocer sus puntos fuertes y débiles y saber aplicarlos a cada situación adecuadamente. Veamos algunas opciones.
 
 ### Misiones de infiltración 
 Para empezar hay que pensar que la mayoría de las misiones van a tener un componente de sigilo e infiltración. Muchas misiones implicarán como mínimo cruzar las líneas enemigas sin ser detectados.
@@ -1476,18 +1476,17 @@ Marina y otros cavernícolas harán esquí acuático usando a los plesiosaurios 
 
 Marina y los comandos deberán pasar una tirada de Atletismo -2 para hacer esquí acuático. Si alguno falla deberán repetir la secuencia. Además alguno deberá conseguir un aumento para hacer alguna acrobacia y luego una tirada de Interpretar para fingir una caída y que le ataque un ictiosaurio. 
 
-
 Tienen todos unas bolsas de sangre preparadas para romperlas y que el agua se tiña de rojo. Si fallan sus acrobacias o su actuación al morir volverán a repetir las secuencias.  
 
 ### 3ª secuencia
 Como es costumbre Marina llegará al set de rodaje con una de sus rarezas, ha conseguido unos troncos y quieren practicar lanzamientos de troncos, un deporte tradicional de las tierras altas. 
 
-Una bandada de pteranodones capturarán a Marina y la llevarán a su nido donde están sus crías. Esta escena tiene dos partes una en que están reunidos Marina y los comandos y de repente los pteranodones raptan a Marina y a un figurante cavernícola. La segunda parte es que al extra lo tiran al mar, mientras que a Marina la dejan en uno de los nidos de los acantilados.
+La secuencia de hoy exige que una bandada de pteranodones capturen a Marina y la lleven a su nido donde están sus crías. Esta escena tiene dos partes una en que están reunidos Marina y los comandos/cavernícolas y de repente los pteranodones raptan a Marina y a un figurante cavernícola. La segunda parte es que al extra lo tiran al mar, mientras que a Marina la dejan en uno de los nidos de los acantilados.
 
 xxx
 
 ### 4ª secuencia
-Las rarezas de Marina lo dan todo en la última secuencia que van a rodar y ha traído un barrilete de whisky escocés para la fiesta post filmación.
+Las rarezas de Marina lo dan todo en la última secuencia que van a rodar y ha conseguido el atrezo de alguna representación amateur de Sueño de una noche de verano y además ha traído un barrilete de whisky escocés para la fiesta post filmación.
 
 \saltopagina
 
@@ -1503,9 +1502,10 @@ Si quieres hacer más secuencias aquí tienes algunas ideas divertidas.
 * Alguna secuencia acuática con los ictiosaurios y los plesiosaurios.
 
 ### Fin de rodaje
-Toda esta semana de actuar les va a dar todos los que fingieron su muerte exitosamente en algunas de las secuencias anteriores un +2 a Interpretar para hacerse los muertos.
+Para el final del rodaje ha preparado una fiesta con alcohol (un barrilete de whisky), disfraces de hadas y duendes, música y baile. Mañana volverá a Estados Unidos y quiere disfrutar de un poco de acción. Deberían beber y bailar como irlandeses y arrepentirse de todo al día siguiente. Sería gracioso que al día siguiente partieran con toda la resaca rumbo a una nueva misión.
 
-Para el final del rodaje ha preparado una fiesta con alcohol (un barrilete de whiskey), música y baile. Mañana volverá a Estados Unidos y quiere disfrutar de un poco de acción. Deberían beber como cosacos y arrepentirse de todo al día siguiente.
+> Toda esta semana de actuar les va a dar todos los que fingieron su muerte exitosamente en algunas de las secuencias anteriores un +2 a Interpretar para hacerse los muertos.
+
 
 ### Compañero saurio
 Puede ser interesante que durante el rodaje Marina establezca un vínculo con alguno de los dinosaurios. Esto hará que marina y sus rarezas puedan aparecer cada cierto tiempo por el castillo Dunvegan a visitar a su compañero saurio. Puedes usarlo como un comando pre-generado para un jugador o jugadora que quiera jugar una sesión o como un PJ que les dé apoyo en sus aventuras sobre todo en los relatos salvajes.
@@ -1542,10 +1542,10 @@ Si tus comandos pueden acceder al visionado de la película durante la edición 
 
 La idea de la película es que sirva de excusa si alguien dice haber visto un saurio, pero parece que quieran que los expertos en saurios puedan darse cuenta de que son reales.
 
-### Atrezzo
-Todo el atrezzo de la película lo dejarán los cineastas del IM en las instalaciones de la Isla de Skye, así que si necesitarán disfrazarse de cavernícolas en el futuro, como por ejemplo, cuando vuelvan a la Meseta de Maple White en la parte 8ª de la campaña podrán llevárselo. Dale un beni al que se le ocurra esta idea.
+### atrezo
+Todo el atrezo de la película lo dejarán los cineastas del IM en las instalaciones de la Isla de Skye, así que si necesitarán disfrazarse de cavernícolas en el futuro, como por ejemplo, cuando vuelvan a la Meseta de Maple White en la parte 8ª de la campaña, podrán llevárselo. Dale un beni al que se le ocurra esta idea.
 
-El atrezzo consta de ropas hechas de pieles, sandalias, lanzas y hachas de piedra (las partes afiladas son de goma), pelucas y maquillaje para oscurecer la piel. También hay grandes piedras de cartón-piedra, muslos gigantes asados de dinosaurio y objetos por el estilo dignos de los Picapiedra. 
+El atrezo consta de ropas hechas de pieles, sandalias, lanzas y hachas de piedra (las partes afiladas son de goma), pelucas y maquillaje para oscurecer la piel. También hay grandes piedras de cartón-piedra, muslos gigantes asados de dinosaurio y objetos por el estilo dignos de los Picapiedra. 
 
 \saltopagina
 

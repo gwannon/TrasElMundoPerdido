@@ -33,7 +33,6 @@
   * El secreto de los Branningan
   * Espécimen perdido
   * Arte robado
-  * Titanes de tiempos pretéritos
 
 # Por hacer de la versión 0.4
 * El mundo perdido
@@ -49,6 +48,7 @@
 # Changelog
 
 # Versión 0.4.3 En desarrollo
+* Terminado el Relato Salvaje "Titanes de tiempos pretéritos"
 * Terminada la parte de "Primera misión" de "Parte 1: La isla de Skye"
 
 ## Versión 0.4.2 28/07/2024
