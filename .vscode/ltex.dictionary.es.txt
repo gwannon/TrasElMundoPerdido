@@ -174,3 +174,5 @@ AST
 McFlowers
 cuadrúpedas
 Picapiedra
+3d6
+beni

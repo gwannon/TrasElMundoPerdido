@@ -1023,7 +1023,7 @@ Esta escena debería ser especial para cada comando, así que no la fuerces dema
 
 * Seguramente un alosaurio y un megalosaurio se sentirán inclinados a seguir a un comando que ni se inmute cuando estos gigantes depredadores se les acerque a la carrera rugiendo.
 * Los pteranodones son bastante irritantes. Seguramente intentarán robar el almuerzo de algún comando. Si no le puede robar su comida lo intentará más días hasta que puede que se genere algún tipo de vínculo.
-* Los saurios acuáticos quizás sean los más aliens y por ello no deberías dejar que haya un vínculo con un comando a no ser que haya una buena razón.
+* Los saurios acuáticos quizás sean los más alienígenas y por ello no deberías dejar que haya un vínculo con un comando a no ser que haya una buena razón.
 
 ## Primera misión
 ```
@@ -1452,18 +1452,24 @@ Marina hará su entrada unas horas después, montada a caballo y vestida con un 
 
 La IM quiere a Marina en esta película porque es una actriz con bastante fama que atraerá a mucha gente a las salas, pero sobre todo porque tiene fama de inventarse historias raras, de fantasear bastante y en general de comportarse de forma excéntrica. IM sabe que no contará nada de los saurios (firmado está y ella cumple sus contratos), pero si lo hiciera podrían desacreditarla fácilmente.
 
+&nbsp;
+
 [![Foto de cavernícolas](./assests/images/cavernicolas.jpg 'Rob Corder - Victor Mature, Carole Landis - One Million BC, 1940 (d. Hal Roach)')](https://www.flickr.com/photos/rocor/49648952763 'Rob Corder - Victor Mature, Carole Landis - One Million BC, 1940 (d. Hal Roach)')
+
+&nbsp;
+
+Es importante que los especialistas principales de cada secuencia no se repitan y en caso de tener que repetirse no deberían ser seguidas. Si alguna escena se complica y no pueden hacerla puedes recurrir a que el director, un joven y pedante director de documentales patrióticos llamado Bill Sullivan (usa la ficha de Artista), grite "¡Corten, se acabó por hoy! Ya arreglaremos este desastre en la sala de edición".
 
 ### 1ª secuencia
 Para la primera secuencia Marina solo va a hablar con gruñidos y palabras inventadas tanto dentro como fuera del set de rodaje.
 
 La primera secuencia será de una estampida de saurios. Marina y un par de cavernícolas deberán huir corriendo de un montón de saurios herbívoros que están huyendo de algún tipo de explosión volcánica.  
 
+\saltopagina
+
 Por una de las praderas del hábitat de los herbívoros deberán correr los actores escapando de la estampida. Unos de los cavernícolas debe caerse y ser aplastado por los saurios. Que decidan entre tus comandos quien va a morir en la escena.
 
 Cuando el director de la señal debería dejarse caer y gritar como si lo hubieran aplastado. Deberá pasar **3 tiradas enfrentadas de Atletismo contra el Atletismo de dos estegosaurios y un iguanodonte**. Si la gana, lo esquiva rodando por el suelo, si falla recibe la FUE del saurio de daño. Un compañero saurio no pisará a su humano. 
-
-\saltopagina
 
 Además de las tiradas de Atletismo tendrá que **hacer una tirada de Interpretar para hacerse bien el muerto**. Si falla la tirada el director volverá a rodar la escena con otro comando. Si fallan todos, hará una segunda ronda. Si vuelven a fallar, cogerá la escena del comando que obtuvo mejor tirada. Recuerda que tus comandos pueden fallar a propósito su tirada para fastidiar a sus compañeros.
 
@@ -1474,7 +1480,7 @@ Para la filmación de esta secuencia Marina tiene preparado una sorpresa para to
 
 Marina y otros cavernícolas harán esquí acuático usando a los plesiosaurios como lanchas. Se pondrán unos esquíes cubiertos de corteza de madera para parecer prehistóricos y los plesiosaurios empezarán a tirar de ellos para que floten sobre el agua. Uno de los cavernícolas, deberá caerse al agua dando unas cuantas volteretas en el aire.
 
-Marina y los comandos deberán pasar una tirada de Atletismo -2 para hacer esquí acuático. Si alguno falla deberán repetir la secuencia. Además alguno deberá conseguir un aumento para hacer alguna acrobacia y luego una tirada de Interpretar para fingir una caída y que le ataque un ictiosaurio. 
+Marina y los comandos deberán **pasar una tirada de Atletismo -2 para hacer esquí acuático**. Si alguno falla deberán repetir la secuencia. Además alguno deberá **conseguir un aumento para hacer alguna acrobacia** y luego una tirada de **Interpretar para fingir una caída** y que le ataque un ictiosaurio. 
 
 Tienen todos unas bolsas de sangre preparadas para romperlas y que el agua se tiña de rojo. Si fallan sus acrobacias o su actuación al morir volverán a repetir las secuencias.  
 
@@ -1483,16 +1489,20 @@ Como es costumbre Marina llegará al set de rodaje con una de sus rarezas, ha co
 
 La secuencia de hoy exige que una bandada de pteranodones capturen a Marina y la lleven a su nido donde están sus crías. Esta escena tiene dos partes una en que están reunidos Marina y los comandos/cavernícolas y de repente los pteranodones raptan a Marina y a un figurante cavernícola. La segunda parte es que al extra lo tiran al mar, mientras que a Marina la dejan en uno de los nidos de los acantilados.
 
-xxx
+\saltopagina
+
+Los pteranodones no tienen problema es atrapar a un humano y llevárselo volando, el único problema es la caída al mar. El cavernícola tendrá que hacer dos tiradas. **Una de Interpretar para mover las piernas y los brazos frenéticamente** (metraje que saldrá en la película con el grito Wilhelm) y otra de **Atletismo para hacer una zambullida al mar sin llevarse al daño** (que no saldrá en la película).
+
+Si falla la primera tirada, tendrán que repetir la escena. Si falla la segunda se llevará 3d6 de daño por la panzada contra el agua. 
 
 ### 4ª secuencia
 Las rarezas de Marina lo dan todo en la última secuencia que van a rodar y ha conseguido el atrezo de alguna representación amateur de Sueño de una noche de verano y además ha traído un barrilete de whisky escocés para la fiesta post filmación.
 
-\saltopagina
-
 Esta secuencia es la batalla final contra el alosaurio. Esta vez Marina liderará a un grupo de cavernícolas contra el malvado depredador. Con lanzas y hachas de cartón-piedra se enfrentarán al alosaurio. El alosaurio deberá coger a uno de los cavernícolas con la boca y luego lanzarlo. Tras eso Marina acabará con el alosaurio clavándole una lanza en la tripa.
 
-xxx
+Todos los cavernícolas (incluida Marina) deberán **pasar una tirada de Pelear para atacar con sus armas al alosaurio y otro de Atletismo para hacer alguna acrobacia para esquivar al alosaurio**.
+
+La víctima llevará debajo de las pieles una planchas de cuero muy fuerte para que los dientes del alosaurio no le hagan daño. Deberá **tirar Interpretar para agitarse cuando lo atrape con sus mandíbulas** (con grito Wilhelm como siempre) y romper una cápsula de falsa sangre. Si falla a repetir la escena. Tendrá que hacer además otra de **Atletismo para caer y no hacerse 2d6 de daño** cuando le lance lejos. Esta segunda tirada no hace repetir la escena.
 
 ### Otras secuencias
 Si quieres hacer más secuencias aquí tienes algunas ideas divertidas.
@@ -1501,18 +1511,12 @@ Si quieres hacer más secuencias aquí tienes algunas ideas divertidas.
 * Los y las cavernícolas hacen unos extraños (y extremadamente ridículos) bailes en la cueva a la luz de la hoguera para atraer a posibles parejas sexuales y románticas.
 * Alguna secuencia acuática con los ictiosaurios y los plesiosaurios.
 
+\saltopagina
+
 ### Fin de rodaje
 Para el final del rodaje ha preparado una fiesta con alcohol (un barrilete de whisky), disfraces de hadas y duendes, música y baile. Mañana volverá a Estados Unidos y quiere disfrutar de un poco de acción. Deberían beber y bailar como irlandeses y arrepentirse de todo al día siguiente. Sería gracioso que al día siguiente partieran con toda la resaca rumbo a una nueva misión.
 
 > Toda esta semana de actuar les va a dar todos los que fingieron su muerte exitosamente en algunas de las secuencias anteriores un +2 a Interpretar para hacerse los muertos.
-
-
-### Compañero saurio
-Puede ser interesante que durante el rodaje Marina establezca un vínculo con alguno de los dinosaurios. Esto hará que marina y sus rarezas puedan aparecer cada cierto tiempo por el castillo Dunvegan a visitar a su compañero saurio. Puedes usarlo como un comando pre-generado para un jugador o jugadora que quiera jugar una sesión o como un PJ que les dé apoyo en sus aventuras sobre todo en los relatos salvajes.
-
-Puede ser en alguna escena en que algún saurio la ataca o los cavernícolas la capturan, otro saurio de fuera de la escena salga a defenderla.
-
-\saltopagina
 
 ### Marina Flowers, reina de la serie B &#x2638;
 
@@ -1523,16 +1527,21 @@ Marina Flowers es la reina de las películas de Serie de B. En sus películas ha
 No es excéntrica, ni va de diva, simplemente tiene ramalazos raros y de repente coloca la comida del catering por colores, se despierta a media noche y riza el pelo de todas sus pelucas o desaparece para aparecer horas más tarde con lazos naranjas para toda la gente de la producción. si se le pregunta suele contar extrañas historias para justificar esas conductas. Por lo demás, es una bellísima persona.
 
 * **Atributos:** Agilidad d6, Astucia d8, Espíritu d10, Fuerza d6, Vigor d6
+
+\saltopagina
+
 * **Habilidades:** Atletismo d8, Cabalgar d6, Ciencias d6, Conducir d6, Conocimientos Generales d6, Humanidades d6, Idioma Inglés d8, Idioma castellano d6, Interpretar d10, Notar d6, Pelear d6, Persuadir d8, Sigilo d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
 * **Ventajas:** Atractiva, Carismática, Muy Famosa
-
 * **Desventajas:** Rarezas (mayor). Cada día debe hacer algún tipo de actividad rara. Puede evitarla tirando ESP, pero cada día sin hacer rarezas tiene un -1 a tiradas de habilidades de ESP o AST, incluida la propia tirada de ESP para evitar hacer rarezas.
 * **Equipo:** Maquillaje, Kilt, Caballo
 
 **Sugerencia de interpretación:** Eres muy carismática y habladora, siempre interesándote por lo demás y ayudándoles en lo que sea. Te gusta flirtear, y hacerte querer. En general da gusto estar contigo hasta que tu cerebro hace clic y te dejas llevar por tu lado raro.
 
-\saltopagina
+### Compañero saurio
+Puede ser interesante que durante el rodaje Marina establezca un vínculo con alguno de los dinosaurios. Esto hará que marina y sus rarezas puedan aparecer cada cierto tiempo por el castillo Dunvegan a visitar a su compañero saurio. Puedes usarlo como un comando pre-generado para un jugador o jugadora que quiera jugar una sesión o como un PJ que les dé apoyo en sus aventuras sobre todo en los relatos salvajes.
+
+Puede ser en alguna escena en que algún saurio la ataca o los cavernícolas la capturan, otro saurio de fuera de la escena salga a defenderla.
 
 ### Interés romántico
 Marina también puede ser el interés romántico de cualquiera de tus comandos, no importa ni su género ni su condición sexual. Como he explicado en el apartado anterior, Marina puede ser un personaje muy interesante y divertido para la campaña y este puede ser otro gancho para meterla en las aventuras.  
@@ -1542,7 +1551,9 @@ Si tus comandos pueden acceder al visionado de la película durante la edición 
 
 La idea de la película es que sirva de excusa si alguien dice haber visto un saurio, pero parece que quieran que los expertos en saurios puedan darse cuenta de que son reales.
 
-### atrezo
+\saltopagina
+
+### Atrezo
 Todo el atrezo de la película lo dejarán los cineastas del IM en las instalaciones de la Isla de Skye, así que si necesitarán disfrazarse de cavernícolas en el futuro, como por ejemplo, cuando vuelvan a la Meseta de Maple White en la parte 8ª de la campaña, podrán llevárselo. Dale un beni al que se le ocurra esta idea.
 
 El atrezo consta de ropas hechas de pieles, sandalias, lanzas y hachas de piedra (las partes afiladas son de goma), pelucas y maquillaje para oscurecer la piel. También hay grandes piedras de cartón-piedra, muslos gigantes asados de dinosaurio y objetos por el estilo dignos de los Picapiedra. 
