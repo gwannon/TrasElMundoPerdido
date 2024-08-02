@@ -1256,10 +1256,10 @@ En IM han metido en un mini-fonógrafo ruidos de la selva para que los dinosauri
 
 > Ponerles la música de la selva da un +2 a las tiradas de Medicina para curarles cuando están escuchándolos. El problema es que los relaja tanto que mientras escuchan la música y la hora posterior tienen un -1 a todas las tiradas. 
 
+\saltopagina
+
 ### Material reflectante
 Espías industriales del MI6 han conseguido en EUA (en los laboratorios de la empresa M3) unos prototipos de material reflectante. Este material refleja la luz de forma que son visibles, aunque las condiciones de luz sean mínimas.
-
-\saltopagina
 
 Desde IM han les han proporcionado 2 planchas de 4 m² de este material para que lo prueben en misiones. Pueden usarlo como quieran, desde hacer pequeñas piezas para marcar zonas de aterrizaje o marcar una ruta de escape de las alcantarillas, hasta ponerlo en las placas del estegosaurio y que sea visible a muchos metros de distancia y pueda recogerlo un helicóptero.
 
@@ -1274,11 +1274,11 @@ Un joven activista medioambiental se ha encadenado a la entrada principal del mu
 
 Cuando tus comandos vuelve una misión se encuentran a un chaval de unos 15 o 16 años encadenado (3 cadenas con 3 candados, -2 Latrocinio cada candado, cada cadena tiene una consistencia de 9) a la puerta principal de los terrenos de la fundación. Tiene varios carteles donde se puede leer "Lady Roxton experimenta con animales en peligro de extinción" o "La Fundación Roxton es una tapadera del ejército para experimentar con animales". Tiene un hornillo para cocinar y calentarse y un gran macuto (también encadenado) con provisiones para 7 días.
 
+\saltopagina
+
 Tendrán que buscar la manera de deshacerse de Gerald, bien por la fuerza, bien con el engaño o bien con la persuasión. Lady Margaret no quiere que nadie de fuera entre en las instalaciones. Bajo ninguna circunstancia debería dejársele entrar.
 
 Por la fuerza es el camino más rápido, pero no pueden hacerle nada porque está fuera de los terrenos. Si le dañan de alguna manera les pondrá una demanda, habrá un juicio por lesiones y demás. Puede aparecer alguien de la prensa cuando vayan a actuar contra Gerald para complicarlo.
-
-\saltopagina
 
 Pueden intentar engañarle, prometerle que le dejarán entrar y ver las instalaciones y cuando se desate no hacerle ni caso. En esa situación al volver de otra misión Gerald volverá a estar con dos compañeros, así con más gente hasta que le deje entrar.
 
@@ -1298,12 +1298,12 @@ Este, joven naturalista y activista medioambiental va a ser un pequeño quebrade
 
 **Sugerencia de interpretación:** Eres muy cabezota. Si piensas que están experimentando con animales hasta que no entres y lo veas con tus propios ojos, nada podrá convencerte de lo contrario. 
 
+\saltopagina
+
 ## ¿Quién es Marion Fairfax?
 ```
 En 1924 en Hollywood una guionista/actriz llamada Marion Fairfax intentaba vender un guion de cine que era casi calcado a la expedición de Challenger. La Fundación Roxton compró los derechos cinematográficos a través de una empresa pantalla e hizo desaparecer el manuscrito del guión.
 ```
-
-\saltopagina
 
 [![Retrato de Marion Fairfax](./assests/images/marion-fairfax.jpg 'American screenwriter Marion Fairfax, page 24 of the October 1921 Photoplay.')](https://es.wikipedia.org/wiki/Marion_Fairfax#/media/Archivo:Marion_Fairfax.jpg 'American screenwriter Marion Fairfax, page 24 of the October 1921 Photoplay.')
 
@@ -1318,31 +1318,40 @@ Pueden intentar acercarse a Marion en el "Savoy" o en una de las librerías. Per
 
 * Hay tal cantidad de fans esperando hablar con su autora preferida que es imposible acercarse. Si se ponen violentos los fans se volverán locos y habrá una turba de fans enloquecidos.
 
+\saltopagina
+
 * La seguridad de la librería o del "Savoy" cree que los comandos son sospechosos y los expulsará del local.
 * Cuando consigan acercarse a Marion habrá una alarma de incendio o incluso un aviso de bombardeo y evacuarán el local.
 * Al estar cerca de ella, estará indispuesta y tendrá que ir al baño y ya no volverá. El agua y la comida inglesa es demasiado para su estómago americano.
+* Su editora os confunde como editores ingleses y no se despega de ellos, intentando negociar algún tipo de trato con las novelas de su escritora.
+* Un grupo de fans muy locos no permite acercarse a Marion.
+* Si le envían algo, lo filtra todo su editora y no quiere que la distraiga nada, asi que lo para todo.
 
 Si se lo trabajan bien puedes darles algunos benis, pero lo divertido es que fracasen e incitarles a cada vez llevar a cabo planes más locos, como disfrazarse de fans, colarse como camareros o infiltrase en plan ninja en el hotel.
-
-\saltopagina
 
 ### Cena de escritoras
 La última oportunidad será una comida de escritoras famosas como Agatha Christie, Virginia Woolf, Pamela Lyndon Travers (autora de Mary Poppins). A esta altura y con todos sus planes anteriores fallando deberían buscar un plan realmente loco. Si no les ves animados, recibirán un telegrama de Lady Roxton metiéndoles presión.
 
 Marion siempre va acompañada de su editora, Alice Gerald (usa la ficha de Burócrata), que no se separa de ella nunca. Así que el primer paso será deshacerse de Alice para poder acercarse a Marion. Puedes deshacerse de ellas de varias formas, pero como mínimo un comando tendrá que estar con ella. Pueden seducirla, ponerle laxantes en la bebida, perderla cuando coja un taxi, etc. Puedes manejarla como un Terminador, su objetivo es estar junto a Marion y nada la detendrá. 
 
-xxx
+La cena es privada en un exclusivo salón del Savoy. El personal del Savoy ya debería conocer a tus comandos y no les dejará acercarse. Tendrás que disfrazarse de personal de sala o de cocina. 
+
+Cualquier plan es posible. Quizás puedan disfrazarse de alguna escritora/editora invitada que no se deje fotografiar. Podrían hacer un pequeño incendio y colarse como bomberos.
+
+Si Marina Flowers (Titanes de tiempos pretéritos) está en el país, quizás puedan conseguir que les ayude, pero deberán saber manejar sus rarezas.
+
+En la biblioteca del castillo Dunvegan tienen el guion original que escribió Marion. Si consiguen que lo vea, aunque sea de lejos, se quedará ojiplática. Ya ni se acordaba de esos tiempos en Hollywood y se acerca directamente les pedirá que vayan a un lugar privado a hablar sobre el tema.
+
+\saltopagina
 
 ### El secreto de Marion
 Una vez que consigan acercarse a Marion y le expliquen quienes son (sea verdad o mentira lo que le digan) estará encantada de contar la historia de su primer guion. 
 
-La explicación es bastante sencilla la cocinera de su familia contaba la historia de un primo suyo llamado Zambo, el leal ayudante negro, que acompañó a la expedición Challenger.
+> La explicación es bastante sencilla la cocinera de su familia contaba la historia de un primo suyo llamado Zambo, el leal ayudante negro, que acompañó a la expedición Challenger.
 
 No era ninguna lumbrera y la Fundación no consideró que fuera una posible fuga de información. De hecho muchos amigos y familiares creían que estaba loco y que se había inventado toda la historia. Pero la contaban entre ellos porque era muy divertida.  
 
 Como regalo les dará una copia de su último libro dedicado y firmado y les dirá que si pasan por san Francisco vayan a visitarla y es verdad.
-
-\saltopagina
 
 ### Marion Fairfax &#x2638;
 
