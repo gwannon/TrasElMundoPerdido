@@ -1162,7 +1162,7 @@ xxx
 
 \saltopagina
 
-**Asesino nazi**
+#### Asesino nazi
 Estamos hablando de asesinos entrenados y dispuestos a cumplir las órdenes que les den sus líderes nazis. Estamos hablando de personas sin escrúpulos y fanáticas del Tercer Reich que no les importa a quién deben matar.
 
 * **Atributos:** Agilidad d10, Astucia d6, Espíritu d6, Fuerza d10, Vigor d12
@@ -1191,6 +1191,9 @@ xxx
 ### Informe de misión
 xxx
 
+### La pista
+xxx
+
 ***
 
 # Parte 4: Noruega
@@ -1205,6 +1208,9 @@ xxx
 ### Informe de misión
 xxx
 
+### La pista
+xxx
+
 ***
 
 # Parte 5: Normandía
@@ -1216,6 +1222,9 @@ xxx
 ### Informe de misión
 xxx
 
+### La pista
+xxx
+
 ***
 
 # Parte 6: El frente ruso
@@ -1225,6 +1234,9 @@ xxx
 xxx
 
 ### Informe de misión
+xxx
+
+### La pista
 xxx
 
 ***
@@ -1248,6 +1260,13 @@ xxx
 ## Misión de rescate
 ```
 Cuando el zepelín sobrevoló el Mundo Perdido descubrió el campamento de la Fundación y mando un grupo de asalto que tomo fácilmente el control de las instalaciones. Lo primero de tus comandos debería ser liberar a los prisioneros.
+```
+
+xxx
+
+## Evitando un genocidio
+```
+El general Liebenfels considera que los cavernícolas de la meseta emponzoñan los ideales raciales nazis y se propone a exterminar todas las comunidades cavernícolas, si alguien no lo evita.
 ```
 
 xxx
