@@ -1062,7 +1062,7 @@ Estará fondeado en la costa oeste de la isla a la altura de las tierras de la F
 
 Pueden aprovechar para conocer las instalaciones básicas del barco y hablar con la capitana, que sabe bastante de transportar saurios en barco, lleva haciéndolo años.
 
-EL viaje es corto, unos 3 días, hasta llegar a la costa de Francia donde está la isla de Jersey. Sin acercarse mucho a costa, tendrán que colocar los flotadores a los estegosaurios y luego en una barcaza irán los comandos y las antenas. Los acuáticos en unos pocos viajes habrán desembarcado a todo el equipo sin hacer el mínimo ruido y sin usar luces. Salvo que pasará algo extraño son prácticamente indetectables. 
+EL viaje es corto, unos 3 días, hasta llegar a la costa de Francia donde está la isla de Jersey. Sin acercarse mucho a costa, tendrán que colocar los flotadores a los estegosaurios (ver el relato salvaje "El prototipo") y luego en una barcaza irán los comandos y las antenas. Los acuáticos en unos pocos viajes habrán desembarcado a todo el equipo sin hacer el mínimo ruido y sin usar luces. Salvo que pasará algo extraño son prácticamente indetectables. 
 
 [![Fotografía aérea de la Isla de Jersey](./assests/images/jersey.jpg 'Satellite view of Jersey - Copernicus Sentinel-2, ESA')](https://en.wikipedia.org/wiki/Jersey#/media/File:Jersey_by_Sentinel-2.jpg 'Satellite view of Jersey - Copernicus Sentinel-2, ESA')
 
@@ -1094,8 +1094,12 @@ Si todo va como marca los planes, mientras le duren las baterías de la antena p
 
 \saltopagina
 
-### Algo no suena bien
-Si tus comandos no se dan cuentan y lo arreglan, estarán dejando huellas de los estegosaurios o iguanodones en los terrenos de la isla. Dándole vueltas a todo esto debería ser sospechoso que a la IM no haya visto el problema de las huellas. Todavía no tienen que sospecharlo, pero con el tiempo podrán darse cuenta de que la IM quiere que los nazis encuentren las huellas y las estudien y empiecen a sospechar que existen los dinosaurios.
+### La pista
+Algo no suena bien en esta misión. Si tus comandos no se dan cuentan y lo arreglan, estarán dejando huellas de los estegosaurios o iguanodones en los terrenos de la isla. 
+
+En grandes espacios como la tundra noruega es imposible encontrar pistas de los dinosaurios. Sería como buscar una aguja en un pajar, pero en la pequeña isla de Jersey podrían encontrar los rastros de los estegosaurios sin problemas.
+
+Dándole vueltas a todo esto debería ser sospechoso que a la IM no haya visto el problema de las huellas. Todavía no tienen que sospecharlo, pero con el tiempo podrán darse cuenta de que la IM quiere que los nazis encuentren las huellas y las estudien y empiecen a sospechar que existen los dinosaurios.
 
 ***
 
@@ -1107,26 +1111,20 @@ El Norte de África es una de las ubicaciones más exóticas de esta campaña, a
 El ejército necesita que el comando entre Tobruk y saque a un agente que tiene un objeto de vital importancia para IM. El único problema es que la ciudad esta asediada por los "Africa Korps" por tierra aire y mar.
 ```
 
-xxx
+Aviso por radio, reunión urgente en el castillo Dunvegan. El teniente Horace Chambers aparece en el comedor con dulces locales y café de Colombia y un montón de mapas de lo que parece el Norte de África. Viene a encargarles una nueva misión a tus comandos.
 
 ### Informe de misión
-xxx
-
-Aviso por radio, reunión urgente en el castillo Dunvegan. El teniente Horace Chambers aparece en el comedor con dulces locales y café de colombia y un montón de mapas de lo que parece el Norte de África. Viene a encargarles una nueva misión a tus comandos.
-
 La misión es bastante simple, saltarse las fuerzas nazis que tienen sitiada la ciudad libia de Tobruk, sacar a un agente de IM con un objeto de máxima importancia y traerlo a Inglaterra.
 
 Tobruk es una ciudad portuaria muy bien protegida por ingleses y australianos. Está completamente sitiada por los nazis por tierra y por mar y los intentos anteriores de sacar al activo del IM han fracasado totalmente. Es por ello que el general Linton ha propuesto intentarlo desde otro punto de vista, uno prehistórico. 
 
 Es una misión de infiltración pura y dura, si se meten en combate tendrán a todos los África Korps de Rommel contra ellos. Deberían desarrollar el plan de entrada y salida basándose en los saurios voladores y acuáticos que pueden entrar y salir de la ciudad sin ser vistos. 
 
-Los terrestres no deberían ser de utilidad, pero igual tienen un plan magistral para usarlos.Los plesiosaurios podrían estar días en el puerto sin ser detectados y los pteranodones podrían refugiarse en los edificios medio derrumbados por bombardeos que hay por toda la ciudad.
+Los terrestres no deberían ser de utilidad, pero igual tienen un plan magistral para usarlos. Los plesiosaurios podrían estar días en el puerto sin ser detectados y los pteranodones podrían refugiarse en los edificios medio derrumbados por bombardeos que hay por toda la ciudad.
 
 \saltopagina
 
 [![Plano del sitio de Tobruk](./assests/images/tobruk-map.jpg 'Tobruk 1941 - 1942: A German map showing British defences at Tobruk. - SELINGER FRANZ COLLECTION')](https://www.iwm.org.uk/collections/item/object/205132686 'Tobruk 1941 - 1942: A German map showing British defences at Tobruk. - SELINGER FRANZ COLLECTION')
-
-xxx
 
 ### Tobruk
 Tobruk es la típica ciudad costera árabe del Norte de África. La ciudad tiene los elementos típicos como la medina, xxx
@@ -1135,8 +1133,18 @@ Tobruk es un puerto muy importante para la campaña del Norte de África es fund
 
 \saltopagina
 
-### La máquina enigma
+### Entrar en Tobruk
+El "Mary Anning" tomará camino a Creta todavía en manos inglesas xxx
 
+xxx
+
+### Buscar al activo de la IM
+xxx
+
+### Salir de Tobruk
+xxx
+
+### La máquina enigma
 [![Detalle de Máquina Enigma](./assests/images/maquina-enigma.jpg 'Máquina Enigma a bordo de un Sd.KFz 251 de Heinz Guderian')](https://es.wikipedia.org/wiki/Enigma_(m%C3%A1quina)#/media/Archivo:Bundesarchiv_Bild_101I-769-0229-10A,_Frankreich,_Guderian,_%22Enigma%22.jpg 'Máquina Enigma a bordo de un Sd.KFz 251 de Heinz Guderian')
 
 Enigma es una máquina electromagnética para cifrar y descifrar mensajes. Es usada por todas las ramas del ejército nazi para encriptar y desencriptar sus comunicaciones. Jocelyn no ha conseguido una de estas máquinas enteras, pero ha conseguido una de sus partes fundamentales, los rotores de conversión. Estudiándolos se podría llegar a crear un sistema para descifrar los mensajes interceptados rápidamente. 
@@ -1152,9 +1160,20 @@ No deben fiarse de nadie hasta llegar a su destino. IM está seguro que hay nazi
 
 xxx
 
-> Si hay fans de la informática en tu mesa quizás sea un detalle bonito que [Alan Turing](https://es.wikipedia.org/wiki/Alan_Turing) o [Joan Clarke](https://es.wikipedia.org/wiki/Joan_Clarke) recojan en rotor, se quiten las gafas estupefactas y exclamen "Esto podría cambiar el curso de la guerra. Habéis salvado miles si no millones de vidas".
-
 \saltopagina
+
+**Asesino nazi**
+Estamos hablando de asesinos entrenados y dispuestos a cumplir las órdenes que les den sus líderes nazis. Estamos hablando de personas sin escrúpulos y fanáticas del Tercer Reich que no les importa a quién deben matar.
+
+* **Atributos:** Agilidad d10, Astucia d6, Espíritu d6, Fuerza d10, Vigor d12
+* **Habilidades:** Atletismo d10, Cabalgar d10, Conducir d10, Disparar d10, Idioma nativo d6, Idioma inglés d6, Pelear d12, Sigilo d10, Tácticas d10
+* **Paso:** 6; **Parada:** 9(1); **Dureza:** 9(1)
+* **Ventajas:** Acróbata, Ambidextro, Ataque repentino, Con un par, Bloqueo, Soldado, Sin piedad
+* **Desventajas:** Secreto (asesina profesional), Fanático (SS), Deseo de muerte
+* **Equipo:** Kukri (FUE+d6), Pistola, Ropas de cuero (dureza +1)
+
+
+> Si hay fans de la informática en tu mesa quizás sea un detalle bonito que [Alan Turing](https://es.wikipedia.org/wiki/Alan_Turing) o [Joan Clarke](https://es.wikipedia.org/wiki/Joan_Clarke) recojan en rotor, se quiten las gafas estupefactas y exclamen "Esto podría cambiar el curso de la guerra. Habéis salvado miles si no millones de vidas".
 
 ### La pista
 Cuando vuelvan a irse de misión Lady Margaret les enseñará un documento de Bletchley Park. Con las posiciones que tenía el rotor antes de sacarlo de la máquina Enigma han sacado unas palabras: Fundación Roxton infiltrado. 
@@ -1559,14 +1578,28 @@ La Reina quiere agasajar a las heroínas y héroes de la fundación Roxton con u
 
 xxx
 
+### La recepción
+xxx
+
+### La cena
+xxx
+
+### Desastre a los postres
+xxx
+
 \saltopagina
 
 ## El pecio
 ```
-Mientras el Mary Anning surcaba el mar uno de los plesiosaurios que viaja con él, ha aparecido con un extraño objeto en la boca. Quizás no es mala idea pararse y buscar donde lo ha encontrado.
+Mientras el "Mary Anning" surcaba el mar uno de los plesiosaurios que viaja con él, ha aparecido con un extraño objeto en la boca. Quizás no es mala idea pararse y buscar donde lo ha encontrado.
 ```
 
 xxx
+
+### Comenzando una aventura
+Este relato puede servirte como introducción a tus propias aventuras. Entre los objetos rescatados puede haber algún tipo de valija con documentación que sirva de semilla de tus propias aventuras. 
+
+Quizás haya un mapa de algún lugar misterioso como Lemuria o la Atlántida, diseños de alguna extraña máquina hipertecnológica nazi, la ubicación de otro mundo perdido, etc.
 
 \saltopagina
 
@@ -1576,6 +1609,13 @@ Mientras tus comandos atraviesan una zona despejada de terreno, descubren para s
 ```
 
 xxx
+
+### Lo que dice el manual en estas situaciones 
+xxx
+
+### Otras soluciones imaginativas
+xxx
+
 
 \saltopagina
 
