@@ -593,6 +593,16 @@ Recibes un **+2 en tiradas en que las matemáticas sean importantes**, desde Apo
 
 \saltopagina
 
+### Nueva ventaja: Sensibilidad celta
+**Requisitos:** Novato, solo un comando por grupo
+
+El comando tiene un sexto sentido afinado con las energías extrañas que nos rodean, desde los diferentes planos, pasando por otras dimensiones, hasta la magia. Esto se resumen en un sexto sentido que le da ideas en situaciones desesperadas. 
+
+En situaciones de estrés y grave peligro, como estar rodeados por nazis, en un avión en llamas o perdidos en la selva, el comando puede gastar todos sus benis (mínimo 1) y el DJ deberá darle una pista que le ayude a salir del embrollo en que este metido. Puede ser buscar un sótano por el que escapar, construir un paracaídas con restos o buscar un punto elevado para orientarse. 
+
+La pista puede implicar a veces que como DJ debas cambiar detalles de tu aventura, pero deberían ser justo lo suficiente para tener una posibilidad de salir del apuro
+
+
 ### Nueva desventaja: Alergia a los saurios (mayor)
 **Requisitos:** Novato
 
@@ -608,6 +618,8 @@ Su capacidad de volar es excepcionalmente rápida, convirtiéndole en uno de los
 
 Su capacidad de nadar es excepcionalmente rápida, convirtiéndole en uno de los especímenes más veloces en el agua. El Paso nadando del dinosaurio aumenta en +2.
 
+\saltopagina
+
 ### Nueva ventaja para dinosaurios: Aviso de peligro
 **Requisitos:** Novato, Herbívoro
 
@@ -618,7 +630,6 @@ Llevar milenios siendo una presa ha hecho que ciertos especímenes de tu especie
 
 El saurio es muy buen paciente y se comporta muy bien cuando hay que realizarle pruebas o realizar curas. Las tiradas de Ciencias al practicarle pruebas y experimentos y las de Medicina al curar heridas y enfermedades obtiene un +2.
 
-\saltopagina
 
 ### Nueva ventaja para dinosaurios: Raptor
 **Requisitos:** Novato, Carnívoro
@@ -636,6 +647,8 @@ Podrá quitarse si se quiere gastando un avance conseguido a partir de Experimen
 ### Nueva desventaja para dinosaurios: Parte de la manada (Menor)
 
 Nuestro saurio siempre ha formado parte de una manda y no actúa bien cuando está solo. Todas las tiradas que haga solo fuera de combate tienen un -1.  
+
+\saltopagina
 
 ### Nueva desventaja para dinosaurios: Mal paciente (Menor)
 
@@ -1096,6 +1109,32 @@ El ejército necesita que el comando entre Tobruk y saque a un agente que tiene 
 
 xxx
 
+### Informe de misión
+xxx
+
+Aviso por radio, reunión urgente en el castillo Dunvegan. El teniente Horace Chambers aparece en el comedor con dulces locales y café de colombia y un montón de mapas de lo que parece el Norte de África. Viene a encargarles una nueva misión a tus comandos.
+
+La misión es bastante simple, saltarse las fuerzas nazis que tienen sitiada la ciudad libia de Tobruk, sacar a un agente de IM con un objeto de máxima importancia y traerlo a Inglaterra.
+
+Tobruk es una ciudad portuaria muy bien protegida por ingleses y australianos. Está completamente sitiada por los nazis por tierra y por mar y los intentos anteriores de sacar al activo del IM han fracasado totalmente. Es por ello que el general Linton ha propuesto intentarlo desde otro punto de vista, uno prehistórico. 
+
+Es una misión de infiltración pura y dura, si se meten en combate tendrán a todos los África Korps de Rommel contra ellos. Deberían desarrollar el plan de entrada y salida basándose en los saurios voladores y acuáticos que pueden entrar y salir de la ciudad sin ser vistos. 
+
+Los terrestres no deberían ser de utilidad, pero igual tienen un plan magistral para usarlos.Los plesiosaurios podrían estar días en el puerto sin ser detectados y los pteranodones podrían refugiarse en los edificios medio derrumbados por bombardeos que hay por toda la ciudad.
+
+\saltopagina
+
+[![Plano del sitio de Tobruk](./assests/images/tobruk-map.jpg 'Tobruk 1941 - 1942: A German map showing British defences at Tobruk. - SELINGER FRANZ COLLECTION')](https://www.iwm.org.uk/collections/item/object/205132686 'Tobruk 1941 - 1942: A German map showing British defences at Tobruk. - SELINGER FRANZ COLLECTION')
+
+xxx
+
+### Tobruk
+Tobruk es la típica ciudad costera árabe del Norte de África. La ciudad tiene los elementos típicos como la medina, xxx
+
+Tobruk es un puerto muy importante para la campaña del Norte de África es fundamental, la ciudad está en una peninsula xxx
+
+\saltopagina
+
 ### La máquina enigma
 
 [![Detalle de Máquina Enigma](./assests/images/maquina-enigma.jpg 'Máquina Enigma a bordo de un Sd.KFz 251 de Heinz Guderian')](https://es.wikipedia.org/wiki/Enigma_(m%C3%A1quina)#/media/Archivo:Bundesarchiv_Bild_101I-769-0229-10A,_Frankreich,_Guderian,_%22Enigma%22.jpg 'Máquina Enigma a bordo de un Sd.KFz 251 de Heinz Guderian')
@@ -1109,13 +1148,13 @@ Mientras están de regreso en el "Mary Anning", recibirán órdenes de escoltar
 
 Branningan cree que lo mejor es desembarcar en Portsmouth, de ahí a Oxford y luego Bletchley Park. Tendrán que alquilar un vehículo. El "Mary Anning" con los dinosaurios seguirá por el mar de Irlanda hasta Skye.
 
-\saltopagina
-
 No deben fiarse de nadie hasta llegar a su destino. IM está seguro que hay nazis en suelo inglés con órdenes de destruir el rotor.
 
 xxx
 
 > Si hay fans de la informática en tu mesa quizás sea un detalle bonito que [Alan Turing](https://es.wikipedia.org/wiki/Alan_Turing) o [Joan Clarke](https://es.wikipedia.org/wiki/Joan_Clarke) recojan en rotor, se quiten las gafas estupefactas y exclamen "Esto podría cambiar el curso de la guerra. Habéis salvado miles si no millones de vidas".
+
+\saltopagina
 
 ### La pista
 Cuando vuelvan a irse de misión Lady Margaret les enseñará un documento de Bletchley Park. Con las posiciones que tenía el rotor antes de sacarlo de la máquina Enigma han sacado unas palabras: Fundación Roxton infiltrado. 
@@ -1130,6 +1169,9 @@ xxx
 ## Batalla del Río de la Plata
 xxx
 
+### Informe de misión
+xxx
+
 ***
 
 # Parte 4: Noruega
@@ -1141,6 +1183,9 @@ Sabotear las fábricas de agua pesada de Telemark es fundamental si queremos gan
 ```
 xxx
 
+### Informe de misión
+xxx
+
 ***
 
 # Parte 5: Normandía
@@ -1149,12 +1194,18 @@ xxx
 ## Preparando el día D
 xxx
 
+### Informe de misión
+xxx
+
 ***
 
 # Parte 6: El frente ruso
 xxx
 
 ## El sitio de Stalingrado
+xxx
+
+### Informe de misión
 xxx
 
 ***
@@ -1366,86 +1417,6 @@ Como regalo les dará una copia de su último libro dedicado y firmado y les dir
 
 \saltopagina
 
-## Un día en el museo
-```
-Quizás una visita al Museo de Ciencias Naturales ayude a solucionar un nuevo problema que ha supuesto la cría de dinosaurios.
-```
-xxx
-
-\saltopagina
-
-## Cena de etiqueta
-```
-La Reina quiere agasajar a las heroínas y héroes de la fundación Roxton con una cena en el Castillo de Balmoral donde podrá conocer a los dinosaurios que les acompañan en sus peligrosas misiones.
-```
-
-xxx
-
-\saltopagina
-
-## El pecio
-```
-Mientras el Mary Anning surcaba el mar uno de los plesiosaurios que viaja con él, ha aparecido con un extraño objeto en la boca. Quizás no es mala idea pararse y buscar donde lo ha encontrado.
-```
-
-xxx
-
-\saltopagina
-
-## Campo minado
-```
-Mientras tus comandos atraviesan una zona despejada de terreno, descubren para su desgracia que se han metido en un campo de minas.
-```
-
-xxx
-
-\saltopagina
-
-## Limpiando el puerto
-```
-Durante un trayecto en el "Mary Anning" llegan a un puerto que los nazis han llenado de minas. Si las desactivan con la ayuda de los saurios acuáticos, los nazis creerán que el puerto está controlado pero los contrabandistas podrán entrar y salir delante de las narices de los nazis. 
-```
-xxx
-
-\saltopagina
-
-## Despedidas
-```
-La guerra se ha acabado y quizás es el momento de que los dinosaurios vuelvan a su mundo. 
-```
-xxx
-
-\saltopagina
-
-## El secreto de los Branningan
-```
-La familia Branningan lleva siendo marinos, lo que no saben es que durante un tiempo fueron corsarios al servicio de Inglaterra. 
-```
-
-Ahora que regresan a casa, por el camino, la capitán Branningan tiene una oferta interesante que proponerles. Conoce la ubicación de un galeón hundido lleno de oro. Si le ayudan a rescatarlo, compartirá con ellos una parte. Dolores acaba su propuesta con un "Así, cuando acabe esta maldita guerra, podremos retirarnos y vivir como reyes en alguna isla del Caribe bebiendo ron y bailando salsa."
-
-xxx
-
-\saltopagina
-
-## Espécimen perdido
-```
-Al volver a Skye os informan de que un huevo de pteranodon ha desaparecido de su nido. Han encontrado pisadas cerca y los padres tienen señales de lucha.
-```
-
-xxx
-
-\saltopagina
-
-## Arte robado
-```
-Tu comando debe ayudar a los "Monuments Men" a recuperar arte robado por los Nazis.
-```
-
-xxx
-
-\saltopagina
-
 ## Titanes de tiempos pretéritos
 ```
 La gente de IM ha tenido una idea genial, usar a los saurios en una película de bajo presupuesto. De forma que si alguien ve a los dinosaurios puedan decir que era un truco cinematográfico. 
@@ -1572,6 +1543,96 @@ La idea de la película es que sirva de excusa si alguien dice haber visto un sa
 Todo el atrezo de la película lo dejarán los cineastas del IM en las instalaciones de la Isla de Skye, así que si necesitarán disfrazarse de cavernícolas en el futuro, como por ejemplo, cuando vuelvan a la Meseta de Maple White en la parte 8ª de la campaña, podrán llevárselo. Dale un beni al que se le ocurra esta idea.
 
 El atrezo consta de ropas hechas de pieles, sandalias, lanzas y hachas de piedra (las partes afiladas son de goma), pelucas y maquillaje para oscurecer la piel. También hay grandes piedras de cartón-piedra, muslos gigantes asados de dinosaurio y objetos por el estilo dignos de los Picapiedra. 
+
+## Un día en el museo
+```
+Quizás una visita al Museo de Ciencias Naturales ayude a solucionar un nuevo problema que ha supuesto la cría de dinosaurios.
+```
+xxx
+
+\saltopagina
+
+## Cena de etiqueta
+```
+La Reina quiere agasajar a las heroínas y héroes de la fundación Roxton con una cena en el Castillo de Balmoral donde podrá conocer a los dinosaurios que les acompañan en sus peligrosas misiones.
+```
+
+xxx
+
+\saltopagina
+
+## El pecio
+```
+Mientras el Mary Anning surcaba el mar uno de los plesiosaurios que viaja con él, ha aparecido con un extraño objeto en la boca. Quizás no es mala idea pararse y buscar donde lo ha encontrado.
+```
+
+xxx
+
+\saltopagina
+
+## Campo minado
+```
+Mientras tus comandos atraviesan una zona despejada de terreno, descubren para su desgracia que se han metido en un campo de minas.
+```
+
+xxx
+
+\saltopagina
+
+## Limpiando el puerto
+```
+Durante un trayecto en el "Mary Anning" llegan a un puerto que los nazis han tomado recientemente y han llenado de minas. Si las desactivan con la ayuda de los saurios acuáticos, los nazis creerán que el puerto está controlado pero los contrabandistas podrán entrar y salir delante de las narices de los nazis. En caso de ataque de los aliados podrán evitar estas defensas y pillar a los nazis con la guardía baja
+```
+xxx
+
+### Desactivando minas
+xxx
+
+### Contactando con la resistencia local
+xxx
+
+\saltopagina
+
+## El secreto de los Branningan
+```
+La familia Branningan lleva siendo marinos, lo que no saben es que durante un tiempo fueron corsarios al servicio de Inglaterra. 
+```
+
+Ahora que regresan a casa, por el camino, la capitán Branningan tiene una oferta interesante que proponerles. Conoce la ubicación de un galeón hundido lleno de oro. Si le ayudan a rescatarlo, compartirá con ellos una parte. Dolores acaba su propuesta con un "Así, cuando acabe esta maldita guerra, podremos retirarnos y vivir como reyes en alguna isla del Caribe bebiendo ron y bailando salsa."
+
+xxx
+
+### ¿Qué hacemos con el tesoro?
+La idea de Branningan es guardar el tesoro hasta después de la guerra así que su idea, si no proponen otra cosa, es enterrarlo en los terrenos de la Fundación, que es un lugar bastante seguro y conocido. 
+
+Cuando tus comandos lleguen a la Parte 7. Se quedarán sin los recursos económicos de la Fundación para seguir con sus aventuras. Puede que el tesoro del galeón hundido sea su única fuente de ingresos. Acceder al dinero será fácil si lo enterraron en Skye, pero podría complicarse si está guardado en otro sitio. 
+
+\saltopagina
+
+## Espécimen perdido
+```
+Al volver a Skye os informan de que un huevo de pteranodon ha desaparecido de su nido. Han encontrado pisadas cerca y los padres tienen señales de lucha.
+```
+
+xxx
+
+\saltopagina
+
+## Arte robado
+```
+Tu comando debe ayudar a los "Monuments Men" a recuperar arte robado por los Nazis.
+```
+
+xxx
+
+\saltopagina
+
+## Despedidas
+```
+La guerra se ha acabado y quizás es el momento de que los dinosaurios vuelvan a su mundo. 
+```
+
+xxx
 
 \saltopagina
 
