@@ -63,6 +63,9 @@ Tras varias aventuras y desventuras, la expedición consiguió llegar y acceder 
 
 xxx
 
+#### El pacto de silencio
+xxx
+
 \saltopagina
 
 [![Mapa del Mundo Perdido hecho por Maple White](./assests/images/maple-white-mapa.jpg 'Page 222 (The Lost World, 1912)')](https://es.wikipedia.org/wiki/Archivo:Page_222_(The_Lost_World,_1912).jpg 'Page 222 (The Lost World, 1912)')
@@ -1122,16 +1125,22 @@ Es una misión de infiltración pura y dura, si se meten en combate tendrán a t
 
 Los terrestres no deberían ser de utilidad, pero igual tienen un plan magistral para usarlos. Los plesiosaurios podrían estar días en el puerto sin ser detectados y los pteranodones podrían refugiarse en los edificios medio derrumbados por bombardeos que hay por toda la ciudad.
 
+Como curiosidad dentro de la mitología árabe el plesiosaurio podría ser tomado por un orabou, un monstruo mitológico muy parecido al plesiosaurio pero con rasgos felinos. El pteranodon podría ser confundido con un ave de roc. 
+
 \saltopagina
+
+El principal problema en esta misión es localizar al agente del IM. la ciudad está infestada de espías nazis y no puede fiarse de nadie.
 
 [![Plano del sitio de Tobruk](./assests/images/tobruk-map.jpg 'Tobruk 1941 - 1942: A German map showing British defences at Tobruk. - SELINGER FRANZ COLLECTION')](https://www.iwm.org.uk/collections/item/object/205132686 'Tobruk 1941 - 1942: A German map showing British defences at Tobruk. - SELINGER FRANZ COLLECTION')
 
 ### Tobruk
-Tobruk es la típica ciudad costera árabe del Norte de África. La ciudad tiene los elementos típicos como la medina, xxx
+Tobruk es la típica ciudad costera árabe del Norte de África. La ciudad tiene los elementos típicos como la medina, bazares y zocos, un alcazar, un maidán o plaza pública y, como no, un puerto. Sus calles estrechas y laberínticas la caracterizan y la actividad en ellas no para nunca, ni de día ni de noche.  
 
-Tobruk es un puerto muy importante para la campaña del Norte de África es fundamental, la ciudad está en una peninsula xxx
+Tobruk es un puerto muy importante para la campaña del Norte de África, de hecho es fundamental. El puerto protege los barcos en las peores situaciones y al estar la ciudad en una península es fácilmente defendible en el istmo con muy pocas unidades.
 
 \saltopagina
+
+Actualmente se encuentra defendido por fuerzas inglesas y australianas y sitiado por fuerzas nazis. Hay un perímetro defensivo alrededor de la ciudad a base de trincheras antitanques, erizos checos, campos minados y alambradas, además de una red nidos de ametralladoras y artillería.
 
 ### Entrar en Tobruk
 El "Mary Anning" tomará camino a Creta todavía en manos inglesas xxx
@@ -1139,28 +1148,32 @@ El "Mary Anning" tomará camino a Creta todavía en manos inglesas xxx
 xxx
 
 ### Buscar al activo de la IM
+El activo del IM a rescatar es Jocelyn Van Croft. Quizás ya la conozcan de la misión en Francia, o sea la primera vez que se la encuentran. Está escondida en un piso franco de la IM y no se atreve mucho a salir. Es el tercer intento de sacarla de la ciudad y ha salido viva del último de milagro. Sabe con certeza que en el último intento de rescate alguien les vendió a los nazis. Todo esto hará que sea muy recolosa sobre todo de unos locos que hablan de dinosaurios.
+
 xxx
 
-### Salir de Tobruk
-xxx
-
-### La máquina enigma
+#### La máquina enigma
 [![Detalle de Máquina Enigma](./assests/images/maquina-enigma.jpg 'Máquina Enigma a bordo de un Sd.KFz 251 de Heinz Guderian')](https://es.wikipedia.org/wiki/Enigma_(m%C3%A1quina)#/media/Archivo:Bundesarchiv_Bild_101I-769-0229-10A,_Frankreich,_Guderian,_%22Enigma%22.jpg 'Máquina Enigma a bordo de un Sd.KFz 251 de Heinz Guderian')
 
 Enigma es una máquina electromagnética para cifrar y descifrar mensajes. Es usada por todas las ramas del ejército nazi para encriptar y desencriptar sus comunicaciones. Jocelyn no ha conseguido una de estas máquinas enteras, pero ha conseguido una de sus partes fundamentales, los rotores de conversión. Estudiándolos se podría llegar a crear un sistema para descifrar los mensajes interceptados rápidamente. 
 
-xxx
+Jocelyn consiguió robar el rotor principal de la máquina con las modificaciones que los nazis hicieron al modelo original. Esto puede ayudar muchísimo a encontrar una forma de descifrar sus mensajes, así que su valor es inestimable y hay gente dispuesta a hacer lo que sea por esa pieza de la Enigma.
 
-#### Visita a Bletchley Park
-Mientras están de regreso en el "Mary Anning", recibirán órdenes de escoltar ellos mismos a Jocelyn y al engranaje hasta las instalaciones militares de Bletchley Park. 
-
-Branningan cree que lo mejor es desembarcar en Portsmouth, de ahí a Oxford y luego Bletchley Park. Tendrán que alquilar un vehículo. El "Mary Anning" con los dinosaurios seguirá por el mar de Irlanda hasta Skye.
-
-No deben fiarse de nadie hasta llegar a su destino. IM está seguro que hay nazis en suelo inglés con órdenes de destruir el rotor.
-
+### Salir de Tobruk
 xxx
 
 \saltopagina
+
+### Visita a Bletchley Park
+Mientras están de regreso en el "Mary Anning", recibirán órdenes de escoltar ellos mismos a Jocelyn y al engranaje hasta las instalaciones militares de Bletchley Park. 
+
+Branningan cree que lo mejor es desembarcar en Portsmouth, de ahí a Oxford y luego Bletchley Park. Tendrán que alquilar un vehículo y buscar transporte público. El "Mary Anning" con los dinosaurios seguirá por el mar de Irlanda hasta Skye.
+
+No deben fiarse de nadie hasta llegar a su destino. IM está seguro que hay nazis en suelo inglés con órdenes de destruir el rotor. Independientemente del medio de transporte que tendrán una emboscada de un grupo de asesinos nazis (1,5 asesinos por cada comando incluida Jocelyn). Alguien que vigilaba las estaciones ha reconocido a Jocelyn. 
+
+* Si van en tren, intentarán asesinarlos en su compartimento.
+* Si alquilan un coche, les emboscarán en alguna carretera secundaria.
+* Quizás vayan en un autobús de línea. En ese caso, los asesinos irán disfrazados de militares buscando espías alemanes. Detendrán el bus y los sacarán para "interrogarlos" lejos del resto de pasajeros.
 
 #### Asesino nazi
 Estamos hablando de asesinos entrenados y dispuestos a cumplir las órdenes que les den sus líderes nazis. Estamos hablando de personas sin escrúpulos y fanáticas del Tercer Reich que no les importa a quién deben matar.
@@ -1172,6 +1185,9 @@ Estamos hablando de asesinos entrenados y dispuestos a cumplir las órdenes que 
 * **Desventajas:** Secreto (asesina profesional), Fanático (SS), Deseo de muerte
 * **Equipo:** Kukri (FUE+d6), Pistola, Ropas de cuero (dureza +1)
 
+Si salen vivos de su encuentro con los asesinos podrán continuar su viaje, ya de forma segura, hasta las instalaciones militares de Bletchley Park.
+
+\saltopagina
 
 > Si hay fans de la informática en tu mesa quizás sea un detalle bonito que [Alan Turing](https://es.wikipedia.org/wiki/Alan_Turing) o [Joan Clarke](https://es.wikipedia.org/wiki/Joan_Clarke) recojan en rotor, se quiten las gafas estupefactas y exclamen "Esto podría cambiar el curso de la guerra. Habéis salvado miles si no millones de vidas".
 
@@ -1710,6 +1726,11 @@ Alguien de tus comandos, incluso todos, han caído prisioneros de los nazis y de
 
 ### La epidemia
 Desde el campamento llegan malas noticias una enfermedad está afectando a todos los saurios de la meseta. Quizás la cura exija buscar gente y productos por todo el mundo, incluso igual en el propio Berlín. 
+
+### Las aventuras del profesor Challenger
+El profesor Challenger aparece en otras dos novelas de sir Arthur Conan Doyle. La zona envenenada, donde la tierra atraviesa una zona de éter especial envenenado y todo el mundo en la tierra sucumbe y cae "muerto". En El país de la bruma, Challenger se enfrenta con temas de espiritismo.
+
+Quizás los nazis hayan encontrado la forma de conseguir éter ponzoñoso o una forma de hablar con los muertos, o incluso de hacerlos combatir en el campo de batalla a su lado.
 
 ***
 
@@ -2332,18 +2353,20 @@ A pesar de su aspecto más cercano a los alces (de hecho se les conocía como al
 ### Pitecántropo
 **Herbívoro | Terrestre/Arbóreo | 1x1 casillas**
 
-Estos homínidos que pueden andar de pie son considerados el eslabón perdido entre el primate y el humano. Son muy buenos trepadores y muy fuertes como sus ancestros primates. Son agresivos y territoriales y habitan los bosques de la meseta de Maple White.
+Estos homínidos que pueden andar de pie son considerados el eslabón perdido entre el primate y el humano. Son muy buenos trepadores y muy fuertes como sus ancestros primates. Son agresivos y territoriales y habitan los bosques de la meseta de Maple White. No son tan inteligentes como un humano, pero usan herramientas como garrotes y piedras y tiene un lenguaje muy básico con el que se comunican. 
 
-* **Atributos:** Agilidad d10, Astucia d8 (A), Espíritu d8, Fuerza d6, Vigor d6
-* **Habilidades:** Atletismo d10, Notar d6, Pelear d6, Sigilo d6
+* **Atributos:** Agilidad d10, Astucia d6, Espíritu d8, Fuerza d6, Vigor d6
+* **Habilidades:** Atletismo d10, Notar d6, Pelear d6, Sigilo d6, Supervivencia d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
-* **Ventajas:** Acróbata
-* **Desventajas:** Cobarde (mayor)
 
 \saltopagina
 
+* **Ventajas:** Acróbata
+* **Desventajas:** Cobarde (mayor)
+* **Equipo:** Garrote (FUE+d4)
 * **Capacidades especiales:**
   * **Mordisco:** FUE+d4 de daño.
+  * **Vista y oído agudo.** Su buena vista y oído le da +2 a las tiradas de Notar y Supervivencia que impliquen vista u oído.
   * **Buen trepador:** Paso 8 trepando. Los pitecántropos pasan gran parte de su vida en los árboles y su cuerpo está adaptado a ello. Añaden +2 a sus tiradas de Atletismo cuando trepan.
 
 [![Dibujo de un Phorusrhacos](./assests/images/phorusrhacos.jpg 'Recreación en vida. - ДиБгд')](https://es.wikipedia.org/wiki/Phorusrhacos#/media/Archivo:Phorusrhacos_longissimusDB24.jpg 'Recreación en vida. - ДиБгд')
@@ -2351,17 +2374,18 @@ Estos homínidos que pueden andar de pie son considerados el eslabón perdido en
 ### Phorusrhacos
 **Carnívoro | Terrestre | 1x1 casillas**
 
-Estas grandes aves depredadoras no voladoras miden alrededor de 2.5 metros de alto y pesan aproximadamente 130 kilogramos. Usan las garras de sus patas y sus enormes picos para matar a pequeñas presas, también se alimentan de carroña. Se les encuentra normalmente en bosques y pastizales. Se considera entre las mayores aves carnívoras que hayan existido.
+Estas grandes aves depredadoras no voladoras miden alrededor de 2.5 metros de alto y pesan aproximadamente 130 kilogramos. Usan las garras de sus patas y sus enormes picos para matar a pequeñas presas, también se alimentan de carroña. 
+
+\saltopagina
+
+Se les encuentra normalmente en bosques y pastizales. Se considera entre las mayores aves carnívoras que hayan existido.
 
 * **Atributos:** Agilidad d8, Astucia d4 (A), Espíritu d6, Fuerza d8, Vigor d6
 * **Habilidades:** Atletismo d8, Notar d8, Pelear d8, Sigilo d8
 * **Paso:** 8; **Parada:** 6; **Dureza:** 6
-
-\saltopagina
-
 * **Ventajas:** Pies ligeros
 * **Capacidades especiales:**
-  * **Tamaño +1:** Ronda os 2,5 m de alto y los 130 kg.
+  * **Tamaño +1:** Ronda los 2,5 m de alto y los 130 kg.
   * **Picotazo/Garras:** FUE+d6
   * **Camuflaje:** Los colores de su plumaje les permite camuflarse en bosques y pastizales. +1 a Sigilo en bosques y pastizales.
 
@@ -2423,12 +2447,20 @@ El suicidio es un tema tratado, aunque sea un poco de pasada, en esta campaña. 
 ### Fascismo y nazismo
 Esta campaña va de joder los malvados planes de los nazis, así que cualquier tipo de actividad en partida que suponga simpatizar con nazis y fascistas y su ideología debería ser una "red flag" clarísima. Si tus compañeros y compañeras de mesa ensalzan de alguna manera las ideas de nazis y fascistas, deberías levantarte e irte y si eres tú, él o la que las ensalza que sepas que eres un pedazo de mierda. 
 
+### Licencias con la obra original
+Me he tomado una serie de licencias con la obra original de Sir Arthur Conan Doyle a la hora de desarrollar esta campaña que pueden resumirse en los siguientes puntos:
+
+* Los dinosaurios son muchísimo más inteligentes que en el libro. En el original se les representa como seres estúpidos fáciles de engañar. Su cerebro es muy pequeño y esa es su principal debilidad. En esta campaña se considera que sus cerebros han evolucionado gracias a la interacción con los humanos primitivos.
+* Siguiendo con el punto anterior, los cavernícolas no se dedican a cazar y matar dinosaurios, sino que han aprendido a semi-domesticarlos.
+
+\saltopagina
+
+* Los intentos de comunicación de Edward Malone con la civilización fallaron todos, de forma que su historia nunca fue conocida por el gran público.
+
 ## Atribuciones
 * Los dinosaurios están basados en [Savage Free Bestiary](https://docs.google.com/document/d/1qu4zzMYbPqOquVlCfgpPeoCmCEqGUgWh5dz-rpKJ1ck/edit?hl=it&authkey=CIySp98E#heading=h.7xcwydin4cfe)
 * Las descripciones de dinosaurios y de los eventos de la II Guerra Mundial están desarrolladas a partir de textos de la Wikipedia.
 * [Libro original](https://archive.org/details/lostworldbeingac00doylrich/page/n220/mode/1up) en inglés con ilustraciones
-
-\saltopagina
 
 ### Imágenes
 No soy propietario de ninguna de las imágenes de este documento. Estoy usando imágenes con licencia CC y atribuyéndola a su propietario. Si hay algún error, hacédmelo saber para corregirlo. Estas son las imágenes que por diseño no he podido atribuir de manera adecuada enlazándolas correctamente.
@@ -2450,6 +2482,9 @@ No soy propietario de ninguna de las imágenes de este documento. Estoy usando i
 * [Portada "Relatos salvajes"](https://pixabay.com/es/photos/mapa-tierra-sudamerica-geograf%C3%ADa-428639/)
 * [Portada "Aliados, antagonistas y dinosaurios"](https://ca.m.wikipedia.org/wiki/Fitxer:%CE%93%CF%85%CE%BD%CE%B1%CE%AF%CE%BA%CE%B5%CF%82_%CF%83%CF%84%CF%81%CE%B1%CF%84%CE%B9%CF%8E%CF%84%CE%B5%CF%82_%CF%84%CE%BF%CF%85_%CE%95%CE%9B%CE%91%CE%A3.jpg)
 * [Epílogo](https://commons.wikimedia.org/wiki/File:Dinosaur_footprint_%284056320716%29.jpg)
+
+\saltopagina
+
 * [Fondo portada y contraportada](https://pixabay.com/es/photos/papel-viejo-textura-pergamino-1074131/)
 * [Fondo páginas interiores](https://pixabay.com/es/illustrations/papertexture-textura-papel-2061710/)
 * [Sello Top Secret](https://pixabay.com/es/illustrations/ultra-secreto-confidencial-2054429/)
