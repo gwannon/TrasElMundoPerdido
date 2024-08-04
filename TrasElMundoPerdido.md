@@ -1273,10 +1273,11 @@ xxx
 
 [![Dibujo de un enfrentamiento de un tiranosaurio y un triceratops](./assests/images/enfrentamiento.jpg 'Charles R. Knight')](https://commons.wikimedia.org/wiki/Category:Charles_R._Knight#/media/File:Annual_report_of_the_Director_to_the_Board_of_Trustees_for_the_year_.._(1926)_(18434166321).jpg 'Charles R. Knight')
 
+\saltopagina
+
 ## Batalla del Mundo Perdido
 xxx
 
-\saltopagina
 
 ### El zepelín
 
@@ -1376,6 +1377,9 @@ Si tratan de persuadirle de que desista o que se canse cuando se le acabe la com
 La última poción es investigar el pasado de Gerald y tratar de que Lady Margaret le deje entrar en el recinto. Si investigan su pasado, está limpio, ninguna relación con nazis y tras asombrarse al ver los dinosaurios pedirá ir al campamento como becario.
 
 ### Gerald Durrell, joven activista medioambiental &#x2638;
+
+[![Primer plano de Gerald Durrell](./assests/images/durrell.jpg 'Portrait of an unidentified Boy Scout at Camp Semialachee in Leon County near Tallahassee, Florida.')](https://www.floridamemory.com/items/show/260082 'Portrait of an unidentified Boy Scout at Camp Semialachee in Leon County near Tallahassee, Florida.')
+
 Este, joven naturalista y activista medioambiental va a ser un pequeño quebradero de cabeza para la Fundación. Gerald lleva rodeado de animales y estudiándolos desde pequeño. Son su amor y su obsesión y no va a permitir, como cree, que la Fundación haga experimentos con animales para los militares y los maltrate. 
 
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d10, Fuerza d6, Vigor d6
