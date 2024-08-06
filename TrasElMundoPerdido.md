@@ -2425,12 +2425,12 @@ Aquí tienes algunas herramientas de seguridad que puedes usar:
 * [DEVIR](https://devir.es/herramientas-seguridad-rol)
 * [NetCon](https://www.netconplay.com/guia-de-buenas-practicas/herramientas-en-la-mesa/)
 
-### ¿Mujeres en la II Guerra Mundial?
-Si vas a hacer esta pregunta, mejor pierde 5 minutos buscando en internet podrás ver que su participación fue mucha y muy importante tanto en primera línea de combate, como en casa con el esfuerzo de guerra, como espías y descifrando códigos, etc. Si en tu mesa oyes que no puede o debe haber PJ femeninos, ya te digo que mejor vete de ahí.
+### Participación de la mujer en la II Guerra Mundial
+Si pierdes 5 minutos buscando en internet podrás ver que la participación de la mujer en la II Guerra Mundial fue mucha y muy importante tanto en primera línea de combate, como en lejos del frente con el esfuerzo de guerra en fábricas y campos, como espías y descifrando códigos, etc. Si en tu mesa oyes que no puede o debe haber PJ femeninos, ya te digo que mejor vete de ahí.
 
 He tratado de hacer esta ambientación lo más inclusiva y abierta que puedo y es por ello que estoy seguro de que habré hecho muchas cosas mal.
 
-He tratado de que haya diversidad entre PNJ con todo tipo de opciones de género, raza, etc. y sin definir su orientación sexual para que DJ puedas decidirla a tu gusto. También he intentado evitar clichés y espero haberlo hecho, pero sois muy libres de cambiarlo a vuestro gusto.
+He tratado de que haya diversidad entre PNJ con todo tipo de opciones de género, raza, etc. y sin definir su orientación sexual para que DJ puedas decidirla a tu gusto. También he intentado evitar clichés y espero haberlo hecho, pero sois muy libres de cambiarlo a vuestro gusto y de hacerme llegar vuestras críticas y sugerencias sobre el tema.
 
 \saltopagina
 
