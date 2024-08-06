@@ -980,7 +980,7 @@ A partir de este momento empezarán el entrenamiento con los diferentes dinosaur
 Los entrenamientos estarán dirigidos por la propia Lady Roxton que disfrutará de sus golpes y caídas y humillando a los comandos (solo un poquito) cuando lo hagan mal.
 
 * **Vuelo con los pteranodones.** Harán prácticas de vuelo, el pteranodon deberá recogerlos del suelo u llevarlos lejos. El pteranodon y el humano deberán pasar una tirada de Atletismo para dejarse atrapar y para atraparlo. El pteranodon podrá llevarlo bastante lejos hasta que unos cientos de metros más allá. Cuantos más avances consigan en las tiradas más lejos les llevará. Si falla el pteranodon no le agarrará y si falla el comando se caerá (2d6 de daño de caída). También les enseñarán a darles órdenes básicas de sobrevolar una zona y volver.
-* Podrán hacer pruebas de **monta con estegosaurios e iguanodones** con Cabalgar. Puedes, si no se les ocurre a tus comandos, organizar una carrera. También podrían hacer prácticas de tiro desde sus monturas (recuerda el -2 por disparar sobre una plataforma inestable).
+* Podrán hacer pruebas de **monta con estegosaurios e iguanodones** con Cabalgar. Puedes, si no se les ocurre a tus comandos, organizar una carrera. También podrían hacer prácticas de tiro desde sus monturas (recuerda que hay un -2 por disparar sobre una plataforma inestable).
 * Puedes hacerles unos **dispositivos construidos por Wayland que simulen la defensa con la cola de los estegosaurios** y que se lleven unos cuantos porrazos. Deberían hacer tiradas enfrentadas de Atletismo o Pelear contra el Pelear del mecanismo (d8). Tendrán que superar 3 tiradas para atravesar la zona de coletazos. Si el dispositivo que da coletazos saca un avance roba una de las tiradas pasadas. En 
 * Prácticas de **submarinismo con los ictiosaurios y plesiosaurios**. Serán ejercicios de inmersión y natación con ellos (tiradas de atletismo de saurio y humano). También podrán lanzarles objetos y que los recuperen del fondo del mar (tiradas de Notar para buscar el objeto y Atletismo para nadar rápido a recogerlo). 
 * Los entrenamientos con los **carnívoros serán unas pruebas de combate**. Deberán derribar a 5 maniquíes de diferentes materiales, cada uno más resistente al anterior, paja (consistencia 4), madera (6), madera con arpillera (8), madera con refuerzos metálicos (10) y acero (12). Los jinetes pueden apoyar a su montura en combate pasando una tirada de Cabalgar e indicarle la mejor posición o forma de atacar.
@@ -1121,7 +1121,7 @@ La misión es bastante simple, saltarse las fuerzas nazis que tienen sitiada la 
 
 Tobruk es una ciudad portuaria muy bien protegida por ingleses y australianos. Está completamente sitiada por los nazis por tierra y por mar y los intentos anteriores de sacar al activo del IM han fracasado totalmente. Es por ello que el general Linton ha propuesto intentarlo desde otro punto de vista, uno prehistórico. 
 
-Es una misión de infiltración pura y dura, si se meten en combate tendrán a todos los África Korps de Rommel contra ellos. Deberían desarrollar el plan de entrada y salida basándose en los saurios voladores y acuáticos que pueden entrar y salir de la ciudad sin ser vistos. 
+Es una misión de infiltración pura y dura, si se meten en combate tendrán a todos los Africa Korps de Rommel contra ellos. Deberían desarrollar el plan de entrada y salida basándose en los saurios voladores y acuáticos que pueden entrar y salir de la ciudad sin ser vistos. 
 
 Los terrestres no deberían ser de utilidad, pero igual tienen un plan magistral para usarlos. Los plesiosaurios podrían estar días en el puerto sin ser detectados y los pteranodones podrían refugiarse en los edificios medio derrumbados por bombardeos que hay por toda la ciudad.
 
@@ -1134,7 +1134,9 @@ El principal problema en esta misión es localizar al agente del IM. la ciudad e
 [![Plano del sitio de Tobruk](./assests/images/tobruk-map.jpg 'Tobruk 1941 - 1942: A German map showing British defences at Tobruk. - SELINGER FRANZ COLLECTION')](https://www.iwm.org.uk/collections/item/object/205132686 'Tobruk 1941 - 1942: A German map showing British defences at Tobruk. - SELINGER FRANZ COLLECTION')
 
 ### Tobruk
-Tobruk es la típica ciudad costera árabe del Norte de África. La ciudad tiene los elementos típicos como la medina, bazares y zocos, un alcazar, un maidán o plaza pública y, como no, un puerto. Sus calles estrechas y laberínticas la caracterizan y la actividad en ellas no para nunca, ni de día ni de noche.  
+La ciudad de Tobruk es la típica ciudad costera árabe del Norte de África. La ciudad tiene los elementos típicos como la medina, bazares y zocos, un alcazar, un maidán o plaza pública y, como no, un puerto. Sus calles estrechas y laberínticas la caracterizan y la actividad en ellas no para nunca, ni de día ni de noche.
+
+Una parte importante de la ciudad ha sufrido con los continuos ataques que ha recibido de aliados y fuerzas nazis, por ello hay muchas casas derrumbadas o medio derrumbadas. Estos edificios son los pocos tranquilos donde hacer reuniones secretas lejos de ojos y oídos indiscretos.
 
 Tobruk es un puerto muy importante para la campaña del Norte de África, de hecho es fundamental. El puerto protege los barcos en las peores situaciones y al estar la ciudad en una península es fácilmente defendible en el istmo con muy pocas unidades.
 
@@ -1142,13 +1144,27 @@ Tobruk es un puerto muy importante para la campaña del Norte de África, de hec
 
 Actualmente se encuentra defendido por fuerzas inglesas y australianas y sitiado por fuerzas nazis. Hay un perímetro defensivo alrededor de la ciudad a base de trincheras antitanques, erizos checos, campos minados y alambradas, además de una red nidos de ametralladoras y artillería.
 
-### Entrar en Tobruk
-El "Mary Anning" tomará camino a Creta todavía en manos inglesas xxx
+Tus comandos tienen acceso a un mapa de la ciudad de antes del sitio con nombres en inglés y árabe. Tiene actualizaciones a mano como tachones en los edificios destruidos. Aunque la mayoría de la población es árabe mucha gente chapurrea inglés y francés, así que la comunicación básica es relativamente sencilla y con el mapa en bilingüe deberían poder moverse por la ciudad sin problema.
 
-xxx
+### Entrar en Tobruk
+El "Mary Anning" tomará camino a Creta todavía en manos inglesas y desde allí tratará de acercarse a Tobruk esquivando la marina nazi. El carguero se quedará a unas 12 millas de la costa lejos de los barcos que sitian la ciudad y lo suficientemente cerca para que los plesiosaurios pueda llegar a tierra. 
+
+Deben tener en cuenta que aunque Tobruk esté controlado por aliados, no es seguro y nadie ha sido avisado de su misión por temor a los espías nazis infiltrados. De hecho podrían ser considerados espías por las fuerzas de defensa de Tobruk si hacen movimientos extraños.
+
+Entrar en Tobruk debería ser fácil, enganchados a los plesiosaurios con el equipo en contenedores estancos deberían poder alcanzar el puerto con facilidad al anochecer para no ser vistos. Pregúntales por los objetos que llevan en los contenedores porque será su único equipo en la misión, si necesitan algo más tendrán que buscarse la vida. 
+
+Los pteranodones podrán seguir a los saurios acuáticos y podrían pasar por albatros en la lejanía. Al anochecer deberían ser difíciles de ver en el cielo sin luna. 
+
+Deberían pasar una tirada de Sigilo al salir del agua sin llamar la atención y con trajes de buceo. Dales modificadores tras pasar una tirada de Notar, si tratan de buscar sitios como muelles sobre columnas que permitan meterse debajo donde nadie les vea.
+
+Otra opción sería desembarcar fuera de la ciudad, lejos de miradas indiscretas, pero podrían encontrarse con patrullas aliadas vigilando el perímetro de la ciudad. Además los plesiosaurios deberían quedarse en esa zona y son más útiles en el puerto. Los voladores si pueden seguirles por tierra e incluso ayudarlos en caso de problemas.
 
 ### Buscar al activo de la IM
-El activo del IM a rescatar es Jocelyn Van Croft. Quizás ya la conozcan de la misión en Francia, o sea la primera vez que se la encuentran. Está escondida en un piso franco de la IM y no se atreve mucho a salir. Es el tercer intento de sacarla de la ciudad y ha salido viva del último de milagro. Sabe con certeza que en el último intento de rescate alguien les vendió a los nazis. Todo esto hará que sea muy recolosa sobre todo de unos locos que hablan de dinosaurios.
+El activo del IM a rescatar es Jocelyn Van Croft. Quizás ya la conozcan de la misión en Francia, o sea la primera vez que se la encuentran. Está escondida en un piso franco de la IM y no se atreve mucho a salir. Es el tercer intento de sacarla de la ciudad y ha salido viva del último de milagro. 
+
+\saltopagina
+
+Jocelyn sabe con certeza que en el último intento de rescate alguien les vendió a los nazis. Todo esto hará que sea muy recelosa sobre todo de unos locos que hablan de dinosaurios.
 
 xxx
 
@@ -1160,16 +1176,22 @@ Enigma es una máquina electromagnética para cifrar y descifrar mensajes. Es us
 Jocelyn consiguió robar el rotor principal de la máquina con las modificaciones que los nazis hicieron al modelo original. Esto puede ayudar muchísimo a encontrar una forma de descifrar sus mensajes, así que su valor es inestimable y hay gente dispuesta a hacer lo que sea por esa pieza de la Enigma.
 
 ### Salir de Tobruk
-xxx
+La salida de Tobruk debería ser tan fácil como la entrada, pero con el encuentro anterior tanto ingleses/australianos como espías nazis están sobre aviso y vigilan toda la ciudad.
 
-\saltopagina
+xxx
 
 ### Visita a Bletchley Park
 Mientras están de regreso en el "Mary Anning", recibirán órdenes de escoltar ellos mismos a Jocelyn y al engranaje hasta las instalaciones militares de Bletchley Park. 
 
 Branningan cree que lo mejor es desembarcar en Portsmouth, de ahí a Oxford y luego Bletchley Park. Tendrán que alquilar un vehículo y buscar transporte público. El "Mary Anning" con los dinosaurios seguirá por el mar de Irlanda hasta Skye.
 
-No deben fiarse de nadie hasta llegar a su destino. IM está seguro que hay nazis en suelo inglés con órdenes de destruir el rotor. Independientemente del medio de transporte que tendrán una emboscada de un grupo de asesinos nazis (1,5 asesinos por cada comando incluida Jocelyn). Alguien que vigilaba las estaciones ha reconocido a Jocelyn. 
+\saltopagina
+
+El viaje puede durar un par de días con lo que tendrán que pernoctar mínimo una noche. Un "Bed & Breakfast" en mitad de la campiña inglesa puede ser una opción interesante y con cierto encanto romántico. Aun así, deberían tomar precauciones como atrancar la puerta y montar guardias. 
+
+No deben fiarse de nadie hasta llegar a su destino. IM está seguro que hay nazis en suelo inglés con órdenes de destruir el rotor. 
+
+Independientemente del medio de transporte que tendrán una emboscada de un grupo de asesinos nazis (1,5 asesinos por cada comando incluida Jocelyn). Alguien que vigilaba las estaciones ha reconocido a Jocelyn. 
 
 * Si van en tren, intentarán asesinarlos en su compartimento.
 * Si alquilan un coche, les emboscarán en alguna carretera secundaria.
@@ -1187,9 +1209,9 @@ Estamos hablando de asesinos entrenados y dispuestos a cumplir las órdenes que 
 
 Si salen vivos de su encuentro con los asesinos podrán continuar su viaje, ya de forma segura, hasta las instalaciones militares de Bletchley Park.
 
-\saltopagina
-
 > Si hay fans de la informática en tu mesa quizás sea un detalle bonito que [Alan Turing](https://es.wikipedia.org/wiki/Alan_Turing) o [Joan Clarke](https://es.wikipedia.org/wiki/Joan_Clarke) recojan en rotor, se quiten las gafas estupefactas y exclamen "Esto podría cambiar el curso de la guerra. Habéis salvado miles si no millones de vidas".
+
+\saltopagina
 
 ### La pista
 Cuando vuelvan a irse de misión Lady Margaret les enseñará un documento de Bletchley Park. Con las posiciones que tenía el rotor antes de sacarlo de la máquina Enigma han sacado unas palabras: Fundación Roxton infiltrado. 
@@ -1434,7 +1456,7 @@ Pueden intentar acercarse a Marion en el "Savoy" o en una de las librerías. Per
 * Al estar cerca de ella, estará indispuesta y tendrá que ir al baño y ya no volverá. El agua y la comida inglesa es demasiado para su estómago americano.
 * Su editora os confunde como editores ingleses y no se despega de ellos, intentando negociar algún tipo de trato con las novelas de su escritora.
 * Un grupo de fans muy locos no permite acercarse a Marion.
-* Si le envían algo, lo filtra todo su editora y no quiere que la distraiga nada, asi que lo para todo.
+* Si le envían algo, lo filtra todo su editora y no quiere que la distraiga nada, así que lo para todo.
 
 Si se lo trabajan bien puedes darles algunos benis, pero lo divertido es que fracasen e incitarles a cada vez llevar a cabo planes más locos, como disfrazarse de fans, colarse como camareros o infiltrase en plan ninja en el hotel.
 
@@ -1660,7 +1682,7 @@ xxx
 
 ## Limpiando el puerto
 ```
-Durante un trayecto en el "Mary Anning" llegan a un puerto que los nazis han tomado recientemente y han llenado de minas. Si las desactivan con la ayuda de los saurios acuáticos, los nazis creerán que el puerto está controlado pero los contrabandistas podrán entrar y salir delante de las narices de los nazis. En caso de ataque de los aliados podrán evitar estas defensas y pillar a los nazis con la guardía baja
+Durante un trayecto en el "Mary Anning" llegan a un puerto que los nazis han tomado recientemente y han llenado de minas. Si las desactivan con la ayuda de los saurios acuáticos, los nazis creerán que el puerto está controlado pero los contrabandistas podrán entrar y salir delante de las narices de los nazis. En caso de ataque de los aliados podrán evitar estas defensas y pillar a los nazis con la guardia baja
 ```
 xxx
 

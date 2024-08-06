@@ -18,7 +18,8 @@
 * Parte 4: Noruega
 
 # Por hacer de la versión 0.6
-* Parte 2: Norte de África
+* El mundo perdido
+* La expedición Roxton
 * Parte 3: Río de la Plata
 
 # Por hacer de la versión 0.5
@@ -32,8 +33,9 @@
   * El secreto de los Branningan
   * Espécimen perdido
   * Arte robado
-* El mundo perdido
-* La expedición Roxton
+* Parte 2: Norte de África
+  * Buscar al activo de la IM
+  * Salir de Tobruk
 
 ## Recursos 
 * https://commons.wikimedia.org/wiki/Category:Charles_R._Knight
@@ -44,8 +46,15 @@
 
 # Changelog
 
-# Versión 0.5 En desarrollo
+# Versión 0.5.1 En desarrollo
+
+# Versión 0.5 06/08/2024
 * Terminado el Relato Salvaje "¿Quién es Marion Fairfax?"
+* Terminada la parte de "Informe de misión" de "Parte 2: Norte de África"
+* Terminada la parte de "Tobruk" de "Parte 2: Norte de África"
+* Terminada la parte de "Entrar en Tobruk" de "Parte 2: Norte de África"
+* Terminada la parte de "Visita a Bletchley Park" de "Parte 2: Norte de África"
+* Terminada la parte de "La pista" de "Parte 2: Norte de África"
 
 # Versión 0.4.3 02/08/2024
 * Terminado el Relato Salvaje "Titanes de tiempos pretéritos"
