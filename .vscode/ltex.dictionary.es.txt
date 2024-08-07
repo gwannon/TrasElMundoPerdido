@@ -186,3 +186,5 @@ roc
 orabou
 maidán
 Rommel
+Estalingrado
+desactivador

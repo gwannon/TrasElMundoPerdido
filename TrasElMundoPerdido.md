@@ -1484,7 +1484,7 @@ No era ninguna lumbrera y la Fundación no consideró que fuera una posible fuga
 
 Como regalo les dará una copia de su último libro dedicado y firmado y les dirá que si pasan por san Francisco vayan a visitarla y es verdad.
 
-### Marion Fairfax &#x2638;
+### Marion Fairfax, famosa escritora de ciencia ficción &#x2638;
 
 * **Atributos:** Agilidad d6, Astucia d10, Espíritu d8, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d6, Ciencias d6, Conocimientos Generales d10, Humanidades d10, Idioma materno d10, Interpretar d10, Investigar d8, Notar d6, Persuadir d8, Sigilo d4
@@ -1669,14 +1669,33 @@ Quizás haya un mapa de algún lugar misterioso como Lemuria o la Atlántida, di
 Mientras tus comandos atraviesan una zona despejada de terreno, descubren para su desgracia que se han metido en un campo de minas.
 ```
 
+En algún momento mientras tus comandos recorren la campiña francesa, la tundra helada de Noruega, las arenas del Sahara o las calles de Stalingrado, alguien pisa algo metálico que hace un clic metálico (tirada de Notar) y no debería hacerlo. Han entrado en un campo de minas y uno de los comandos ha pisado una mina. 
+
+Puede que la haya detectado y si levanta el pie explotará o que no la detecte y reciba daño. Si has pisado una mina y no ha explotado tienes 2 opciones.
+
+* **Saltar tirando Atletismo,** el éxito y cada avance quita un dado de daño.
+* Un compañero podría acercarse y **desactivarla haciendo una tirada de Reparar** (-4 si no tienen herramientas y -2 si no tienen herramientas de desactivador de explosivos). Un fallo supone daño para los dos comandos.
+
+### Lo que dice el manual en estas situaciones
+Una vez solucionado el primer problema tienen que salir del campo de minas. 
+
+1. Haz un mapa de 20x20 casillas. Marca el lado por el que han entrado.
+2. Coloca a tus comandos y saurios separados por una casilla entre ellos. Recuerda las casillas que ocupa cada saurio al colocarlos.
+3. Apunta las coordenadas de tantas minas como (comandos + saurios) x 2. Recuerda que las minas explotan por simpatía. Si la honda expansiva llega a otra mina está explotará.
+4. Coloca (comandos + saurios) casillas con elementos seguros sin minas como árboles, grandes rocas, pozos, abrevaderos, etc. 
+
 xxx
 
-### Lo que dice el manual en estas situaciones 
-xxx
+\saltopagina
 
 ### Otras soluciones imaginativas
-xxx
+El manual dice como actuar en caso de entrar en un campo minado, pero no tiene en cuenta que tus comandos cuentan con dinosaurios. Esto abre mucho las posibilidades de actuación. 
 
+Podrían tratar de salir volando del campo con pteranodones (como saltar pero tirando el Atletismo del pteranodon + 2) o que los estegosaurios empujarán algo como una piedra que haga estallar las minas. Quizás se suban arriba de los saurios y desde encima sondeen el terreno buscando minas con largos palos.
+
+Sé generoso con los benis para las buenas ideas, ya que seguramente los necesitarán si quieren salir ilesos del campo de minas.
+
+> Realmente las minas explotan al pisarlas no al quitar el peso, pero he sido incapaz de resistirme a este mito de las películas bélicas en que una persona no puede moverse porque ha pisado una mina y si se mueve explota.
 
 \saltopagina
 
