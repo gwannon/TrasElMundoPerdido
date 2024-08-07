@@ -1863,14 +1863,14 @@ xxx
 
 **Sugerencia de interpretación:** xxx
 
-### Jocelyn Van Croft, espía inglesa &#x2638;
+### Jocelyn Van Croft, espía y aventurera inglesa &#x2638;
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Idioma Árabe d8, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+* **Atributos:** Agilidad d8, Astucia d8, Espíritu d10, Fuerza d8, Vigor d8
+* **Habilidades:** Apostar d6, Atletismo d8, Conocimientos Generales d8, Disparar d8, Humanidades d8, Idioma Inglés d8, Idioma Árabe d6, Idioma Alemán d8, Idioma Italiano d6, Idioma Noruego d8, Medicina d6, Notar d8, Pelear d8, Persuadir d8, Sigilo d6
+* **Paso:** 6; **Parada:** 6; **Dureza:** 6
 * **Ventajas:** xxx
 * **Desventajas:** xxx
-* **Equipo:** xxx
+* **Equipo:** Varios pasaportes de diferentes nacionalidades y dinero en diferentes divisas (escondido en un lugar secreto), ropa comoda de viaje, pistola y daga (FUE+d4)
 
 **Sugerencia de interpretación:** xxx
 
