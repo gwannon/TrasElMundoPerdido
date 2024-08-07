@@ -348,7 +348,7 @@ A priori, los carnívoros son más agresivos en general. En la naturaleza son ca
 Los acuáticos suelen ser más distantes. Vivimos en mundos distintos y eso hace que no entiendan tanto a los humanos como a los dinosaurios terrestres o aéreos. Sin embargo, como cazan normalmente en manadas trabajan muy bien entre ellos.
 
 ### Carnívoros aéreos
-Los pteranodones tienen a ser bastante competitivos entre ellos buscando ser el más rápido y mejor cazador y con ello establecer sus relaciones de poder. Esto junto a u capacidad de vuelo hace que sean bastante molestos. Pueden pasarse horas mirando quien puede chinchar más a un carnívoro para salir volando cuando estos se enfadan y les atacan. Pero esa capacidad de vuelo ha hecho también que sean un poco cobardes en general, huyendo a la mínima. Sin embargo son más valientes y atrevidos en grupo.
+Los pteranodones tienen a ser bastante competitivos entre ellos buscando ser el más rápido y mejor cazador y con ello establecer sus relaciones de poder. Esto junto a su capacidad de vuelo hace que sean bastante molestos. Pueden pasarse horas mirando quién de ellos puede chinchar más a un carnívoro para salir volando cuando estos se enfadan y les atacan. Pero esa capacidad de vuelo ha hecho también que sean un poco cobardes en general, huyendo a la mínima. Sin embargo son más valientes y atrevidos en grupo.
 
 \saltopagina
 
@@ -1160,7 +1160,7 @@ Deberían pasar una tirada de Sigilo al salir del agua sin llamar la atención y
 Otra opción sería desembarcar fuera de la ciudad, lejos de miradas indiscretas, pero podrían encontrarse con patrullas aliadas vigilando el perímetro de la ciudad. Además los plesiosaurios deberían quedarse en esa zona y son más útiles en el puerto. Los voladores si pueden seguirles por tierra e incluso ayudarlos en caso de problemas.
 
 ### Buscar al activo de la IM
-El activo del IM a rescatar es Jocelyn Van Croft. Quizás ya la conozcan de la misión en Francia, o sea la primera vez que se la encuentran. Está escondida en un piso franco de la IM y no se atreve mucho a salir. Es el tercer intento de sacarla de la ciudad y ha salido viva del último de milagro. 
+El activo del IM a rescatar es Jocelyn Van Croft. Quizás ya la conozcan de la misión en Francia, o sea la primera vez que se la encuentran. Está escondida en un piso franco de la IM y no se atreve mucho a salir. Es el tercer intento de sacarla de la ciudad y ha salido viva de milagro del último operativo de rescate. Todo su equipo pereció en esa operación.
 
 \saltopagina
 
