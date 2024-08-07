@@ -1157,7 +1157,7 @@ Los pteranodones podrán seguir a los saurios acuáticos y podrían pasar por al
 
 Deberían pasar una tirada de Sigilo al salir del agua sin llamar la atención y con trajes de buceo. Dales modificadores tras pasar una tirada de Notar, si tratan de buscar sitios como muelles sobre columnas que permitan meterse debajo donde nadie les vea.
 
-Otra opción sería desembarcar fuera de la ciudad, lejos de miradas indiscretas, pero podrían encontrarse con patrullas aliadas vigilando el perímetro de la ciudad. Además los plesiosaurios deberían quedarse en esa zona y son más útiles en el puerto. Los voladores si pueden seguirles por tierra e incluso ayudarlos en caso de problemas.
+Otra opción sería desembarcar fuera de la ciudad, lejos de miradas indiscretas, pero podrían encontrarse con patrullas aliadas vigilando el perímetro de la ciudad. Además los plesiosaurios deberían quedarse en esa zona y son más útiles en el puerto. Los voladores si pueden seguirles por tierra e incluso ayudarles en caso de problemas.
 
 ### Buscar al activo de la IM
 El activo del IM a rescatar es Jocelyn Van Croft. Quizás ya la conozcan de la misión en Francia, o sea la primera vez que se la encuentran. Está escondida en un piso franco de la IM y no se atreve mucho a salir. Es el tercer intento de sacarla de la ciudad y ha salido viva de milagro del último operativo de rescate. Todo su equipo pereció en esa operación.
@@ -1862,10 +1862,10 @@ La Fundación le reclutó, cuando el "Mary Anning" tuvo que hacer reparaciones e
 
 **Sugerencia de interpretación:** Siempre estás alegre, canturreando las canciones que ponen en tu radio, la cual nunca apagas. Te entusiasman los nuevos retos y estás deseoso de que alguien aparezca por tu taller con algún reto que ponga a prueba tus capacidades.  
 
+\saltopagina
+
 ### General Eugene Linton, director de la IM y enlace con el alto mando &#x2638;
 xxx
-
-\saltopagina
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Notar d4, Persuadir d4, Sigilo d4
@@ -1888,14 +1888,19 @@ xxx
 
 **Sugerencia de interpretación:** xxx
 
-### Jocelyn Van Croft, espía y aventurera inglesa &#x2638;
+\saltopagina
+
+### Jocelyn Van Croft, espía y aventurera &#x2638;
+[![Retrato de Jocelyn Van Croft](./assests/images/jocelyn.jpg 'Painting sketch by ArthurHenri')](https://www.deviantart.com/arthurhenri/art/Painting-sketch-775087428 'Painting sketch by ArthurHenri')
+
+xxx
 
 * **Atributos:** Agilidad d8, Astucia d8, Espíritu d10, Fuerza d8, Vigor d8
 * **Habilidades:** Apostar d6, Atletismo d8, Conocimientos Generales d8, Disparar d8, Humanidades d8, Idioma Inglés d8, Idioma Árabe d6, Idioma Alemán d8, Idioma Italiano d6, Idioma Noruego d8, Medicina d6, Notar d8, Pelear d8, Persuadir d8, Sigilo d6
 * **Paso:** 6; **Parada:** 6; **Dureza:** 6
 * **Ventajas:** xxx
 * **Desventajas:** xxx
-* **Equipo:** Varios pasaportes de diferentes nacionalidades y dinero en diferentes divisas (escondido en un lugar secreto), ropa comoda de viaje, pistola y daga (FUE+d4)
+* **Equipo:** Varios pasaportes de diferentes nacionalidades y dinero en diferentes divisas (escondido en un lugar secreto), ropa cómoda de viaje, pistola y daga (FUE+d4)
 
 **Sugerencia de interpretación:** xxx
 
