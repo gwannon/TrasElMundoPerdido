@@ -27,7 +27,6 @@
   * Un día en el museo
   * Cena de etiqueta
   * El pecio
-  * Campo minado
   * Limpiando el puerto
   * Despedidas
   * El secreto de los Branningan
@@ -47,6 +46,7 @@
 # Changelog
 
 # Versión 0.5.1 En desarrollo
+* Terminado el Relato Salvaje "Campo minado"
 
 # Versión 0.5 06/08/2024
 * Terminado el Relato Salvaje "¿Quién es Marion Fairfax?"

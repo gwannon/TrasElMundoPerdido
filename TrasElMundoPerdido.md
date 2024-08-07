@@ -1624,6 +1624,47 @@ Todo el atrezo de la película lo dejarán los cineastas del IM en las instalaci
 
 El atrezo consta de ropas hechas de pieles, sandalias, lanzas y hachas de piedra (las partes afiladas son de goma), pelucas y maquillaje para oscurecer la piel. También hay grandes piedras de cartón-piedra, muslos gigantes asados de dinosaurio y objetos por el estilo dignos de los Picapiedra. 
 
+## Campo minado
+```
+Mientras tus comandos atraviesan una zona despejada de terreno, descubren para su desgracia que se han metido en un campo de minas.
+```
+En algún momento mientras tus comandos recorren la campiña francesa, la tundra helada de Noruega, las arenas del Sahara o las calles de Stalingrado, alguien pisa algo metálico que hace un clic metálico (tirada de Notar) y no debería hacerlo. Han entrado en un campo de minas y uno de los comandos ha pisado una mina. 
+
+Puede que la haya detectado y si levanta el pie explotará o que no la detecte y reciba daño. Si has pisado una mina y no ha explotado tienes 2 opciones.
+
+* **Saltar tirando Atletismo,** el éxito y cada avance quita un dado de daño.
+* Un compañero podría acercarse y **desactivarla haciendo una tirada de Reparar** (-4 si no tienen herramientas y -2 si no tienen herramientas de desactivador de explosivos). Un fallo supone daño para los dos comandos.
+
+### Lo que dice el manual en estas situaciones
+Una vez solucionado el primer problema tienen que salir del campo de minas. 
+
+1. Haz un mapa de 20x20 casillas. Marca el lado por el que han entrado.
+2. Coloca a tus comandos y saurios separados por una casilla entre ellos. Recuerda las casillas que ocupa cada saurio al colocarlos.
+
+\saltopagina
+
+3. Apunta las coordenadas de tantas minas como (comandos + saurios) x 2. Recuerda que las minas explotan por simpatía. Si la honda expansiva llega a otra mina está explotará. Recuerda que debería haber menos minas por el lado donde entraron.
+4. Coloca (comandos + saurios) casillas con elementos seguros sin minas como árboles, grandes rocas, pozos, abrevaderos, etc. 
+
+[![Detalle de comando inglés buscando minas](./assests/images/campo-minado.jpg 'A British soldier laying a mine in the sand, 6 April 1942. The mine is placed in a sack and buried with its top level with the ground. 5lb of pressure is required to set it off.')](https://picryl.com/media/the-campaign-in-north-africa-1940-1943-e10294-95e948 'A British soldier laying a mine in the sand, 6 April 1942. The mine is placed in a sack and buried with its top level with the ground. 5lb of pressure is required to set it off.')
+
+El objetivo es salir del mapa y cada turno (10 minutos) pueden moverse una casilla en la dirección que quieran. Deben tirar Notar por cada casilla en la que entren. Si la pasan, si hay mina detectarán la mina y podrán marcarla como minada. Deberán evitarla por si explota sin querer. Si no hay nada pueden marcar la casilla como segura y nadie necesitará tirar Notar al pasar por ella. 
+
+Si fallan la tirada de notar y no hay nada no sabrán si es segura. Pueden perder otro turno para explorarla de nuevo tirando Notar. Si fallan el Notar y hay mina explotará.
+
+Lo lógico es que el comando con más notar marque una ruta segura que el resto debería seguir. El problema es que cada comando está solo hasta llegar a la ruta segura. 
+
+### Otras soluciones imaginativas
+El manual dice como actuar en caso de entrar en un campo minado, pero no tiene en cuenta que tus comandos cuentan con dinosaurios. Esto abre mucho las posibilidades de actuación. 
+
+Podrían tratar de salir volando del campo con pteranodones (como saltar pero tirando el Atletismo del pteranodon + 2) o que los estegosaurios empujarán algo como una piedra que haga estallar las minas. Quizás se suban arriba de los saurios y desde encima sondeen el terreno buscando minas con largos palos.
+
+Sé generoso con los benis para las buenas ideas, ya que seguramente los necesitarán si quieren salir ilesos del campo de minas.
+
+> Realmente las minas explotan al pisarlas no al quitar el peso, pero he sido incapaz de resistirme a este mito de las películas bélicas en que una persona no puede moverse porque ha pisado una mina y si se mueve explota.
+
+\saltopagina
+
 ## Un día en el museo
 ```
 Quizás una visita al Museo de Ciencias Naturales ayude a solucionar un nuevo problema que ha supuesto la cría de dinosaurios.
@@ -1661,41 +1702,6 @@ xxx
 Este relato puede servirte como introducción a tus propias aventuras. Entre los objetos rescatados puede haber algún tipo de valija con documentación que sirva de semilla de tus propias aventuras. 
 
 Quizás haya un mapa de algún lugar misterioso como Lemuria o la Atlántida, diseños de alguna extraña máquina hipertecnológica nazi, la ubicación de otro mundo perdido, etc.
-
-\saltopagina
-
-## Campo minado
-```
-Mientras tus comandos atraviesan una zona despejada de terreno, descubren para su desgracia que se han metido en un campo de minas.
-```
-
-En algún momento mientras tus comandos recorren la campiña francesa, la tundra helada de Noruega, las arenas del Sahara o las calles de Stalingrado, alguien pisa algo metálico que hace un clic metálico (tirada de Notar) y no debería hacerlo. Han entrado en un campo de minas y uno de los comandos ha pisado una mina. 
-
-Puede que la haya detectado y si levanta el pie explotará o que no la detecte y reciba daño. Si has pisado una mina y no ha explotado tienes 2 opciones.
-
-* **Saltar tirando Atletismo,** el éxito y cada avance quita un dado de daño.
-* Un compañero podría acercarse y **desactivarla haciendo una tirada de Reparar** (-4 si no tienen herramientas y -2 si no tienen herramientas de desactivador de explosivos). Un fallo supone daño para los dos comandos.
-
-### Lo que dice el manual en estas situaciones
-Una vez solucionado el primer problema tienen que salir del campo de minas. 
-
-1. Haz un mapa de 20x20 casillas. Marca el lado por el que han entrado.
-2. Coloca a tus comandos y saurios separados por una casilla entre ellos. Recuerda las casillas que ocupa cada saurio al colocarlos.
-3. Apunta las coordenadas de tantas minas como (comandos + saurios) x 2. Recuerda que las minas explotan por simpatía. Si la honda expansiva llega a otra mina está explotará.
-4. Coloca (comandos + saurios) casillas con elementos seguros sin minas como árboles, grandes rocas, pozos, abrevaderos, etc. 
-
-xxx
-
-\saltopagina
-
-### Otras soluciones imaginativas
-El manual dice como actuar en caso de entrar en un campo minado, pero no tiene en cuenta que tus comandos cuentan con dinosaurios. Esto abre mucho las posibilidades de actuación. 
-
-Podrían tratar de salir volando del campo con pteranodones (como saltar pero tirando el Atletismo del pteranodon + 2) o que los estegosaurios empujarán algo como una piedra que haga estallar las minas. Quizás se suban arriba de los saurios y desde encima sondeen el terreno buscando minas con largos palos.
-
-Sé generoso con los benis para las buenas ideas, ya que seguramente los necesitarán si quieren salir ilesos del campo de minas.
-
-> Realmente las minas explotan al pisarlas no al quitar el peso, pero he sido incapaz de resistirme a este mito de las películas bélicas en que una persona no puede moverse porque ha pisado una mina y si se mueve explota.
 
 \saltopagina
 
