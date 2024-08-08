@@ -1221,12 +1221,22 @@ Esto supone que la Fundación está en el radar de las SS. Algo deben sospechar 
 ***
 
 # Parte 3: Río de la plata
+```
 xxx
+```
+
+El río de la Plata es otro de esos destinos exóticos donde tus comandos triunfarán si entienden a sus saurios acuáticos y saben sacar provecho de sus excepcionales habilidades en el agua.
 
 ## Batalla del Río de la Plata
 xxx
 
 ### Informe de misión
+xxx
+
+### En todo el fregado
+xxx
+
+#### Desviar torpedos
 xxx
 
 ### La pista
@@ -1235,6 +1245,10 @@ xxx
 ***
 
 # Parte 4: Noruega
+```
+xxx
+```
+
 xxx
 
 ## Operación Gunnerside
@@ -1252,6 +1266,10 @@ xxx
 ***
 
 # Parte 5: Normandía
+```
+xxx
+```
+
 xxx
 
 ## Preparando el día D
@@ -1266,6 +1284,10 @@ xxx
 ***
 
 # Parte 6: El frente ruso
+```
+xxx
+```
+
 xxx
 
 ## El sitio de Stalingrado
@@ -1280,6 +1302,10 @@ xxx
 ***
 
 # Parte 7: Regreso a casa
+```
+xxx
+```
+
 xxx
 
 ## Traición
@@ -1288,6 +1314,10 @@ xxx
 ***
 
 # Parte 8: Regreso al Mundo Perdido
+```
+xxx
+```
+
 xxx
 
 ## Carrera al Mundo perdido
@@ -1326,6 +1356,11 @@ xxx
 ***
 
 # Parte 9: La Selva Negra
+```
+xxx
+```
+
+xxx
 
 ## La fortaleza inexpugnable
 ```
@@ -1698,7 +1733,7 @@ Mientras el "Mary Anning" surcaba el mar uno de los plesiosaurios que viaja con 
 
 xxx
 
-### Comenzando una aventura
+### Comenzando una gran aventura
 Este relato puede servirte como introducción a tus propias aventuras. Entre los objetos rescatados puede haber algún tipo de valija con documentación que sirva de semilla de tus propias aventuras. 
 
 Quizás haya un mapa de algún lugar misterioso como Lemuria o la Atlántida, diseños de alguna extraña máquina hipertecnológica nazi, la ubicación de otro mundo perdido, etc.
