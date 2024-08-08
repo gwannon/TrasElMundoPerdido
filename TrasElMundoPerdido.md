@@ -1871,7 +1871,7 @@ Como buena irlandesa es risueña y alegre con una tonada siempre en los labios y
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
 * **Ventajas:** xxx
 * **Desventajas:** xxx
-* **Equipo:** xxx
+* **Equipo:** Uniforme de capitán de la marina mercante, pistola, prismáticos, brújula
 
 **Sugerencia de interpretación:** xxx
 
@@ -1907,7 +1907,7 @@ xxx
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
 * **Ventajas:** xxx
 * **Desventajas:** xxx
-* **Equipo:** xxx
+* **Equipo:** Uniforme de militar con galones de general, pistola reglamentaria, maletín con informes de alto secreto
 
 **Sugerencia de interpretación:** xxx
 
@@ -1919,7 +1919,7 @@ xxx
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
 * **Ventajas:** xxx
 * **Desventajas:** xxx
-* **Equipo:** xxx
+* **Equipo:** Uniforme de militar con galones de teniente, pistola reglamentaria, mapas, dosieres, cajas con dulces, taza de te
 
 **Sugerencia de interpretación:** xxx
 
