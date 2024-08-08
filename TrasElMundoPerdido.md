@@ -1221,13 +1221,13 @@ Esto supone que la Fundación está en el radar de las SS. Algo deben sospechar 
 ***
 
 # Parte 3: Río de la plata
+El río de la Plata es otro de esos destinos exóticos donde tus comandos triunfarán si entienden a sus saurios acuáticos y saben sacar provecho de sus excepcionales habilidades en el agua.
+
+## Batalla del Río de la Plata
 ```
 xxx
 ```
 
-El río de la Plata es otro de esos destinos exóticos donde tus comandos triunfarán si entienden a sus saurios acuáticos y saben sacar provecho de sus excepcionales habilidades en el agua.
-
-## Batalla del Río de la Plata
 xxx
 
 ### Informe de misión
@@ -1245,10 +1245,6 @@ xxx
 ***
 
 # Parte 4: Noruega
-```
-xxx
-```
-
 xxx
 
 ## Operación Gunnerside
@@ -1266,13 +1262,13 @@ xxx
 ***
 
 # Parte 5: Normandía
-```
-xxx
-```
-
 xxx
 
 ## Preparando el día D
+```
+xxx
+```
+
 xxx
 
 ### Informe de misión
@@ -1284,13 +1280,13 @@ xxx
 ***
 
 # Parte 6: El frente ruso
-```
-xxx
-```
-
 xxx
 
 ## El sitio de Stalingrado
+```
+xxx
+```
+
 xxx
 
 ### Informe de misión
@@ -1302,37 +1298,46 @@ xxx
 ***
 
 # Parte 7: Regreso a casa
-```
-xxx
-```
-
 xxx
 
 ## Traición
+```
+xxx
+```
+
 xxx
 
 ***
 
 # Parte 8: Regreso al Mundo Perdido
+xxx
+
+## El Mundo Perdido
 ```
 xxx
 ```
 
 xxx
 
-## Carrera al Mundo perdido
+### Carrera al Mundo perdido
+```
+xxx
+```
+
 xxx
 
 \saltopagina
 
-## Misión de rescate
+### Misión de rescate
 ```
 Cuando el zepelín sobrevoló el Mundo Perdido descubrió el campamento de la Fundación y mando un grupo de asalto que tomo fácilmente el control de las instalaciones. Lo primero de tus comandos debería ser liberar a los prisioneros.
 ```
 
 xxx
 
-## Evitando un genocidio
+\saltopagina
+
+### Evitando un genocidio
 ```
 El general Liebenfels considera que los cavernícolas de la meseta emponzoñan los ideales raciales nazis y se propone a exterminar todas las comunidades cavernícolas, si alguien no lo evita.
 ```
@@ -1343,23 +1348,28 @@ xxx
 
 \saltopagina
 
-## Batalla del Mundo Perdido
+### Batalla del Mundo Perdido
+```
+xxx
+```
+
 xxx
 
+\saltopagina
 
 ### El zepelín
 
 [![Foto zepelín nazi en el Amazonas](./assests/images/dirigible.jpg 'LZ-127 at Jiquiá landing field in Recife')](https://www.airships.net/blog/zeppelin-mast-recife-brazil-pernambuco/ 'LZ-127 at Jiquiá landing field in Recife')
+
+&nbsp;
+
+Es importante dejar claro que en esta parte de la aventura tus comandos deberían fracasar, para que puedan ir a la parte 9 y enfrentarse a los nazis en un castillo de la selva Negra. Pero eso no quiere decir que si se lo montan excepcionalmente bien y los dados acompañan puedan terminar la aventura aquí mismo y también está bien. 
 
 xxx
 
 ***
 
 # Parte 9: La Selva Negra
-```
-xxx
-```
-
 xxx
 
 ## La fortaleza inexpugnable
