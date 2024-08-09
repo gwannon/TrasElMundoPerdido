@@ -1721,6 +1721,28 @@ Sé generoso con los benis para las buenas ideas, ya que seguramente los necesit
 
 \saltopagina
 
+## Operación Columba
+```
+[Operación Columba](https://historia.nationalgeographic.com.es/a/palomas-espia-churchill-que-cambiaron-curso-segunda-guerra-mundial_15732) fue el nombre en clave que el ejercito inglés utilizó para referirse al lanzamiento de más de 16.000 palomas tras las líneas enemigas nazis con el objetivo de mantener la comunicación con el frente.
+```
+Una paloma con un extraño canutillo atado a la pata ha caído en una trampa o aparecido herida por balas nazis o las garras de un halcón. Parece ser una paloma mensajera, ¿qué puede pasar por leer el mensaje que lleva?
+
+Uno de tus comandos atrapa una paloma con un canutillo de metal atada a la pata. Si quitan el sello de plomo del canutillo, dentro hay un mensaje. El menestral del palomar de algún emir, malik o del propio califa que ha perdido esta paloma podría pagar una buena recompensa por esta paloma y el mensaje. O igual pueden descifrar el mensaje y sacarle provecho a la información privilegiada del mensaje. Hay varias opciones
+
+Estas son las posibles opciones que puedes ofrecerles.
+
+Si investigan un poco podrán averiguar por el sello de cera a que gobernante pertenece y buscar de entregárselo a la persona que maneja el palomar. Podrían negociar hasta 300 dinares por la paloma viva y 1100 por el canutillo del mensaje si está sellado (o resellado).
+Pueden tratar de venderlo a un enemigo. Estas palomas se usan mucho en los conflictos militares y pueden venderlo a los enemigos del propietario de la paloma. Por la paloma no quieren nada, pero podrían pagar hasta 1500 dinares por el mensaje y quizás un extra de otros 500 si el mensaje es interesante, como gratificación y por su silencio. Es importante tener claro que si esta actividad se llega a conocer, el propietario de la paloma te pondrá en su lista de enemigos.
+
+Si abren el canutillo, verán un mensaje cifrado. Si descifran el mensaje eres libre de darles el mensaje que quieras, te recomiendo que la uses como semilla de aventura. Si no son capaces de descifrarlo pueden consultar con Abū Yūsuf al-Kindī, una eminencia en criptografía que vive en Bagdad.
+Una opción basada en la anterior para schahriars maquiavélicos sería meter un mensaje falso y soltar a la paloma. Puede ser que por alguna razón esto les dé alguna ventaja en el futuro. Esto es muy difícil porque exige descifrar el mensaje original y cifrar su mensaje, es decir, doble trabajo.
+Cuidar a la paloma y dejarla seguir su camino sin tocar el mensaje es otra opción, no creo que sea muy popular, pero ahí la dejo.
+Recompensa de deseos (+1): Otórgale un deseo al schahriar que decida cuidar a la paloma y devolverla a su palomar por amor a los animales y no por la recompensa.
+
+> Semilla de aventura: Si deciden abrir y descifrar el mensaje pueden usarlo para meterles en otro relato salvajes o quizas en otra campaña.
+
+\saltopagina
+
 ## Un día en el museo
 ```
 Quizás una visita al Museo de Ciencias Naturales ayude a solucionar un nuevo problema que ha supuesto la cría de dinosaurios.
