@@ -1236,7 +1236,18 @@ xxx
 ### En todo el fregado
 xxx
 
-#### Desviar torpedos
+### Desviar torpedos
+xxx
+
+Tienes dos opciones de torpedos:
+
+* Torpedo G7a que alcanzaba una velocidad de 44 nudos (80 km/h). Muy rápido y con un alcance de 5.000 m, pero su motor era muy ruidoso y dejaba una estela de burbujas que mostraba su ruta. 
+* Torpedo G7e con una velocidad de 30 nudos (55 km/h). Más lento y con menor alcance (3.000 m) pero muy silencioso y casi invisible. Tenía un motor eléctrico que no dejaba una estela de burbujas por los gases del motor a combustión. Pero que exigía mayor mantenimiento y por tanto tendían a fallar más.
+
+xxx
+
+Como recordatorio rápido los plesiosaurios y los ictiosaurios tienen una velocidad máxima de 22 nudos (40 km/m).
+
 xxx
 
 ### La pista
