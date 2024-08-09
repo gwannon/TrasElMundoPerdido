@@ -1236,19 +1236,44 @@ xxx
 ### En todo el fregado
 xxx
 
-### Desviar torpedos
+### Escudo anti-torpedos
 xxx
 
-Tienes dos opciones de torpedos:
+El submarino tiene dos tipos de dos opciones de torpedos:
 
 * Torpedo G7a que alcanzaba una velocidad de 44 nudos (80 km/h). Muy rápido y con un alcance de 5.000 m, pero su motor era muy ruidoso y dejaba una estela de burbujas que mostraba su ruta. 
 * Torpedo G7e con una velocidad de 30 nudos (55 km/h). Más lento y con menor alcance (3.000 m) pero muy silencioso y casi invisible. Tenía un motor eléctrico que no dejaba una estela de burbujas por los gases del motor a combustión. Pero que exigía mayor mantenimiento y por tanto tendían a fallar más.
 
-xxx
-
 Como recordatorio rápido los plesiosaurios y los ictiosaurios tienen una velocidad máxima de 22 nudos (40 km/m).
 
+El submarino nazi va a intentar hundir el "HMS Exeter" y tus comandos con sus plesiosaurios e ictiosaurios deben crear un escudo anti torpedos. 
+
+\saltopagina
+
+[![Detalle del tablero de combate](./assests/images/grid.png 'Detalle del tablero de combate')](https://mundoperdido.gwannon.com/assests/images/grid.png 'Detalle del tablero de combate')
+
+#### Campo de batalla
+Crea una cuadrícula de 6x10. En un extremo estará el buque de guerra y en el otro extremo el submarino. 
+
+El primer turno y cada dos turnos (1, 3, 5, 7, ...) el submarino lanza un torpedo y tiras d6 (en secreto) para saber por cual columna va a moverse el torpedo. Saca una carta para saber el tipo, rojo G7a y negro G7e. Si sale un Joker vuelve a sacar otra carta para saber el tipo y, además de las ventajas propias del Joker, el torpedo G7e más cercano al buque de guerra se le estropea el motor, se hunde y explota al tocar el fondo.
+
+#### Movimiento por el campo de batalla
+Cada turno, por cada torpedo activo saca una carta, si sale trébol se mueve una casilla hacia adelante y si no se mueven dos casillas hacia delante. Los saurios acuáticos se mueven 1 casilla y con una tirada de Atletismo podrá moverse otra casilla adicional. Si falla, sigue moviéndose la casilla extra, pero recibe 1 punto de fatiga (efectivo al terminar su turno). Si pifia, ni obtiene la casilla extra y recibe el punto de fatiga.
+
+Los G7a se les detecta muy fácilmente y desde la casilla 1 se ve su trayectoria, pero lo G7e son invisibles para tus comandos hasta que un comando pasa por su casilla o una adyacente. En ese momento, podrá verlo y ver que columna de la cuadrícula sigue. 
+
+#### 
+Para deflectar un torpedo, el plesiosaurio debe estar en la misma casilla que el torpedo. Cada vez que un torpedo entra en una casilla ocupada por comando o el comando y su saurio entra en una casilla ocupada por un torpedo puede intentar desviarlo para que no impacte contra el "HMS Exeter".
+
 xxx
+
+#### Fin del combate
+Cuando un torpedo lleva a la última casilla de su columna impacta el buque de guerra. El combate acaba en dos situaciones 
+
+* Cuando el barco recibe 3 impactos o 2 impactos en la misma localización. En este caso el buque de guerra ha recibido demasiado daño y empezará a hundirse.
+* Cuando el submarino lanza 15 torpedos y no consigue hundir su objetivo.
+
+\saltopagina
 
 ### La pista
 xxx
@@ -1256,7 +1281,7 @@ xxx
 ***
 
 # Parte 4: Noruega
-xxx
+La helada Noruega es un destino diferente, no hay un frente donde se desarrolle la guerra. Noruega es territorio controlado por los nazis, moverse es peligroso y ante cualquier fallo no hay lugar al que huir, vayas donde vayas todo es terreno enemigo. Si tienes suerte, puede que la resistencia noruega te ayude.  
 
 ## Operación Gunnerside
 ```
@@ -1273,7 +1298,7 @@ xxx
 ***
 
 # Parte 5: Normandía
-xxx
+La Francia ocupada es un escenario clásico. Pero mientras que las historias normales tratan del día D y del desembarco de Normandía, esta historia va la preparación de ese enfrentamiento. Tus comandos se moverán por la Francia ocupada, más en concreto por Normandía recabando información para la IM.
 
 ## Preparando el día D
 ```
@@ -2500,12 +2525,11 @@ No son tan inteligentes como un humano, pero usan herramientas como garrotes y p
 
 Vive en los árboles en estructuras a medio camino entre nidos y casetas.
 
+\saltopagina
+
 * **Atributos:** Agilidad d10, Astucia d6, Espíritu d8, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d10, Notar d6, Pelear d6, Sigilo d6, Supervivencia d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 6(1)
-
-\saltopagina
-
 * **Ventajas:** Acróbata
 * **Desventajas:** Cobarde (mayor)
 * **Equipo:** Garrote (FUE+d4)
@@ -2515,14 +2539,16 @@ Vive en los árboles en estructuras a medio camino entre nidos y casetas.
   * **Vista y oído agudo.** Su buena vista y oído le da +2 a las tiradas de Notar y Supervivencia que impliquen vista u oído.
   * **Buen trepador:** Paso 8 trepando. Los pitecántropos pasan gran parte de su vida en los árboles y su cuerpo está adaptado a ello. Añaden +2 a sus tiradas de Atletismo cuando trepan.
 
+&nbsp;
+
 [![Dibujo de un Phorusrhacos](./assests/images/phorusrhacos.jpg 'Recreación en vida. - ДиБгд')](https://es.wikipedia.org/wiki/Phorusrhacos#/media/Archivo:Phorusrhacos_longissimusDB24.jpg 'Recreación en vida. - ДиБгд')
+
+\saltopagina
 
 ### Phorusrhacos
 **Carnívoro | Terrestre | 1x1 casillas**
 
 Estas grandes aves depredadoras no voladoras miden alrededor de 2.5 metros de alto y pesan aproximadamente 130 kilogramos. Usan las garras de sus patas y sus enormes picos para matar a pequeñas presas, también se alimentan de carroña. 
-
-\saltopagina
 
 Se les encuentra normalmente en bosques y pastizales. Se considera entre las mayores aves carnívoras que hayan existido.
 
