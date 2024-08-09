@@ -47,6 +47,7 @@
 
 # Versión 0.5.1 En desarrollo
 * Terminado el Relato Salvaje "Campo minado"
+* Terminado el Relato Salvaje "Operación Columba"
 
 # Versión 0.5 06/08/2024
 * Terminado el Relato Salvaje "¿Quién es Marion Fairfax?"

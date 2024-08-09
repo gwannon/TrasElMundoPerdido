@@ -80,7 +80,7 @@ De lo primero que descubrieron es que la evolución no se había parado en el Mu
  
 Pero el gran descubrimiento que hizo Roxton en esta segunda expedición es que todos los saurios tenían cierto grado de domesticación. No eran mascotas como perros y gatos, ni tampoco animales de granja, pero habían convivido con los humanos primitivos de la meseta durante miles de años (cosa que no había ocurrido en el resto del mundo) y esto había transformado sus instintos poco a poco.
 
-Los antropólogos y antropólogas de la fundación se dedicaron a estudiar a los cavernícolas y descubrieron interacciones entre ambas especies que habían llevado a los saurios a ser en parte domesticados. 
+Los antropólogos y antropólogas de la fundación se dedicaron a estudiar a los aborigenes y descubrieron interacciones entre ambas especies que habían llevado a los saurios a ser en parte domesticados. 
 
 Las tribus de humanos primitivos habían aprendido a dejar parte de su caza lejos de sus asentamientos para alejar a los grandes depredadores y a atraer a los herbívoros dejando gran cantidad de frutas en ciertos lugares donde era más fácil cazarlos o alejarlos de sus nidos y entonces robar sus huevos o sus crías. 
 
@@ -93,14 +93,14 @@ Tras el regreso de su segunda expedición y con las sacas llenas de diamantes, L
 
 Lord Roxton, también vio la necesidad de crear una reserva natural de saurios, en caso de que algo pasara en la meseta. Por ello la Fundación compró casi una quinta parte de la isla de Skye en Escocia y monto una reserva natural. La Fundación, en su necesidad de preservar a los animales de la reserva, tuvo que empezar a estudiarlo, porque nada de lo que se sabía la ciencia actual sobre los dinosaurios les era de ayuda.
 
-La vida de aventuras de Lord Roxton se convirtió en una vida de burocracia al frente de la Fundación y de estudio no solo de los saurios sino de las cavernícolas, convirtiéndose en un experto antropólogo. Pero aun así solía aprovechar algunos viajes a la meseta de Maple White para revivir sus años de cazador/explorador.
+La vida de aventuras de Lord Roxton se convirtió en una vida de burocracia al frente de la Fundación y de estudio no solo de los saurios sino de los aborígenes, convirtiéndose en un experto antropólogo. Pero aun así solía aprovechar algunos viajes a la meseta de Maple White para revivir sus años de cazador/explorador.
 
 La principal razón de lord Roxton para montar las instalaciones de la Fundación en Escocia, es que los posibles avistamientos de monstruos prehistóricos podían verse como un intento más de un loco escocés queriendo llamar la atención sobre el Lago Ness. De hecho, desde 1930 se han multiplicado los avistamientos de monstruos de todo tipo y estos hechos son rápidamente noticias en la prensa amarilla. Esto hace que los testigos sean desprestigiados rápidamente por la opinión pública y la comunidad científica, a pesar de que muchas veces han podido ser reales.
 
 ### Política de no intromisión
 Una de las políticas claves que estableció Lord Roxton en su expedición fue la no intervención en la vida de los hombres y mujeres primitivos. Esto incluye todo tipo de intervención que trastocase su modo de vida. No se les da ningún tipo de tecnología, no se les ayuda salvo en cosas muy graves y no se les trata de enseñar ningún tipo de conocimiento.
 
-Lo único que está permitido es un comercio muy básico en el que la Fundación no saca ningún beneficio, solamente usa estos encuentros para estudiar a sus vecinos de las cavernas. Intercambian pieles, alimentos y algunas herramientas muy básicas.
+Lo único que está permitido es un comercio muy básico en el que la Fundación no saca ningún beneficio, solamente usa estos encuentros para estudiar a sus vecinos, los iskala. Intercambian pieles, alimentos y algunas herramientas muy básicas.
 
 ### Lady Roxton
 Poco sabía Margaret Roxton, sobrina de Lord Roxton, lo que iba a cambiar su vida cuando el albacea testamentario de su tío se presentó en su para entregarle una fabulosa fortuna y el control de la fundación con su nombre, tras la muerte de su tío por un ataque al corazón.
@@ -299,7 +299,7 @@ La Fundación tiene en la meseta de Maple White un campamento fijo de científic
 
 De media hay unas 20 personas viviendo en un enclave de unos 10 pabellones. Son autosuficientes en temas de suministros básicos como agua y comida, y cada cierto tiempo reciben suministros médicos, materiales y equipos nuevos.
 
-Esta comunidad permanente de investigaciones ha establecido relaciones con los cavernícolas y han tenido éxito en sus primeros intercambios culturales y comerciales, siguiendo siempre los protocolos establecidos por la Fundación.
+Esta comunidad permanente de investigaciones ha establecido relaciones con los iskalas y han tenido éxito en sus primeros intercambios culturales y comerciales, siguiendo siempre los protocolos establecidos por la Fundación.
 
 Este enclave se sitúa al sur del Lago Central que les provee de pesca y agua. Esto les permite estudiar los saurios acuáticos y estar lo suficientemente lejos de los habitantes de las cuevas para no molestarlos ni interferir en su día a día, pero lo suficientemente cerca para estudiarlos tenerlos controlados. 
 
@@ -1350,7 +1350,7 @@ xxx
 
 ### Evitando un genocidio
 ```
-El general Liebenfels considera que los cavernícolas de la meseta emponzoñan los ideales raciales nazis y se propone a exterminar todas las comunidades cavernícolas, si alguien no lo evita.
+El general Liebenfels considera que los iskala de la meseta emponzoñan los ideales raciales nazis y se propone a exterminar a toda la tribu, si alguien no lo evita.
 ```
 
 xxx
@@ -1723,23 +1723,30 @@ Sé generoso con los benis para las buenas ideas, ya que seguramente los necesit
 
 ## Operación Columba
 ```
-[Operación Columba](https://historia.nationalgeographic.com.es/a/palomas-espia-churchill-que-cambiaron-curso-segunda-guerra-mundial_15732) fue el nombre en clave que el ejercito inglés utilizó para referirse al lanzamiento de más de 16.000 palomas tras las líneas enemigas nazis con el objetivo de mantener la comunicación con el frente.
+Una paloma con un extraño canutillo cae herida a los pies de uno de tus comandos. Parece ser una paloma mensajera, ¿qué puede pasar por leer el mensaje que lleva?
 ```
-Una paloma con un extraño canutillo atado a la pata ha caído en una trampa o aparecido herida por balas nazis o las garras de un halcón. Parece ser una paloma mensajera, ¿qué puede pasar por leer el mensaje que lleva?
 
-Uno de tus comandos atrapa una paloma con un canutillo de metal atada a la pata. Si quitan el sello de plomo del canutillo, dentro hay un mensaje. El menestral del palomar de algún emir, malik o del propio califa que ha perdido esta paloma podría pagar una buena recompensa por esta paloma y el mensaje. O igual pueden descifrar el mensaje y sacarle provecho a la información privilegiada del mensaje. Hay varias opciones
+[Operación Columba](https://historia.nationalgeographic.com.es/a/palomas-espia-churchill-que-cambiaron-curso-segunda-guerra-mundial_15732) fue el nombre en clave que el ejercito inglés utilizó para referirse al lanzamiento de más de 16.000 palomas tras las líneas enemigas nazis con el objetivo de mantener la comunicación con el frente.
 
-Estas son las posibles opciones que puedes ofrecerles.
+Uno de tus comandos encuentra una paloma con un canutillo de metal atada a la pata. Está malherida por alguna bala o el ataque de un halcón. Si quitan el sello de plomo del canutillo, debería haber dentro un mensaje secreto de gente como la resistencia francesa, partisanos o rebeldes italianos y griegos.
 
-Si investigan un poco podrán averiguar por el sello de cera a que gobernante pertenece y buscar de entregárselo a la persona que maneja el palomar. Podrían negociar hasta 300 dinares por la paloma viva y 1100 por el canutillo del mensaje si está sellado (o resellado).
-Pueden tratar de venderlo a un enemigo. Estas palomas se usan mucho en los conflictos militares y pueden venderlo a los enemigos del propietario de la paloma. Por la paloma no quieren nada, pero podrían pagar hasta 1500 dinares por el mensaje y quizás un extra de otros 500 si el mensaje es interesante, como gratificación y por su silencio. Es importante tener claro que si esta actividad se llega a conocer, el propietario de la paloma te pondrá en su lista de enemigos.
+El [MI14](https://en.wikipedia.org/wiki/MI14) estará muy interesada en esta paloma y el mensaje que porta. O igual pueden descifrar el mensaje y sacarle provecho a la información privilegiada del mensaje. 
 
-Si abren el canutillo, verán un mensaje cifrado. Si descifran el mensaje eres libre de darles el mensaje que quieras, te recomiendo que la uses como semilla de aventura. Si no son capaces de descifrarlo pueden consultar con Abū Yūsuf al-Kindī, una eminencia en criptografía que vive en Bagdad.
-Una opción basada en la anterior para schahriars maquiavélicos sería meter un mensaje falso y soltar a la paloma. Puede ser que por alguna razón esto les dé alguna ventaja en el futuro. Esto es muy difícil porque exige descifrar el mensaje original y cifrar su mensaje, es decir, doble trabajo.
-Cuidar a la paloma y dejarla seguir su camino sin tocar el mensaje es otra opción, no creo que sea muy popular, pero ahí la dejo.
-Recompensa de deseos (+1): Otórgale un deseo al schahriar que decida cuidar a la paloma y devolverla a su palomar por amor a los animales y no por la recompensa.
+Si son héroes deberían curar a la paloma, es una militar como tus comandos que está luchando a su manera contra los nazis. Sé generoso con los benis por curar y cuidar de un compañero de fatigas.
 
-> Semilla de aventura: Si deciden abrir y descifrar el mensaje pueden usarlo para meterles en otro relato salvajes o quizas en otra campaña.
+Veamos las opciones que tienen tus comandos.
+
+* Dejarla seguir su camino.
+* Quedarse con el canutillo y sin abrirlo entregarlo al MI14.
+* Abrir el canutillo, ver el mensaje y actuar en consecuencia.
+* Abrir el canutillo, ver el mensaje y volver a cerrarlo sin que se note. Luego pueden dejar a la paloma libre o entregarla al MI14.
+* Una opción para comandos maquiavélicos sería meter un mensaje falso y soltar a la paloma o entregar la paloma MI14. Puede ser que por alguna razón esto les dé alguna ventaja en el futuro. Esto es muy difícil porque exige descifrar el mensaje original y cifrar su mensaje, es decir, doble trabajo.
+
+Puedes jugar con su paranoia; igual es una paloma mensajera nazi que lleva importantes mensajes al propio Hitler. Solo abriendo el canutillo podrán saberlo.
+
+Si abren el canutillo, verán un mensaje cifrado. Si descifran el mensaje (Humanidades -4 y un día completo de trabajo), eres libre de darles el mensaje que quieras. **Te recomiendo que la uses como semilla de aventura.** 
+
+Si no son capaces de descifrarlo pueden consultar a algún experto en cifrado como la gente de Bletchley Park de la Parte 2 de la campaña.
 
 \saltopagina
 
@@ -2418,27 +2425,31 @@ Los pteranodones son unos de los saurios voladores de mayor tamaño, llegando a 
 
 \saltopagina
 
-## Otros animales y seres prehistóricos
-La expedición Challenger no solo encontró dinosaurios, también otros animales prehistóricos como el megaloceros o el glyptodon. También estuvieron en contacto con homínidos anteriores a los humanos e incluso con humanos primitivos. 
+## Los iskala y otros habitantes del mundo perdido
+La expedición Challenger no solo encontró dinosaurios, también otros animales prehistóricos como el megaloceros o el glyptodon. También estuvieron en contacto con homínidos anteriores a los humanos e incluso con aborígenes de la selva que llegaron a la meseta de Maple White. 
 
-[![Dibujo artístico de Cavernícolas](./assests/images/cavernicolas.jpg 'Guide leaflet - Charles R. Knight')](https://commons.wikimedia.org/wiki/Category:Charles_R._Knight#/media/File:Guide_leaflet_(1901)_(14766909282).jpg 'Guide leaflet - Charles R. Knight')
+### Indios iskala
 
-### Cavernícola
-**Omnívoro | Terrestre | 1x1 casillas**
+[![Detalle del día a día de los iskala](./assests/images/iskalis.jpg 'Natives of the Amazon / V. Dutertre.')](https://picryl.com/media/natives-of-the-amazon-v-dutertre 'Natives of the Amazon / V. Dutertre.')
 
-Estos humanos primitivos no son diferentes de nosotros. Quizás son más fuertes y resistentes por su dura vida. Son cazadores y recolectores, por no decir carroñeros. Son capaces de crear y usar herramientas sencillas que usa para cazar, curtir pieles, trenzar cuerdas, hacer cestos, ... Han descubierto el fuego lo que ha mejorado mucho su calidad de vida.
+Esta tribu primitiva de aborígenes llevan siglos si no milenios viviendo en la meseta. De menor estatura que los humanos modernos, son más fuertes y resistentes por su dura vida.
 
-Aunque no se enfrentan a los titanes que pisan su mundo, han desarrollado técnicas para enfrentarse, sobre todo en grupo, contra seres mucho más grandes que ellos. Tienen también un lenguaje de gruñidos muy básico basado en la supervivencia (peligro, comida, agua, etc.), pero que todavía no les sirve para transmitir información.
+Son principalmente cazadores y recolectores, por no decir carroñeros, pero también han domesticado a ciertos saurios.
+
+Son capaces de crear y usar armas y herramientas sencillas como lanzas, cuchillos y arcos que usan para cazar, curtir pieles, trenzar cuerdas, hacer cestos, etc. Controlan el fuego lo que les da una gran ventaja en su mundo.
+
+Han desarrollado técnicas para enfrentarse, sobre todo en grupo, contra seres mucho más grandes que ellos de forma que puede combatir con relativo éxito a alosaurios y megalosaurios. 
 
 * **Atributos:** Agilidad d6, Astucia d4, Espíritu d6, Fuerza d8, Vigor d8
-* **Habilidades:** Atletismo d6, Conocimientos Generales d4, Intimidar d6, Notar d6, Pelear d8, Sigilo d6, Supervivencia d8
+* **Habilidades:** Atletismo d6, Conocimientos Generales d4, Dispara d8, Intimidar d6, Notar d6, Pelear d8, Sigilo d6, Supervivencia d8
 * **Paso:** 6; **Parada:** 6; **Dureza:** 6
 * **Ventajas:** Matagigantes
 * **Desventajas:** Manazas (menor), Analfabeto (menor)
+* **Equipo:** Pieles (+1 armadura pecho y piernas), hacha de piedra (FUE+d4) o arco simple, lanza de punta de piedra (FUE+d4, parada +1, alcance 1, dos manos)
+
+**Deberías personalizar las estadísticas y equipo** de cada iskala que saques en partida, según su profesión y posición social.  
 
 \saltopagina
-
-* **Equipo:** Pieles (+1 armadura pecho y piernas), hacha de piedra (FUE+d4), lanza de punta de piedra (FUE+d4, parada +1, alcance 1, dos manos)
 
 [![Foto artística de un Glyptodon](./assests/images/glyptodon.jpg 'Recreación artística de un Glyptodon - Luca Mendieta https://biopicturestudio.blogspot.com/')](https://es.wikipedia.org/wiki/Glyptodon#/media/Archivo:GLYPTODON.jpg 'Recreación artística de un Glyptodon - Luca Mendieta https://biopicturestudio.blogspot.com/')
 
@@ -2483,11 +2494,15 @@ A pesar de su aspecto más cercano a los alces (de hecho se les conocía como al
 ### Pitecántropo
 **Herbívoro | Terrestre/Arbóreo | 1x1 casillas**
 
-Estos homínidos que pueden andar de pie son considerados el eslabón perdido entre el primate y el humano. Son muy buenos trepadores y muy fuertes como sus ancestros primates. Son agresivos y territoriales y habitan los bosques de la meseta de Maple White. No son tan inteligentes como un humano, pero usan herramientas como garrotes y piedras y tiene un lenguaje muy básico con el que se comunican. 
+Estos homínidos que pueden andar de pie son considerados el eslabón perdido entre el primate y el humano. Son muy buenos trepadores y muy fuertes como sus ancestros primates. Son agresivos y territoriales y los pocos que sobreviven libres habitan los bosques de la meseta de Maple White. 
+
+No son tan inteligentes como un humano, pero usan herramientas como garrotes y piedras y tiene un lenguaje de gruñidos muy básico basado en la supervivencia (peligro, comida, agua, etc.), pero que todavía no les sirve para transmitir información.
+
+Vive en los árboles en estructuras a medio camino entre nidos y casetas.
 
 * **Atributos:** Agilidad d10, Astucia d6, Espíritu d8, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d10, Notar d6, Pelear d6, Sigilo d6, Supervivencia d6
-* **Paso:** 6; **Parada:** 5; **Dureza:** 5
+* **Paso:** 6; **Parada:** 5; **Dureza:** 6(1)
 
 \saltopagina
 
@@ -2495,6 +2510,7 @@ Estos homínidos que pueden andar de pie son considerados el eslabón perdido en
 * **Desventajas:** Cobarde (mayor)
 * **Equipo:** Garrote (FUE+d4)
 * **Capacidades especiales:**
+  * **Armadura +1:** Piel dura como el cuero curtido. 
   * **Mordisco:** FUE+d4 de daño.
   * **Vista y oído agudo.** Su buena vista y oído le da +2 a las tiradas de Notar y Supervivencia que impliquen vista u oído.
   * **Buen trepador:** Paso 8 trepando. Los pitecántropos pasan gran parte de su vida en los árboles y su cuerpo está adaptado a ello. Añaden +2 a sus tiradas de Atletismo cuando trepan.
@@ -2581,7 +2597,7 @@ Esta campaña va de joder los malvados planes de los nazis, así que cualquier t
 Me he tomado una serie de licencias con la obra original de Sir Arthur Conan Doyle a la hora de desarrollar esta campaña que pueden resumirse en los siguientes puntos:
 
 * Los dinosaurios son muchísimo más inteligentes que en el libro. En el original se les representa como seres estúpidos fáciles de engañar. Su cerebro es muy pequeño y esa es su principal debilidad. En esta campaña se considera que sus cerebros han evolucionado gracias a la interacción con los humanos primitivos.
-* Siguiendo con el punto anterior, los cavernícolas no se dedican a cazar y matar dinosaurios, sino que han aprendido a semi-domesticarlos.
+* Siguiendo con el punto anterior, los aborígenes no se dedican a cazar y matar dinosaurios, sino que han aprendido a semi-domesticarlos.
 
 \saltopagina
 
