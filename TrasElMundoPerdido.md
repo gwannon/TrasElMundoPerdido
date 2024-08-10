@@ -56,23 +56,51 @@ A pesar de ello, Challenger consiguió el apoyo de Lord John Roxton, el profesor
 
 \saltopagina
 
-[![Foto de la meseta](./assests/images/roraima.jpg 'Mañana despejada en Monte Roraima, vista desde la vía que lleva allá desde la comunidad pemón de Paraitepuy, en la Gran Sabana, Venezuela - Paolo Costa Baldi')](https://es.wikipedia.org/wiki/Roraima_(tepuy)#/media/Archivo:Roraima3_(79).JPG 'Mañana despejada en Monte Roraima, vista desde la vía que lleva allá desde la comunidad pemón de Paraitepuy, en la Gran Sabana, Venezuela - Paolo Costa Baldi')
-
-### Una aventura increíble
-Tras varias aventuras y desventuras, la expedición consiguió llegar y acceder a la inaccesible la meseta que nombraron como la Tierra de Maple White. En esa tierra descubrieron no solo pteranodones, sino también iguanodones, alosaurios, estegosaurios, ictiosaurios y plesiosaurios. 
-
-xxx
-
-#### El pacto de silencio
-xxx
-
-\saltopagina
-
 [![Mapa del Mundo Perdido hecho por Maple White](./assests/images/maple-white-mapa.jpg 'Page 222 (The Lost World, 1912)')](https://es.wikipedia.org/wiki/Archivo:Page_222_(The_Lost_World,_1912).jpg 'Page 222 (The Lost World, 1912)')
 
 \saltopagina
 
+[![Foto de la meseta](./assests/images/roraima.jpg 'Mañana despejada en Monte Roraima, vista desde la vía que lleva allá desde la comunidad pemón de Paraitepuy, en la Gran Sabana, Venezuela - Paolo Costa Baldi')](https://es.wikipedia.org/wiki/Roraima_(tepuy)#/media/Archivo:Roraima3_(79).JPG 'Mañana despejada en Monte Roraima, vista desde la vía que lleva allá desde la comunidad pemón de Paraitepuy, en la Gran Sabana, Venezuela - Paolo Costa Baldi')
+
+### Una aventura increíble
+Tras varias aventuras y desventuras, la expedición consiguió llegar y acceder a la inaccesible la meseta que nombraron como la Tierra de Maple White. Pero quedaron atrapados en ella debido a la traición y venganza contra Lord Roxton de uno de sus acompañantes que destruyo el acceso que habían conseguido construir con un árbol. Tres porteadores, dos indios aborígenes y un hombre negro llamado Zambo, se quedaron abajo de la meseta ayudando a sus jefes.
+
+En esa tierra descubrieron no solo pteranodones, sino también iguanodones, alosaurios, estegosaurios, ictiosaurios y plesiosaurios, además de todo tipo animales desconocidos para la zoología. Tuvieron que luchar contra algunos de los saurios depredadores pero siempre con éxito.
+
+Una noche, a traición, fueron atrapados y consiguieron escapar de una raza de homínidos muy violentos, al que Challenger y Summerlee consideraron un pitecántropo posterior al hombre de Java. Descubrieron también que estaban en guerra con una tribu de aborígenes humanos que hace cientos de años, si no miles, accedieron a la meseta.
+
+Ayudaron con sus rifles y su munición a los aborígenes, que tenían las de perder, a vencer a los homínidos que fueron diezmados y convertidos en esclavos.
+
+Una vez pacificada la meseta pudieron ponerse a explorar y conocer las maravillas de aquella zona y a buscar una forma de escapar. De hecho Challenger descubrió unas toberas naturales de las que salía algún tipo de gas inflamable y menos pesado que el aire que quiso usar para fabricar un globo, aunque nunca llego a hacerse realidad.
+
+\saltopagina
+
+[![Dibujo de un enfrentamiento de un tiranosaurio y un triceratops](./assests/images/enfrentamiento.jpg 'Charles R. Knight')](https://commons.wikimedia.org/wiki/Category:Charles_R._Knight#/media/File:Annual_report_of_the_Director_to_the_Board_of_Trustees_for_the_year_.._(1926)_(18434166321).jpg 'Charles R. Knight')
+
+&nbsp;
+
+Los aborígenes no parecían contentos cuando el grupo intentaba salir de la meseta así sus planes de escape tuvieron que hacerse en secreto. El hijo del jefe de los aborígenes, al que habían salvado de los homínidos, les enseño una ruta de escape en las cuevas en las que vivían. A escondidas hicieron sus macutos y escaparon con lo que pudieron, menos Challenger que se llevó un gran bulto que resultó ser una cría de pteranodon.  
+
+Malone trato de enviar sus crónicas (por si morían antes de salir del mundo perdido) con los dos indios que se quedaron abajo de la meseta de a los que pidieron que buscarán ayuda, pero estos escritos nunca llegaron a su destino.
+
+Por otro lado, a escondidas de sus compañeros, Lord Roxton descubrió que en un lodo azul que había en el pantano donde anidaban los pteranodones había diamantes de gran tamaño por valor de 200.000 libras. Estos diamantes fueron el origen de lo que algún día sería la Fundación Roxton. 
+
+### El pacto de silencio
+**AVISO IMPORTANTE:** A partir de este punto, esta campaña y el libro original difieren totalmente en su desarrollo.
+
+Durante el camino de regreso a Londres, Lord Roxton tuvo tiempo de pensar sobre toda la aventura y el futuro que les aguardaba a ellos y las personas y seres que habitaban la meseta. Aunque habían jurado que ninguno de los 4 componentes de la expedición daría pistas de la ubicación del fascinante mundo perdido que habían conocido, Lord Roxton sabía que la civilización la alcanzaría como había pasado en otras partes de su amada Sudamérica.
+
+Es por ello buscó la manera de que sus compañeros juraran decir que la expedición había sido un fracaso. Como recompensa por su silencio, Roxton les ofreció una cuarta parte del tesoro en diamantes que extrajo del lodo azul del pantano donde vivían los pteranodones, unas 50.000 libras por cabeza.
+
+\saltopagina
+
+Claramente, Challenger fue quien ofreció más oposición. Roxton tuvo que prometerle que a su debido tiempo, la verdad de la meseta de Maple White saldría a la luz y el nombre del profesor G. E. Challenger se elevaría al olimpo de la zoología.
+
+Challenger gasto su parte en financiar sus locos proyectos, Summerlee se retiró de la enseñanza y Malone siguió con carrera periodística y tuvo cierto éxito como novelista. Roxton también se encargó de que Zambo recibiera una buena suma de dinero y emigro a los Estados Unidos con unos familiares.
+
 ## La expedición Roxton
+Lord Roxton uso sus 50.000 libras para organizar otra expedición al mundo perdido. xxx
+
 xxx
 
 ### Descubrimientos asombrosos
@@ -80,7 +108,7 @@ De lo primero que descubrieron es que la evolución no se había parado en el Mu
  
 Pero el gran descubrimiento que hizo Roxton en esta segunda expedición es que todos los saurios tenían cierto grado de domesticación. No eran mascotas como perros y gatos, ni tampoco animales de granja, pero habían convivido con los humanos primitivos de la meseta durante miles de años (cosa que no había ocurrido en el resto del mundo) y esto había transformado sus instintos poco a poco.
 
-Los antropólogos y antropólogas de la fundación se dedicaron a estudiar a los aborigenes y descubrieron interacciones entre ambas especies que habían llevado a los saurios a ser en parte domesticados. 
+Los antropólogos y antropólogas de la fundación se dedicaron a estudiar a los aborígenes y descubrieron interacciones entre ambas especies que habían llevado a los saurios a ser en parte domesticados. 
 
 Las tribus de humanos primitivos habían aprendido a dejar parte de su caza lejos de sus asentamientos para alejar a los grandes depredadores y a atraer a los herbívoros dejando gran cantidad de frutas en ciertos lugares donde era más fácil cazarlos o alejarlos de sus nidos y entonces robar sus huevos o sus crías. 
 
@@ -1382,8 +1410,6 @@ El general Liebenfels considera que los iskala de la meseta emponzoñan los idea
 
 xxx
 
-[![Dibujo de un enfrentamiento de un tiranosaurio y un triceratops](./assests/images/enfrentamiento.jpg 'Charles R. Knight')](https://commons.wikimedia.org/wiki/Category:Charles_R._Knight#/media/File:Annual_report_of_the_Director_to_the_Board_of_Trustees_for_the_year_.._(1926)_(18434166321).jpg 'Charles R. Knight')
-
 \saltopagina
 
 ### Batalla del Mundo Perdido
@@ -1748,7 +1774,7 @@ Sé generoso con los benis para las buenas ideas, ya que seguramente los necesit
 
 \saltopagina
 
-[![imagen de piloto de la RAF con paloma mensajera](./assests/images/paloma.jpg 'A member of the crew of an RAF Coastal Command Lockheed Hudson holding a carrier pigeon, 1942 - Royal Air Force official photographer')](https://picryl.com/media/the-campaign-in-north-africa-1940-1943-e10294-95e948 'A member of the crew of an RAF Coastal Command Lockheed Hudson holding a carrier pigeon, 1942 - Royal Air Force official photographer')
+[![Imagen de piloto de la RAF con paloma mensajera](./assests/images/paloma.jpg 'A member of the crew of an RAF Coastal Command Lockheed Hudson holding a carrier pigeon, 1942 - Royal Air Force official photographer')](https://picryl.com/media/the-campaign-in-north-africa-1940-1943-e10294-95e948 'A member of the crew of an RAF Coastal Command Lockheed Hudson holding a carrier pigeon, 1942 - Royal Air Force official photographer')
 
 ## Operación Columba
 ```
@@ -1998,7 +2024,7 @@ xxx
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
 * **Ventajas:** xxx
 * **Desventajas:** xxx
-* **Equipo:** Uniforme de militar con galones de teniente, pistola reglamentaria, mapas, dosieres, cajas con dulces, taza de te
+* **Equipo:** Uniforme de militar con galones de teniente, pistola reglamentaria, mapas, dosieres, cajas con dulces, taza de té
 
 **Sugerencia de interpretación:** xxx
 

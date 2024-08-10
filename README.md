@@ -18,11 +18,7 @@
 * Parte 4: Noruega
 
 # Por hacer de la versión 0.6
-* El mundo perdido
-* La expedición Roxton
 * Parte 3: Río de la Plata
-
-# Por hacer de la versión 0.5
 * Relatos salvajes
   * Un día en el museo
   * Cena de etiqueta
@@ -32,6 +28,9 @@
   * El secreto de los Branningan
   * Espécimen perdido
   * Arte robado
+
+# Por hacer de la versión 0.5
+* La expedición Roxton
 * Parte 2: Norte de África
   * Buscar al activo de la IM
   * Salir de Tobruk
@@ -45,9 +44,13 @@
 
 # Changelog
 
-# Versión 0.5.1 En desarrollo
+# Versión 0.5.2 En desarrollo
+
+# Versión 0.5.1 10/08/2024
 * Terminado el Relato Salvaje "Campo minado"
 * Terminado el Relato Salvaje "Operación Columba"
+* Terminada la parte de "Escudo anti-torpedos" de "Parte 3: Río de la plata"
+* Terminada ambientación "El mundo perdido"
 
 # Versión 0.5 06/08/2024
 * Terminado el Relato Salvaje "¿Quién es Marion Fairfax?"
