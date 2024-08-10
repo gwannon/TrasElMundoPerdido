@@ -1255,25 +1255,27 @@ El submarino nazi va a intentar hundir el "HMS Exeter" y tus comandos con sus pl
 #### Campo de batalla
 Crea una cuadrícula de 6x10. En un extremo estará el buque de guerra y en el otro extremo el submarino. 
 
-El primer turno y cada dos turnos (1, 3, 5, 7, ...) el submarino lanza un torpedo y tiras d6 (en secreto) para saber por cual columna va a moverse el torpedo. Saca una carta para saber el tipo, rojo G7a y negro G7e. Si sale un Joker vuelve a sacar otra carta para saber el tipo y, además de las ventajas propias del Joker, el torpedo G7e más cercano al buque de guerra se le estropea el motor, se hunde y explota al tocar el fondo.
+El primer turno y cada dos turnos (1, 3, 5, 7, ...) el submarino lanza un torpedo y tiras d6 (en secreto) para saber por cuál columna va a moverse el torpedo. Saca una carta para saber el tipo, rojo G7a y negro G7e. Si sale un Joker vuelve a sacar otra carta para saber el tipo y, además de las ventajas propias del Joker, el torpedo G7e más cercano al buque de guerra se le estropea el motor, se hunde y explota al tocar el fondo.
 
 #### Movimiento por el campo de batalla
-Cada turno, por cada torpedo activo saca una carta, si sale trébol se mueve una casilla hacia adelante y si no se mueven dos casillas hacia delante. Los saurios acuáticos se mueven 1 casilla y con una tirada de Atletismo podrá moverse otra casilla adicional. Si falla, sigue moviéndose la casilla extra, pero recibe 1 punto de fatiga (efectivo al terminar su turno). Si pifia, ni obtiene la casilla extra y recibe el punto de fatiga.
+Cada turno, por cada torpedo activo saca una carta, si sale trébol se mueve una casilla hacia adelante y si no se mueven dos casillas hacia delante (y como antes un Joker supone que falla un G7e). Los saurios acuáticos se mueven 1 casilla y con una tirada de Atletismo podrá moverse otra casilla adicional. Si falla, sigue moviéndose la casilla extra, pero recibe 1 punto de fatiga (efectivo al terminar su turno). Si pifia, ni obtiene la casilla extra y recibe el punto de fatiga.
 
-Los G7a se les detecta muy fácilmente y desde la casilla 1 se ve su trayectoria, pero lo G7e son invisibles para tus comandos hasta que un comando pasa por su casilla o una adyacente. En ese momento, podrá verlo y ver que columna de la cuadrícula sigue. 
+Los G7a se les detecta muy fácilmente y desde la casilla 1 se ve su trayectoria, pero lo G7e son invisibles para tus comandos hasta que un comando pasa por su casilla o una adyacente. En ese momento, podrán verlo y ver que columna de la cuadrícula sigue. 
 
-#### 
+#### Desviar un torpedo
 Para deflectar un torpedo, el plesiosaurio debe estar en la misma casilla que el torpedo. Cada vez que un torpedo entra en una casilla ocupada por comando o el comando y su saurio entra en una casilla ocupada por un torpedo puede intentar desviarlo para que no impacte contra el "HMS Exeter".
 
-xxx
+No pueden desactivar ni detener los torpedos, solo pueden desviarlos. Es por ello que tendrán que hacer primero una tirada de Atletismo para nadar y acercarse por el lado adecuado. Cada avance da un +1 a la tirada de FUE enfrentada a la FUE del torpedo (d12 para el G7a y d8 para el G7e).
+
+Si pasan la tirada, el proyectil recibe tal impacto que es desviado de su ruta y no impacta contra el barco. Si fallan, el torpedo sigue su ruta y si empatan el torpedo cambia de carril al azar (par a la izquierda, impar derecha y si sale de la cuadrícula se pierde). Si pifian las dos tiradas el torpedo explota (6d6 de daño para el plesiosaurio y su jinete).
+
+\saltopagina
 
 #### Fin del combate
 Cuando un torpedo lleva a la última casilla de su columna impacta el buque de guerra. El combate acaba en dos situaciones 
 
 * Cuando el barco recibe 3 impactos o 2 impactos en la misma localización. En este caso el buque de guerra ha recibido demasiado daño y empezará a hundirse.
 * Cuando el submarino lanza 15 torpedos y no consigue hundir su objetivo.
-
-\saltopagina
 
 ### La pista
 xxx
@@ -1746,6 +1748,8 @@ Sé generoso con los benis para las buenas ideas, ya que seguramente los necesit
 
 \saltopagina
 
+[![imagen de piloto de la RAF con paloma mensajera](./assests/images/paloma.jpg 'A member of the crew of an RAF Coastal Command Lockheed Hudson holding a carrier pigeon, 1942 - Royal Air Force official photographer')](https://picryl.com/media/the-campaign-in-north-africa-1940-1943-e10294-95e948 'A member of the crew of an RAF Coastal Command Lockheed Hudson holding a carrier pigeon, 1942 - Royal Air Force official photographer')
+
 ## Operación Columba
 ```
 Una paloma con un extraño canutillo cae herida a los pies de uno de tus comandos. Parece ser una paloma mensajera, ¿qué puede pasar por leer el mensaje que lleva?
@@ -1754,6 +1758,8 @@ Una paloma con un extraño canutillo cae herida a los pies de uno de tus comando
 [Operación Columba](https://historia.nationalgeographic.com.es/a/palomas-espia-churchill-que-cambiaron-curso-segunda-guerra-mundial_15732) fue el nombre en clave que el ejercito inglés utilizó para referirse al lanzamiento de más de 16.000 palomas tras las líneas enemigas nazis con el objetivo de mantener la comunicación con el frente.
 
 Uno de tus comandos encuentra una paloma con un canutillo de metal atada a la pata. Está malherida por alguna bala o el ataque de un halcón. Si quitan el sello de plomo del canutillo, debería haber dentro un mensaje secreto de gente como la resistencia francesa, partisanos o rebeldes italianos y griegos.
+
+\saltopagina
 
 El [MI14](https://en.wikipedia.org/wiki/MI14) estará muy interesada en esta paloma y el mensaje que porta. O igual pueden descifrar el mensaje y sacarle provecho a la información privilegiada del mensaje. 
 
@@ -1772,8 +1778,6 @@ Puedes jugar con su paranoia; igual es una paloma mensajera nazi que lleva impor
 Si abren el canutillo, verán un mensaje cifrado. Si descifran el mensaje (Humanidades -4 y un día completo de trabajo), eres libre de darles el mensaje que quieras. **Te recomiendo que la uses como semilla de aventura.** 
 
 Si no son capaces de descifrarlo pueden consultar a algún experto en cifrado como la gente de Bletchley Park de la Parte 2 de la campaña.
-
-\saltopagina
 
 ## Un día en el museo
 ```
