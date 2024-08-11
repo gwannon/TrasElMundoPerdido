@@ -30,7 +30,6 @@
   * Arte robado
 
 # Por hacer de la versión 0.5
-* La expedición Roxton
 * Parte 2: Norte de África
   * Buscar al activo de la IM
   * Salir de Tobruk
@@ -45,6 +44,7 @@
 # Changelog
 
 # Versión 0.5.2 En desarrollo
+* Terminada ambientación "La expedición Roxton"
 
 # Versión 0.5.1 10/08/2024
 * Terminado el Relato Salvaje "Campo minado"

@@ -94,14 +94,21 @@ Es por ello buscó la manera de que sus compañeros juraran decir que la expedic
 
 \saltopagina
 
-Claramente, Challenger fue quien ofreció más oposición. Roxton tuvo que prometerle que a su debido tiempo, la verdad de la meseta de Maple White saldría a la luz y el nombre del profesor G. E. Challenger se elevaría al olimpo de la zoología.
+Claramente, Challenger fue quien ofreció más oposición, su nombre sería manchado si volvían de la expedición sin encontrar nada. Roxton tuvo que prometerle que a su debido tiempo, la verdad de la meseta de Maple White saldría a la luz y el nombre del profesor G. E. Challenger se elevaría al olimpo de la zoología.
 
 Challenger gasto su parte en financiar sus locos proyectos, Summerlee se retiró de la enseñanza y Malone siguió con carrera periodística y tuvo cierto éxito como novelista. Roxton también se encargó de que Zambo recibiera una buena suma de dinero y emigro a los Estados Unidos con unos familiares.
 
+[![Esbozo de un Ceratosaurio](./assests/images/ceratosaurus.jpg 'Restoration of Ceratosaurus. - By J. M. Gleeson (1861–1917) under supervision of Charles R. Knight')](https://commons.wikimedia.org/wiki/Category:Charles_R._Knight#/media/File:Outdated_Ceratosaurus.jpg 'Restoration of Ceratosaurus. - By J. M. Gleeson (1861–1917) under supervision of Charles R. Knight')
+
 ## La expedición Roxton
-Lord Roxton uso sus 50.000 libras para organizar otra expedición al mundo perdido. xxx
+
+Lord Roxton uso sus 50.000 libras para organizar otra expedición al mundo perdido y 1 año más tarde estaba de vuelta en la meseta con un equipo de científicos e investigadoras para estudiar la Tierra de Maple White. 
+
+Lo primero que hizo la expedición fue crear una especie de ascensor que permitía acceder a la meseta sin necesidad de usar globos o la ruta de los iskala.
 
 xxx
+
+\saltopagina
 
 ### Descubrimientos asombrosos
 De lo primero que descubrieron es que la evolución no se había parado en el Mundo Perdido, sino que los saurios habían seguido evolucionando y principalmente su capacidad craneal era mayor que los fósiles de sus antepasados, con lo que se podía deducir que eran más inteligentes que sus antepasados. De hecho, son capaces de solucionar problemas básicos y de realizar rutinas tras un proceso de aprendizaje.
@@ -110,7 +117,7 @@ Pero el gran descubrimiento que hizo Roxton en esta segunda expedición es que t
 
 Los antropólogos y antropólogas de la fundación se dedicaron a estudiar a los aborígenes y descubrieron interacciones entre ambas especies que habían llevado a los saurios a ser en parte domesticados. 
 
-Las tribus de humanos primitivos habían aprendido a dejar parte de su caza lejos de sus asentamientos para alejar a los grandes depredadores y a atraer a los herbívoros dejando gran cantidad de frutas en ciertos lugares donde era más fácil cazarlos o alejarlos de sus nidos y entonces robar sus huevos o sus crías. 
+Durante la anterior expedición ya vio que los iskalas habían domesticado iguanodones criándolos desde huevo. Pero investigaciones más exhaustivas permitieron descubrir que las tribus de humanos primitivos habían aprendido a dejar parte de su caza lejos de sus asentamientos para alejar a los grandes depredadores y a atraer a los herbívoros dejando gran cantidad de frutas en ciertos lugares donde era más fácil cazarlos o alejarlos de sus nidos y entonces robar sus huevos o sus crías. 
 
 Estas interacciones fueron con los siglos evolucionado y grabándose en los instintos de los saurios, de forma que saben que salvo en caso de agresión, necesidad y hambre, un humano es más útil vivo que muerto. Este hecho, junto a la selección de los mejores y más inteligentes ejemplares, hizo que la Fundación pudiera domesticar dinosaurios con técnicas avanzadas de condicionamiento positivo en unos 15 años.
 
@@ -512,23 +519,22 @@ Hay una serie de reglas en esta campaña que modifican las normas generales de c
 * No se pueden coger Trasfondos arcanos, las Ventajas de poder, la Resistencia Arcana y Voluntad de Hierro.
 * Las habilidades arcanas como **Fe, Hechicería o Psiónica no existen** y tampoco las ventajas que pidan esas habilidades como Inventor.
 * No hay elementos paranormales en la aventura, con lo que el **Ocultismo se engloba en Humanidades** dentro de ciencias sociales como Historia, Teología, Antropología, etc.
+* Hay un nuevo idioma, el iskala, el idioma hablado por los aborígenes del mundo perdido.
 * **No existe la habilidad Ordenadores.** Electrónica cubre todo tipo de aparatos electrónicos con capacidades computacionales.
-* Hay nuevas Ventajas: Compañero dinosaurio, Los números primos son rojos y huelen dulces.
+* Hay nuevas Ventajas: Compañero dinosaurio, Los números primos son rojos y huelen dulces y Sensibilidad celta
 
 ### Arquetipos
 Aquí tienes algunos conceptos sobre los que construir tu PJ.
 
 #### Agente de inteligencia
-Estamos hablando de personas entrenadas en campos tan diversos como la encriptación y desencriptación de mensajes, elaboración de perfiles, interrogatorio, creación y detección de documentos falsificados.
+Estamos hablando de personas entrenadas en campos tan diversos como la elaboración de perfiles, encriptación y desencriptación de mensajes, interrogatorio, creación y detección de documentos falsificados.
 
 * **Habilidades recomendadas:** Persuadir/Intimidar, Investigar y Latrocinio
 * **Ventajas recomendadas:** Conexiones, Investigador/a y Lingüista
 * **Desventajas recomendadas:** Apocado/a, Despistado/a y Leal
 
 #### Comando
-Hablamos de personas especializadas en algún tipo de combate y normalmente con buenas capacidades atléticas y de infiltración.
-
-Pueden ser estar especializados en combate cuerpo a cuerpo, armas de fuego a cierta y larga distancia, demoliciones, artillería.
+Hablamos de personas especializadas en algún tipo de combate y normalmente con buenas capacidades atléticas y de infiltración. Pueden ser estar especializados en combate cuerpo a cuerpo, armas de fuego a cierta y larga distancia, demoliciones, artillería.
 
 \saltopagina
 
@@ -733,6 +739,9 @@ Permite el revelado de 3 carretes de 24 fotos, antes de que se agoten sus compon
 
 \saltopagina
 
+### Medicamentos
+xxx
+
 ### Radio de campaña
 Esta radio portátil permite a tu comando recibir y enviar información. El radio de acción es corto y se reduce si hay montañas y otros accidentes geográficos y atmosféricos que afecten a la señal de radio.
 
@@ -740,6 +749,11 @@ Para largas comunicaciones tendrían que comunicarse con el "Mary Anning" y este
 
 > Con un mínimo entrenamiento cualquiera puede usar la radio, pero se necesitará una tirada de Electrónica para hacerla funcionar en condiciones extremas o para conseguir cosas fuera de sus capacidades normales.
 > En caso de problemas de recepción o envío de señales de radio, una tirada de Ciencias estudiando el entorno permitirá descubrir que afecta a las comunicaciones y dará un +2 a la tirada de Electrónica para tratar de solventarlo.
+
+### Venenos
+xxx
+
+\saltopagina
 
 ### Otro equipo especial
 Aparte del equipo anterior tendrán acceso a típico equipo de comando o de espía como:
