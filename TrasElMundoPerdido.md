@@ -98,20 +98,29 @@ Claramente, Challenger fue quien ofreció más oposición, su nombre sería manc
 
 Challenger gasto su parte en financiar sus locos proyectos, Summerlee se retiró de la enseñanza y Malone siguió con carrera periodística y tuvo cierto éxito como novelista. Roxton también se encargó de que Zambo recibiera una buena suma de dinero y emigro a los Estados Unidos con unos familiares.
 
-[![Esbozo de un Ceratosaurio](./assests/images/ceratosaurus.jpg 'Restoration of Ceratosaurus. - By J. M. Gleeson (1861–1917) under supervision of Charles R. Knight')](https://commons.wikimedia.org/wiki/Category:Charles_R._Knight#/media/File:Outdated_Ceratosaurus.jpg 'Restoration of Ceratosaurus. - By J. M. Gleeson (1861–1917) under supervision of Charles R. Knight')
-
 ## La expedición Roxton
 
-Lord Roxton uso sus 50.000 libras para organizar otra expedición al mundo perdido y 1 año más tarde estaba de vuelta en la meseta con un equipo de científicos e investigadoras para estudiar la Tierra de Maple White. 
+Lord Roxton uso sus 50.000 libras para organizar otra expedición al mundo perdido y 1 año más tarde estaba de vuelta en la meseta con un equipo de científicos e investigadoras para estudiar la Tierra de Maple White. Y a diferencia de las anteriores ocasiones la expedición Roxton sabía de ante mano que iban a encontrar y fue preparada a conciencia y con intención de que durara por lo menos un año.
 
-Lo primero que hizo la expedición fue crear una especie de ascensor que permitía acceder a la meseta sin necesidad de usar globos o la ruta de los iskala.
+### Otra vez en el mundo perdido
+Durante un año y medio, Lord Roxton y un equipo de 40 personas estuvieron estudiando toda la meseta desde todos los ángulos de la ciencia moderna, biología, zoología, geología, botánica, antropología, etc. Podríamos decir que no quedo ni usa sola piedra sin remover, ni planta o animal sin estudiar o accidente geográfico sin estudiar, pero mentiríamos. De hecho 30 años más tarde todavía hay misterios en el mundo perdido.
 
-xxx
+Lo primero que hizo la expedición fue crear una especie de ascensor que permitía acceder a la meseta a personas y equipo sin necesidad de usar globos o la ruta de los iskala.
+
+El propio Roxton capturo con ingeniosos trucos especímenes vivos de todas las especies de saurios que habitan la meseta y los envío a escocia a unas tierras que había comprado en la isla de Skye. Para su transporte compro el viejo carguero "Ambassador" que paso a llamarse el "Mary Anning" y contrato a Dolores Branningan como su capitana.
+
+Sabiendo los problemas que podían suponer las interacciones con los iskala, la expedición mantuvo el contacto al mínimo. De hecho Lord John cambio su aspecto al máximo (corte de pelo y sin bigotes) para no ser reconocido. 
+
+### Descubrimientos asombrosos
+De lo primero que descubrieron es que la evolución no se había parado en el Mundo Perdido, sino que los saurios habían seguido evolucionando y principalmente su capacidad craneal era mayor que los fósiles de sus antepasados, con lo que se podía deducir que eran más inteligentes que sus antepasados. 
 
 \saltopagina
 
-### Descubrimientos asombrosos
-De lo primero que descubrieron es que la evolución no se había parado en el Mundo Perdido, sino que los saurios habían seguido evolucionando y principalmente su capacidad craneal era mayor que los fósiles de sus antepasados, con lo que se podía deducir que eran más inteligentes que sus antepasados. De hecho, son capaces de solucionar problemas básicos y de realizar rutinas tras un proceso de aprendizaje.
+[![Esbozo de un Ceratosaurio](./assests/images/ceratosaurus.jpg 'Restoration of Ceratosaurus. - By J. M. Gleeson (1861–1917) under supervision of Charles R. Knight')](https://commons.wikimedia.org/wiki/Category:Charles_R._Knight#/media/File:Outdated_Ceratosaurus.jpg 'Restoration of Ceratosaurus. - By J. M. Gleeson (1861–1917) under supervision of Charles R. Knight')
+
+&nbsp;
+
+De hecho, son capaces de solucionar problemas básicos y de realizar rutinas tras un proceso de aprendizaje.
  
 Pero el gran descubrimiento que hizo Roxton en esta segunda expedición es que todos los saurios tenían cierto grado de domesticación. No eran mascotas como perros y gatos, ni tampoco animales de granja, pero habían convivido con los humanos primitivos de la meseta durante miles de años (cosa que no había ocurrido en el resto del mundo) y esto había transformado sus instintos poco a poco.
 
@@ -762,7 +771,7 @@ Como con los medicamentos, la flora y fauna de la meseta de Maple White, es un l
 Lady Roxton está en contra del uso de venenos y deberán conseguirlo sin que ella lo detecte. Si son reincidentes, Lady Roxton podría expulsarlos de la Fundación o degradarlos de sus puestos actuales.
 
 > A nivel de juego, todo esto supone que pueden conseguir venenos de cualquier formato (líquido, gaseoso, en pasta, etc.), con cualquier efecto (letal, incapacitante, etc.) y la potencia deseada entre 0 y -2.
-> Los heroes no usan venenos, así que si hacen uso de veneno en sus misiones de forma continua deberían racanearles los benis.
+> Los héroes no usan venenos, así que si hacen uso de veneno en sus misiones de forma continua, deberías racanearles los benis.
 
 
 ### Otro equipo especial
@@ -1805,7 +1814,7 @@ Sé generoso con los benis para las buenas ideas, ya que seguramente los necesit
 Una paloma con un extraño canutillo cae herida a los pies de uno de tus comandos. Parece ser una paloma mensajera, ¿qué puede pasar por leer el mensaje que lleva?
 ```
 
-[Operación Columba](https://historia.nationalgeographic.com.es/a/palomas-espia-churchill-que-cambiaron-curso-segunda-guerra-mundial_15732) fue el nombre en clave que el ejercito inglés utilizó para referirse al lanzamiento de más de 16.000 palomas tras las líneas enemigas nazis con el objetivo de mantener la comunicación con el frente.
+[Operación Columba](https://historia.nationalgeographic.com.es/a/palomas-espia-churchill-que-cambiaron-curso-segunda-guerra-mundial_15732) fue el nombre en clave que el ejército inglés utilizó para referirse al lanzamiento de más de 16.000 palomas tras las líneas enemigas nazis con el objetivo de mantener la comunicación con el frente.
 
 Uno de tus comandos encuentra una paloma con un canutillo de metal atada a la pata. Está malherida por alguna bala o el ataque de un halcón. Si quitan el sello de plomo del canutillo, debería haber dentro un mensaje secreto de gente como la resistencia francesa, partisanos o rebeldes italianos y griegos.
 
