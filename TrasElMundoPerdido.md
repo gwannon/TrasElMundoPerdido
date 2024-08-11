@@ -137,6 +137,8 @@ Una de las políticas claves que estableció Lord Roxton en su expedición fue l
 
 Lo único que está permitido es un comercio muy básico en el que la Fundación no saca ningún beneficio, solamente usa estos encuentros para estudiar a sus vecinos, los iskala. Intercambian pieles, alimentos y algunas herramientas muy básicas.
 
+Siguiendo esta política, se estableció una especie de reserva controlada con los pitecántropos que sobrevivieron y escaparon de los iskala. Siguen siendo peligrosos, pero ahora son menos y más controlados.
+
 ### Lady Roxton
 Poco sabía Margaret Roxton, sobrina de Lord Roxton, lo que iba a cambiar su vida cuando el albacea testamentario de su tío se presentó en su para entregarle una fabulosa fortuna y el control de la fundación con su nombre, tras la muerte de su tío por un ataque al corazón.
 
@@ -740,7 +742,9 @@ Permite el revelado de 3 carretes de 24 fotos, antes de que se agoten sus compon
 \saltopagina
 
 ### Medicamentos
-xxx
+El equipo de biología que trabaja en la meseta de Maple White ha encontrado que un laboratorio donde la naturaleza ha creado miles de compuestos químicos con propiedades increíbles y llevan estudiando su uso en la curación de todo tipo de enfermedades.
+
+> A priori la Fundación puede curar experimentalmente (no ha podido probar con humanos por no ser laboratorio oficial) muchas enfermedades que los comandos pudieran contraer, es por ello que no debieran de preocuparse por contraer enfermedades como el tifus, la malaria, el dengue, etc.
 
 ### Radio de campaña
 Esta radio portátil permite a tu comando recibir y enviar información. El radio de acción es corto y se reduce si hay montañas y otros accidentes geográficos y atmosféricos que afecten a la señal de radio.
@@ -750,10 +754,16 @@ Para largas comunicaciones tendrían que comunicarse con el "Mary Anning" y este
 > Con un mínimo entrenamiento cualquiera puede usar la radio, pero se necesitará una tirada de Electrónica para hacerla funcionar en condiciones extremas o para conseguir cosas fuera de sus capacidades normales.
 > En caso de problemas de recepción o envío de señales de radio, una tirada de Ciencias estudiando el entorno permitirá descubrir que afecta a las comunicaciones y dará un +2 a la tirada de Electrónica para tratar de solventarlo.
 
-### Venenos
-xxx
-
 \saltopagina
+
+### Venenos
+Como con los medicamentos, la flora y fauna de la meseta de Maple White, es un laboratorio de venenos del que la Fundación con ayuda de la IM ha podido sacar todo tipo de venenos con todo tipo de efectos.
+
+Lady Roxton está en contra del uso de venenos y deberán conseguirlo sin que ella lo detecte. Si son reincidentes, Lady Roxton podría expulsarlos de la Fundación o degradarlos de sus puestos actuales.
+
+> A nivel de juego, todo esto supone que pueden conseguir venenos de cualquier formato (líquido, gaseoso, en pasta, etc.), con cualquier efecto (letal, incapacitante, etc.) y la potencia deseada entre 0 y -2.
+> Los heroes no usan venenos, así que si hacen uso de veneno en sus misiones de forma continua deberían racanearles los benis.
+
 
 ### Otro equipo especial
 Aparte del equipo anterior tendrán acceso a típico equipo de comando o de espía como:
