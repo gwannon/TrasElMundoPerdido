@@ -1924,7 +1924,7 @@ xxx
 Tu comando debe ayudar a los "Monuments Men" a recuperar arte robado por los nazis.
 ```
 
-El oficial James Rorimer se pondrá en contacto con tus comandos en alguna visita a Londres o quizás se presente en el propio castillo Dunvegan. Trabaja para "Programa de Monumentos, Arte y Archivos" de las fuerzas aliadas, más conocidos como los "Monuments men", y necesita toda la ayuda posible para recuperar arte robado por los nazis.
+El oficial James Rorimer se pondrá en contacto con tus comandos en alguna visita a Londres o quizás se presente en el propio castillo Dunvegan. Trabaja para ["Programa de Monumentos, Arte y Archivos"](https://es.wikipedia.org/wiki/Programa_de_Monumentos,_Arte_y_Archivos) de las fuerzas aliadas, más conocidos como los "Monuments men", y necesita toda la ayuda posible para recuperar arte robado por los nazis.
 
 Tiene contactos en el IM, de hecho juega a polo con el General Eugene Linton, y ha conseguido permiso para hablar con los comandos. No sabe nada de los saurios, pero si sabe que el equipo va a moverse por todo el mundo combatiendo a los nazis. Con un poco de suerte pueden rescatar obras robadas por los nazis.
 
