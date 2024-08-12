@@ -1921,12 +1921,34 @@ xxx
 
 ## Arte robado
 ```
-Tu comando debe ayudar a los "Monuments Men" a recuperar arte robado por los Nazis.
+Tu comando debe ayudar a los "Monuments Men" a recuperar arte robado por los nazis.
 ```
 
-xxx
+El oficial James Rorimer se pondrá en contacto con tus comandos en alguna visita a Londres o quizás se presente en el propio castillo Dunvegan. Trabaja para "Programa de Monumentos, Arte y Archivos" de las fuerzas aliadas, más conocidos como los "Monuments men", y necesita toda la ayuda posible para recuperar arte robado por los nazis.
+
+Tiene contactos en el IM, de hecho juega a polo con el General Eugene Linton, y ha conseguido permiso para hablar con los comandos. No sabe nada de los saurios, pero si sabe que el equipo va a moverse por todo el mundo combatiendo a los nazis. Con un poco de suerte pueden rescatar obras robadas por los nazis.
+
+### Piezas robadas
+
+Puedes poner cuadros y estatuas robadas en cualquier parte de la aventura o Rorimer puede informarles del arte robado que podrían encontrar en cada misión. 
+
+Salvo casos muy claros, será necesario una tirada de Humanidades para reconocer las piezas robadas. Sería gracioso que se jugaran la vida para rescatar un cuadro pintado por el propio Hitler pensado que era un da Vinci.
+
+Aquí tienes algunas ideas.
+
+* Jocelyn Dubios ha escondido varias esculturas romanas en un almacén de Tobruk. Si no los saca de la ciudad, seguramente serán destruidas en los combates o robadas por los nazis. Si no los sacan, deberían por lo menos sacarlos de la ciudad y enterrarlos en el desierto para que Jocelyn los rescate cuando acabe la guerra.
+* xxx
+* El general von Liebenfels tiene 4 pequeños Rembrandts requisados a una familia judía de Ámsterdam en su lujoso camarote de su zepelín.
+* El doctor Eckart tiene una pequeña pinacoteca de 10 cuadros en el comedor principal del castillo de Hohenzollern. La cúpula nazi suele granjearse su amistad regalándole obras de impresionistas francesas.
+
+La idea de este relato es añadir una dificultad extra a las aventuras si crees que pudieran resultar muy fáciles. Piensa que escapar de un sitio como Tobruk con una estatua griega de mármol se complica bastante.
 
 \saltopagina
+
+### La recompensa
+A priori no hay recompensa por rescatar todos esos cuadros y estatuas, pero puedes darles contactos en el mundillo del arte. 
+
+También pueden quedarse algunas o todas las obras para su jubilación y hacer una tontina como los el abuelo Simpson y el señor Burns en el capítulo de los Peces Voladores.
 
 ## Despedidas
 ```
@@ -2051,6 +2073,8 @@ xxx
 
 **Sugerencia de interpretación:** xxx
 
+\saltopagina
+
 ### Teniente Horace Chambers, mano ejecutora de la IM y el General Linton &#x2638;
 xxx
 
@@ -2105,6 +2129,8 @@ xxx
 Una historia es tan buena como sus antagonistas y aquí tienes a los villanos y villanas que van a hacer la vida imposible a tus comandos, haciendo que se jueguen su vida y la de sus saurios en cada misión.
 
 ### Theodor von Liebenfels, general nazi y ocultista &#x2638;
+
+[![Primer plano de Theodor von Liebenfels](./assests/images/theodor.jpg 'Dietrich von Saucken - Source: Photo H. Hoffmann')](https://en.wikipedia.org/wiki/Dietrich_von_Saucken#/media/File:Dietrich_von_Saucken_1.jpg 'Dietrich von Saucken - Source: Photo H. Hoffmann')
 xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
@@ -2116,11 +2142,11 @@ xxx
 
 **Sugerencia de interpretación:** xxx
 
+\saltopagina
+
 ###  Artur Eckart, científico loco nazi &#x2638;
 [![Primer plano de Wayland](./assests/images/eckart.jpg 'Geoffrey N. Pyke by State Library Victoria Collections')](https://www.flickr.com/photos/statelibraryofvictoria_collections/ 'Geoffrey N. Pyke by State Library Victoria Collections')
 xxx
-
-\saltopagina
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Notar d4, Persuadir d4, Sigilo d4
@@ -2130,6 +2156,8 @@ xxx
 * **Equipo:** xxx
 
 **Sugerencia de interpretación:** Tu locura esta al nivel de tu genialidad científica, así que estás muy muy loco. Gritas y susurras en la misma frase y hablas contigo mismo. Te preguntas y te respondes con diferentes voces incluso discutes a voces contigo mismo. Y de repente vuelves a la normalidad durante unos segundos pareciendo totalmente normal.
+
+\saltopagina
 
 ###  Irma Bormann, espía de las SS &#x2638;
 [![Retrato de Irma Bormann](./assests/images/bormann.jpg 'Studio portrait photo of Veronica Lake taken for promotional use.')](https://es.wikipedia.org/wiki/Veronica_Lake#/media/Archivo:Veronica_Lake_still.jpg 'Studio portrait photo of Veronica Lake taken for promotional use.')

@@ -27,7 +27,6 @@
   * Despedidas
   * El secreto de los Branningan
   * Espécimen perdido
-  * Arte robado
 
 # Por hacer de la versión 0.5
 * Parte 2: Norte de África
@@ -45,6 +44,7 @@
 
 # Versión 0.5.2 En desarrollo
 * Terminada ambientación "La expedición Roxton"
+* Terminado el Relato Salvaje "Arte robado"
 
 # Versión 0.5.1 10/08/2024
 * Terminado el Relato Salvaje "Campo minado"
