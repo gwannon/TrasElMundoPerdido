@@ -4,3 +4,4 @@
 {"rule":"AGREEMENT_DET_NOUN","sentence":"^\\QTripulante del Mary Anning\nxxx\\E$"}
 {"rule":"TODO_EL","sentence":"^\\QAprovecha a jugar un par de escenas haciendo todos el mamarracho.\\E$"}
 {"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QSi alguno de los jinetes no puede terminar los 3 lances (por ejemplo por heridas) pierde la justa.\\E$"}
+{"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QRojo = carnívoros\nAzul = acuáticos\nVerde = herbívoros\nAmarillo = voladores\\E$"}
