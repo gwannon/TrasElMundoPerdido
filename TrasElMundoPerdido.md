@@ -105,11 +105,11 @@ Lord Roxton uso sus 50.000 libras para organizar otra expedición al mundo perdi
 ### Otra vez en el mundo perdido
 Durante un año y medio, Lord Roxton y un equipo de 40 personas estuvieron estudiando toda la meseta desde todos los ángulos de la ciencia moderna, biología, zoología, geología, botánica, antropología, etc. Podríamos decir que no quedo ni usa sola piedra sin remover, ni planta o animal sin estudiar o accidente geográfico sin estudiar, pero mentiríamos. De hecho 30 años más tarde todavía hay misterios en el mundo perdido.
 
-Lo primero que hizo la expedición fue crear una especie de ascensor que permitía acceder a la meseta a personas y equipo sin necesidad de usar globos o la ruta de los iskala.
+Lo primero que hizo la expedición fue crear una especie de ascensor que permitía acceder a la meseta a personas y equipo sin necesidad de usar globos o la ruta de los sakala.
 
 El propio Roxton capturo con ingeniosos trucos especímenes vivos de todas las especies de saurios que habitan la meseta y los envío a escocia a unas tierras que había comprado en la isla de Skye. Para su transporte compro el viejo carguero "Ambassador" que paso a llamarse el "Mary Anning" y contrato a Dolores Branningan como su capitana.
 
-Sabiendo los problemas que podían suponer las interacciones con los iskala, la expedición mantuvo el contacto al mínimo. De hecho Lord John cambio su aspecto al máximo (corte de pelo y sin bigotes) para no ser reconocido. 
+Sabiendo los problemas que podían suponer las interacciones con los sakala, la expedición mantuvo el contacto al mínimo. De hecho Lord John cambio su aspecto al máximo (corte de pelo y sin bigotes) para no ser reconocido. 
 
 ### Descubrimientos asombrosos
 De lo primero que descubrieron es que la evolución no se había parado en el Mundo Perdido, sino que los saurios habían seguido evolucionando y principalmente su capacidad craneal era mayor que los fósiles de sus antepasados, con lo que se podía deducir que eran más inteligentes que sus antepasados. 
@@ -126,7 +126,7 @@ Pero el gran descubrimiento que hizo Roxton en esta segunda expedición es que t
 
 Los antropólogos y antropólogas de la fundación se dedicaron a estudiar a los aborígenes y descubrieron interacciones entre ambas especies que habían llevado a los saurios a ser en parte domesticados. 
 
-Durante la anterior expedición ya vio que los iskalas habían domesticado iguanodones criándolos desde huevo. Pero investigaciones más exhaustivas permitieron descubrir que las tribus de humanos primitivos habían aprendido a dejar parte de su caza lejos de sus asentamientos para alejar a los grandes depredadores y a atraer a los herbívoros dejando gran cantidad de frutas en ciertos lugares donde era más fácil cazarlos o alejarlos de sus nidos y entonces robar sus huevos o sus crías. 
+Durante la anterior expedición ya vio que los sakalas habían domesticado iguanodones criándolos desde huevo. Pero investigaciones más exhaustivas permitieron descubrir que las tribus de humanos primitivos habían aprendido a dejar parte de su caza lejos de sus asentamientos para alejar a los grandes depredadores y a atraer a los herbívoros dejando gran cantidad de frutas en ciertos lugares donde era más fácil cazarlos o alejarlos de sus nidos y entonces robar sus huevos o sus crías. 
 
 Estas interacciones fueron con los siglos evolucionado y grabándose en los instintos de los saurios, de forma que saben que salvo en caso de agresión, necesidad y hambre, un humano es más útil vivo que muerto. Este hecho, junto a la selección de los mejores y más inteligentes ejemplares, hizo que la Fundación pudiera domesticar dinosaurios con técnicas avanzadas de condicionamiento positivo en unos 15 años.
 
@@ -144,9 +144,9 @@ La principal razón de lord Roxton para montar las instalaciones de la Fundació
 ### Política de no intromisión
 Una de las políticas claves que estableció Lord Roxton en su expedición fue la no intervención en la vida de los hombres y mujeres primitivos. Esto incluye todo tipo de intervención que trastocase su modo de vida. No se les da ningún tipo de tecnología, no se les ayuda salvo en cosas muy graves y no se les trata de enseñar ningún tipo de conocimiento.
 
-Lo único que está permitido es un comercio muy básico en el que la Fundación no saca ningún beneficio, solamente usa estos encuentros para estudiar a sus vecinos, los iskala. Intercambian pieles, alimentos y algunas herramientas muy básicas.
+Lo único que está permitido es un comercio muy básico en el que la Fundación no saca ningún beneficio, solamente usa estos encuentros para estudiar a sus vecinos, los sakala. Intercambian pieles, alimentos y algunas herramientas muy básicas.
 
-Siguiendo esta política, se estableció una especie de reserva controlada con los pitecántropos que sobrevivieron y escaparon de los iskala. Siguen siendo peligrosos, pero ahora son menos y más controlados.
+Siguiendo esta política, se estableció una especie de reserva controlada con los pitecántropos que sobrevivieron y escaparon de los sakala. Siguen siendo peligrosos, pero ahora son menos y más controlados.
 
 ### Lady Roxton
 Poco sabía Margaret Roxton, sobrina de Lord Roxton, lo que iba a cambiar su vida cuando el albacea testamentario de su tío se presentó en su para entregarle una fabulosa fortuna y el control de la fundación con su nombre, tras la muerte de su tío por un ataque al corazón.
@@ -345,7 +345,7 @@ La Fundación tiene en la meseta de Maple White un campamento fijo de científic
 
 De media hay unas 20 personas viviendo en un enclave de unos 10 pabellones. Son autosuficientes en temas de suministros básicos como agua y comida, y cada cierto tiempo reciben suministros médicos, materiales y equipos nuevos.
 
-Esta comunidad permanente de investigaciones ha establecido relaciones con los iskalas y han tenido éxito en sus primeros intercambios culturales y comerciales, siguiendo siempre los protocolos establecidos por la Fundación.
+Esta comunidad permanente de investigaciones ha establecido relaciones con los sakalas y han tenido éxito en sus primeros intercambios culturales y comerciales, siguiendo siempre los protocolos establecidos por la Fundación.
 
 Este enclave se sitúa al sur del Lago Central que les provee de pesca y agua. Esto les permite estudiar los saurios acuáticos y estar lo suficientemente lejos de los habitantes de las cuevas para no molestarlos ni interferir en su día a día, pero lo suficientemente cerca para estudiarlos tenerlos controlados. 
 
@@ -530,7 +530,7 @@ Hay una serie de reglas en esta campaña que modifican las normas generales de c
 * No se pueden coger Trasfondos arcanos, las Ventajas de poder, la Resistencia Arcana y Voluntad de Hierro.
 * Las habilidades arcanas como **Fe, Hechicería o Psiónica no existen** y tampoco las ventajas que pidan esas habilidades como Inventor.
 * No hay elementos paranormales en la aventura, con lo que el **Ocultismo se engloba en Humanidades** dentro de ciencias sociales como Historia, Teología, Antropología, etc.
-* Hay un nuevo idioma, el iskala, el idioma hablado por los aborígenes del mundo perdido.
+* Hay un nuevo idioma, el sakala, el idioma hablado por los aborígenes del mundo perdido.
 * **No existe la habilidad Ordenadores.** Electrónica cubre todo tipo de aparatos electrónicos con capacidades computacionales.
 * Hay nuevas Ventajas: Compañero dinosaurio, Los números primos son rojos y huelen dulces y Sensibilidad celta
 
@@ -1440,7 +1440,7 @@ xxx
 
 ### Evitando un genocidio
 ```
-El general Liebenfels considera que los iskala de la meseta emponzoñan los ideales raciales nazis y se propone a exterminar a toda la tribu, si alguien no lo evita.
+El general Liebenfels considera que los sakala de la meseta emponzoñan los ideales raciales nazis y se propone a exterminar a toda la tribu, si alguien no lo evita.
 ```
 
 xxx
@@ -2515,12 +2515,12 @@ Los pteranodones son unos de los saurios voladores de mayor tamaño, llegando a 
 
 \saltopagina
 
-## Los iskala y otros habitantes del mundo perdido
+## Los sakala y otros habitantes del mundo perdido
 La expedición Challenger no solo encontró dinosaurios, también otros animales prehistóricos como el megaloceros o el glyptodon. También estuvieron en contacto con homínidos anteriores a los humanos e incluso con aborígenes de la selva que llegaron a la meseta de Maple White. 
 
-### Indios iskala
+### Indios sakala
 
-[![Detalle del día a día de los iskala](./assests/images/iskalis.jpg 'Natives of the Amazon / V. Dutertre.')](https://picryl.com/media/natives-of-the-amazon-v-dutertre 'Natives of the Amazon / V. Dutertre.')
+[![Detalle del día a día de los sakala](./assests/images/iskalis.jpg 'Natives of the Amazon / V. Dutertre.')](https://picryl.com/media/natives-of-the-amazon-v-dutertre 'Natives of the Amazon / V. Dutertre.')
 
 Esta tribu primitiva de aborígenes llevan siglos si no milenios viviendo en la meseta. De menor estatura que los humanos modernos, son más fuertes y resistentes por su dura vida.
 
@@ -2537,7 +2537,7 @@ Han desarrollado técnicas para enfrentarse, sobre todo en grupo, contra seres m
 * **Desventajas:** Manazas (menor), Analfabeto (menor)
 * **Equipo:** Pieles (+1 armadura pecho y piernas), hacha de piedra (FUE+d4) o arco simple, lanza de punta de piedra (FUE+d4, parada +1, alcance 1, dos manos)
 
-**Deberías personalizar las estadísticas y equipo** de cada iskala que saques en partida, según su profesión y posición social.  
+**Deberías personalizar las estadísticas y equipo** de cada sakala que saques en partida, según su profesión y posición social.  
 
 \saltopagina
 
