@@ -1182,7 +1182,7 @@ La misión es bastante simple, saltarse las fuerzas nazis que tienen sitiada la 
 
 Tobruk es una ciudad portuaria muy bien protegida por ingleses y australianos. Está completamente sitiada por los nazis por tierra y por mar y los intentos anteriores de sacar al activo del IM han fracasado totalmente. Es por ello que el general Linton ha propuesto intentarlo desde otro punto de vista, uno prehistórico. 
 
-Es una misión de infiltración pura y dura, si se meten en combate tendrán a todos los Africa Korps de Rommel contra ellos. Deberían desarrollar el plan de entrada y salida basándose en los saurios voladores y acuáticos que pueden entrar y salir de la ciudad sin ser vistos. 
+Es una misión de infiltración pura y dura, si se meten en combate tendrán a todos los "Africa Korps" de Rommel contra ellos. Deberían desarrollar el plan de entrada y salida basándose en los saurios voladores y acuáticos que pueden entrar y salir de la ciudad sin ser vistos. 
 
 Los terrestres no deberían ser de utilidad, pero igual tienen un plan magistral para usarlos. Los plesiosaurios podrían estar días en el puerto sin ser detectados y los pteranodones podrían refugiarse en los edificios medio derrumbados por bombardeos que hay por toda la ciudad.
 
@@ -1374,7 +1374,9 @@ xxx
 xxx
 
 ### La pista
-xxx
+Una vez de vuelta al "Mary Anning" podrán revisar todo el papeleo que han conseguido. Encontrarán con facillidad, una serie de carpetas con los perfiles psicológicos/hoja de servicios/curriculum de tus comandos. No dicen nada que no venga en su ficha de personaje como ventajas y desventajas excepto cosas como Secreto.
+
+Es de ingenuos pensar que la IM no investigaría a los comandos antes de trabajar con ellos, pero desde luego lo que es preocupante es que está información haya caido en manos nazis. O lo que es peor (y ahí entra que juegues con su paranaoia) que algún agente de la IM se haya vendido y haya filtrado esa información o que algún espía nazi haya tenido acceso a ella y haya cosneguido pasarla a sus jefes.
 
 ***
 
