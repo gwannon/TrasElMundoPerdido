@@ -126,7 +126,7 @@ Pero el gran descubrimiento que hizo Roxton en esta segunda expedición es que t
 
 Los antropólogos y antropólogas de la fundación se dedicaron a estudiar a los aborígenes y descubrieron interacciones entre ambas especies que habían llevado a los saurios a ser en parte domesticados. 
 
-Durante la anterior expedición ya vio que los sakalas habían domesticado iguanodones criándolos desde huevo. Pero investigaciones más exhaustivas permitieron descubrir que las tribus de humanos primitivos habían aprendido a dejar parte de su caza lejos de sus asentamientos para alejar a los grandes depredadores y a atraer a los herbívoros dejando gran cantidad de frutas en ciertos lugares donde era más fácil cazarlos o alejarlos de sus nidos y entonces robar sus huevos o sus crías. 
+Durante la anterior expedición ya vio que los sakala habían domesticado iguanodones criándolos desde huevo. Pero investigaciones más exhaustivas permitieron descubrir que las tribus de humanos primitivos habían aprendido a dejar parte de su caza lejos de sus asentamientos para alejar a los grandes depredadores y a atraer a los herbívoros dejando gran cantidad de frutas en ciertos lugares donde era más fácil cazarlos o alejarlos de sus nidos y entonces robar sus huevos o sus crías. 
 
 Estas interacciones fueron con los siglos evolucionado y grabándose en los instintos de los saurios, de forma que saben que salvo en caso de agresión, necesidad y hambre, un humano es más útil vivo que muerto. Este hecho, junto a la selección de los mejores y más inteligentes ejemplares, hizo que la Fundación pudiera domesticar dinosaurios con técnicas avanzadas de condicionamiento positivo en unos 15 años.
 
@@ -345,7 +345,7 @@ La Fundación tiene en la meseta de Maple White un campamento fijo de científic
 
 De media hay unas 20 personas viviendo en un enclave de unos 10 pabellones. Son autosuficientes en temas de suministros básicos como agua y comida, y cada cierto tiempo reciben suministros médicos, materiales y equipos nuevos.
 
-Esta comunidad permanente de investigaciones ha establecido relaciones con los sakalas y han tenido éxito en sus primeros intercambios culturales y comerciales, siguiendo siempre los protocolos establecidos por la Fundación.
+Esta comunidad permanente de investigaciones ha establecido relaciones con los sakala y han tenido éxito en sus primeros intercambios culturales y comerciales, siguiendo siempre los protocolos establecidos por la Fundación.
 
 Este enclave se sitúa al sur del Lago Central que les provee de pesca y agua. Esto les permite estudiar los saurios acuáticos y estar lo suficientemente lejos de los habitantes de las cuevas para no molestarlos ni interferir en su día a día, pero lo suficientemente cerca para estudiarlos tenerlos controlados. 
 
@@ -1020,7 +1020,7 @@ Mientras se miran unos a otros en el remolque pueden presentarse y describirse. 
 Una ama de llaves les pedirá que les sigan y los repartirá por sus habitaciones. Las habitaciones son de 2 personas, así que trata de emparejarlos de forma que den juego y diversión. En media hora la comida estará lista.
 
 ### La comida con Lady Roxton
-Lady Roxton llegará la última al comedor, se presentará a los comandos y presentará la Fundación. Les dirá que están en una reserva de vida animal muy especial y que van a participar en un proyecto secreto de la IM. Puede que este proyecto ayude a acabar con la amenaza nazi.
+Cuando todos los comandos estén el comedor empezarán a servir la comida. Lady Roxton llegará la última al comedor, se presentará a los comandos y presentará la Fundación. Les dirá que están en una reserva de vida animal muy especial y que van a participar en un proyecto secreto de la IM. Puede que este proyecto ayude a acabar con la amenaza nazi.
 
 Evitará hablar de los saurios todavía. Lady Roxton es muy dada a la teatralidad y quiere presentarles a sus chicos de la forma apropiada. Responderá a las preguntas con vaguedades, van a hacer misiones secretas por todo el mundo luchando contra nazis, rescatarán gentes, harán misiones de espionaje, etc. todo bajo sus órdenes y las de la IM.
 
@@ -1221,7 +1221,7 @@ Deberían pasar una tirada de Sigilo al salir del agua sin llamar la atención y
 Otra opción sería desembarcar fuera de la ciudad, lejos de miradas indiscretas, pero podrían encontrarse con patrullas aliadas vigilando el perímetro de la ciudad. Además los plesiosaurios deberían quedarse en esa zona y son más útiles en el puerto. Los voladores si pueden seguirles por tierra e incluso ayudarles en caso de problemas.
 
 ### Buscar al activo de la IM
-El activo del IM a rescatar es Jocelyn Van Croft. Quizás ya la conozcan de la misión en Francia, o sea la primera vez que se la encuentran. Está escondida en un piso franco de la IM y no se atreve mucho a salir. Es el tercer intento de sacarla de la ciudad y ha salido viva de milagro del último operativo de rescate. Todo su equipo pereció en esa operación.
+El activo del IM a rescatar es Jocelyn Dubois. Quizás ya la conozcan de la misión en Francia, o sea la primera vez que se la encuentran. Está escondida en un piso franco de la IM y no se atreve mucho a salir. Es el tercer intento de sacarla de la ciudad y ha salido viva de milagro del último operativo de rescate. Todo su equipo pereció en esa operación.
 
 \saltopagina
 
@@ -2065,17 +2065,37 @@ xxx
 
 \saltopagina
 
-### Jocelyn Van Croft, espía y aventurera &#x2638;
-[![Retrato de Jocelyn Van Croft](./assests/images/jocelyn.jpg 'Painting sketch by ArthurHenri')](https://www.deviantart.com/arthurhenri/art/Painting-sketch-775087428 'Painting sketch by ArthurHenri')
+### Jocelyn Dubois, espía y aventurera &#x2638;
+[![Retrato de Jocelyn Dubios](./assests/images/jocelyn.jpg 'Painting sketch by ArthurHenri')](https://www.deviantart.com/arthurhenri/art/Painting-sketch-775087428 'Painting sketch by ArthurHenri')
 
-xxx
+Desde muy pequeña Jocelyn lleva viajando con su familia, comerciantes de origen francés, o por su cuenta a ambos lados del Mediterráneo. Habla 6 idiomas fluidamente y sabe mezclarse con la gente y desaparecer. Es por ello que fue reclutada por la IM inglesa para trabajar como espía cuando Francia cayó ante los nazis. 
+
+Fue entrenada en habilidades básicas de espionaje, investigación y combate y la mandaron a diferentes misiones por Francia, Italia, Marruecos, Libia y Egipto de las siempre ha salido airosa.
+
+También es una apasionada de la historia, de hecho su tapadera principal es la de una diletante estudiante de arqueología que viaja por el Mediterráneo estudiando ruinas de todas las civilizaciones que han surcado sus aguas.
+
+Jocelyn será un personaje importante en dos escenarios de esta campaña, la Francia Ocupada y el Norte de África. Por eso puede ser interesante y divertido que coquetee con alguno de los comandos en el primer escenario para que tengan un interés extra en el segundo escenario.
 
 * **Atributos:** Agilidad d8, Astucia d8, Espíritu d10, Fuerza d8, Vigor d8
-* **Habilidades:** Apostar d6, Atletismo d8, Conocimientos Generales d8, Disparar d8, Humanidades d8, Idioma Inglés d8, Idioma Árabe d6, Idioma Alemán d8, Idioma Italiano d6, Idioma Noruego d8, Medicina d6, Notar d8, Pelear d8, Persuadir d8, Sigilo d6
+* **Habilidades:** Apostar d6, Atletismo d8, Conocimientos Generales d8, Disparar d8, Humanidades d8, Idioma Inglés d8, Idioma Árabe d6, Idioma Alemán d8, Idioma Italiano d6, Idioma Francés d8, Investigar d8, Latrocinio d8, Medicina d6, Notar d8, Pelear d8, Persuadir d8, Sigilo d6
 * **Paso:** 6; **Parada:** 6; **Dureza:** 6
+* **Ventajas:** Acróbata, Afortunada, Investigadora, Ladrona 
+* **Desventajas:** Exceso de confianza, Fobia (menor, ratas)
+* **Equipo:** Varios pasaportes de diferentes nacionalidades y dinero en diferentes divisas (escondido en un lugar secreto), ropa cómoda de viaje, libros y herramientas de arqueología, pistola y daga (FUE+d4)
+
+**Sugerencia de interpretación:** Eres una vividora. Te gusta la vida en todos sus aspectos, la buena comida, la buena bebida, bailar y cantar y pasártelo bien en dormitorio. Trata siempre de disfrutar de los pequeños placeres de la vida incluso en las peores situaciones. Puede que estés en medio de un tiroteo con unos soldados nazis, pero eso no quiere decir que no puedas llevarte un par de botellas de un vino italiano para la cena.
+
+\saltopagina
+
+### Jørgen Nygård, campesino noruego convertido en luchador de la resistencia &#x2638;
+xxx
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Notar d4, Persuadir d4, Sigilo d4
+* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
 * **Ventajas:** xxx
 * **Desventajas:** xxx
-* **Equipo:** Varios pasaportes de diferentes nacionalidades y dinero en diferentes divisas (escondido en un lugar secreto), ropa cómoda de viaje, pistola y daga (FUE+d4)
+* **Equipo:** xxx
 
 **Sugerencia de interpretación:** xxx
 
