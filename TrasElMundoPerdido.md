@@ -1882,9 +1882,18 @@ Quizás haya un mapa de algún lugar misterioso como Lemuria o la Atlántida, di
 
 ## Limpiando el puerto
 ```
-Durante un trayecto en el "Mary Anning" llegan a un puerto que los nazis han tomado recientemente y han llenado de minas. Si las desactivan con la ayuda de los saurios acuáticos, los nazis creerán que el puerto está controlado pero los contrabandistas podrán entrar y salir delante de las narices de los nazis. En caso de ataque de los aliados podrán evitar estas defensas y pillar a los nazis con la guardia baja
+Durante un trayecto en el "Mary Anning" llegan a un puerto que los nazis han tomado recientemente y han bloqueado el puerto llenándolo de minas. Quizas podrían aprovechar a fastidiar un poco a los nazis desactivandolas sin que lo sepan.
 ```
+
+Si las desactivan con la ayuda de los saurios acuáticos, los nazis creerán que el puerto está controlado, pero los contrabandistas podrán entrar y salir delante de las narices de los nazis. En caso de ataque de los aliados podrán evitar estas defensas y pillar a los nazis con la guardia baja.
+
 xxx
+
+El puerto en que fondeen debería tener lógica con su ruta en barco y a poder ser donde se hable un idioma que controle alguno de tus comandos.
+
+xxx
+
+La misión debe hacerse con rapidez, antes de que los nazis detecten el "Mary Anning". Eso exigirá que el comando se divida en dos partes, una que desactive las minas con ayuda de los saurios acuáticos y otra que desembarque en el puerto y busque alguna célula rebelde para informarles de que las minas están desactivadas y pueden entrar y salir del puerto con, por ejemplo, soldados huidos de campos de prisioneros o material para sus actos de sabotaje.   
 
 ### Desactivando minas
 xxx
@@ -1892,11 +1901,14 @@ xxx
 ### Contactando con la resistencia local
 xxx
 
+### Recompensas
+xxx
+
 \saltopagina
 
 ## El secreto de los Branningan
 ```
-La familia Branningan lleva siendo marinos, lo que no saben es que durante un tiempo fueron corsarios al servicio de Inglaterra. 
+En la familia Branningan llevan siendo marinos desde hace siglo, lo que no cuentan es que durante un tiempo fueron corsarios al servicio de Inglaterra. 
 ```
 
 Ahora que regresan a casa, por el camino, la capitán Branningan tiene una oferta interesante que proponerles. Conoce la ubicación de un galeón hundido lleno de oro. Si le ayudan a rescatarlo, compartirá con ellos una parte. Dolores acaba su propuesta con un "Así, cuando acabe esta maldita guerra, podremos retirarnos y vivir como reyes en alguna isla del Caribe bebiendo ron y bailando salsa."

@@ -23,7 +23,6 @@
   * Un día en el museo
   * Cena de etiqueta
   * El pecio
-  * Limpiando el puerto
   * Despedidas
   * El secreto de los Branningan
   * Espécimen perdido
@@ -45,6 +44,7 @@
 # Versión 0.5.2 En desarrollo
 * Terminada ambientación "La expedición Roxton"
 * Terminado el Relato Salvaje "Arte robado"
+* Terminado el Relato Salvaje "Limpiando el puerto"
 
 # Versión 0.5.1 10/08/2024
 * Terminado el Relato Salvaje "Campo minado"
