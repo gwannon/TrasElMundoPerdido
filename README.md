@@ -21,7 +21,6 @@
 * Parte 3: Río de la Plata
 * Relatos salvajes
   * Un día en el museo
-  * Cena de etiqueta
   * El pecio
   * Despedidas
   * El secreto de los Branningan
@@ -45,6 +44,7 @@
 * Terminada ambientación "La expedición Roxton"
 * Terminado el Relato Salvaje "Arte robado"
 * Terminado el Relato Salvaje "Limpiando el puerto"
+* Terminado el Relato Salvaje "Cena de etiqueta"
 
 # Versión 0.5.1 10/08/2024
 * Terminado el Relato Salvaje "Campo minado"

@@ -1849,7 +1849,7 @@ Si las desactivan con la ayuda de los saurios acuáticos, los nazis creerán que
 
 \saltopagina
 
-El "Mary Anning" fondeará en algún puerto natural cercano y podrán desembarcar a la playa. El puerto en que les metas debería tener lógica con su ruta en barco y a poder ser donde se hable un idioma que controle alguno de tus comandos. 
+El "Mary Anning" fondeará en algún puerto natural cercano y podrán desembarcar a la playa. Volverá en 24 horas para continuar su ruta. El puerto en que les metas debería tener lógica con su ruta en barco y a poder ser donde se hable un idioma que controle alguno de tus comandos. 
 
 La misión debe hacerse con rapidez, antes de que los nazis detecten el "Mary Anning". Eso exigirá que el comando se divida en dos partes, una que desactive las minas con ayuda de los saurios acuáticos y otra que desembarque en el puerto y busque alguna célula rebelde para informarles de que las minas están desactivadas y pueden entrar y salir del puerto con, por ejemplo, soldados huidos de campos de prisioneros o material para sus actos de sabotaje.   
 
@@ -1862,14 +1862,16 @@ Por la noche parece que solo vigilan por tierra el puerto y el rompeolas. El pro
 
 Cada mina consume 1 minuto en acercarse a ella y 4 minutos desarmarla y el trabajo deben hacerlo dos comandos y dos saurios acuáticos. Ese supone que pueden desactivar 24 minas en 2 horas, más de las que hay en el puerto. Para desactivar una mina necesitas pasar una tirada Reparar, pero antes hay que sacar una carta, si se sacan tréboles la mina está vieja, muy oxidada, llena de lapas y tiene un -2 a la tirada. 
 
-Si se falla, no se consigue desactivar y tendrán que gastar otros 4 minutos y tirar de nuevo Reparar. Si se pifia, la mina no está desactivada, pero el comando cree que sí. Cada tirada pifiada supone 5% de probabilidad de estallar, si querían quitar todas o un 10% si solo querían abrir un camino cuando luego el otro equipo quiera demostrar que las minas estas desarmadas.  
+Si se falla, no se consigue desactivar y tendrán que gastar otros 4 minutos y tirar de nuevo Reparar. Si se pifia, la mina no está desactivada, pero el comando cree que sí. Cada tirada pifiada supone 5% de probabilidad de estallar, si querían quitar todas o un 10% si solo querían abrir un camino cuando luego el otro equipo quiera demostrar que las minas estas desarmadas. Si quieren, pueden gastar 2 minutos, en revisar la mina y detectar las pifias.
 
-Si quieren, pueden gastar 2 minutos, en revisar la mina y detectar las pifias.
+Al de dos horas, deberán de dejar de trabajar e irse o serán detectados por la patrullera. Puedes pedirles tiradas de sigilo a comandos y saurios para acabar alguna desactivación pasadas las 2 horas.
+
+Solo tienen una oportunidad de desactivar las bombas, luego será imposible entre el cansancio de la ronda anterior, los cambios en las mareas, mal tiemppo, etc.
+
+\saltopagina
 
 ### Contactando con la resistencia local
 Mientras un equipo desactiva bombas el otro debería desembarcar en alguna playa cercana y tratar de evitar a los nazis y los colaboracionistas y encontrar a la resistencia local. Deberán usar sus habilidades de Investigar, Notar y Persuadir para hacer contacto. 
-
-\saltopagina
 
 Si ves que no saben cómo hacerlo, puedes hacer alguna escena en que la resistencia se enfrenta a los soldados nazis. Estamos hablando de algún tiroteo, alguna detención ilegal, un ataque sorpresa desde un vehículo e incluso pillastres haciendo pintadas en las paredes del cuartel nazi.
 
@@ -1878,20 +1880,25 @@ Una establezcan contactos deberán explicarles que han hecho y ofrecer alguna pr
 ### Recompensas
 Lo único que pueden conseguir tus comandos tras esta aventura es buena comida y bebida local y la satisfacción de haber hecho una buena acción y de haber estropeado los planes de los nazis. Aparte pueden tener un puerto seguro donde refugiarse y esconderse si se meten en problemas. La resistencia se encargará de buscarles una casa segura donde ocultarse. El tema de si aceptarán a las bestias prehistóricas que les acompañan es otro tema.  
 
-## Un día en el museo
-```
-Quizás una visita al Museo de Ciencias Naturales ayude a solucionar un nuevo problema que ha supuesto la cría de dinosaurios.
-```
-xxx
-
-\saltopagina
-
 ## Cena de etiqueta
 ```
 La Reina quiere agasajar a las heroínas y héroes de la fundación Roxton con una cena en el Castillo de Balmoral donde podrá conocer a los dinosaurios que les acompañan en sus peligrosas misiones.
 ```
 
+La reina Isabel quiere conocer a los comandos a sus asombrosos compañeros, así que van a preparar una cena en el Castillo de Balmoral en Escocia, residencia de verano de la realeza británica. 
+
+\saltopagina
+
+IM tiene preparado el transporte terrestre de los saurios. Son unas 6 horas en camión así que saldrán a medio día para llegar a Balmoral a la hora de cenar. La idea es que vayan los comandos y sus compañeros, pero de no ser posible (por ejemplo por estar heridos o ser acuáticos) pueden buscar sustitutos. Si Marina Flowers está en la isla será invitada junto a los comandos.
+
+_Esta aventura es perfecta para aquellas ocasiones en que no este toda tu mesa. Si falta alguien, no importa, no va a pasar nada importante. Es una aventura rápida que no necesita preparación y, sobre todo, divertida y loca, perfecta para una tarde tonta._
+
+### Clases rápidas de protocolo
+Lady Roxton tiene 24 horas para enseñar un mínimo protocolo a tus comandos. Aquí tienes algunas ideas para sus enseñanzas.
+
 xxx
+
+También pueden aprovechar para acicalar a sus compañeros y de hecho Wayland ha hecho unas pajaritas de tela para los saurios. Hay que estar elegantes si vas a ver a la reina.
 
 ### La recepción
 xxx
@@ -1900,6 +1907,21 @@ xxx
 xxx
 
 ### Desastre a los postres
+xxx
+
+### La pista
+La IM está forzando las cosas al máximo. La reina puede ser una de las personas del Reino Unido más espiada por los nazis y el IM sabe perfectamente que el propio Hitler verá fotos de esta cena con la reina y sus dinosaurios.
+
+Hasta ahora IM había sido sutil a la hora de dejar señales de la existencia de saurios prehistóricos, pero cada vez tienen que ser menos sutiles y más claros, si quieren que su plan llegue a buen puerto. 
+
+\saltopagina
+
+Si sus perfiles psicológicos son correctos, Hitler se volverá al saber que la reina de Inglaterra tiene algo que él no puede tener. Su apuesta es que el Führer haga lo que sea por tener sus propios dinosaurios.
+
+## Un día en el museo
+```
+Quizás una visita al Museo de Ciencias Naturales ayude a solucionar un nuevo problema que ha supuesto la cría de dinosaurios.
+```
 xxx
 
 \saltopagina
