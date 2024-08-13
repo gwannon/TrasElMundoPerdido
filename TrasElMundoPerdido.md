@@ -1840,6 +1840,44 @@ Si abren el canutillo, verán un mensaje cifrado. Si descifran el mensaje (Human
 
 Si no son capaces de descifrarlo pueden consultar a algún experto en cifrado como la gente de Bletchley Park de la Parte 2 de la campaña.
 
+## Limpiando el puerto
+```
+Durante un trayecto en el "Mary Anning" llegan a un puerto que los nazis han tomado recientemente y han bloqueado el puerto llenándolo de minas. Quizas podrían aprovechar a fastidiar un poco a los nazis desactivándolas sin que lo sepan.
+```
+
+Si las desactivan con la ayuda de los saurios acuáticos, los nazis creerán que el puerto está controlado, pero los contrabandistas podrán entrar y salir delante de las narices de los nazis. En caso de ataque de los aliados podrán evitar estas defensas y pillar a los nazis con la guardia baja.
+
+\saltopagina
+
+El "Mary Anning" fondeará en algún puerto natural cercano y podrán desembarcar a la playa. El puerto en que les metas debería tener lógica con su ruta en barco y a poder ser donde se hable un idioma que controle alguno de tus comandos. 
+
+La misión debe hacerse con rapidez, antes de que los nazis detecten el "Mary Anning". Eso exigirá que el comando se divida en dos partes, una que desactive las minas con ayuda de los saurios acuáticos y otra que desembarque en el puerto y busque alguna célula rebelde para informarles de que las minas están desactivadas y pueden entrar y salir del puerto con, por ejemplo, soldados huidos de campos de prisioneros o material para sus actos de sabotaje.   
+
+### Desactivando minas
+Hay una 20 minas en el puerto. Podrían desactivar todas o pueden desactivar la mitad y crear un paso seguro para entrar y salir del puerto. No hay opción buena o mala solo son distintas. Desactivar todas hace que el puerto pueda ser tomado más fácilmente por los aliados, pero puede que los nazis descubran la treta más fácilmente y desarmando la mitad todo lo contrario, es más difícil tomar el puerto, pero también es más difícil de detectar.
+
+Si hacen un poco de investigación en el puerto antes de lanzarse a la acción, verán que hay una pequeña patrullera con una ametralladora y 5 soldados nazis que recorre el puerto, el rompeolas y las calas adyacentes. Podría detectar a los comandos si les pilla en el puerto. La ronda dura unas 2 horas y empieza con el salir el sol y acaba cuando se pone. 
+
+Por la noche parece que solo vigilan por tierra el puerto y el rompeolas. El problema es que es imposible hacer el trabajo de noche. Es algo delicado que necesita luz y si van con focos, los vigías del puerto les detectarán. 
+
+Cada mina consume 1 minuto en acercarse a ella y 4 minutos desarmarla y el trabajo deben hacerlo dos comandos y dos saurios acuáticos. Ese supone que pueden desactivar 24 minas en 2 horas, más de las que hay en el puerto. Para desactivar una mina necesitas pasar una tirada Reparar, pero antes hay que sacar una carta, si se sacan tréboles la mina está vieja, muy oxidada, llena de lapas y tiene un -2 a la tirada. 
+
+Si se falla, no se consigue desactivar y tendrán que gastar otros 4 minutos y tirar de nuevo Reparar. Si se pifia, la mina no está desactivada, pero el comando cree que sí. Cada tirada pifiada supone 5% de probabilidad de estallar, si querían quitar todas o un 10% si solo querían abrir un camino cuando luego el otro equipo quiera demostrar que las minas estas desarmadas.  
+
+Si quieren, pueden gastar 2 minutos, en revisar la mina y detectar las pifias.
+
+### Contactando con la resistencia local
+Mientras un equipo desactiva bombas el otro debería desembarcar en alguna playa cercana y tratar de evitar a los nazis y los colaboracionistas y encontrar a la resistencia local. Deberán usar sus habilidades de Investigar, Notar y Persuadir para hacer contacto. 
+
+\saltopagina
+
+Si ves que no saben cómo hacerlo, puedes hacer alguna escena en que la resistencia se enfrenta a los soldados nazis. Estamos hablando de algún tiroteo, alguna detención ilegal, un ataque sorpresa desde un vehículo e incluso pillastres haciendo pintadas en las paredes del cuartel nazi.
+
+Una establezcan contactos deberán explicarles que han hecho y ofrecer alguna prueba, quizás podrían entrar y salir del puerto con los rebeldes para demostrarles que han hecho lo que dicen. Puedes jugar con la paranoia que al desactivar igual hubo alguna tirada mala y no esta del todo desactivada o tal vez si no han desactivado todas se equivocan de ruta segura. Luego tú decides si usas el porcentaje de minas pifiadas del paso anterior y solo haces rodar los dados.
+
+### Recompensas
+Lo único que pueden conseguir tus comandos tras esta aventura es buena comida y bebida local y la satisfacción de haber hecho una buena acción y de haber estropeado los planes de los nazis. Aparte pueden tener un puerto seguro donde refugiarse y esconderse si se meten en problemas. La resistencia se encargará de buscarles una casa segura donde ocultarse. El tema de si aceptarán a las bestias prehistóricas que les acompañan es otro tema.  
+
 ## Un día en el museo
 ```
 Quizás una visita al Museo de Ciencias Naturales ayude a solucionar un nuevo problema que ha supuesto la cría de dinosaurios.
@@ -1877,32 +1915,6 @@ xxx
 Este relato puede servirte como introducción a tus propias aventuras. Entre los objetos rescatados puede haber algún tipo de valija con documentación que sirva de semilla de tus propias aventuras. 
 
 Quizás haya un mapa de algún lugar misterioso como Lemuria o la Atlántida, diseños de alguna extraña máquina hipertecnológica nazi, la ubicación de otro mundo perdido, etc.
-
-\saltopagina
-
-## Limpiando el puerto
-```
-Durante un trayecto en el "Mary Anning" llegan a un puerto que los nazis han tomado recientemente y han bloqueado el puerto llenándolo de minas. Quizas podrían aprovechar a fastidiar un poco a los nazis desactivandolas sin que lo sepan.
-```
-
-Si las desactivan con la ayuda de los saurios acuáticos, los nazis creerán que el puerto está controlado, pero los contrabandistas podrán entrar y salir delante de las narices de los nazis. En caso de ataque de los aliados podrán evitar estas defensas y pillar a los nazis con la guardia baja.
-
-xxx
-
-El puerto en que fondeen debería tener lógica con su ruta en barco y a poder ser donde se hable un idioma que controle alguno de tus comandos.
-
-xxx
-
-La misión debe hacerse con rapidez, antes de que los nazis detecten el "Mary Anning". Eso exigirá que el comando se divida en dos partes, una que desactive las minas con ayuda de los saurios acuáticos y otra que desembarque en el puerto y busque alguna célula rebelde para informarles de que las minas están desactivadas y pueden entrar y salir del puerto con, por ejemplo, soldados huidos de campos de prisioneros o material para sus actos de sabotaje.   
-
-### Desactivando minas
-xxx
-
-### Contactando con la resistencia local
-xxx
-
-### Recompensas
-xxx
 
 \saltopagina
 
