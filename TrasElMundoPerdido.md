@@ -1227,7 +1227,25 @@ El activo del IM a rescatar es Jocelyn Dubois. Quizás ya la conozcan de la misi
 
 Jocelyn sabe con certeza que en el último intento de rescate alguien les vendió a los nazis. Todo esto hará que sea muy recelosa sobre todo de unos locos que hablan de dinosaurios.
 
-xxx
+#### Buscar a Jocelyn
+Durante el informe de misión les dieron varios posibles escondites (en el centro, el norte, el sur y en el este de la ciudad) y tendrán que revisarlos para encontrarla. Curiosamente, estará en el último que busquen. Tira en la tabla o elige la opción más interesante. 
+
+|1d4|Descripción|
+|--------|------|
+|1|**Edificio destruido:** El edificio ha sido derrumbado por algún proyectil explosivo. Si Jocelyn estaba dentro es muy probable que esté muerta. Deberán investigar entre las ruinas si encuentran algo o preguntar a los vecinos si vivía alguien y fue rescatada, quizás la trasladarán a un hospital. Si calculan fechas del derrumbe y del último intento de rescate sabrán que fue destruido antes del rescate así que no está aquí.|
+|2|**Creo que aquí no es:** En el supuesto piso franco hay una familia viviendo, quizás los datos del informe están equivocados, quizás el comando se ha equivocado de piso o número, incluso de calle. También podría ser que se hayan colado. Tendrán que investigar en el edificio qué ha pasado y su+i Jocelyn ha estado allí.|
+|3|**Vacío:** El lugar es el correcto, pero no hay señales de que nadie haya estado allí en meses. Quizás no se ha usado o tal vez Jocelyn es una paranoica que no deja ni una prueba de su presencia. Tendrán que hablar con los comerciantes locales y los vecinos para ver si dan una pista.|
+|4|**Registrado:** La puerta esta rota y el piso franco ha sido registrado a fondo, cajones sacados, armarios volcados, sillones y colchones rajados. No hay nada sin revisar. Como siempre, habrá que hablar con los vecinos por si fueron aliados o enemigos quienes registraron el piso. Tal vez haya pistas que indiquen si Jocelyn huyo y hacia donde pudo ir. Si investigan encontrarán un rastro de sangre seca en uno de las ventanas, pero no pueden precisar cuanto lleva allí. Como otras veces tal vez deban preguntar en hospitales y médicos privados.|
+
+La idea de esta tabla es dividir al grupo lo más posible y que llamen la atención haciendo preguntas y husmeando por todas partes. Así alguien del grupo registrará un piso franco, otro comando preguntará a los lugareños, otro buscará en los hospitales, etc. 
+
+Cerca del anochecer solo les quedará un piso que visitar. Pueden hacer que los pteranodones les sigan, ya que son difíciles de detectar en el cielo del crepúsculo.
+
+En el cuarto piso encontrarán a Jocelyn. Usando la contraseña secreta podrán identificarse y Jocelyn les abrirá la puerta. Parece nerviosa y da la sensación de que hace días que no sale de allí. El piso está sucio y lleno de restos de comida y cosas tiradas por todos lados. 
+
+\saltopagina
+
+Jocelyn les mostrará una extraña pieza mecánica y les contará que se lo robo al general Theodor von Liebenfels en El Cairo. Es el rotor principal de una máquina enigma y desde que consiguió no dejan de perseguirla espías y asesinos nazis. Les contará que ya van dos misiones de rescate que fallan y mirándoles de arriba abajo no cree que cambie su suerte.
 
 #### La máquina enigma
 [![Detalle de Máquina Enigma](./assests/images/maquina-enigma.jpg 'Máquina Enigma a bordo de un Sd.KFz 251 de Heinz Guderian')](https://es.wikipedia.org/wiki/Enigma_(m%C3%A1quina)#/media/Archivo:Bundesarchiv_Bild_101I-769-0229-10A,_Frankreich,_Guderian,_%22Enigma%22.jpg 'Máquina Enigma a bordo de un Sd.KFz 251 de Heinz Guderian')
@@ -1235,6 +1253,34 @@ xxx
 Enigma es una máquina electromagnética para cifrar y descifrar mensajes. Es usada por todas las ramas del ejército nazi para encriptar y desencriptar sus comunicaciones. Jocelyn no ha conseguido una de estas máquinas enteras, pero ha conseguido una de sus partes fundamentales, los rotores de conversión. Estudiándolos se podría llegar a crear un sistema para descifrar los mensajes interceptados rápidamente. 
 
 Jocelyn consiguió robar el rotor principal de la máquina con las modificaciones que los nazis hicieron al modelo original. Esto puede ayudar muchísimo a encontrar una forma de descifrar sus mensajes, así que su valor es inestimable y hay gente dispuesta a hacer lo que sea por esa pieza de la Enigma.
+
+#### ¡Es una trampa!
+De repente, habrá golpes en la puerta. "¡Policía militar! Abran la puerta. Están arrestados. Si no abren derribaremos la puerta." Tienen 3 turnos antes de que tiren la puerta y cada comando puede hacer una acción.
+
+* Si miran por las ventanas que dan a la calle principal verán tres destartalados coches (con dos soldados en cada uno) en la puerta del edificio y cuatro.
+* Si miran por las ventanas que dan al callejón lateral verán unos 5 soldados para evitar que escapen por aquí. También verán pequeño cuatrimotor de reparto.
+* Si miran por la mirilla de la puerta verán a 6 soldados con las armas preparadas dispuestos a entrar. 
+* Pueden mover armarios y sofás para trabar la puerta (tirada de FUE), cada éxito que consigan detendrá a los soldados un turno con un máximo de 23. 
+
+Si tiran Notar verán que los uniformes parecen falsos, sin pequeños fallos con galones incorrectos o demasiado nuevos y sin usar para llevar semanas sitiados y sin recibir repuestos.
+
+En este punto pueden luchar o huir. Si luchan deberán enfrentarse a los tres grupos de soldados, los del pasillo, los del callejón que subirán al oír los disparos y los conductores. Si acaban con todos podrán coger un coche y largarse. 
+
+\saltopagina
+
+Cada grupo está formado por soldados nazis y uno de ellos será un oficial nazi. Si quieres complicar los combates puedes cambiar algún soldado nazi por algún soldado acorazado o con ametralladora pesada. 
+
+Si huyen, tendrán dos vías de escape; acabar con los enemigos del pasillo y subir a la azotea del edificio y escapar por los tejados. La otra opción es acabar con la gente del callejón y robar el cuatrimotor y escapar por los callejones de la medina. Debajo de su ventana hay un toldo sobre la que podrían tirarse. Con una tirada de Atletismo no se harán daño que quedarán tendidos en el suelo. Con un avance rebotarán en el toldo y caerán de pie y preparados para combatir. Si pifian queda a tu elección, desde daño por caída a perder su arma o romper el toldo y que nadie pueda usarlo. 
+
+Si intentan robar los coches de los nazis deberán primero bajar por las escaleras o por las ventanas (tras acabar con la gente del pasillo o del callejón), tendrán también que acabar con los conductores que estarán parapetados y protegidos dentro de los coches y hacerles el puente (Reparar) o buscar las llaves (Notar). 
+
+La huida por las azoteas es una persecución con las siguientes reglas:
+
+* xxx
+
+La huida por las callejuelas es una persecución con las siguientes reglas:
+
+* xxx
 
 ### Salir de Tobruk
 La salida de Tobruk debería ser tan fácil como la entrada, pero con el encuentro anterior tanto ingleses/australianos como espías nazis están sobre aviso y vigilan toda la ciudad.
@@ -1246,11 +1292,11 @@ Mientras están de regreso en el "Mary Anning", recibirán órdenes de escoltar
 
 Branningan cree que lo mejor es desembarcar en Portsmouth, de ahí a Oxford y luego Bletchley Park. Tendrán que alquilar un vehículo y buscar transporte público. El "Mary Anning" con los dinosaurios seguirá por el mar de Irlanda hasta Skye.
 
-\saltopagina
-
 El viaje puede durar un par de días con lo que tendrán que pernoctar mínimo una noche. Un "Bed & Breakfast" en mitad de la campiña inglesa puede ser una opción interesante y con cierto encanto romántico. Aun así, deberían tomar precauciones como atrancar la puerta y montar guardias. 
 
 No deben fiarse de nadie hasta llegar a su destino. IM está seguro que hay nazis en suelo inglés con órdenes de destruir el rotor. 
+
+\saltopagina
 
 Independientemente del medio de transporte que tendrán una emboscada de un grupo de asesinos nazis (1,5 asesinos por cada comando incluida Jocelyn). Alguien que vigilaba las estaciones ha reconocido a Jocelyn. 
 
@@ -1272,10 +1318,10 @@ Si salen vivos de su encuentro con los asesinos podrán continuar su viaje, ya d
 
 > Si hay fans de la informática en tu mesa quizás sea un detalle bonito que [Alan Turing](https://es.wikipedia.org/wiki/Alan_Turing) o [Joan Clarke](https://es.wikipedia.org/wiki/Joan_Clarke) recojan en rotor, se quiten las gafas estupefactas y exclamen "Esto podría cambiar el curso de la guerra. Habéis salvado miles si no millones de vidas".
 
-\saltopagina
-
 ### La pista
 Cuando vuelvan a irse de misión Lady Margaret les enseñará un documento de Bletchley Park. Con las posiciones que tenía el rotor antes de sacarlo de la máquina Enigma han sacado unas palabras: Fundación Roxton infiltrado. 
+
+\saltopagina
 
 Esto supone que la Fundación está en el radar de las SS. Algo deben sospechar los nazis si usan una compleja máquina de cifrado para enviar mensajes referentes a la Fundación. Con una tirada de Investigar podrás datar este mensaje a semanas antes de que tus comandos ingresarán en la Fundación.
 
@@ -1339,6 +1385,10 @@ Cuando un torpedo lleva a la última casilla de su columna impacta el buque de g
 * Cuando el submarino lanza 15 torpedos y no consigue hundir su objetivo.
 
 ### La pista
+El sistema de detección y desvío de torpedos con saurios acuáticos tiene que haber vuelto loco al capitán del submarino. Ha tenido que alunizar al ver como todos sus torpedos acababan fallando. Lo normal es que reporte a sus jefes que los ingleses tienen una tecnología anti-torpedos y que la han probado en combate.
+
+En unos días llegará a la inteligencia nazi. Esto hará que los espías alemanas en Argentina se pongan a buscar cualquier pista que les lleve a descubrir que han desarrollado e instalado en el Hexeter.
+
 xxx
 
 ***
@@ -1524,7 +1574,7 @@ Para los herbívoros, que nadan algo mejor, tienen unos en forma de barra que se
 > Cuesta 5 turnos ponerlo y otros 5 quitarlo y mientras los tengan puestos tienen un -2 a Intimidar.
 
 ### Ruidos de la selva
-En IM han metido en un mini-fonógrafo ruidos de la selva para que los dinosaurios se sientan como en casa en casos de estrés.
+En IM han metido en un mini-fonógrafo ruidos de la selva para que los dinosaurios se sientan como en casa en casos de estrés. Varían según la especie, así que hay varios discos etiquetados para cada saurio.
 
 > Ponerles la música de la selva da un +2 a las tiradas de Medicina para curarles cuando están escuchándolos. El problema es que los relaja tanto que mientras escuchan la música y la hora posterior tienen un -1 a todas las tiradas. 
 
@@ -2015,6 +2065,19 @@ La idea de este relato es añadir una dificultad extra a las aventuras si crees 
 A priori no hay recompensa por rescatar todos esos cuadros y estatuas, pero puedes darles contactos en el mundillo del arte. 
 
 También pueden quedarse algunas o todas las obras para su jubilación y hacer una tontina como los el abuelo Simpson y el señor Burns en el capítulo de los Peces Voladores.
+
+\saltopagina
+
+## Noche de poker
+```
+Weyland suele organizar noches de poker y esta vez ha invitado a tus comandos. Lo que no saben ninguno es que Lady Roxton se ha enterado y se va a autoinvitar.  
+```
+
+xxx
+
+Si Marina Flowers está en la isla también participará en la noche de poker.
+
+\saltopagina
 
 ## Despedidas
 ```

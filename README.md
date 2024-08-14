@@ -22,14 +22,10 @@
 * Relatos salvajes
   * Un día en el museo
   * El pecio
+  * Noche de poker
   * Despedidas
   * El secreto de los Branningan
   * Espécimen perdido
-
-# Por hacer de la versión 0.5
-* Parte 2: Norte de África
-  * Buscar al activo de la IM
-  * Salir de Tobruk
 
 ## Recursos 
 * https://commons.wikimedia.org/wiki/Category:Charles_R._Knight
@@ -40,11 +36,15 @@
 
 # Changelog
 
+# Version 0.6
+
 # Versión 0.5.2 En desarrollo
 * Terminada ambientación "La expedición Roxton"
 * Terminado el Relato Salvaje "Arte robado"
 * Terminado el Relato Salvaje "Limpiando el puerto"
 * Terminado el Relato Salvaje "Cena de etiqueta"
+* Terminada la parte de "Buscar al activo de la IM" de "Parte 2: Norte de África"
+* Terminada la parte de "Salir de Tobruk" de "Parte 2: Norte de África"
 
 # Versión 0.5.1 10/08/2024
 * Terminado el Relato Salvaje "Campo minado"
