@@ -1914,11 +1914,11 @@ La IM está forzando las cosas al máximo. La reina puede ser una de las persona
 
 Hasta ahora IM había sido sutil a la hora de dejar señales de la existencia de saurios prehistóricos, pero cada vez tienen que ser menos sutiles y más claros, si quieren que su plan llegue a buen puerto. 
 
-> Esta aventura es perfecta para aquellas ocasiones en que no este toda tu mesa. Si falta alguien, no importa, no va a pasar nada importante. Es una aventura rápida que no necesita preparación y, sobre todo, divertida y loca, perfecta para una tarde tonta.
-
 \saltopagina
 
 Si sus perfiles psicológicos son correctos, Hitler se volverá al saber que la reina de Inglaterra tiene algo que él no puede tener. Su apuesta es que el Führer haga lo que sea por tener sus propios dinosaurios.
+
+> Esta aventura es perfecta para aquellas ocasiones en que no este toda tu mesa. Si falta alguien, no importa, no va a pasar nada importante. Es una aventura rápida que no necesita preparación y, sobre todo, divertida y loca, perfecta para una tarde tonta.
 
 ## Un día en el museo
 ```
