@@ -1854,6 +1854,9 @@ El "Mary Anning" fondeará en algún puerto natural cercano y podrán desembarca
 La misión debe hacerse con rapidez, antes de que los nazis detecten el "Mary Anning". Eso exigirá que el comando se divida en dos partes, una que desactive las minas con ayuda de los saurios acuáticos y otra que desembarque en el puerto y busque alguna célula rebelde para informarles de que las minas están desactivadas y pueden entrar y salir del puerto con, por ejemplo, soldados huidos de campos de prisioneros o material para sus actos de sabotaje.   
 
 ### Desactivando minas
+
+[![Detalle de mina marina nazi sacada del agua](./assests/images/mina-marina.jpg 'Recovered german mine, Imperial War Museum')](https://picryl.com/media/recovered-german-mine-600576 'Recovered german mine, Imperial War Museum')
+
 Hay una 20 minas en el puerto. Podrían desactivar todas o pueden desactivar la mitad y crear un paso seguro para entrar y salir del puerto. No hay opción buena o mala solo son distintas. Desactivar todas hace que el puerto pueda ser tomado más fácilmente por los aliados, pero puede que los nazis descubran la treta más fácilmente y desarmando la mitad todo lo contrario, es más difícil tomar el puerto, pero también es más difícil de detectar.
 
 Si hacen un poco de investigación en el puerto antes de lanzarse a la acción, verán que hay una pequeña patrullera con una ametralladora y 5 soldados nazis que recorre el puerto, el rompeolas y las calas adyacentes. Podría detectar a los comandos si les pilla en el puerto. La ronda dura unas 2 horas y empieza con el salir el sol y acaba cuando se pone. 
@@ -1864,11 +1867,11 @@ Cada mina consume 1 minuto en acercarse a ella y 4 minutos desarmarla y el traba
 
 Si se falla, no se consigue desactivar y tendrán que gastar otros 4 minutos y tirar de nuevo Reparar. Si se pifia, la mina no está desactivada, pero el comando cree que sí. Cada tirada pifiada supone 5% de probabilidad de estallar, si querían quitar todas o un 10% si solo querían abrir un camino cuando luego el otro equipo quiera demostrar que las minas estas desarmadas. Si quieren, pueden gastar 2 minutos, en revisar la mina y detectar las pifias.
 
+\saltopagina
+
 Al de dos horas, deberán de dejar de trabajar e irse o serán detectados por la patrullera. Puedes pedirles tiradas de sigilo a comandos y saurios para acabar alguna desactivación pasadas las 2 horas.
 
 Solo tienen una oportunidad de desactivar las bombas, luego será imposible entre el cansancio de la ronda anterior, los cambios en las mareas, mal tiemppo, etc.
-
-\saltopagina
 
 ### Contactando con la resistencia local
 Mientras un equipo desactiva bombas el otro debería desembarcar en alguna playa cercana y tratar de evitar a los nazis y los colaboracionistas y encontrar a la resistencia local. Deberán usar sus habilidades de Investigar, Notar y Persuadir para hacer contacto. 
@@ -1885,18 +1888,30 @@ Lo único que pueden conseguir tus comandos tras esta aventura es buena comida y
 La Reina quiere agasajar a las heroínas y héroes de la fundación Roxton con una cena en el Castillo de Balmoral donde podrá conocer a los dinosaurios que les acompañan en sus peligrosas misiones.
 ```
 
-La reina Isabel quiere conocer a los comandos a sus asombrosos compañeros, así que van a preparar una cena en el Castillo de Balmoral en Escocia, residencia de verano de la realeza británica. 
-
 \saltopagina
+
+[![Foto de la reina revisando tropas](./assests/images/cena-reina.jpg 'HM Queen Elizabeth inspecting a detachment of Wrens on the quayside at Belfast, 1942. A10043')](https://jenikirbyhistory.getarchive.net/media/hm-queen-elizabeth-inspecting-a-detachment-of-wrens-on-the-quayside-at-belfast-999a0d 'HM Queen Elizabeth inspecting a detachment of Wrens on the quayside at Belfast, 1942. A10043')
+
+&nbsp;
+
+La reina Isabel quiere conocer a los comandos a sus asombrosos compañeros, así que van a preparar una cena en el Castillo de Balmoral en Escocia, residencia de verano de la realeza británica. 
 
 IM tiene preparado el transporte terrestre de los saurios. Son unas 6 horas en camión así que saldrán a medio día para llegar a Balmoral a la hora de cenar. La idea es que vayan los comandos y sus compañeros, pero de no ser posible (por ejemplo por estar heridos o ser acuáticos) pueden buscar sustitutos. Si Marina Flowers está en la isla será invitada junto a los comandos.
 
 ### Clases rápidas de protocolo
-Lady Roxton tiene 24 horas para enseñar un mínimo protocolo a tus comandos. Aquí tienes algunas ideas para sus enseñanzas.
+Lady Roxton tiene 24 horas para enseñar un mínimo protocolo a tus comandos y su lema es que la letra con sangre entra. Aquí tienes algunas ideas para sus enseñanzas.
 
-xxx
+* Puedes hacerles andar con un libro en la cabeza (tirada de Agilidad). Si fallan, reglazo de Lady Roxton.
+* Los cubiertos se usan de dentro afuera, pero podrían identificar el tenedor de caracoles o la pala de pescado (tirada de Conocimientos Generales). Si falla reglazo. Si comen con la boca abierta o sorben la sopa, reglazo.
+* Practicarán el besamanos a la reina (tirada de Conocimientos Generales) con Lady Roxton como la reina. Ya sabes qué pasa si fallan.
 
-Además Lady Roxton tratará de buscar ropa adecuada para los comandos menos afines a la moda. Una tirada de Conocimientos Generales permitirá al comando elegir la ropa más adecuada de lo que tenga disponible, otra cosa es que luego sepa llevarla con estilo y clase.  
+Dales positivos si tienen ideas originales, pero que no se pasen que van a cenar con la reina. Si quieres hacerlo más divertido cada golpe de Lady Roxton quita un beni y si intentan esquivarlos te dará dos y perderás dos benis. 
+
+\saltopagina
+
+Los dos comandos que reciban más golpes de reglas les pondrá un capirote de zopencos y decidirá que no son aptos para cenar con la reina. Irán solo como cuidadores de los saurios. Sé generoso y dales algunos benis a los que van a la cena. 
+
+Además Lady Roxton tratará de buscar ropa adecuada para los comandos menos afines a la moda. Una tirada de Conocimientos Generales permitirá al comando elegir la ropa más adecuada de lo que tenga disponible, otra cosa es que luego sepa llevarla con estilo y clase (tirada de Espíritu) o por la percha (tirada de Vigor).  
 
 También pueden aprovechar para acicalar a sus compañeros y de hecho Wayland ha hecho unas pajaritas de tela para los saurios. Hay que estar elegantes si vas a ver a la reina.
 
@@ -1905,6 +1920,7 @@ xxx
 
 ### La cena
 xxx
+
 
 ### Desastre a los postres
 xxx
@@ -1919,6 +1935,8 @@ Hasta ahora IM había sido sutil a la hora de dejar señales de la existencia de
 Si sus perfiles psicológicos son correctos, Hitler se volverá al saber que la reina de Inglaterra tiene algo que él no puede tener. Su apuesta es que el Führer haga lo que sea por tener sus propios dinosaurios.
 
 > Esta aventura es perfecta para aquellas ocasiones en que no este toda tu mesa. Si falta alguien, no importa, no va a pasar nada importante. Es una aventura rápida que no necesita preparación y, sobre todo, divertida y loca, perfecta para una tarde tonta.
+
+\saltopagina
 
 ## Un día en el museo
 ```
