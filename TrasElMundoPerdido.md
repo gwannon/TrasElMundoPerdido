@@ -1891,12 +1891,12 @@ La reina Isabel quiere conocer a los comandos a sus asombrosos compañeros, así
 
 IM tiene preparado el transporte terrestre de los saurios. Son unas 6 horas en camión así que saldrán a medio día para llegar a Balmoral a la hora de cenar. La idea es que vayan los comandos y sus compañeros, pero de no ser posible (por ejemplo por estar heridos o ser acuáticos) pueden buscar sustitutos. Si Marina Flowers está en la isla será invitada junto a los comandos.
 
-_Esta aventura es perfecta para aquellas ocasiones en que no este toda tu mesa. Si falta alguien, no importa, no va a pasar nada importante. Es una aventura rápida que no necesita preparación y, sobre todo, divertida y loca, perfecta para una tarde tonta._
-
 ### Clases rápidas de protocolo
 Lady Roxton tiene 24 horas para enseñar un mínimo protocolo a tus comandos. Aquí tienes algunas ideas para sus enseñanzas.
 
 xxx
+
+Además Lady Roxton tratará de buscar ropa adecuada para los comandos menos afines a la moda. Una tirada de Conocimientos Generales permitirá al comando elegir la ropa más adecuada de lo que tenga disponible, otra cosa es que luego sepa llevarla con estilo y clase.  
 
 También pueden aprovechar para acicalar a sus compañeros y de hecho Wayland ha hecho unas pajaritas de tela para los saurios. Hay que estar elegantes si vas a ver a la reina.
 
@@ -1913,6 +1913,8 @@ xxx
 La IM está forzando las cosas al máximo. La reina puede ser una de las personas del Reino Unido más espiada por los nazis y el IM sabe perfectamente que el propio Hitler verá fotos de esta cena con la reina y sus dinosaurios.
 
 Hasta ahora IM había sido sutil a la hora de dejar señales de la existencia de saurios prehistóricos, pero cada vez tienen que ser menos sutiles y más claros, si quieren que su plan llegue a buen puerto. 
+
+> Esta aventura es perfecta para aquellas ocasiones en que no este toda tu mesa. Si falta alguien, no importa, no va a pasar nada importante. Es una aventura rápida que no necesita preparación y, sobre todo, divertida y loca, perfecta para una tarde tonta.
 
 \saltopagina
 
