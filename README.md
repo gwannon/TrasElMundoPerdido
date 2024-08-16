@@ -22,10 +22,10 @@
 * Relatos salvajes
   * Un día en el museo
   * El pecio
-  * Noche de poker
-  * Despedidas
   * El secreto de los Branningan
   * Espécimen perdido
+  * Noche de poker
+  * Despedidas
 
 ## Recursos 
 * https://commons.wikimedia.org/wiki/Category:Charles_R._Knight
@@ -36,13 +36,13 @@
 
 # Changelog
 
-# Version 0.6
+# Version 0.6 En desarrollo
+* Terminado el Relato Salvaje "Cena de etiqueta"
 
-# Versión 0.5.2 En desarrollo
+# Versión 0.5.2 16/08/2024
 * Terminada ambientación "La expedición Roxton"
 * Terminado el Relato Salvaje "Arte robado"
 * Terminado el Relato Salvaje "Limpiando el puerto"
-* Terminado el Relato Salvaje "Cena de etiqueta"
 * Terminada la parte de "Buscar al activo de la IM" de "Parte 2: Norte de África"
 * Terminada la parte de "Salir de Tobruk" de "Parte 2: Norte de África"
 

@@ -1258,7 +1258,7 @@ Jocelyn consiguió robar el rotor principal de la máquina con las modificacione
 De repente, habrá golpes en la puerta. "¡Policía militar! Abran la puerta. Están arrestados. Si no abren derribaremos la puerta." Tienen 3 turnos antes de que tiren la puerta y cada comando puede hacer una acción.
 
 * Si miran por las ventanas que dan a la calle principal verán tres destartalados coches (con dos soldados en cada uno) en la puerta del edificio y cuatro.
-* Si miran por las ventanas que dan al callejón lateral verán unos 5 soldados para evitar que escapen por aquí. También verán pequeño cuatrimotor de reparto.
+* Si miran por las ventanas que dan al callejón lateral verán unos 5 soldados para evitar que escapen por aquí. También verán pequeño trimotor de reparto.
 * Si miran por la mirilla de la puerta verán a 6 soldados con las armas preparadas dispuestos a entrar. 
 * Pueden mover armarios y sofás para trabar la puerta (tirada de FUE), cada éxito que consigan detendrá a los soldados un turno con un máximo de 23. 
 
@@ -1268,35 +1268,87 @@ En este punto pueden luchar o huir. Si luchan deberán enfrentarse a los tres gr
 
 \saltopagina
 
+Puedes cortar el combate cuando quieras haciendo aparecer una patrulla de soldados australianos que ha oído los disturbios. Los nazis se dispersarán y desaparecerán en ese caso.
+
 Cada grupo está formado por soldados nazis y uno de ellos será un oficial nazi. Si quieres complicar los combates puedes cambiar algún soldado nazi por algún soldado acorazado o con ametralladora pesada. 
 
-Si huyen, tendrán dos vías de escape; acabar con los enemigos del pasillo y subir a la azotea del edificio y escapar por los tejados. La otra opción es acabar con la gente del callejón y robar el cuatrimotor y escapar por los callejones de la medina. Debajo de su ventana hay un toldo sobre la que podrían tirarse. Con una tirada de Atletismo no se harán daño que quedarán tendidos en el suelo. Con un avance rebotarán en el toldo y caerán de pie y preparados para combatir. Si pifian queda a tu elección, desde daño por caída a perder su arma o romper el toldo y que nadie pueda usarlo. 
+Si huyen, tendrán dos vías de escape; acabar con los enemigos del pasillo y subir a la azotea del edificio y escapar por los tejados. La otra opción es acabar con la gente del callejón y robar el trimotor y escapar por los callejones de la medina. Debajo de su ventana hay un toldo sobre la que podrían tirarse. Con una tirada de Atletismo no se harán daño que quedarán tendidos en el suelo. Con un avance rebotarán en el toldo y caerán de pie y preparados para combatir. Si pifian queda a tu elección, desde daño por caída a perder su arma o romper el toldo y que nadie pueda usarlo. 
 
 Si intentan robar los coches de los nazis deberán primero bajar por las escaleras o por las ventanas (tras acabar con la gente del pasillo o del callejón), tendrán también que acabar con los conductores que estarán parapetados y protegidos dentro de los coches y hacerles el puente (Reparar) o buscar las llaves (Notar). 
 
 La huida por las azoteas es una persecución con las siguientes reglas:
 
-* xxx
+* Habilidad de manejo: **Atletismo**
+* El grupo del callejón está en la primera carta, el de los coches en la segunda y tus comandos en la cuarta carta.
+* Si se trajeron a los pteranodones, uno de los comandos puede usar su acción para mandarles atacar a sus perseguidores. Recuerda que está acción dejará al descubierto la existencia de saurios prehistóricos si los perseguidores salen con vida de la persecución.
+* Recuerda que está anocheciendo, eso supone un -2 por iluminación en los ataques y acciones similares. No se te olvide del -2 por disparar desde un vehículo.
+* Van saltando de azotea en azotea, por lo que los incidentes que pasen tendrían que ser relacionados con esto. Tejados que se hunden, tejas que se deslizan, gente que se cae, etc.
 
-La huida por las callejuelas es una persecución con las siguientes reglas:
+La huida por las callejuelas de la medina de Tobruk es una persecución con las siguientes reglas:
 
-* xxx
+* Habilidad de manejo: **Conducir**
+* El grupo del pasillo está en la primera carta, el de los coches en la segunda y tus comandos en la tercera carta.
+* Aunque los coches tienen mayor velocidad que el trimotor en la persecución son iguales porque ninguno puede ir al máximo en las callejuelas de la medina llenas de gente y tenderetes.
+* Todos los ataques a distancia tienen un +1 por la poca visibilidad (toldos, esquinas y otros obstáculos).
+
+\saltopagina
+
+* Recuerda que está anocheciendo, eso supone un -2 por iluminación en los ataques y acciones similares.
+* Circulan por calles muy estrechas llenas de gente y de trastos, por lo que los eventos al sacar tréboles y en las pifias deberían ir en este sentido. Tiran un puesto de frutas, se llevan los hilos tintados y secados en la calle, el vehículo se llena de gallinas al atropellar un carro, etc.
+* Las calles de la medina a veces están cubiertas. Si tu carta de acción es 3, 5, 7, 9, Q o A y la de otro vehículo también, ambos equipos estáis al descubierto. Uno de tus comandos puede usar su acción para mandar a los pteranodones atacar a sus perseguidores. Recuerda que está acción dejará al descubierto la existencia de saurios prehistóricos si los perseguidores salen con vida de la persecución.
+* Para los coches de los nazis usa las estadísticas del Jeep. Para el trimotor usa las siguientes estadísticas. 
+
+|VEHÍCULO|TAMAÑO|MANIOBRA.|VEL. MÁX.|DUREZA|TRIPULACIÓN|
+|--------|------|----|--|------|-----|
+|Trimotor de reparto|3|+1|35 km/h|8|1+4|
+
+[![Primer de trimotor](./assests/images/trimotor.jpg 'Rollfix Eilwagen por Spielvogel')](https://commons.wikimedia.org/wiki/File:Rollfix_%2B_Image_by_Spielvogel.jpg 'Rollfix Eilwagen por Spielvogel')
+
+El trimotor de reparto tiene un +1 a las tiradas de Conducir al realizar una acción de Escapar.
+
+Una vez hayan escapado de sus perseguidores o los hayan derrotado, deberán buscar un sitio seguro. Las ruinas del edificio donde se esconden los pteranodones puede servir. En ese momento podrán hablar más tranquilamente con Jocelyn y establecer un plan de escape de Tobruk.
+
+Si son alcanzados en cualquiera de las dos persecuciones deberán enfrentarse a los dos grupos de soldados.
 
 ### Salir de Tobruk
-La salida de Tobruk debería ser tan fácil como la entrada, pero con el encuentro anterior tanto ingleses/australianos como espías nazis están sobre aviso y vigilan toda la ciudad.
+La salida de Tobruk debería ser tan fácil como la entrada, pero con el encuentro anterior los espías nazis están sobre aviso y vigilan toda la ciudad y la PM empezará a investigar los disturbios.
 
-xxx
+Una vez más tranquilos Jocelyn sacará su petaca y tras dar un buen lingotazo la pasará al resto. Tienen que mirar que van a hacer. La salida debería ser como la entrada, saliendo por el puerto sujetos a los plesiosaurios. Pero antes deberán hacer las presentaciones y Jocelyn debe conocer a su vía de escape, a no ser que ya se conozcan de Francia.
+
+\saltopagina
+
+Pueden intentar otras cosas que les ayuden en su salida.
+
+* Pueden desplegar los pteranodones para tener imágenes "satélite" de la ciudad y sus alrededores a ver si pueden ver algo. También serían útiles para IM.
+* Pueden ir a las autoridades militares aliadas y buscar ayuda. Aun así no pueden sacarles de la ciudad y los infiltrados nazis podrían encontrarlos y preparar otro ataque.
+* Pueden irse solos con el rotor y abandonar a Jocelyn. Sería fácil, pero no le sentaría bien a ella.
+
+El problema principal es cuando vayan a salir del puerto habrá un barco lleno de nazis vigilando la salida. Seguramente estén fuertemente armados e irán con potentes focos de pesca para la noche. Deberán tirar Notar para detectar la trampa.
+
+La idea es sumergirse y pasar por debajo del barco y salir a respirar cuando estén fuera de su alcance. Eso suponen 6 rondas debajo del agua, tres antes de llegar al barco y 3 después.
+
+* Cada ronda cada comando tira Vigor. Si falla, deberá pedir al plesiosaurio salir a respirar la siguiente ronda. Si pasa la tirada, aguanta la respiración, pero tiene un -1 a su siguiente tirada de Vigor. Si consigue dos avances, no tiene el negativo.
+* Si salen a la superficie a respirar, podrán atacarle si le detectan con Notar (con los focos solo tienen un -1 de negativos por la noche). Harán fuego de supresión sobre la zona con lo que podrán dañar al saurio y a los dos comandos con su Browning M2 (ver estadísticas en el libro básico).
+* Si fallan la tirada de Notar para detectar el barco nazi recibirán un ataque como si hubieran salido a respirar.
+
+Tras las 6 rondas habrán salido a mar abierto y estarán lejos de sus enemigos. Podrán ir nadando hasta donde les espera el "Mary Anning". 
+
+Los pteranodones les seguirán volando. Pueden hacer que ataquen al barco nazi una vez por ronda, pero solo si algún comando sale a respirar. Lo único que harán será molestar si pasan la tirada de ataque normal y pondrán un -2 al ataque de la barcaza.
+ 
+Recuerda que, si has empezado el relato salvaje "Arte robado", Jocelyn tiene escondidas dos estatuas romanas de gran valor arqueológico. Puede sacarlas como si fueran un comando más que no necesita respirar. El problema es que no tengan suficientes saurios acuáticos para hacerlo en un viaje.  
 
 ### Visita a Bletchley Park
 Mientras están de regreso en el "Mary Anning", recibirán órdenes de escoltar ellos mismos a Jocelyn y al engranaje hasta las instalaciones militares de Bletchley Park. 
+
+\saltopagina
+
+[![Plano del sitio de Tobruk](./assests/images/bletchley-park.jpg 'Bletchley Park House home of the World War Two Codebreakers - Outwivcamera')](https://commons.wikimedia.org/wiki/File:Bletchley_Park_House_home_of_the_World_War_Two_Codebreakers,.jpg 'Bletchley Park House home of the World War Two Codebreakers - Outwivcamera')
 
 Branningan cree que lo mejor es desembarcar en Portsmouth, de ahí a Oxford y luego Bletchley Park. Tendrán que alquilar un vehículo y buscar transporte público. El "Mary Anning" con los dinosaurios seguirá por el mar de Irlanda hasta Skye.
 
 El viaje puede durar un par de días con lo que tendrán que pernoctar mínimo una noche. Un "Bed & Breakfast" en mitad de la campiña inglesa puede ser una opción interesante y con cierto encanto romántico. Aun así, deberían tomar precauciones como atrancar la puerta y montar guardias. 
 
 No deben fiarse de nadie hasta llegar a su destino. IM está seguro que hay nazis en suelo inglés con órdenes de destruir el rotor. 
-
-\saltopagina
 
 Independientemente del medio de transporte que tendrán una emboscada de un grupo de asesinos nazis (1,5 asesinos por cada comando incluida Jocelyn). Alguien que vigilaba las estaciones ha reconocido a Jocelyn. 
 
@@ -1309,6 +1361,9 @@ Estamos hablando de asesinos entrenados y dispuestos a cumplir las órdenes que 
 
 * **Atributos:** Agilidad d10, Astucia d6, Espíritu d6, Fuerza d10, Vigor d12
 * **Habilidades:** Atletismo d10, Cabalgar d10, Conducir d10, Disparar d10, Idioma nativo d6, Idioma inglés d6, Pelear d12, Sigilo d10, Tácticas d10
+
+\saltopagina
+
 * **Paso:** 6; **Parada:** 9(1); **Dureza:** 9(1)
 * **Ventajas:** Acróbata, Ambidextro, Ataque repentino, Con un par, Bloqueo, Soldado, Sin piedad
 * **Desventajas:** Secreto (asesina profesional), Fanático (SS), Deseo de muerte
@@ -1320,8 +1375,6 @@ Si salen vivos de su encuentro con los asesinos podrán continuar su viaje, ya d
 
 ### La pista
 Cuando vuelvan a irse de misión Lady Margaret les enseñará un documento de Bletchley Park. Con las posiciones que tenía el rotor antes de sacarlo de la máquina Enigma han sacado unas palabras: Fundación Roxton infiltrado. 
-
-\saltopagina
 
 Esto supone que la Fundación está en el radar de las SS. Algo deben sospechar los nazis si usan una compleja máquina de cifrado para enviar mensajes referentes a la Fundación. Con una tirada de Investigar podrás datar este mensaje a semanas antes de que tus comandos ingresarán en la Fundación.
 
@@ -2068,14 +2121,30 @@ También pueden quedarse algunas o todas las obras para su jubilación y hacer u
 
 \saltopagina
 
-## Noche de poker
+## Noche de póker
 ```
-Weyland suele organizar noches de poker y esta vez ha invitado a tus comandos. Lo que no saben ninguno es que Lady Roxton se ha enterado y se va a autoinvitar.  
+Weyland suele organizar noches de póker y esta vez ha invitado a tus comandos. Lo que no saben ninguno es que Lady Roxton se ha enterado y se va a autoinvitar.  
 ```
 
 xxx
 
-Si Marina Flowers está en la isla también participará en la noche de poker.
+Si Marina Flowers está en la isla también participará en la noche de póker.
+
+### Jugando a póker
+La noche de póker tendrá tantas rondas como participantes menos uno y en cada ronda un participante será eliminado hasta que solo haya un ganador o una ganadora.
+
+Reparte una carta bocabajo y otra boca arriba a cada tahúr, esa será su mano. Usa la tabla para saber su mano.
+
+|Cartas|Mano|
+|------|----|
+|Dos cartas seguidas|Escalera|
+|Dos cartas del mismo color (rojo o negro)|Color|
+|Dos cartas con el mismo número|póker|
+|Dos cartas seguidas del mismo color (rojo o negro)|Escalera de color|
+
+El resto de manos no tienen valor. El Joker vale por cualquier carta que se desee, pero solo da positivos u otros efectos si está boca arriba.
+
+xxx
 
 \saltopagina
 
