@@ -1158,7 +1158,7 @@ Si todo va como marca los planes, mientras le duren las baterías de la antena p
 
 \saltopagina
 
-### La pista
+### Huellas en la tierra
 Algo no suena bien en esta misión. Si tus comandos no se dan cuentan y lo arreglan, estarán dejando huellas de los estegosaurios o iguanodones en los terrenos de la isla. 
 
 En grandes espacios como la tundra noruega es imposible encontrar pistas de los dinosaurios. Sería como buscar una aguja en un pajar, pero en la pequeña isla de Jersey podrían encontrar los rastros de los estegosaurios sin problemas.
@@ -1175,10 +1175,10 @@ El Norte de África es una de las ubicaciones más exóticas de esta campaña, a
 El ejército necesita que el comando entre Tobruk y saque a un agente que tiene un objeto de vital importancia para IM. El único problema es que la ciudad esta asediada por los "Africa-Korps" por tierra aire y mar.
 ```
 
-Aviso por radio, reunión urgente en el castillo Dunvegan. El teniente Horace Chambers aparece en el comedor con dulces locales y café de Colombia y un montón de mapas de lo que parece el Norte de África. Viene a encargarles una nueva misión a tus comandos.
+Aviso por radio, reunión urgente en el castillo Dunvegan. El teniente Horace Chambers aparece en el comedor con dulces locales escoceses y café de Colombia y un montón de mapas de lo que parece el Norte de África. Viene a encargarles una nueva misión a tus comandos.
 
-### Informe de misión
-La misión es bastante simple, saltarse las fuerzas nazis que tienen sitiada la ciudad libia de Tobruk, sacar a un agente de IM con un objeto de máxima importancia y traerlo a Inglaterra.
+## Informe de misión
+Alegremente, Horace les explica que la misión es bastante simple, saltarse las fuerzas nazis que tienen sitiada la ciudad libia de Tobruk, sacar a un agente de IM con un objeto de máxima importancia y traerlo a Inglaterra.
 
 Tobruk es una ciudad portuaria muy bien protegida por ingleses y australianos. Está completamente sitiada por los nazis por tierra y por mar y los intentos anteriores de sacar al activo del IM han fracasado totalmente. Es por ello que el general Linton ha propuesto intentarlo desde otro punto de vista, uno prehistórico. 
 
@@ -1194,7 +1194,7 @@ El principal problema en esta misión es localizar al agente del IM. la ciudad e
 
 [![Plano del sitio de Tobruk](./assests/images/tobruk-map.jpg 'Tobruk 1941 - 1942: A German map showing British defences at Tobruk. - SELINGER FRANZ COLLECTION')](https://www.iwm.org.uk/collections/item/object/205132686 'Tobruk 1941 - 1942: A German map showing British defences at Tobruk. - SELINGER FRANZ COLLECTION')
 
-### Tobruk
+## Tobruk
 La ciudad de Tobruk es la típica ciudad costera árabe del Norte de África. La ciudad tiene los elementos típicos como la medina, bazares y zocos, un alcazar, un maidán o plaza pública y, como no, un puerto. Sus calles estrechas y laberínticas la caracterizan y la actividad en ellas no para nunca, ni de día ni de noche.
 
 Una parte importante de la ciudad ha sufrido con los continuos ataques que ha recibido de aliados y fuerzas nazis, por ello hay muchas casas derrumbadas o medio derrumbadas. Estos edificios son los pocos tranquilos donde hacer reuniones secretas lejos de ojos y oídos indiscretos.
@@ -1207,7 +1207,7 @@ Actualmente se encuentra defendido por fuerzas inglesas y australianas y sitiado
 
 Tus comandos tienen acceso a un mapa de la ciudad de antes del sitio con nombres en inglés y árabe. Tiene actualizaciones a mano como tachones en los edificios destruidos. Aunque la mayoría de la población es árabe mucha gente chapurrea inglés y francés, así que la comunicación básica es relativamente sencilla y con el mapa en bilingüe deberían poder moverse por la ciudad sin problema.
 
-### Entrar en Tobruk
+## Entrar en Tobruk
 El "Mary Anning" tomará camino a Creta todavía en manos inglesas y desde allí tratará de acercarse a Tobruk esquivando la marina nazi. El carguero se quedará a unas 12 millas de la costa lejos de los barcos que sitian la ciudad y lo suficientemente cerca para que los plesiosaurios pueda llegar a tierra. 
 
 Deben tener en cuenta que aunque Tobruk esté controlado por aliados, no es seguro y nadie ha sido avisado de su misión por temor a los espías nazis infiltrados. De hecho podrían ser considerados espías por las fuerzas de defensa de Tobruk si hacen movimientos extraños.
@@ -1220,14 +1220,14 @@ Deberían pasar una tirada de Sigilo al salir del agua sin llamar la atención y
 
 Otra opción sería desembarcar fuera de la ciudad, lejos de miradas indiscretas, pero podrían encontrarse con patrullas aliadas vigilando el perímetro de la ciudad. Además los plesiosaurios deberían quedarse en esa zona y son más útiles en el puerto. Los voladores si pueden seguirles por tierra e incluso ayudarles en caso de problemas.
 
-### Buscar al activo de la IM
+## Buscar al activo de la IM
 El activo del IM a rescatar es Jocelyn Dubois. Quizás ya la conozcan de la misión en Francia, o sea la primera vez que se la encuentran. Está escondida en un piso franco de la IM y no se atreve mucho a salir. Es el tercer intento de sacarla de la ciudad y ha salido viva de milagro del último operativo de rescate. Todo su equipo pereció en esa operación.
 
 \saltopagina
 
 Jocelyn sabe con certeza que en el último intento de rescate alguien les vendió a los nazis. Todo esto hará que sea muy recelosa sobre todo de unos locos que hablan de dinosaurios.
 
-#### Buscar a Jocelyn
+### Buscando a Jocelyn
 Durante el informe de misión les dieron varios posibles escondites (en el centro, el norte, el sur y en el este de la ciudad) y tendrán que revisarlos para encontrarla. Curiosamente, estará en el último que busquen. Tira en la tabla o elige la opción más interesante. 
 
 |1d4|Descripción|
@@ -1247,14 +1247,14 @@ En el cuarto piso encontrarán a Jocelyn. Usando la contraseña secreta podrán 
 
 Jocelyn les mostrará una extraña pieza mecánica y les contará que se lo robo al general Theodor von Liebenfels en El Cairo. Es el rotor principal de una máquina enigma y desde que consiguió no dejan de perseguirla espías y asesinos nazis. Les contará que ya van dos misiones de rescate que fallan y mirándoles de arriba abajo no cree que cambie su suerte.
 
-#### La máquina enigma
+### La máquina enigma
 [![Detalle de Máquina Enigma](./assests/images/maquina-enigma.jpg 'Máquina Enigma a bordo de un Sd.KFz 251 de Heinz Guderian')](https://es.wikipedia.org/wiki/Enigma_(m%C3%A1quina)#/media/Archivo:Bundesarchiv_Bild_101I-769-0229-10A,_Frankreich,_Guderian,_%22Enigma%22.jpg 'Máquina Enigma a bordo de un Sd.KFz 251 de Heinz Guderian')
 
 Enigma es una máquina electromagnética para cifrar y descifrar mensajes. Es usada por todas las ramas del ejército nazi para encriptar y desencriptar sus comunicaciones. Jocelyn no ha conseguido una de estas máquinas enteras, pero ha conseguido una de sus partes fundamentales, los rotores de conversión. Estudiándolos se podría llegar a crear un sistema para descifrar los mensajes interceptados rápidamente. 
 
 Jocelyn consiguió robar el rotor principal de la máquina con las modificaciones que los nazis hicieron al modelo original. Esto puede ayudar muchísimo a encontrar una forma de descifrar sus mensajes, así que su valor es inestimable y hay gente dispuesta a hacer lo que sea por esa pieza de la Enigma.
 
-#### ¡Es una trampa!
+### ¡Es una trampa!
 De repente, habrá golpes en la puerta. "¡Policía militar! Abran la puerta. Están arrestados. Si no abren derribaremos la puerta." Tienen 3 turnos antes de que tiren la puerta y cada comando puede hacer una acción.
 
 * Si miran por las ventanas que dan a la calle principal verán tres destartalados coches (con dos soldados en cada uno) en la puerta del edificio y cuatro.
@@ -1302,7 +1302,7 @@ La huida por las callejuelas de la medina de Tobruk es una persecución con las 
 |--------|------|----|--|------|-----|
 |Trimotor de reparto|3|+1|35 km/h|8|1+4|
 
-[![Primer de trimotor](./assests/images/trimotor.jpg 'Rollfix Eilwagen por Spielvogel')](https://commons.wikimedia.org/wiki/File:Rollfix_%2B_Image_by_Spielvogel.jpg 'Rollfix Eilwagen por Spielvogel')
+[![Primer plano de trimotor](./assests/images/trimotor.jpg 'Rollfix Eilwagen por Spielvogel')](https://commons.wikimedia.org/wiki/File:Rollfix_%2B_Image_by_Spielvogel.jpg 'Rollfix Eilwagen por Spielvogel')
 
 El trimotor de reparto tiene un +1 a las tiradas de Conducir al realizar una acción de Escapar.
 
@@ -1310,7 +1310,7 @@ Una vez hayan escapado de sus perseguidores o los hayan derrotado, deberán busc
 
 Si son alcanzados en cualquiera de las dos persecuciones deberán enfrentarse a los dos grupos de soldados.
 
-### Salir de Tobruk
+## Salir de Tobruk
 La salida de Tobruk debería ser tan fácil como la entrada, pero con el encuentro anterior los espías nazis están sobre aviso y vigilan toda la ciudad y la PM empezará a investigar los disturbios.
 
 Una vez más tranquilos Jocelyn sacará su petaca y tras dar un buen lingotazo la pasará al resto. Tienen que mirar que van a hacer. La salida debería ser como la entrada, saliendo por el puerto sujetos a los plesiosaurios. Pero antes deberán hacer las presentaciones y Jocelyn debe conocer a su vía de escape, a no ser que ya se conozcan de Francia.
@@ -1337,7 +1337,7 @@ Los pteranodones les seguirán volando. Pueden hacer que ataquen al barco nazi u
  
 Recuerda que, si has empezado el relato salvaje "Arte robado", Jocelyn tiene escondidas dos estatuas romanas de gran valor arqueológico. Puede sacarlas como si fueran un comando más que no necesita respirar. El problema es que no tengan suficientes saurios acuáticos para hacerlo en un viaje.  
 
-### Visita a Bletchley Park
+## Visita a Bletchley Park
 Mientras están de regreso en el "Mary Anning", recibirán órdenes de escoltar ellos mismos a Jocelyn y al engranaje hasta las instalaciones militares de Bletchley Park. 
 
 \saltopagina
@@ -1356,7 +1356,7 @@ Independientemente del medio de transporte que tendrán una emboscada de un grup
 * Si alquilan un coche, les emboscarán en alguna carretera secundaria.
 * Quizás vayan en un autobús de línea. En ese caso, los asesinos irán disfrazados de militares buscando espías alemanes. Detendrán el bus y los sacarán para "interrogarlos" lejos del resto de pasajeros.
 
-#### Asesino nazi
+### Asesino nazi
 Estamos hablando de asesinos entrenados y dispuestos a cumplir las órdenes que les den sus líderes nazis. Estamos hablando de personas sin escrúpulos y fanáticas del Tercer Reich que no les importa a quién deben matar.
 
 * **Atributos:** Agilidad d10, Astucia d6, Espíritu d6, Fuerza d10, Vigor d12
@@ -1373,7 +1373,7 @@ Si salen vivos de su encuentro con los asesinos podrán continuar su viaje, ya d
 
 > Si hay fans de la informática en tu mesa quizás sea un detalle bonito que [Alan Turing](https://es.wikipedia.org/wiki/Alan_Turing) o [Joan Clarke](https://es.wikipedia.org/wiki/Joan_Clarke) recojan en rotor, se quiten las gafas estupefactas y exclamen "Esto podría cambiar el curso de la guerra. Habéis salvado miles si no millones de vidas".
 
-### La pista
+## Mensaje desde Bletchley Park
 Cuando vuelvan a irse de misión Lady Margaret les enseñará un documento de Bletchley Park. Con las posiciones que tenía el rotor antes de sacarlo de la máquina Enigma han sacado unas palabras: Fundación Roxton infiltrado. 
 
 Esto supone que la Fundación está en el radar de las SS. Algo deben sospechar los nazis si usan una compleja máquina de cifrado para enviar mensajes referentes a la Fundación. Con una tirada de Investigar podrás datar este mensaje a semanas antes de que tus comandos ingresarán en la Fundación.
@@ -1390,10 +1390,10 @@ xxx
 
 xxx
 
-### Informe de misión
+## Informe de misión
 xxx
 
-### En todo el fregado
+## En todo el fregado
 xxx
 
 ### Escudo anti-torpedos
@@ -1437,7 +1437,7 @@ Cuando un torpedo lleva a la última casilla de su columna impacta el buque de g
 * Cuando el barco recibe 3 impactos o 2 impactos en la misma localización. En este caso el buque de guerra ha recibido demasiado daño y empezará a hundirse.
 * Cuando el submarino lanza 15 torpedos y no consigue hundir su objetivo.
 
-### La pista
+## La pista
 El sistema de detección y desvío de torpedos con saurios acuáticos tiene que haber vuelto loco al capitán del submarino. Ha tenido que alunizar al ver como todos sus torpedos acababan fallando. Lo normal es que reporte a sus jefes que los ingleses tienen una tecnología anti-torpedos y que la han probado en combate.
 
 En unos días llegará a la inteligencia nazi. Esto hará que los espías alemanas en Argentina se pongan a buscar cualquier pista que les lleve a descubrir que han desarrollado e instalado en el Hexeter.
@@ -1451,15 +1451,92 @@ La helada Noruega es un destino diferente, no hay un frente donde se desarrolle 
 
 ## Operación Gunnerside
 ```
-Sabotear las fábricas de agua pesada de Telemark es fundamental si queremos ganar la guerra. La operación Gunnerside necesita una distracción para poder hacer su trabajo y que mejor distracción que una horda de dinosaurios asesinos sembrando el caos y la muerte es la tundra Noruega. Cuantas más unidades atraigan más fácil será la misión de sabotaje.
+Sabotear las fábricas de agua pesada de Telemark es fundamental si queremos ganar la guerra. Sin ellas los nazis no podrán desarrollar la bomba y sin la bomba puede que pierdan la guerra.
 ```
+La operación Gunnerside necesita una distracción para poder hacer su trabajo. La IM ha decidido que la mejor distracción puede ser una horda de dinosaurios asesinos sembrando el caos y la muerte es la tundra Noruega. Cuantas más unidades atraigan más fácil será la misión de sabotaje.
+
+La fascinación de los nazis por los mitos nórdicos es de sobra conocida, así que IM pretende disfrazar a los saurios como monstruos mitológicos y dejar que la loca imaginación de los nazis haga el resto. 
+
+Como siempre la misión empezará con una visita del teniente Horace Chambers y como siempre ha traído té y una gran cantidad dulces, una inusual cantidad de croissants y parecen franceses e inusualmente frescos. Ha debido estar en Francia hace poco.
+
+## Lo que IM puede contarte
 xxx
 
-### Informe de misión
+\saltopagina
+
+### Dragones nórdicos
+
+[![Detalle de escudo con dragón](./assests/images/dragon.jpg 'Coats of arms from Bavaria')](https://es.wikipedia.org/wiki/Archivo:Lindwurm.jpg 'Coats of arms from Bavaria')
+
+Horace empezará a poner una serie de diapositivas de dibujos medievales de dragones y a hablar de los dragones en la mitología nórdica. Es tremendamente aburrido aun hablando de dragones. Si algún comando falla una tirada de Espíritu se quedará dormido y si no les despiertan no podrá tomar parte en las decisiones. Se siente es lo que pasa cuando te duermes en clase.
+
 xxx
 
-### La pista
+Los nórdicos no tenían una concepción del dragón como un ser alado, sino como un reptil/serpiente de gran tamaño y fuerza.
+
+* **Níðhöggr:** xxx
+* **Fafnir:** xxx
+* **Jörmundgander:** xxx
+
+### Equipo especial
 xxx
+
+#### Disfraces para saurios
+xxx
+
+\saltopagina
+
+[![Primer plano de Thor](./assests/images/thor.jpg 'Donner calls upon the storm clouds. Illustration to Richard Wagner`s Das Rheingold. - Arthur Rackham')](https://es.m.wikipedia.org/wiki/Archivo:Ring16.jpg 'Donner calls upon the storm clouds. Illustration to Richard Wagner`s Das Rheingold. - Arthur Rackham')
+
+#### Disfraces para humanos
+
+La IM piensa que quizás los jinetes pueden ir disfrazados de dioses nórdicos así que tiene también un vestuario completo de disfraces de vikingo para tus comandos. Vikingos como se creían en 1940, más cercanos a Hollywood que a la realidad. Cascos con cuernos, barbas y pelucas rubias o pelirrojas, capas de pieles, etc. Si quedan un poco ridículos para nuestra mentalidad moderna es que van perfectos.
+
+Pueden tirar Conocimientos generales (para vestirse rollo Hollywood) o Humanidades (para vestirse más académicamente correcto). Si consiguen dos avances obtendrán un +2 siempre que tengan que convencer a alguien de que son dioses vikingos (ver más adelante).
+
+#### Lanzallamas
+xxx
+
+## La tundra helada
+xxx
+
+### Telemark
+xxx
+
+## Hablando con la resistencia
+xxx
+
+## Planeando las distracciones
+xxx
+
+\saltopagina
+
+## ¡¡¡¡Dragones!!!!
+xxx
+
+### La caza de los dragones
+xxx
+
+#### Drachenjäger (Cazadragones)
+El general von Liebenfels ha montado una escuadra especial de soldados pensando en los rumores y medias verdades que ha oído las últimas semanas de lois supervivientes de los ataques de _dragones_. Ha reclutado de entre sus tropas a una panda de psicópatas fanáticos que no tienen miedo a nada.
+
+xxx
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Alemán d4, Notar d4, Persuadir d4, Sigilo d4
+* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+* **Ventajas:** Impávido, xxx
+* **Desventajas:** Fanático (SS), Deseo de muerte, xxx
+* **Equipo:** xxx
+
+## Realidad o leyenda
+Si una de las prioridades de IM es esconder los dinosaurios porque los convierten en el centro de una operación de distracción. No tiene sentido, como en misiones anteriores algo no cuadra. ¿Puede ser que IM esconda algo?
+
+Por otro lado, si hay algo que puede volver loco a Hitler y sus generales es poder hacer desfiles de la victoria montados en dinosaurios. Eso solo lo mejora hacerlo montados en dragones. Podríamos pensar que Hitler cambiaría toda el agua pesada de Noruega por un dragón y de hecho lo ha hecho al desviar tantas tropas a buscar a tus comandos y sus saurios.
+
+Si no se dan cuenta de estas y se empiezan a hacer preguntas sobre esta misión, puedes ponerles en su siguiente misión carteles de propaganda nazi con Hitler montando un dragón y conquistando el mundo. También puede ser que los vean en algún noticiario de los que ponen antes de las películas o en algún tabloide sensacionalista con algún titular como "¿Hitler tiene dragones?".
+
+
 
 ***
 
@@ -1473,10 +1550,10 @@ xxx
 
 xxx
 
-### Informe de misión
+## Informe de misión
 xxx
 
-### La pista
+## Espiados
 Una vez de vuelta al "Mary Anning" podrán revisar todo el papeleo que han conseguido. Encontrarán con facilidad, una serie de carpetas con los perfiles psicológicos/hoja de servicios/curriculum de tus comandos. No dicen nada que no venga en su ficha de personaje como ventajas y desventajas excepto cosas como Secreto.
 
 Es de ingenuos pensar que la IM no investigaría a los comandos antes de trabajar con ellos, pero desde luego lo que es preocupante es que está información haya caído en manos nazis. O lo que es peor (y ahí entra que juegues con su paranoia) que algún agente de la IM se haya vendido y haya filtrado esa información o que algún espía nazi haya tenido acceso a ella y haya conseguido pasarla a sus jefes.
@@ -1493,10 +1570,10 @@ xxx
 
 xxx
 
-### Informe de misión
+## Reportes desde el frente
 xxx
 
-### La pista
+## ¿Qué está pasando aquí?
 xxx
 
 ***
@@ -1523,7 +1600,7 @@ xxx
 
 xxx
 
-### Carrera al Mundo perdido
+## Carrera al Mundo perdido
 ```
 xxx
 ```
@@ -1532,7 +1609,7 @@ xxx
 
 \saltopagina
 
-### Misión de rescate
+## Misión de rescate
 ```
 Cuando el zepelín sobrevoló el Mundo Perdido descubrió el campamento de la Fundación y mando un grupo de asalto que tomo fácilmente el control de las instalaciones. Lo primero de tus comandos debería ser liberar a los prisioneros.
 ```
@@ -1541,7 +1618,7 @@ xxx
 
 \saltopagina
 
-### Evitando un genocidio
+## Evitando un genocidio
 ```
 El general Liebenfels considera que los sakala de la meseta emponzoñan los ideales raciales nazis y se propone a exterminar a toda la tribu, si alguien no lo evita.
 ```
@@ -1550,7 +1627,7 @@ xxx
 
 \saltopagina
 
-### Batalla del Mundo Perdido
+## Batalla del Mundo Perdido
 ```
 xxx
 ```
@@ -2028,7 +2105,7 @@ xxx
 ### Desastre a los postres
 xxx
 
-### La pista
+### algo no tiene sentido
 La IM está forzando las cosas al máximo. La reina puede ser una de las personas del Reino Unido más espiada por los nazis y el IM sabe perfectamente que el propio Hitler verá fotos de esta cena con la reina y sus dinosaurios.
 
 Hasta ahora IM había sido sutil a la hora de dejar señales de la existencia de saurios prehistóricos, pero cada vez tienen que ser menos sutiles y más claros, si quieren que su plan llegue a buen puerto. 

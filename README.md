@@ -15,10 +15,11 @@
 
 # Por hacer de la versión 0.7
 * Parte 5: Normandía
-* Parte 4: Noruega
+* Parte 3: Río de la Plata
+
 
 # Por hacer de la versión 0.6
-* Parte 3: Río de la Plata
+* Parte 4: Noruega
 * Relatos salvajes
   * Un día en el museo
   * El pecio
