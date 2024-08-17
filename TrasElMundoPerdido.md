@@ -862,7 +862,7 @@ Se ha intentado montar armas de fuego pesadas encima de los dinosaurios, pero si
 Como en el caso del collar de entrenamiento, no deberían ser equipo que deberías permitir usar a tus comandos. Más bien serían las mejoras que un alto oficial de las SS pondría a su alosaurio de combate al que no se preocupa el bienestar de su compañero.
 
 ### Plaustro
-Este carro de madera con estructura metálica está adaptado a las diferentes fisonomías de iguanodones y estegosaurios y permite transportar gran cantidad de material por terrenos difíciles. Puede adaptarse al lugar y por ejemplo tener esquís para la nieve en vez de ruedas.
+Este carro de madera con estructura metálica está adaptado a las diferentes fisonomías de iguanodones y estegosaurios y permite transportar gran cantidad de material por terrenos difíciles. Puede adaptarse al lugar y por ejemplo tener esquís para la nieve en vez de ruedas y que el saurio tenga raquetas de nieve.
 
 > La capacidad de carga de un dinosaurio tirando de un plaustro se calcula como si su FUE fuera x4, siempre que la carga vaya en el carro y esté medianamente equilibrada y bien colocada.
 
@@ -1497,13 +1497,28 @@ Pueden tirar Conocimientos generales (para vestirse rollo Hollywood) o Humanidad
 #### Lanzallamas
 xxx
 
-## La tundra helada
+## Los otros heroes de Telemark
 xxx
 
-### Telemark
+Esta misión empezará en xxx, la principal ciudad de la zona de Telemark, donde el general von xxx tiene su residencia. Su misión, directamente es cargada por el furher, es proteger las fábricas de agua pesada de la región de posibles sabotajes y conseguir que la producción se mantenga al ritmo actual.
+Están establecidos en una granja abandonada a las afueras y tienen papeles de viaje como ingenieros alemanes. No deberían necesitarlos más que cuando contacten con Artnine, su contacto local en esta misión.
+
+### Contactando con Artnine
+
+Lo primero es contactar con Artnine que trabaja de criada para el general. Su misión es informarles de las actividades diarias de von Liebenfels para conseguir que se obsesione totalmente con los dragones y se olvide del agua pesada.
+
+Ella no tiene acceso a las reuniones secretas ni a documentos clasificados, pero puede ver que humor tiene el general, que grita a sus subalternos, etc. Ese tipo de cosas que con unas tiradas de xxx les dirán si están haciendo bien o mal su trabajo.
+
 xxx
 
-## Hablando con la resistencia
+Pueden visitarla cada cierto tiempo en su casa o montar algún tipo de sistema de mensajes que no la comprometa. Tipo colgar en su casa ropa de un color u otro o dejar, algunas marcas en algún sitio de camino de casa del general a su casa.
+
+xxx
+
+Si en algún momento le preguntan por qué trabaja de informante para el IM, les contará su historia (ver su ficha de PNJ). Debería quedar claro que la IM se está aprovechando de una viuda a la que si los nazis descubren matarán. También deberían tener bastante claro que el IM seguramente se desentenderá de ella cuando la operación Gunnerside termine.
+
+Tus comandos, si son medianamente decentes, deberían meter en sus planes cómo sacar a Artnine y su hija embarazada de Noruega.
+
 xxx
 
 ## Planeando las distracciones
@@ -1565,7 +1580,7 @@ xxx
 
 ## El sitio de Stalingrado
 ```
-xxx
+Las tropas rusas y nazis llevan meses enfrentándose en las calles de Stalingrado sin que la victoria se decante a un lado u otro. IM quiere mandar a sus armas biológicas a sembrar el miedo y el caos en las filas nazis. 
 ```
 
 xxx
@@ -1655,6 +1670,16 @@ xxx
 ```
 Parece que los nazis no solo buscaban dinosaurios para su ejército, también buscaba los diamantes de la arcilla azul. Parece que van a crear una arma terrible con los diamantes sacados del Mundo Perdido que puede cambiar el curso de la guerra a su favor. 
 ```
+xxx
+
+## Dinosaurios capturados
+Los dinosaurios capturados en la isla de Skye y en la meseta han sido trasladados al castillo como parte de sus defensas. Sus jinetes los controlan por la fuerza mediante los collares de entrenamiento y los mandos de control, sin olvidar otros castigos e insuficiente alimentación.
+
+El maltrato recibido los hace muy agresivos y más primitivos con lo que han perdido parte de su inteligencia. Aquí vemos algunos cambios frente a las estadísticas normales de los saurios.
+
+* Un nivel de dado menos de Astucia y las habilidades basadas en Astucia como Notar.
+* Son más agresivos, pero no tan hábiles debido a las malas condiciones en las que viven, con lo que tienen -1 a todas las tiradas de ataque y +1 al daño.
+
 xxx
 
 \saltopagina
@@ -2386,8 +2411,14 @@ Jocelyn será un personaje importante en dos escenarios de esta campaña, la Fra
 
 \saltopagina
 
-### Jørgen Nygård, campesino noruego convertido en luchador de la resistencia &#x2638;
-xxx
+### Arntine Cornelia Marie Edvardsdatter Lyngstad, campesina noruega convertida en espía inglesa &#x2638;
+Arntine Lyngstad es una paria entre su gente, su hija Synni es una "tyskerhoren" (zorras de los alemanes), mujeres nórdicas que se juntaron con soldados alemanes dentro de programas de mejora de la raza aria. Cuando su yerno desapareció en combate en el mar del Norte, su hija embarazada de una niña y ella perdieron el apoyo del gobierno nazi y también fueron repudiadas por sus compatriotas.
+
+Esta situación fue aprovechada por IM para convertir a Arntine en uno de sus colaboradores a cambio de una paga y la promesa de poder ir a vivir en Inglaterra después de la guerra.
+
+Siguiendo órdenes de los ingleses, Arntine se movió por todo el país trabajando siempre para los alemanes en trabajos de bajo nivel como criada, costurera, etc. Esto le permitía entrar en cualquier sitio y ser casi invisible al ser considerada inferior por sus empleadores alemanes.
+
+Ahora mismo está viviendo en la zona de Telemark y al ser el agente inglés de menor valía se le ha puesto a trabajar con los comandos de la fundación Roxton, ya que su perdida no supone ninguna perdida importante.
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Notar d4, Persuadir d4, Sigilo d4
@@ -3065,6 +3096,10 @@ Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage
 [![Mil y Un Ghūles](./assests/images/1001ghules.jpg 'Aventuras de horror cósmico en los cuentos de las Mil y Una Noches')](https://1001ghules.gwannon.com/pdf/ 'Aventuras de horror cósmico en los cuentos de las Mil y Una Noches')
 
 **[Mil y Un Ghūles: Aventuras de horror cósmico en los cuentos de las Mil y Una Noches](https://1001ghules.gwannon.com/pdf/)** 
+
+\saltopagina
+
+&nbsp;
 
 ***
 
