@@ -641,7 +641,7 @@ section:first-of-type h3 {
 /* Contraportada */
 section:last-of-type {
   max-height: 3507px;
-  background: black url(../images/portada.jpg) center center no-repeat;
+  background: black url(../images/contraportada.jpg) center center no-repeat;
   background-size: cover;
   height: calc(100vh - 61px);
   display: flex;
