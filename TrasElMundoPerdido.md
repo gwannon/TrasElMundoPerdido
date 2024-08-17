@@ -1460,31 +1460,46 @@ La fascinación de los nazis por los mitos nórdicos es de sobra conocida, así 
 Como siempre la misión empezará con una visita del teniente Horace Chambers y como siempre ha traído té y una gran cantidad dulces, una inusual cantidad de croissants y parecen franceses e inusualmente frescos. Ha debido estar en Francia hace poco.
 
 ## Lo que IM puede contarte
-xxx
+Horace no puede dar muchos detalles de la operación Gunnerside, solo dirá que otros agentes en Noruega necesitan una distracción y tus comandos serán los encargados de generar la distracción. Cuantas más unidades nazis consigan atraer sobre ellos más facil será el trabajo del otro equipo.
+
+### El general Theodor von Liebenfels
+El general Theodor von Liebenfels es el militar de más alto rango de la zona y se encarga de apaciguar y controlar la zona. En realidad, su misión, directamente encargada por el Führer, es proteger las fábricas de agua pesada de la región de posibles sabotajes y conseguir que la producción se mantenga al ritmo actual. 
 
 \saltopagina
+
+Horace les pasará un perfil psicológico del general. En él podrán ver qué es típico general nazi, cruel, sádico y megalomaníaco. No tiene problemas en mandar soldados a una muerte segura si eso le consigue sus objetivos. Sus ayudantes y, en general, la gente de su alrededor no dura mucho. El mínimo fallo y manda fusilar o algún destino peor que la muerte.
+
+El punto débil que IM quiere explotar es su obsesión por el ocultismo y la mitología nórdica y crear algo tan atractivo que se olvide de su misión principal.
 
 ### Dragones nórdicos
 
 [![Detalle de escudo con dragón](./assests/images/dragon.jpg 'Coats of arms from Bavaria')](https://es.wikipedia.org/wiki/Archivo:Lindwurm.jpg 'Coats of arms from Bavaria')
 
-Horace empezará a poner una serie de diapositivas de dibujos medievales de dragones y a hablar de los dragones en la mitología nórdica. Es tremendamente aburrido aun hablando de dragones. Si algún comando falla una tirada de Espíritu se quedará dormido y si no les despiertan no podrá tomar parte en las decisiones. Se siente es lo que pasa cuando te duermes en clase.
+Por todo esto han pensado en **revivir los mitos nórdicos de los dragones** y convencerle de que existen. Piensan que von Liebenfels se obsesionará con conseguir dragones para su Führer (y también para él), seguramente esto le reservará un lugar en el Valhalla que está convencido que existe.
 
-xxx
+Horace empezará a poner una serie de diapositivas de dibujos medievales de dragones y a hablar de los dragones en la mitología nórdica. Tiene un doctorado en historia medieval y este es su momento de lucirse. 
 
-Los nórdicos no tenían una concepción del dragón como un ser alado, sino como un reptil/serpiente de gran tamaño y fuerza.
+Es tremendamente aburrido aun hablando de dragones. Si algún comando falla una tirada de Espíritu se quedará dormido y si no le despiertan no podrá tomar parte en las decisiones. Se siente es lo que pasa cuando te duermes en clase.
 
-* **Níðhöggr:** xxx
-* **Fafnir:** xxx
-* **Jörmundgander:** xxx
+Según Horace, los nórdicos no tenían una concepción del dragón como un ser alado, sino como un reptil/serpiente de gran tamaño y fuerza. Les hablará de 3 ejemplos:
 
-### Equipo especial
-xxx
+* **Níðhöggr:** Este gran reptil devora las raíces del árbol mundo Yggdrasil y después del Ragnarok atormentará las almas de humanos.
+* **Fafnir:** Un ejemplo clásico de dragón. Un avaricioso enano que se convirtió en un dragón para custodiar su tesoro de oro y joyas.
+* **Jörmundgander:** Un dragón serpiente que Thor lanzo al mar y creció hasta poder dar una vuelta al mundo.
 
-#### Disfraces para saurios
-xxx
+Según sus estudios, los teropodos, los saurios que van a dos patas, serían dragones perfectos. Así pues, deberían llevar alosaurios, megalosaurios e iguanodontes jóvenes que se mueven a dos patas en vez de a cuatro.
+
+Como ya sabes de otras aventuras el soporte aéreo de los pteranodones siempre es de gran ayuda.
 
 \saltopagina
+
+### Equipo especial
+Horace tiene claro que esta misión va a necesitar equipo muy especial, tan especial como la propia misión. Horace aboga por pintura de camuflaje negro y diferentes cuernos postizos, pero está abierto a sugerencias. Tal vez tus comandos quieran algo más demoníaco con pintura roja y cuernos rojos. También podrían plantearlos más fantásticos con diseños tribales o con símbolos rúnicos pintados en sus escamas.
+
+Recuerda que IM tiene un prototipo de material reflectante (relato salvaje "El prototipo") que puede quedar increíble de noche.
+
+#### Disfraces para saurios
+Los disfraces para saurios es algo que IM y la fundación ya tenía desarrollado antes de esta misión, así que simplemente hay que ir al granero donde lo guardan y buscar lo más apropiado. 
 
 [![Primer plano de Thor](./assests/images/thor.jpg 'Donner calls upon the storm clouds. Illustration to Richard Wagner`s Das Rheingold. - Arthur Rackham')](https://es.m.wikipedia.org/wiki/Archivo:Ring16.jpg 'Donner calls upon the storm clouds. Illustration to Richard Wagner`s Das Rheingold. - Arthur Rackham')
 
@@ -1494,18 +1509,25 @@ La IM piensa que quizás los jinetes pueden ir disfrazados de dioses nórdicos a
 
 Pueden tirar Conocimientos generales (para vestirse rollo Hollywood) o Humanidades (para vestirse más académicamente correcto). Si consiguen dos avances obtendrán un +2 siempre que tengan que convencer a alguien de que son dioses vikingos (ver más adelante).
 
+Si han participado en el relato salvaje "Titanes de tiempos pretéritos" pueden aplicar lo que aprendieron en esa aventura a la hora de hacerse pasar por dioses nórdicos.
+
 #### Lanzallamas
+Weyland ha preparado unos lanzallamas de efectos especiales que simulan llamaradas de dragón (truquitos de "Titanes de tiempos pretéritos"). Cada dispositivo tiene 3 cargas. El fuego no se puede usar de arma, es puro efecto visual, pero puede incendiar algo inflamable. No tiene olor a combustible que los delate y crea una llamarada roja muy aparente. 
+
+\saltopagina
+
+Se activa tirando de un cordel que se pasa por las riendas. Si se usa cuando el saurio intenta intimidar a sus enemigos da un +2 a la tirada.
+
+## Las otras heroínas de Telemark
 xxx
 
-## Los otros heroes de Telemark
-xxx
+Esta misión empezará en Skien, la principal ciudad de la zona de Telemark, donde el general von Liebenfels tiene su residencia. 
 
-Esta misión empezará en xxx, la principal ciudad de la zona de Telemark, donde el general von xxx tiene su residencia. Su misión, directamente es cargada por el furher, es proteger las fábricas de agua pesada de la región de posibles sabotajes y conseguir que la producción se mantenga al ritmo actual.
-Están establecidos en una granja abandonada a las afueras y tienen papeles de viaje como ingenieros alemanes. No deberían necesitarlos más que cuando contacten con Artnine, su contacto local en esta misión.
+Están establecidos en una granja abandonada a las afueras y tienen papeles de viaje como ingenieros alemanes. No deberían necesitarlos más que cuando contacten con Arntine, su contacto local en esta misión.
 
-### Contactando con Artnine
+### Contactando con Arntine
 
-Lo primero es contactar con Artnine que trabaja de criada para el general. Su misión es informarles de las actividades diarias de von Liebenfels para conseguir que se obsesione totalmente con los dragones y se olvide del agua pesada.
+Lo primero es contactar con Arntine que trabaja de criada para el general. Su misión es informarles de las actividades diarias de von Liebenfels para conseguir que se obsesione totalmente con los dragones y se olvide del agua pesada.
 
 Ella no tiene acceso a las reuniones secretas ni a documentos clasificados, pero puede ver que humor tiene el general, que grita a sus subalternos, etc. Ese tipo de cosas que con unas tiradas de xxx les dirán si están haciendo bien o mal su trabajo.
 
@@ -1517,7 +1539,7 @@ xxx
 
 Si en algún momento le preguntan por qué trabaja de informante para el IM, les contará su historia (ver su ficha de PNJ). Debería quedar claro que la IM se está aprovechando de una viuda a la que si los nazis descubren matarán. También deberían tener bastante claro que el IM seguramente se desentenderá de ella cuando la operación Gunnerside termine.
 
-Tus comandos, si son medianamente decentes, deberían meter en sus planes cómo sacar a Artnine y su hija embarazada de Noruega.
+Tus comandos, si son medianamente decentes, deberían meter en sus planes cómo sacar a Arntine y su hija embarazada de Noruega.
 
 xxx
 
@@ -1544,14 +1566,14 @@ xxx
 * **Desventajas:** Fanático (SS), Deseo de muerte, xxx
 * **Equipo:** xxx
 
+\saltopagina
+
 ## Realidad o leyenda
 Si una de las prioridades de IM es esconder los dinosaurios porque los convierten en el centro de una operación de distracción. No tiene sentido, como en misiones anteriores algo no cuadra. ¿Puede ser que IM esconda algo?
 
-Por otro lado, si hay algo que puede volver loco a Hitler y sus generales es poder hacer desfiles de la victoria montados en dinosaurios. Eso solo lo mejora hacerlo montados en dragones. Podríamos pensar que Hitler cambiaría toda el agua pesada de Noruega por un dragón y de hecho lo ha hecho al desviar tantas tropas a buscar a tus comandos y sus saurios.
+Por otro lado, si hay algo que puede volver loco a Hitler y sus generales es poder hacer desfiles de la victoria montados en dinosaurios. Eso solo lo mejora hacerlo montados en dragones. Podríamos pensar que Hitler cambiaría toda el agua pesada de Noruega por un dragón y de hecho eso es lo que piensa von Liebenfels al desviar tantas tropas a buscar a tus comandos y sus saurios.
 
-Si no se dan cuenta de estas y se empiezan a hacer preguntas sobre esta misión, puedes ponerles en su siguiente misión carteles de propaganda nazi con Hitler montando un dragón y conquistando el mundo. También puede ser que los vean en algún noticiario de los que ponen antes de las películas o en algún tabloide sensacionalista con algún titular como "¿Hitler tiene dragones?".
-
-
+Si no se dan cuenta de todos estos fallos en la misión y no se empiezan a hacer preguntas, puedes ponerles en su siguiente misión carteles de propaganda nazi con Hitler montando un dragón y conquistando el mundo. También puede ser que los vean en algún noticiario de los que ponen antes de las películas o en algún tabloide sensacionalista con algún titular como "¿Hitler tiene dragones?". Esto debería empezar a encauzarlos a pensar que igual IM quiere que Hitler descubra los saurios.
 
 ***
 
@@ -2126,11 +2148,10 @@ xxx
 ### La cena
 xxx
 
-
 ### Desastre a los postres
 xxx
 
-### algo no tiene sentido
+### Algo no tiene sentido
 La IM está forzando las cosas al máximo. La reina puede ser una de las personas del Reino Unido más espiada por los nazis y el IM sabe perfectamente que el propio Hitler verá fotos de esta cena con la reina y sus dinosaurios.
 
 Hasta ahora IM había sido sutil a la hora de dejar señales de la existencia de saurios prehistóricos, pero cada vez tienen que ser menos sutiles y más claros, si quieren que su plan llegue a buen puerto. 
@@ -2208,13 +2229,14 @@ Salvo casos muy claros, será necesario una tirada de Humanidades para reconocer
 Aquí tienes algunas ideas.
 
 * Jocelyn Dubios ha escondido varias esculturas romanas en un almacén de Tobruk. Si no los saca de la ciudad, seguramente serán destruidas en los combates o robadas por los nazis. Si no los sacan, deberían por lo menos sacarlos de la ciudad y enterrarlos en el desierto para que Jocelyn los rescate cuando acabe la guerra.
-* xxx
+* El general von Liebenfels se presentará con varias piezas del museo de historia de Skien que pertenecieron a varios reyes vikingos. Estamos hablando de un caso, hombreras, cinturón y un martillo de guerra. Podrían recuperarlo y ponerlo a salvo en el British Museum hasta que termine la guerra (véase la ironía).  
 * El general von Liebenfels tiene 4 pequeños Rembrandts requisados a una familia judía de Ámsterdam en su lujoso camarote de su zepelín.
 * El doctor Eckart tiene una pequeña pinacoteca de 10 cuadros en el comedor principal del castillo de Hohenzollern. La cúpula nazi suele granjearse su amistad regalándole obras de impresionistas francesas.
-
-La idea de este relato es añadir una dificultad extra a las aventuras si crees que pudieran resultar muy fáciles. Piensa que escapar de un sitio como Tobruk con una estatua griega de mármol se complica bastante.
+* xxx
 
 \saltopagina
+
+La idea de este relato es añadir una dificultad extra a las aventuras si crees que pudieran resultar muy fáciles. Piensa que escapar de un sitio como Tobruk con una estatua griega de mármol se complica bastante.
 
 ### La recompensa
 A priori no hay recompensa por rescatar todos esos cuadros y estatuas, pero puedes darles contactos en el mundillo del arte. 
@@ -2428,6 +2450,8 @@ Ahora mismo está viviendo en la zona de Telemark y al ser el agente inglés de 
 * **Equipo:** xxx
 
 **Sugerencia de interpretación:** xxx
+
+> La niña que Synni lleva es su vientre es Frida, la cantante morena de grupo ABBA. Gracias a tus comandos todos podemos cantar "Mamma Mia" o "Waterloo".
 
 \saltopagina
 
