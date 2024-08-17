@@ -1360,10 +1360,10 @@ Independientemente del medio de transporte que tendrán una emboscada de un grup
 Estamos hablando de asesinos entrenados y dispuestos a cumplir las órdenes que les den sus líderes nazis. Estamos hablando de personas sin escrúpulos y fanáticas del Tercer Reich que no les importa a quién deben matar.
 
 * **Atributos:** Agilidad d10, Astucia d6, Espíritu d6, Fuerza d10, Vigor d12
-* **Habilidades:** Atletismo d10, Cabalgar d10, Conducir d10, Disparar d10, Idioma nativo d6, Idioma inglés d6, Pelear d12, Sigilo d10, Tácticas d10
 
 \saltopagina
 
+* **Habilidades:** Atletismo d10, Cabalgar d10, Conducir d10, Disparar d10, Idioma nativo d6, Idioma inglés d6, Pelear d12, Sigilo d10, Tácticas d10
 * **Paso:** 6; **Parada:** 9(1); **Dureza:** 9(1)
 * **Ventajas:** Acróbata, Ambidextro, Ataque repentino, Con un par, Bloqueo, Soldado, Sin piedad
 * **Desventajas:** Secreto (asesina profesional), Fanático (SS), Deseo de muerte
