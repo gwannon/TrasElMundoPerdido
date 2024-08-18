@@ -67,6 +67,8 @@ blockquote {
   border-radius: 10px;
   padding-top: var(--padding);
   padding-bottom: var(--padding);
+  position: relative;
+  clip-path: polygon(0% 0%, 100% 0%, 100% calc(100% - 30px), calc(100% - 60px) 100%, 0% 100%);
 }
 
 blockquote:nth-of-type(even) {
@@ -94,6 +96,19 @@ blockquote:nth-of-type(odd) > p {
   rotate: -1deg;
 }
 
+blockquote:before {
+  content: "";
+  position: absolute;
+  right: -11px;
+  bottom: -26px;
+  width: 60px;
+  height: 60px;
+  background-color: #e7e7e7;
+  border-top-left-radius: 10px;
+  box-shadow: 0px 4px 6px 1px #0000009e;
+  rotate: 32deg;
+}
+
 pre {
   white-space: pre-wrap;
 }
@@ -108,6 +123,22 @@ pre code {
   padding: calc(var(--padding) / 2);
   rotate: -1deg;
   margin-bottom: 30px;
+  position: relative;
+  clip-path: polygon(0% 0%, calc(100% - 30px) 0%, 100% 60px, 100% 100%, 0% 100%);
+  overflow: hidden;
+}
+
+pre code:before {
+  content: "";
+  position: absolute;
+  right: -29px;
+  top: -18px;
+  width: 60px;
+  height: 60px;
+  background-color: #e7e7e7;
+  border-bottom-right-radius: 10px;
+  box-shadow: 3px -3px 6px 1px #0000009e;
+  rotate: 132deg;
 }
 
 pre:nth-of-type(odd) code {
@@ -245,6 +276,7 @@ section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type)
 section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Plano]):before,
 section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Imagen]):before,
 section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Retrato]):before,
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Detalle]):before,
 section:not(section:first-of-type, section:last-of-type) h1:before {
   content: "";
   display: block;
