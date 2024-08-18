@@ -1311,7 +1311,7 @@ Una vez hayan escapado de sus perseguidores o los hayan derrotado, deberán busc
 Si son alcanzados en cualquiera de las dos persecuciones deberán enfrentarse a los dos grupos de soldados.
 
 ## Salir de Tobruk
-La salida de Tobruk debería ser tan fácil como la entrada, pero con el encuentro anterior los espías nazis están sobre aviso y vigilan toda la ciudad y la PM empezará a investigar los disturbios.
+La salida de Tobruk debería ser tan fácil como la entrada, pero con el encuentro anterior los espías nazis están sobre aviso y vigilan toda la ciudad y la Policía Militar empezará a investigar los disturbios.
 
 Una vez más tranquilos Jocelyn sacará su petaca y tras dar un buen lingotazo la pasará al resto. Tienen que mirar que van a hacer. La salida debería ser como la entrada, saliendo por el puerto sujetos a los plesiosaurios. Pero antes deberán hacer las presentaciones y Jocelyn debe conocer a su vía de escape, a no ser que ya se conozcan de Francia.
 
@@ -1460,7 +1460,7 @@ La fascinación de los nazis por los mitos nórdicos es de sobra conocida, así 
 Como siempre la misión empezará con una visita del teniente Horace Chambers y como siempre ha traído té y una gran cantidad dulces, una inusual cantidad de croissants y parecen franceses e inusualmente frescos. Ha debido estar en Francia hace poco.
 
 ## Lo que IM puede contarte
-Horace no puede dar muchos detalles de la operación Gunnerside, solo dirá que otros agentes en Noruega necesitan una distracción y tus comandos serán los encargados de generar la distracción. Cuantas más unidades nazis consigan atraer sobre ellos más facil será el trabajo del otro equipo.
+Horace no puede dar muchos detalles de la operación Gunnerside, solo dirá que otros agentes en Noruega necesitan una distracción y tus comandos serán los encargados de generar la distracción. Cuantas más unidades nazis consigan atraer sobre ellos más fácil será el trabajo del otro equipo.
 
 ### El general Theodor von Liebenfels
 El general Theodor von Liebenfels es el militar de más alto rango de la zona y se encarga de apaciguar y controlar la zona. En realidad, su misión, directamente encargada por el Führer, es proteger las fábricas de agua pesada de la región de posibles sabotajes y conseguir que la producción se mantenga al ritmo actual. 
@@ -1487,7 +1487,7 @@ Según Horace, los nórdicos no tenían una concepción del dragón como un ser 
 * **Fafnir:** Un ejemplo clásico de dragón. Un avaricioso enano que se convirtió en un dragón para custodiar su tesoro de oro y joyas.
 * **Jörmundgander:** Un dragón serpiente que Thor lanzo al mar y creció hasta poder dar una vuelta al mundo.
 
-Según sus estudios, los teropodos, los saurios que van a dos patas, serían dragones perfectos. Así pues, deberían llevar alosaurios, megalosaurios e iguanodontes jóvenes que se mueven a dos patas en vez de a cuatro.
+Según sus estudios, los terópodos, los saurios que van a dos patas, serían dragones perfectos. Así pues, deberían llevar alosaurios, megalosaurios e iguanodontes jóvenes que se mueven a dos patas en vez de a cuatro.
 
 Como ya sabes de otras aventuras el soporte aéreo de los pteranodones siempre es de gran ayuda.
 
@@ -1555,7 +1555,7 @@ xxx
 xxx
 
 #### Drachenjäger (Cazadragones)
-El general von Liebenfels ha montado una escuadra especial de soldados pensando en los rumores y medias verdades que ha oído las últimas semanas de lois supervivientes de los ataques de _dragones_. Ha reclutado de entre sus tropas a una panda de psicópatas fanáticos que no tienen miedo a nada.
+El general von Liebenfels ha montado una escuadra especial de soldados pensando en los rumores y medias verdades que ha oído las últimas semanas de los supervivientes de los ataques de _dragones_. Ha reclutado de entre sus tropas a una panda de psicópatas fanáticos que no tienen miedo a nada.
 
 xxx
 
@@ -2098,7 +2098,7 @@ Si se falla, no se consigue desactivar y tendrán que gastar otros 4 minutos y t
 
 Al de dos horas, deberán de dejar de trabajar e irse o serán detectados por la patrullera. Puedes pedirles tiradas de sigilo a comandos y saurios para acabar alguna desactivación pasadas las 2 horas.
 
-Solo tienen una oportunidad de desactivar las bombas, luego será imposible entre el cansancio de la ronda anterior, los cambios en las mareas, mal tiemppo, etc.
+Solo tienen una oportunidad de desactivar las bombas, luego será imposible entre el cansancio de la ronda anterior, los cambios en las mareas, mal tiempo, etc.
 
 ### Contactando con la resistencia local
 Mientras un equipo desactiva bombas el otro debería desembarcar en alguna playa cercana y tratar de evitar a los nazis y los colaboracionistas y encontrar a la resistencia local. Deberán usar sus habilidades de Investigar, Notar y Persuadir para hacer contacto. 
