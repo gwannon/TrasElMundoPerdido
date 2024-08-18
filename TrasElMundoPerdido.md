@@ -3104,6 +3104,7 @@ No soy propietario de ninguna de las imágenes de este documento. Estoy usando i
 * [Fondo de las páginas interiores](https://pixabay.com/es/illustrations/papertexture-textura-papel-2061710/)
 * [Sello Top Secret](https://pixabay.com/es/illustrations/ultra-secreto-confidencial-2054429/)
 * [Siluetas de dinosaurios](https://www.cleanpng.com/free/dinosaur-silhouette.html)
+* [Clip](https://commons.wikimedia.org/wiki/File:Paper-clip-308487_960_720.png)
 * [Celo](https://www.freepik.com/free-vector/plastic-adhesive-duct-tape-set-with-transparent-background-realistic-images-with-pieces-sealing-tape-vector-illustration_132327926.htm)
 
 \saltopagina
