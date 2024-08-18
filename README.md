@@ -40,6 +40,7 @@
 # Version 0.6 En desarrollo
 * Terminada la parte de "Operación Gunnerside" de "Parte 4: Noruega"
 * Terminada la parte de "Lo que IM puede contarte" de "Parte 4: Noruega"
+* Terminada la parte de "Las otras heroínas de Telemark" de "Parte 4: Noruega"
 
 # Versión 0.5.2 16/08/2024
 * Terminada ambientación "La expedición Roxton"

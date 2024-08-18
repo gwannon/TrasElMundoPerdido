@@ -1519,34 +1519,30 @@ Weyland ha preparado unos lanzallamas de efectos especiales que simulan llamarad
 Se activa tirando de un cordel que se pasa por las riendas. Si se usa cuando el saurio intenta intimidar a sus enemigos da un +2 a la tirada.
 
 ## Las otras heroínas de Telemark
-xxx
+Esta misión empezará directamente en Skien, la principal ciudad de la zona de Telemark, donde el general von Liebenfels tiene su residencia. El "Mary Anning" dejo a los comandos en la costa de evitando la marina nazi y tus comandos se movieron por la desierta tundra noruega hasta llegar a Skien.
 
-Esta misión empezará en Skien, la principal ciudad de la zona de Telemark, donde el general von Liebenfels tiene su residencia. 
+Puedes montar, si quieres, algún encuentro en el viaje por las tierras heladas de Noruega. Tal vez alguna patrulla nazi buscando a algún rebelde escapado o un grupo de lapones con sus rebaños de renos y tengan que comprar alguno para los saurios carnívoros.
 
 Están establecidos en una granja abandonada a las afueras y tienen papeles de viaje como ingenieros alemanes. No deberían necesitarlos más que cuando contacten con Arntine, su contacto local en esta misión.
 
 ### Contactando con Arntine
 
-Lo primero es contactar con Arntine que trabaja de criada para el general. Su misión es informarles de las actividades diarias de von Liebenfels para conseguir que se obsesione totalmente con los dragones y se olvide del agua pesada.
+Lo primero es contactar con Arntine, la colaboradora local, que trabaja de criada para el general. Su misión es informarles de las actividades diarias de von Liebenfels para conseguir que se obsesione totalmente con los dragones y se olvide del agua pesada.
 
-Ella no tiene acceso a las reuniones secretas ni a documentos clasificados, pero puede ver que humor tiene el general, que grita a sus subalternos, etc. Ese tipo de cosas que con unas tiradas de xxx les dirán si están haciendo bien o mal su trabajo.
+Cuando la visiten en su humilde casa les ofrecerá comida y bebida a pesar de que su economía no es muy boyante. Allí conocerán a su hija Sunny que está embarazada.
 
-xxx
+Ella no tiene acceso a las reuniones secretas ni a documentos clasificados, pero puede ver que humor tiene el general, que grita a sus subalternos, que no para de leer libros viejos, revisa fotos, casi ni come, etc. Ese tipo de cosas que con unas tiradas de Astucia les dirán si están haciendo bien o mal su trabajo.
 
 Pueden visitarla cada cierto tiempo en su casa o montar algún tipo de sistema de mensajes que no la comprometa. Tipo colgar en su casa ropa de un color u otro o dejar, algunas marcas en algún sitio de camino de casa del general a su casa.
 
-xxx
-
 Si en algún momento le preguntan por qué trabaja de informante para el IM, les contará su historia (ver su ficha de PNJ). Debería quedar claro que la IM se está aprovechando de una viuda a la que si los nazis descubren matarán. También deberían tener bastante claro que el IM seguramente se desentenderá de ella cuando la operación Gunnerside termine.
 
-Tus comandos, si son medianamente decentes, deberían meter en sus planes cómo sacar a Arntine y su hija embarazada de Noruega.
+Tus comandos, si son medianamente decentes, deberían meter en sus planes cómo sacar a Arntine y su hija embarazada de Noruega y deberían de tratar de protegerlas y no poner su seguridad en peligro. Sé generoso con los benis si se meten en problemas por ayudarlas.
 
-xxx
+\saltopagina
 
 ## Planeando las distracciones
 xxx
-
-\saltopagina
 
 ## ¡¡¡¡Dragones!!!!
 xxx
@@ -1554,19 +1550,24 @@ xxx
 ### La caza de los dragones
 xxx
 
+[![Detalle de espadas vikingas](./assests/images/espadas.jpg 'Viking swords at Bergen Museum - Arild Nybø from Førde, Norway')](https://es.m.wikipedia.org/wiki/Archivo:Viking_swords_at_Bergen_Museum.jpg 'Viking swords at Bergen Museum - Arild Nybø from Førde, Norway')
+
 #### Drachenjäger (Cazadragones)
 El general von Liebenfels ha montado una escuadra especial de soldados pensando en los rumores y medias verdades que ha oído las últimas semanas de los supervivientes de los ataques de _dragones_. Ha reclutado de entre sus tropas a una panda de psicópatas fanáticos que no tienen miedo a nada.
 
-xxx
+Von Liebenfels está convencido que las armas modernas no pueden hacer daño a los dragones así que ha saqueado las armas y armaduras de los museos de historia de la zona y ha equipado a su escuadrón de drachenjägers con espada, escudos y armaduras antiguas. 
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+El propio von Liebenfels ha realizado algún tipo de ritual de magia o plegaria a los aesires (dioses nórdicos) para que las armas puedan herir a los dragones. También ha bendecido unas redes metálicas (consistencia 12) para poder atraparlos. Naturalmente, todo esto no funciona, pero los cazadragones son tan fanáticos y están tan locos que en parte se lo creen.
+
+* **Atributos:** Agilidad d8, Astucia d4, Espíritu d4, Fuerza d10, Vigor d10
 * **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Alemán d4, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
-* **Ventajas:** Impávido, xxx
-* **Desventajas:** Fanático (SS), Deseo de muerte, xxx
-* **Equipo:** xxx
+* **Paso:** 6; **Parada:** xxx; **Dureza:** 10(3)
+* **Ventajas:** Impávido, Sin piedad, xxx
 
 \saltopagina
+
+* **Desventajas:** Fanático (SS), Deseo de muerte, xxx
+* **Equipo:** Espada vikinga (FUE+d8), Camisote de malla (+3 torso y brazos), casco abierto (+4 cabeza), escudo medieval mediano (parada +2, cobertura -2)
 
 ## Realidad o leyenda
 Si una de las prioridades de IM es esconder los dinosaurios porque los convierten en el centro de una operación de distracción. No tiene sentido, como en misiones anteriores algo no cuadra. ¿Puede ser que IM esconda algo?
