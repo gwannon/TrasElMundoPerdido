@@ -2270,21 +2270,23 @@ A priori no hay recompensa por rescatar todos esos cuadros y estatuas, pero pued
 
 También pueden quedarse algunas o todas las obras para su jubilación y hacer una tontina como los el abuelo Simpson y el señor Burns en el capítulo de los Peces Voladores.
 
-\saltopagina
-
 ## Noche de póker
 ```
 Weyland suele organizar noches de póker y esta vez ha invitado a tus comandos. Lo que no saben ninguno es que Lady Roxton se ha enterado y se va a autoinvitar.  
 ```
 
-xxx
+Wayland ha montado una timba de poker en su taller. Hay una mesa con sillas, cartas nuevas, fichas, picoteo escamoteado de la cocina y cerveza y ron jamaicano. Wayland es bastante malo como jugador, pero disfruta de la interacción humana, de la comida. de la bebida y de los habanos que guarda para estas ocasiones. Si Marina Flowers está en la isla también participará en la noche de póker.
 
-Si Marina Flowers está en la isla también participará en la noche de póker.
+Cuando estén a punto de repartir las primeras cartas aparecerá Lady Roxton con ropa cómoda y material para hacer gin-tonics. Se disculpará por llegar tarde como si la hubieran invitado. Puede que al principio les intimide un poco, pero los gin-tonics lubricarán las asperezas y acabarán todos cantando, gritando, contando chistes y jugando al poker.
+
+Lady Roxton meterá una nueva regla a la partida para darle aliciente a la partida, el que pierda todas sus fichas deberá contar una historia vergonzosa de su vida.
 
 ### Jugando a póker
 La noche de póker tendrá tantas rondas como participantes menos uno y en cada ronda un participante será eliminado hasta que solo haya un ganador o una ganadora.
 
 Reparte una carta bocabajo y otra boca arriba a cada tahúr, esa será su mano. Usa la tabla para saber su mano.
+
+\saltopagina
 
 |Cartas|Mano|
 |------|----|
@@ -2296,6 +2298,16 @@ Reparte una carta bocabajo y otra boca arriba a cada tahúr, esa será su mano. 
 El resto de manos no tienen valor. El Joker vale por cualquier carta que se desee, pero solo da positivos u otros efectos si está boca arriba.
 
 xxx
+
+### Historias vergonzosas
+
+> El perdedor de cada ronda de poker deberá contar una anécdota graciosa de su comando y como DJ deberías darles al final de la sesión a cada comando algún beneficio muy especifico relacionado con su historia. Puede ser un +2 al participar en concursos de comida, un +2 a identificar razas de ganado, etc.
+
+La historia de Lady Roxton es que escribió un fanfic en que Hercules Poirot viaja en el tiempo para detener a Jack el Destripador. Se lo envió a Agatha Christie y esta le pidió que no volviese a intentar escribir. Si se lo piden, puede enseñar la carta firmada por la propia Agatha. 
+
+La historia de Marina es que uno de los primeros trabajos fue de mono en una película de Tarzan y se enrolló con otro mono sin quitarse los disfraces y sin hablar solo haciendo sonidos de monos. Nunca ha sabido con quién se lio.
+
+Wayland contará por mímica que su primera borrachera fue con vino misal robado del misionero que le acogió. Cree recordar que meó en la pila bautismal, pero esa parte esta nublosa en su memoria.
 
 \saltopagina
 
