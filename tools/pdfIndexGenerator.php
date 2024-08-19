@@ -20,6 +20,22 @@ echo "BookmarkTitle: Portada\n";
 echo "BookmarkLevel: 1\n";
 echo "BookmarkPageNumber: {$counter}\n";
 $json[] = ["title" => "Portada","page" => $counter];
+
+$counter = 3;
+echo "BookmarkBegin\n";
+echo "BookmarkTitle: Licencia de uso\n";
+echo "BookmarkLevel: 1\n";
+echo "BookmarkPageNumber: {$counter}\n";
+$json[] = ["title" => "Licencia de uso","page" => $counter];
+
+$counter = 4;
+echo "BookmarkBegin\n";
+echo "BookmarkTitle: Índice\n";
+echo "BookmarkLevel: 1\n";
+echo "BookmarkPageNumber: {$counter}\n";
+$json[] = ["title" => "Índice","page" => $counter];
+
+$counter = 1;
 foreach($lines as $line) {
   if(preg_match("/(<h1>)/", $line)) {
     $line = strip_tags($line);
@@ -28,21 +44,21 @@ foreach($lines as $line) {
     echo "BookmarkLevel: 1\n";
     echo "BookmarkPageNumber: {$counter}\n";
     $json[] = ["title" => $line,"page" => $counter];
-  } else if(preg_match("/<h2/", $line)) {
+  } else if(preg_match("/(<h2>)/", $line)) {
     $line = strip_tags($line);
     echo "BookmarkBegin\n";
     echo "BookmarkTitle: {$line}\n";
     echo "BookmarkLevel: 2\n";
     echo "BookmarkPageNumber: {$counter}\n";
     $json[] = ["title" => $line,"page" => $counter];
-  } else if(preg_match("/<h3/", $line)) {
+  } else if(preg_match("/(<h3>)/", $line)) {
     $line = strip_tags($line);
     echo "BookmarkBegin\n";
     echo "BookmarkTitle: {$line}\n";
     echo "BookmarkLevel: 3\n";
     echo "BookmarkPageNumber: {$counter}\n";
     $json[] = ["title" => $line,"page" => $counter];
-  } else if(preg_match("/<h4/", $line)) {
+  } else if(preg_match("/(<h4>)/", $line)) {
     $line = strip_tags($line);
     echo "BookmarkBegin\n";
     echo "BookmarkTitle: {$line}\n";

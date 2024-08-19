@@ -2124,18 +2124,21 @@ La Reina quiere agasajar a las heroínas y héroes de la fundación Roxton con u
 
 La reina Isabel quiere conocer a los comandos a sus asombrosos compañeros, así que van a preparar una cena en el Castillo de Balmoral en Escocia, residencia de verano de la realeza británica. 
 
-IM tiene preparado el transporte terrestre de los saurios. Son unas 6 horas en camión así que saldrán a medio día para llegar a Balmoral a la hora de cenar. La idea es que vayan los comandos y sus compañeros, pero de no ser posible (por ejemplo por estar heridos o ser acuáticos) pueden buscar sustitutos. Si Marina Flowers está en la isla será invitada junto a los comandos.
+IM tiene preparado el transporte terrestre de los saurios. Son unas 6 horas en camión así que saldrán a medio día para llegar a Balmoral a la hora de cenar. La idea es que vayan Lady Roxton como cabeza de la Fundación junto con los comandos y sus compañeros, pero de no ser posible (por ejemplo por estar heridos o ser acuáticos) pueden buscar sustitutos. 
+
+Si Marina Flowers está en la isla será invitada junto a los comandos. Y si te parece divertido meter otros personajes dentro de la comitiva pues perfecto. Esta aventura es un divertimento con tintes de comedia de enredos que no lleva a ninguna parte más que pasar una sesión divertida metiendo a tus comandos en algunas situaciones para las que no están preparados y de las que no saben salir. 
 
 ### Clases rápidas de protocolo
 Lady Roxton tiene 24 horas para enseñar un mínimo protocolo a tus comandos y su lema es que la letra con sangre entra. Aquí tienes algunas ideas para sus enseñanzas.
 
 * Puedes hacerles andar con un libro en la cabeza (tirada de Agilidad). Si fallan, reglazo de Lady Roxton.
 * Los cubiertos se usan de dentro afuera, pero podrían identificar el tenedor de caracoles o la pala de pescado (tirada de Conocimientos Generales). Si falla reglazo. Si comen con la boca abierta o sorben la sopa, reglazo.
+
+\saltopagina
+
 * Practicarán el besamanos a la reina (tirada de Conocimientos Generales) con Lady Roxton como la reina. Ya sabes qué pasa si fallan.
 
 Dales positivos si tienen ideas originales, pero que no se pasen que van a cenar con la reina. Si quieres hacerlo más divertido cada golpe de Lady Roxton quita un beni y si intentan esquivarlos te dará dos y perderás dos benis. 
-
-\saltopagina
 
 Los dos comandos que reciban más golpes de reglas les pondrá un capirote de zopencos y decidirá que no son aptos para cenar con la reina. Irán solo como cuidadores de los saurios. Sé generoso y dales algunos benis a los que van a la cena. 
 
@@ -2144,7 +2147,17 @@ Además Lady Roxton tratará de buscar ropa adecuada para los comandos menos afi
 También pueden aprovechar para acicalar a sus compañeros y de hecho Wayland ha hecho unas pajaritas de tela para los saurios. Hay que estar elegantes si vas a ver a la reina.
 
 ### La recepción
-xxx
+La recepción consistirá en un besamanos a la reina en la sala de recepciones del castillo. La reina parece entusiasma, posiblemente porque en un ambiente de noticias de guerra está cena es algo diferente. 
+
+Acto seguido pasarán al exterior a los jardines donde se ha instalado un cenador. Allí estarán con los saurios los comandos que no hayan pasado el corte con unos buzos azules cuidando de los saurios. La reina se quedará muy impresionada por los animales sobre todos los pteranodones y aguantará con bastante entereza cuando el alosaurio acerque sus terribles dientes y resople cerca de su cabeza.
+
+Algún comando avispado puede intentar montar algún ejercicio con los dinosaurios para que su majestad pueda ver de primera mano sus extraordinarias capacidades. Pueden montar y cabalgar con ellos, derribar algún árbol o similar o hacer ejercicios de vuelo con los pteranodones (que será lo que más impacte a la reina). Esto será tarea de los ayudantes, ya que los homenajeados no pueden mancharse de tierra y verdín. Lady Roxton como un halcón se encargará de vigilar estos ejercicios y salvo con mucha persuasión/distracción permitirá que la reina participe en los ejercicios,
+
+Acto seguido, **la reina Isabel concederá a Lady Roxton la medalla de la Orden del Imperio Británico** por sus logros. A partir de este momento pasarían a ser también Dame. Si alguno de tus comandos realizo alguna gesta en los escenarios de combate digna del tal nombre, podrías otorgarle la Cruz de la Victoria (incluso póstumamente), pero digamos que tiene que ser una gesta muy heroica. 
+
+Si alguno de los compañeros saurios ha caído en combate se le concederá la medalla Dickin, que puede ser considerada como un equivalente de la Cruz Victoria para los animales que sirven en el ejército inglés.
+
+\saltopagina
 
 ### La cena
 xxx
@@ -2156,8 +2169,6 @@ xxx
 La IM está forzando las cosas al máximo. La reina puede ser una de las personas del Reino Unido más espiada por los nazis y el IM sabe perfectamente que el propio Hitler verá fotos de esta cena con la reina y sus dinosaurios.
 
 Hasta ahora IM había sido sutil a la hora de dejar señales de la existencia de saurios prehistóricos, pero cada vez tienen que ser menos sutiles y más claros, si quieren que su plan llegue a buen puerto. 
-
-\saltopagina
 
 Si sus perfiles psicológicos son correctos, Hitler se volverá al saber que la reina de Inglaterra tiene algo que él no puede tener. Su apuesta es que el Führer haga lo que sea por tener sus propios dinosaurios.
 
@@ -3136,9 +3147,11 @@ Creado por [Gwannon](https://gwannon.itch.io/)
 
 Este libro contiene:
 
-1. Una campaña de puntos argumentales con más de 20 de aventuras.
-2. **8 localizaciones por todo el mundo**, desde el norte de África a Noruega o el río de la Plata, donde realizar misiones.
-3. Reglas para crear tu comando de jinetes de dinosaurios.
+1. Una **campaña de completa con 8 localizaciones por todo el mundo**, desde el norte de África a Noruega o el río de la Plata, donde realizarán peligrosas misiones contra los nazis.
+2. **15 relatos salvajes de 1 o 2 sesiones** para meter entre misiones que les llevarán desde conocer a la reina Isabel o participar en una película de serie B a rescatar el tesoro de un galeón hundido o recuperar obras de arte robadas por las SS.
+3. **Reglas para crear tu comando de jinetes de dinosaurios.**
+4. Estadísticas de **dinosaurios y otros seres prehistóricos**, así como de diversas y **desquiciantes unidades del ejército nazi** para meter en tus aventuras.
+5. **Semillas de aventuras** a lo largo de todo el libro para que tus comandos puedan continuar con sus aventuras una vez acabada la campaña.
 
 Para jugar esta campaña solo necesitas el Manual Básico de Savage Worlds Edición Aventura.
 
