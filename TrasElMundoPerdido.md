@@ -1598,7 +1598,7 @@ La Francia ocupada es un escenario clásico. Pero mientras que las historias nor
 
 ## Preparando el día D
 ```
-xxx
+La IM necesita boicotear una serie de instalaciones antes del día D y tus comandos parecen el equipo perfecto para la tarea.
 ```
 
 xxx
@@ -2411,6 +2411,7 @@ La Fundación le reclutó, cuando el "Mary Anning" tuvo que hacer reparaciones e
 \saltopagina
 
 ### General Eugene Linton, director de la IM y enlace con el alto mando &#x2638;
+[![Primer plano de General Eugene Linton](./assests/images/linton.jpg 'Lieutenant General J T Crocker, Cb, Cbe, Dso, Mc, Commander of 1st Corps, France, August 1944 TR2168')](https://picryl.com/media/lieutenant-general-j-t-crocker-cb-cbe-dso-mc-commander-of-1st-corps-france-9aadef 'Lieutenant General J T Crocker, Cb, Cbe, Dso, Mc, Commander of 1st Corps, France, August 1944 TR2168')
 xxx
 
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
@@ -2461,6 +2462,8 @@ Jocelyn será un personaje importante en dos escenarios de esta campaña, la Fra
 \saltopagina
 
 ### Arntine Cornelia Marie Edvardsdatter Lyngstad, campesina noruega convertida en espía inglesa &#x2638;
+[![Primer plano de Arntine Lyngstad en su juventud](./assests/images/arntine.jpg 'Aud Egede Nissen - Alexander Binder')](https://en.wikipedia.org/wiki/Aud_Egede-Nissen#/media/File:Aud_Egede_Nissen_Binder.jpg 'Aud Egede Nissen - Alexander Binder')
+
 Arntine Lyngstad es una paria entre su gente, su hija Synni es una "tyskerhoren" (zorras de los alemanes), mujeres nórdicas que se juntaron con soldados alemanes dentro de programas de mejora de la raza aria. Cuando su yerno desapareció en combate en el mar del Norte, su hija embarazada de una niña y ella perdieron el apoyo del gobierno nazi y también fueron repudiadas por sus compatriotas.
 
 Esta situación fue aprovechada por IM para convertir a Arntine en uno de sus colaboradores a cambio de una paga y la promesa de poder ir a vivir en Inglaterra después de la guerra.
@@ -2469,14 +2472,16 @@ Siguiendo órdenes de los ingleses, Arntine se movió por todo el país trabajan
 
 Ahora mismo está viviendo en la zona de Telemark y al ser el agente inglés de menor valía se le ha puesto a trabajar con los comandos de la fundación Roxton, ya que su perdida no supone ninguna perdida importante.
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
-* **Ventajas:** xxx
-* **Desventajas:** xxx
-* **Equipo:** xxx
+* **Atributos:** Agilidad d6, Astucia d8, Espíritu d12, Fuerza d6, Vigor d6
+* **Habilidades:** Atletismo d6, Conocimientos Generales d8, Idioma Noruego d8, Investigar d8, Notar d8, Pelear d6, Persuadir d8, Sigilo d8
+* **Paso:** 6; **Parada:** 5; **Dureza:** 5
+* **Ventajas:** Investigadora, Osada
+* **Desventajas:** Marginada (menor, tyskerhoren), Obligación (menor, criada de von Liebenfels), Pobre
+* **Equipo:** Ropa de criada y productos y herramientas de limpieza
 
-**Sugerencia de interpretación:** xxx
+**Sugerencia de interpretación:** Tu voluntad es inquebrantable, por mucho que lo intenten, por mucho que te echen encima, no pueden doblegarte. seguirás adelante protegiendo a tu familia en una de las peores épocas de la historia. 
+
+\saltopagina
 
 > La niña que Synni lleva es su vientre es Frida, la cantante morena de grupo ABBA. Gracias a tus comandos todos podemos cantar "Mamma Mia" o "Waterloo".
 
