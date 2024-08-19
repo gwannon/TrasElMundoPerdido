@@ -2400,13 +2400,13 @@ Wayland no es su nombre verdadero, fue el mote que le pusieron en la Fundación 
 La Fundación le reclutó, cuando el "Mary Anning" tuvo que hacer reparaciones en Jamaica tras una terrible tormenta. Resucito de entre los muertos el motor del barco y consiguió mejorar su rendimiento un 5%.  
 
 * **Atributos:** Agilidad d6, Astucia d10, Espíritu d8, Fuerza d8, Vigor d10
-* **Habilidades:** Atletismo d6, Ciencias d8, Conocimientos Generales d6, Disparar d6, Idioma Inglés d8, Idioma Español d4, interpretar d6, Notar d8, Pelear d6, Persuadir d4, Reparar d12, Sigilo d6
+* **Habilidades:** Atletismo d6, Ciencias d8, Conocimientos Generales d6, Disparar d6, Idioma Inglés d8, Idioma Español d4, Interpretar d6, Notar d8, Pelear d6, Persuadir d4, Reparar d12, Sigilo d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 7
 * **Ventajas:** McGuiver, Mr. Arreglalotodo
 * **Desventajas:** Mudo
 * **Equipo:** Herramientas de buena calidad, Mandil de cuero de herrero (+1 pecho y piernas), Soplete de acetileno, Papel y lápiz para escribir
 
-**Sugerencia de interpretación:** Siempre estás alegre, canturreando las canciones que ponen en tu radio, la cual nunca apagas. Te entusiasman los nuevos retos y estás deseoso de que alguien aparezca por tu taller con algún reto que ponga a prueba tus capacidades.  
+**Sugerencia de interpretación:** Siempre estás alegre, bailoteando las canciones que ponen en tu radio, la cual nunca apagas. Te entusiasman los nuevos retos y estás deseoso de que alguien aparezca por tu taller con algún reto que ponga a prueba tus capacidades.  
 
 \saltopagina
 
