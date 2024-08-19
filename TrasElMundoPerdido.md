@@ -1544,10 +1544,23 @@ Tus comandos, si son medianamente decentes, deberían meter en sus planes cómo 
 ## Planeando las distracciones
 xxx
 
+\saltopagina
+
 ## ¡¡¡¡Dragones!!!!
 xxx
 
+### Eliminando nazis
+xxx
+
 ### La caza de los dragones
+El objetivo de tus comandos está cumplido, von Liebenfels ha destinado más efectivos a buscar a los _draches_ que a proteger las fábricas de agua pesada. El problema es que ahora casi una legión entera de soldado nazi recorre la tundra en su búsqueda.
+
+xxx
+
+
+#### ¡Sabotaje!
+Cuando veas que es un buen momento y va a quedar bien, los saboteadores destruirán las plantas de producción de agua pesada. una inmensa explosión y una gigantesca llamarada iluminará el cielo y las montañas cercanas. 
+
 xxx
 
 [![Detalle de espadas vikingas](./assests/images/espadas.jpg 'Viking swords at Bergen Museum - Arild Nybø from Førde, Norway')](https://es.m.wikipedia.org/wiki/Archivo:Viking_swords_at_Bergen_Museum.jpg 'Viking swords at Bergen Museum - Arild Nybø from Førde, Norway')
@@ -1557,16 +1570,18 @@ El general von Liebenfels ha montado una escuadra especial de soldados pensando 
 
 Von Liebenfels está convencido que las armas modernas no pueden hacer daño a los dragones así que ha saqueado las armas y armaduras de los museos de historia de la zona y ha equipado a su escuadrón de drachenjägers con espada, escudos y armaduras antiguas. 
 
-El propio von Liebenfels ha realizado algún tipo de ritual de magia o plegaria a los aesires (dioses nórdicos) para que las armas puedan herir a los dragones. También ha bendecido unas redes metálicas (consistencia 12) para poder atraparlos. Naturalmente, todo esto no funciona, pero los cazadragones son tan fanáticos y están tan locos que en parte se lo creen.
+El propio von Liebenfels ha realizado algún tipo de ritual de magia o plegaria a los aesires (dioses nórdicos) para que las armas puedan herir a los dragones. También ha bendecido unas redes metálicas (consistencia 12) para poder atraparlos. 
 
-* **Atributos:** Agilidad d8, Astucia d4, Espíritu d4, Fuerza d10, Vigor d10
-* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Alemán d4, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** xxx; **Dureza:** 10(3)
-* **Ventajas:** Impávido, Sin piedad, xxx
 
 \saltopagina
 
-* **Desventajas:** Fanático (SS), Deseo de muerte, xxx
+Naturalmente, todo esto no funciona, pero los cazadragones son tan fanáticos y están tan locos que en parte se lo creen.
+
+* **Atributos:** Agilidad d8, Astucia d4, Espíritu d4, Fuerza d10, Vigor d10
+* **Habilidades:** Atletismo d8, Conocimientos Generales d4, Disparar d8, Idioma materno d6, Intimidar d8, Notar d6, Pelear d10, Persuadir d4, Sigilo d4
+* **Paso:** 6; **Parada:** 8; **Dureza:** 10(3)
+* **Ventajas:** Bloqueo, Impávido, Sin piedad, Soldado
+* **Desventajas:** Fanático (SS), Deseo de muerte, Obligaciones (ejército)
 * **Equipo:** Espada vikinga (FUE+d8), Camisote de malla (+3 torso y brazos), casco abierto (+4 cabeza), escudo medieval mediano (parada +2, cobertura -2)
 
 ## Realidad o leyenda
@@ -1793,7 +1808,7 @@ La última poción es investigar el pasado de Gerald y tratar de que Lady Margar
 Este, joven naturalista y activista medioambiental va a ser un pequeño quebradero de cabeza para la Fundación. Gerald lleva rodeado de animales y estudiándolos desde pequeño. Son su amor y su obsesión y no va a permitir, como cree, que la Fundación haga experimentos con animales para los militares y los maltrate. 
 
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d10, Fuerza d6, Vigor d6
-* **Habilidades:** Atletismo d6, Conocimientos Generales d6, Ciencias d8, Disparar d6, Idioma materno d6, Idioma griego d6, Pelear d4, Notar d8, Persuadir d8, Sigilo d8
+* **Habilidades:** Atletismo d6, Conocimientos Generales d6, Ciencias d8, Disparar d6, Idioma inglés d6, Idioma griego d6, Pelear d4, Notar d8, Persuadir d8, Sigilo d8
 * **Paso:** 6; **Parada:** 4; **Dureza:** 5
 * **Ventajas:** Afortunado, Vínculo animal
 * **Desventajas:** Joven (menor), Pobreza, Tozudo
@@ -1859,7 +1874,7 @@ Como regalo les dará una copia de su último libro dedicado y firmado y les dir
 ### Marion Fairfax, famosa escritora de ciencia ficción &#x2638;
 
 * **Atributos:** Agilidad d6, Astucia d10, Espíritu d8, Fuerza d6, Vigor d6
-* **Habilidades:** Atletismo d6, Ciencias d6, Conocimientos Generales d10, Humanidades d10, Idioma materno d10, Interpretar d10, Investigar d8, Notar d6, Persuadir d8, Sigilo d4
+* **Habilidades:** Atletismo d6, Ciencias d6, Conocimientos Generales d10, Humanidades d10, Idioma inglés d10, Interpretar d10, Investigar d8, Notar d6, Persuadir d8, Sigilo d4
 * **Paso:** 6; **Parada:** 4; **Dureza:** 5
 * **Ventajas:** Famosa
 * **Desventajas:** Curiosa
