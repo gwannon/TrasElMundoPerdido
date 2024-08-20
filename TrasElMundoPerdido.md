@@ -1603,7 +1603,7 @@ La IM necesita boicotear una serie de instalaciones antes del día D y tus coman
 
 xxx
 
-## Informe de misión
+## ¿Qué está pasando aquí?
 xxx
 
 ## Espiados
@@ -1623,10 +1623,12 @@ Las tropas rusas y nazis llevan meses enfrentándose en las calles de Stalingrad
 
 xxx
 
-## Reportes desde el frente
+### Frio extremo
+Aunque ya hemos hablado de que no debería preocuparte el frío, en las misiones en Stalingrado es tan extremo que puedes meterlo en la aventura como un enemigo más.
+
 xxx
 
-## ¿Qué está pasando aquí?
+## Reportes desde el frente
 xxx
 
 ***
@@ -1645,7 +1647,7 @@ xxx
 xxx
 
 ### Secuestrados
-Los nazis han secuestrado a una serie de personas
+Los nazis han capturado a una serie de personas:
 
 * Lady Roxton
 * Teniente Horace Linton que espera la vuelta de tus comandos para hacer informe de misión.
@@ -2555,16 +2557,21 @@ Una historia es tan buena como sus antagonistas y aquí tienes a los villanos y 
 ### Theodor von Liebenfels, general nazi y ocultista &#x2638;
 
 [![Primer plano de Theodor von Liebenfels](./assests/images/theodor.jpg 'Dietrich von Saucken - Source: Photo H. Hoffmann')](https://en.wikipedia.org/wiki/Dietrich_von_Saucken#/media/File:Dietrich_von_Saucken_1.jpg 'Dietrich von Saucken - Source: Photo H. Hoffmann')
+
 xxx
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+Von Liebenfels es un auténtico fanático de dos cosas, el Führer y la mitología nórdica. Su fanatismo por Hitler y su causa es de sobra conocida. Todo lo que diga Hitler es cierto y sus ideas nunca están equivocadas. 
+
+Su obsesión con los mitos nórdicos, la magia rúnica y los aesires es algo que mantiene más en secreto. Con varios libros antiguos ha intentado realizar hechizos de magia rúnica sin mucho éxito, pero está convencido que descubrirá algún día las fórmulas mágicas correctas y con ellas ayudará al Führer a ganar la guerra y limpiar el mundo de impurezas.
+
+* **Atributos:** Agilidad d8, Astucia d10, Espíritu d6, Fuerza d8, Vigor d8
+* **Habilidades:** Atletismo d4, Conducir d6, Conocimientos Generales d8, Disparar d8, Humanidades d10, Idioma Alemán d8, Intimidar d10, Notar d8, Pelear d8, Persuadir d6, Sigilo d4, Tácticas d8
+* **Paso:** 6; **Parada:** 6; **Dureza:** 6
 * **Ventajas:** xxx
 * **Desventajas:** xxx
-* **Equipo:** xxx
+* **Equipo:** Pistola, Uniforme nazi impoluto, Bolsa de cuero con runas, Bolsa de componentes mágicos
 
-**Sugerencia de interpretación:** xxx
+**Sugerencia de interpretación:** Eres todo lo que se espera de un general racista, machista, cruel, sádico (de hecho disfrutas con el dolor ajeno y propio) y con un total desprecio por la vida humana. Los fallos los castigas duramente, muy duramente. En cuanto empiezan a salirte mal las cosas empiezas a chillar a todos y a moverte frenéticamente.
 
 \saltopagina
 
@@ -2587,6 +2594,24 @@ xxx
 [![Retrato de Irma Bormann](./assests/images/bormann.jpg 'Studio portrait photo of Veronica Lake taken for promotional use.')](https://es.wikipedia.org/wiki/Veronica_Lake#/media/Archivo:Veronica_Lake_still.jpg 'Studio portrait photo of Veronica Lake taken for promotional use.')
 
 Irma es la _femme fatale_ por excelencia, seductora y misteriosa, pero también sádica y mortal. Nadie puede escapar de sus encantos. 
+
+xxx
+
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Notar d4, Persuadir d4, Sigilo d4
+* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+* **Ventajas:** xxx
+* **Desventajas:** xxx
+* **Equipo:** xxx
+
+**Sugerencia de interpretación:** xxx
+
+\saltopagina
+
+###  Capitán de submarino Otto Klein &#x2638;
+xxx
+
+Otto capitanea un el U-505 (tipo IX C) preparado para viajes a larga distancia.
 
 xxx
 
