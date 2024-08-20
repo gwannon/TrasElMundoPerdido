@@ -1638,7 +1638,7 @@ xxx
 
 ## Por sorpresa
 ```
-Tras su última misión tus comandos volverán a la isla de Skye para encontrarse todo destruido, hay heridos y muertos y la mayoria de los dinosaurios han sido capturados y se los han llevado a alguna localización secreta. 
+Tras su última misión tus comandos volverán a la isla de Skye para encontrarse todo destruido, hay heridos y muertos y la mayoría de los dinosaurios han sido capturados y se los han llevado a alguna localización secreta. 
 ```
 
 xxx
@@ -2608,7 +2608,7 @@ xxx
 
 \saltopagina
 
-###  Capitán de submarino Otto Klein &#x2638;
+### Otto Klein, capitán de submarino &#x2638;
 xxx
 
 Otto capitanea un el U-505 (tipo IX C) preparado para viajes a larga distancia.
