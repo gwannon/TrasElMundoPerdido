@@ -35,8 +35,10 @@
 
 # Changelog
 
-# Version 0.6 En desarrollo
+# Versiṕon 0.6.1 En desarrollo
 * Terminado el Relato Salvaje "Cena de etiqueta"
+
+# Version 0.6 20/08/2024
 * Terminado el Relato Salvaje "Noche de poker"
 * Terminada la parte de "Operación Gunnerside" de "Parte 4: Noruega"
 * Terminada la parte de "Lo que IM puede contarte" de "Parte 4: Noruega"

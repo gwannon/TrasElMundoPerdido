@@ -2295,13 +2295,13 @@ Reparte una carta bocabajo y otra boca arriba a cada tahúr, esa será su mano. 
 |Dos cartas con el mismo número|Póker|+2|
 |Dos cartas seguidas del mismo color (rojo o negro)|Escalera de color|+2|
 
-El resto de manos no tienen valor y dan un bono de -1. El Joker vale por cualquier carta que se desee, pero solo da positivos u otros efectos si está boca arriba.
+El resto de manos no tienen valor y dan un bono de -1. El Joker vale por cualquier carta que se desee, pero solo da positivos u otros efectos si está boca arriba. Una vez por ronda, siguiendo el orden de reparto de cartas, podrán gastar un beni y pedir una carta boca arriba o bocabajo.
 
 En cada ronda deberán tirar Apostar y el que saque la peor tirada será el perdedor de la ronda y no podrá volver a jugar porque ha perdido todas sus fichas. Una vez en toda la partida podrás retirarte de una ronda y no participar en la tirada de Apostar.
 
 ### Historias vergonzosas
 
-> El perdedor de cada ronda de poker deberá contar una anécdota graciosa de su comando y como DJ deberías darles al final de la sesión a cada comando algún beneficio muy especifico relacionado con su historia. Puede ser un +2 al participar en concursos de comida, un +2 a identificar razas de ganado, etc. Solo el ganador no tendrá que contar ninguna historia vergonzosa, pero si quiere podrá hacerlo.
+> El perdedor de cada ronda de póker deberá contar una anécdota graciosa de su comando y como DJ deberías darles al final de la sesión a cada comando algún beneficio muy especifico relacionado con su historia. Puede ser un +2 al participar en concursos de comida, un +2 a identificar razas de ganado, etc. Solo el ganador no tendrá que contar ninguna historia vergonzosa, pero si quiere podrá hacerlo.
 
 * La historia de Lady Roxton es que escribió un fanfic en que Hercules Poirot viaja en el tiempo, tras perderse en un templo egipcio, para detener a Jack el Destripador. Se lo envió a Agatha Christie y esta le pidió que no volviese a intentar escribir. Si se lo piden, puede enseñar la carta firmada por la propia Agatha. 
 * La historia de Marina es que uno de los primeros trabajos fue de mono en una película de Tarzan y se enrolló con otro mono sin quitarse los disfraces y sin hablar solo haciendo sonidos de monos. Nunca ha sabido con quién se lio.
