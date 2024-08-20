@@ -35,8 +35,10 @@
 
 # Changelog
 
-# Versiṕon 0.6.1 En desarrollo
-* Terminado el Relato Salvaje "Cena de etiqueta"
+# Versión 0.6.1 En desarrollo
+* Terminando el Relato Salvaje "Cena de etiqueta"
+* Terminando la parte de "Planeando las distracciones" de "Parte 4: Noruega"
+* Terminando la parte de "¡¡¡¡Dragones!!!!" de "Parte 4: Noruega"
 
 # Version 0.6 20/08/2024
 * Terminado el Relato Salvaje "Noche de poker"

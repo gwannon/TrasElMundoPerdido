@@ -48,4 +48,9 @@ body {
     top: 28px;
   }
 
+  section:not(section:first-of-type, section:last-of-type):nth-of-type(odd) h1:before {
+    rotate: -88deg;
+    top: 23px;
+  }
+
 }

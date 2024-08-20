@@ -1634,11 +1634,45 @@ xxx
 # Parte 7: Regreso a casa
 xxx
 
-## Traición
+## Por sorpresa
 ```
-xxx
+Tras su última misión tus comandos volverán a la isla de Skye para encontrarse todo destruido, hay heridos y muertos y la mayoria de los dinosaurios han sido capturados y se los han llevado a alguna localización secreta. 
 ```
 
+xxx
+
+### Salvando vidas
+xxx
+
+### Secuestrados
+Los nazis han secuestrado a una serie de personas
+
+* Lady Roxton
+* Teniente Horace Linton que espera la vuelta de tus comandos para hacer informe de misión.
+* Marina Flowers si estaba en las instalaciones
+* Si han traído a la isla a Arntine Lyngstad y su familia, von Liebenfels la reconoció de Noruega y se la ha llevado. Quiere interrogarla para saber más del fiasco de Telemark.
+* xxx
+
+Wayland consiguió escapar de los nazis, haciéndose pasar por un criado y escabulléndose cuando no miraban los guardias.
+
+xxx
+
+\saltopagina
+
+### Buscando pistas
+xxx
+
+Si revisan la pieza de artillería antiaérea con una tirada de Reparar o de Disparar, podrán ver que no ha sido disparada en tiempo. Lo cual es raro porque lo lógico habría sido usarlo contra el zepelín de von Liebenfels.
+
+xxx
+
+## Con la mierda hasta el cuello
+La situación de tu comando ha cambiado drásticamente, a priori ha perdido los recursos de la fundación y no sabe si puede fiarse del todo de IM. xxx
+
+xxx
+
+### Aliados
+Por suerte no están solos en sus misiones han hechos contactos, ayudado a gente y conseguidos recursos propios. Es hora de usarlos. 
 xxx
 
 ***
@@ -2191,53 +2225,6 @@ Si sus perfiles psicológicos son correctos, Hitler se volverá al saber que la 
 
 \saltopagina
 
-## Un día en el museo
-```
-Quizás una visita al Museo de Ciencias Naturales ayude a solucionar un nuevo problema que ha supuesto la cría de dinosaurios.
-```
-xxx
-
-\saltopagina
-
-## El pecio
-```
-Mientras el "Mary Anning" surcaba el mar uno de los plesiosaurios que viaja con él, ha aparecido con un extraño objeto en la boca. Quizás no es mala idea pararse y buscar donde lo ha encontrado.
-```
-
-xxx
-
-### Comenzando una gran aventura
-Este relato puede servirte como introducción a tus propias aventuras. Entre los objetos rescatados puede haber algún tipo de valija con documentación que sirva de semilla de tus propias aventuras. 
-
-Quizás haya un mapa de algún lugar misterioso como Lemuria o la Atlántida, diseños de alguna extraña máquina hipertecnológica nazi, la ubicación de otro mundo perdido, etc.
-
-\saltopagina
-
-## El secreto de los Branningan
-```
-En la familia Branningan llevan siendo marinos desde hace siglo, lo que no cuentan es que durante un tiempo fueron corsarios al servicio de Inglaterra. 
-```
-
-Ahora que regresan a casa, por el camino, la capitán Branningan tiene una oferta interesante que proponerles. Conoce la ubicación de un galeón hundido lleno de oro. Si le ayudan a rescatarlo, compartirá con ellos una parte. Dolores acaba su propuesta con un "Así, cuando acabe esta maldita guerra, podremos retirarnos y vivir como reyes en alguna isla del Caribe bebiendo ron y bailando salsa."
-
-xxx
-
-### ¿Qué hacemos con el tesoro?
-La idea de Branningan es guardar el tesoro hasta después de la guerra así que su idea, si no proponen otra cosa, es enterrarlo en los terrenos de la Fundación, que es un lugar bastante seguro y conocido. 
-
-Cuando tus comandos lleguen a la Parte 7. Se quedarán sin los recursos económicos de la Fundación para seguir con sus aventuras. Puede que el tesoro del galeón hundido sea su única fuente de ingresos. Acceder al dinero será fácil si lo enterraron en Skye, pero podría complicarse si está guardado en otro sitio. 
-
-\saltopagina
-
-## Espécimen perdido
-```
-Al volver a Skye os informan de que un huevo de pteranodon ha desaparecido de su nido. Han encontrado pisadas cerca y los padres tienen señales de lucha.
-```
-
-xxx
-
-\saltopagina
-
 ## Arte robado
 ```
 Tu comando debe ayudar a los "Monuments Men" a recuperar arte robado por los nazis.
@@ -2312,6 +2299,53 @@ En cada ronda deberán tirar Apostar y el que saque la peor tirada será el perd
 
 \saltopagina
 
+## Un día en el museo
+```
+Quizás una visita al Museo de Ciencias Naturales ayude a solucionar un nuevo problema que ha supuesto la cría de dinosaurios.
+```
+xxx
+
+\saltopagina
+
+## El pecio
+```
+Mientras el "Mary Anning" surcaba el mar uno de los plesiosaurios que viaja con él, ha aparecido con un extraño objeto en la boca. Quizás no es mala idea pararse y buscar donde lo ha encontrado.
+```
+
+xxx
+
+### Comenzando una gran aventura
+Este relato puede servirte como introducción a tus propias aventuras. Entre los objetos rescatados puede haber algún tipo de valija con documentación que sirva de semilla de tus propias aventuras. 
+
+Quizás haya un mapa de algún lugar misterioso como Lemuria o la Atlántida, diseños de alguna extraña máquina hipertecnológica nazi, la ubicación de otro mundo perdido, etc.
+
+\saltopagina
+
+## El secreto de los Branningan
+```
+En la familia Branningan llevan siendo marinos desde hace siglo, lo que no cuentan es que durante un tiempo fueron corsarios al servicio de Inglaterra. 
+```
+
+Ahora que regresan a casa, por el camino, la capitán Branningan tiene una oferta interesante que proponerles. Conoce la ubicación de un galeón hundido lleno de oro. Si le ayudan a rescatarlo, compartirá con ellos una parte. Dolores acaba su propuesta con un "Así, cuando acabe esta maldita guerra, podremos retirarnos y vivir como reyes en alguna isla del Caribe bebiendo ron y bailando salsa."
+
+xxx
+
+### ¿Qué hacemos con el tesoro?
+La idea de Branningan es guardar el tesoro hasta después de la guerra así que su idea, si no proponen otra cosa, es enterrarlo en los terrenos de la Fundación, que es un lugar bastante seguro y conocido. 
+
+Cuando tus comandos lleguen a la Parte 7. Se quedarán sin los recursos económicos de la Fundación para seguir con sus aventuras. Puede que el tesoro del galeón hundido sea su única fuente de ingresos. Acceder al dinero será fácil si lo enterraron en Skye, pero podría complicarse si está guardado en otro sitio. 
+
+\saltopagina
+
+## Espécimen perdido
+```
+Al volver a Skye os informan de que un huevo de pteranodon ha desaparecido de su nido. Han encontrado pisadas cerca y los padres tienen señales de lucha.
+```
+
+xxx
+
+\saltopagina
+
 ## Despedidas
 ```
 La guerra se ha acabado y quizás es el momento de que los dinosaurios vuelvan a su mundo. 
@@ -2322,7 +2356,7 @@ xxx
 \saltopagina
 
 ## Recomendaciones sobre los relatos salvajes.
-Es muy recomendables intercalar las misiones principales donde la trama avanza con estas pequeñas aventuras donde los personajes muchas veces estarán fuera de lugar haciendo cosas fuera de su red de seguridad como es investigar o pelear. Quizas tengan que participar en una película, seguir la pista a una esquiva escritora o ayudar a la resistencia local a luchar contra las fuerzas nazis.
+Es muy recomendables intercalar las misiones principales donde la trama avanza con estas pequeñas aventuras donde los personajes muchas veces estarán fuera de lugar haciendo cosas fuera de su red de seguridad como es investigar o pelear. Quizás tengan que participar en una película, seguir la pista a una esquiva escritora o ayudar a la resistencia local a luchar contra las fuerzas nazis.
 
 No hace falta que las leas todas, pero tienen un pequeño texto gancho que te dará una idea de que tratan. Así podrás ver si se ajustan a tu estilo de partida. De todas formas son pequeñas y se leen en un pispas.
 
