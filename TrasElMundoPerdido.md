@@ -2275,9 +2275,9 @@ También pueden quedarse algunas o todas las obras para su jubilación y hacer u
 Weyland suele organizar noches de póker y esta vez ha invitado a tus comandos. Lo que no saben ninguno es que Lady Roxton se ha enterado y se va a autoinvitar.  
 ```
 
-Wayland ha montado una timba de poker en su taller. Hay una mesa con sillas, cartas nuevas, fichas, picoteo escamoteado de la cocina y cerveza y ron jamaicano. Wayland es bastante malo como jugador, pero disfruta de la interacción humana, de la comida. de la bebida y de los habanos que guarda para estas ocasiones. Si Marina Flowers está en la isla también participará en la noche de póker.
+Wayland ha montado una timba de poker en su taller. Hay una mesa con sillas, cartas nuevas, fichas, picoteo escamoteado de la cocina y cerveza y ron jamaicano. Wayland es bastante malo como jugador, pero disfruta de la interacción humana, de la comida, de la bebida y de los habanos que guarda para estas ocasiones. Si Marina Flowers está en la isla también participará en la noche de póker.
 
-Cuando estén a punto de repartir las primeras cartas aparecerá Lady Roxton con ropa cómoda y material para hacer gin-tonics. Se disculpará por llegar tarde como si la hubieran invitado. Puede que al principio les intimide un poco, pero los gin-tonics lubricarán las asperezas y acabarán todos cantando, gritando, contando chistes y jugando al poker.
+Cuando estén a punto de repartir las primeras cartas aparecerá Lady Roxton con ropa cómoda y material para hacer gin-tonics. Se disculpará por llegar tarde y actuará como si la hubieran invitado. Parece ser que ha caído en sus manos un libro sobre técnicas modernas de Relaciones Laborales y está probando cosas. Puede que al principio les intimide un poco, pero los gin-tonics lubricarán las asperezas y acabarán todos cantando, gritando, contando chistes y jugando al poker.
 
 Lady Roxton meterá una nueva regla a la partida para darle aliciente a la partida, el que pierda todas sus fichas deberá contar una historia vergonzosa de su vida.
 
@@ -2288,26 +2288,24 @@ Reparte una carta bocabajo y otra boca arriba a cada tahúr, esa será su mano. 
 
 \saltopagina
 
-|Cartas|Mano|
-|------|----|
-|Dos cartas seguidas|Escalera|
-|Dos cartas del mismo color (rojo o negro)|Color|
-|Dos cartas con el mismo número|póker|
-|Dos cartas seguidas del mismo color (rojo o negro)|Escalera de color|
+|Cartas|Mano|Bono|
+|------|----|----|
+|Dos cartas seguidas|Escalera|+0|
+|Dos cartas del mismo color (rojo o negro)|Color|+1|
+|Dos cartas con el mismo número|Póker|+2|
+|Dos cartas seguidas del mismo color (rojo o negro)|Escalera de color|+2|
 
-El resto de manos no tienen valor. El Joker vale por cualquier carta que se desee, pero solo da positivos u otros efectos si está boca arriba.
+El resto de manos no tienen valor y dan un bono de -1. El Joker vale por cualquier carta que se desee, pero solo da positivos u otros efectos si está boca arriba.
 
-xxx
+En cada ronda deberán tirar Apostar y el que saque la peor tirada será el perdedor de la ronda y no podrá volver a jugar porque ha perdido todas sus fichas. Una vez en toda la partida podrás retirarte de una ronda y no participar en la tirada de Apostar.
 
 ### Historias vergonzosas
 
-> El perdedor de cada ronda de poker deberá contar una anécdota graciosa de su comando y como DJ deberías darles al final de la sesión a cada comando algún beneficio muy especifico relacionado con su historia. Puede ser un +2 al participar en concursos de comida, un +2 a identificar razas de ganado, etc.
+> El perdedor de cada ronda de poker deberá contar una anécdota graciosa de su comando y como DJ deberías darles al final de la sesión a cada comando algún beneficio muy especifico relacionado con su historia. Puede ser un +2 al participar en concursos de comida, un +2 a identificar razas de ganado, etc. Solo el ganador no tendrá que contar ninguna historia vergonzosa, pero si quiere podrá hacerlo.
 
-La historia de Lady Roxton es que escribió un fanfic en que Hercules Poirot viaja en el tiempo para detener a Jack el Destripador. Se lo envió a Agatha Christie y esta le pidió que no volviese a intentar escribir. Si se lo piden, puede enseñar la carta firmada por la propia Agatha. 
-
-La historia de Marina es que uno de los primeros trabajos fue de mono en una película de Tarzan y se enrolló con otro mono sin quitarse los disfraces y sin hablar solo haciendo sonidos de monos. Nunca ha sabido con quién se lio.
-
-Wayland contará por mímica que su primera borrachera fue con vino misal robado del misionero que le acogió. Cree recordar que meó en la pila bautismal, pero esa parte esta nublosa en su memoria.
+* La historia de Lady Roxton es que escribió un fanfic en que Hercules Poirot viaja en el tiempo, tras perderse en un templo egipcio, para detener a Jack el Destripador. Se lo envió a Agatha Christie y esta le pidió que no volviese a intentar escribir. Si se lo piden, puede enseñar la carta firmada por la propia Agatha. 
+* La historia de Marina es que uno de los primeros trabajos fue de mono en una película de Tarzan y se enrolló con otro mono sin quitarse los disfraces y sin hablar solo haciendo sonidos de monos. Nunca ha sabido con quién se lio.
+* Wayland contará por mímica que su primera borrachera fue con vino misal robado del misionero que le acogió. Cree recordar que meó en la pila bautismal, pero esa parte está nublosa en su memoria. Sabe que le encontraron durmiendo acurrucado en el regazo de la virgen y mamando de una de sus tetas.
 
 \saltopagina
 
