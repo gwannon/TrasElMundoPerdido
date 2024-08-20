@@ -1738,7 +1738,7 @@ xxx
 # Relatos salvajes
 Todos los relatos salvajes que encontrarás en este capítulo son aventuras que puedes intercalar dentro de la campaña en el momento que desees y que no tienen una ubicación concreta o un momento histórico exacto. Muchos de estos relatos puedes jugarlos entre capítulo y capítulo cuando regresan a la base en la isla de Skye.
 
-Están pensadas como interludios divertidos en los que los tu mesa podrá desarrollar el trasfondo de sus comandos, hacer contactos, conseguir o devolver favores o simplemente conocer más cosas de este mundo.
+Están pensadas como interludios divertidos en los que tu mesa podrá desarrollar el trasfondo de sus comandos, hacer contactos, conseguir o devolver favores o simplemente conocer más cosas de este mundo. 
 
 ## El prototipo
 ```
@@ -2256,12 +2256,13 @@ Salvo casos muy claros, será necesario una tirada de Humanidades para reconocer
 Aquí tienes algunas ideas.
 
 * Jocelyn Dubios ha escondido varias esculturas romanas en un almacén de Tobruk. Si no los saca de la ciudad, seguramente serán destruidas en los combates o robadas por los nazis. Si no los sacan, deberían por lo menos sacarlos de la ciudad y enterrarlos en el desierto para que Jocelyn los rescate cuando acabe la guerra.
-* El general von Liebenfels se presentará con varias piezas del museo de historia de Skien que pertenecieron a varios reyes vikingos. Estamos hablando de un caso, hombreras, cinturón y un martillo de guerra. Podrían recuperarlo y ponerlo a salvo en el British Museum hasta que termine la guerra (véase la ironía).  
+* El general von Liebenfels se presentará con varias piezas del museo de historia de Skien que pertenecieron a varios reyes vikingos. Estamos hablando de un caso, hombreras, cinturón y un martillo de guerra. Podrían recuperarlo y ponerlo a salvo en el British Museum hasta que termine la guerra (véase la ironía). Sus drachenjägers también llevan equipamiento vikingo (espadas, cotas de malla, cascos y escudos) que se tendrían que preservar.
 * El general von Liebenfels tiene 4 pequeños Rembrandts requisados a una familia judía de Ámsterdam en su lujoso camarote de su zepelín.
 * El doctor Eckart tiene una pequeña pinacoteca de 10 cuadros en el comedor principal del castillo de Hohenzollern. La cúpula nazi suele granjearse su amistad regalándole obras de impresionistas francesas.
-* xxx
 
 \saltopagina
+
+* Los nazis que atacaron el castillo Dunvegan se llevaron algunos cuadros que colecciono en vida Lord Roxton y que heredó su sobrina. Son 3 cuadros del pintor romántico William Turner por los que Lord Roxton tenía gran estima.
 
 La idea de este relato es añadir una dificultad extra a las aventuras si crees que pudieran resultar muy fáciles. Piensa que escapar de un sitio como Tobruk con una estatua griega de mármol se complica bastante.
 
@@ -2275,18 +2276,18 @@ También pueden quedarse algunas o todas las obras para su jubilación y hacer u
 Weyland suele organizar noches de póker y esta vez ha invitado a tus comandos. Lo que no saben ninguno es que Lady Roxton se ha enterado y se va a autoinvitar.  
 ```
 
-Wayland ha montado una timba de poker en su taller. Hay una mesa con sillas, cartas nuevas, fichas, picoteo escamoteado de la cocina y cerveza y ron jamaicano. Wayland es bastante malo como jugador, pero disfruta de la interacción humana, de la comida, de la bebida y de los habanos que guarda para estas ocasiones. Si Marina Flowers está en la isla también participará en la noche de póker.
+Wayland ha montado una timba de póker en su taller. Hay una mesa con sillas, cartas nuevas, fichas, picoteo escamoteado de la cocina y cerveza y ron jamaicano. Wayland es bastante malo como jugador, pero disfruta de la interacción humana, de la comida, de la bebida y de los habanos que guarda para estas ocasiones. Si Marina Flowers está en la isla también participará en la noche de póker.
 
-Cuando estén a punto de repartir las primeras cartas aparecerá Lady Roxton con ropa cómoda y material para hacer gin-tonics. Se disculpará por llegar tarde y actuará como si la hubieran invitado. Parece ser que ha caído en sus manos un libro sobre técnicas modernas de Relaciones Laborales y está probando cosas. Puede que al principio les intimide un poco, pero los gin-tonics lubricarán las asperezas y acabarán todos cantando, gritando, contando chistes y jugando al poker.
+Cuando estén a punto de repartir las primeras cartas aparecerá Lady Roxton con ropa cómoda y material para hacer gintonics. Se disculpará por llegar tarde y actuará como si la hubieran invitado. Parece ser que ha caído en sus manos un libro sobre técnicas modernas de Relaciones Laborales y está probando cosas. Puede que al principio les intimide un poco, pero los gintonics lubricarán las asperezas y acabarán todos cantando, gritando, contando chistes y jugando al poker.
 
 Lady Roxton meterá una nueva regla a la partida para darle aliciente a la partida, el que pierda todas sus fichas deberá contar una historia vergonzosa de su vida.
+
+\saltopagina
 
 ### Jugando a póker
 La noche de póker tendrá tantas rondas como participantes menos uno y en cada ronda un participante será eliminado hasta que solo haya un ganador o una ganadora.
 
 Reparte una carta bocabajo y otra boca arriba a cada tahúr, esa será su mano. Usa la tabla para saber su mano.
-
-\saltopagina
 
 |Cartas|Mano|Bono|
 |------|----|----|
@@ -2301,9 +2302,11 @@ En cada ronda deberán tirar Apostar y el que saque la peor tirada será el perd
 
 ### Historias vergonzosas
 
-> El perdedor de cada ronda de póker deberá contar una anécdota graciosa de su comando y como DJ deberías darles al final de la sesión a cada comando algún beneficio muy especifico relacionado con su historia. Puede ser un +2 al participar en concursos de comida, un +2 a identificar razas de ganado, etc. Solo el ganador no tendrá que contar ninguna historia vergonzosa, pero si quiere podrá hacerlo.
+> El perdedor de cada ronda de póker deberá contar una anécdota graciosa y vergonzante de su comando y como DJ deberías darles al final de la sesión a cada comando algún beneficio muy especifico relacionado con su historia. Puede ser un +2 al participar en concursos de comida, un +2 a identificar razas de ganado, etc. Solo el ganador no tendrá que contar ninguna historia vergonzosa, pero si quiere podrá hacerlo.
 
-* La historia de Lady Roxton es que escribió un fanfic en que Hercules Poirot viaja en el tiempo, tras perderse en un templo egipcio, para detener a Jack el Destripador. Se lo envió a Agatha Christie y esta le pidió que no volviese a intentar escribir. Si se lo piden, puede enseñar la carta firmada por la propia Agatha. 
+\saltopagina
+
+* La historia de Lady Roxton es que escribió un fanfic en que Hércules Poirot viaja en el tiempo, tras perderse en un templo egipcio, para detener a Jack el Destripador. Se lo envió a Agatha Christie y esta le pidió que no volviese a intentar escribir. Si se lo piden, puede enseñar la carta firmada por la propia Agatha. 
 * La historia de Marina es que uno de los primeros trabajos fue de mono en una película de Tarzan y se enrolló con otro mono sin quitarse los disfraces y sin hablar solo haciendo sonidos de monos. Nunca ha sabido con quién se lio.
 * Wayland contará por mímica que su primera borrachera fue con vino misal robado del misionero que le acogió. Cree recordar que meó en la pila bautismal, pero esa parte está nublosa en su memoria. Sabe que le encontraron durmiendo acurrucado en el regazo de la virgen y mamando de una de sus tetas.
 
@@ -2318,6 +2321,19 @@ xxx
 
 \saltopagina
 
+## Recomendaciones sobre los relatos salvajes.
+Es muy recomendables intercalar las misiones principales donde la trama avanza con estas pequeñas aventuras donde los personajes muchas veces estarán fuera de lugar haciendo cosas fuera de su red de seguridad como es investigar o pelear. Quizas tengan que participar en una película, seguir la pista a una esquiva escritora o ayudar a la resistencia local a luchar contra las fuerzas nazis.
+
+No hace falta que las leas todas, pero tienen un pequeño texto gancho que te dará una idea de que tratan. Así podrás ver si se ajustan a tu estilo de partida. De todas formas son pequeñas y se leen en un pispas.
+
+Personalmente creo que es muy recomendables jugar "Noche de poker", "Cena de etiqueta" y "Titanes de tiempos pretéritos" porque creo que son relatos muy divertidos y diferentes al resto de la trama.
+
+"Arte robado" y "El prototipo" no son aventuras al uso, sino una forma de complicar y liar las misiones generales teniendo que hacer un esfuerzo extra como sería probar algún invento estúpido (El prototipo) o rescatando de la oficina de von Liebenfels un cuadro impresionista (Arte robado).
+
+"Campo minado" y "El pecio" puedes usarlos como un "encuentro aleatorio" dentro de algún viaje. 
+
+La idea de "Despedidas" es cerrar la campaña con un viaje lacrimógeno a la meseta de Maple White donde tus comandos se despedirán de sus compañeros saurios.
+
 ## Semillas de aventuras
 Además de los relatos salvajes, aquí te propongo una serie de semillas de aventuras si quieres alargar tus partidas o darles más profundidad.
 
@@ -2326,6 +2342,8 @@ El Tercer Reich pide ayuda al ejército imperial japonés y estos envían a grup
 
 ### La gran evasión
 Alguien de tus comandos, incluso todos, han caído prisioneros de los nazis y deberán escapar de un campo de prisioneros al más puro estilo "La gran evasión".
+
+\saltopagina
 
 ### La epidemia
 Desde el campamento llegan malas noticias una enfermedad está afectando a todos los saurios de la meseta. Quizás la cura exija buscar gente y productos por todo el mundo, incluso igual en el propio Berlín. 
