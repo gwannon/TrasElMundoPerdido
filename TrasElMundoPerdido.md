@@ -1264,9 +1264,9 @@ De repente, habrá golpes en la puerta. "¡Policía militar! Abran la puerta. Es
 
 Si tiran Notar verán que los uniformes parecen falsos, sin pequeños fallos con galones incorrectos o demasiado nuevos y sin usar para llevar semanas sitiados y sin recibir repuestos.
 
-En este punto pueden luchar o huir. Si luchan deberán enfrentarse a los tres grupos de soldados, los del pasillo, los del callejón que subirán al oír los disparos y los conductores. Si acaban con todos podrán coger un coche y largarse. 
-
 \saltopagina
+
+En este punto pueden luchar o huir. Si luchan deberán enfrentarse a los tres grupos de soldados, los del pasillo, los del callejón que subirán al oír los disparos y los conductores. Si acaban con todos podrán coger un coche y largarse. 
 
 Puedes cortar el combate cuando quieras haciendo aparecer una patrulla de soldados australianos que ha oído los disturbios. Los nazis se dispersarán y desaparecerán en ese caso.
 
@@ -1289,10 +1289,10 @@ La huida por las callejuelas de la medina de Tobruk es una persecución con las 
 * Habilidad de manejo: **Conducir**
 * El grupo del pasillo está en la primera carta, el de los coches en la segunda y tus comandos en la tercera carta.
 * Aunque los coches tienen mayor velocidad que el trimotor en la persecución son iguales porque ninguno puede ir al máximo en las callejuelas de la medina llenas de gente y tenderetes.
-* Todos los ataques a distancia tienen un +1 por la poca visibilidad (toldos, esquinas y otros obstáculos).
 
 \saltopagina
 
+* Todos los ataques a distancia tienen un +1 por la poca visibilidad (toldos, esquinas y otros obstáculos).
 * Recuerda que está anocheciendo, eso supone un -2 por iluminación en los ataques y acciones similares.
 * Circulan por calles muy estrechas llenas de gente y de trastos, por lo que los eventos al sacar tréboles y en las pifias deberían ir en este sentido. Tiran un puesto de frutas, se llevan los hilos tintados y secados en la calle, el vehículo se llena de gallinas al atropellar un carro, etc.
 * Las calles de la medina a veces están cubiertas. Si tu carta de acción es 3, 5, 7, 9, Q o A y la de otro vehículo también, ambos equipos estáis al descubierto. Uno de tus comandos puede usar su acción para mandar a los pteranodones atacar a sus perseguidores. Recuerda que está acción dejará al descubierto la existencia de saurios prehistóricos si los perseguidores salen con vida de la persecución.
@@ -1313,9 +1313,11 @@ Si son alcanzados en cualquiera de las dos persecuciones deberán enfrentarse a 
 ## Salir de Tobruk
 La salida de Tobruk debería ser tan fácil como la entrada, pero con el encuentro anterior los espías nazis están sobre aviso y vigilan toda la ciudad y la Policía Militar empezará a investigar los disturbios.
 
-Una vez más tranquilos Jocelyn sacará su petaca y tras dar un buen lingotazo la pasará al resto. Tienen que mirar que van a hacer. La salida debería ser como la entrada, saliendo por el puerto sujetos a los plesiosaurios. Pero antes deberán hacer las presentaciones y Jocelyn debe conocer a su vía de escape, a no ser que ya se conozcan de Francia.
-
 \saltopagina
+
+Una vez más tranquilos Jocelyn sacará su petaca y tras dar un buen lingotazo la pasará al resto. Tienen que mirar que van a hacer. 
+
+La salida debería ser como la entrada, sumergidos con los plesiosaurios. Pero antes deberán hacer las presentaciones y Jocelyn debe conocer a su vía de escape, a no ser que ya se conozcan de Francia.
 
 Pueden intentar otras cosas que les ayuden en su salida.
 
@@ -1337,12 +1339,12 @@ Los pteranodones les seguirán volando. Pueden hacer que ataquen al barco nazi u
  
 Recuerda que, si has empezado el relato salvaje "Arte robado", Jocelyn tiene escondidas dos estatuas romanas de gran valor arqueológico. Puede sacarlas como si fueran un comando más que no necesita respirar. El problema es que no tengan suficientes saurios acuáticos para hacerlo en un viaje.  
 
-## Visita a Bletchley Park
-Mientras están de regreso en el "Mary Anning", recibirán órdenes de escoltar ellos mismos a Jocelyn y al engranaje hasta las instalaciones militares de Bletchley Park. 
-
 \saltopagina
 
 [![Plano del sitio de Tobruk](./assests/images/bletchley-park.jpg 'Bletchley Park House home of the World War Two Codebreakers - Outwivcamera')](https://commons.wikimedia.org/wiki/File:Bletchley_Park_House_home_of_the_World_War_Two_Codebreakers,.jpg 'Bletchley Park House home of the World War Two Codebreakers - Outwivcamera')
+
+## Visita a Bletchley Park
+Mientras están de regreso en el "Mary Anning", recibirán órdenes de escoltar ellos mismos a Jocelyn y al engranaje hasta las instalaciones militares de Bletchley Park. 
 
 Branningan cree que lo mejor es desembarcar en Portsmouth, de ahí a Oxford y luego Bletchley Park. Tendrán que alquilar un vehículo y buscar transporte público. El "Mary Anning" con los dinosaurios seguirá por el mar de Irlanda hasta Skye.
 
@@ -1356,13 +1358,12 @@ Independientemente del medio de transporte que tendrán una emboscada de un grup
 * Si alquilan un coche, les emboscarán en alguna carretera secundaria.
 * Quizás vayan en un autobús de línea. En ese caso, los asesinos irán disfrazados de militares buscando espías alemanes. Detendrán el bus y los sacarán para "interrogarlos" lejos del resto de pasajeros.
 
+\saltopagina
+
 ### Asesino nazi
 Estamos hablando de asesinos entrenados y dispuestos a cumplir las órdenes que les den sus líderes nazis. Estamos hablando de personas sin escrúpulos y fanáticas del Tercer Reich que no les importa a quién deben matar.
 
 * **Atributos:** Agilidad d10, Astucia d6, Espíritu d6, Fuerza d10, Vigor d12
-
-\saltopagina
-
 * **Habilidades:** Atletismo d10, Cabalgar d10, Conducir d10, Disparar d10, Idioma nativo d6, Idioma inglés d6, Pelear d12, Sigilo d10, Tácticas d10
 * **Paso:** 6; **Parada:** 9(1); **Dureza:** 9(1)
 * **Ventajas:** Acróbata, Ambidextro, Ataque repentino, Con un par, Bloqueo, Soldado, Sin piedad
@@ -1385,10 +1386,12 @@ Las islas Orcadas es un destino donde tus comandos triunfarán si son rápidos y
 
 ## Ataque a Scapa Flow
 ```
-La base naval de Scapa Flow es la más importante base naval inglesa. La marina inglesa la considera inexpugnable, pero los nazis tienen sus propios planes. Tus comandos pueden evitar un duro golpe a la Royal Navy, si desbaratan los planes de la Kaiserliche Marine nazi. 
+La base naval de Scapa Flow es la más importante base naval inglesa. La marina británica la considera inexpugnable, pero los nazis tienen sus propios planes. Tus comandos pueden evitar un duro golpe a la Royal Navy, si desbaratan los planes de la Kaiserliche Marine nazi. 
 ```
 
-xxx
+En el evento real, llamado el ataque de Scapa Flow, en que se basa esta misión un espía alemán se pasó 10 años estudiando la base naval y buscando la mejor forma de entrar en Scapa Flow saltándose todas sus defensas. Cuando lo descubrió paso la información a la marina nazi que envió el submarino U-47 bajo el mando del capitán Günther Prien. Este as del combate submarino hundió el destructor "HMS Royal Oak" y acabó con la vida de más 800 tripulantes.
+
+Sin embargo aquí están tus comandos y sus saurios para evitarlo o por lo menos lo intentarán. 
 
 ## Misión de rutina
 Esta misión no empieza como otras con Horace Linton dando una soporífera charla. Se ha pedido a la Fundación que con sus saurios acuáticos haga una serie de revisiones y trabajos en la base naval de Scapa Flow.
@@ -1585,7 +1588,6 @@ El objetivo de tus comandos está cumplido, von Liebenfels ha destinado más efe
 
 xxx
 
-
 #### ¡Sabotaje!
 Cuando veas que es un buen momento y va a quedar bien, los saboteadores destruirán las plantas de producción de agua pesada. una inmensa explosión y una gigantesca llamarada iluminará el cielo y las montañas cercanas. 
 
@@ -1598,10 +1600,9 @@ El general von Liebenfels ha montado una escuadra especial de soldados pensando 
 
 Von Liebenfels está convencido que las armas modernas no pueden hacer daño a los dragones así que ha saqueado las armas y armaduras de los museos de historia de la zona y ha equipado a su escuadrón de drachenjägers con espada, escudos y armaduras antiguas. 
 
-El propio von Liebenfels ha realizado algún tipo de ritual de magia o plegaria a los aesires (dioses nórdicos) para que las armas puedan herir a los dragones. También ha bendecido unas redes metálicas (consistencia 12) para poder atraparlos. 
-
-
 \saltopagina
+
+El propio von Liebenfels ha realizado algún tipo de ritual de magia o plegaria a los aesires (dioses nórdicos) para que las armas puedan herir a los dragones. También ha bendecido unas redes metálicas (consistencia 12) para poder atraparlos. 
 
 Naturalmente, todo esto no funciona, pero los cazadragones son tan fanáticos y están tan locos que en parte se lo creen.
 
@@ -1712,14 +1713,16 @@ xxx
 
 ## El Mundo Perdido
 ```
-xxx
+Esta será la primera vez que tus comandos verán el mundo perdido. Veamos cómo es esta sorprendente tierra.
 ```
 
 xxx
+
+\saltopagina
 
 ## Carrera al Mundo perdido
 ```
-xxx
+Tus comandos están contrarreloj, tienen que llegar lo más rápido a la meseta de Maple white para intentar detener a las fuerzas de von Liebenfels. El problema es que ya no cuentan los recursos de la Fundación e IM parece que ya no tiene interés en ayudar tus comandos y sus saurios, ni en rescatar a los capturados por los nazis y tampoco de proteger el mundo perdido del expolio.
 ```
 
 xxx
@@ -1737,7 +1740,7 @@ xxx
 
 ## Evitando un genocidio
 ```
-El general Liebenfels considera que los sakala de la meseta emponzoñan los ideales raciales nazis y se propone a exterminar a toda la tribu, si alguien no lo evita.
+El general Liebenfels considera que los sakala y los pitecántropos de la meseta emponzoñan los ideales raciales nazis y se propone a exterminar a todos ellos, si alguien no lo evita.
 ```
 
 xxx
@@ -1746,12 +1749,10 @@ xxx
 
 ## Batalla del Mundo Perdido
 ```
-xxx
+Solo un un milagro permitirá a tus comandos y sus salvajes aliados ganar la batalla final contra las fuerzas de von Liebenfels, pero si han de morir que sea a lo grande y matando nazis.
 ```
 
 xxx
-
-\saltopagina
 
 ### El zepelín
 
