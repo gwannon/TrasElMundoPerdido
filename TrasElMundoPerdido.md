@@ -1385,11 +1385,8 @@ Las islas Orcadas es un destino donde tus comandos triunfarán si son rápidos y
 
 ## Ataque a Scapa Flow
 ```
-xxx
+La base naval de Scapa Flow es la más importante base naval inglesa. La marina inglesa la considera inexpugnable, pero los nazis tienen sus propios planes. Tus comandos pueden evitar un duro golpe a la Royal Navy, si desbaratan los planes de la Kaiserliche Marine nazi. 
 ```
-
-### Scapa Flow
-La base militar de Scapa Flow en las islas Orcadas que están a solo unos 290 km al noreste de la isla de Skye. 
 
 xxx
 
@@ -1398,18 +1395,31 @@ Esta misión no empieza como otras con Horace Linton dando una soporífera charl
 
 xxx
 
-## En todo el fregado
+\saltopagina
+
+[![Plano de Scapa Flow](./assests/images/scapa-flow.jpg 'Mapa de Scapa Flow, en las islas Orcadas. - Siałababamak')](https://es.wikipedia.org/wiki/Scapa_Flow#/media/Archivo:Scapa_Flow.svg 'Mapa de Scapa Flow, en las islas Orcadas. - Siałababamak')
+
+### La base naval de Scapa Flow
+La base militar de Scapa Flow en las islas Orcadas que están a solo unos 290 km al noreste de la isla de Skye. La base naval está protegida con todos los elementos posibles (redes antisubmarinos, portones, minas, cañones...).
+
 xxx
 
-### Escudo anti-torpedos
+### Trabajo basura
 xxx
-
-El submarino U-47 tiene dos tipos de dos opciones de torpedos:
-
-* Torpedo G7a que alcanzaba una velocidad de 44 nudos (80 km/h). Muy rápido y con un alcance de 5.000 m, pero su motor era muy ruidoso y dejaba una estela de burbujas que mostraba su ruta.
 
 \saltopagina
 
+## En todo el fregado
+xxx
+
+La zona por la que puede pasar un sumergible es la entrada oriental llamada Kirk Sound, un estrecho y turbulento brazo de mar entre Pomona y Lamb Holm. 
+
+### Escudo anti-torpedos
+Tus comandos y sus saurios son la única defensa que tiene el "HMS Royal Oak" y ni tan siquiera sabe que lo tiene. Deben moverse rápido y ser certeros con sus ataques si quieren evitar que los impactos de torpedo. 
+
+El submarino U-47 de Prien tiene dos tipos de torpedos:
+
+* Torpedo G7a que alcanzaba una velocidad de 44 nudos (80 km/h). Muy rápido y con un alcance de 5.000 m, pero su motor era muy ruidoso y dejaba una estela de burbujas que mostraba su ruta.
 * Torpedo G7e con una velocidad de 30 nudos (55 km/h). Más lento y con menor alcance (3.000 m) pero muy silencioso y casi invisible. Tenía un motor eléctrico que no dejaba una estela de burbujas por los gases del motor a combustión. Pero que exigía mayor mantenimiento y por tanto tendían a fallar más.
 
 Como recordatorio rápido los plesiosaurios y los ictiosaurios tienen una velocidad máxima de 22 nudos (40 km/m).
@@ -1423,6 +1433,8 @@ Crea una cuadrícula de 6x10. En un extremo estará el buque de guerra y en el o
 
 El primer turno y cada dos turnos (1, 3, 5, 7, ...) el submarino lanza un torpedo y tiras d6 (en secreto) para saber por cuál columna va a moverse el torpedo. Saca una carta para saber el tipo, rojo G7a y negro G7e. Si sale un Joker vuelve a sacar otra carta para saber el tipo y, además de las ventajas propias del Joker, el torpedo G7e más cercano al buque de guerra se le estropea el motor, se hunde y explota al tocar el fondo.
 
+\saltopagina
+
 #### Movimiento por el campo de batalla
 Cada turno, por cada torpedo activo saca una carta, si sale trébol se mueve una casilla hacia adelante y si no se mueven dos casillas hacia delante (y como antes un Joker supone que falla un G7e). Los saurios acuáticos se mueven 1 casilla y con una tirada de Atletismo podrá moverse otra casilla adicional. Si falla, sigue moviéndose la casilla extra, pero recibe 1 punto de fatiga (efectivo al terminar su turno). Si pifia, ni obtiene la casilla extra y recibe el punto de fatiga.
 
@@ -1430,8 +1442,6 @@ Los G7a se les detecta muy fácilmente y desde la casilla 1 se ve su trayectoria
 
 #### Desviar un torpedo
 Para deflectar un torpedo, el plesiosaurio debe estar en la misma casilla que el torpedo. Cada vez que un torpedo entra en una casilla ocupada por comando o el comando y su saurio entra en una casilla ocupada por un torpedo puede intentar desviarlo para que no impacte contra el "HMS Royal Oak".
-
-\saltopagina
 
 No pueden desactivar ni detener los torpedos, solo pueden desviarlos. Es por ello que tendrán que hacer primero una tirada de Atletismo para nadar y acercarse por el lado adecuado. Cada avance da un +1 a la tirada de FUE enfrentada a la FUE del torpedo (d12 para el G7a y d8 para el G7e).
 
@@ -1443,10 +1453,20 @@ Cuando un torpedo lleva a la última casilla de su columna impacta el buque de g
 * Cuando el barco recibe 3 impactos o 2 impactos en la misma localización. En este caso el buque de guerra ha recibido demasiado daño y empezará a hundirse.
 * Cuando el submarino lanza 15 torpedos y no consigue hundir su objetivo.
 
-## La pista
-El sistema de detección y desvío de torpedos con saurios acuáticos tiene que haber vuelto loco al capitán de corbeta Prien. Ha tenido que alunizar al ver como todos sus torpedos acababan fallando contra un enemigo desprotegido y desprevenido. Lo normal es que reporte a sus jefes que los ingleses tienen una tecnología anti-torpedos y que la han probado en combate.
+## ¿Cómo detener un submarino?
+xxx
 
-En unos días llegará a la inteligencia nazi. Es importante tener en cuenta que Prien es un as de la guerra submarina y su testimonio es muy valorado. Si dice que algo evitó que impactará en el "HMS Royal Oak" es que los ingleses tienen alguna nueva tecnología. 
+\saltopagina
+
+## Interrogatorio
+xxx
+
+## La pista
+El sistema de detección y desvío de torpedos con saurios acuáticos tiene que haber vuelto loco al capitán de corbeta Prien. Ha tenido que alucinar al ver como todos sus torpedos acababan fallando contra un enemigo desprotegido y desprevenido. Lo normal es que reporte a sus jefes que los ingleses tienen una tecnología anti-torpedos y que la han probado en combate.
+
+En unos días un relojero alemán afincado desde 19289 en las Orcadas llamado Alfred Wehring llegará a Londres y en pocos días la inteligencia nazi sabrá que el capitán Prien fallo inexplicablemente. 
+
+Es importante tener en cuenta que Prien es un as de la guerra submarina y su fracaso no estaba contemplado. También hay que entender que Alfred Wehring era un espía nazi que llevaba desde 1929 estudiando Scapa Flow y cómo entrar. Si dice que algo evitó que impactará en el "HMS Royal Oak" e hizo fracasar a Prien es que los ingleses tienen alguna nueva tecnología. 
 
 Esto hará que los espías alemanas en Inglaterra se pongan a buscar cualquier pista que les lleve a descubrir que han desarrollado e instalado en el "HMS Royal Oak".
 
