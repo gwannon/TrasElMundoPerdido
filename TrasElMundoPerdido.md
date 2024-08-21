@@ -886,7 +886,7 @@ La campaña tiene una estructura clásica que permitirá a tu comando moverse po
 La campaña comienza en la isla de Skye donde tu comando aprenderá a trabajar con sus compañeros saurios. Una vez completado el entrenamiento tendrán su primera misión en el canal de la Mancha y si pasan su bautismo de fuego, podrán moverse a diferentes escenarios de guerra:
 
 * El asedio de Tobruk en el Norte de África
-* La batalla del Río de la plata
+* El ataque a Scapa Flow
 * Sabotaje de las fábricas de agua pesada de Telemark, Noruega
 * Incursión en la Francia ocupada para preparar el día D
 * El asedio de Stalingrado en el frente ruso
@@ -910,7 +910,7 @@ La aventura acabará en la Selva Negra donde tu comando deberá tomar un castill
 ### Orden cronológico
 Si deseas jugar los diferentes escenarios de guerra en orden cronológico por rigor histórico, esta es la secuencia de eventos.
 
-1. Batalla del Río de la Plata (1939, aunque la partida empieza en el verano de 1940)
+1. Ataque a Scapa Flow (1939, aunque la partida empieza en el verano de 1940)
 2. Sitio de Tobruk (1941)
 3. El sitio de Stalingrado (1942-1943)
 3. Operación Gunnerside (1943)
@@ -1380,17 +1380,22 @@ Esto supone que la Fundación está en el radar de las SS. Algo deben sospechar 
 
 ***
 
-# Parte 3: Río de la plata
-El río de la Plata es otro de esos destinos exóticos donde tus comandos triunfarán si entienden a sus saurios acuáticos y saben sacar provecho de sus excepcionales habilidades en el agua.
+# Parte 3: Islas Orcadas
+Las islas Orcadas es un destino donde tus comandos triunfarán si son rápidos y entienden a sus saurios acuáticos y saben sacar provecho de sus excepcionales habilidades en el agua.
 
-## Batalla del Río de la Plata
+## Ataque a Scapa Flow
 ```
 xxx
 ```
+
+### Scapa Flow
+La base militar de Scapa Flow en las islas Orcadas que están a solo unos 290 km al noreste de la isla de Skye. 
 
 xxx
 
 ## Informe de misión
+Esta misión no empieza como otras con Horace Linton dando una soporiferá charla. Se ha pedido a la Fundación que con sus suarios acuáticos haga una serie de revisiones y trabajos en la base naval de Scapa Flow.
+
 xxx
 
 ## En todo el fregado
@@ -1399,14 +1404,14 @@ xxx
 ### Escudo anti-torpedos
 xxx
 
-El submarino tiene dos tipos de dos opciones de torpedos:
+El submarino U-47 tiene dos tipos de dos opciones de torpedos:
 
 * Torpedo G7a que alcanzaba una velocidad de 44 nudos (80 km/h). Muy rápido y con un alcance de 5.000 m, pero su motor era muy ruidoso y dejaba una estela de burbujas que mostraba su ruta. 
 * Torpedo G7e con una velocidad de 30 nudos (55 km/h). Más lento y con menor alcance (3.000 m) pero muy silencioso y casi invisible. Tenía un motor eléctrico que no dejaba una estela de burbujas por los gases del motor a combustión. Pero que exigía mayor mantenimiento y por tanto tendían a fallar más.
 
 Como recordatorio rápido los plesiosaurios y los ictiosaurios tienen una velocidad máxima de 22 nudos (40 km/m).
 
-El submarino nazi va a intentar hundir el "HMS Exeter" y tus comandos con sus plesiosaurios e ictiosaurios deben crear un escudo anti torpedos. 
+El submarino nazi va a intentar hundir el "HMS Royal Oak" y tus comandos con sus plesiosaurios e ictiosaurios deben crear un escudo anti torpedos. 
 
 \saltopagina
 
@@ -1423,7 +1428,7 @@ Cada turno, por cada torpedo activo saca una carta, si sale trébol se mueve una
 Los G7a se les detecta muy fácilmente y desde la casilla 1 se ve su trayectoria, pero lo G7e son invisibles para tus comandos hasta que un comando pasa por su casilla o una adyacente. En ese momento, podrán verlo y ver que columna de la cuadrícula sigue. 
 
 #### Desviar un torpedo
-Para deflectar un torpedo, el plesiosaurio debe estar en la misma casilla que el torpedo. Cada vez que un torpedo entra en una casilla ocupada por comando o el comando y su saurio entra en una casilla ocupada por un torpedo puede intentar desviarlo para que no impacte contra el "HMS Exeter".
+Para deflectar un torpedo, el plesiosaurio debe estar en la misma casilla que el torpedo. Cada vez que un torpedo entra en una casilla ocupada por comando o el comando y su saurio entra en una casilla ocupada por un torpedo puede intentar desviarlo para que no impacte contra el "HMS Royal Oak".
 
 No pueden desactivar ni detener los torpedos, solo pueden desviarlos. Es por ello que tendrán que hacer primero una tirada de Atletismo para nadar y acercarse por el lado adecuado. Cada avance da un +1 a la tirada de FUE enfrentada a la FUE del torpedo (d12 para el G7a y d8 para el G7e).
 
@@ -1438,9 +1443,11 @@ Cuando un torpedo lleva a la última casilla de su columna impacta el buque de g
 * Cuando el submarino lanza 15 torpedos y no consigue hundir su objetivo.
 
 ## La pista
-El sistema de detección y desvío de torpedos con saurios acuáticos tiene que haber vuelto loco al capitán del submarino. Ha tenido que alunizar al ver como todos sus torpedos acababan fallando. Lo normal es que reporte a sus jefes que los ingleses tienen una tecnología anti-torpedos y que la han probado en combate.
+El sistema de detección y desvío de torpedos con saurios acuáticos tiene que haber vuelto loco al capitán de corbeta Prien. Ha tenido que alunizar al ver como todos sus torpedos acababan fallando contra un enemigo desprotegido y desprevenido. Lo normal es que reporte a sus jefes que los ingleses tienen una tecnología anti-torpedos y que la han probado en combate.
 
-En unos días llegará a la inteligencia nazi. Esto hará que los espías alemanas en Argentina se pongan a buscar cualquier pista que les lleve a descubrir que han desarrollado e instalado en el Hexeter.
+En unos días llegará a la inteligencia nazi. Es importante tener el cuenta que Prien es un as de la guerra submarina y su testimonio es muy valorado. Si dice que algo evitó que impactará en el "HMS Royal Oak" es que los ingleses tienen alguna nueva tecnología. 
+
+Esto hará que los espías alemanas en Inglaterra se pongan a buscar cualquier pista que les lleve a descubrir que han desarrollado e instalado en el "HMS Royal Oak".
 
 xxx
 
@@ -2590,7 +2597,7 @@ xxx
 
 \saltopagina
 
-###  Irma Bormann, espía de las SS &#x2638;
+### Irma Bormann, espía de las SS &#x2638;
 [![Retrato de Irma Bormann](./assests/images/bormann.jpg 'Studio portrait photo of Veronica Lake taken for promotional use.')](https://es.wikipedia.org/wiki/Veronica_Lake#/media/Archivo:Veronica_Lake_still.jpg 'Studio portrait photo of Veronica Lake taken for promotional use.')
 
 Irma es la _femme fatale_ por excelencia, seductora y misteriosa, pero también sádica y mortal. Nadie puede escapar de sus encantos. 
@@ -2608,10 +2615,12 @@ xxx
 
 \saltopagina
 
-### Otto Klein, capitán de submarino &#x2638;
-xxx
+### Günther Prien, capitán de submarino &#x2638;
+[![Retrato de Günther Prien](./assests/images/prien.jpg 'Kapitänleutnant Prien 6534-40 - Bundesarchiv')](https://es.wikipedia.org/wiki/G%C3%BCnther_Prien#/media/Archivo:Bundesarchiv_Bild_183-2006-1130-500,_Kapit%C3%A4nleutnant_G%C3%BCnther_Prien.jpg 'Kapitänleutnant Prien 6534-40 - Bundesarchiv')
 
-Otto capitanea un el U-505 (tipo IX C) preparado para viajes a larga distancia.
+[Günther Prien](https://es.wikipedia.org/wiki/G%C3%BCnther_Prien) es una de los mejores caza barcos de la marina nazi. Su sola mención hace que cualquier tripulación se "santigue" y le rece a sus dioses. xxx
+
+Günther capitanea el U-47 
 
 xxx
 
@@ -3206,7 +3215,7 @@ No soy propietario de ninguna de las imágenes de este documento. Estoy usando i
 * [Portada "La campaña"](https://es.wikipedia.org/wiki/El_mundo_perdido_(pel%C3%ADcula_de_1925)#/media/Archivo:The_Lost_World_(1925)_-_film_poster.jpg)
 * [Portada "Parte 1: La isla de Skye"](https://pixabay.com/es/photos/isla-de-skye-escocia-gran-breta%C3%B1a-4415029/)
 * [Portada "Parte 2: Norte de África"](https://en.wikipedia.org/wiki/Siege_of_Tobruk#/media/File:Men_of_the_Leicestershire_Rgt._man_a_Bren_gun_near_Tobruk.jpg)
-* [Portada "Parte 3: Río de la plata"](https://upload.wikimedia.org/wikipedia/commons/c/ce/Graf_Spee_Wreck_USNphoto_1.jpg)
+* [Portada "Parte 3: Islas Orcadas"](https://upload.wikimedia.org/wikipedia/commons/c/ce/Graf_Spee_Wreck_USNphoto_1.jpg)
 * [Portada "Parte 4: Noruega"](https://www.nia.no/en/the-saboteurs/)
 * [Portada "Parte 5: La Francia Ocupada"](https://en.wikipedia.org/wiki/Battle_of_Saint-Malo#/media/File:Bomb_exploding_during_the_Battle_of_Saint-Malo_August_1944.jpg)
 * [Portada "Parte 6: El frente ruso"](https://es.wikipedia.org/wiki/Batalla_de_Stalingrado#/media/Archivo:RIAN_archive_602161_Center_of_Stalingrad_after_liberation.jpg)
@@ -3254,7 +3263,7 @@ Creado por [Gwannon](https://gwannon.itch.io/)
 
 Este libro contiene:
 
-1. Una **campaña de completa con 8 localizaciones por todo el mundo**, desde el norte de África a Noruega o el río de la Plata, donde realizarán peligrosas misiones contra los nazis.
+1. Una **campaña de completa con 8 localizaciones por todo el mundo**, desde el norte de África a Noruega o la selva venezolana, donde realizarán peligrosas misiones contra los nazis.
 2. **15 relatos salvajes de 1 o 2 sesiones** para meter entre misiones que les llevarán desde conocer a la reina Isabel o participar en una película de serie B a rescatar el tesoro de un galeón hundido o recuperar obras de arte robadas por las SS.
 3. **Reglas para crear tu comando de jinetes de dinosaurios.**
 4. Estadísticas de **dinosaurios y otros seres prehistóricos**, así como de diversas y **desquiciantes unidades del ejército nazi** para meter en tus aventuras.

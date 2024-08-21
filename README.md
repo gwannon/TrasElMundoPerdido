@@ -15,7 +15,7 @@
 
 # Por hacer de la versión 0.7
 * Parte 5: Normandía
-* Parte 3: Río de la Plata
+* Parte 3: Islas Orcadas
 
 # Por hacer de la versión 0.6
 * Parte 4: Noruega
@@ -40,7 +40,7 @@
 * Terminando la parte de "Planeando las distracciones" de "Parte 4: Noruega"
 * Terminando la parte de "¡¡¡¡Dragones!!!!" de "Parte 4: Noruega"
 
-# Version 0.6 20/08/2024
+# Versión 0.6 20/08/2024
 * Terminado el Relato Salvaje "Noche de poker"
 * Terminada la parte de "Operación Gunnerside" de "Parte 4: Noruega"
 * Terminada la parte de "Lo que IM puede contarte" de "Parte 4: Noruega"
@@ -56,7 +56,7 @@
 # Versión 0.5.1 10/08/2024
 * Terminado el Relato Salvaje "Campo minado"
 * Terminado el Relato Salvaje "Operación Columba"
-* Terminada la parte de "Escudo anti-torpedos" de "Parte 3: Río de la plata"
+* Terminada la parte de "Escudo anti-torpedos" de "Parte 3: Islas Orcadas"
 * Terminada ambientación "El mundo perdido"
 
 # Versión 0.5 06/08/2024
