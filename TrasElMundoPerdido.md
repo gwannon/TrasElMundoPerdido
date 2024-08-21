@@ -1393,8 +1393,8 @@ La base militar de Scapa Flow en las islas Orcadas que están a solo unos 290 km
 
 xxx
 
-## Informe de misión
-Esta misión no empieza como otras con Horace Linton dando una soporiferá charla. Se ha pedido a la Fundación que con sus suarios acuáticos haga una serie de revisiones y trabajos en la base naval de Scapa Flow.
+## Misión de rutina
+Esta misión no empieza como otras con Horace Linton dando una soporífera charla. Se ha pedido a la Fundación que con sus saurios acuáticos haga una serie de revisiones y trabajos en la base naval de Scapa Flow.
 
 xxx
 
@@ -1406,14 +1406,15 @@ xxx
 
 El submarino U-47 tiene dos tipos de dos opciones de torpedos:
 
-* Torpedo G7a que alcanzaba una velocidad de 44 nudos (80 km/h). Muy rápido y con un alcance de 5.000 m, pero su motor era muy ruidoso y dejaba una estela de burbujas que mostraba su ruta. 
+* Torpedo G7a que alcanzaba una velocidad de 44 nudos (80 km/h). Muy rápido y con un alcance de 5.000 m, pero su motor era muy ruidoso y dejaba una estela de burbujas que mostraba su ruta.
+
+\saltopagina
+
 * Torpedo G7e con una velocidad de 30 nudos (55 km/h). Más lento y con menor alcance (3.000 m) pero muy silencioso y casi invisible. Tenía un motor eléctrico que no dejaba una estela de burbujas por los gases del motor a combustión. Pero que exigía mayor mantenimiento y por tanto tendían a fallar más.
 
 Como recordatorio rápido los plesiosaurios y los ictiosaurios tienen una velocidad máxima de 22 nudos (40 km/m).
 
 El submarino nazi va a intentar hundir el "HMS Royal Oak" y tus comandos con sus plesiosaurios e ictiosaurios deben crear un escudo anti torpedos. 
-
-\saltopagina
 
 [![Detalle del tablero de combate](./assests/images/grid.png 'Detalle del tablero de combate')](https://mundoperdido.gwannon.com/assests/images/grid.png 'Detalle del tablero de combate')
 
@@ -1430,11 +1431,11 @@ Los G7a se les detecta muy fácilmente y desde la casilla 1 se ve su trayectoria
 #### Desviar un torpedo
 Para deflectar un torpedo, el plesiosaurio debe estar en la misma casilla que el torpedo. Cada vez que un torpedo entra en una casilla ocupada por comando o el comando y su saurio entra en una casilla ocupada por un torpedo puede intentar desviarlo para que no impacte contra el "HMS Royal Oak".
 
+\saltopagina
+
 No pueden desactivar ni detener los torpedos, solo pueden desviarlos. Es por ello que tendrán que hacer primero una tirada de Atletismo para nadar y acercarse por el lado adecuado. Cada avance da un +1 a la tirada de FUE enfrentada a la FUE del torpedo (d12 para el G7a y d8 para el G7e).
 
 Si pasan la tirada, el proyectil recibe tal impacto que es desviado de su ruta y no impacta contra el barco. Si fallan, el torpedo sigue su ruta y si empatan el torpedo cambia de carril al azar (par a la izquierda, impar derecha y si sale de la cuadrícula se pierde). Si pifian las dos tiradas el torpedo explota (6d6 de daño para el plesiosaurio y su jinete).
-
-\saltopagina
 
 #### Fin del combate
 Cuando un torpedo lleva a la última casilla de su columna impacta el buque de guerra. El combate acaba en dos situaciones 
@@ -1445,7 +1446,7 @@ Cuando un torpedo lleva a la última casilla de su columna impacta el buque de g
 ## La pista
 El sistema de detección y desvío de torpedos con saurios acuáticos tiene que haber vuelto loco al capitán de corbeta Prien. Ha tenido que alunizar al ver como todos sus torpedos acababan fallando contra un enemigo desprotegido y desprevenido. Lo normal es que reporte a sus jefes que los ingleses tienen una tecnología anti-torpedos y que la han probado en combate.
 
-En unos días llegará a la inteligencia nazi. Es importante tener el cuenta que Prien es un as de la guerra submarina y su testimonio es muy valorado. Si dice que algo evitó que impactará en el "HMS Royal Oak" es que los ingleses tienen alguna nueva tecnología. 
+En unos días llegará a la inteligencia nazi. Es importante tener en cuenta que Prien es un as de la guerra submarina y su testimonio es muy valorado. Si dice que algo evitó que impactará en el "HMS Royal Oak" es que los ingleses tienen alguna nueva tecnología. 
 
 Esto hará que los espías alemanas en Inglaterra se pongan a buscar cualquier pista que les lleve a descubrir que han desarrollado e instalado en el "HMS Royal Oak".
 
