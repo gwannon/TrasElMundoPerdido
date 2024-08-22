@@ -1394,9 +1394,9 @@ En el evento real, llamado el ataque de Scapa Flow, en que se basa esta misión 
 Sin embargo aquí están tus comandos y sus saurios para evitarlo o por lo menos lo intentarán. 
 
 ## Misión de rutina
-Esta misión no empieza como otras con Horace Linton dando una soporífera charla. Se ha pedido a la Fundación que con sus saurios acuáticos haga una serie de revisiones y trabajos en la base naval de Scapa Flow.
+Esta misión no empieza como otras con Horace Linton dando una soporífera charla. Se ha pedido desde IM a la Fundación que con sus saurios acuáticos haga una serie de revisiones y trabajos en la base naval de Scapa Flow.
 
-xxx
+Según ha dicho IM necesitan que "una entidad externa" haga una auditoria a todas las defensas antisubmarinos de la Scapa Flow y envíe un informe. Parce ser que temen un ataque nazi a las instalaciones y no quieren filtraciones.
 
 \saltopagina
 
@@ -1408,7 +1408,13 @@ La base militar de Scapa Flow en las islas Orcadas que están a solo unos 290 km
 xxx
 
 ### Trabajo basura
-xxx
+La misión que van a tener que llevar a cabo tus comandos es tremendamente tediosa. Durante días tendrán que revisar todas y cada una de las defensas. Pieza por pieza, tornillo por tornillo y realizar unos tediosos informes. Hazles tirar cada día Notar o Reparar por la mañana y por la tarde y haz como que apuntas los avances para que crean que algún tipo de prueba. Si fallan, quítales avances sin ningún tipo de sentido para que sea un poco más caótico. Es lo que tienen los trabajos alienantes, que no tienen sentido. 
+
+Si lo desean pueden ir haciendo tiradas diarias de Tácticas con la nueva información recaba cada día para ver qué falla en las defensas y dónde están los lugares por los que podrían atacar. Dales positivos aleatoriamente a la tirada. Puedes dejarles que intenten hablar con los mandamases de la base si detectan alguna brecha grave, pero esto solo debería servirles para pegarles   
+
+La idea de toda esta parte es hacerla lo más aburrida y tediosa posible, ya que realmente su informe no sirve para nada en la trama. Pero tampoco lo alargues mucho (5-10 minutos) y si ves que alguien empieza a coger papel y lápiz, corta. Lo que buscamos es que de repente, sin previo aviso y sin estar preparados, aparezca el enemigo y ver como reaccionan ante la posibilidad de que si no lo hacen bien se pierdan miles de vidas.
+
+> Todo lo anterior es algo opcional y si no crees que encaje en tu partida eres libre de obviarlo todo, describirles el trabajo que realizan en la base naval y pasar al siguiente punto. Recuerda que "tu mesa, tus reglas".
 
 \saltopagina
 
