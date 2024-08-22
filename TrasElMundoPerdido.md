@@ -1398,17 +1398,30 @@ Esta misión no empieza como otras con Horace Linton dando una soporífera charl
 
 Según ha dicho IM necesitan que "una entidad externa" haga una auditoria a todas las defensas antisubmarinos de la Scapa Flow y envíe un informe. Parce ser que temen un ataque nazi a las instalaciones y no quieren filtraciones.
 
+### La base naval de Scapa Flow
+La base Naval de Scapa Flow está en las islas Orcadas que están a solo unos 290 km al noreste de la isla de Skye. Scapa Flow es una masa de agua bastante grande rodeada por las diferentes islas Orcadas de forma que es un fondeadero tranquilo, ya usado por los vikingos. 
+
 \saltopagina
 
 [![Plano de Scapa Flow](./assests/images/scapa-flow.jpg 'Mapa de Scapa Flow, en las islas Orcadas. - Siałababamak')](https://es.wikipedia.org/wiki/Scapa_Flow#/media/Archivo:Scapa_Flow.svg 'Mapa de Scapa Flow, en las islas Orcadas. - Siałababamak')
 
-### La base naval de Scapa Flow
-La base militar de Scapa Flow en las islas Orcadas que están a solo unos 290 km al noreste de la isla de Skye. La base naval está protegida con todos los elementos posibles (redes antisubmarinos, portones, minas, cañones...).
+La base naval está protegida con todos los elementos posibles (redes antisubmarinos, portones, minas, cañones...). Además siempre cuenta con varios barcos de guerra que se encargan de su defensa.
 
-xxx
+Scapa Flow siempre ha sido una obsesión para los nazis y siempre ha estado en el punto de mira de la marina del Führer.
+
+En el momento en que vayan tus comandos están fondeados en las aguas de Scapa Flow:
+
+* **HMS Royal Oak:** Acorazado clase Revenge.
+* **HMS Pegasus:** Porta hidroaviones.
+* **HMS Iron Duke:** Acorazado clase Iron Duke
+* Además de 3 cargueros medios con materiales para la base y el "Mary Anning".
+
+\saltopagina
 
 ### Trabajo basura
-La misión que van a tener que llevar a cabo tus comandos es tremendamente tediosa. Durante días tendrán que revisar todas y cada una de las defensas. Pieza por pieza, tornillo por tornillo y realizar unos tediosos informes. Hazles tirar cada día Notar o Reparar por la mañana y por la tarde y haz como que apuntas los avances para que crean que algún tipo de prueba. Si fallan, quítales avances sin ningún tipo de sentido para que sea un poco más caótico. Es lo que tienen los trabajos alienantes, que no tienen sentido. 
+La misión que van a tener que llevar a cabo tus comandos es tremendamente tediosa. Durante días tendrán que revisar todas y cada una de las defensas. Pieza por pieza, tornillo por tornillo y realizar unos tediosos informes. 
+
+Hazles tirar cada día Notar o Reparar por la mañana y por la tarde y haz como que apuntas los avances para que crean que algún tipo de prueba. Si fallan, quítales avances sin ningún tipo de sentido para que sea un poco más caótico. Es lo que tienen los trabajos alienantes, que no tienen sentido. 
 
 Si lo desean pueden ir haciendo tiradas diarias de Tácticas con la nueva información recaba cada día para ver qué falla en las defensas y dónde están los lugares por los que podrían atacar. Dales positivos aleatoriamente a la tirada. Puedes dejarles que intenten hablar con los mandamases de la base si detectan alguna brecha grave, pero esto solo debería servirles para pegarles   
 
@@ -1416,15 +1429,17 @@ La idea de toda esta parte es hacerla lo más aburrida y tediosa posible, ya que
 
 > Todo lo anterior es algo opcional y si no crees que encaje en tu partida eres libre de obviarlo todo, describirles el trabajo que realizan en la base naval y pasar al siguiente punto. Recuerda que "tu mesa, tus reglas".
 
+## En todo el fregado
+Nadie lo sabe, pero mientras estaban trabajando un submarino nazi en el fondeadero. Ha entrado por una entrada oriental llamada Kirk Sound, un estrecho y turbulento brazo de mar entre las islas de Pomona y Lamb Holm.
+
+Tus comandos casi chocan con él en su trabajo de inspección. Se lo encontrarán a altura de periscopio y parece que está en modo combate y va directo hacia el "HMS Royal Oak". En cuanto este a distancia de torpedos lanzará su ataque. 
+
 \saltopagina
 
-## En todo el fregado
-xxx
-
-La zona por la que puede pasar un sumergible es la entrada oriental llamada Kirk Sound, un estrecho y turbulento brazo de mar entre Pomona y Lamb Holm. 
-
 ### Escudo anti-torpedos
-Tus comandos y sus saurios son la única defensa que tiene el "HMS Royal Oak" y ni tan siquiera sabe que lo tiene. Deben moverse rápido y ser certeros con sus ataques si quieren evitar que los impactos de torpedo. 
+Tus comandos y sus saurios son la única defensa que tiene el "HMS Royal Oak". Para cuando puedan avisarles del ataque y se preparen, el acorazado ya estará haciendo aguas. 
+
+Deben actuar ya, moverse rápido y desviar los torpedos de su trayectoria, siendo certeros con sus ataques. Con suerte el Royal Oak salga indemne del ataque y pueda contraatacar.
 
 El submarino U-47 de Prien tiene dos tipos de torpedos:
 
@@ -1442,10 +1457,12 @@ Crea una cuadrícula de 6x10. En un extremo estará el buque de guerra y en el o
 
 El primer turno y cada dos turnos (1, 3, 5, 7, ...) el submarino lanza un torpedo y tiras d6 (en secreto) para saber por cuál columna va a moverse el torpedo. Saca una carta para saber el tipo, rojo G7a y negro G7e. Si sale un Joker vuelve a sacar otra carta para saber el tipo y, además de las ventajas propias del Joker, el torpedo G7e más cercano al buque de guerra se le estropea el motor, se hunde y explota al tocar el fondo.
 
+#### Movimiento por el campo de batalla
+Cada turno, por cada torpedo activo saca una carta, si sale trébol se mueve una casilla hacia adelante y si no se mueven dos casillas hacia delante (y como antes un Joker supone que falla un G7e). Los saurios acuáticos se mueven 1 casilla y con una tirada de Atletismo podrá moverse otra casilla adicional.
+
 \saltopagina
 
-#### Movimiento por el campo de batalla
-Cada turno, por cada torpedo activo saca una carta, si sale trébol se mueve una casilla hacia adelante y si no se mueven dos casillas hacia delante (y como antes un Joker supone que falla un G7e). Los saurios acuáticos se mueven 1 casilla y con una tirada de Atletismo podrá moverse otra casilla adicional. Si falla, sigue moviéndose la casilla extra, pero recibe 1 punto de fatiga (efectivo al terminar su turno). Si pifia, ni obtiene la casilla extra y recibe el punto de fatiga.
+Si falla, sigue moviéndose la casilla extra, pero recibe 1 punto de fatiga (efectivo al terminar su turno). Si pifia, ni obtiene la casilla extra y recibe el punto de fatiga.
 
 Los G7a se les detecta muy fácilmente y desde la casilla 1 se ve su trayectoria, pero lo G7e son invisibles para tus comandos hasta que un comando pasa por su casilla o una adyacente. En ese momento, podrán verlo y ver que columna de la cuadrícula sigue. 
 
@@ -2593,22 +2610,24 @@ Una historia es tan buena como sus antagonistas y aquí tienes a los villanos y 
 
 [![Primer plano de Theodor von Liebenfels](./assests/images/theodor.jpg 'Dietrich von Saucken - Source: Photo H. Hoffmann')](https://en.wikipedia.org/wiki/Dietrich_von_Saucken#/media/File:Dietrich_von_Saucken_1.jpg 'Dietrich von Saucken - Source: Photo H. Hoffmann')
 
-xxx
-
 Von Liebenfels es un auténtico fanático de dos cosas, el Führer y la mitología nórdica. Su fanatismo por Hitler y su causa es de sobra conocida. Todo lo que diga Hitler es cierto y sus ideas nunca están equivocadas. 
 
 Su obsesión con los mitos nórdicos, la magia rúnica y los aesires es algo que mantiene más en secreto. Con varios libros antiguos ha intentado realizar hechizos de magia rúnica sin mucho éxito, pero está convencido que descubrirá algún día las fórmulas mágicas correctas y con ellas ayudará al Führer a ganar la guerra y limpiar el mundo de impurezas.
 
+Theodor es uno de generales más importantes de las fuerzas militares nazis y es enviado a las misiones más especiales por el propio Hitler fuera de la línea del frente. Hitler sabe que von Liebenfels ve el mundo de otra manera y le gusta la posibilidad de que uno de sus generales le permita acercarse ese mundo sobrenatural.
+
 * **Atributos:** Agilidad d8, Astucia d10, Espíritu d6, Fuerza d8, Vigor d8
 * **Habilidades:** Atletismo d4, Conducir d6, Conocimientos Generales d8, Disparar d8, Humanidades d10, Idioma Alemán d8, Intimidar d10, Notar d8, Pelear d8, Persuadir d6, Sigilo d4, Tácticas d8
-* **Paso:** 6; **Parada:** 6; **Dureza:** 6
-* **Ventajas:** xxx
-* **Desventajas:** xxx
+* **Paso:** 6; **Parada:** 6; **Dureza:** 6 / 9(3) con el camisote de malla
+* **Ventajas:** Sensibilidad celta, Mando, ¡Mantened la formación!, Táctico
+* **Desventajas:** Fanático (SS), Sanguinario, Vengativo, Delirio (mayor, la magia rúnica y los dioses nórdicos existen)
 * **Equipo:** Pistola, Uniforme nazi impoluto, Bolsa de cuero con runas, Bolsa de componentes mágicos
 
-**Sugerencia de interpretación:** Eres todo lo que se espera de un general racista, machista, cruel, sádico (de hecho disfrutas con el dolor ajeno y propio) y con un total desprecio por la vida humana. Los fallos los castigas duramente, muy duramente. En cuanto empiezan a salirte mal las cosas empiezas a chillar a todos y a moverte frenéticamente.
-
 \saltopagina
+
+* **Equipo de combate:** Espada vikinga (FUE+d8), Camisote de malla (+3 torso y brazos), casco abierto (+4 cabeza), escudo medieval mediano (parada +2, cobertura -2)
+
+**Sugerencia de interpretación:** Eres todo lo que se espera de un general racista, machista, cruel, sádico (de hecho disfrutas con el dolor ajeno y propio) y con un total desprecio por la vida humana. Los fallos los castigas duramente, muy duramente. En cuanto empiezan a salirte mal las cosas empiezas a chillar a todos y a moverte frenéticamente.
 
 ###  Artur Eckart, científico loco nazi &#x2638;
 [![Primer plano de Wayland](./assests/images/eckart.jpg 'Geoffrey N. Pyke by State Library Victoria Collections')](https://www.flickr.com/photos/statelibraryofvictoria_collections/ 'Geoffrey N. Pyke by State Library Victoria Collections')
@@ -2644,11 +2663,11 @@ xxx
 \saltopagina
 
 ### Günther Prien, capitán de submarino &#x2638;
-[![Retrato de Günther Prien](./assests/images/prien.jpg 'Kapitänleutnant Prien 6534-40 - Bundesarchiv')](https://es.wikipedia.org/wiki/G%C3%BCnther_Prien#/media/Archivo:Bundesarchiv_Bild_183-2006-1130-500,_Kapit%C3%A4nleutnant_G%C3%BCnther_Prien.jpg 'Kapitänleutnant Prien 6534-40 - Bundesarchiv')
+[![Primer plano de Günther Prien](./assests/images/prien.jpg 'Kapitänleutnant Prien 6534-40 - Bundesarchiv')](https://es.wikipedia.org/wiki/G%C3%BCnther_Prien#/media/Archivo:Bundesarchiv_Bild_183-2006-1130-500,_Kapit%C3%A4nleutnant_G%C3%BCnther_Prien.jpg 'Kapitänleutnant Prien 6534-40 - Bundesarchiv')
 
-[Günther Prien](https://es.wikipedia.org/wiki/G%C3%BCnther_Prien) es una de los mejores caza barcos de la marina nazi. Su sola mención hace que cualquier tripulación se "santigue" y le rece a sus dioses. xxx
+[Günther Prien](https://es.wikipedia.org/wiki/G%C3%BCnther_Prien) es una de los mejores caza barcos de la marina nazi. Su sola mención hace que cualquier tripulación se "santigüe" y le rece a sus dioses. xxx
 
-Günther capitanea el U-47 
+Günther Prien es un hábil capitán de submarino. Con su U-47 ha conseguido varias victorias, consiguiendo bastante renombre no solo entre militares sino también la opinión pública y los medios. 
 
 xxx
 
@@ -2659,7 +2678,7 @@ xxx
 * **Desventajas:** xxx
 * **Equipo:** xxx
 
-**Sugerencia de interpretación:** xxx
+**Sugerencia de interpretación:** Eres bastante afable y risueño para ser un capitán de submarino nazi. Te tomas las cosas como vienen, no merece la pena comerte los malos rollos de la guerra. Las cosas vienen como vienen y a veces poco se puede hacer. 
 
 \saltopagina
 
@@ -2684,10 +2703,10 @@ Hablamos de todo tipo de oficiales que hace años que no han pisado un campo de 
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d4, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d6, Conducir d6, Conocimientos Generales d6, Disparar d8, Idioma materno d6, Intimidar d8, Notar d8, Pelear d6, Persuadir d6, Sigilo d6, Tácticas d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
+* **Ventajas:** Mando, Inspiración
 
 \saltopagina
 
-* **Ventajas:** Mando, Inspiración
 * **Desventajas:** Obligaciones (ejército), Leal
 * **Equipo:** Pistola, casco (+1 dureza cabeza)
 

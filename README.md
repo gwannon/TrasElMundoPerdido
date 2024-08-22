@@ -15,16 +15,18 @@
 
 # Por hacer de la versión 0.7
 * Parte 5: Normandía
-* Parte 3: Islas Orcadas
-
-# Por hacer de la versión 0.6
-* Parte 4: Noruega
 * Relatos salvajes
   * Un día en el museo
   * El pecio
   * El secreto de los Branningan
   * Espécimen perdido
   * Despedidas
+
+# Por hacer de la versión 0.6
+* Parte 4: Noruega
+* Parte 3: Islas Orcadas
+* Relatos salvajes
+  * Cena de etiqueta
 
 ## Recursos 
 * https://commons.wikimedia.org/wiki/Category:Charles_R._Knight
@@ -36,6 +38,10 @@
 # Changelog
 
 # Versión 0.6.1 En desarrollo
+* Terminada la parte de "Misión de rutina" de "Parte 3: Islas Orcadas"
+* Terminando la parte de "En todo el fregado" de "Parte 3: Islas Orcadas"
+* Terminando la parte de "¿Cómo detener un submarino?" de "Parte 3: Islas Orcadas"
+* Terminando la parte de "Interrogatorio" de "Parte 3: Islas Orcadas"
 * Terminando el Relato Salvaje "Cena de etiqueta"
 * Terminando la parte de "Planeando las distracciones" de "Parte 4: Noruega"
 * Terminando la parte de "¡¡¡¡Dragones!!!!" de "Parte 4: Noruega"
