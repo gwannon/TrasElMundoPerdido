@@ -25,8 +25,6 @@
 # Por hacer de la versión 0.6
 * Parte 4: Noruega
 * Parte 3: Islas Orcadas
-* Relatos salvajes
-  * Cena de etiqueta
 
 ## Recursos 
 * https://commons.wikimedia.org/wiki/Category:Charles_R._Knight
@@ -42,9 +40,9 @@
 * Terminando la parte de "En todo el fregado" de "Parte 3: Islas Orcadas"
 * Terminando la parte de "¿Cómo detener un submarino?" de "Parte 3: Islas Orcadas"
 * Terminando la parte de "Interrogatorio" de "Parte 3: Islas Orcadas"
-* Terminando el Relato Salvaje "Cena de etiqueta"
 * Terminando la parte de "Planeando las distracciones" de "Parte 4: Noruega"
 * Terminando la parte de "¡¡¡¡Dragones!!!!" de "Parte 4: Noruega"
+* Terminado el Relato Salvaje "Cena de etiqueta"
 
 # Versión 0.6 20/08/2024
 * Terminado el Relato Salvaje "Noche de poker"

@@ -1480,6 +1480,9 @@ Cuando un torpedo lleva a la última casilla de su columna impacta el buque de g
 * Cuando el submarino lanza 15 torpedos y no consigue hundir su objetivo.
 
 ## ¿Cómo detener un submarino?
+El U-47 se ha quedado casi sin +torpedos y solo le queda escapar, pero no será tan fácil con un grupo de saurios acuáticos persiguiéndote en aguas enemigas;
+Tus comandos debe buscar la forma de detener el submarino antes de que alcance Kirk Sound, el punto de entrada y salida a Scapa Flow. 
+
 xxx
 
 \saltopagina
@@ -2263,10 +2266,26 @@ Si alguno de los compañeros saurios ha caído en combate se le concederá la me
 \saltopagina
 
 ### La cena
-xxx
+Mientras que la cena transcurrirá con tranquilidad, a no ser que algún invitado haga una tontería, fuera, en el cenador, se empezará a mascar la tragedia.
+
+Aunque parezca increíble, las ocas y gansos que hay en los terrenos del castillo no les gusta la presencia de sus tatarabuelos evolutivos y se están juntando para acabar con ellos. Una manada de unos 15 gansos y ocas se va a reunir en las sombras cerca del cenador, preparados para expulsar a sus enemigos prehistóricos. 
+
+Unas tiradas de Notar y tus comandos descubrirán el _graznido_ de gansos. Son bastantes agresivos y no se amilanan por nada. En el momento que uno de los comandos intente asustarlos y dispersarlos, se desatará el desastre. Los gansos se lanzarán al ataque (Miedo -3) e increíblemente los saurios huirán de las ocas y los gansos. Tus comandos tendrán que pasar la tirada de Miedo o también saldrán corriendo.
+
+Mientras, si algún comando de la cena se anima, puede contar alguna anécdota graciosa de sus aventuras. Puedes pedirles tirar Interpretar. Si fallan la reina no cogerá la historia y fingirá reírse. Si la pasan se reirá de buena gana y por cada avance la reina se atragantará de risa o echará sopa por la nariz por las carcajadas.
 
 ### Desastre a los postres
-xxx
+Sin saber muy como se organizará de una estampida de dinosaurios, humanos, ocas y gansos. Los saurios saldrán hacia el castillo y empezará una estampida por las habitaciones y pasillos del castillo. Puedes narrarle la escena con gente gritando y corriendo, dinosaurios destrozando mobiliario y humanos tratando de evitar destrozos. O puedes hacerles jugar alguna posible situación.
+
+* Alguno de los comandos podría salvar a la reina de una malvada oca o evitar que un ganso se coma el carrito de postres. Usa las estadísticas del águila del Manual Básico.
+* Puedes hacerles tirar atletismo para recoger la porcelana de una estantería que una de ocas está tirando.
+* Montar a pelo un saurio (tiradas de Cabalgar) para sacarlo fuera esquivando a los gansos. 
+
+En un rato todo volverá a la normalidad si no fuera porque está todo lleno de plumas, porcelana rota y restos de comida. Sigue describiéndoles los destrozos y cuando veas que se ponen nerviosos la reina empezará a reírse a carcajadas. La situación es tan absurda que la reina se lo ha tomado bien y el tapiz de su abuelo luce mejor con un garrazo de dinosaurio.
+
+La reina sacará una botella de Ginebra de su reserva privada, repartirá el alcohol y brindará por Inglaterra y por la victoria.
+
+\saltopagina
 
 ### Algo no tiene sentido
 La IM está forzando las cosas al máximo. La reina puede ser una de las personas del Reino Unido más espiada por los nazis y el IM sabe perfectamente que el propio Hitler verá fotos de esta cena con la reina y sus dinosaurios.
@@ -2277,8 +2296,6 @@ Si sus perfiles psicológicos son correctos, Hitler se volverá al saber que la 
 
 > Esta aventura es perfecta para aquellas ocasiones en que no este toda tu mesa. Si falta alguien, no importa, no va a pasar nada importante. Es una aventura rápida que no necesita preparación y, sobre todo, divertida y loca, perfecta para una tarde tonta.
 
-\saltopagina
-
 ## Arte robado
 ```
 Tu comando debe ayudar a los "Monuments Men" a recuperar arte robado por los nazis.
@@ -2287,6 +2304,8 @@ Tu comando debe ayudar a los "Monuments Men" a recuperar arte robado por los naz
 El oficial James Rorimer se pondrá en contacto con tus comandos en alguna visita a Londres o quizás se presente en el propio castillo Dunvegan. Trabaja para ["Programa de Monumentos, Arte y Archivos"](https://es.wikipedia.org/wiki/Programa_de_Monumentos,_Arte_y_Archivos) de las fuerzas aliadas, más conocidos como los "Monuments men", y necesita toda la ayuda posible para recuperar arte robado por los nazis.
 
 Tiene contactos en el IM, de hecho juega a polo con el General Eugene Linton, y ha conseguido permiso para hablar con los comandos. No sabe nada de los saurios, pero si sabe que el equipo va a moverse por todo el mundo combatiendo a los nazis. Con un poco de suerte pueden rescatar obras robadas por los nazis.
+
+\saltopagina
 
 ### Piezas robadas
 
@@ -2300,9 +2319,6 @@ Aquí tienes algunas ideas.
 * El general von Liebenfels se presentará con varias piezas del museo de historia de Skien que pertenecieron a varios reyes vikingos. Estamos hablando de un caso, hombreras, cinturón y un martillo de guerra. Podrían recuperarlo y ponerlo a salvo en el British Museum hasta que termine la guerra (véase la ironía). Sus drachenjägers también llevan equipamiento vikingo (espadas, cotas de malla, cascos y escudos) que se tendrían que preservar.
 * El general von Liebenfels tiene 4 pequeños Rembrandts requisados a una familia judía de Ámsterdam en su lujoso camarote de su zepelín.
 * El doctor Eckart tiene una pequeña pinacoteca de 10 cuadros en el comedor principal del castillo de Hohenzollern. La cúpula nazi suele granjearse su amistad regalándole obras de impresionistas francesas.
-
-\saltopagina
-
 * Los nazis que atacaron el castillo Dunvegan se llevaron algunos cuadros que colecciono en vida Lord Roxton y que heredó su sobrina. Son 3 cuadros del pintor romántico William Turner por los que Lord Roxton tenía gran estima.
 
 La idea de este relato es añadir una dificultad extra a las aventuras si crees que pudieran resultar muy fáciles. Piensa que escapar de un sitio como Tobruk con una estatua griega de mármol se complica bastante.
@@ -2311,6 +2327,8 @@ La idea de este relato es añadir una dificultad extra a las aventuras si crees 
 A priori no hay recompensa por rescatar todos esos cuadros y estatuas, pero puedes darles contactos en el mundillo del arte. 
 
 También pueden quedarse algunas o todas las obras para su jubilación y hacer una tontina como los el abuelo Simpson y el señor Burns en el capítulo de los Peces Voladores.
+
+\saltopagina
 
 ## Noche de póker
 ```
@@ -2322,8 +2340,6 @@ Wayland ha montado una timba de póker en su taller. Hay una mesa con sillas, ca
 Cuando estén a punto de repartir las primeras cartas aparecerá Lady Roxton con ropa cómoda y material para hacer gintonics. Se disculpará por llegar tarde y actuará como si la hubieran invitado. Parece ser que ha caído en sus manos un libro sobre técnicas modernas de Relaciones Laborales y está probando cosas. Puede que al principio les intimide un poco, pero los gintonics lubricarán las asperezas y acabarán todos cantando, gritando, contando chistes y jugando al poker.
 
 Lady Roxton meterá una nueva regla a la partida para darle aliciente a la partida, el que pierda todas sus fichas deberá contar una historia vergonzosa de su vida.
-
-\saltopagina
 
 ### Jugando a póker
 La noche de póker tendrá tantas rondas como participantes menos uno y en cada ronda un participante será eliminado hasta que solo haya un ganador o una ganadora.
@@ -2337,6 +2353,8 @@ Reparte una carta bocabajo y otra boca arriba a cada tahúr, esa será su mano. 
 |Dos cartas con el mismo número|Póker|+2|
 |Dos cartas seguidas del mismo color (rojo o negro)|Escalera de color|+2|
 
+\saltopagina
+
 El resto de manos no tienen valor y dan un bono de -1. El Joker vale por cualquier carta que se desee, pero solo da positivos u otros efectos si está boca arriba. Una vez por ronda, siguiendo el orden de reparto de cartas, podrán gastar un beni y pedir una carta boca arriba o bocabajo.
 
 En cada ronda deberán tirar Apostar y el que saque la peor tirada será el perdedor de la ronda y no podrá volver a jugar porque ha perdido todas sus fichas. Una vez en toda la partida podrás retirarte de una ronda y no participar en la tirada de Apostar.
@@ -2344,8 +2362,6 @@ En cada ronda deberán tirar Apostar y el que saque la peor tirada será el perd
 ### Historias vergonzosas
 
 > El perdedor de cada ronda de póker deberá contar una anécdota graciosa y vergonzante de su comando y como DJ deberías darles al final de la sesión a cada comando algún beneficio muy especifico relacionado con su historia. Puede ser un +2 al participar en concursos de comida, un +2 a identificar razas de ganado, etc. Solo el ganador no tendrá que contar ninguna historia vergonzosa, pero si quiere podrá hacerlo.
-
-\saltopagina
 
 * La historia de Lady Roxton es que escribió un fanfic en que Hércules Poirot viaja en el tiempo, tras perderse en un templo egipcio, para detener a Jack el Destripador. Se lo envió a Agatha Christie y esta le pidió que no volviese a intentar escribir. Si se lo piden, puede enseñar la carta firmada por la propia Agatha. 
 * La historia de Marina es que uno de los primeros trabajos fue de mono en una película de Tarzan y se enrolló con otro mono sin quitarse los disfraces y sin hablar solo haciendo sonidos de monos. Nunca ha sabido con quién se lio.
@@ -2477,7 +2493,7 @@ xxx
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
 * **Ventajas:** Alcurnia, xxx
 * **Desventajas:** xxx
-* **Equipo:** xxx
+* **Equipo:** Ropas de trabajo de calidad, Herramientas de granja, Cartas y teletipos sin leer
 
 **Sugerencia de interpretación:** xxx
 
@@ -2638,7 +2654,7 @@ xxx
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
 * **Ventajas:** xxx
 * **Desventajas:** xxx
-* **Equipo:** xxx
+* **Equipo:** Bata blanca, Libros de consulta de física y química, Útiles científicos varios
 
 **Sugerencia de interpretación:** Tu locura esta al nivel de tu genialidad científica, así que estás muy muy loco. Gritas y susurras en la misma frase y hablas contigo mismo. Te preguntas y te respondes con diferentes voces incluso discutes a voces contigo mismo. Y de repente vuelves a la normalidad durante unos segundos pareciendo totalmente normal.
 
@@ -2656,7 +2672,7 @@ xxx
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
 * **Ventajas:** xxx
 * **Desventajas:** xxx
-* **Equipo:** xxx
+* **Equipo:** Impresionante traje de noche de alta costura, Bolso a juego con pistola dentro, Stilettos
 
 **Sugerencia de interpretación:** xxx
 
@@ -2676,7 +2692,7 @@ xxx
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
 * **Ventajas:** xxx
 * **Desventajas:** xxx
-* **Equipo:** xxx
+* **Equipo:** Pistola, Uniforme de capitán
 
 **Sugerencia de interpretación:** Eres bastante afable y risueño para ser un capitán de submarino nazi. Te tomas las cosas como vienen, no merece la pena comerte los malos rollos de la guerra. Las cosas vienen como vienen y a veces poco se puede hacer. 
 
