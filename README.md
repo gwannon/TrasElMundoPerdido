@@ -24,7 +24,6 @@
 
 # Por hacer de la versión 0.6
 * Parte 4: Noruega
-* Parte 3: Islas Orcadas
 
 ## Recursos 
 * https://commons.wikimedia.org/wiki/Category:Charles_R._Knight
@@ -35,13 +34,15 @@
 
 # Changelog
 
-# Versión 0.6.1 En desarrollo
-* Terminada la parte de "Misión de rutina" de "Parte 3: Islas Orcadas"
-* Terminado la parte de "En todo el fregado" de "Parte 3: Islas Orcadas"
-* Terminado la parte de "¿Cómo detener un submarino?" de "Parte 3: Islas Orcadas"
-* Terminando la parte de "Interrogatorio" de "Parte 3: Islas Orcadas"
+# Versión 0.6.2 En desarrollo
 * Terminando la parte de "Planeando las distracciones" de "Parte 4: Noruega"
 * Terminando la parte de "¡¡¡¡Dragones!!!!" de "Parte 4: Noruega"
+
+# Versión 0.6.1 25/08/2024
+* Terminada la parte de "Misión de rutina" de "Parte 3: Islas Orcadas"
+* Terminada la parte de "En todo el fregado" de "Parte 3: Islas Orcadas"
+* Terminada la parte de "¿Cómo detener un submarino?" de "Parte 3: Islas Orcadas"
+* Terminada la parte de "Interrogatorio" de "Parte 3: Islas Orcadas"
 * Terminado el Relato Salvaje "Cena de etiqueta"
 
 # Versión 0.6 20/08/2024

@@ -1158,7 +1158,7 @@ Si todo va como marca los planes, mientras le duren las baterías de la antena p
 
 \saltopagina
 
-### Huellas en la tierra
+## Huellas en la tierra (Pistas)
 Algo no suena bien en esta misión. Si tus comandos no se dan cuentan y lo arreglan, estarán dejando huellas de los estegosaurios o iguanodones en los terrenos de la isla. 
 
 En grandes espacios como la tundra noruega es imposible encontrar pistas de los dinosaurios. Sería como buscar una aguja en un pajar, pero en la pequeña isla de Jersey podrían encontrar los rastros de los estegosaurios sin problemas.
@@ -1374,7 +1374,7 @@ Si salen vivos de su encuentro con los asesinos podrán continuar su viaje, ya d
 
 > Si hay fans de la informática en tu mesa quizás sea un detalle bonito que [Alan Turing](https://es.wikipedia.org/wiki/Alan_Turing) o [Joan Clarke](https://es.wikipedia.org/wiki/Joan_Clarke) recojan en rotor, se quiten las gafas estupefactas y exclamen "Esto podría cambiar el curso de la guerra. Habéis salvado miles si no millones de vidas".
 
-## Mensaje desde Bletchley Park
+## Mensaje desde Bletchley Park (Pistas)
 Cuando vuelvan a irse de misión Lady Margaret les enseñará un documento de Bletchley Park. Con las posiciones que tenía el rotor antes de sacarlo de la máquina Enigma han sacado unas palabras: Fundación Roxton infiltrado. 
 
 Esto supone que la Fundación está en el radar de las SS. Algo deben sospechar los nazis si usan una compleja máquina de cifrado para enviar mensajes referentes a la Fundación. Con una tirada de Investigar podrás datar este mensaje a semanas antes de que tus comandos ingresarán en la Fundación.
@@ -1501,20 +1501,28 @@ Tus comandos no tienen capacidad para detener un submarino ellos solos, pero el 
 Si consiguen detener el submarino el capitán Prien rendirá la nave por radio y saldrá a superficie.
 
 ## Interrogatorio
-xxx
+Si consiguen detener al U-47 y Prien rinde su nave, podrán interrogar a los capturados. IM no les dejará interrogar al capitán y los oficiales, pero pueden interrogar a la marinería. Pueden sacar algo de chocolate y café y tratar de ganarse la simpatía de algún marinero nazi (tiradas de Persuadir). Cosas que pueden sacarles.
 
-## La pista
-El sistema de detección y desvío de torpedos con saurios acuáticos tiene que haber vuelto loco al capitán de corbeta Prien. Ha tenido que alucinar al ver como todos sus torpedos acababan fallando contra un enemigo desprotegido y desprevenido. Lo normal es que reporte a sus jefes que los ingleses tienen una tecnología anti-torpedos y que la han probado en combate.
+* Todo el submarino está alucinando por haber fallado casi todos los torpedos contra un navío desprevenido.
+* Cree que consiguieron comunicarse con su base para explicar qué ha pasado antes de rendirse.
+* Si no es su primera misión, hay rumores de que los ingleses tienen seres mágicos, gremlins o espíritus o su servicio.
 
 \saltopagina
 
-En unos días un relojero alemán afincado desde 19289 en las Orcadas llamado Alfred Wehring llegará a Londres y en pocos días la inteligencia nazi sabrá que el capitán Prien fallo inexplicablemente. 
+* Muchas unidades están dejando el frente para trabajar en proyectos secretos y el general Theodor von Liebenfels siempre está relacionado con ello.
+
+Puedes aprovechar estos rumores para introducir también tus propias tramas.
+
+## Saltan las alarmas (Pistas)
+El sistema de detección y desvío de torpedos con saurios acuáticos tiene que haber vuelto loco al capitán de corbeta Prien. Ha tenido que alucinar al ver como todos sus torpedos acababan fallando contra un enemigo desprotegido y desprevenido. Lo normal es que reporte a sus jefes que los ingleses tienen una tecnología anti-torpedos y que la han probado en combate.
+
+En unos días un relojero alemán afincado desde 1929 en las Orcadas llamado Alfred Wehring llegará a Londres y en pocos días la inteligencia nazi sabrá que el capitán Prien fallo inexplicablemente. 
 
 Es importante tener en cuenta que Prien es un as de la guerra submarina y su fracaso no estaba contemplado. También hay que entender que Alfred Wehring era un espía nazi que llevaba desde 1929 estudiando Scapa Flow y cómo entrar. Si dice que algo evitó que impactará en el "HMS Royal Oak" e hizo fracasar a Prien es que los ingleses tienen alguna nueva tecnología. 
 
-Esto hará que los espías alemanas en Inglaterra se pongan a buscar cualquier pista que les lleve a descubrir que han desarrollado e instalado en el "HMS Royal Oak".
+Esto hará que los espías alemanas en Inglaterra se pongan a buscar cualquier pista que les lleve a descubrir que han desarrollado e instalado en el "HMS Royal Oak". Esto puede hacer que los espías sigan líneas de investigación diferentes y raras que no han seguido otras veces y con un poco de mala suerte descubran que se cuece en la fundación Roxton.
 
-xxx
+Por otro lado, es mucha casualidad que justo estuvieran los comandos y sus saurios cuando los nazis atacaron Scapa Flow. Si tus comandos son un poco paranoicos, todo esto no debería olerles bien del todo.
 
 ***
 
@@ -1654,7 +1662,7 @@ Naturalmente, todo esto no funciona, pero los cazadragones son tan fanáticos y 
 * **Desventajas:** Fanático (SS), Deseo de muerte, Obligaciones (ejército)
 * **Equipo:** Espada vikinga (FUE+d8), Camisote de malla (+3 torso y brazos), casco abierto (+4 cabeza), escudo medieval mediano (parada +2, cobertura -2)
 
-## Realidad o leyenda
+## Realidad o leyenda (Pistas)
 Si una de las prioridades de IM es esconder los dinosaurios porque los convierten en el centro de una operación de distracción. No tiene sentido, como en misiones anteriores algo no cuadra. ¿Puede ser que IM esconda algo?
 
 Por otro lado, si hay algo que puede volver loco a Hitler y sus generales es poder hacer desfiles de la victoria montados en dinosaurios. Eso solo lo mejora hacerlo montados en dragones. Podríamos pensar que Hitler cambiaría toda el agua pesada de Noruega por un dragón y de hecho eso es lo que piensa von Liebenfels al desviar tantas tropas a buscar a tus comandos y sus saurios.
@@ -1676,7 +1684,7 @@ xxx
 ## ¿Qué está pasando aquí?
 xxx
 
-## Espiados
+## Espiados (Pistas)
 Una vez de vuelta al "Mary Anning" podrán revisar todo el papeleo que han conseguido. Encontrarán con facilidad, una serie de carpetas con los perfiles psicológicos/hoja de servicios/curriculum de tus comandos. No dicen nada que no venga en su ficha de personaje como ventajas y desventajas excepto cosas como Secreto.
 
 Es de ingenuos pensar que la IM no investigaría a los comandos antes de trabajar con ellos, pero desde luego lo que es preocupante es que está información haya caído en manos nazis. O lo que es peor (y ahí entra que juegues con su paranoia) que algún agente de la IM se haya vendido y haya filtrado esa información o que algún espía nazi haya tenido acceso a ella y haya conseguido pasarla a sus jefes.
@@ -1698,7 +1706,7 @@ Aunque ya hemos hablado de que no debería preocuparte el frío, en las misiones
 
 xxx
 
-## Reportes desde el frente
+## Reportes desde el frente (Pistas)
 xxx
 
 ***
