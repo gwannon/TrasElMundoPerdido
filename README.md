@@ -37,8 +37,8 @@
 
 # Versión 0.6.1 En desarrollo
 * Terminada la parte de "Misión de rutina" de "Parte 3: Islas Orcadas"
-* Terminando la parte de "En todo el fregado" de "Parte 3: Islas Orcadas"
-* Terminando la parte de "¿Cómo detener un submarino?" de "Parte 3: Islas Orcadas"
+* Terminado la parte de "En todo el fregado" de "Parte 3: Islas Orcadas"
+* Terminado la parte de "¿Cómo detener un submarino?" de "Parte 3: Islas Orcadas"
 * Terminando la parte de "Interrogatorio" de "Parte 3: Islas Orcadas"
 * Terminando la parte de "Planeando las distracciones" de "Parte 4: Noruega"
 * Terminando la parte de "¡¡¡¡Dragones!!!!" de "Parte 4: Noruega"

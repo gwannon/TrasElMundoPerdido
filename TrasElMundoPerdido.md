@@ -1466,6 +1466,8 @@ Si falla, sigue moviéndose la casilla extra, pero recibe 1 punto de fatiga (efe
 
 Los G7a se les detecta muy fácilmente y desde la casilla 1 se ve su trayectoria, pero lo G7e son invisibles para tus comandos hasta que un comando pasa por su casilla o una adyacente. En ese momento, podrán verlo y ver que columna de la cuadrícula sigue. 
 
+[![Dibujo del submarino U-47](./assests/images/U-47.jpg 'U-47 by Rama')](https://commons.wikimedia.org/wiki/File:U-47.jpg#/media/Archivo:U-47.jpg 'U-47 by Rama')
+
 #### Desviar un torpedo
 Para deflectar un torpedo, el plesiosaurio debe estar en la misma casilla que el torpedo. Cada vez que un torpedo entra en una casilla ocupada por comando o el comando y su saurio entra en una casilla ocupada por un torpedo puede intentar desviarlo para que no impacte contra el "HMS Royal Oak".
 
@@ -1473,25 +1475,38 @@ No pueden desactivar ni detener los torpedos, solo pueden desviarlos. Es por ell
 
 Si pasan la tirada, el proyectil recibe tal impacto que es desviado de su ruta y no impacta contra el barco. Si fallan, el torpedo sigue su ruta y si empatan el torpedo cambia de carril al azar (par a la izquierda, impar derecha y si sale de la cuadrícula se pierde). Si pifian las dos tiradas el torpedo explota (6d6 de daño para el plesiosaurio y su jinete).
 
+[![Dibujo cenital del submarino U-47](./assests/images/U-47-cenital.jpg 'Vista cenital del U-47 by Rama')](https://es.wikipedia.org/wiki/U_47_(1938)#/media/Archivo:U-47_6.jpg 'Vista cenital del U-47 by Rama')
+
+&nbsp;
+
 #### Fin del combate
 Cuando un torpedo lleva a la última casilla de su columna impacta el buque de guerra. El combate acaba en dos situaciones 
+
+\saltopagina
 
 * Cuando el barco recibe 3 impactos o 2 impactos en la misma localización. En este caso el buque de guerra ha recibido demasiado daño y empezará a hundirse.
 * Cuando el submarino lanza 15 torpedos y no consigue hundir su objetivo.
 
 ## ¿Cómo detener un submarino?
-El U-47 se ha quedado casi sin +torpedos y solo le queda escapar, pero no será tan fácil con un grupo de saurios acuáticos persiguiéndote en aguas enemigas;
+El U-47 se ha quedado casi sin torpedos y solo le queda escapar, pero no será tan fácil con un grupo de saurios acuáticos persiguiéndote en aguas enemigas;
 Tus comandos debe buscar la forma de detener el submarino antes de que alcance Kirk Sound, el punto de entrada y salida a Scapa Flow. 
 
-xxx
+Tus comandos no tienen capacidad para detener un submarino ellos solos, pero el submarino tiene que moverse muy lentamente entre los arrecifes de Kirk Sound. Podrían intentar alguna de estas opciones.
 
-\saltopagina
+* Si saben por donde entro (lo averiguaron cuando inspeccionaban las defensas) podrían adelantarse y tenderles una emboscada. Quizás sepan de una mina cercana que pueda mover.
+* Podrían intentar enredar una red anti-submarino en los motores del sumergible nazi.
+* De alguna forma podrían delatar la posición del submarino, por ejemplo atando una boya al submarino, de forma que el Royal Oak pueda atacarlo.
+* Quizás puedan volver loco al sonar del submarino generando mucho ruido y dejarlo ciego.
+
+Si consiguen detener el submarino el capitán Prien rendirá la nave por radio y saldrá a superficie.
 
 ## Interrogatorio
 xxx
 
 ## La pista
 El sistema de detección y desvío de torpedos con saurios acuáticos tiene que haber vuelto loco al capitán de corbeta Prien. Ha tenido que alucinar al ver como todos sus torpedos acababan fallando contra un enemigo desprotegido y desprevenido. Lo normal es que reporte a sus jefes que los ingleses tienen una tecnología anti-torpedos y que la han probado en combate.
+
+\saltopagina
 
 En unos días un relojero alemán afincado desde 19289 en las Orcadas llamado Alfred Wehring llegará a Londres y en pocos días la inteligencia nazi sabrá que el capitán Prien fallo inexplicablemente. 
 
