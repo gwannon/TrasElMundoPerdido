@@ -2530,16 +2530,18 @@ El agua salada lleva corriendo por las venas de los Branningans desde hace gener
 
 Dolores lleva toda la vida en un barco y cuando pisa tierra firme está rara e incómoda. Espera retirarse a alguna isla del Caribe bebiendo ron y bailando bachata.
 
-Como buena irlandesa es risueña y alegre con una tonada siempre en los labios y si sus manos no están sujetando un timón están sujetando una pinta de cerveza.
+Como buena irlandesa es vividora y fiestera y si sus manos no están sujetando un timón están sujetando una pinta de cerveza.
+
+Dolores siempre cuenta que en su familia llevan siendo marinos desde hace siglo, lo que no cuenta es que durante un tiempo fueron corsarios al servicio de Inglaterra. Y entre los chismes familiares hay uno que fascina a Dolores desde niña, el que cuenta la ubicación de un galeón hundido lleno de oro. 
 
 * **Atributos:** Agilidad d6, Astucia d8, Espíritu d8, Fuerza d8, Vigor d6
-* **Habilidades:** Atletismo d8, Conocimientos Generales d6, Disparar d8, Idioma Inglés d8, Idioma Español d6, Navegar d10, Notar d8, Pelear d6, Persuadir d6, Reparar d8, Sigilo d4
+* **Habilidades:** Atletismo d8, Apostar d6, Conducir d8, Conocimientos Generales d6, Disparar d8, Idioma Inglés d8, Idioma Español d6, Intimidar d8, Navegar d10, Notar d8, Pelear d6, Persuadir d6, Pilotar d12, Reparar d8, Sigilo d4, Supervivencia d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
-* **Ventajas:** xxx
-* **Desventajas:** xxx
+* **Ventajas:** Afortunada, Muy Afortunada, Sensibilidad celta
+* **Desventajas:** Habito (menor, alcohol), Manía (menor, supersticiosa), Manía (menor, malhablada)
 * **Equipo:** Uniforme de capitán de la marina mercante, pistola, prismáticos, brújula
 
-**Sugerencia de interpretación:** xxx
+**Sugerencia de interpretación:** Eres una irlandesa arquetípica, pendenciera, bebedora, fiestera y como marina eres malhablada y supersticiosa. Eso sí, harías lo que fuera necesario con tu familia y amigos.
 
 \saltopagina
 
