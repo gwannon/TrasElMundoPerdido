@@ -2501,7 +2501,7 @@ Don Quijote no sería nada sin su Sancho Pancho y tus comandos no serían nada s
 
 \saltopagina
 
-### Lady Margaret Roxton &#x2638;
+### Lady Margaret Roxton, rica filantropa &#x2638;
 
 [![Retrato de Lady Margaret Roxton](./assests/images/lady-broxton.jpg 'Chalk drawing of Beatrice Webb by Jessie Holiday, circa 1909')](https://en.wikipedia.org/wiki/Beatrice_Webb#/media/File:Webb_beatrice_(middle_age).jpg 'Chalk drawing of Beatrice Webb by Jessie Holiday, circa 1909')
 
@@ -2514,7 +2514,7 @@ xxx
 * **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
 * **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
-* **Ventajas:** Alcurnia, xxx
+* **Ventajas:** Alcurnia, Rica, Asquerosamente Rica
 * **Desventajas:** xxx
 * **Equipo:** Ropas de trabajo de calidad, Herramientas de granja, Cartas y teletipos sin leer
 
