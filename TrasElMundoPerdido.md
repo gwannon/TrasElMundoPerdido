@@ -1531,7 +1531,7 @@ La helada Noruega es un destino diferente, no hay un frente donde se desarrolle 
 
 ## Operación Gunnerside
 ```
-Sabotear las fábricas de agua pesada de Telemark es fundamental si queremos ganar la guerra. Sin ellas los nazis no podrán desarrollar la bomba y sin la bomba puede que pierdan la guerra.
+Sabotear las fábricas de agua pesada de Telemark es fundamental si queremos ganar la guerra. Sin ellas los nazis no podrán desarrollar la bomba y sin la bomba puede que pierdan.
 ```
 La operación Gunnerside necesita una distracción para poder hacer su trabajo. La IM ha decidido que la mejor distracción puede ser una horda de dinosaurios asesinos sembrando el caos y la muerte es la tundra Noruega. Cuantas más unidades atraigan más fácil será la misión de sabotaje.
 
@@ -1543,7 +1543,7 @@ Como siempre la misión empezará con una visita del teniente Horace Chambers y 
 Horace no puede dar muchos detalles de la operación Gunnerside, solo dirá que otros agentes en Noruega necesitan una distracción y tus comandos serán los encargados de generar la distracción. Cuantas más unidades nazis consigan atraer sobre ellos más fácil será el trabajo del otro equipo.
 
 ### El general Theodor von Liebenfels
-El general Theodor von Liebenfels es el militar de más alto rango de la zona y se encarga de apaciguar y controlar la zona. En realidad, su misión, directamente encargada por el Führer, es proteger las fábricas de agua pesada de la región de posibles sabotajes y conseguir que la producción se mantenga al ritmo actual. 
+El general Theodor von Liebenfels es el militar de más alto rango de Noruega y se encarga de apaciguar y controlar la zona. En realidad, su misión, directamente encargada por el Führer, es proteger las fábricas de agua pesada de la región de posibles sabotajes y conseguir que la producción se mantenga al ritmo actual. 
 
 \saltopagina
 
@@ -1633,14 +1633,22 @@ xxx
 xxx
 
 ### La caza de los dragones
-El objetivo de tus comandos está cumplido, von Liebenfels ha destinado más efectivos a buscar a los _draches_ que a proteger las fábricas de agua pesada. El problema es que ahora casi una legión entera de soldado nazi recorre la tundra en su búsqueda.
+El objetivo de tus comandos está cumplido, von Liebenfels ha destinado más efectivos a buscar a los _draches_ que a proteger las fábricas de agua pesada. El problema es que ahora casi una legión entera de soldado nazi recorre la tundra en su búsqueda. 
 
-xxx
+Von Liebenfels ha dejado claro a sus tropas que si se encuentran con los dragones no ataquen solo avisen y se vuelen vigilando. El general ha creado una unidad llamada los drachenjägers con él a la cabeza con la que va a enfrentarse a los dragones. 
+
+Cuando creas oportuno aparecerá una serie de vehículos todoterreno con unos 5 drachenjägers por pareja de dinosaurio/comando que rodearán a tus comandos. 
+
+Durante el combate von Liebenfels estará en la retaguardia lanzando "hechizos" que no tendrán ningún efecto real, pero puedes hacer parecer las dotes de mando del general como parte del hechizo.
+
+El combate debería ser largo y duro y si se pone muy fácil puedes meter soldados nazis normales. Si intentan atacar a von Liebenfels este se pondrá a la defensiva, incluso podría protegerse en el vehículo todoterreno blindado. Si recibe una herida se retirará del combate. En cualquier, caso debería sobrevivir a este encuentro, aunque puede llevarse alguna cicatriz.
 
 #### ¡Sabotaje!
-Cuando veas que es un buen momento y va a quedar bien, los saboteadores destruirán las plantas de producción de agua pesada. una inmensa explosión y una gigantesca llamarada iluminará el cielo y las montañas cercanas. 
+Cuando veas que es un buen momento y va a quedar bien, los saboteadores destruirán las plantas de producción de agua pesada. Una inmensa explosión y una gigantesca llamarada iluminará el cielo y las montañas cercanas. 
 
-xxx
+Si von Liebenfels sigue en el combate, mirará horrorizado la explosión sabiendo que ha fallado a su Führer. Esto hará que intente con más fuerza atrapar los dragones, quizás así Hitler le perdone su fallo. 
+
+\saltopagina
 
 [![Detalle de espadas vikingas](./assests/images/espadas.jpg 'Viking swords at Bergen Museum - Arild Nybø from Førde, Norway')](https://es.m.wikipedia.org/wiki/Archivo:Viking_swords_at_Bergen_Museum.jpg 'Viking swords at Bergen Museum - Arild Nybø from Førde, Norway')
 
@@ -1648,8 +1656,6 @@ xxx
 El general von Liebenfels ha montado una escuadra especial de soldados pensando en los rumores y medias verdades que ha oído las últimas semanas de los supervivientes de los ataques de _dragones_. Ha reclutado de entre sus tropas a una panda de psicópatas fanáticos que no tienen miedo a nada.
 
 Von Liebenfels está convencido que las armas modernas no pueden hacer daño a los dragones así que ha saqueado las armas y armaduras de los museos de historia de la zona y ha equipado a su escuadrón de drachenjägers con espada, escudos y armaduras antiguas. 
-
-\saltopagina
 
 El propio von Liebenfels ha realizado algún tipo de ritual de magia o plegaria a los aesires (dioses nórdicos) para que las armas puedan herir a los dragones. También ha bendecido unas redes metálicas (consistencia 12) para poder atraparlos. 
 
@@ -1661,6 +1667,11 @@ Naturalmente, todo esto no funciona, pero los cazadragones son tan fanáticos y 
 * **Ventajas:** Bloqueo, Impávido, Sin piedad, Soldado
 * **Desventajas:** Fanático (SS), Deseo de muerte, Obligaciones (ejército)
 * **Equipo:** Espada vikinga (FUE+d8), Camisote de malla (+3 torso y brazos), casco abierto (+4 cabeza), escudo medieval mediano (parada +2, cobertura -2)
+
+## Vuelta a casa
+Si consiguen derrotar a los drachenjägers podrán escapar a la costa norte de Noruega a través de la tundra, pero tendrán que buscar la forma de esconder su rastro y de llevar a una embarazada si van a sacar a Arntine y su familia. En principio, esta parte debería ser fácil, narrandola tú si quieres, pero puedes hacer cualquier tipo de encuentro.
+
+\saltopagina
 
 ## Realidad o leyenda (Pistas)
 Si una de las prioridades de IM es esconder los dinosaurios porque los convierten en el centro de una operación de distracción. No tiene sentido, como en misiones anteriores algo no cuadra. ¿Puede ser que IM esconda algo?
@@ -2501,7 +2512,7 @@ Don Quijote no sería nada sin su Sancho Pancho y tus comandos no serían nada s
 
 \saltopagina
 
-### Lady Margaret Roxton, rica filantropa &#x2638;
+### Lady Margaret Roxton, rica filántropa &#x2638;   
 
 [![Retrato de Lady Margaret Roxton](./assests/images/lady-broxton.jpg 'Chalk drawing of Beatrice Webb by Jessie Holiday, circa 1909')](https://en.wikipedia.org/wiki/Beatrice_Webb#/media/File:Webb_beatrice_(middle_age).jpg 'Chalk drawing of Beatrice Webb by Jessie Holiday, circa 1909')
 
