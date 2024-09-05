@@ -1725,19 +1725,65 @@ Es de ingenuos pensar que la IM no investigaría a los comandos antes de trabaja
 ***
 
 # Parte 6: El frente ruso
-xxx
+ El frente ruso y más en concreto el sitio de Stalingrado es una misión bastante diferente al resto de misiones, ya que aquí no va a haber ni infiltración, ni investigación, ni persecuciones, ni nada por el estilo. Stalingrado va una sucesión de combates de los que solo sobrevivirán los más resistentes.
 
-## El sitio de Stalingrado
+## Rompiendo el sitio de Stalingrado
 ```
 Las tropas rusas y nazis llevan meses enfrentándose en las calles de Stalingrado sin que la victoria se decante a un lado u otro. IM quiere mandar a sus armas biológicas a sembrar el miedo y el caos en las filas nazis. 
 ```
 
+Esta misión no parece algo típico de IM, así que a diferencia de otras misiones Horace Linton no les hará la presentación con sus mapas y sus fotos. En la sala de misiones del "Mary Anning" les pasarán unos informes con mapas de Stalingrado y diferentes localizaciones importante para el ejército nazi, como campamentos, trincheras, depósitos de material y víveres, etc.
+
+Si leen el informe verán que su barco les dejará lo más cerca de Stalingrado a través del Mar Negro. Deberán avanzar con sus dinosaurios hasta llegar al frente y allí hacer las fuerzas nazis el mayor daño posible. Es una misión de destrucción y muerte. La idea es crear un revulsivo que desatasque la situación en la ciudad.
+
+En este caso IM ha sido muy claro con los saurios a llevar, carnívoros terrestres para la batalla y herbívoros terrestres para llevar el material en carros con esquíes.
+
+No deben entrar en contacto con el ejército rojo y si algún comunista los encuentra deberían acabar con ellos. IM considera que tampoco sería bueno rebelar la existencia de dinosaurios a las fuerzas rusas. 
+
+## Encuentros
+Una vez hayan llegado al frente, tendrán que participar en varios combates contra diferentes antagonistas nazis. La idea de IM es que sigan una política de tierra quemada, por donde pasen no debería quedar nada. Así que tendrán explosivos a su disposición para destruir todo vehículo o estructura nazi que se encuentren. 
+
+Cuando creas que han sufrido lo suficiente y están a punto de caer el ejército rojo saldrá de sus trincheras y hará retroceder a las fuerzas nazis. 
+
+\saltopagina
+
+Los combates son normales y puedes modificarlos a tu gusto o meter otros, pero aquí tienes algunas reglas entre combates que harán que cada vez vayan más justos de fuerzas y se les ponga todo cuesta arriba. La idea es que vayan perdiendo fuerza y se vean obligados a ser más creativos en sus combates.
+
+### Reglas entre combates
 xxx
+
+### Soldados cansados
+xxx
+
+\saltopagina
+
+### Desde el infierno
+Los oficiales nazis ya no saben que hacer para abrir brecha en las fuerzas rusas así que han preparado un grupo de soldados con lanzallamas. Tal vez funcionaría si no fuera porque el grupo de soldados con sus Flammenwerfer 35 se van a encontrar con algo que no esperaban.
+
+xxx
+
+### El último carro de combate
+xxx
+
+\saltopagina
+
+### Cortar la cabeza a la hidra
+En este combate tendrán un antiguo palacio de nobles rusos que oficiales nazis están usando como su residencia. xxx
+
+xxx
+
+
+### A través de la mira del fusil
+Tus comandos están en el punto de mira de un grupo de francotiradores. Es complicado acabar con un enemigo que no se deja ver. xxx
+
+xxx
+
+\saltopagina
 
 ### Frio extremo
-Aunque ya hemos hablado de que no debería preocuparte el frío, en las misiones en Stalingrado es tan extremo que puedes meterlo en la aventura como un enemigo más.
+Aunque ya hemos hablado de que no deberías preocuparte el frío, en las misiones en Stalingrado es tan extremo que puedes meterlo en la aventura como un enemigo más.
 
-xxx
+En caso de querer aplicar las reglas de frío del Manual Básico de SWEA has de tener en cuenta que la media de temperatura son entre -20° y -25°.
 
 ## Reportes desde el frente (Pistas)
 xxx
