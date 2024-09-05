@@ -22,9 +22,6 @@
   * Espécimen perdido
   * Despedidas
 
-# Por hacer de la versión 0.6
-* Parte 4: Noruega
-
 ## Recursos 
 * https://commons.wikimedia.org/wiki/Category:Charles_R._Knight
 * https://www.rawpixel.com/search/blacksmith?page=4&path=_topics%7C%24free&sort=popular
@@ -34,9 +31,11 @@
 
 # Changelog
 
-# Versión 0.6.2 En desarrollo
-* Terminando la parte de "Planeando las distracciones" de "Parte 4: Noruega"
-* Terminando la parte de "¡¡¡¡Dragones!!!!" de "Parte 4: Noruega"
+# Versión 0.7 En desarrollo
+
+# Versión 0.6.2 05/09/2024
+* Terminada la parte de "¡¡¡¡Dragones!!!!" de "Parte 4: Noruega"
+* Terminada la parte de "Vuelta a casa" de "Parte 4: Noruega"
 
 # Versión 0.6.1 25/08/2024
 * Terminada la parte de "Misión de rutina" de "Parte 3: Islas Orcadas"

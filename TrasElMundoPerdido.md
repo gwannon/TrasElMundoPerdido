@@ -1621,34 +1621,54 @@ Tus comandos, si son medianamente decentes, deberían meter en sus planes cómo 
 
 \saltopagina
 
-## Planeando las distracciones
-xxx
+## ¡¡¡¡Dragones!!!!
+
+Tras el primer contacto con Arntine deberán empezar con su labor de distracción. La idea principal es atacar a unidades de soldados nazis y las noticias de estos ataques lleguen a von Liebenfels. Eso supone que cada combate contra nazis que ganen supondrá una tirada de Espíritu de von Liebenfels. Cuando acumule 4 fallos se dejará llevar por sus obsesiones, se olvidará del agua pesada y se preparará para cazar dragones.
+
+Las tiradas de Espíritu son secretas, pero pueden ver si han tenido éxito haciendo una tirada de Investigar a partir de los informes de Arntine. Si pasan la tirada, sabrán si von Liebenfels ha pasado o no la tirada. Si fallan no será concluyente.
+
+### Montando las distracciones
+Antes de entrar en combate deben decidir dónde, cuándo y cómo van a actuar para atraer la atención de los nazis. Veamos algunas ideas que podrían tener:
+
+* **Dejar que alguien escape o salga vivo:** Es importante que alguien salga vivo y cuente la historia. Si no sale nadie vivo el relato solo serán suposiciones de huellas gigantes y heridas de garras y dientes terribles. Sin supervivientes el general tendrá un bonus de +2. 
+* **Atacar de noche:** Atacar de noche no da malus, pero como en las pelis malas permitirá que otras opciones sean efectivas como el lanzallamas. Las sombras, los sonidos, los ojos brillantes en la oscuridad, etc. harán que las historias sean más terroríficas y los detalles menos precisos.
+* **Disfraces de dinosaurio:** Los disfraces darán un malus de -1 y pueden usarse una segunda vez si les hacen algún cambio radical como ponerles reflectantes o tal vez hacer cosas como que huelan a carne podrida.
+* **Disfraces de dioses y diosas nórdicas:** Si cuando se presentan ante la unidad nazi van disfrazados y pasan una tirada de Interpretar obtendrán un -2 a la tirada de Espíritu.
+* **Lanzallamas:** Este truquito de Weyland es efectivo, pero esperado y solo da un -1 a Espíritu. Solo puede usarse 3 veces, tantas como cargas tiene el lanzallamas.
+* **Devorar nazis:** Ver como un dragón devora vivo a una persona es un espectáculo terrible. Realizar esta maniobra puede dar un malus de -2 a Espíritu. 
+* Si se les ocurre alguna idea buena puedes darles algún negativo e incluso benis.
+
+Como hemos visto, todas esas opciones pueden darles negativos al Espíritu de von Liebenfels, pero si usan mucho una opción puede perder efecto porque el general se acostumbra. Cada opción se puede usar tantas veces como su bono y a partir de ahí no darán malus.
+
+Por ejemplo, los disfraces de dioses y diosas nórdicas pueden afectar un par de veces, ya que tienen un -2, pero luego se convierten en algo normal y no dan negativo.
 
 \saltopagina
 
-## ¡¡¡¡Dragones!!!!
-xxx
+Una vez planeada la distracción tendrán que ejecutarlas. Buscar unidades de soldados es relativamente fácil, especialmente en la solitaria tundra. Pueden esperarles en las carreteras cuando se trasladan, o llamar su atención con fuegos y explosiones o con la destrucción de instalaciones como cables telefónicos. 
 
-### Eliminando nazis
-xxx
+Cada encuentro debe ser más difícil que el anterior, empezando por una unidad con tantos soldados como comandos y saurios haya en el grupo. Con cada fallo de Espíritu de von Liebenfels las unidades deben ser más duras, puedes meter nazis acorazados o con lanzallamas, incluso algún otro enemigo nazi de otros relatos.
+
+Después de cada encuentro podrán reabastecerte con el material que dejen las unidades nazis derrotadas. Quizás puedan usar el combustible de los lanzallamas para algún truco de efectos especiales o recoger granadas para algún artilugio explosivo o trampa.
 
 ### La caza de los dragones
-El objetivo de tus comandos está cumplido, von Liebenfels ha destinado más efectivos a buscar a los _draches_ que a proteger las fábricas de agua pesada. El problema es que ahora casi una legión entera de soldado nazi recorre la tundra en su búsqueda. 
+Cuando von Liebenfels tenga 4 fallos, el objetivo de tus comandos está cumplido. El general anda por su mansión con ropas vikingas antiguas, preparando brebajes, etc. y ha destinado más efectivos a buscar a los _draches_ que a proteger las fábricas de agua pesada. El problema es que ahora casi una legión entera de soldado nazi recorre la tundra en su búsqueda.
 
-Von Liebenfels ha dejado claro a sus tropas que si se encuentran con los dragones no ataquen solo avisen y se vuelen vigilando. El general ha creado una unidad llamada los drachenjägers con él a la cabeza con la que va a enfrentarse a los dragones. 
+Cuando Arntine detecte la locura total de von Liebenfels empacará sus pocas pertenencias y con su familia irá en busca tus comandos para salir con ellos de Noruega.
+
+Von Liebenfels ha dejado claro a sus tropas que si se encuentran con los dragones no ataquen solo avisen y se queden vigilando. El general ha creado una unidad llamada los drachenjägers con él a la cabeza con la que va a enfrentarse a los dragones. 
 
 Cuando creas oportuno aparecerá una serie de vehículos todoterreno con unos 5 drachenjägers por pareja de dinosaurio/comando que rodearán a tus comandos. 
 
-Durante el combate von Liebenfels estará en la retaguardia lanzando "hechizos" que no tendrán ningún efecto real, pero puedes hacer parecer las dotes de mando del general como parte del hechizo.
+Durante el combate von Liebenfels estará en la retaguardia lanzando "hechizos" que no tendrán ningún efecto real, pero puedes hacer aparecer las dotes de mando del general como parte del hechizo.
 
 El combate debería ser largo y duro y si se pone muy fácil puedes meter soldados nazis normales. Si intentan atacar a von Liebenfels este se pondrá a la defensiva, incluso podría protegerse en el vehículo todoterreno blindado. Si recibe una herida se retirará del combate. En cualquier, caso debería sobrevivir a este encuentro, aunque puede llevarse alguna cicatriz.
 
-#### ¡Sabotaje!
+### ¡Sabotaje!
 Cuando veas que es un buen momento y va a quedar bien, los saboteadores destruirán las plantas de producción de agua pesada. Una inmensa explosión y una gigantesca llamarada iluminará el cielo y las montañas cercanas. 
 
-Si von Liebenfels sigue en el combate, mirará horrorizado la explosión sabiendo que ha fallado a su Führer. Esto hará que intente con más fuerza atrapar los dragones, quizás así Hitler le perdone su fallo. 
-
 \saltopagina
+
+Si von Liebenfels sigue en el combate, mirará horrorizado la explosión sabiendo que ha fallado a su Führer. Esto hará que intente con más fuerza atrapar los dragones, quizás así Hitler le perdone su fallo. 
 
 [![Detalle de espadas vikingas](./assests/images/espadas.jpg 'Viking swords at Bergen Museum - Arild Nybø from Førde, Norway')](https://es.m.wikipedia.org/wiki/Archivo:Viking_swords_at_Bergen_Museum.jpg 'Viking swords at Bergen Museum - Arild Nybø from Førde, Norway')
 
@@ -1669,12 +1689,14 @@ Naturalmente, todo esto no funciona, pero los cazadragones son tan fanáticos y 
 * **Equipo:** Espada vikinga (FUE+d8), Camisote de malla (+3 torso y brazos), casco abierto (+4 cabeza), escudo medieval mediano (parada +2, cobertura -2)
 
 ## Vuelta a casa
-Si consiguen derrotar a los drachenjägers podrán escapar a la costa norte de Noruega a través de la tundra, pero tendrán que buscar la forma de esconder su rastro y de llevar a una embarazada si van a sacar a Arntine y su familia. En principio, esta parte debería ser fácil, narrandola tú si quieres, pero puedes hacer cualquier tipo de encuentro.
+Si consiguen derrotar a los drachenjägers podrán escapar a la costa norte de Noruega a través de la tundra donde les espera el "Mary Anning". Puedes hacerles llegar directamente a su barco, narrando el plan de escape que hayan diseñado o puedes hacerles buscar la forma de esconder su rastro y de llevar a una embarazada si van a sacar a Arntine y su familia. 
 
 \saltopagina
 
+Si llegan a Inglaterra con Arntine, Lady Roxton las acogerá en Dunvegan mientras trata de legalizar su situación. Arntine no quiere limosna y se pondrá a trabajar como empleada del hogar y ayudando en el campo. 
+
 ## Realidad o leyenda (Pistas)
-Si una de las prioridades de IM es esconder los dinosaurios porque los convierten en el centro de una operación de distracción. No tiene sentido, como en misiones anteriores algo no cuadra. ¿Puede ser que IM esconda algo?
+Si una de las prioridades de IM es esconder los dinosaurios por qué los convierten en el centro de una operación de distracción. No tiene sentido, como en misiones anteriores algo no cuadra. ¿Puede ser que IM esconda algo?
 
 Por otro lado, si hay algo que puede volver loco a Hitler y sus generales es poder hacer desfiles de la victoria montados en dinosaurios. Eso solo lo mejora hacerlo montados en dragones. Podríamos pensar que Hitler cambiaría toda el agua pesada de Noruega por un dragón y de hecho eso es lo que piensa von Liebenfels al desviar tantas tropas a buscar a tus comandos y sus saurios.
 
