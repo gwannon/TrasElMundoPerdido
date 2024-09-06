@@ -1743,20 +1743,30 @@ No deben entrar en contacto con el ejército rojo y si algún comunista los encu
 ## Encuentros
 Una vez hayan llegado al frente, tendrán que participar en varios combates contra diferentes antagonistas nazis. La idea de IM es que sigan una política de tierra quemada, por donde pasen no debería quedar nada. Así que tendrán explosivos a su disposición para destruir todo vehículo o estructura nazi que se encuentren. 
 
-Cuando creas que han sufrido lo suficiente y están a punto de caer el ejército rojo saldrá de sus trincheras y hará retroceder a las fuerzas nazis. 
+Cuando creas que han sufrido lo suficiente y están a punto de caer el ejército rojo saldrá de sus trincheras y hará retroceder a las fuerzas nazis comenzando el contraataque aliado. 
 
 \saltopagina
+
+Si ya se han enfrentado al general von Liebenfels en Noruega, puedes decirles que la mayoría de las órdenes y demás papeleo que encuentren en la misión está firmado por él. Si no se dan cuenta ellos solos con una tirada de Tácticas podrán ver que seguramente le han degradado por el fiasco de Noruega.
 
 ### Reglas entre combates
 
 Los combates son normales y puedes modificarlos a tu gusto o meter otros, pero aquí tienes algunas reglas entre combates que harán que cada vez vayan más justos de fuerzas y se les ponga todo cuesta arriba. La idea es que vayan perdiendo fuerza y se vean obligados a ser más creativos en sus combates.
 
-xxx
+* **No hay tiempo para planes:** No deberían tener tiempo para hacer vigilancias y hacer y ejecutar planes. La mayoría de las veces no podrán hacer nada, solamente atacar y destruir. Si pillan a su objetivo por sorpresa tienen como mucho una hora para montar un plan rápido y simple. Si quieren parar a planificar algo complejo diles que llegan refuerzos o que se van y atacan ahora o pierden la oportunidad. 
+* **No hay tiempo para curarse:** Solo pueden intentar curaciones en la hora de oro. Luego no tendrán ni el tiempo ni los materiales. Si aun así insisten sácales un encuentro básico (10/15 soldados) para cortar las curaciones.
+* **No hay tiempo para descansar:** Cada dos encuentros tendrán que pasar una tirada Vigor para evitar un nivel de fatiga por cansancio extremo. El problema es que no pueden descansar para recuperarse de la fatiga. Si aun así insisten sácales un encuentro básico (10/15 soldados) para cortar los descansos.
+* **Frio extremo:** Aunque ya hemos hablado de que no deberías preocuparte el frío, en las misiones en Stalingrado es tan extremo que puedes meterlo en la aventura como un enemigo más. En caso de querer aplicar las reglas de frío del Manual Básico de SWEA has de tener en cuenta que la media de temperatura son entre -20° y -25°.
+* **Sin supervivientes:** No deberían dejar supervivientes o gente que escape. Si alguien escapa podrá avisar y volver con refuerzos. En tal caso sácales un encuentro básico (10/15 soldados).
 
 ### Soldados cansados
-xxx
+Según avanzan por la nieve, tus comandos se encontrarán con una trinchera de poca profundidad y que parece hecha rápidamente. Si la siguen llegarán a una parte donde unos 3 soldados de infantería nazi por comando y saurio están apiñados tratando de protegerse de frío. La trinchera tiene dos casillas de ancho y para salir de ella debes gastar una acción de movimiento y pasar una tirada de Atletismo para escalar la embarrada pared.  
+
+Los soldados están congelados y hambrientos y solo tratan de sobrevivir a este infierno de hielo. Se defenderán hasta la muerte si no tienen escapatoria, pero tratarán de huir a la mínima si les dan opción. A penas tienen munición, no tienen hada con lo que calentarse y hace días que malviven con raciones medio podridas.
 
 \saltopagina
+
+Puedes dejarles echar un vistazo rápido a escondidas para saber a qué se enfrentan o hacer una mínima estrategia como dividirse e ir cada uno por lado de la trinchera para hacerles una pinza.
 
 ### Desde el infierno
 Los oficiales nazis ya no saben qué hacer para abrir brecha en las fuerzas rusas, así que han preparado un grupo de soldados con lanzallamas. Tal vez funcionaría si no fuera porque el grupo de soldados con sus Flammenwerfer 35 se van a encontrar con algo que no esperaban.
@@ -1764,15 +1774,16 @@ Los oficiales nazis ya no saben qué hacer para abrir brecha en las fuerzas rusa
 xxx
 
 ### El último carro de combate
+Uno de los últimos carros alemanes funcionales y con combustible se pone a tiro de tus comandos. Su blindaje es un problema, pero con un poco de ingenio pueden solucionarlo.
+
 xxx
 
 \saltopagina
 
 ### Cortar la cabeza a la hidra
-En este combate tendrán un antiguo palacio de nobles rusos que oficiales nazis están usando como su residencia. xxx
+Un antiguo palacio de la nobleza rusa está siendo usado por oficiales nazis como su residencia. El único problema es que los saurios no serán muy útiles dentro del palacio y serán tus comandos quienes tendrán que ir sala por sala ejecutando nazis.
 
 xxx
-
 
 ### A través de la mira del fusil
 Tus comandos están en el punto de mira de un grupo de francotiradores. Es complicado acabar con un enemigo que no se deja ver. xxx
@@ -1781,10 +1792,12 @@ xxx
 
 \saltopagina
 
-### Frio extremo
-Aunque ya hemos hablado de que no deberías preocuparte el frío, en las misiones en Stalingrado es tan extremo que puedes meterlo en la aventura como un enemigo más.
+### El ejército ruso
+Tus comandos se encuentran con una patrulla de soldados del ejército rojo. Deberán decidir si acaban con ellos como dictan sus órdenes o tratan de huir y evitar la matanza.
 
-En caso de querer aplicar las reglas de frío del Manual Básico de SWEA has de tener en cuenta que la media de temperatura son entre -20° y -25°.
+xxx
+
+> Si deciden dejar vivos a algún soldado ruso, este podrá contar lo que han visto. Puedes usar este encuentro para meter una trama en que agentes rusos investigan a la Fundación, el mundo perdido y sus dinosaurios.
 
 ## Reportes desde el frente (Pistas)
 xxx
