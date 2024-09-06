@@ -75,7 +75,7 @@ Typ
 FaustoRolero
 x4
 implementables
-SWAE
+SWEA
 nemesis
 superlagartos
 Plesiosaurus
@@ -273,3 +273,6 @@ garrazo
 gremlins
 truquito
 Kaiserliche
+Stilettos
+SWEA
+Flammenwerfer

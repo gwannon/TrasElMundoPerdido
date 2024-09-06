@@ -10,11 +10,11 @@
 * Parte 9: La Selva Negra
 
 # Por hacer de la versión 0.8
-* Parte 6: El frente ruso
+* Parte 5: Normandía
 * Parte 7: Regreso a casa
 
 # Por hacer de la versión 0.7
-* Parte 5: Normandía
+* Parte 6: El frente ruso
 * Relatos salvajes
   * Un día en el museo
   * El pecio
@@ -24,9 +24,7 @@
 
 ## Recursos 
 * https://commons.wikimedia.org/wiki/Category:Charles_R._Knight
-* https://www.rawpixel.com/search/blacksmith?page=4&path=_topics%7C%24free&sort=popular
 
-***
 ***
 
 # Changelog

@@ -943,7 +943,7 @@ Vamos a usar el recurso fílmico llamado "viajar por el mapa". Cuando tu comando
 No hay tablas de encuentros aleatorios, ni tiradas de climatología, ni nada por el estilo. Aunque eres libre, si quieres, de meter los encuentros que desees.
 
 ## Personalizando y continuando la campaña
-En este apartado te ofrezco algunas ideas para personalizar y hacer más tu tuya la campaña. Las personalizaciones que te sugerimos van en 4 direcciones distintas, que son fácilmente implementables con el manual básico de SWAE, un poco de trabajo por tu parte como DJ y un rato buscando por internet.
+En este apartado te ofrezco algunas ideas para personalizar y hacer más tu tuya la campaña. Las personalizaciones que te sugerimos van en 4 direcciones distintas, que son fácilmente implementables con el manual básico de SWEA, un poco de trabajo por tu parte como DJ y un rato buscando por internet.
 
 * Más dinosaurios y mundos perdidos
 * Más escenarios de guerra
@@ -1736,7 +1736,7 @@ Esta misión no parece algo típico de IM, así que a diferencia de otras mision
 
 Si leen el informe verán que su barco les dejará lo más cerca de Stalingrado a través del Mar Negro. Deberán avanzar con sus dinosaurios hasta llegar al frente y allí hacer las fuerzas nazis el mayor daño posible. Es una misión de destrucción y muerte. La idea es crear un revulsivo que desatasque la situación en la ciudad.
 
-En este caso IM ha sido muy claro con los saurios a llevar, carnívoros terrestres para la batalla y herbívoros terrestres para llevar el material en carros con esquíes.
+En este caso IM ha sido muy claro con los saurios a llevar, carnívoros terrestres para la batalla y herbívoros terrestres para llevar el material en trineos.
 
 No deben entrar en contacto con el ejército rojo y si algún comunista los encuentra deberían acabar con ellos. IM considera que tampoco sería bueno rebelar la existencia de dinosaurios a las fuerzas rusas. 
 
@@ -1747,9 +1747,10 @@ Cuando creas que han sufrido lo suficiente y están a punto de caer el ejército
 
 \saltopagina
 
+### Reglas entre combates
+
 Los combates son normales y puedes modificarlos a tu gusto o meter otros, pero aquí tienes algunas reglas entre combates que harán que cada vez vayan más justos de fuerzas y se les ponga todo cuesta arriba. La idea es que vayan perdiendo fuerza y se vean obligados a ser más creativos en sus combates.
 
-### Reglas entre combates
 xxx
 
 ### Soldados cansados
@@ -1758,7 +1759,7 @@ xxx
 \saltopagina
 
 ### Desde el infierno
-Los oficiales nazis ya no saben que hacer para abrir brecha en las fuerzas rusas así que han preparado un grupo de soldados con lanzallamas. Tal vez funcionaría si no fuera porque el grupo de soldados con sus Flammenwerfer 35 se van a encontrar con algo que no esperaban.
+Los oficiales nazis ya no saben qué hacer para abrir brecha en las fuerzas rusas, así que han preparado un grupo de soldados con lanzallamas. Tal vez funcionaría si no fuera porque el grupo de soldados con sus Flammenwerfer 35 se van a encontrar con algo que no esperaban.
 
 xxx
 
@@ -2170,7 +2171,7 @@ Para el final del rodaje ha preparado una fiesta con alcohol (un barrilete de wh
 
 Marina Flowers es la reina de las películas de Serie de B. En sus películas ha sido secuestrada por todo tipo de seres, desde marcianos hasta hormigas gigantes o monstruos marinos. Su legión de fans incondicionales asegura una taquilla decente en todas sus producciones y eso le asegura siempre trabajo, mediocre pero trabajo. Es famosa por sus desmayos, la crítica los describe como los mejores, y por sus locuras. 
 
-No es excéntrica, ni va de diva, simplemente tiene ramalazos raros y de repente coloca la comida del catering por colores, se despierta a media noche y riza el pelo de todas sus pelucas o desaparece para aparecer horas más tarde con lazos naranjas para toda la gente de la producción. si se le pregunta suele contar extrañas historias para justificar esas conductas. Por lo demás, es una bellísima persona.
+No es excéntrica, ni va de diva, simplemente tiene ramalazos raros y de repente coloca la comida del catering por colores, se despierta a media noche y riza el pelo de todas sus pelucas o desaparece para aparecer horas más tarde con lazos naranjas para toda la gente de la producción. Si se le pregunta suele contar extrañas historias para justificar esas conductas. Por lo demás, es una bellísima persona.
 
 * **Atributos:** Agilidad d6, Astucia d8, Espíritu d10, Fuerza d6, Vigor d6
 
@@ -2354,7 +2355,7 @@ Además Lady Roxton tratará de buscar ropa adecuada para los comandos menos afi
 
 También pueden aprovechar para acicalar a sus compañeros y de hecho Wayland ha hecho unas pajaritas de tela para los saurios. Hay que estar elegantes si vas a ver a la reina.
 
-### La recepción
+### La recepción real
 La recepción consistirá en un besamanos a la reina en la sala de recepciones del castillo. La reina parece entusiasma, posiblemente porque en un ambiente de noticias de guerra está cena es algo diferente. 
 
 Acto seguido pasarán al exterior a los jardines donde se ha instalado un cenador. Allí estarán con los saurios los comandos que no hayan pasado el corte con unos buzos azules cuidando de los saurios. La reina se quedará muy impresionada por los animales sobre todos los pteranodones y aguantará con bastante entereza cuando el alosaurio acerque sus terribles dientes y resople cerca de su cabeza.
@@ -2715,7 +2716,7 @@ Ahora mismo está viviendo en la zona de Telemark y al ser el agente inglés de 
 * **Desventajas:** Marginada (menor, tyskerhoren), Obligaciones (menor, criada de von Liebenfels), Pobre
 * **Equipo:** Ropa de criada y productos y herramientas de limpieza
 
-**Sugerencia de interpretación:** Tu voluntad es inquebrantable, por mucho que lo intenten, por mucho que te echen encima, no pueden doblegarte. seguirás adelante protegiendo a tu familia en una de las peores épocas de la historia. 
+**Sugerencia de interpretación:** Tu voluntad es inquebrantable, por mucho que lo intenten, por mucho que te echen encima, no pueden doblegarte. Seguirás adelante protegiendo a tu familia en una de las peores épocas de la historia. 
 
 \saltopagina
 
