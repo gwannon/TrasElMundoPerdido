@@ -1779,36 +1779,71 @@ Mientras tus comandos avanzan por las calles de un barrio residencial de las afu
 Los enemigos van en **parejas de infantería normal e infantería con lanzallamas**. La idea es que el soldado normal cubra las espaldas del lanzallamas y por eso nunca se separa. Son **una pareja por comando y saurio**, pero estarán como a unas 12 casillas de distancia y sus lanzallamas no llegan tan lejos. Pueden aprovechar esos turnos a lanzar granadas.
 
 ### El último carro de combate
-
 Uno de los últimos carros alemanes funcionales y con combustible se pone a tiro de tus comandos. Su blindaje es un problema, pero con un poco de ingenio pueden solucionarlo.
 
 xxx
 
 \saltopagina
 
-
-[![Imagen de carro de combate nazi e infantería](./assests/images/tanque.jpg 'German infantry and a supporting StuG III assault gun during the battle - Bundesarchiv, Bild 183-B28822')](https://en.wikipedia.org/wiki/Battle_of_Stalingrad#/media/File:Bundesarchiv_Bild_183-B28822,_Russland,_Kampf_um_Stalingrad,_Infanterie.jpg 'German infantry and a supporting StuG III assault gun during the battle - Bundesarchiv, Bild 183-B28822')
-
-xxx
-
 ### Cortar la cabeza a la hidra
-Un antiguo palacio de la nobleza rusa está siendo usado por oficiales nazis como su residencia. El único problema es que los saurios no serán muy útiles dentro del palacio y serán tus comandos quienes tendrán que ir sala por sala ejecutando nazis.
+Un antiguo palacio de la nobleza rusa está siendo usado por oficiales nazis como su residencia. 
+
+Tus comandos encuentran huellas recientes de un vehículo en la nieve y el barro que llevan hasta una gran mansión. 
+
+Parece que dentro han montado un grupo de oficiales su puesto de mando. A priori puede ser un combate sencillo, pero el problema es que los saurios no serán muy útiles dentro del palacio y serán tus comandos quienes tendrán que ir sala por sala ejecutando nazis.
 
 xxx
 
 ### A través de la mira del fusil
-Tus comandos están en el punto de mira de un grupo de francotiradores. Es complicado acabar con un enemigo que no se deja ver. xxx
+Tus comandos están en el punto de mira de un grupo de francotiradores. Es complicado acabar con un enemigo que no se deja ver.
 
-xxx
+Avanzando por una desértica calle del centro de la ciudad, entran una zona de disparo de una pareja de francotiradores.
+
+Hay dos francotiradores escondidos en los edificios de la calle y al ver a los dinosaurios los han visto como caza mayor. Está puede ser la pieza que termine definitivamente con su rivalidad, el que derribe a un saurio será el mejor francotirador de todos y quizás pueda salir de este infierno helado.
+
+Este combate es un tanto especial por varias razones:
+
+1. En principio no va a ser sin mapa. Puedes dibujar algo por hacerse una idea.
+2. Los objetivos de los francotiradores son los saurios. Es por ello que salvo, tiros muy claros dispararan a los gigantescos repriless apuntando a sitios como ojos o cabeza. 
+3. Los francotiradores, una vez encontrados, no son rival y huirán antes de ser alcanzados. Deberán evitarlo siguiendo las órdenes recibidas.
+4. Los comandos pueden moverse sin problemas de una protección a otra de la calle. Pero los saurios estarán a la vista pudiendo como mucho conseguir media ocultación.
+5. Cada vez que se muevan podrán usar su acción normal en buscar a los francotiradores desde la nueva ubicación con Notar contra la tirada de Sigilo+xxx+2(traje de camuflaje nieve) que hicieron los  francotiradores al principio del combate.
+6. Si detectan a un franqueta este estará a distancia media de su arma y si consiguen impactarle, este huirá.
 
 \saltopagina
 
+7. En su huida podrán atacarle todos con armas a distancia durante 4 turnos antes de que desaparezca. Estos 4 turnos suponen recoger el equipo (1 turno), bajar de la azotea (1 turno) y por último perderse entre las ruinas de la ciudad por la ruta de escape que se haya preparado(2 turnos y es distancia media). No debería responder al fuego pero debería tener bonos por ir guareciendose en distintas protecciones.
+8. Los dinos no serán útiles en este caso porque no pueden meterse entre las ruinas y por dentro de los edificios.
+9. Pueden intentar seguir su rastro, pero tirarán Supervivencia contra su Sigilo+2 por conocer el terreno.
+
+Este encuentro tiene como objetivo mermar las fuerzas de los saurios y que tus comandos sientan miedo por ellos, porque un disparo malo y podrían morir.
+
+#### Francotirador nazi
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Notar d4, Persuadir d4, Sigilo d4
+* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+* **Ventajas:** Alcurnia, Rica, Asquerosamente Rica
+* **Desventajas:** xxx
+* **Equipo:** Ropas de trabajo de calidad, Herramientas de granja, Cartas y teletipos sin leer
+
 ### El ejército ruso
-Tus comandos se encuentran con una patrulla de soldados del ejército rojo. Deberán decidir si acaban con ellos como dictan sus órdenes o tratan de huir y evitar la matanza.
+Tus comandos se encuentran con una patrulla de soldados del ejército rojo. Deberán decidir si acaban con ellos, como dictan sus órdenes o tratan de huir y evitar la matanza.
 
-xxx
+Para su desgracia, tus comandos se han encontrado con una unidad de infantería rusa de patrulla en una zona industrial de la ciudad.
 
-> Si deciden dejar vivos a algún soldado ruso, este podrá contar lo que han visto. Puedes usar este encuentro para meter una trama en que agentes rusos investigan a la Fundación, el mundo perdido y sus dinosaurios.
+Habrá un soldado ruso (usar las estadísticas de infantería nazi) por cada comando y saurio. Puede que haya obstáculos donde parapetarse como carros y coches e incluso pueden meterse dentro de las fábricas.
+
+No debería ser un combate difícil a no ser que vayan muy tocados. Este encuentro es más para ponerles un desafío ético y moral que realmente un desafío de combate. Tendrán que elegir si se enfrentan a ellos y acaban con todos o si huyen y desobedecen las órdenes que les han dado. Si discuten que hacer no les des mucho tiempo, 5 minutos máximo y si quieres y puedes agobiarles preguntándoles que qué van a hacer.
+
+Si van a huir, con que se retiren 3 turnos hacia atrás mientras intercambian tiros será suficiente.
+
+\saltopagina
+
+Lo que hagan en este encuentro no tiene consecuencias en la campaña, pero dejará clara la caradura moral de tus comandos. Si se comen la cabeza un rato sobre como deberían haber actuado el objetivo de este encuentro se ha cumplido.
+
+Como siempre, si crees que este encuentro no es adecuado para tu mesa, óbvialo o crea otro en su lugar.
+
+> Si deciden dejar vivos a todos o algún soldado ruso, este podrá contar lo que han visto. Puedes usar este encuentro para meter una trama en que agentes rusos investigan a la Fundación, el mundo perdido y sus dinosaurios.
 
 ## Reportes desde el frente (Pistas)
 xxx
