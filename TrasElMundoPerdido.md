@@ -1760,7 +1760,7 @@ Los combates son normales y puedes modificarlos a tu gusto o meter otros, pero a
 * **Sin supervivientes:** No deberían dejar supervivientes o gente que escape. Si alguien escapa podrá avisar y volver con refuerzos. En tal caso sácales un encuentro básico (10/15 soldados).
 
 ### Soldados cansados
-Según avanzan por la nieve, tus comandos se encontrarán con una trinchera de poca profundidad y que parece hecha rápidamente. Si la siguen llegarán a una parte donde unos 3 soldados de infantería nazi por comando y saurio están apiñados tratando de protegerse de frío. La trinchera tiene dos casillas de ancho y para salir de ella debes gastar una acción de movimiento y pasar una tirada de Atletismo para escalar la embarrada pared.  
+Según avanzan por la nieve, tus comandos se encontrarán con una trinchera de poca profundidad y que parece hecha rápidamente. Si la siguen llegarán a una parte donde unos **3 soldados de infantería nazi por comando y saurio** están apiñados tratando de protegerse de frío. La trinchera tiene dos casillas de ancho y para salir de ella debes gastar una acción de movimiento y pasar una tirada de Atletismo para escalar la embarrada pared.  
 
 Los soldados están congelados y hambrientos y solo tratan de sobrevivir a este infierno de hielo. Se defenderán hasta la muerte si no tienen escapatoria, pero tratarán de huir a la mínima si les dan opción. A penas tienen munición, no tienen hada con lo que calentarse y hace días que malviven con raciones medio podridas.
 
@@ -1768,17 +1768,28 @@ Los soldados están congelados y hambrientos y solo tratan de sobrevivir a este 
 
 Puedes dejarles echar un vistazo rápido a escondidas para saber a qué se enfrentan o hacer una mínima estrategia como dividirse e ir cada uno por lado de la trinchera para hacerles una pinza.
 
+[![Primer plano de soldado nazi con lanzallamas](./assests/images/infierno.jpg 'Fighting for a house on a street corner. Stalingrad, 1943. Source Российский государственный архив кинофотодокументов. Author unknown.')](https://en.wikipedia.org/wiki/File:Battle_for_home_on_the_street_corner,_Stalingrad,_1943.jpg 'Fighting for a house on a street corner. Stalingrad, 1943. Source Российский государственный архив кинофотодокументов. Author unknown.')
+
 ### Desde el infierno
+
 Los oficiales nazis ya no saben qué hacer para abrir brecha en las fuerzas rusas, así que han preparado un grupo de soldados con lanzallamas. Tal vez funcionaría si no fuera porque el grupo de soldados con sus Flammenwerfer 35 se van a encontrar con algo que no esperaban.
 
-xxx
+Mientras tus comandos avanzan por las calles de un barrio residencial de las afueras, se encontrarán con la unidad de infantería con lanzallamas sin posibilidad de hacer nada más que lanzarse al combate. Puedes poner en tu campo de batalla diferentes obstáculos, como coches y carros, zonas de terreno difícil, como socavones de bombas y zonas de cascotes, y cosas que puedes prender como árboles y arbustos.
+
+Los enemigos van en **parejas de infantería normal e infantería con lanzallamas**. La idea es que el soldado normal cubra las espaldas del lanzallamas y por eso nunca se separa. Son **una pareja por comando y saurio**, pero estarán como a unas 12 casillas de distancia y sus lanzallamas no llegan tan lejos. Pueden aprovechar esos turnos a lanzar granadas.
 
 ### El último carro de combate
+
 Uno de los últimos carros alemanes funcionales y con combustible se pone a tiro de tus comandos. Su blindaje es un problema, pero con un poco de ingenio pueden solucionarlo.
 
 xxx
 
 \saltopagina
+
+
+[![Imagen de carro de combate nazi e infantería](./assests/images/tanque.jpg 'German infantry and a supporting StuG III assault gun during the battle - Bundesarchiv, Bild 183-B28822')](https://en.wikipedia.org/wiki/Battle_of_Stalingrad#/media/File:Bundesarchiv_Bild_183-B28822,_Russland,_Kampf_um_Stalingrad,_Infanterie.jpg 'German infantry and a supporting StuG III assault gun during the battle - Bundesarchiv, Bild 183-B28822')
+
+xxx
 
 ### Cortar la cabeza a la hidra
 Un antiguo palacio de la nobleza rusa está siendo usado por oficiales nazis como su residencia. El único problema es que los saurios no serán muy útiles dentro del palacio y serán tus comandos quienes tendrán que ir sala por sala ejecutando nazis.

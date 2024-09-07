@@ -224,6 +224,10 @@ h3 {
   clear: both;
 }
 
+p:has(a img) + h3 {
+  padding-left: 0;
+}
+
 section > ul > li,
 section > ul > li > ul > li {
   list-style: none;
@@ -268,6 +272,11 @@ h3:after {
   height: 25px;
 }
 
+p:has(a img) + h3:after {
+  left: 0;
+  width: calc(100% - 37px);
+}
+
 section p img:not(section:first-of-type img, section:nth-of-type(2) img, section:last-of-type img) {
   max-width: 100%;
   width: 100%;
@@ -291,6 +300,7 @@ section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type)
 section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Imagen]):before,
 section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Retrato]):before,
 section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Detalle]):before,
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Recorte]):before,
 section:not(section:first-of-type, section:last-of-type) h1:before {
   content: "";
   display: block;
@@ -310,6 +320,7 @@ section:not(section:first-of-type, section:last-of-type) h1:before {
 
 section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Retrato]),
 section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Detalle]),
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Recorte]),
 section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Primer])  {
   rotate: -3deg;
   width: 40%;
@@ -320,7 +331,8 @@ section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type)
 }
 
 section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Retrato]):before,
-section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Detalle]):before {
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Detalle]):before,
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Recorte]):before {
   top: 48px;
   left: -40px;
   right: auto;
