@@ -2011,7 +2011,7 @@ Parece que los nazis no solo buscaban dinosaurios para su ejército, también bu
 ```
 xxx
 
-## Dinosaurios capturados
+### Dinosaurios capturados
 Los dinosaurios capturados en la isla de Skye y en la meseta han sido trasladados al castillo como parte de sus defensas. Sus jinetes los controlan por la fuerza mediante los collares de entrenamiento y los mandos de control, sin olvidar otros castigos e insuficiente alimentación.
 
 El maltrato recibido los hace muy agresivos y más primitivos con lo que han perdido parte de su inteligencia. Aquí vemos algunos cambios frente a las estadísticas normales de los saurios.
@@ -2032,6 +2032,9 @@ Mapa del castillo de Hohenzollern en la Selva Negra.
 \saltopagina
 
 ### El castillo de Hohenzollern
+xxx
+
+## Y ahora ¿qué va a pasar¿
 xxx
 
 ***
@@ -2683,7 +2686,15 @@ xxx
 La guerra se ha acabado y quizás es el momento de que los dinosaurios vuelvan a su mundo. 
 ```
 
-xxx
+Este relato salvaje no es un relato normal, es más bien una serie de ideas para ese momento en que quieras terminar la campaña y tus comandos deban despedirse de sus compañeros saurios o comenzar una nueva vida con ellos. Es de esperar que tras una campaña larga tus comandos hayan desarrollado cierto apego por sus dinosaurios y creo que es importante que la campaña termine cerrándolo todo bien. Veamos algunas ideas:
+
+* Tus comandos deben volver a su vida normal donde no hay espacio para reptiles gigantes, es por ello que debería haber una escena de despedida. La despedida debería ser en la meseta de Maple White volviendo el saurio a la naturaleza salvaje.
+* Otra opción, si el trasfondo del comando lo permite, es que vaya a trabajar la meseta de Maple White, de esa forma no habría despedida y podrían seguir juntos.
+* Los saurios acuáticos o voladores son de menor tamaño y no entran en contacto con los seres humanos de forma normal. Podrían vivir sus propias aventuras, quizás como pescadores, submarinistas, pilotos, etc. Deberían irse a un lugar aislado lejos de miradas indiscretas.
+* La Fundación no va a permitir tu comando y su saurio de gran tamaño como el alosaurio o el estegosaurio anden sin control por vete tú a saber donde, el mundo todavía no está preparado para saber que los dinosaurios existen.
+* Quizás es divertido que los saurios tengan crías y tu comando se haga cargo de una o varias de ellas. 
+
+Algo que debes pensar es cuando va a ocurrir está despedida antes o después del fin de la guerra. Cada opción tiene sus implicaciones si quieres seguir jugando con el mismo PJ. Si la guerra está activa todavía puedes hacer aventuras de guerra en las que luchan contra nazis. Si la guerra ha acabado las tramas no deberían contener temas militares o no ser su punto central. No tendrán sentido las historias donde tengan que saltar un sitio de una ciudad o que deban escapar de un campo de prisioneros.
 
 \saltopagina
 

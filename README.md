@@ -10,15 +10,14 @@
 * Parte 9: La Selva Negra
 
 # Por hacer de la versión 0.8
-* Parte 5: Normandía
-* Parte 7: Regreso a casa
-
-# Por hacer de la versión 0.7
 * Relatos salvajes
   * Un día en el museo
   * El pecio
   * Espécimen perdido
-  * Despedidas
+* Parte 7: Regreso a casa
+
+# Por hacer de la versión 0.7
+* Parte 5: Normandía
 
 ## Recursos 
 * https://commons.wikimedia.org/wiki/Category:Charles_R._Knight
@@ -29,6 +28,7 @@
 
 # Versión 0.7.1 En desarrollo
 * Terminado el Relato Salvaje "El secreto de los Branningan"
+* Terminado el Relato Salvaje "Despedidas"
 
 # Versión 0.7 08/09/2024
 * Terminada la parte de "Rompiendo el sitio de Stalingrado" de "Parte 6: El frente ruso"
