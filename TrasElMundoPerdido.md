@@ -2579,6 +2579,74 @@ En cada ronda deberán tirar Apostar y el que saque la peor tirada será el perd
 
 \saltopagina
 
+## El secreto de los Branningan
+```
+En la familia Branningan llevan siendo marinos desde hace siglo, lo que no cuentan es que durante un tiempo fueron corsarios al servicio de Inglaterra. 
+```
+
+Ahora que regresan a casa, por el camino, la capitán Branningan tiene una oferta interesante que proponerles. Conoce la ubicación de un galeón hundido lleno de oro. Si le ayudan a rescatarlo, compartirá con ellos una parte a negociar. Dolores acaba su propuesta con un "Así, cuando acabe esta maldita guerra, podremos retirarnos y vivir como reyes en alguna isla del Caribe bebiendo ron y bailando salsa."
+
+Si aceptan el trato, Dolores variará el rumbo hacia la costa sur de Gales. El mar está en calma y la predicción meteorológica es buena, así que todo perfecto para un rescate submarino.
+
+### Preparaciones
+
+Si no sabían, la capitán dará una clases básicas de buceo en el tanque de los plesiosaurios. Ya deberían estar acostumbrados, ya que se hicieron prácticas en la instrucción en la isla Skye.
+
+Dolores tiene mapas y esquemas del pecio que llevan en un familia siglos. Van en busca de un galeón inglés de la flota corsaria de Sir Francis Drake. Estaba lleno de oro y plata robada a los españoles.
+
+Según Dolores está a poco profundidad, unos 50 metros, pero al borde de una sima. Y puede caer por ella en cualquier momento. Si eso pasará sería imposible de rescatar.
+
+### Como locos a por el oro
+
+Puedes hacerles unas tiradas de Atletismo para subir y bajar del pecio y alguna tirada de Vigor para evitar la fatiga, mientras suben y bajan y cargan y descargan las alforjas de sus saurios acuáticos.
+
+Cada viaje suben 5 lingotes, por si quieren hacer cuentas. Pero en realidad no lo van a tocar y tampoco lo van a necesitar mientras trabajen para la Fundación, que tiene fondos infinitos.
+
+\saltopagina
+
+
+
+[![Detalle de grabado con un kraken atacando un barco](./assests/images/kraken.jpg 'Pen and wash drawing by malacologist Pierre Dénys de Montfort, 1801')](https://es.wikipedia.org/wiki/Kraken#/media/Archivo:Colossal_octopus_by_Pierre_Denys_de_Montfort.jpg 'Pen and wash drawing by malacologist Pierre Dénys de Montfort, 1801')
+
+### ¡¡¡Kraken!!!
+
+Igual que han sobrevivido dinosaurios y otros seres prehistóricos en la meseta de Maple White, en esta zona habita un monstruo de tiempos ancestrales un kraken, un calamar gigante capaz de hundir barcos pequeños.
+
+El calamar gigante vive en la sima, pero sube hasta el precio a pescar. No es un experto en Sigilo, pero tampoco tendrá problemas en pillarlos por sorpresa. Quizás meta uno de sus tentáculos por los agujeros del casco o espie el interior del barco por los ventanucos.
+
+Es fácil esquivarlo y subir a la superficie, sobre todo con los saurios acuáticos, pero se siente curioso y quiere saber por qué los humanos entran y salen del pecio. El problema es que está haciendo moverse al barco y puede precipitarse dentro de la sima.
+
+En la superficie puedes pasarles arpones, para volver a bajar y expulsar al kraken. Si se queda a un hería huirá y desaparecerá en la fosa.
+
+Cada vez que reciba una herida o haga un ataque a un enemigo y le haga herida. Deberá tirar Fuerza y si consigue un avance, las contorsiones y golpes del kraken harán moverse al pecio. Si mueve el pecio 5 veces este caerá a la sima.
+
+Si el kraken tiene agarrado a alguien se lo llevará con él al abismo oceánico. La víctima tienes 3 turnos para liberarse o morirá por la presión de la rápida presión. Tus comandos pueden intentar ayudarle.
+
+Si expulsan al kraken sin que caiga el precio a la suma podrán seguir sacando oro, pero el calamar gigante podría volver enfadado.
+
+#### Kraken
+
+* **Atributos:** Agilidad d6, Astucia d6 (A), Espíritu d12, Fuerza d12+6, Vigor d12
+* **Habilidades:** Atletismo d8, Notar d4, Pelear d10,
+* **Paso:** 10 nadando; **Parada:** 7; **Dureza:** 16(3)
+* **Capacidades especiales:**
+  * **Acuático:**Puede respirar bajo el agua y tiene paso 10 nadando.
+
+\saltopagina
+
+* 
+  * **Mordisco:** FUE+d8. Debe agarrar primero (ver tentáculos). El kraken puede morder a un solo objetivo agarrado como ataque gratuito.
+  * **Tentáculos:** Fue+d10. Con un aumento en su tirada de ataque, agarra al objetivo y lo arrastra hacia su boca para morder la siguiente ronda si es comestible, o lo levanta y lo arroja al agua si no. Liberarse con fuerza bruta es casi imposible; Es más probable liberarse con una tirada de Agilidad de -2.
+  * **Miedo -2:** Quien vea un poderoso kraken deberá hacer una tirada contra miedo con una penalización de -2.
+  * **Piel dura +3:** Su piel dura y lisa no solo le protege del frío del mar, también de ataques de otros animales.
+  * **Enorme:** +2 heridas. Los enemigos de tamaño normal obtienen un +4 en tiradas de ataque contra ellos.
+  * **Tamaño +8:** +8 a Dureza
+
+### ¿Qué hacemos con el tesoro?
+La idea de Branningan es guardar el tesoro hasta después de la guerra, así que su idea, si no proponen otra cosa, es enterrarlo en los terrenos de la Fundación, que es un lugar bastante seguro y conocido.
+
+Cuando tus comandos lleguen a la Parte 7. Se quedarán sin los recursos económicos de la Fundación para seguir con sus aventuras. Puede que el tesoro del galeón hundido sea su única fuente de ingresos. Acceder al dinero será fácil si lo enterraron en Skye, pero podría complicarse si está guardado en otro sitio. 
+
 ## Un día en el museo
 ```
 Quizás una visita al Museo de Ciencias Naturales ayude a solucionar un nuevo problema que ha supuesto la cría de dinosaurios.
@@ -2598,22 +2666,6 @@ xxx
 Este relato puede servirte como introducción a tus propias aventuras. Entre los objetos rescatados puede haber algún tipo de valija con documentación que sirva de semilla de tus propias aventuras. 
 
 Quizás haya un mapa de algún lugar misterioso como Lemuria o la Atlántida, diseños de alguna extraña máquina hipertecnológica nazi, la ubicación de otro mundo perdido, etc.
-
-\saltopagina
-
-## El secreto de los Branningan
-```
-En la familia Branningan llevan siendo marinos desde hace siglo, lo que no cuentan es que durante un tiempo fueron corsarios al servicio de Inglaterra. 
-```
-
-Ahora que regresan a casa, por el camino, la capitán Branningan tiene una oferta interesante que proponerles. Conoce la ubicación de un galeón hundido lleno de oro. Si le ayudan a rescatarlo, compartirá con ellos una parte. Dolores acaba su propuesta con un "Así, cuando acabe esta maldita guerra, podremos retirarnos y vivir como reyes en alguna isla del Caribe bebiendo ron y bailando salsa."
-
-xxx
-
-### ¿Qué hacemos con el tesoro?
-La idea de Branningan es guardar el tesoro hasta después de la guerra así que su idea, si no proponen otra cosa, es enterrarlo en los terrenos de la Fundación, que es un lugar bastante seguro y conocido. 
-
-Cuando tus comandos lleguen a la Parte 7. Se quedarán sin los recursos económicos de la Fundación para seguir con sus aventuras. Puede que el tesoro del galeón hundido sea su única fuente de ingresos. Acceder al dinero será fácil si lo enterraron en Skye, pero podría complicarse si está guardado en otro sitio. 
 
 \saltopagina
 

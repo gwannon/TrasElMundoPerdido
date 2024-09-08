@@ -17,7 +17,6 @@
 * Relatos salvajes
   * Un día en el museo
   * El pecio
-  * El secreto de los Branningan
   * Espécimen perdido
   * Despedidas
 
@@ -29,6 +28,7 @@
 # Changelog
 
 # Versión 0.7.1 En desarrollo
+* Terminado el Relato Salvaje "El secreto de los Branningan"
 
 # Versión 0.7 08/09/2024
 * Terminada la parte de "Rompiendo el sitio de Stalingrado" de "Parte 6: El frente ruso"

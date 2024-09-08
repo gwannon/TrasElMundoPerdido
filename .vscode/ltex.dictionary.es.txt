@@ -278,3 +278,4 @@ SWEA
 Flammenwerfer
 Garand
 Panzer
+kraken
