@@ -1683,7 +1683,7 @@ El propio von Liebenfels ha realizado algún tipo de ritual de magia o plegaria 
 Naturalmente, todo esto no funciona, pero los cazadragones son tan fanáticos y están tan locos que en parte se lo creen.
 
 * **Atributos:** Agilidad d8, Astucia d4, Espíritu d4, Fuerza d10, Vigor d10
-* **Habilidades:** Atletismo d8, Conocimientos Generales d4, Disparar d8, Idioma aleman d6, Intimidar d8, Notar d6, Pelear d10, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d8, Conocimientos Generales d4, Disparar d8, Idioma alemán d6, Intimidar d8, Notar d6, Pelear d10, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** 8; **Dureza:** 10(3)
 * **Ventajas:** Bloqueo, Impávido, Sin piedad, Soldado
 * **Desventajas:** Fanático (SS), Deseo de muerte, Obligaciones (mayor, ejército)
@@ -1784,7 +1784,7 @@ Los enemigos van en **parejas de infantería normal e infantería con lanzallama
 ### Cortar la cabeza a la hidra
 Un antiguo palacio de la nobleza rusa está siendo usado por oficiales nazis como su residencia. 
 
-Tus comandos encuentran huellas recientes de un vehículo en la nieve y el barro que llevan hasta una gran mansión. Esta anocheciendo y se ven luces y se oyen ruidos de personas.
+Tus comandos encuentran huellas recientes de un vehículo en la nieve y el barro que llevan hasta una gran mansión. Está anocheciendo y se ven luces y se oyen ruidos de personas.
 
 Parece que dentro han montado un grupo de oficiales su puesto de mando. A priori puede ser un combate sencillo, pero el problema es que los saurios no serán muy útiles dentro del palacio y serán tus comandos quienes tendrán que ir sala por sala ejecutando nazis.
 
@@ -1821,7 +1821,7 @@ Tus comandos no debería tener el cañón automático del tanque, pero la ametra
 #### Tripulación tanque nazi
 
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d4, Fuerza d8, Vigor d8
-* **Habilidades:** Atletismo d6, Conducir d8, Conocimientos Generales d6, Disparar d8, Idioma aleman d6, Notar d6, Pelear d6, Persuadir d4, Reparar d4, Sigilo d4
+* **Habilidades:** Atletismo d6, Conducir d8, Conocimientos Generales d6, Disparar d8, Idioma alemán d6, Notar d6, Pelear d6, Persuadir d4, Reparar d4, Sigilo d4
 * **Paso:** 6; **Parada:** 5; **Dureza:** 7(1)
 * **Ventajas:** Soldado
 * **Desventajas:** Obligaciones (mayor, ejército), Fanático (SS)
@@ -2612,11 +2612,11 @@ Cada viaje suben 5 lingotes, por si quieren hacer cuentas. Pero en realidad no l
 
 Igual que han sobrevivido dinosaurios y otros seres prehistóricos en la meseta de Maple White, en esta zona habita un monstruo de tiempos ancestrales un kraken, un calamar gigante capaz de hundir barcos pequeños.
 
-El calamar gigante vive en la sima, pero sube hasta el precio a pescar. No es un experto en Sigilo, pero tampoco tendrá problemas en pillarlos por sorpresa. Quizás meta uno de sus tentáculos por los agujeros del casco o espie el interior del barco por los ventanucos.
+El calamar gigante vive en la sima, pero sube hasta el precio a pescar. No es un experto en Sigilo, pero tampoco tendrá problemas en pillarlos por sorpresa. Quizás meta uno de sus tentáculos por los agujeros del casco o espíe el interior del barco por los ventanucos.
 
 Es fácil esquivarlo y subir a la superficie, sobre todo con los saurios acuáticos, pero se siente curioso y quiere saber por qué los humanos entran y salen del pecio. El problema es que está haciendo moverse al barco y puede precipitarse dentro de la sima.
 
-En la superficie puedes pasarles arpones, para volver a bajar y expulsar al kraken. Si se queda a un hería huirá y desaparecerá en la fosa.
+En la superficie puedes pasarles arpones, para volver a bajar y expulsar al kraken. Si recibe 3 heridas, huirá y desaparecerá en la fosa.
 
 Cada vez que reciba una herida o haga un ataque a un enemigo y le haga herida. Deberá tirar Fuerza y si consigue un avance, las contorsiones y golpes del kraken harán moverse al pecio. Si mueve el pecio 5 veces este caerá a la sima.
 
@@ -2624,18 +2624,18 @@ Si el kraken tiene agarrado a alguien se lo llevará con él al abismo oceánico
 
 Si expulsan al kraken sin que caiga el precio a la suma podrán seguir sacando oro, pero el calamar gigante podría volver enfadado.
 
-#### Kraken
+#### Kraken &#x2638;
 
 * **Atributos:** Agilidad d6, Astucia d6 (A), Espíritu d12, Fuerza d12+6, Vigor d12
 * **Habilidades:** Atletismo d8, Notar d4, Pelear d10,
 * **Paso:** 10 nadando; **Parada:** 7; **Dureza:** 16(3)
 * **Capacidades especiales:**
-  * **Acuático:**Puede respirar bajo el agua y tiene paso 10 nadando.
+  * **Acuático:** Puede respirar bajo el agua y tiene paso 10 nadando.
+  * **Mordisco:** FUE+d8. Debe agarrar primero (ver tentáculos). El kraken puede morder a un solo objetivo agarrado como ataque gratuito.
 
 \saltopagina
 
 * 
-  * **Mordisco:** FUE+d8. Debe agarrar primero (ver tentáculos). El kraken puede morder a un solo objetivo agarrado como ataque gratuito.
   * **Tentáculos:** Fue+d10. Con un aumento en su tirada de ataque, agarra al objetivo y lo arrastra hacia su boca para morder la siguiente ronda si es comestible, o lo levanta y lo arroja al agua si no. Liberarse con fuerza bruta es casi imposible; Es más probable liberarse con una tirada de Agilidad de -2.
   * **Miedo -2:** Quien vea un poderoso kraken deberá hacer una tirada contra miedo con una penalización de -2.
   * **Piel dura +3:** Su piel dura y lisa no solo le protege del frío del mar, también de ataques de otros animales.
@@ -3036,7 +3036,7 @@ Todas guerrilla cuenta con una líder o un líder carismático capaz de mover a 
 Hablamos de combatientes de baja graduación de cualquier rama del ejército nazi. Se pueden personalizar según su trabajo normal, por ejemplo, +1 nivel a Supervivencia si es un explorador o +1 nivel a Conducir si vigila las carreteras en una moto BMW R-71, etc. 
 
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d4, Fuerza d8, Vigor d8
-* **Habilidades:** Atletismo d6, Conducir d6, Conocimientos Generales d6, Disparar d8, Idioma aleman d6, Notar d6, Pelear d6, Persuadir d4, Sigilo d6
+* **Habilidades:** Atletismo d6, Conducir d6, Conocimientos Generales d6, Disparar d8, Idioma alemán d6, Notar d6, Pelear d6, Persuadir d4, Sigilo d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 6
 * **Ventajas:** Soldado
 * **Desventajas:** Obligaciones (mayor, ejército), Fanático (SS)
@@ -3048,7 +3048,7 @@ Hablamos de combatientes de baja graduación de cualquier rama del ejército naz
 Hablamos del típico oficial nazi, altivo, déspota, seguramente muy sádico y que siempre está gritando. No tengas ningún reparo en acabar con ellos, la lista de crímenes de guerra y de lesa humanidad que haya cometido será seguramente larguísima, perfectos para que se los coma de un bocado un alosaurio.
 
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d4, Fuerza d6, Vigor d6
-* **Habilidades:** Atletismo d6, Conducir d6, Conocimientos Generales d6, Disparar d8, Idioma aleman d6, Idioma Inglés d4, Intimidar d8, Notar d8, Pelear d6, Persuadir d6, Sigilo d6, Tácticas d6
+* **Habilidades:** Atletismo d6, Conducir d6, Conocimientos Generales d6, Disparar d8, Idioma alemán d6, Idioma Inglés d4, Intimidar d8, Notar d8, Pelear d6, Persuadir d6, Sigilo d6, Tácticas d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
 * **Ventajas:** Mando, Soldado, Inspiración
 * **Desventajas:** Obligaciones (mayor, ejército), Fanático (SS), Elige 1 (Avaricioso, Sanguinario, Vengativo, Sobreconfiado)
@@ -3058,7 +3058,7 @@ Hablamos del típico oficial nazi, altivo, déspota, seguramente muy sádico y q
 Este soldado nazi es por así decirlo una arma de destrucción personal. Tiene una especie de arnés que le permite sostener una ametralladora pesada y moverse (lentamente) con ella. Mientras los saurios no estén cerca de él, es un temible adversario. Su problema es que en cuerpo a cuerpo es torpe y lento.
 
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d4, Fuerza d8, Vigor d6
-* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Disparar d10, Idioma aleman d6, Pelear d4, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Disparar d10, Idioma alemán d6, Pelear d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6 (sobrecargado: paso 4 y no puede correr); **Parada:** 4; **Dureza:** 5
 * **Ventajas:** Soldado, Manos firmes
 * **Desventajas:** Obligaciones (mayor, ejército), Fanático (SS)
@@ -3070,7 +3070,7 @@ La idea de este soldado nazi es crear una persona que sea un tanque. Con tanto b
 \saltopagina
 
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d4, Fuerza d8, Vigor d6
-* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Disparar d8, Idioma aleman d6, Pelear d4, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Disparar d8, Idioma alemán d6, Pelear d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6 (sobrecargado: paso 4 y no puede correr); **Parada:** 4; **Dureza:** 9(4)
 * **Ventajas:** Soldado, Disparo rápido
 * **Desventajas:** Obligaciones (mayor, ejército), Fanático (SS)
@@ -3083,7 +3083,7 @@ La idea de este soldado nazi es crear una persona que sea un tanque. Con tanto b
 Este soldado nazi está especializado en el uso de lanzallamas como arma de combate. Con esta desbastadora arma se puede incinerar a un grupo de enemigos en segundos e incendiar vehículos enemigos. Pueden hacer grandes quemaduras en los de gran tamaño que son más fáciles de acertar. Su tremenda capacidad de destrucción se compensa con las altas posibilidades que el lanzallamas falle y su portador muera envuelto de fuego de queroseno.
 
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d4, Fuerza d8, Vigor d8
-* **Habilidades:** Atletismo d4, Conocimientos Generales d6, Disparar d8, Idioma aleman d6, Pelear d4, Notar d4, Intimidar d6
+* **Habilidades:** Atletismo d4, Conocimientos Generales d6, Disparar d8, Idioma alemán d6, Pelear d4, Notar d4, Intimidar d6
 * **Paso:** 6; **Parada:** 4; **Dureza:** 7(1)
 * **Ventajas:** Soldado, Sin piedad
 * **Desventajas:** Obligaciones (mayor, ejército), Fanático (SS), Deseo de muerte

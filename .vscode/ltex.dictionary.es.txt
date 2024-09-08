@@ -279,3 +279,4 @@ Flammenwerfer
 Garand
 Panzer
 kraken
+Kraken
