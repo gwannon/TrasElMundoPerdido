@@ -276,3 +276,5 @@ Kaiserliche
 Stilettos
 SWEA
 Flammenwerfer
+Garand
+Panzer

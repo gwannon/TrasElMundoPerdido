@@ -713,6 +713,7 @@ En esta tabla tenemos los vehículos típicos de las películas de la II Guerra 
 |Motocicleta BMW R-71 con sidecar|2 (Normal)|+1|95 km/h|8|1+2|
 |Jeep Willys MB|3|+1|95 km/h|14(3)|1+4|
 |VW Typ 82 "Kübelwagen"|3|+1|80 km/h|13(3)|1+4|
+|Panzer II|6|+0|65 km/h|24(10)|3-4|
 
 ### Dinosaurios como vehículos
 Todos queremos ver persecuciones entre dinosaurios y motos nazis por una carretera de montaña de los Alpes o una carrera entre un alosaurio y unos "Kübelwagen" por las abarrotadas calles del zoco de Marrakech, así que aquí tienes las estadísticas de diferentes dinosaurios como vehículos a la hora de hacer persecuciones.
@@ -727,9 +728,9 @@ Todos queremos ver persecuciones entre dinosaurios y motos nazis por una carrete
 |Plesiosaurio|3|0|40 km/h|11|1|
 |Pteranodon|2|+1|95 km/h|9|1|
 
-Recuerda que los dinosaurios son también parte de la tripulación del vehículo. Así pues, aparte de correr, pueden hacer otras acciones en cada ronda de persecución como atacar al enemigo, derribar árboles para cortar el camino a sus perseguidores, etc.
-
 \saltopagina
+
+Recuerda que los dinosaurios son también parte de la tripulación del vehículo. Así pues, aparte de correr, pueden hacer otras acciones en cada ronda de persecución como atacar al enemigo, derribar árboles para cortar el camino a sus perseguidores, etc.
 
 ## Equipo especial
 *Operación: Tras el Mundo Perdido* tiene equipamiento especial tanto para tus comandos como para los dinosaurios. Este equipamiento no tiene precio, ya que no puede ser conseguido en tiendas legalmente o en los bajos fondos ilegalmente. Normalmente, son cosas que la fundación Roxton entregará a tus comandos para que los use en sus misiones y recogerá de nuevo al terminarlas.
@@ -1364,7 +1365,7 @@ Independientemente del medio de transporte que tendrán una emboscada de un grup
 Estamos hablando de asesinos entrenados y dispuestos a cumplir las órdenes que les den sus líderes nazis. Estamos hablando de personas sin escrúpulos y fanáticas del Tercer Reich que no les importa a quién deben matar.
 
 * **Atributos:** Agilidad d10, Astucia d6, Espíritu d6, Fuerza d10, Vigor d12
-* **Habilidades:** Atletismo d10, Cabalgar d10, Conducir d10, Disparar d10, Idioma nativo d6, Idioma inglés d6, Pelear d12, Sigilo d10, Tácticas d10
+* **Habilidades:** Atletismo d10, Cabalgar d10, Conducir d10, Disparar d10, Idioma alemán d6, Idioma inglés d6, Notar d6, Pelear d12, Sigilo d10, Tácticas d10
 * **Paso:** 6; **Parada:** 9(1); **Dureza:** 9(1)
 * **Ventajas:** Acróbata, Ambidextro, Ataque repentino, Con un par, Bloqueo, Soldado, Sin piedad
 * **Desventajas:** Secreto (asesina profesional), Fanático (SS), Deseo de muerte
@@ -1682,7 +1683,7 @@ El propio von Liebenfels ha realizado algún tipo de ritual de magia o plegaria 
 Naturalmente, todo esto no funciona, pero los cazadragones son tan fanáticos y están tan locos que en parte se lo creen.
 
 * **Atributos:** Agilidad d8, Astucia d4, Espíritu d4, Fuerza d10, Vigor d10
-* **Habilidades:** Atletismo d8, Conocimientos Generales d4, Disparar d8, Idioma materno d6, Intimidar d8, Notar d6, Pelear d10, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d8, Conocimientos Generales d4, Disparar d8, Idioma aleman d6, Intimidar d8, Notar d6, Pelear d10, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** 8; **Dureza:** 10(3)
 * **Ventajas:** Bloqueo, Impávido, Sin piedad, Soldado
 * **Desventajas:** Fanático (SS), Deseo de muerte, Obligaciones (mayor, ejército)
@@ -1740,6 +1741,8 @@ En este caso IM ha sido muy claro con los saurios a llevar, carnívoros terrestr
 
 No deben entrar en contacto con el ejército rojo y si algún comunista los encuentra deberían acabar con ellos. IM considera que tampoco sería bueno rebelar la existencia de dinosaurios a las fuerzas rusas. 
 
+El informe recuerda, más bien hace mucho hincapié, que llevan en el equipo las cápsulas de suicidio si se ven atrapados.
+
 ## Encuentros
 Una vez hayan llegado al frente, tendrán que participar en varios combates contra diferentes antagonistas nazis. La idea de IM es que sigan una política de tierra quemada, por donde pasen no debería quedar nada. Así que tendrán explosivos a su disposición para destruir todo vehículo o estructura nazi que se encuentren. 
 
@@ -1778,23 +1781,54 @@ Mientras tus comandos avanzan por las calles de un barrio residencial de las afu
 
 Los enemigos van en **parejas de infantería normal e infantería con lanzallamas**. La idea es que el soldado normal cubra las espaldas del lanzallamas y por eso nunca se separa. Son **una pareja por comando y saurio**, pero estarán como a unas 12 casillas de distancia y sus lanzallamas no llegan tan lejos. Pueden aprovechar esos turnos a lanzar granadas.
 
-### El último carro de combate
-Uno de los últimos carros alemanes funcionales y con combustible se pone a tiro de tus comandos. Su blindaje es un problema, pero con un poco de ingenio pueden solucionarlo.
-
-xxx
-
-\saltopagina
-
 ### Cortar la cabeza a la hidra
 Un antiguo palacio de la nobleza rusa está siendo usado por oficiales nazis como su residencia. 
 
-Tus comandos encuentran huellas recientes de un vehículo en la nieve y el barro que llevan hasta una gran mansión. 
+Tus comandos encuentran huellas recientes de un vehículo en la nieve y el barro que llevan hasta una gran mansión. Esta anocheciendo y se ven luces y se oyen ruidos de personas.
 
 Parece que dentro han montado un grupo de oficiales su puesto de mando. A priori puede ser un combate sencillo, pero el problema es que los saurios no serán muy útiles dentro del palacio y serán tus comandos quienes tendrán que ir sala por sala ejecutando nazis.
 
-xxx
+Este encuentro en realidad son 5 mini-encuentros. La mansión tiene 10 habitaciones (comedor, cocina, biblioteca, etc.) con tamaños que varían de 5x5 casillas a 5x10 casillas.
+
+\saltopagina
+
+Solo en la mitad de las habitaciones hay un oficial con 3 soldados de infantería parapetados esperando a los intrusos. Puedes si quieres hacer que haya dos grupos en la misma habitación haciendo el combate más complicado.
+
+Mientras tus comandos no usen granadas, los nazis tampoco lo harán, no quieren destruir el buen refugio que han conseguido.
+
+Como regla opcional, puedes tirar que haya un 50% de habitaciones con ventanas y hacer que los alosaurios devoren algún soldado u oficial por sorpresa a través de los grandes ventanales de la mansión. 
+
+Como hemos dicho antes, podrán encontrar fácilmente entre el papeleo órdenes firmadas por von Liebenfels que parece el general encargado del sitio de Stalingrado.
+
+&nbsp;
+
+[![Estampa de carro de combate nazi e infantería](./assests/images/tanque.jpg 'German infantry and a supporting StuG III assault gun during the battle - Bundesarchiv, Bild 183-B28822')](https://en.wikipedia.org/wiki/Battle_of_Stalingrad#/media/File:Bundesarchiv_Bild_183-B28822,_Russland,_Kampf_um_Stalingrad,_Infanterie.jpg 'German infantry and a supporting StuG III assault gun during the battle - Bundesarchiv, Bild 183-B28822')
+
+### El último carro de combate
+
+Uno de los últimos carros alemanes funcionales y con combustible se pone a tiro de tus comandos. Su blindaje es un problema, pero con un poco de ingenio pueden solucionarlo.
+
+En mitad de un parque hay un Panzer II (2x3 casillas) con un grupo de infantería nazi (una infantería nazi por cada comando y saurio). El Panzer II está equipado con un Cañón 40 mm y una Ametralladora media (ver datos en el manual básico de SWEA). La tripulación está compuesta por 3 personas, el capitán de la pieza, el artillero y el conductor. 
+
+\saltopagina
+
+El tanque es casi impenetrable con armas convencionales, necesitarán meterle explosivos para abrirlo. También es difícil pillarlo por sorpresa mientras tenga infantería cerca. Puede que los saurios puedan romper ciertas partes de los carros de combate como torretas u orugas, incluso igual puedan doblar los cañones de las armas.  
+
+El parque no tiene zonas de cobertura, pequeños setos y algunos árboles, así que lo que venga será visto de lejos y si tus comandos los ven ellos ven a tus comandos. Así que en combate empezará nada más verse, sin posibilidad de planificar.
+
+Tus comandos no debería tener el cañón automático del tanque, pero la ametralladora mediana si puede ser un peligro.
+
+#### Tripulación tanque nazi
+
+* **Atributos:** Agilidad d6, Astucia d6, Espíritu d4, Fuerza d8, Vigor d8
+* **Habilidades:** Atletismo d6, Conducir d8, Conocimientos Generales d6, Disparar d8, Idioma aleman d6, Notar d6, Pelear d6, Persuadir d4, Reparar d4, Sigilo d4
+* **Paso:** 6; **Parada:** 5; **Dureza:** 7(1)
+* **Ventajas:** Soldado
+* **Desventajas:** Obligaciones (mayor, ejército), Fanático (SS)
+* **Equipo:** Pistola, chaqueta cuero (+1 dureza)
 
 ### A través de la mira del fusil
+
 Tus comandos están en el punto de mira de un grupo de francotiradores. Es complicado acabar con un enemigo que no se deja ver.
 
 Avanzando por una desértica calle del centro de la ciudad, entran una zona de disparo de una pareja de francotiradores.
@@ -1803,28 +1837,33 @@ Hay dos francotiradores escondidos en los edificios de la calle y al ver a los d
 
 Este combate es un tanto especial por varias razones:
 
-1. En principio no va a ser sin mapa. Puedes dibujar algo por hacerse una idea.
-2. Los objetivos de los francotiradores son los saurios. Es por ello que salvo, tiros muy claros dispararan a los gigantescos repriless apuntando a sitios como ojos o cabeza. 
-3. Los francotiradores, una vez encontrados, no son rival y huirán antes de ser alcanzados. Deberán evitarlo siguiendo las órdenes recibidas.
-4. Los comandos pueden moverse sin problemas de una protección a otra de la calle. Pero los saurios estarán a la vista pudiendo como mucho conseguir media ocultación.
-5. Cada vez que se muevan podrán usar su acción normal en buscar a los francotiradores desde la nueva ubicación con Notar contra la tirada de Sigilo+xxx+2(traje de camuflaje nieve) que hicieron los  francotiradores al principio del combate.
-6. Si detectan a un franqueta este estará a distancia media de su arma y si consiguen impactarle, este huirá.
+* En principio no va a ser sin mapa. Puedes dibujar algo por hacerse una idea.
+* Los objetivos de los francotiradores son los saurios. Es por ello que salvo, tiros muy claros dispararan a los gigantescos reptiles apuntando a sitios como ojos o cabeza. 
+* Los francotiradores, una vez encontrados, no son rival y huirán antes de ser alcanzados. Deberán evitarlo siguiendo las órdenes recibidas.
+* Los comandos pueden moverse sin problemas de una protección a otra de la calle. Pero los saurios estarán a la vista pudiendo como mucho conseguir media ocultación.
 
 \saltopagina
 
-7. En su huida podrán atacarle todos con armas a distancia durante 4 turnos antes de que desaparezca. Estos 4 turnos suponen recoger el equipo (1 turno), bajar de la azotea (1 turno) y por último perderse entre las ruinas de la ciudad por la ruta de escape que se haya preparado(2 turnos y es distancia media). No debería responder al fuego pero debería tener bonos por ir guareciendose en distintas protecciones.
-8. Los dinos no serán útiles en este caso porque no pueden meterse entre las ruinas y por dentro de los edificios.
-9. Pueden intentar seguir su rastro, pero tirarán Supervivencia contra su Sigilo+2 por conocer el terreno.
+* Cada vez que se muevan podrán usar su acción normal en buscar a los francotiradores desde la nueva ubicación con Notar contra la tirada de Sigilo+4(ocultación parcial)+2(traje de camuflaje nieve) que hicieron los francotiradores al principio del combate.
+* Si detectan a un tirador este estará a distancia media de su arma y si consiguen impactarle, este huirá.
+* En su huida podrán atacarle todos con armas a distancia durante 4 turnos antes de que desaparezca. Estos 4 turnos suponen recoger el equipo (1 turno), bajar de la azotea (1 turno) y por último perderse entre las ruinas de la ciudad por la ruta de escape que se haya preparado(2 turnos y es distancia media). No debería responder al fuego, pero debería tener bonos por ir guareciéndose en distintas protecciones.
+* Los dinosaurios no serán útiles en este caso porque no pueden meterse entre las ruinas y por dentro de los edificios.
+* Pueden intentar seguir su rastro, pero tirarán Supervivencia contra su Sigilo+2 por conocer el terreno.
 
 Este encuentro tiene como objetivo mermar las fuerzas de los saurios y que tus comandos sientan miedo por ellos, porque un disparo malo y podrían morir.
 
+[![Imagen de dos francotiradores](./assests/images/francotirador.jpg 'Russland, Soldaten in Stellung - Dieck')](https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_101I-216-0417-19,_Russland,_Soldaten_in_Stellung.jpg 'Russland, Soldaten in Stellung - Dieck')
+
 #### Francotirador nazi
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
-* **Ventajas:** Alcurnia, Rica, Asquerosamente Rica
-* **Desventajas:** xxx
-* **Equipo:** Ropas de trabajo de calidad, Herramientas de granja, Cartas y teletipos sin leer
+* **Atributos:** Agilidad d12, Astucia d6, Espíritu d6, Fuerza d8, Vigor d8
+* **Habilidades:** Atletismo d10, Conducir d6, Disparar d12, Idioma alemán d6, Notar d10, Pelear d8, Sigilo d10, Tácticas d6
+
+\saltopagina
+
+* **Paso:** 6; **Parada:** 6; **Dureza:** 6
+* **Ventajas:** Arma distintiva (rifle de francotirador), Soldado, Sin piedad, Temple
+* **Desventajas:** Obligaciones (mayor, ejército), Fanático (SS)
+* **Equipo:** Traje de invierno con camuflaje de nieve (+2 a esconderse), rifle francotirador (usa las estadísticas del M1 Garand con mira)
 
 ### El ejército ruso
 Tus comandos se encuentran con una patrulla de soldados del ejército rojo. Deberán decidir si acaban con ellos, como dictan sus órdenes o tratan de huir y evitar la matanza.
@@ -1837,16 +1876,25 @@ No debería ser un combate difícil a no ser que vayan muy tocados. Este encuent
 
 Si van a huir, con que se retiren 3 turnos hacia atrás mientras intercambian tiros será suficiente.
 
-\saltopagina
-
 Lo que hagan en este encuentro no tiene consecuencias en la campaña, pero dejará clara la caradura moral de tus comandos. Si se comen la cabeza un rato sobre como deberían haber actuado el objetivo de este encuentro se ha cumplido.
 
 Como siempre, si crees que este encuentro no es adecuado para tu mesa, óbvialo o crea otro en su lugar.
 
 > Si deciden dejar vivos a todos o algún soldado ruso, este podrá contar lo que han visto. Puedes usar este encuentro para meter una trama en que agentes rusos investigan a la Fundación, el mundo perdido y sus dinosaurios.
 
+\saltopagina
+
+## Regreso a casa
+Todo el caos, explosiones y muerte que han sembrado tus comandos servirá como revulsivo del ejército ruso. Con las explosiones y las masacres tanto rusos como nazis mandarán unidades a investigar y eso hará que la rueda del combate que se había parado vuelva a rodar. Los rusos se envalentonarán al ver como una unidad solitaria ha creado tanto daño y los nazis tendrán miedo del nuevo enemigo que ha aparecido de la nada y del que no sabe nada. 
+
+Enseguida tus comandos podrán ver como hay movimientos por toda la ciudad, explosiones y tiroteos, movimiento de vehículos, la artillería vuelve a sonar, etc. Esa será la señal de volver a casa. Tendrán que volver a las costas del Mar Negro y embarcar en el "Mary Anning".
+
 ## Reportes desde el frente (Pistas)
-xxx
+Realmente esta es una de las misiones con más sentido. Tienes una unidad especial y la mandas a frente a matar nazis y hacer el mayor daño posible. Y realmente lo es, lo que pasa es que lo que IM buscaban era que murieran allí y que los nazis encontrarán los saurios.
+
+Necesitan dejar una prueba ya palpable de que los ingleses tienen dinosaurios y que se vuelvan locos por conseguirlos destinando tropas y recursos que ya no tienen quitándolos de los diferentes frentes.
+
+El viaje de regreso puedes dejarles caer, si no se han dado cuenta antes, que es bastante peligroso que fueran con uniformes ingleses a una misión como está. Debería haber ido sin uniformes. 
 
 ***
 
@@ -2936,7 +2984,7 @@ Todas guerrilla cuenta con una líder o un líder carismático capaz de mover a 
 Hablamos de combatientes de baja graduación de cualquier rama del ejército nazi. Se pueden personalizar según su trabajo normal, por ejemplo, +1 nivel a Supervivencia si es un explorador o +1 nivel a Conducir si vigila las carreteras en una moto BMW R-71, etc. 
 
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d4, Fuerza d8, Vigor d8
-* **Habilidades:** Atletismo d6, Conducir d6, Conocimientos Generales d6, Disparar d8, Idioma materno d6, Notar d6, Pelear d6, Persuadir d4, Sigilo d6
+* **Habilidades:** Atletismo d6, Conducir d6, Conocimientos Generales d6, Disparar d8, Idioma aleman d6, Notar d6, Pelear d6, Persuadir d4, Sigilo d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 6
 * **Ventajas:** Soldado
 * **Desventajas:** Obligaciones (mayor, ejército), Fanático (SS)
@@ -2948,7 +2996,7 @@ Hablamos de combatientes de baja graduación de cualquier rama del ejército naz
 Hablamos del típico oficial nazi, altivo, déspota, seguramente muy sádico y que siempre está gritando. No tengas ningún reparo en acabar con ellos, la lista de crímenes de guerra y de lesa humanidad que haya cometido será seguramente larguísima, perfectos para que se los coma de un bocado un alosaurio.
 
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d4, Fuerza d6, Vigor d6
-* **Habilidades:** Atletismo d6, Conducir d6, Conocimientos Generales d6, Disparar d8, Idioma materno d6, Idioma Inglés d4, Intimidar d8, Notar d8, Pelear d6, Persuadir d6, Sigilo d6, Tácticas d6
+* **Habilidades:** Atletismo d6, Conducir d6, Conocimientos Generales d6, Disparar d8, Idioma aleman d6, Idioma Inglés d4, Intimidar d8, Notar d8, Pelear d6, Persuadir d6, Sigilo d6, Tácticas d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
 * **Ventajas:** Mando, Soldado, Inspiración
 * **Desventajas:** Obligaciones (mayor, ejército), Fanático (SS), Elige 1 (Avaricioso, Sanguinario, Vengativo, Sobreconfiado)
@@ -2958,7 +3006,7 @@ Hablamos del típico oficial nazi, altivo, déspota, seguramente muy sádico y q
 Este soldado nazi es por así decirlo una arma de destrucción personal. Tiene una especie de arnés que le permite sostener una ametralladora pesada y moverse (lentamente) con ella. Mientras los saurios no estén cerca de él, es un temible adversario. Su problema es que en cuerpo a cuerpo es torpe y lento.
 
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d4, Fuerza d8, Vigor d6
-* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Disparar d10, Idioma materno d6, Pelear d4, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Disparar d10, Idioma aleman d6, Pelear d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6 (sobrecargado: paso 4 y no puede correr); **Parada:** 4; **Dureza:** 5
 * **Ventajas:** Soldado, Manos firmes
 * **Desventajas:** Obligaciones (mayor, ejército), Fanático (SS)
@@ -2970,7 +3018,7 @@ La idea de este soldado nazi es crear una persona que sea un tanque. Con tanto b
 \saltopagina
 
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d4, Fuerza d8, Vigor d6
-* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Disparar d8, Idioma materno d6, Pelear d4, Notar d4, Persuadir d4, Sigilo d4
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Disparar d8, Idioma aleman d6, Pelear d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6 (sobrecargado: paso 4 y no puede correr); **Parada:** 4; **Dureza:** 9(4)
 * **Ventajas:** Soldado, Disparo rápido
 * **Desventajas:** Obligaciones (mayor, ejército), Fanático (SS)
@@ -2983,7 +3031,7 @@ La idea de este soldado nazi es crear una persona que sea un tanque. Con tanto b
 Este soldado nazi está especializado en el uso de lanzallamas como arma de combate. Con esta desbastadora arma se puede incinerar a un grupo de enemigos en segundos e incendiar vehículos enemigos. Pueden hacer grandes quemaduras en los de gran tamaño que son más fáciles de acertar. Su tremenda capacidad de destrucción se compensa con las altas posibilidades que el lanzallamas falle y su portador muera envuelto de fuego de queroseno.
 
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d4, Fuerza d8, Vigor d8
-* **Habilidades:** Atletismo d4, Conocimientos Generales d6, Disparar d8, Idioma materno d6, Pelear d4, Notar d4, Intimidar d6
+* **Habilidades:** Atletismo d4, Conocimientos Generales d6, Disparar d8, Idioma aleman d6, Pelear d4, Notar d4, Intimidar d6
 * **Paso:** 6; **Parada:** 4; **Dureza:** 7(1)
 * **Ventajas:** Soldado, Sin piedad
 * **Desventajas:** Obligaciones (mayor, ejército), Fanático (SS), Deseo de muerte
