@@ -12,7 +12,7 @@
 # Por hacer de la versión 0.8
 * Relatos salvajes
   * Un día en el museo
-  * El pecio
+  * Nadie
   * Espécimen perdido
 * Parte 7: Regreso a casa
 
@@ -29,6 +29,7 @@
 # Versión 0.7.1 En desarrollo
 * Terminado el Relato Salvaje "El secreto de los Branningan"
 * Terminado el Relato Salvaje "Despedidas"
+* Terminando el Relato Salvaje "Nadie"
 
 # Versión 0.7 08/09/2024
 * Terminada la parte de "Rompiendo el sitio de Stalingrado" de "Parte 6: El frente ruso"
