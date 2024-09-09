@@ -2864,7 +2864,7 @@ xxx
 \saltopagina
 
 ### Teniente Horace Chambers, mano ejecutora de la IM y el General Linton &#x2638;
-[![Retrato de Teniente Horace Chambers](./assests/images/horace.jpg 'This is a photo of the young Peter Conder as a Lieutenant in the Royal Signal Corps.Author: Irandar')](https://commons.wikimedia.org/wiki/File:Peter_Conder_Lieutenant_Royal_Corps_Signals.jpg 'This is a photo of the young Peter Conder as a Lieutenant in the Royal Signal Corps.Author: Irandar')
+[![Retrato de Teniente Horace Chambers](./assests/images/horace.jpg 'This is a photo of the young Peter Conder as a Lieutenant in the Royal Signal Corps. Author: Irandar')](https://commons.wikimedia.org/wiki/File:Peter_Conder_Lieutenant_Royal_Corps_Signals.jpg 'This is a photo of the young Peter Conder as a Lieutenant in the Royal Signal Corps. Author: Irandar')
 xxx
 
 * **Atributos:** Agilidad d4, Astucia d10, Espíritu d8, Fuerza d6, Vigor d6
