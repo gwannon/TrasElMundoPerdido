@@ -2708,6 +2708,19 @@ xxx
 Al volver a Skye os informan de que un huevo de pteranodon ha desaparecido de su nido. Han encontrado pisadas cerca y los padres tienen señales de lucha.
 ```
 
+Todo indica que alguien ha entrado en los terrenos de la fundación y ha robado un huevo de pteranodon. Ha tenido que ser algo planeado, ya que ha necesitado equipo de escalada para llegar a los nidos de los saurios. Lady Roxton considera esto un fallo de seguridad grave que habrá que solucionar.
+
+### Buscando al ladrón
+Si preguntan en el ferry, no ha venido nadie nuevo en los últimos días y todavía no ha salido el ferry de hoy. Eso supone que o está en la isla o llegado al continente por otros medios.
+
+xxx
+
+### El intercambio
+Ahora que tienen el huevo y han capturado al ladrón puede ser interesante concertar una cita con el comprador para tratar de averiguar cuál era su objetivo y cómo supo de la existencia de los saurios.
+
+xxx
+
+### Devolviendo el huevo
 xxx
 
 \saltopagina
