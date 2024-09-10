@@ -2927,27 +2927,6 @@ Jocelyn será un personaje importante en dos escenarios de esta campaña, la Fra
 
 \saltopagina
 
-### Ibrahim Adauy, un ladrón de guante largo que se burla de la ley &#x2638;
-
-Ibrahim es el epítome del ladrón de guante blanco, es ágil, sigiloso y diestro. No hay pared que no pueda escalar o cerradura que no pueda abrir. Podría robarle su strudel a un oficial nazi de las manos sin que se diera cuenta.
-
-Ya tuvo que huir de Argelia por problemas a ambos lados de la ley, y como siga así tendrá que abandonar también Francia. La policia y la PM nazi han puesto una recompensa por su captura y a los criminales de la zona no les cae muy bien por su exceso de confianza que le lleva a arriesgar demasiado.
-
-Contratar a Adauy es una opción muy interesante si tus comandos necesitan conseguir algún objeto muy bien custodiado. Además, siempre anda con problemas de dinero por su ludopatía, con lo que se le puede comprar fácilmente.
-
-Cuando haces tratos con Alí has de saber que tienden a pasar cosas extrañas a su alrededor y siempre termina metiéndose en situaciones extrañas y bizarras. Pero desde luego, al lado de Ibrahim nunca te vas a aburrir.
-
-* **Atributos:** Agilidad d12, Astucia d8, Espíritu d6, Fuerza d8, Vigor d8
-* **Habilidades:** Apostar d6, Atletismo d12, Conocimientos Generales d8, Interpretar d8, Idioma francés d8, Latrocinio d12, Notar d4, Pelear d8, Persuadir d6, Sigilo d10
-* **Paso:** 8; **Parada:** 6; **Dureza:** 6
-* **Desventajas:** Exceso de confianza, Hábito (menor, ludopatía), Imán de lo extraño
-* **Ventajas:** Acróbata, Callejear, Ladrón, Pies ligeros
-* **Equipo:** Daga (FUE+d4), ropas oscuras, herramientas de ladrón y cuerda y garfio de escalada
-
-**Sugerencia de interpretación:** Ali es el típico ladrón de guante blanco de películas clásicas de robos. Es elegante, de buenas maneras, modales finos y gustos caros. Cuando no estás trabajando disfrutas de los placeres de la vida en restaurantes, tabernas y hammames. Coquetea continuamente y no dejes de halagar a la gente de alrededor, los halagos te han librado de prisión más veces que tus acrobacias.
-
-\saltopagina
-
 ### Arntine Cornelia Marie Edvardsdatter Lyngstad, campesina noruega convertida en espía inglesa &#x2638;
 [![Primer plano de Arntine Lyngstad en su juventud](./assests/images/arntine.jpg 'Aud Egede Nissen - Alexander Binder')](https://en.wikipedia.org/wiki/Aud_Egede-Nissen#/media/File:Aud_Egede_Nissen_Binder.jpg 'Aud Egede Nissen - Alexander Binder')
 
@@ -2959,18 +2938,42 @@ Siguiendo órdenes de los ingleses, Arntine se movió por todo el país trabajan
 
 Ahora mismo está viviendo en la zona de Telemark y al ser el agente inglés de menor valía se le ha puesto a trabajar con los comandos de la fundación Roxton, ya que su perdida no supone ninguna perdida importante.
 
+> La niña que Synni lleva es su vientre es Frida, la cantante morena de grupo ABBA. Gracias a tus comandos todos podemos cantar "Mamma Mia" o "Waterloo".
+
 * **Atributos:** Agilidad d6, Astucia d8, Espíritu d12, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d6, Conocimientos Generales d8, Idioma Noruego d8, Investigar d8, Notar d8, Pelear d6, Persuadir d8, Sigilo d8
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
 * **Ventajas:** Investigadora, Osada
 * **Desventajas:** Marginada (menor, tyskerhoren), Obligaciones (menor, criada de von Liebenfels), Pobre
+
+\saltopagina
+
 * **Equipo:** Ropa de criada y productos y herramientas de limpieza
 
 **Sugerencia de interpretación:** Tu voluntad es inquebrantable, por mucho que lo intenten, por mucho que te echen encima, no pueden doblegarte. Seguirás adelante protegiendo a tu familia en una de las peores épocas de la historia. 
 
+### Ibrahim Adauy, un ladrón de guante largo que se burla de la ley &#x2638;
+
+[![Primer plano de Ibrahim Adauy](./assests/images/ibrahim.jpg 'Image by ASphotofamily on Freepik')](https://www.freepik.com/free-photo/portrait-retro-1920s-english-arabian-business-man-wearing-dark-suit-tie-flat-cap_26284579.htm 'Image by ASphotofamily on Freepik')
+
+Ibrahim es el epítome del ladrón de guante blanco, es ágil, sigiloso y diestro. No hay pared que no pueda escalar o cerradura que no pueda abrir. Podría robarle su strudel a un oficial nazi de las manos sin que se diera cuenta.
+
+Ya tuvo que huir de Argelia por problemas a ambos lados de la ley, y como siga así tendrá que abandonar también Francia. La policía y la PM nazi han puesto una recompensa por su captura y a los criminales de la zona no les cae muy bien por su exceso de confianza que le lleva a arriesgar demasiado.
+
+Contratar a Adauy es una opción muy interesante si tus comandos necesitan conseguir algún objeto muy bien custodiado. Además, siempre anda con problemas de dinero por su ludopatía, con lo que se le puede comprar fácilmente.
+
+Cuando haces tratos con Alí has de saber que tienden a pasar cosas extrañas a su alrededor y siempre termina metiéndose en situaciones extrañas y bizarras. Pero desde luego, al lado de Ibrahim nunca te vas a aburrir.
+
+* **Atributos:** Agilidad d12, Astucia d8, Espíritu d6, Fuerza d8, Vigor d8
+* **Habilidades:** Apostar d6, Atletismo d12, Conocimientos Generales d8, Interpretar d8, Idioma francés d8, Latrocinio d12, Notar d4, Pelear d8, Persuadir d6, Sigilo d10
+* **Paso:** 8; **Parada:** 6; **Dureza:** 6
+* **Desventajas:** Exceso de confianza, Hábito (menor, ludopatía), Imán de lo extraño
+* **Ventajas:** Acróbata, Atractivo, Callejear, Ladrón, Pies ligeros
+* **Equipo:** Daga (FUE+d4), ropas oscuras, herramientas de ladrón y cuerda y garfio de escalada
+
 \saltopagina
 
-> La niña que Synni lleva es su vientre es Frida, la cantante morena de grupo ABBA. Gracias a tus comandos todos podemos cantar "Mamma Mia" o "Waterloo".
+**Sugerencia de interpretación:** Ibrahim es el típico ladrón de guante blanco de películas clásicas de robos. Es elegante, de buenas maneras, modales finos y gustos caros. Cuando no estás trabajando disfrutas de los placeres de la vida en restaurantes y teatros. Coquetea continuamente y no dejes de halagar a la gente de alrededor, los halagos te han librado de prisión más veces que tus acrobacias.
 
 \saltopagina
 

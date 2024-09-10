@@ -281,3 +281,5 @@ Panzer
 kraken
 Kraken
 Nemo
+Adauy
+strudel
