@@ -1915,12 +1915,12 @@ xxx
 Los nazis han capturado a una serie de personas:
 
 * Lady Roxton
-* Teniente Horace Linton que espera la vuelta de tus comandos para hacer informe de misión.
-* Marina Flowers si estaba en las instalaciones
+* Teniente Horace Linton que esperaba la vuelta de tus comandos para hacer el informe de la última misión.
+* Marina Flowers si estaba en las instalaciones.
 * Si han traído a la isla a Arntine Lyngstad y su familia, von Liebenfels la reconoció de Noruega y se la ha llevado. Quiere interrogarla para saber más del fiasco de Telemark.
 * xxx
 
-Wayland consiguió escapar de los nazis, haciéndose pasar por un criado y escabulléndose cuando no miraban los guardias.
+Wayland 
 
 xxx
 
@@ -1940,6 +1940,11 @@ xxx
 
 ### Aliados
 Por suerte no están solos en sus misiones han hechos contactos, ayudado a gente y conseguidos recursos propios. Es hora de usarlos. 
+
+* Jocelyn Dubois. xxx
+* Dolores Branningan y la tripulación del "Mary Anning". xxx
+* Wayland. Consiguió escaparse de los nazis, haciéndose pasar por un mozo de granja y escabulléndose cuando no miraban los guardias.
+
 xxx
 
 ***
@@ -2650,51 +2655,6 @@ La idea de Branningan es guardar el tesoro hasta después de la guerra, así que
 
 Cuando tus comandos lleguen a la Parte 7. Se quedarán sin los recursos económicos de la Fundación para seguir con sus aventuras. Puede que el tesoro del galeón hundido sea su única fuente de ingresos. Acceder al dinero será fácil si lo enterraron en Skye, pero podría complicarse si está guardado en otro sitio. 
 
-## Nadie
-```
-Mientras el "Mary Anning" surcaba el mar uno de los plesiosaurios que viaja con él, ha aparecido con un extraño objeto en la boca. Quizás no es mala idea pararse y buscar donde lo ha encontrado.
-```
-
-Los saurios acuáticos está entrenados para recuperar cosas del fondo marino, sobre todo si son brillantes y metálicas. Lo ha dejado caer al suelo y ha hecho mucho ruido. Si lo examinan, parece algún tipo de caja metálica con partes de que debían ser de cristal y una especie de cables colgando. Si miran atentamente encontrarán una N en cursiva en el pie que no podrán reconocer.
-
-\saltopagina
-
-Una tirada de Ciencias deja ver que parece alguna lámpara eléctrica, pero la pátina dice que tiene unos 100 años, mucho antes de la bombilla de Edison. Además no parece que haya estado en el agua, ya que no tiene corrosión ni tiene señales de algas o moluscos, Ha estado en un ambiente seco mucho tiempo.
-
-Si consiguen algún avance puedes dejarles pistas como que los cables son de una aleación oro o que la estructura metálica es muy ligera, quizás de alguna aleación extraña de titanio. Todo esto tiene que haber despertado su interés como para parar las máquinas e intentar una inmersión.
-
-### Inmersión
-xxx
-
-### El refugio submarino
-xxx
-
-#### La estatua
-xxx
-
-### El tesoro del capitán Nemo
-Como en el relato "El secreto de los Branningan" tendrán acceso a un gran tesoro en oro y piedras preciosas que, aunque tengan que compartir con la tripulación de "Mary Anning", seguirá siendo un montón. 
-
-Si no lo venden y lo convierten en dinero no pueden hacer uso de él. El problema es que no van a tener el tiempo necesario para convertirlo en riqueza, deben frustrar los planes de conquista de los nazis. Como en ese relato puede llevárselo y esconderlo en algún lugar o pueden dejarlo aquí.
-
-Puedes dejarles llevarse algunos lingotes y piedras preciosas para que se den una fiesta en tierra firme, ayuden a gente como Arntine y su familia o lo usen para sobornos y propinas.
-
-Cuando tus comandos lleguen a la Parte 7. Se quedarán sin los recursos económicos de la Fundación para seguir con sus aventuras. Puede que el tesoro del capitán Nemo sea su única fuente de ingresos. Acceder al dinero será fácil si lo sacaron y lo escondieron, pero en ningún sitio estará más seguro que en este refugio submarino.
-
-### Tecnología
-La tecnología que se muestra en este relato es muy avanzada a propósito como una forma de que metas, si lo deseas, cosas como Ciencias Extraña o armas láser. 
-
-\saltopagina
-
-También es muy valiosa, sobre todo en mitad de una guerra. Tus comandos pueden sentirse tentados de arramblar con ella y usarla en su beneficio. Si crees que tu mesa sería capaz de ello y al explotarla para su beneficio pueda estropear tu partida, eres libre de hacerla más normal. Por ejemplo, convirtiendo los láseres en lanzallamas y el generador nuclear en alguna especie de generador geotérmico. 
-
-### Comenzando una gran aventura
-Este relato puede servirte como introducción a tus propias aventuras. Entre los objetos rescatados puede haber algún tipo de documento que sirva de semilla de tus propias aventuras. 
-
-Quizás haya un mapa de algún lugar misterioso como Lemuria o la Atlántida, diseños de alguna extraña máquina hipertecnológica nazi, un grabado con la ubicación de otro mundo perdido, etc.
-
-\saltopagina
-
 ## Un día en el museo
 ```
 Quizás una visita al Museo de Ciencias Naturales ayude a solucionar un nuevo problema que ha supuesto la cría de dinosaurios.
@@ -2703,24 +2663,25 @@ xxx
 
 \saltopagina
 
+## El pecio
+```
+Mientras el "Mary Anning" surcaba el mar uno de los plesiosaurios que viaja con él, ha aparecido con un extraño objeto en la boca. Quizás no es mala idea pararse y buscar donde lo ha encontrado.
+```
+
+xxx
+
+### Comenzando una gran aventura
+Este relato puede servirte como introducción a tus propias aventuras. Entre los objetos rescatados puede haber algún tipo de valija con documentación que sirva de semilla de tus propias aventuras. 
+
+Quizás haya un mapa de algún lugar misterioso como Lemuria o la Atlántida, diseños de alguna extraña máquina hipertecnológica nazi, la ubicación de otro mundo perdido, etc.
+
+\saltopagina
+
 ## Espécimen perdido
 ```
 Al volver a Skye os informan de que un huevo de pteranodon ha desaparecido de su nido. Han encontrado pisadas cerca y los padres tienen señales de lucha.
 ```
 
-Todo indica que alguien ha entrado en los terrenos de la fundación y ha robado un huevo de pteranodon. Ha tenido que ser algo planeado, ya que ha necesitado equipo de escalada para llegar a los nidos de los saurios. Lady Roxton considera esto un fallo de seguridad grave que habrá que solucionar.
-
-### Buscando al ladrón
-Si preguntan en el ferry, no ha venido nadie nuevo en los últimos días y todavía no ha salido el ferry de hoy. Eso supone que o está en la isla o llegado al continente por otros medios.
-
-xxx
-
-### El intercambio
-Ahora que tienen el huevo y han capturado al ladrón puede ser interesante concertar una cita con el comprador para tratar de averiguar cuál era su objetivo y cómo supo de la existencia de los saurios.
-
-xxx
-
-### Devolviendo el huevo
 xxx
 
 \saltopagina
@@ -2877,14 +2838,13 @@ xxx
 \saltopagina
 
 ### Teniente Horace Chambers, mano ejecutora de la IM y el General Linton &#x2638;
-[![Retrato de Teniente Horace Chambers](./assests/images/horace.jpg 'This is a photo of the young Peter Conder as a Lieutenant in the Royal Signal Corps. Author: Irandar')](https://commons.wikimedia.org/wiki/File:Peter_Conder_Lieutenant_Royal_Corps_Signals.jpg 'This is a photo of the young Peter Conder as a Lieutenant in the Royal Signal Corps. Author: Irandar')
 xxx
 
-* **Atributos:** Agilidad d4, Astucia d10, Espíritu d8, Fuerza d6, Vigor d6
-* **Habilidades:** Atletismo d4, Conducir d4, Conocimientos Generales d12, Ciencias d10, Disparar d6, Humanidades d10, Idioma Inglés d10, Investigar d8, Notar d8, Pelear d4, Persuadir d4, Sigilo d4, Tácticas d10
-* **Paso:** 6; **Parada:** 4; **Dureza:** 5
-* **Ventajas:** Investigador, Erudito (Ciencias), Erudito (Humanidades)
-* **Desventajas:** Obligaciones (mayor, ejército), Leal, Patoso
+* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Notar d4, Persuadir d4, Sigilo d4
+* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+* **Ventajas:** xxx
+* **Desventajas:** xxx
 * **Equipo:** Uniforme de militar con galones de teniente, pistola reglamentaria, mapas, dosieres, cajas con dulces, taza de té
 
 **Sugerencia de interpretación:** xxx
@@ -2965,7 +2925,7 @@ Theodor es uno de generales más importantes de las fuerzas militares nazis y es
 
 **Sugerencia de interpretación:** Eres todo lo que se espera de un general racista, machista, cruel, sádico (de hecho disfrutas con el dolor ajeno y propio) y con un total desprecio por la vida humana. Los fallos los castigas duramente, muy duramente. En cuanto empiezan a salirte mal las cosas empiezas a chillar a todos y a moverte frenéticamente.
 
-### Artur Eckart, científico loco nazi &#x2638;
+###  Artur Eckart, científico loco nazi &#x2638;
 [![Primer plano de Wayland](./assests/images/eckart.jpg 'Geoffrey N. Pyke by State Library Victoria Collections')](https://www.flickr.com/photos/statelibraryofvictoria_collections/ 'Geoffrey N. Pyke by State Library Victoria Collections')
 xxx
 
