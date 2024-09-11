@@ -1767,7 +1767,15 @@ La Francia ocupada es un escenario clásico. Pero mientras que las historias nor
 La IM necesita boicotear una serie de instalaciones antes del día D y tus comandos parecen el equipo perfecto para la tarea.
 ```
 
+[![Imagen de bunker para artillería nazi](./assests/images/lehavre.jpg 'Defensas alemanas: el Muro Atlántico Bundesarchiv, Bild 101I-263-1591-07A / Valtingojer (CC BY-SA)')](https://www.worldhistory.org/trans/es/1-23093/dia-d/ 'Defensas alemanas: el Muro Atlántico Bundesarchiv, Bild 101I-263-1591-07A / Valtingojer (CC BY-SA)') 
+
+&nbsp;
+
+La Wehrmacht de la Alemania nazi ha transformado la ciudad de La Havre (en la costa de Normandía) en una base militar, y han construido la «Festung Le Havre», una línea de fortificaciones y baterías de artillería. Este dispositivo forma parte del Muro atlántico, la línea defensiva que protege la Europa Nazi de posibles ataques desde Inglaterra.
+
 xxx
+
+\saltopagina
 
 ## ¿Qué está pasando aquí?
 xxx
@@ -3071,12 +3079,12 @@ Irma es la _femme fatale_ por excelencia, seductora y misteriosa, pero también 
 
 xxx
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Atributos:** Agilidad d8, Astucia d8, Espíritu d12, Fuerza d8, Vigor d8
 * **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
-* **Ventajas:** xxx
+* **Paso:** 6; **Parada:** xxx; **Dureza:** 6
+* **Ventajas:** Atractiva, xxx
 * **Desventajas:** xxx
-* **Equipo:** Impresionante traje de noche de alta costura, Bolso a juego con pistola dentro, Stilettos
+* **Equipo:** Impresionante traje de noche de alta costura, bolso a juego con pistola dentro, stilettos
 
 **Sugerencia de interpretación:** xxx
 
