@@ -680,12 +680,14 @@ Su capacidad de nadar es excepcionalmente rápida, convirtiéndole en uno de los
 Llevar milenios siendo una presa ha hecho que ciertos especímenes de tu especie detecte los peligros y tenga un sistema de alarma. Obtienes un +2 a Notar para detectar enemigos y además algún tipo de señal (bramido, golpear el suelo con la cola, chocar las alas, etc.) para avisar al resto de la manada.
 
 ### Nueva ventaja para dinosaurios: Buen paciente
+
 **Requisitos:** Novato
 
 El saurio es muy buen paciente y se comporta muy bien cuando hay que realizarle pruebas o realizar curas. Las tiradas de Ciencias al practicarle pruebas y experimentos y las de Medicina al curar heridas y enfermedades obtiene un +2.
 
 
 ### Nueva ventaja para dinosaurios: Raptor
+
 **Requisitos:** Novato, Carnívoro
 
 El saurio carnívoro es un experto cazador con lo que puede obtiene +2 a Notar al buscar a su presa y +2 a sigilo al tender emboscadas a sus presas.
@@ -697,7 +699,7 @@ El dinosaurio no es un espécimen adulto y todavía no ha llegado a su tamaño d
 \saltopagina
 
 
-[![Imagen de Charles R. Knight esculpiendo un estegosuario](./assests/images/knight.jpg 'Charles R. Knight working on Stegosaurus in 1899 Unknown author - http://www.darwinlive.com/')](https://commons.wikimedia.org/wiki/Category:Charles_R._Knight#/media/File:Charles_R._Knight.jpg/2 'Charles R. Knight working on Stegosaurus in 1899 Unknown author - http://www.darwinlive.com/')
+[![Imagen de Charles R. Knight esculpiendo un estegosaurio](./assests/images/knight.jpg 'Charles R. Knight working on Stegosaurus in 1899 Unknown author - http://www.darwinlive.com/')](https://commons.wikimedia.org/wiki/Category:Charles_R._Knight#/media/File:Charles_R._Knight.jpg/2 'Charles R. Knight working on Stegosaurus in 1899 Unknown author - http://www.darwinlive.com/')
 
 &nbsp;
 
@@ -782,7 +784,7 @@ Como con los medicamentos, la flora y fauna de la meseta de Maple White, es un l
 
 Lady Roxton está en contra del uso de venenos y deberán conseguirlo sin que ella lo detecte. Si son reincidentes, Lady Roxton podría expulsarlos de la Fundación o degradarlos de sus puestos actuales.
 
-> A nivel de juego, todo esto supone que pueden conseguir venenos de cualquier formato (líquido, gaseoso, en pasta, etc.), con cualquier efecto (letal, incapacitante, etc.) y la potencia deseada entre 0 y -2.
+> En partida, todo esto supone que pueden conseguir venenos de cualquier formato (líquido, gaseoso, en pasta, etc.), con cualquier efecto (letal, incapacitante, etc.) y la potencia deseada entre 0 y -2.
 > Los héroes no usan venenos, así que si hacen uso de veneno en sus misiones de forma continua, deberías racanearles los benis.
 
 
@@ -1264,7 +1266,7 @@ Jocelyn les mostrará una extraña pieza mecánica y les contará que se lo robo
 
 Enigma es una máquina electromagnética para cifrar y descifrar mensajes. Es usada por todas las ramas del ejército nazi para encriptar y desencriptar sus comunicaciones. Jocelyn no ha conseguido una de estas máquinas enteras, pero ha conseguido una de sus partes fundamentales, los rotores de conversión. Estudiándolos se podría llegar a crear un sistema para descifrar los mensajes interceptados rápidamente. 
 
-Jocelyn consiguió robar el rotor principal de la máquina con las modificaciones que los nazis hicieron al modelo original. Esto puede ayudar muchísimo a encontrar una forma de descifrar sus mensajes, así que su valor es inestimable y hay gente dispuesta a hacer lo que sea por esa pieza de la Enigma.
+Jocelyn consiguió robar el rotor principal de la máquina con las modificaciones que los nazis hicieron al modelo original. Esto puede ayudar muchísimo a encontrar una forma de descifrar sus mensajes, así que su valor es inestimable y hay gente dispuesta a hacer lo que sea por esa pieza de la máquina enigma.
 
 ### ¡Es una trampa!
 De repente, habrá golpes en la puerta. "¡Policía militar! Abran la puerta. Están arrestados. Si no abren derribaremos la puerta." Tienen 3 turnos antes de que tiren la puerta y cada comando puede hacer una acción.
@@ -1423,9 +1425,9 @@ Scapa Flow siempre ha sido una obsesión para los nazis y siempre ha estado en e
 
 En el momento en que vayan tus comandos están fondeados en las aguas de Scapa Flow:
 
-* **HMS Royal Oak:** Acorazado clase Revenge.
+* **HMS Royal Oak:** Acorazado de la clase "Revenge".
 * **HMS Pegasus:** Porta hidroaviones.
-* **HMS Iron Duke:** Acorazado clase Iron Duke
+* **HMS Iron Duke:** Acorazado de la clase "Iron Duke".
 * Además de 3 cargueros medios con materiales para la base y el "Mary Anning".
 
 \saltopagina
@@ -1506,7 +1508,7 @@ Tus comandos debe buscar la forma de detener el submarino antes de que alcance K
 Tus comandos no tienen capacidad para detener un submarino ellos solos, pero el submarino tiene que moverse muy lentamente entre los arrecifes de Kirk Sound. Podrían intentar alguna de estas opciones.
 
 * Si saben por donde entro (lo averiguaron cuando inspeccionaban las defensas) podrían adelantarse y tenderles una emboscada. Quizás sepan de una mina cercana que pueda mover.
-* Podrían intentar enredar una red anti-submarino en los motores del sumergible nazi.
+* Podrían intentar enredar una red antisubmarinos en los motores del sumergible nazi.
 * De alguna forma podrían delatar la posición del submarino, por ejemplo atando una boya al submarino, de forma que el Royal Oak pueda atacarlo.
 * Quizás puedan volver loco al sonar del submarino generando mucho ruido y dejarlo ciego.
 
@@ -1926,7 +1928,7 @@ xxx
 Los nazis han capturado a una serie de personas:
 
 * **Lady Roxton.**
-* **Teniente Horace Linton.**Esperaba la vuelta de tus comandos para hacer el informe de la última misión.
+* **Teniente Horace Linton.** Esperaba la vuelta de tus comandos para hacer el informe de la última misión.
 * **Marina Flowers** si estaba en las instalaciones.
 * Si trajeron a la isla a **Arntine Lyngstad y su familia**, von Liebenfels la reconoció de Noruega y se la ha llevado. Quiere interrogarla para saber más del fiasco de Telemark.
 * **Cualquier PNJ de tu propia cosecha que estuviera en la isla de Skye** es susceptible de haber sido secuestrado.
@@ -2049,7 +2051,7 @@ Mapa del castillo de Hohenzollern en la Selva Negra.
 ### El castillo de Hohenzollern
 xxx
 
-## Y ahora ¿qué va a pasar¿
+## Y ahora ¿qué va a pasar?
 xxx
 
 ***
@@ -2245,7 +2247,7 @@ Cuando el director de la señal debería dejarse caer y gritar como si lo hubier
 
 Además de las tiradas de Atletismo tendrá que **hacer una tirada de Interpretar para hacerse bien el muerto**. Si falla la tirada el director volverá a rodar la escena con otro comando. Si fallan todos, hará una segunda ronda. Si vuelven a fallar, cogerá la escena del comando que obtuvo mejor tirada. Recuerda que tus comandos pueden fallar a propósito su tirada para fastidiar a sus compañeros.
 
-Puede ser divertido que pongas el [grito Wilhelm](https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d9/Wilhelm_Scream.ogg/Wilhelm_Scream.ogg.mp3) cuando algún comando finja su muerte.
+Puede ser divertido que pongas el [Grito Wilhelm](https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d9/Wilhelm_Scream.ogg/Wilhelm_Scream.ogg.mp3) cuando algún comando finja su muerte.
 
 ### 2ª secuencia
 Para la filmación de esta secuencia Marina tiene preparado una sorpresa para todos los extras, una pistola de tatuaje (y demás parafernalia) que vete tú a saber de donde lo ha sacado. Quiere que todos se tatúen una huela de dinosaurio en una nalga.
