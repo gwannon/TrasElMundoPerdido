@@ -46,7 +46,7 @@ Todo comienzo en 1910 cuando el excéntrico y genial doctor en Zoología George 
 
 Challenger encontró entre sus objetos personales una libreta de dibujos con extraños bocetos de gigantescas bestias prehistóricas que habitaban una meseta tremendamente alta y seguramente inaccesible a pie.
 
-Challenger encontró el lugar que Maple había dibujado y lo llamó la "Tierra de Maple White", pero no pudo acceder a ella por falta de material de escalada y provisiones. Aunque consiguió fotografías de pteranodones y algunas pruebas físicas como huesos de dinosaurios, lo perdió casi todo en un accidente a su regreso a Londres. Las pocas pruebas que pudo conservar fueron tachadas de fraude y él de farsante.
+Challenger encontró el lugar que Maple había dibujado y lo llamó la "Tierra de Maple White", pero no pudo acceder a ella por falta de material de escalada y provisiones. Aunque consiguió fotografías de pteranodontes y algunas pruebas físicas como huesos de dinosaurios, lo perdió casi todo en un accidente a su regreso a Londres. Las pocas pruebas que pudo conservar fueron tachadas de fraude y él de farsante.
 
 A pesar de ello, Challenger consiguió el apoyo de Lord John Roxton, el profesor Summerlee y de Edward Malone, un periodista del Daily Gazette y monto una expedición a la selva venezolana para demostrar que su descubrimiento era real. 
 
@@ -65,13 +65,13 @@ A pesar de ello, Challenger consiguió el apoyo de Lord John Roxton, el profesor
 ### Una aventura increíble
 Tras varias aventuras y desventuras, la expedición consiguió llegar y acceder a la inaccesible la meseta que nombraron como la Tierra de Maple White. Pero quedaron atrapados en ella debido a la traición y venganza contra Lord Roxton de uno de sus acompañantes que destruyo el acceso que habían conseguido construir con un árbol. Tres porteadores, dos indios aborígenes y un hombre negro llamado Zambo, se quedaron abajo de la meseta ayudando a sus jefes.
 
-En esa tierra descubrieron no solo pteranodones, sino también iguanodones, alosaurios, estegosaurios, ictiosaurios y plesiosaurios, además de todo tipo animales desconocidos para la zoología. Tuvieron que luchar contra algunos de los saurios depredadores pero siempre con éxito.
+En esa tierra descubrieron no solo pteranodontes, sino también iguanodontes, alosaurios, estegosaurios, ictiosaurios y plesiosaurios, además de todo tipo animales desconocidos para la zoología. Tuvieron que luchar contra algunos de los saurios depredadores, pero siempre con éxito.
 
 Una noche, a traición, fueron atrapados y consiguieron escapar de una raza de homínidos muy violentos, al que Challenger y Summerlee consideraron un pitecántropo posterior al hombre de Java. Descubrieron también que estaban en guerra con una tribu de aborígenes humanos que hace cientos de años, si no miles, accedieron a la meseta.
 
 Ayudaron con sus rifles y su munición a los aborígenes, que tenían las de perder, a vencer a los homínidos que fueron diezmados y convertidos en esclavos.
 
-Una vez pacificada la meseta pudieron ponerse a explorar y conocer las maravillas de aquella zona y a buscar una forma de escapar. De hecho Challenger descubrió unas toberas naturales de las que salía algún tipo de gas inflamable y menos pesado que el aire que quiso usar para fabricar un globo, aunque nunca llego a hacerse realidad.
+Una vez pacificada la meseta pudieron ponerse a explorar y conocer las maravillas de aquella zona y a buscar una forma de escapar. De hecho, Challenger descubrió unas toberas naturales de las que salía algún tipo de gas inflamable y menos pesado que el aire que quiso usar para fabricar un globo, aunque nunca llego a hacerse realidad.
 
 \saltopagina
 
@@ -79,37 +79,37 @@ Una vez pacificada la meseta pudieron ponerse a explorar y conocer las maravilla
 
 &nbsp;
 
-Los aborígenes no parecían contentos cuando el grupo intentaba salir de la meseta así sus planes de escape tuvieron que hacerse en secreto. El hijo del jefe de los aborígenes, al que habían salvado de los homínidos, les enseño una ruta de escape en las cuevas en las que vivían. A escondidas hicieron sus macutos y escaparon con lo que pudieron, menos Challenger que se llevó un gran bulto que resultó ser una cría de pteranodon.  
+Los aborígenes no parecían contentos cuando el grupo intentaba salir de la meseta, así sus planes de escape tuvieron que hacerse en secreto. El hijo del jefe de los aborígenes, al que habían salvado de los homínidos, les enseño una ruta de escape en las cuevas en las que vivían. A escondidas hicieron sus macutos y escaparon con lo que pudieron, menos Challenger que se llevó un gran bulto que resultó ser una cría de pteranodonte.  
 
 Malone trato de enviar sus crónicas (por si morían antes de salir del mundo perdido) con los dos indios que se quedaron abajo de la meseta de a los que pidieron que buscarán ayuda, pero estos escritos nunca llegaron a su destino.
 
-Por otro lado, a escondidas de sus compañeros, Lord Roxton descubrió que en un lodo azul que había en el pantano donde anidaban los pteranodones había diamantes de gran tamaño por valor de 200.000 libras. Estos diamantes fueron el origen de lo que algún día sería la Fundación Roxton. 
+Por otro lado, a escondidas de sus compañeros, Lord Roxton descubrió que en un lodo azul que había en el pantano donde anidaban los pteranodontes había diamantes de gran tamaño por valor de 200.000 libras. Estos diamantes fueron el origen de lo que algún día sería la Fundación Roxton. 
 
 ### El pacto de silencio
 **AVISO IMPORTANTE:** A partir de este punto, esta campaña y el libro original difieren totalmente en su desarrollo.
 
 Durante el camino de regreso a Londres, Lord Roxton tuvo tiempo de pensar sobre toda la aventura y el futuro que les aguardaba a ellos y las personas y seres que habitaban la meseta. Aunque habían jurado que ninguno de los 4 componentes de la expedición daría pistas de la ubicación del fascinante mundo perdido que habían conocido, Lord Roxton sabía que la civilización la alcanzaría como había pasado en otras partes de su amada Sudamérica.
 
-Es por ello buscó la manera de que sus compañeros juraran decir que la expedición había sido un fracaso. Como recompensa por su silencio, Roxton les ofreció una cuarta parte del tesoro en diamantes que extrajo del lodo azul del pantano donde vivían los pteranodones, unas 50.000 libras por cabeza.
+Es por ello buscó la manera de que sus compañeros juraran decir que la expedición había sido un fracaso. Como recompensa por su silencio, Roxton les ofreció una cuarta parte del tesoro en diamantes que extrajo del lodo azul del pantano donde vivían los pteranodontes, unas 50.000 libras por cabeza.
 
 \saltopagina
 
-Claramente, Challenger fue quien ofreció más oposición, su nombre sería manchado si volvían de la expedición sin encontrar nada. Roxton tuvo que prometerle que a su debido tiempo, la verdad de la meseta de Maple White saldría a la luz y el nombre del profesor G. E. Challenger se elevaría al olimpo de la zoología.
+Claramente, Challenger fue quien ofreció más oposición, su nombre sería manchado si volvían de la expedición sin encontrar nada. Roxton tuvo que prometerle que, a su debido tiempo, la verdad de la meseta de Maple White saldría a la luz y el nombre del profesor G. E. Challenger se elevaría al olimpo de la zoología.
 
-Challenger gasto su parte en financiar sus locos proyectos, Summerlee se retiró de la enseñanza y Malone siguió con carrera periodística y tuvo cierto éxito como novelista. Roxton también se encargó de que Zambo recibiera una buena suma de dinero y emigro a los Estados Unidos con unos familiares.
+Challenger gastó su parte en financiar sus locos proyectos, Summerlee se retiró de la enseñanza y Malone siguió con carrera periodística y tuvo cierto éxito como novelista. Roxton también se encargó de que Zambo recibiera una buena suma de dinero y emigro a los Estados Unidos con unos familiares.
 
 ## La expedición Roxton
 
-Lord Roxton uso sus 50.000 libras para organizar otra expedición al mundo perdido y 1 año más tarde estaba de vuelta en la meseta con un equipo de científicos e investigadoras para estudiar la Tierra de Maple White. Y a diferencia de las anteriores ocasiones la expedición Roxton sabía de ante mano que iban a encontrar y fue preparada a conciencia y con intención de que durara por lo menos un año.
+Lord Roxton uso sus 50.000 libras para organizar otra expedición al mundo perdido y 1 año más tarde estaba de vuelta en la meseta con un equipo de científicos e investigadoras para estudiar la Tierra de Maple White. Y a diferencia de las anteriores ocasiones, la expedición Roxton sabía de ante mano que iban a encontrar y fue preparada a conciencia y con intención de que durara por lo menos un año.
 
 ### Otra vez en el mundo perdido
-Durante un año y medio, Lord Roxton y un equipo de 40 personas estuvieron estudiando toda la meseta desde todos los ángulos de la ciencia moderna, biología, zoología, geología, botánica, antropología, etc. Podríamos decir que no quedo ni usa sola piedra sin remover, ni planta o animal sin estudiar o accidente geográfico sin estudiar, pero mentiríamos. De hecho 30 años más tarde todavía hay misterios en el mundo perdido.
+Durante un año y medio, Lord Roxton y un equipo de 40 personas estuvieron estudiando toda la meseta desde todos los ángulos de la ciencia moderna, biología, zoología, geología, botánica, antropología, etc. Podríamos decir que no quedo ni usa sola piedra sin remover, ni planta o animal sin estudiar o accidente geográfico sin estudiar, pero mentiríamos. De hecho, 30 años más tarde todavía hay misterios en el mundo perdido.
 
 Lo primero que hizo la expedición fue crear una especie de ascensor que permitía acceder a la meseta a personas y equipo sin necesidad de usar globos o la ruta de los sakala.
 
 El propio Roxton capturo con ingeniosos trucos especímenes vivos de todas las especies de saurios que habitan la meseta y los envío a escocia a unas tierras que había comprado en la isla de Skye. Para su transporte compro el viejo carguero "Ambassador" que paso a llamarse el "Mary Anning" y contrato a Dolores Branningan como su capitana.
 
-Sabiendo los problemas que podían suponer las interacciones con los sakala, la expedición mantuvo el contacto al mínimo. De hecho Lord John cambio su aspecto al máximo (corte de pelo y sin bigotes) para no ser reconocido. 
+Sabiendo los problemas que podían suponer las interacciones con los sakala, la expedición mantuvo el contacto al mínimo. Por precaución, Lord John cambio su aspecto al máximo (corte de pelo y sin bigotes) para no ser reconocido. 
 
 ### Descubrimientos asombrosos
 De lo primero que descubrieron es que la evolución no se había parado en el Mundo Perdido, sino que los saurios habían seguido evolucionando y principalmente su capacidad craneal era mayor que los fósiles de sus antepasados, con lo que se podía deducir que eran más inteligentes que sus antepasados. 
@@ -126,7 +126,7 @@ Pero el gran descubrimiento que hizo Roxton en esta segunda expedición es que t
 
 Los antropólogos y antropólogas de la fundación se dedicaron a estudiar a los aborígenes y descubrieron interacciones entre ambas especies que habían llevado a los saurios a ser en parte domesticados. 
 
-Durante la anterior expedición ya vio que los sakala habían domesticado iguanodones criándolos desde huevo. Pero investigaciones más exhaustivas permitieron descubrir que las tribus de humanos primitivos habían aprendido a dejar parte de su caza lejos de sus asentamientos para alejar a los grandes depredadores y a atraer a los herbívoros dejando gran cantidad de frutas en ciertos lugares donde era más fácil cazarlos o alejarlos de sus nidos y entonces robar sus huevos o sus crías. 
+Durante la anterior expedición ya vio que los sakala habían domesticado iguanodontes criándolos desde huevo. Pero investigaciones más exhaustivas permitieron descubrir algo muy interesante. Las tribus de humanos primitivos habían aprendido a dejar parte de su caza lejos de sus asentamientos para alejar a los grandes depredadores. También aprendieron a atraer a los herbívoros dejando gran cantidad de frutas en ciertos lugares donde era más fácil cazarlos o alejarlos de sus nidos y entonces robar sus huevos o sus crías. 
 
 Estas interacciones fueron con los siglos evolucionado y grabándose en los instintos de los saurios, de forma que saben que salvo en caso de agresión, necesidad y hambre, un humano es más útil vivo que muerto. Este hecho, junto a la selección de los mejores y más inteligentes ejemplares, hizo que la Fundación pudiera domesticar dinosaurios con técnicas avanzadas de condicionamiento positivo en unos 15 años.
 
@@ -135,7 +135,7 @@ Estas interacciones fueron con los siglos evolucionado y grabándose en los inst
 ## La Fundación J. Roxton
 Tras el regreso de su segunda expedición y con las sacas llenas de diamantes, Lord Roxton decidió dedicar ese dinero al estudio de los dinosaurios y su protección. Quería mantener la meseta de Maple White tal y como la había conocido. Así pues, creó la Fundación J. Roxton. 
 
-Lord Roxton, también vio la necesidad de crear una reserva natural de saurios, en caso de que algo pasara en la meseta. Por ello la Fundación compró casi una quinta parte de la isla de Skye en Escocia y monto una reserva natural. La Fundación, en su necesidad de preservar a los animales de la reserva, tuvo que empezar a estudiarlo, porque nada de lo que se sabía la ciencia actual sobre los dinosaurios les era de ayuda.
+Lord Roxton, también vio la necesidad de crear una reserva natural de saurios, en caso de que algo pasara en la meseta. Por ello, la Fundación compró casi una quinta parte de la isla de Skye en Escocia y monto una reserva natural. La Fundación, en su necesidad de preservar a los animales de la reserva, tuvo que empezar a estudiarlo, porque nada de lo que se sabía la ciencia actual sobre los dinosaurios les era de ayuda.
 
 La vida de aventuras de Lord Roxton se convirtió en una vida de burocracia al frente de la Fundación y de estudio no solo de los saurios sino de los aborígenes, convirtiéndose en un experto antropólogo. Pero aun así solía aprovechar algunos viajes a la meseta de Maple White para revivir sus años de cazador/explorador.
 
@@ -155,34 +155,34 @@ Poco sabía Margaret Roxton, sobrina de Lord Roxton, lo que iba a cambiar su vid
 
 Pasado el impacto inicial, rápidamente Margaret se hizo a su nueva situación y tras instalarse en Dunvegan, empezó a empaparse de todos lo que rodeaba. En unos meses conocía perfectamente toda la historia de la Fundación, sus recursos, sus reglas, sus actuaciones y formas de trabajar.
 
-Mientras que Lord Roxton trato de mantener ocultos tanto Maple White como la reserva de Skye, Margaret sabía que esa una tarea imposible sin ayuda exterior. El mundo de Margaret era un mundo de fotografías con teleobjetivo, de cámaras de cine y de micrófonos y de radio. Nada podía mantenerse en secreto, tarde o temprano alguien captaría a un pteranodon volando o se metería en los terrenos de Skye para investigar que había tras sus alambrados.
+Mientras que Lord Roxton trato de mantener ocultos tanto Maple White como la reserva de Skye, Margaret sabía que esa una tarea imposible sin ayuda exterior. El mundo de Margaret era un mundo de fotografías con teleobjetivo, de cámaras de cine y de micrófonos y de radio. Nada podía mantenerse en secreto, tarde o temprano alguien captaría a un pteranodonte volando o se metería en los terrenos de Skye para investigar que había tras sus alambrados.
 
 Su primera gran acción como directora de la Fundación fue intentar hablar con el Gobierno, hablarles de los dinosaurios y del mundo perdido. No consiguió nada, ni una misera audición. Desde el gobierno se la tomo como una loca excéntrica a la que evitar. Pero sus peticiones sí fueron escuchadas por alguien que ella no podía imaginarse. Agentes de Inteligencia Militar (IM) a las órdenes del General Linton se pusieron en contacto con Lady Roxton.  
 
 IM empezó a suministrar a la Fundación de todo tipo de especialistas que tenían acceso a las instalaciones y los saurios. Llevaban todo tipo de equipamiento especial y hacía toda serie de nuevos experimentos y pruebas. Gracias a ellos, las investigaciones de la Fundación avanzaron en años, lo que les habría llevado décadas. 
 
-A cambio, IM proporcionaba cobertura a la Fundación, por ejemplo, el "Mary Anning" no necesitaba pasar por aduanas al salir o entrar al país y cuando llegaba a Venezuela casualmente nadie quería inspeccionar la carga al salir o al entrar. La Fundación conseguía informes muy detallados de sus posibles investigadores y gente con becas con lo que podía hacer una selección más eficaz y descartar las personas que podían dar problemas.
+A cambio, IM proporcionaba cobertura a la Fundación, por ejemplo, el "Mary Anning" no necesitaba pasar por aduanas al salir o entrar al país y cuando llegaba a Venezuela casualmente nadie quería inspeccionar la carga al salir o al entrar. La Fundación conseguía informes muy detallados de sus posibles investigadores y gente con becas, con lo que podía hacer una selección más eficaz y descartar las personas que podían dar problemas.
 
 También parece ser que desaparecieron todas las posibles señales que hubiera en medios de comunicación y otras organizaciones gubernamentales nacionales y extranjeras, como las notas y cartas Edward Malone de la primera expedición al Mundo Perdido.
 
 ### La Guerra
 El 1 de septiembre de 1939 los nazis entran en Polonia, se desata la Segunda Guerra Mundial y Lady Roxton se encuentra en su despacho dos oficiales de IM con un proyecto centrado en sus dinosaurios que ayudaría a la guerra. Reticente las primeras semanas, no le quedo otro remedio que acceder a las peticiones de IM ante el imparable avance de las fuerzas nazis sobre Francia.
 
-Rápidamente todos los experimentos y todos los trabajos que había solicitado IM para probar y desarrollar con los saurios tuvieron una nueva dimensión. Simples ejercicios de lanzar y traer para plesiosaurios, podían ser aplicados en misiones militares para recuperar objetos hundidos. Estudios sobre si los pteranodones podían buscar y encontrar a sus cuidadores y llegar hasta ellos, se convertían en formas muy interesantes de hacer espionaje aéreo de instalaciones nazis. 
+Rápidamente, todos los experimentos y todos los trabajos que había solicitado IM para probar y desarrollar con los saurios tuvieron una nueva dimensión. Simples ejercicios de lanzar y traer para plesiosaurios, podían ser aplicados en misiones militares para recuperar objetos hundidos. Estudios sobre si los pteranodontes podían buscar y encontrar a sus cuidadores y llegar hasta ellos, se convertían en formas muy interesantes de hacer espionaje aéreo de instalaciones nazis. 
 
 \saltopagina
 
-La IM ya tiene sus "monstruos" preparados para combatir y ahora necesita la parte humana que los controle, así que sus agentes de inteligencia están como locos buscando los activos idóneos para trabajar con los saurios en las misiones que piensan asignarles.
+La IM ya tiene sus __monstruos__ preparados para combatir y ahora necesita la parte humana que los controle, así que sus agentes de inteligencia están como locos buscando los activos idóneos para trabajar con los saurios en las misiones que piensan asignarles.
 
 Lady Roxton sabe que había sido engañada, pero ahora hay problemas más acuciantes. Ya solventará todos estos temas después de ganar la guerra.
 
 ### La Fundación Roxton hoy en día
-A día de hoy (verano de 1940) debemos considerar que la Fundación Roxton es una división no militar del IM. Lady Roxton tiene el control financiero de la Fundación y mantiene en secreto la localización de la Tierra de Maple White, pero ha perdido el control de las instalaciones en Skye. Solo conserva el derecho a veto, puede vetar personas y misiones, pero no puede tomar decisiones sobre quien entra o sale o como se llevan a cabo las misiones. Temas menores como organización de eventos o recaudación de fondos siguen en su control.
+A día de hoy (verano de 1940) debemos considerar que la Fundación Roxton es una división no militar del IM. Lady Roxton tiene el control financiero de la Fundación y mantiene en secreto la localización de la Tierra de Maple White, pero ha perdido el control de las instalaciones en Skye. Solo conserva el derecho a veto, puede vetar personas y misiones, pero no puede tomar decisiones sobre quién entra o sale o como se llevan a cabo las misiones. Temas menores como organización de eventos o recaudación de fondos siguen en su control.
 
 Aun así Lady Roxton intenta mantener el control de las misiones, de forma que tratará de atraer a su lado a los comandos y al personal científico que trabajan en Skye. De esta forma, está informada de todo lo que hace la IM en la Fundación y puede incluso dar órdenes o asesorar a los comandos en misión.
 
 ### Las actividades oficiales de la Fundación 
-Legalmente la Fundación Roxton es una organización de defensa e investigación de la vida salvaje y como tal realiza muchas actividades públicas en este sentido. De hecho, los terrenos de la isla de Skye están registrados como una reserva natural de animales en peligro de extinción.
+Legalmente, la Fundación Roxton es una organización de defensa e investigación de la vida salvaje y como tal realiza muchas actividades públicas en este sentido. De hecho, los terrenos de la isla de Skye están registrados como una reserva natural de animales en peligro de extinción.
 
 Tiene becas, hace recaudaciones de fondos, hace campañas de concienciación, patrocina eventos de defensa animal y contra la caza, y todas actividades de típicas, pero siempre teniendo en cuenta que va dirigido a las clases altas inglesas.
 
@@ -212,20 +212,59 @@ Mapa de la isla de Skye
 
 \saltopagina
 
-Fue Lady Roxton quien vio que todo esto era insuficiente. Debíamos estudiar todo este increíble descubrimiento de forma adecuada y no solo los dinosaurios sino también los "Homo sapiens" de la meseta.
+Fue Lady Roxton quien vio que todo esto era insuficiente. Debíamos estudiar todo este increíble descubrimiento de forma adecuada y no solo los dinosaurios, sino también los aborigenes de la meseta.
 
 Ella perfeccionó los hábitats que cada especie había creado, montó el hospital y el taller. También puso a funcionar la Fundación como sistema para conseguir investigadores e investigadoras de confianza a través de becas. Se becaba a alguien y se le estudiaba, si parecía de confianza se le ofrecía para trabajar en Skye o Maple White según capacidades y estudios.
 
 #### Distribución de los edificios
 Las instalaciones en la isla no están concentradas en un único lugar, sino que están dispersas por los terrenos de la fundación. La idea es evitar que los reconocimientos aéreos nazis descubran las instalaciones. Si no se revisan a conciencia las fotos se considerará que son grupos dispersos de granjas.
-Los dinosaurios en libertad a pesar de su tamaño, siguen con instintos de cazador y presa y se ocultan bastante bien entre bosques y maleza alta. Aun así, alguien de la inteligencia nazi puede descubrir el pastel fácilmente si le pone interés.
+Los dinosaurios en libertad, a pesar de su tamaño, siguen con instintos de cazador y presa y se ocultan bastante bien entre bosques y maleza alta. Aun así, alguien de la inteligencia nazi puede descubrir el pastel fácilmente si le pone interés.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #### Hábitats
-Tras muchos años de estudio se han ido creando una serie de hábitats para cada especie donde viven y son estudiados. Mientras que los pteranodones se habituaron rápidamente y sin problemas a los acantilados de la isla donde montaron sus nidos, los carnívoros han sido los más complicados por su carácter, su agresividad y su alimentación. Hábitats actuales.
+Tras muchos años de estudio se han ido creando una serie de hábitats para cada especie donde viven y son estudiados. Mientras que los pteranodontes se habituaron rápidamente y sin problemas a los acantilados de la isla donde montaron sus nidos, los carnívoros han sido los más complicados por su carácter, su agresividad y su alimentación. Hábitats actuales.
 
-* **Acantilados del oeste** de la isla es la zona de anidación de los pteranodones.
+* **Acantilados del oeste** de la isla es la zona de anidación de los pteranodontes.
 * Aprovechando unas **piscinas naturales** en una de tantas calas de la isla se ha montado un hábitat para los saurios acuáticos.
-* Las **praderas sur de la reserva** son perfectas para los estegosaurios y los iguanodones que parecen no tener problemas con las vacas y ovejas que había en los terrenos de la Fundación.
+* Las **praderas sur de la reserva** son perfectas para los estegosaurios y los iguanodontes que parecen no tener problemas con las vacas y ovejas que había en los terrenos de la Fundación.
 * Las **praderas norte de la isla** son los dominios de los carnívoros. Se aprovechó una de las penínsulas de la isla que tenía un macizo rocoso en su istmo poniendo muros y rejas en el único paso que hay, por la costa sur de la península. El macizo tiene un sistema de cuevas naturales que sirven de refugio.
 
 Los saurios terrestres están en semilibertad, ya que pueden moverse por extensas zonas, pero no pueden salir de la isla y están controlados por los guardabosques de la Fundación. Aún pudiendo moverse casi libremente por la isla, los ataques a humanos casi no existen. Saben que los humanos les son más útiles vivos que muertos y mientras se les tenga bien alimentados, solo los especímenes jóvenes de los carnívoros han dado algún problema.
@@ -234,7 +273,7 @@ Los acuáticos y voladores pueden moverse fuera de la isla sin problemas, pero e
 
 \saltopagina
 
-La Fundación, como santuario natural, paga a los pescadores locales para que no faenen en la zona, por ello, los bancos de peces que sirven de alimento a plesiosaurios, ictiosaurios y pteranodones son muy abundantes. Ante esta situación muy pocos ejemplares han querido alejarse de la isla.
+La Fundación, como santuario natural, paga a los pescadores locales para que no faenen en la zona, por ello, los bancos de peces que sirven de alimento a plesiosaurios, ictiosaurios y pteranodontes son muy abundantes. Ante esta situación muy pocos ejemplares han querido alejarse de la isla.
 
 #### Castillo de Dunvegan
 Este castillo fue alquilado por Lord Roxton a la familia McLeod y las zonas que estaban catalogadas como protegidas fue acondicionado como oficinas, dormitorios y salas de estar para los trabajadores de la Fundación. Lady Roxton usa las dependencias principales como sus aposentos. 
@@ -318,11 +357,11 @@ El "Mary Anning" llena unos tanques de agua para el transporte de los saurios ac
 
 Desde el barco se suele lanzar una boya con la que suelen jugar y con la que hacen carreras cuando el barco está en movimiento. No solo sirve para tenerlos entretenidos y en forma. También hace que no se vayan lejos del barco, por ejemplo, buscando presas.
 
-#### Pajarera de los pteranodones
-En la cubierta superior, si es necesario, la tripulación del barco puede montar una jaula gigantesca para los pteranodones. La pajarera tiene una estructura metálica de mecanotubo que se cubre con malla de cuerda reforzada con cable metálico. El tamaño es de 20 m de largo, 5 de ancho y 5 de alto y
+#### Pajarera de los pteranodontes
+En la cubierta superior, si es necesario, la tripulación del barco puede montar una jaula gigantesca para los pteranodontes. La pajarera tiene una estructura metálica de mecanotubo que se cubre con malla de cuerda reforzada con cable metálico. El tamaño es de 20 m de largo, 5 de ancho y 5 de alto y
 se tarda 1,5 horas en montarlo.
 
-La idea es tanto servir de refugio a los pteranodones en caso de clima adverso, como, también, un sitio de tenerlos controlados. Como ya hemos dicho, los aéreos son muy asustadizos en solitario y muy valientes en grupo, lo que hace que ante situaciones de estrés puedan huir o atacar, y como vuelan, es muy fácil que sean avistados. La pajarera les permite tener cierto espacio para moverse, pero los mantiene controlados.
+La idea es tanto servir de refugio a los pteranodontes en caso de clima adverso, como, también, un sitio de tenerlos controlados. Como ya hemos dicho, los aéreos son muy asustadizos en solitario y muy valientes en grupo, lo que hace que ante situaciones de estrés puedan huir o atacar, y como vuelan, es muy fácil que sean avistados. La pajarera les permite tener cierto espacio para moverse, pero los mantiene controlados.
 
 \saltopagina
 
@@ -394,12 +433,12 @@ A priori, los carnívoros son más agresivos en general. En la naturaleza son ca
 Los acuáticos suelen ser más distantes. Vivimos en mundos distintos y eso hace que no entiendan tanto a los humanos como a los dinosaurios terrestres o aéreos. Sin embargo, como cazan normalmente en manadas trabajan muy bien entre ellos.
 
 ### Carnívoros aéreos
-Los pteranodones tienen a ser bastante competitivos entre ellos buscando ser el más rápido y mejor cazador y con ello establecer sus relaciones de poder. Esto junto a su capacidad de vuelo hace que sean bastante molestos. Pueden pasarse horas mirando quién de ellos puede chinchar más a un carnívoro para salir volando cuando estos se enfadan y les atacan. Pero esa capacidad de vuelo ha hecho también que sean un poco cobardes en general, huyendo a la mínima. Sin embargo son más valientes y atrevidos en grupo.
+Los pteranodontes tienen a ser bastante competitivos entre ellos buscando ser el más rápido y mejor cazador y con ello establecer sus relaciones de poder. Esto junto a su capacidad de vuelo hace que sean bastante molestos. Pueden pasarse horas mirando quién de ellos puede chinchar más a un carnívoro para salir volando cuando estos se enfadan y les atacan. Pero esa capacidad de vuelo ha hecho también que sean un poco cobardes en general, huyendo a la mínima. Sin embargo son más valientes y atrevidos en grupo.
 
 \saltopagina
 
 ### Herbívoros
-Son quizás los menos agresivos, pero pueden ser tremendamente agresivos cuando tienen que proteger a su manada y sus crías. Tampoco son los más listos, pero establecen fuertes lazos sociales entre ellos y los humanos formando entre todos una manada y como ya hemos dicho harán lo que sea para proteger a su manada. Otra de sus características es trabajan bien en equipo. Varios estegosaurios protegiendo una zona con sus colas llenas de pinchos es un espectáculo digno de ver, por no hablar de varios iguanodones corriendo a los lados de un JEEP para protegerlo de enemigos. 
+Son quizás los menos agresivos, pero pueden ser tremendamente agresivos cuando tienen que proteger a su manada y sus crías. Tampoco son los más listos, pero establecen fuertes lazos sociales entre ellos y los humanos formando entre todos una manada y como ya hemos dicho harán lo que sea para proteger a su manada. Otra de sus características es trabajan bien en equipo. Varios estegosaurios protegiendo una zona con sus colas llenas de pinchos es un espectáculo digno de ver, por no hablar de varios iguanodontes corriendo a los lados de un JEEP para protegerlo de enemigos. 
 
 &nbsp;
 
@@ -436,11 +475,11 @@ Los dinosaurios atienden a órdenes muy sencillas en estas situaciones como "sil
 Aunque parezca que animales de varias toneladas no pueden esconderse, piensa que durante millones de años la evolución ha ido afilando sus capacidades para el sigilo, tanto los herbívoros para esconderse y no ser atacados, como para los carnívoros con su capacidad de tender emboscadas a sus presas. Ten en cuenta, además, que tienen su camuflaje natural y que la Fundación ha desarrollado diferentes inventos para mejorar su capacidad de infiltrarse.
 
 ### Misiones de reconocimiento aéreo
-Como dinosaurios voladores estas misiones son cosa de los pteranodones. Estos saurios voladores han aprendido mediante refuerzo positivo a ir de un humano origen a otro humano destino en más o menos línea recta hasta unos 3 o 4 km. 
+Como dinosaurios voladores estas misiones son cosa de los pteranodontes. Estos saurios voladores han aprendido mediante refuerzo positivo a ir de un humano origen a otro humano destino en más o menos línea recta hasta unos 3 o 4 km. 
 
-A partir de ahí solo hay que poner un arnés con cámaras de fotos de precisión con autodisparador y se puede sacar fotos de las instalaciones que el pteranodon sobrevuele.
+A partir de ahí solo hay que poner un arnés con cámaras de fotos de precisión con autodisparador y se puede sacar fotos de las instalaciones que el pteranodonte sobrevuele.
 
-Es una misión arriesgada porque expone mucho al pteranodon a ser visto. La ventaja es que normalmente no miramos al cielo mucho y el ojo no entrenado puede confundirlos con aves de gran tamaño.
+Es una misión arriesgada porque expone mucho al pteranodonte a ser visto. La ventaja es que normalmente no miramos al cielo mucho y el ojo no entrenado puede confundirlos con aves de gran tamaño.
 
 ### Misiones acuáticas
 Las misiones acuáticas son exclusivas de plesiosaurios e ictiosaurios. En estas misiones estos dos saurios pueden ayudar a los buzos a moverse más deprisa y a buscar objetos y rescatarlos.
@@ -452,11 +491,11 @@ Por otro lado, han sido entrenados para enseñarles un objeto y ellos buscar en 
 ### Misiones de combate
 Si bien, hablamos de perfectas máquinas de guerra, su competencia son todos el intelecto humano en forma de armas de fuego y explosivos, barcos de guerra, tanques y aviones de combate. A priori, un alosaurio o un megalosaurio no es rival para un tanque en combate directo, pero este puede acechar al tanque durante días, seguirle por cualquier tipo de terreno y cuando los ocupantes salen a repostar ser devorados vivos.
 
-Los estegosaurios y los iguanodones tampoco se quedan atrás. Son seres que han aprendido a sobrevivir en un ambiente muy peligroso con lo que están dotados de poderosas armas como sus colas con pinchos. Solamente con su peso y su dura piel pueden hacer frente a un pelotón de soldados nazis sin sufrir más que algunos rasguños.
+Los estegosaurios y los iguanodontes tampoco se quedan atrás. Son seres que han aprendido a sobrevivir en un ambiente muy peligroso con lo que están dotados de poderosas armas como sus colas con pinchos. Solamente con su peso y su dura piel pueden hacer frente a un pelotón de soldados nazis sin sufrir más que algunos rasguños.
 
 \saltopagina
 
-Por último los pteranodones e ictiosaurios y plesiosaurios son muy peligrosos en su medio. Quizás no puedan derribar un UBoat o un Messerschmidt. Pero un buzo no es rival para un ictiosaurio y un pteranodon puede atrapar a un soldado nazi, elevarse hasta 100 metros y dejarlo caer en unos pocos segundos.
+Por último los pteranodontes e ictiosaurios y plesiosaurios son muy peligrosos en su medio. Quizás no puedan derribar un UBoat o un Messerschmidt. Pero un buzo no es rival para un ictiosaurio y un pteranodonte puede atrapar a un soldado nazi, elevarse hasta 100 metros y dejarlo caer en unos pocos segundos.
 
 La Fundación ha entrenado a los saurios para obedecer órdenes como "ataca", "auxilio" o "huye", aunque ten claro que tu compañero difícilmente huirá si estás en peligro.
 
@@ -465,7 +504,7 @@ Las misiones de rescate pueden ser de cualquier índole y no tienen un equipo pe
 
 Lo que si tienes que saber es que siempre necesitarás dos tipos de dinosaurio, el que rescate al objetivo y el que te permita que el anterior rescate al objetivo.
 
-Siguiendo con los ejemplos anteriores, puedes usar la fuerza y la agilidad del iguanodonte para subir al tren saltando desde un puente y rompiendo el techo del tren para sacar a tu rehén y que un pteranodon se lleve a los prisioneros y prisioneras volando mientras tú con el iguanodonte cubres la retirada.
+Siguiendo con los ejemplos anteriores, puedes usar la fuerza y la agilidad del iguanodonte para subir al tren saltando desde un puente y rompiendo el techo del tren para sacar a tu rehén y que un pteranodonte se lleve a los prisioneros y prisioneras volando mientras tú con el iguanodonte cubres la retirada.
 
 En el caso del castillo puedes usar un estegosaurio y un megalosaurio para montar una distracción. Estos dos son capaces de sobra de distraer a las defensas terrestres del castillo mientras un comando con un plesiosaurio se infiltra por el pozo de agua a través de una red de acuíferos para rescatar 
 a los prisioneros.
@@ -473,7 +512,7 @@ a los prisioneros.
 ### Alimentación durante las misiones
 Además de la ocultación de los dinosaurios, el otro problema principal de llevar a los dinosaurios es alimentarlos. A priori, los herbívoros pueden llevar el alimento almacenado en el barco sin problema y en la misión podrían alimentarse de lo que de la tierra y en caso de necesidad conseguir comida fresca de mercados y de granjas locales no debería ser problemático. Seguramente pueden dejar una hora a sus herbívoros en algún manzanar y que se alimenten de sus frutas o 
 
-El problema son los carnívoros de gran tamaño durante la misión, ya que en viaje el "Mary Anning" tiene unas grandes cámaras frigoríficas con alimento. Los de pequeño tamaño como pteranodones o ictiosaurios pueden cazar más o menos de forma segura sin ser detectados por el aire o por el agua. 
+El problema son los carnívoros de gran tamaño durante la misión, ya que en viaje el "Mary Anning" tiene unas grandes cámaras frigoríficas con alimento. Los de pequeño tamaño como pteranodontes o ictiosaurios pueden cazar más o menos de forma segura sin ser detectados por el aire o por el agua. 
 
 Como las misiones en principio deberían ser cortas, a lo sumo una semana, los grandes carnívoros deberían poder proveerse sin problemas durante los combates, devorando a nazis y a sus monturas. Piensa que los nazis son una fantástica fuente de proteínas y muchas instalaciones militares solían tener animales de granja como vacas u ovejas para tener ciertos suministros frescos.
 
@@ -811,7 +850,7 @@ Adicionalmente, viene con una red de nailon que permite portar hasta 10 kilos en
 > El saurio acuático que lleva el arnés y a un buzo pierde 1 punto de paso en el agua, no por el peso, sino porque estropea su hidrodinámica. 
 
 ### Arnés con cámara fotográfica 
-Este arnés con 1 o más cámaras fotográficas de alta precisión en el pecho se coloca a un pteranodon y permiten hacerse foto áreas de posiciones enemigas.
+Este arnés con 1 o más cámaras fotográficas de alta precisión en el pecho se coloca a un pteranodonte y permiten hacerse foto áreas de posiciones enemigas.
 
 > Las cámaras tienen una serie de temporizadores que establecen cuándo y cada cuánto tiempo sacar fotos. Para calcular esto se puede hacer una **tirada de Ciencias o de Supervivencia**. Cuanto mayor sea la tirada, más precisas serán las fotos.
 > Con un éxito conseguirán una descripción detallada del lugar y por cada avance podrán hacer dos preguntas para sacar información que pudiera saberse a través de fotografías áreas.
@@ -819,13 +858,13 @@ Este arnés con 1 o más cámaras fotográficas de alta precisión en el pecho s
 \saltopagina
 
 ### Arnés de vuelo
-Este arnés de nailon superligero se coloca sobre el pteranodon como si fuera un chaleco. El chaleco tiene unos mosquetes en el vientre al que se engancha el pasajero. El arnés tiene dos especies de mandos de cometas para que el humano pueda indicarle en líneas generales la ruta a seguir. El pteranodon no toma los tirones de los mandos como órdenes directas, sino como indicaciones. El saurio es el que decide que acciones de vuelo tomar para más o menos seguir las indicaciones dadas.
+Este arnés de nailon superligero se coloca sobre el pteranodonte como si fuera un chaleco. El chaleco tiene unos mosquetes en el vientre al que se engancha el pasajero. El arnés tiene dos especies de mandos de cometas para que el humano pueda indicarle en líneas generales la ruta a seguir. El pteranodonte no toma los tirones de los mandos como órdenes directas, sino como indicaciones. El saurio es el que decide que acciones de vuelo tomar para más o menos seguir las indicaciones dadas.
 
-> Un pteranodon con un pasajero pierde 1 punto de paso en vuelo. Los comandos sobrecargados de material o de mayor tamaño de lo normal (Fornidos y Obesos) quitan un punto extra de paso en vuelo, al suponer mayor obstáculo a la aerodinámica del saurio volador.
+> Un pteranodonte con un pasajero pierde 1 punto de paso en vuelo. Los comandos sobrecargados de material o de mayor tamaño de lo normal (Fornidos y Obesos) quitan un punto extra de paso en vuelo, al suponer mayor obstáculo a la aerodinámica del saurio volador.
 
-> El aterrizaje lo debe ejecutar el humano (tirada de Atletismo). El pteranodon reducirá su velocidad al máximo y el humano se soltará los mosquetes al tomar tierra y rodará por el suelo hasta pararse, quedando tendido en el suelo. Si falla, recibirá 2d6 puntos de daño. Por otro lado, podrá gastar avances en conseguir efectos especiales como sacar el arma mientras aterriza o aterrizar de pies en vez de tendido en el suelo.
+> El aterrizaje lo debe ejecutar el humano (tirada de Atletismo). El pteranodonte reducirá su velocidad al máximo y el humano se soltará los mosquetes al tomar tierra y rodará por el suelo hasta pararse, quedando tendido en el suelo. Si falla, recibirá 2d6 puntos de daño. Por otro lado, podrá gastar avances en conseguir efectos especiales como sacar el arma mientras aterriza o aterrizar de pies en vez de tendido en el suelo.
 
-> El pteranodon **no puede iniciar el vuelo con pasajeros desde el suelo**, debe **lanzarse desde por lo menos 20 metros de altura** para poder coger velocidad en la caída y remontar el vuelo.
+> El pteranodonte **no puede iniciar el vuelo con pasajeros desde el suelo**, debe **lanzarse desde por lo menos 20 metros de altura** para poder coger velocidad en la caída y remontar el vuelo.
 
 ### Barda
 Estas armaduras para monturas no son ya muy eficaces en la guerra moderna. Son pesadas, farragosas de llevar y no dan protección frente a armas de fuego modernas. Esto, unido a la protección natural de los dinosaurios, ha hecho que solo sean útiles en muy contadas ocasiones. 
@@ -876,7 +915,7 @@ Se ha intentado montar armas de fuego pesadas encima de los dinosaurios, pero si
 Como en el caso del collar de entrenamiento, no deberían ser equipo que deberías permitir usar a tus comandos. Más bien serían las mejoras que un alto oficial de las SS pondría a su alosaurio de combate al que no se preocupa el bienestar de su compañero.
 
 ### Plaustro
-Este carro de madera con estructura metálica está adaptado a las diferentes fisonomías de iguanodones y estegosaurios y permite transportar gran cantidad de material por terrenos difíciles. Puede adaptarse al lugar y por ejemplo tener esquís para la nieve en vez de ruedas y que el saurio tenga raquetas de nieve.
+Este carro de madera con estructura metálica está adaptado a las diferentes fisonomías de iguanodontes y estegosaurios y permite transportar gran cantidad de material por terrenos difíciles. Puede adaptarse al lugar y por ejemplo tener esquís para la nieve en vez de ruedas y que el saurio tenga raquetas de nieve.
 
 > La capacidad de carga de un dinosaurio tirando de un plaustro se calcula como si su FUE fuera x4, siempre que la carga vaya en el carro y esté medianamente equilibrada y bien colocada.
 
@@ -1043,7 +1082,7 @@ Cuando terminen la comida Lady Roxton les llevará con su jeep a ver las instala
 ### ¡Mira! ¡Es un dinosaurio!
 Recuerdas la primera vez que ves un dinosaurio en Jurassic Park, así debería ser esta escena. Mientras Lady Roxton los lleva en un jeep por la tierra de la reserva, se desviara por un camino de cabras para alcanzar una colina. Desde arriba se encontrarán con una manada de estegosaurios pastando en una pradera cercana. Puedes poner incluso la [suite principal](https://www.youtube.com/watch?v=IL-pu2vhb88&t=60s).
 
-A partir de ahí, Lady Roxton los conducirá por los diferentes hábitats mostrándoles las especies de saurios que hay (iguanodones, pteranodones, ictiosaurios y plesiosaurios). Dejará para el final los alosaurios y megalosaurios que se dedicarán a devorar una vaca. En un alarde Lady Roxton se acercará a los carnívoros y ellos ni se inmutarán.
+A partir de ahí, Lady Roxton los conducirá por los diferentes hábitats mostrándoles las especies de saurios que hay (iguanodontes, pteranodontes, ictiosaurios y plesiosaurios). Dejará para el final los alosaurios y megalosaurios que se dedicarán a devorar una vaca. En un alarde Lady Roxton se acercará a los carnívoros y ellos ni se inmutarán.
 
 Si algún comando se baja del jeep y se acerca a Lady Roxton, el carnívoro más cercano se acercará a olerlo. Debería hacer una tirada de miedo cuando se le acerque a olisquearle y note su caliente aliento. Si falla la tirada de miedo igual hasta se mea encima.  
 
@@ -1054,8 +1093,8 @@ A partir de este momento empezarán el entrenamiento con los diferentes dinosaur
 
 Los entrenamientos estarán dirigidos por la propia Lady Roxton que disfrutará de sus golpes y caídas y humillando a los comandos (solo un poquito) cuando lo hagan mal.
 
-* **Vuelo con los pteranodones.** Harán prácticas de vuelo, el pteranodon deberá recogerlos del suelo u llevarlos lejos. El pteranodon y el humano deberán pasar una tirada de Atletismo para dejarse atrapar y para atraparlo. El pteranodon podrá llevarlo bastante lejos hasta que unos cientos de metros más allá. Cuantos más avances consigan en las tiradas más lejos les llevará. Si falla el pteranodon no le agarrará y si falla el comando se caerá (2d6 de daño de caída). También les enseñarán a darles órdenes básicas de sobrevolar una zona y volver.
-* Podrán hacer pruebas de **monta con estegosaurios e iguanodones** con Cabalgar. Puedes, si no se les ocurre a tus comandos, organizar una carrera. También podrían hacer prácticas de tiro desde sus monturas (recuerda que hay un -2 por disparar sobre una plataforma inestable).
+* **Vuelo con los pteranodontes.** Harán prácticas de vuelo, el pteranodonte deberá recogerlos del suelo u llevarlos lejos. El pteranodonte y el humano deberán pasar una tirada de Atletismo para dejarse atrapar y para atraparlo. El pteranodonte podrá llevarlo bastante lejos hasta que unos cientos de metros más allá. Cuantos más avances consigan en las tiradas más lejos les llevará. Si falla el pteranodonte no le agarrará y si falla el comando se caerá (2d6 de daño de caída). También les enseñarán a darles órdenes básicas de sobrevolar una zona y volver.
+* Podrán hacer pruebas de **monta con estegosaurios e iguanodontes** con Cabalgar. Puedes, si no se les ocurre a tus comandos, organizar una carrera. También podrían hacer prácticas de tiro desde sus monturas (recuerda que hay un -2 por disparar sobre una plataforma inestable).
 * Puedes hacerles unos **dispositivos construidos por Wayland que simulen la defensa con la cola de los estegosaurios** y que se lleven unos cuantos porrazos. Deberían hacer tiradas enfrentadas de Atletismo o Pelear contra el Pelear del mecanismo (d8). Tendrán que superar 3 tiradas para atravesar la zona de coletazos. Si el dispositivo que da coletazos saca un avance roba una de las tiradas pasadas. En 
 * Prácticas de **submarinismo con los ictiosaurios y plesiosaurios**. Serán ejercicios de inmersión y natación con ellos (tiradas de atletismo de saurio y humano). También podrán lanzarles objetos y que los recuperen del fondo del mar (tiradas de Notar para buscar el objeto y Atletismo para nadar rápido a recogerlo). 
 * Los entrenamientos con los **carnívoros serán unas pruebas de combate**. Deberán derribar a 5 maniquíes de diferentes materiales, cada uno más resistente al anterior, paja (consistencia 4), madera (6), madera con arpillera (8), madera con refuerzos metálicos (10) y acero (12). Los jinetes pueden apoyar a su montura en combate pasando una tirada de Cabalgar e indicarle la mejor posición o forma de atacar.
@@ -1113,7 +1152,7 @@ Esta escena debería ser especial para cada comando, así que no la fuerces dema
 \saltopagina
 
 * Seguramente un alosaurio y un megalosaurio se sentirán inclinados a seguir a un comando que ni se inmute cuando estos gigantes depredadores se les acerque a la carrera rugiendo.
-* Los pteranodones son bastante irritantes. Seguramente intentarán robar el almuerzo de algún comando. Si no le puede robar su comida lo intentará más días hasta que puede que se genere algún tipo de vínculo.
+* Los pteranodontes son bastante irritantes. Seguramente intentarán robar el almuerzo de algún comando. Si no le puede robar su comida lo intentará más días hasta que puede que se genere algún tipo de vínculo.
 * Los saurios acuáticos quizás sean los más alienígenas y por ello no deberías dejar que haya un vínculo con un comando a no ser que haya una buena razón.
 
 ## Primera misión
@@ -1152,7 +1191,7 @@ Una vez en la playa más cercana al objetivo y quitados los flotadores, empieza 
 Puedes hacerles ver algunas luces en movimiento, quizás un campesino volviendo a su casa en su tractor o quizás una patrulla nazi. Como sea, deberán camuflarse o tratar de ponerse fuera de su vista. Incluso algún comando podría tratar de despistarlos llamando su atención desde otra parte. Al final será una camioneta de reparto que vuelve de su ruta.    
 
 ### Colocando la antena
-Para empezar a colocar la antena deben cerciorarse primero que están en la posición indicada. Por ello necesitarán una tirada de Supervivencia a -2 por la baja luminosidad. Si la pasan no se perderán. Si fallan se darán cuenta de que se han equivocado de lugar. Puedes meterles otra escena como la anterior de las luces de un vehículo, si lo deseas. Fracasar supondrá que creen que están en el sitio correcto y sin embargo han fallado estrepitosamente. Solo media isla podrá oír la BBC.
+Para empezar a colocar la antena deben cerciorarse primero que están en la posición indicada. Por ello, necesitarán una tirada de Supervivencia a -2 por la baja luminosidad. Si la pasan no se perderán. Si fallan se darán cuenta de que se han equivocado de lugar. Puedes meterles otra escena como la anterior de las luces de un vehículo, si lo deseas. Fracasar supondrá que creen que están en el sitio correcto y sin embargo han fallado estrepitosamente. Solo media isla podrá oír la BBC.
 
 Una vez encontrado el lugar donde poner la antena, necesitarán otra tirada de Electrónica para poner en funcionamiento la antena (orientarla y conectarle adecuadamente a las baterías). Deben tener en cuenta que en cuanto la conecten empezará una cuenta atrás. Los nazis tardarán un poco, pero se terminarán dando de que algo permite conectar con la BBC usando las radios y las teles de la isla. 
 
@@ -1173,7 +1212,7 @@ Si todo va como marca los planes, mientras le duren las baterías de la antena p
 \saltopagina
 
 ## Huellas en la tierra (Pistas)
-Algo no suena bien en esta misión. Si tus comandos no se dan cuentan y lo arreglan, estarán dejando huellas de los estegosaurios o iguanodones en los terrenos de la isla. 
+Algo no suena bien en esta misión. Si tus comandos no se dan cuentan y lo arreglan, estarán dejando huellas de los estegosaurios o iguanodontes en los terrenos de la isla. 
 
 En grandes espacios como la tundra noruega es imposible encontrar pistas de los dinosaurios. Sería como buscar una aguja en un pajar, pero en la pequeña isla de Jersey podrían encontrar los rastros de los estegosaurios sin problemas.
 
@@ -1198,9 +1237,9 @@ Tobruk es una ciudad portuaria muy bien protegida por ingleses y australianos. E
 
 Es una misión de infiltración pura y dura, si se meten en combate tendrán a todos los "Africa-Korps" de Rommel contra ellos. Deberían desarrollar el plan de entrada y salida basándose en los saurios voladores y acuáticos que pueden entrar y salir de la ciudad sin ser vistos. 
 
-Los terrestres no deberían ser de utilidad, pero igual tienen un plan magistral para usarlos. Los plesiosaurios podrían estar días en el puerto sin ser detectados y los pteranodones podrían refugiarse en los edificios medio derrumbados por bombardeos que hay por toda la ciudad.
+Los terrestres no deberían ser de utilidad, pero igual tienen un plan magistral para usarlos. Los plesiosaurios podrían estar días en el puerto sin ser detectados y los pteranodontes podrían refugiarse en los edificios medio derrumbados por bombardeos que hay por toda la ciudad.
 
-Como curiosidad dentro de la mitología árabe el plesiosaurio podría ser tomado por un orabou, un monstruo mitológico muy parecido al plesiosaurio pero con rasgos felinos. El pteranodon podría ser confundido con un ave de roc. 
+Como curiosidad dentro de la mitología árabe el plesiosaurio podría ser tomado por un orabou, un monstruo mitológico muy parecido al plesiosaurio pero con rasgos felinos. El pteranodonte podría ser confundido con un ave de roc. 
 
 \saltopagina
 
@@ -1228,7 +1267,7 @@ Deben tener en cuenta que aunque Tobruk esté controlado por aliados, no es segu
 
 Entrar en Tobruk debería ser fácil, enganchados a los plesiosaurios con el equipo en contenedores estancos deberían poder alcanzar el puerto con facilidad al anochecer para no ser vistos. Pregúntales por los objetos que llevan en los contenedores porque será su único equipo en la misión, si necesitan algo más tendrán que buscarse la vida. 
 
-Los pteranodones podrán seguir a los saurios acuáticos y podrían pasar por albatros en la lejanía. Al anochecer deberían ser difíciles de ver en el cielo sin luna. 
+Los pteranodontes podrán seguir a los saurios acuáticos y podrían pasar por albatros en la lejanía. Al anochecer deberían ser difíciles de ver en el cielo sin luna. 
 
 Deberían pasar una tirada de Sigilo al salir del agua sin llamar la atención y con trajes de buceo. Dales modificadores tras pasar una tirada de Notar, si tratan de buscar sitios como muelles sobre columnas que permitan meterse debajo donde nadie les vea.
 
@@ -1253,7 +1292,7 @@ Durante el informe de misión les dieron varios posibles escondites (en el centr
 
 La idea de esta tabla es dividir al grupo lo más posible y que llamen la atención haciendo preguntas y husmeando por todas partes. Así alguien del grupo registrará un piso franco, otro comando preguntará a los lugareños, otro buscará en los hospitales, etc. 
 
-Cerca del anochecer solo les quedará un piso que visitar. Pueden hacer que los pteranodones les sigan, ya que son difíciles de detectar en el cielo del crepúsculo.
+Cerca del anochecer solo les quedará un piso que visitar. Pueden hacer que los pteranodontes les sigan, ya que son difíciles de detectar en el cielo del crepúsculo.
 
 En el cuarto piso encontrarán a Jocelyn. Usando la contraseña secreta podrán identificarse y Jocelyn les abrirá la puerta. Parece nerviosa y da la sensación de que hace días que no sale de allí. El piso está sucio y lleno de restos de comida y cosas tiradas por todos lados. 
 
@@ -1294,7 +1333,7 @@ La huida por las azoteas es una persecución con las siguientes reglas:
 
 * Habilidad de manejo: **Atletismo**
 * El grupo del callejón está en la primera carta, el de los coches en la segunda y tus comandos en la cuarta carta.
-* Si se trajeron a los pteranodones, uno de los comandos puede usar su acción para mandarles atacar a sus perseguidores. Recuerda que está acción dejará al descubierto la existencia de saurios prehistóricos si los perseguidores salen con vida de la persecución.
+* Si se trajeron a los pteranodontes, uno de los comandos puede usar su acción para mandarles atacar a sus perseguidores. Recuerda que está acción dejará al descubierto la existencia de saurios prehistóricos si los perseguidores salen con vida de la persecución.
 * Recuerda que está anocheciendo, eso supone un -2 por iluminación en los ataques y acciones similares. No se te olvide del -2 por disparar desde un vehículo.
 * Van saltando de azotea en azotea, por lo que los incidentes que pasen tendrían que ser relacionados con esto. Tejados que se hunden, tejas que se deslizan, gente que se cae, etc.
 
@@ -1309,7 +1348,7 @@ La huida por las callejuelas de la medina de Tobruk es una persecución con las 
 * Todos los ataques a distancia tienen un +1 por la poca visibilidad (toldos, esquinas y otros obstáculos).
 * Recuerda que está anocheciendo, eso supone un -2 por iluminación en los ataques y acciones similares.
 * Circulan por calles muy estrechas llenas de gente y de trastos, por lo que los eventos al sacar tréboles y en las pifias deberían ir en este sentido. Tiran un puesto de frutas, se llevan los hilos tintados y secados en la calle, el vehículo se llena de gallinas al atropellar un carro, etc.
-* Las calles de la medina a veces están cubiertas. Si tu carta de acción es 3, 5, 7, 9, Q o A y la de otro vehículo también, ambos equipos estáis al descubierto. Uno de tus comandos puede usar su acción para mandar a los pteranodones atacar a sus perseguidores. Recuerda que está acción dejará al descubierto la existencia de saurios prehistóricos si los perseguidores salen con vida de la persecución.
+* Las calles de la medina a veces están cubiertas. Si tu carta de acción es 3, 5, 7, 9, Q o A y la de otro vehículo también, ambos equipos estáis al descubierto. Uno de tus comandos puede usar su acción para mandar a los pteranodontes atacar a sus perseguidores. Recuerda que está acción dejará al descubierto la existencia de saurios prehistóricos si los perseguidores salen con vida de la persecución.
 * Para los coches de los nazis usa las estadísticas del Jeep. Para el trimotor usa las siguientes estadísticas. 
 
 |VEHÍCULO|TAMAÑO|MANIOBRA.|VEL. MÁX.|DUREZA|TRIPULACIÓN|
@@ -1320,7 +1359,7 @@ La huida por las callejuelas de la medina de Tobruk es una persecución con las 
 
 El trimotor de reparto tiene un +1 a las tiradas de Conducir al realizar una acción de Escapar.
 
-Una vez hayan escapado de sus perseguidores o los hayan derrotado, deberán buscar un sitio seguro. Las ruinas del edificio donde se esconden los pteranodones puede servir. En ese momento podrán hablar más tranquilamente con Jocelyn y establecer un plan de escape de Tobruk.
+Una vez hayan escapado de sus perseguidores o los hayan derrotado, deberán buscar un sitio seguro. Las ruinas del edificio donde se esconden los pteranodontes puede servir. En ese momento podrán hablar más tranquilamente con Jocelyn y establecer un plan de escape de Tobruk.
 
 Si son alcanzados en cualquiera de las dos persecuciones deberán enfrentarse a los dos grupos de soldados.
 
@@ -1335,7 +1374,7 @@ La salida debería ser como la entrada, sumergidos con los plesiosaurios. Pero a
 
 Pueden intentar otras cosas que les ayuden en su salida.
 
-* Pueden desplegar los pteranodones para tener imágenes "satélite" de la ciudad y sus alrededores a ver si pueden ver algo. También serían útiles para IM.
+* Pueden desplegar los pteranodontes para tener imágenes "satélite" de la ciudad y sus alrededores a ver si pueden ver algo. También serían útiles para IM.
 * Pueden ir a las autoridades militares aliadas y buscar ayuda. Aun así no pueden sacarles de la ciudad y los infiltrados nazis podrían encontrarlos y preparar otro ataque.
 * Pueden irse solos con el rotor y abandonar a Jocelyn. Sería fácil, pero no le sentaría bien a ella.
 
@@ -1349,7 +1388,7 @@ La idea es sumergirse y pasar por debajo del barco y salir a respirar cuando est
 
 Tras las 6 rondas habrán salido a mar abierto y estarán lejos de sus enemigos. Podrán ir nadando hasta donde les espera el "Mary Anning". 
 
-Los pteranodones les seguirán volando. Pueden hacer que ataquen al barco nazi una vez por ronda, pero solo si algún comando sale a respirar. Lo único que harán será molestar si pasan la tirada de ataque normal y pondrán un -2 al ataque de la barcaza.
+Los pteranodontes les seguirán volando. Pueden hacer que ataquen al barco nazi una vez por ronda, pero solo si algún comando sale a respirar. Lo único que harán será molestar si pasan la tirada de ataque normal y pondrán un -2 al ataque de la barcaza.
  
 Recuerda que, si has empezado el relato salvaje "Arte robado", Jocelyn tiene escondidas dos estatuas romanas de gran valor arqueológico. Puede sacarlas como si fueran un comando más que no necesita respirar. El problema es que no tengan suficientes saurios acuáticos para hacerlo en un viaje.  
 
@@ -1583,7 +1622,7 @@ Según Horace, los nórdicos no tenían una concepción del dragón como un ser 
 
 Según sus estudios, los terópodos, los saurios que van a dos patas, serían dragones perfectos. Así pues, deberían llevar alosaurios, megalosaurios e iguanodontes jóvenes que se mueven a dos patas en vez de a cuatro.
 
-Como ya sabes de otras aventuras el soporte aéreo de los pteranodones siempre es de gran ayuda.
+Como ya sabes de otras aventuras el soporte aéreo de los pteranodontes siempre es de gran ayuda.
 
 \saltopagina
 
@@ -2261,11 +2300,11 @@ Tienen todos unas bolsas de sangre preparadas para romperlas y que el agua se ti
 ### 3ª secuencia
 Como es costumbre Marina llegará al set de rodaje con una de sus rarezas, ha conseguido unos troncos y quieren practicar lanzamientos de troncos, un deporte tradicional de las tierras altas. 
 
-La secuencia de hoy exige que una bandada de pteranodones capturen a Marina y la lleven a su nido donde están sus crías. Esta escena tiene dos partes una en que están reunidos Marina y los comandos/cavernícolas y de repente los pteranodones raptan a Marina y a un figurante cavernícola. La segunda parte es que al extra lo tiran al mar, mientras que a Marina la dejan en uno de los nidos de los acantilados.
+La secuencia de hoy exige que una bandada de pteranodontes capturen a Marina y la lleven a su nido donde están sus crías. Esta escena tiene dos partes una en que están reunidos Marina y los comandos/cavernícolas y de repente los pteranodontes raptan a Marina y a un figurante cavernícola. La segunda parte es que al extra lo tiran al mar, mientras que a Marina la dejan en uno de los nidos de los acantilados.
 
 \saltopagina
 
-Los pteranodones no tienen problema es atrapar a un humano y llevárselo volando, el único problema es la caída al mar. El cavernícola tendrá que hacer dos tiradas. **Una de Interpretar para mover las piernas y los brazos frenéticamente** (metraje que saldrá en la película con el grito Wilhelm) y otra de **Atletismo para hacer una zambullida al mar sin llevarse al daño** (que no saldrá en la película).
+Los pteranodontes no tienen problema es atrapar a un humano y llevárselo volando, el único problema es la caída al mar. El cavernícola tendrá que hacer dos tiradas. **Una de Interpretar para mover las piernas y los brazos frenéticamente** (metraje que saldrá en la película con el grito Wilhelm) y otra de **Atletismo para hacer una zambullida al mar sin llevarse al daño** (que no saldrá en la película).
 
 Si falla la primera tirada, tendrán que repetir la escena. Si falla la segunda se llevará 3d6 de daño por la panzada contra el agua. 
 
@@ -2365,7 +2404,7 @@ Lo lógico es que el comando con más notar marque una ruta segura que el resto 
 ### Otras soluciones imaginativas
 El manual dice como actuar en caso de entrar en un campo minado, pero no tiene en cuenta que tus comandos cuentan con dinosaurios. Esto abre mucho las posibilidades de actuación. 
 
-Podrían tratar de salir volando del campo con pteranodones (como saltar pero tirando el Atletismo del pteranodon + 2) o que los estegosaurios empujarán algo como una piedra que haga estallar las minas. Quizás se suban arriba de los saurios y desde encima sondeen el terreno buscando minas con largos palos.
+Podrían tratar de salir volando del campo con pteranodontes (como saltar pero tirando el Atletismo del pteranodonte + 2) o que los estegosaurios empujarán algo como una piedra que haga estallar las minas. Quizás se suban arriba de los saurios y desde encima sondeen el terreno buscando minas con largos palos.
 
 Sé generoso con los benis para las buenas ideas, ya que seguramente los necesitarán si quieren salir ilesos del campo de minas.
 
@@ -2485,9 +2524,9 @@ También pueden aprovechar para acicalar a sus compañeros y de hecho Wayland ha
 ### La recepción real
 La recepción consistirá en un besamanos a la reina en la sala de recepciones del castillo. La reina parece entusiasma, posiblemente porque en un ambiente de noticias de guerra está cena es algo diferente. 
 
-Acto seguido pasarán al exterior a los jardines donde se ha instalado un cenador. Allí estarán con los saurios los comandos que no hayan pasado el corte con unos buzos azules cuidando de los saurios. La reina se quedará muy impresionada por los animales sobre todos los pteranodones y aguantará con bastante entereza cuando el alosaurio acerque sus terribles dientes y resople cerca de su cabeza.
+Acto seguido pasarán al exterior a los jardines donde se ha instalado un cenador. Allí estarán con los saurios los comandos que no hayan pasado el corte con unos buzos azules cuidando de los saurios. La reina se quedará muy impresionada por los animales sobre todos los pteranodontes y aguantará con bastante entereza cuando el alosaurio acerque sus terribles dientes y resople cerca de su cabeza.
 
-Algún comando avispado puede intentar montar algún ejercicio con los dinosaurios para que su majestad pueda ver de primera mano sus extraordinarias capacidades. Pueden montar y cabalgar con ellos, derribar algún árbol o similar o hacer ejercicios de vuelo con los pteranodones (que será lo que más impacte a la reina). Esto será tarea de los ayudantes, ya que los homenajeados no pueden mancharse de tierra y verdín. Lady Roxton como un halcón se encargará de vigilar estos ejercicios y salvo con mucha persuasión/distracción permitirá que la reina participe en los ejercicios,
+Algún comando avispado puede intentar montar algún ejercicio con los dinosaurios para que su majestad pueda ver de primera mano sus extraordinarias capacidades. Pueden montar y cabalgar con ellos, derribar algún árbol o similar o hacer ejercicios de vuelo con los pteranodontes (que será lo que más impacte a la reina). Esto será tarea de los ayudantes, ya que los homenajeados no pueden mancharse de tierra y verdín. Lady Roxton como un halcón se encargará de vigilar estos ejercicios y salvo con mucha persuasión/distracción permitirá que la reina participe en los ejercicios,
 
 Acto seguido, **la reina Isabel concederá a Lady Roxton la medalla de la Orden del Imperio Británico** por sus logros. A partir de este momento pasarían a ser también Dame. Si alguno de tus comandos realizo alguna gesta en los escenarios de combate digna del tal nombre, podrías otorgarle la Cruz de la Victoria (incluso póstumamente), pero digamos que tiene que ser una gesta muy heroica. 
 
@@ -2721,10 +2760,10 @@ xxx
 
 ## Espécimen perdido
 ```
-Al volver a Skye os informan de que un huevo de pteranodon ha desaparecido de su nido. Han encontrado pisadas cerca y los padres tienen señales de lucha.
+Al volver a Skye os informan de que un huevo de pteranodonte ha desaparecido de su nido. Han encontrado pisadas cerca y los padres tienen señales de lucha.
 ```
 
-Todo indica que alguien ha entrado en los terrenos de la fundación y ha robado un huevo de pteranodon. Ha tenido que ser algo planeado, ya que ha necesitado equipo de escalada para llegar a los nidos de los saurios. Lady Roxton considera esto un fallo de seguridad grave que habrá que solucionar.
+Todo indica que alguien ha entrado en los terrenos de la fundación y ha robado un huevo de pteranodonte. Ha tenido que ser algo planeado, ya que ha necesitado equipo de escalada para llegar a los nidos de los saurios. Lady Roxton considera esto un fallo de seguridad grave que habrá que solucionar.
 
 ### Buscando al ladrón
 Si preguntan en el ferry, no ha venido nadie nuevo en los últimos días y todavía no ha salido el ferry de hoy. Eso supone que o está en la isla o llegado al continente por otros medios.
@@ -3373,7 +3412,7 @@ Estos herbívoros pesaban un promedio de 3 toneladas​ y medían cerca de 10 me
 ### Megalosaurio
 **Carnívoro | Terrestre | 3x2 casillas | Código: Long Tom (cañón de gran tamaño)**
 
-El megalosaurio es el segundo gran depredador de la meseta de Maple White. Es de menor tamaño que es alosaurio, pero como él caza crías o ejemplares jóvenes o muy viejos de iguanodones y estegosaurios. También caza megaloceros y otras criaturas terrestres de tamaño medio. Aunque su tamaño es grande es de pequeña constitución con lo que pesa mucho menos de otros saurios de su mismo tamaño.
+El megalosaurio es el segundo gran depredador de la meseta de Maple White. Es de menor tamaño que es alosaurio, pero como él caza crías o ejemplares jóvenes o muy viejos de iguanodontes y estegosaurios. También caza megaloceros y otras criaturas terrestres de tamaño medio. Aunque su tamaño es grande es de pequeña constitución con lo que pesa mucho menos de otros saurios de su mismo tamaño.
 
 * **Atributos:** Agilidad d6, Astucia d4 (A), Espíritu d6, Fuerza d12+4, Vigor d12
 * **Habilidades:** Atletismo d8, Notar d6, Pelear d8, Sigilo d6, Supervivencia d6
@@ -3415,16 +3454,16 @@ Un plesiosaurio adulto de talla media crece entre 3 a 5 metros de longitud y pes
 
 Su cuerpo está totalmente adaptado a la vida acuática. Su piel no es escamosa, sino lisa para una mejor hidrodinámica. Tienen un largo cuello que mide más o menos la mitad de su cuerpo y que usa como timón a la hora de nadar. Para terminar, sus extremidades de un metro cada una formaban aletas alargadas, en forma de remo. 
 
-[![Dibujo de pteranodon volando](./assests/images/pteranodon.jpg 'NobuTamura email:nobu.tamura@yahoo.com www.palaeocritti.com')](https://commons.wikimedia.org/wiki/File:Pteranodon_NT.jpg 'NobuTamura email:nobu.tamura@yahoo.com www.palaeocritti.com')
+[![Dibujo de pteranodonte volando](./assests/images/pteranodon.jpg 'NobuTamura email:nobu.tamura@yahoo.com www.palaeocritti.com')](https://commons.wikimedia.org/wiki/File:Pteranodon_NT.jpg 'NobuTamura email:nobu.tamura@yahoo.com www.palaeocritti.com')
 
 ### Pteranodon
 **Carnívoro | Volador | 3x1 casillas | Código: Spitfire**
 
-Que los reptiles aprendieron a volar y que las aves descienden de estos dinosaurios voladores es de sobra conocido. Los pteranodones son el culmen de los reptiles voladores y aunque torpes en tierra son los amos de los aires.
+Que los reptiles aprendieron a volar y que las aves descienden de estos dinosaurios voladores es de sobra conocido. Los pteranodontes son el culmen de los reptiles voladores y aunque torpes en tierra son los amos de los aires.
 
 \saltopagina
 
-Los pteranodones pasan mucho tiempo pescando en el mar y como las grandes aves marinas, su vuelo se basaba más en el planeo con sus grandes alas que en el aleteo.
+Los pteranodontes pasan mucho tiempo pescando en el mar y como las grandes aves marinas, su vuelo se basaba más en el planeo con sus grandes alas que en el aleteo.
 
 Como bien nos ha enseñado el cine (en realidad no) son capaces de lanzarse contra sus presas o enemigos agarrarlos y elevarse con ellos para llevarlos a su nido para alimentar a sus crías o para dejarlos caer de grandes alturas. 
 
@@ -3434,15 +3473,15 @@ Como bien nos ha enseñado el cine (en realidad no) son capaces de lanzarse cont
 * **Capacidades especiales:**
   * **Armadura +1:** Piel escamosa.
   * **Picotazo/Garras:** FUE+d6.
-  * **Volar:** Los pteranodones tienen un paso de volando de 12 (solo 4 en la primera ronda, porque sus enormes cuerpos les dificultan volar inicialmente). Tienen una subida de -1.
-  * **Ataque volador:** Cuando el pteranodon vuela a toda velocidad, puede realizar un ataque volador, obteniendo un +2 al daño. Si consigue un avance en su tirada de ataque cuando vuela contra un humano o un oponente de menor tamaño, lo atrapa y se lo lleva, probablemente a su nido.
+  * **Volar:** Los pteranodontes tienen un paso de volando de 12 (solo 4 en la primera ronda, porque sus enormes cuerpos les dificultan volar inicialmente). Tienen una subida de -1.
+  * **Ataque volador:** Cuando el pteranodonte vuela a toda velocidad, puede realizar un ataque volador, obteniendo un +2 al daño. Si consigue un avance en su tirada de ataque cuando vuela contra un humano o un oponente de menor tamaño, lo atrapa y se lo lleva, probablemente a su nido.
   * **Tamaño +2:** Podían llegar a tener una envergadura de alas de 5 o 6 m y un peso de unos 60 kilos.
   * **Lento:** En el suelo solo tiene Paso 4 y no puede correr.
-  * **Veneno:** Después de un combate contra pteranodones, si recibes una herida, debes tirar VIG. En caso de fallar, el día siguiente tendrá un nivel de fatiga, que se recupera tras dormir una noche, debido a la fiebre y malestar general generados por la infección de las bacterias de su pico y sus garras.
+  * **Veneno:** Después de un combate contra pteranodontes, si recibes una herida, debes tirar VIG. En caso de fallar, el día siguiente tendrá un nivel de fatiga, que se recupera tras dormir una noche, debido a la fiebre y malestar general generados por la infección de las bacterias de su pico y sus garras.
 
 [![Escala Pteranodon](./assests/images/escala-pteranodon.png 'Scale diagram for Pteranodon longiceps by Matt Martyniuk')](https://commons.wikimedia.org/wiki/File:Pteranodon_scale.png 'Scale diagram for Pteranodon longiceps by Matt Martyniuk')
 
-Los pteranodones son unos de los saurios voladores de mayor tamaño, llegando a 5 o 6 metros de envergadura de alas y un peso entre 30 y 90 kilos. Se caracterizan frente a otras especies por su cresta de infinidad de formas y tamaños.  
+Los pteranodontes son unos de los saurios voladores de mayor tamaño, llegando a 5 o 6 metros de envergadura de alas y un peso entre 30 y 90 kilos. Se caracterizan frente a otras especies por su cresta de infinidad de formas y tamaños.  
 
 \saltopagina
 

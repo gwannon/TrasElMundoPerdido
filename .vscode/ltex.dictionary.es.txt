@@ -96,7 +96,7 @@ Inverness
 Führer
 1d4
 romancear
-iguanodones
+iguanodontes
 UBoat
 Messerschmitt
 Messerschmidt
@@ -110,7 +110,7 @@ Branningans
 Branningans
 Ambassador
 Durrell
-pteranodones
+pteranodontes
 pteranodon
 terópodo
 terópodos
