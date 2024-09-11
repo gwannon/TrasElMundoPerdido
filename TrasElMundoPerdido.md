@@ -172,7 +172,7 @@ Rápidamente, todos los experimentos y todos los trabajos que había solicitado 
 
 \saltopagina
 
-La IM ya tiene sus __monstruos__ preparados para combatir y ahora necesita la parte humana que los controle, así que sus agentes de inteligencia están como locos buscando los activos idóneos para trabajar con los saurios en las misiones que piensan asignarles.
+La IM ya tiene sus «monstruos» preparados para combatir y ahora necesita la parte humana que los controle, así que sus agentes de inteligencia están como locos buscando los activos idóneos para trabajar con los saurios en las misiones que piensan asignarles.
 
 Lady Roxton sabe que había sido engañada, pero ahora hay problemas más acuciantes. Ya solventará todos estos temas después de ganar la guerra.
 
@@ -1195,7 +1195,7 @@ Para empezar a colocar la antena deben cerciorarse primero que están en la posi
 
 Una vez encontrado el lugar donde poner la antena, necesitarán otra tirada de Electrónica para poner en funcionamiento la antena (orientarla y conectarle adecuadamente a las baterías). Deben tener en cuenta que en cuanto la conecten empezará una cuenta atrás. Los nazis tardarán un poco, pero se terminarán dando de que algo permite conectar con la BBC usando las radios y las teles de la isla. 
 
-En ese momento en general nazi encargado de la isla pondrá a buscar la antena y los __traidores__ que la han activado. Enseguida la isla se llenará de sonido de camiones, coches y motos nazis que buscan la antena.
+En ese momento en general nazi encargado de la isla pondrá a buscar la antena y los «traidores» que la han activado. Enseguida la isla se llenará de sonido de camiones, coches y motos nazis que buscan la antena.
 
 ### Escape de Jersey
 El regreso será igual que la ida, pero para su sorpresa un camión nazi con dos soldados nazis (Infantería nazi) por cada comando más un capitán nazi (Oficial nazi) les estarán esperando. Los soldados están registrando la playa donde han desembarcado y si descubren la barcaza podrían sospechar todo el plan.
