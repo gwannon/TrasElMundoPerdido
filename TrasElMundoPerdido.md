@@ -11,7 +11,7 @@
 
 Estamos en el verano de 1940 y casi toda Europa ha caído bajo el poder de la maquinaria de guerra nazi. 
 
-Tu mando superior te hace llamar a su despacho y te enseña una carta de "arriba" indicando que te cambian de destino. Te mandan a unas instalaciones secretas en Escocia, en la isla de Skye. 
+Tu mando superior te hace llamar a su despacho y te enseña una carta de «arriba» indicando que te cambian de destino. Te mandan a unas instalaciones secretas en Escocia, en la isla de Skye. 
 
 Por alguna extraña razón que nadie comprende, y menos tú, te quieren allí para formar parte de una fuerza militar muy especial.
 
@@ -46,7 +46,7 @@ Todo comienzo en 1910 cuando el excéntrico y genial doctor en Zoología George 
 
 Challenger encontró entre sus objetos personales una libreta de dibujos con extraños bocetos de gigantescas bestias prehistóricas que habitaban una meseta tremendamente alta y seguramente inaccesible a pie.
 
-Challenger encontró el lugar que Maple había dibujado y lo llamó la "Tierra de Maple White", pero no pudo acceder a ella por falta de material de escalada y provisiones. Aunque consiguió fotografías de pteranodontes y algunas pruebas físicas como huesos de dinosaurios, lo perdió casi todo en un accidente a su regreso a Londres. Las pocas pruebas que pudo conservar fueron tachadas de fraude y él de farsante.
+Challenger encontró el lugar que Maple había dibujado y lo llamó la «Tierra de Maple White», pero no pudo acceder a ella por falta de material de escalada y provisiones. Aunque consiguió fotografías de pteranodontes y algunas pruebas físicas como huesos de dinosaurios, lo perdió casi todo en un accidente a su regreso a Londres. Las pocas pruebas que pudo conservar fueron tachadas de fraude y él de farsante.
 
 A pesar de ello, Challenger consiguió el apoyo de Lord John Roxton, el profesor Summerlee y de Edward Malone, un periodista del Daily Gazette y monto una expedición a la selva venezolana para demostrar que su descubrimiento era real. 
 
@@ -107,7 +107,7 @@ Durante un año y medio, Lord Roxton y un equipo de 40 personas estuvieron estud
 
 Lo primero que hizo la expedición fue crear una especie de ascensor que permitía acceder a la meseta a personas y equipo sin necesidad de usar globos o la ruta de los sakala.
 
-El propio Roxton capturo con ingeniosos trucos especímenes vivos de todas las especies de saurios que habitan la meseta y los envío a escocia a unas tierras que había comprado en la isla de Skye. Para su transporte compro el viejo carguero "Ambassador" que paso a llamarse el "Mary Anning" y contrato a Dolores Branningan como su capitana.
+El propio Roxton capturo con ingeniosos trucos especímenes vivos de todas las especies de saurios que habitan la meseta y los envío a escocia a unas tierras que había comprado en la isla de Skye. Para su transporte compro el viejo carguero «Ambassador» que paso a llamarse el «Mary Anning» y contrato a Dolores Branningan como su capitana.
 
 Sabiendo los problemas que podían suponer las interacciones con los sakala, la expedición mantuvo el contacto al mínimo. Por precaución, Lord John cambio su aspecto al máximo (corte de pelo y sin bigotes) para no ser reconocido. 
 
@@ -161,7 +161,7 @@ Su primera gran acción como directora de la Fundación fue intentar hablar con 
 
 IM empezó a suministrar a la Fundación de todo tipo de especialistas que tenían acceso a las instalaciones y los saurios. Llevaban todo tipo de equipamiento especial y hacía toda serie de nuevos experimentos y pruebas. Gracias a ellos, las investigaciones de la Fundación avanzaron en años, lo que les habría llevado décadas. 
 
-A cambio, IM proporcionaba cobertura a la Fundación, por ejemplo, el "Mary Anning" no necesitaba pasar por aduanas al salir o entrar al país y cuando llegaba a Venezuela casualmente nadie quería inspeccionar la carga al salir o al entrar. La Fundación conseguía informes muy detallados de sus posibles investigadores y gente con becas, con lo que podía hacer una selección más eficaz y descartar las personas que podían dar problemas.
+A cambio, IM proporcionaba cobertura a la Fundación, por ejemplo, el «Mary Anning» no necesitaba pasar por aduanas al salir o entrar al país y cuando llegaba a Venezuela casualmente nadie quería inspeccionar la carga al salir o al entrar. La Fundación conseguía informes muy detallados de sus posibles investigadores y gente con becas, con lo que podía hacer una selección más eficaz y descartar las personas que podían dar problemas.
 
 También parece ser que desaparecieron todas las posibles señales que hubiera en medios de comunicación y otras organizaciones gubernamentales nacionales y extranjeras, como las notas y cartas Edward Malone de la primera expedición al Mundo Perdido.
 
@@ -205,7 +205,7 @@ Mapa de la isla de Skye
 1. Castillo Dunvegan
 2. Hospital
 3. Taller de Wayland
-4. Zona de embarque y fondeo del "Mary Anning"
+4. Zona de embarque y fondeo del «Mary Anning»
 5. Pieza de artillería antiaérea
 
 ====== Valla de la reserva
@@ -303,12 +303,12 @@ El hospital tiene un pequeño laboratorio para todo tipo de experimentos y prueb
 #### Otras instalaciones
 
 * En el Castillo Dunvegan está la mayor biblioteca de paleontología del mundo con muchos tratados que han hecho los trabajadores de la Fundación investigando los saurios en la meseta y en Skye.
-* Cala de fondeo y embarque del "Mary Anning".
+* Cala de fondeo y embarque del «Mary Anning».
 * Hay varios jeeps todoterreno para mover y controlar las manadas de saurios y moverse por la reserva. 
 * Hay varias granjas normales con maquinaria agrícola donde se crían animales para alimentar carnívoros y diferentes frutas y verduras para los herbívoros. También abastecen de comida al personal de la Fundación.
 
-### El "Mary Anning" y sus instalaciones
-El "Mary Anning" es un barco carguero de tamaño medio botado por la Fundación para el transporte de dinosaurios y comandos.
+### El «Mary Anning» y sus instalaciones
+El «Mary Anning» es un barco carguero de tamaño medio botado por la Fundación para el transporte de dinosaurios y comandos.
 
 La fundación le puso el nombre de la famosa paleontóloga georgiana Mary Anning, que hizo grandes descubrimientos en saurios acuáticos como el ictiosaurio o el plesiosaurio.
 
@@ -322,7 +322,7 @@ En el resto del espacio libre se crearon diferentes habitáculos con material y 
 
 &nbsp;
 
-[![Estampa del "Mary Anning"](./assests/images/regreso-casa.jpg 'Ägare:/1939-44, 1949-58/: Seereederei Frigga A.G. Hemort: Hamburg.')](https://garystockbridge617.getarchive.net/amp/media/agare1939-44-1949-58-seereederei-frigga-ag-hemort-hamburg-7e3056 'Ägare:/1939-44, 1949-58/: Seereederei Frigga A.G. Hemort: Hamburg.')
+[![Estampa del «Mary Anning»](./assests/images/regreso-casa.jpg 'Ägare:/1939-44, 1949-58/: Seereederei Frigga A.G. Hemort: Hamburg.')](https://garystockbridge617.getarchive.net/amp/media/agare1939-44-1949-58-seereederei-frigga-ag-hemort-hamburg-7e3056 'Ägare:/1939-44, 1949-58/: Seereederei Frigga A.G. Hemort: Hamburg.')
 
 &nbsp;
 
@@ -343,7 +343,7 @@ Esta sala llena de pupitres, una gran pizarra y un pequeño proyector de cine y 
 Es importante destacar que hay una pequeña caja fuerte que solo los comandos saben la combinación de apertura para guardar documentos importantes.
 
 #### Sala de radio
-Esta radio militar de onda corta, permite al "Mary Anning" comunicarse con la fundación desde cualquier lugar del mundo para mandar información y recibirla.
+Esta radio militar de onda corta, permite al «Mary Anning» comunicarse con la fundación desde cualquier lugar del mundo para mandar información y recibirla.
 
 Durante las misiones, siempre hay alguien de guardia en la sala de radio, las 24 horas en 4 turnos de 6 horas.
 
@@ -353,7 +353,7 @@ Aunque las comunicaciones pueden ser escuchadas por la inteligencia nazi, se usa
 
 #### La esclusa de los plesiosaurios
 
-El "Mary Anning" llena unos tanques de agua para el transporte de los saurios acuáticos. No son especialmente grandes, así que han dotado a esos tanques de una esclusa que permite a los ictiosaurios y a los plesiosaurios salir al mar cuando el carguero va a una velocidad más o menos lenta o está parado en un puerto.
+El «Mary Anning» llena unos tanques de agua para el transporte de los saurios acuáticos. No son especialmente grandes, así que han dotado a esos tanques de una esclusa que permite a los ictiosaurios y a los plesiosaurios salir al mar cuando el carguero va a una velocidad más o menos lenta o está parado en un puerto.
 
 Desde el barco se suele lanzar una boya con la que suelen jugar y con la que hacen carreras cuando el barco está en movimiento. No solo sirve para tenerlos entretenidos y en forma. También hace que no se vayan lejos del barco, por ejemplo, buscando presas.
 
@@ -468,7 +468,7 @@ Aunque pueda parecer poco creíble, la variedad de misiones en que estos reptile
 ### Misiones de infiltración 
 Para empezar hay que pensar que la mayoría de las misiones van a tener un componente de sigilo e infiltración. Muchas misiones implicarán como mínimo cruzar las líneas enemigas sin ser detectados.
 
-Los dinosaurios atienden a órdenes muy sencillas en estas situaciones como "silencio", "escóndete" o "quieto", a no ser que sus instintos más básicos le digan lo contrario. Por ejemplo, un estegosaurio no se quedará quieto si ve que están atacando y matando a su manada (tus comandos y sus dinosaurios).
+Los dinosaurios atienden a órdenes muy sencillas en estas situaciones como «silencio», «escóndete» o «quieto», a no ser que sus instintos más básicos le digan lo contrario. Por ejemplo, un estegosaurio no se quedará quieto si ve que están atacando y matando a su manada (tus comandos y sus dinosaurios).
 
 \saltopagina
 
@@ -497,7 +497,7 @@ Los estegosaurios y los iguanodontes tampoco se quedan atrás. Son seres que han
 
 Por último los pteranodontes e ictiosaurios y plesiosaurios son muy peligrosos en su medio. Quizás no puedan derribar un UBoat o un Messerschmidt. Pero un buzo no es rival para un ictiosaurio y un pteranodonte puede atrapar a un soldado nazi, elevarse hasta 100 metros y dejarlo caer en unos pocos segundos.
 
-La Fundación ha entrenado a los saurios para obedecer órdenes como "ataca", "auxilio" o "huye", aunque ten claro que tu compañero difícilmente huirá si estás en peligro.
+La Fundación ha entrenado a los saurios para obedecer órdenes como «ataca», «auxilio» o «huye», aunque ten claro que tu compañero difícilmente huirá si estás en peligro.
 
 ### Misiones de rescate
 Las misiones de rescate pueden ser de cualquier índole y no tienen un equipo perfecto. Siempre depende de las circunstancias del rescate, no es lo mismo rescatar a unos rehenes en un tren en marcha que asaltar un castillo bávaro usado como prisión.
@@ -512,13 +512,13 @@ a los prisioneros.
 ### Alimentación durante las misiones
 Además de la ocultación de los dinosaurios, el otro problema principal de llevar a los dinosaurios es alimentarlos. A priori, los herbívoros pueden llevar el alimento almacenado en el barco sin problema y en la misión podrían alimentarse de lo que de la tierra y en caso de necesidad conseguir comida fresca de mercados y de granjas locales no debería ser problemático. Seguramente pueden dejar una hora a sus herbívoros en algún manzanar y que se alimenten de sus frutas o 
 
-El problema son los carnívoros de gran tamaño durante la misión, ya que en viaje el "Mary Anning" tiene unas grandes cámaras frigoríficas con alimento. Los de pequeño tamaño como pteranodontes o ictiosaurios pueden cazar más o menos de forma segura sin ser detectados por el aire o por el agua. 
+El problema son los carnívoros de gran tamaño durante la misión, ya que en viaje el «Mary Anning» tiene unas grandes cámaras frigoríficas con alimento. Los de pequeño tamaño como pteranodontes o ictiosaurios pueden cazar más o menos de forma segura sin ser detectados por el aire o por el agua. 
 
 Como las misiones en principio deberían ser cortas, a lo sumo una semana, los grandes carnívoros deberían poder proveerse sin problemas durante los combates, devorando a nazis y a sus monturas. Piensa que los nazis son una fantástica fuente de proteínas y muchas instalaciones militares solían tener animales de granja como vacas u ovejas para tener ciertos suministros frescos.
 
 \saltopagina
 
-En partida se supone que se llevan alimentos de sobra en las misiones y no deberían estar contando si quedan o no provisiones, esto no es "Economic D&D" no vamos a llevar al extremo el consumo/gasto de provisiones. Si fuera necesario, puedes montarle alguna escena para conseguir alimento fresco en el mercado local mientras evitan patrullas nazis. 
+En partida se supone que se llevan alimentos de sobra en las misiones y no deberían estar contando si quedan o no provisiones, esto no es «Economic D&D» no vamos a llevar al extremo el consumo/gasto de provisiones. Si fuera necesario, puedes montarle alguna escena para conseguir alimento fresco en el mercado local mientras evitan patrullas nazis. 
 
 > La regla general es que no hay problemas de alimentación para los carnívoros a no ser que las misiones sean largas y/o la falta de comida sea parte de la aventura. En estos casos, si quieres que haya un extra de complejidad puedes presionarles con la falta de comida de sus saurios.
 
@@ -532,7 +532,7 @@ Los dinosaurios eran un monstruo más del imaginario popular junto a otros seres
 Una persona de la calle con estudios medios podría interpretar un avistamiento de dinosaurios como un ataque alienígena, un monstruo congelado en un iceberg derretido, superlagartos mutados, incluso ser un dragón despertado por la magia.
 
 ## Mantener en secreto a los dinosaurios
-Mantener en secreto la existencia de dinosaurios es una de las preocupaciones de la Fundación y como hemos visto lo lleva haciéndolo desde 1912. De hecho, han arriesgado mucho al ofrecer a sus especímenes más dotados e inteligentes a la IM inglesa, pero como ya sabemos, "tiempos desesperados exigen medidas desesperadas". Así que la Fundación y sus saurios salieron a la luz para unas pocas personas del ejército inglés.
+Mantener en secreto la existencia de dinosaurios es una de las preocupaciones de la Fundación y como hemos visto lo lleva haciéndolo desde 1912. De hecho, han arriesgado mucho al ofrecer a sus especímenes más dotados e inteligentes a la IM inglesa, pero como ya sabemos, «tiempos desesperados exigen medidas desesperadas». Así que la Fundación y sus saurios salieron a la luz para unas pocas personas del ejército inglés.
 
 \saltopagina
 
@@ -549,7 +549,7 @@ Un grupo de científicos nazis estudiaron los textos recopilados de la presentac
 Ante esta situación, la Fundación tuvo que buscar y contratar a un grupo de mercenarios para que saboteara e hiciera fracasar la expedición nazi. Este fue el germen que hizo que lady Roxton, a pesar de sus reticencias, pensará en un comando de saboteadores y combatientes formado por saurios y humanos.
 
 ### Opinión pública
-La opinión pública es totalmente ignorante de la existencia de los dinosaurios y de uso en operaciones militares. Solo algunos "conspiranoicos" y cazadores de monstruos tienen constancia de avistamientos de estos seres y casi todos los atribuyen al monstruo del Lago Ness.
+La opinión pública es totalmente ignorante de la existencia de los dinosaurios y de uso en operaciones militares. Solo algunos «conspiranoicos» y cazadores de monstruos tienen constancia de avistamientos de estos seres y casi todos los atribuyen al monstruo del Lago Ness.
 
 También puede que algún periódico sensacionalista haya publicado alguna historia sobre avistamientos de saurios, pero normalmente si darle mucho bombo y siendo desprestigiado rápidamente por la comunidad científica.
 
@@ -651,7 +651,7 @@ Este arquetipo refleja un amplio grupo de profesionales de la medicina y veterin
 En este apartado encontrarás nuevas reglas, ventajas y desventajas aplicables a esta campaña.
 
 ### Nuevo uso de benis: Estos tontos humanos
-Un dinosaurio comodín puede gastar todos sus benis (mínimo 1) y conseguir que un humano comprenda el mensaje que el dinosaurio quiere decirle, desde "No vayas por ese que pasillo que huelo enemigos" o "No comas esas bayas venenosas" hasta "Salta sin paracaídas que yo te recojo".
+Un dinosaurio comodín puede gastar todos sus benis (mínimo 1) y conseguir que un humano comprenda el mensaje que el dinosaurio quiere decirle, desde «No vayas por ese que pasillo que huelo enemigos» o «No comas esas bayas venenosas» hasta «Salta sin paracaídas que yo te recojo».
 
 \saltopagina
 
@@ -666,7 +666,7 @@ El comando que adquiere esta ventaja puede convertir a un dinosaurio con el que 
 * Lo primero será darle nombre
 * El **compañero dinosaurio se convierte en comodín** con lo que tiene sus propios benis y su dado de héroe.
 * Por **cada Rango que alcance el comando el compañero conseguirá un avance**. Si se coge esta ventaja siendo experimentado, el compañero tendrá derecho a dos avances por Novato y por Experimentado. Cuando alcance el rango de Veterano y siguientes tendrá derecho a un nuevo avance por cada nuevo rango.
-* Habrá que ponerle 2 desventajas mayores (o 2 menores) mentales o físicas que marquen su carácter, como Tozudo, Curioso, Sanguinario, etc. y además la desventaja Manía (menor) con alguna cosa curiosa y divertida, tipo "le vuelve loco el queso".
+* Habrá que ponerle 2 desventajas mayores (o 2 menores) mentales o físicas que marquen su carácter, como Tozudo, Curioso, Sanguinario, etc. y además la desventaja Manía (menor) con alguna cosa curiosa y divertida, tipo «le vuelve loco el queso».
 * El compañero animal no atacará al comando bajo ninguna circunstancia normal.
 * Si por alguna causa fallece el compañero, el héroe podrá reemplazarlo tras 1d4 días. Si lo desea puede cambiar esta ventaja por otra que cumpla los requisitos y dejará de tener compañero saurio.
 
@@ -764,11 +764,11 @@ En esta tabla tenemos los vehículos típicos de las películas de la II Guerra 
 |Motocicleta BMW R-71|1 (Normal)|+1|125 km/h|8|1+1|
 |Motocicleta BMW R-71 con sidecar|2 (Normal)|+1|95 km/h|8|1+2|
 |Jeep Willys MB|3|+1|95 km/h|14(3)|1+4|
-|VW Typ 82 "Kübelwagen"|3|+1|80 km/h|13(3)|1+4|
+|VW Typ 82 «Kübelwagen»|3|+1|80 km/h|13(3)|1+4|
 |Panzer II|6|+0|65 km/h|24(10)|3-4|
 
 ### Dinosaurios como vehículos
-Todos queremos ver persecuciones entre dinosaurios y motos nazis por una carretera de montaña de los Alpes o una carrera entre un alosaurio y unos "Kübelwagen" por las abarrotadas calles del zoco de Marrakech, así que aquí tienes las estadísticas de diferentes dinosaurios como vehículos a la hora de hacer persecuciones.
+Todos queremos ver persecuciones entre dinosaurios y motos nazis por una carretera de montaña de los Alpes o una carrera entre un alosaurio y unos «Kübelwagen» por las abarrotadas calles del zoco de Marrakech, así que aquí tienes las estadísticas de diferentes dinosaurios como vehículos a la hora de hacer persecuciones.
 
 |VEHÍCULO|TAMAÑO|MANIOBRA.|VEL. MÁX.|DUREZA|TRIPULACIÓN|
 |--------|------|----|--|------|-----|
@@ -811,7 +811,7 @@ El equipo de biología que trabaja en la meseta de Maple White ha encontrado que
 ### Radio de campaña
 Esta radio portátil permite a tu comando recibir y enviar información. El radio de acción es corto y se reduce si hay montañas y otros accidentes geográficos y atmosféricos que afecten a la señal de radio.
 
-Para largas comunicaciones tendrían que comunicarse con el "Mary Anning" y este con su radio de largo alcance reenviar el mensaje a la fundación Roxton o al Alto Mando del Ejército Inglés.
+Para largas comunicaciones tendrían que comunicarse con el «Mary Anning» y este con su radio de largo alcance reenviar el mensaje a la fundación Roxton o al Alto Mando del Ejército Inglés.
 
 > Con un mínimo entrenamiento cualquiera puede usar la radio, pero se necesitará una tirada de Electrónica para hacerla funcionar en condiciones extremas o para conseguir cosas fuera de sus capacidades normales.
 > En caso de problemas de recepción o envío de señales de radio, una tirada de Ciencias estudiando el entorno permitirá descubrir que afecta a las comunicaciones y dará un +2 a la tirada de Electrónica para tratar de solventarlo.
@@ -952,9 +952,9 @@ El conspirador se ha vendido a los nazis y les ha entregado el secreto más impo
 
 También ha propiciado la caída y la destrucción de la Fundación Roxton. Las instalaciones han sido arrasadas y los dinosaurios que vivían en ellas han sido capturados o asesinados. Así que a partir de este momento volarán solos. 
 
-Todos estos eventos les obligarán a empezar una carrera contra los nazis por llegar al Mundo Perdido antes que ellos y sabotear su misión de captura de dinosaurios. Allí descubrirán la auténtica verdad, el traidor era un doble agente y la IM montó todo el operativo de los dinosaurios en misiones para atraer a los nazis. La IM sabía que Hitler se volvería loco cuando los dinosaurios fueran detectados y trataría de conseguirse sus propios saurios "arios".
+Todos estos eventos les obligarán a empezar una carrera contra los nazis por llegar al Mundo Perdido antes que ellos y sabotear su misión de captura de dinosaurios. Allí descubrirán la auténtica verdad, el traidor era un doble agente y la IM montó todo el operativo de los dinosaurios en misiones para atraer a los nazis. La IM sabía que Hitler se volvería loco cuando los dinosaurios fueran detectados y trataría de conseguirse sus propios saurios «arios».
 
-De esta forma, una gran cantidad de las fuerzas y recursos (tropas de combate, espías, submarinos, barcos y grandes cantidades de dinero y combustible) que iban a ser usados en primera línea de combate serían destinados a buscar y capturar unas criaturas "míticas" en la selva boliviana.   
+De esta forma, una gran cantidad de las fuerzas y recursos (tropas de combate, espías, submarinos, barcos y grandes cantidades de dinero y combustible) que iban a ser usados en primera línea de combate serían destinados a buscar y capturar unas criaturas «míticas» en la selva boliviana.   
 
 \saltopagina
 
@@ -991,7 +991,7 @@ En el tema de equipo, mientras no se pasen con el armamento y los explosivos pue
 ## Los viajes
 Como buena historia de aventuras, los viajes no serán importantes, no importa ni el coste ni el tiempo ni si hay submarinos alemanes en esas aguas. Siempre llegarán a tiempo y sin problemas a no ser que el viaje sea la propia aventura. 
 
-Vamos a usar el recurso fílmico llamado "viajar por el mapa". Cuando tu comando decida ir a Noruega, como en Indiana Jones, la imagen se fundirá hasta verse un mapamundi viejo y descolorido y sobre este un barco partirá de Escocia dejando tras de sí una línea roja punteada de su ruta. Cruzará el mar del Norte y llegará finalmente a la costa de Noruega para fundirse el mapa y volver a ver nuestro comando.
+Vamos a usar el recurso fílmico llamado «viajar por el mapa». Cuando tu comando decida ir a Noruega, como en Indiana Jones, la imagen se fundirá hasta verse un mapamundi viejo y descolorido y sobre este un barco partirá de Escocia dejando tras de sí una línea roja punteada de su ruta. Cruzará el mar del Norte y llegará finalmente a la costa de Noruega para fundirse el mapa y volver a ver nuestro comando.
 
 No hay tablas de encuentros aleatorios, ni tiradas de climatología, ni nada por el estilo. Aunque eres libre, si quieres, de meter los encuentros que desees.
 
@@ -1045,7 +1045,7 @@ Esta campaña no es especialmente sería, aunque no deja de tener sus momentos s
 * Los dinosaurios pueden comportarse a veces de forma loca e inesperada. Quizás se coman algo valioso y tengas que esperar a que los caguen o se nieguen a moverse y tengan que sobornarles como chucherías y mimos.
 * Aprovecha las Manías que tienen como Compañeros Dinosaurios para crear escenas locas. Quizás siempre intenten ir en el sidecar de la moto nazi o ir de copiloto en un jeep, roben cosas brillantes o se pirren por un alimento y hagan lo que sea por conseguirlo.
 * Tendrán que hacer muchas cosas raras para ocultar a los saurios y algunas puede que sean muy divertidas.
-* Hay relatos salvajes con buenos momentos de comedia. Por ejemplo, en "Titanes de tiempos pretéritos" deberán rodar una película de dinosaurios y tus comandos participar de extras como cavernícolas. Aprovecha a jugar un par de escenas haciendo todos el mamarracho.
+* Hay relatos salvajes con buenos momentos de comedia. Por ejemplo, en «Titanes de tiempos pretéritos» deberán rodar una película de dinosaurios y tus comandos participar de extras como cavernícolas. Aprovecha a jugar un par de escenas haciendo todos el mamarracho.
 * Mete nazis más tontos con costumbres nazis exageradas como no parar de hacer el saludo fascista y con acentos divertidos. Haz que mueran de formas estúpidas. Recuerda al ejecutivo de Jurassic Park que muere sentado en un váter.
 
 ***
@@ -1064,7 +1064,7 @@ Puedes aprovechar para hacer una sesión 0 con cada comando en el que le recluta
 Si investigan solo sabrán que les trasladarán a la reserva de animales salvajes de la Fundación Roxton en la isla de Skye. Unas buenas tiradas de investigar no sacarán a la luz nada extraño, pero dará a entender que alguien ha limpiado la información que se puede sacar de archivos, bibliotecas y periódicos.
 
 ## Primeros pasos
-Del ferry que une tierra firme con la isla de Skye desembarcan tus comandos con sus macutos. Nadie más ha tomado el ferry así que se conocen de vista. Delante del grupo se para un pequeño camión y el conductor les mira y les dice con un fuerte acento escocés "Entrad atrás, tenemos bastante camino hasta el castillo y no quiero llegar tarde al almuerzo. Por cierto, soy Willy."
+Del ferry que une tierra firme con la isla de Skye desembarcan tus comandos con sus macutos. Nadie más ha tomado el ferry así que se conocen de vista. Delante del grupo se para un pequeño camión y el conductor les mira y les dice con un fuerte acento escocés «Entrad atrás, tenemos bastante camino hasta el castillo y no quiero llegar tarde al almuerzo. Por cierto, soy Willy.»
 
 \saltopagina
 
@@ -1141,7 +1141,7 @@ Si consiguen alcanzarle y hacerle una herida, se dejará caer y no se querrá mo
 Mientras se encargan del iguanodonte, el comando más charlatán debería vérselas con algún campesino (coge las estadísticas de un Menestral/a) que quiere pasar por donde está el iguanodonte. Tendrá que sacar todo su arsenal, porque el campesino es muy cabezota.
 
 ## Compañeros para siempre
-Durante la fase de entrenamiento y la fuga de dinosaurios deberías formar las parejas de humano/saurio asignándole la ventaja "Compañero dinosaurio" al saurio que veas que mejor conecta con cada comando.
+Durante la fase de entrenamiento y la fuga de dinosaurios deberías formar las parejas de humano/saurio asignándole la ventaja «Compañero dinosaurio» al saurio que veas que mejor conecta con cada comando.
 
 Esta escena debería ser especial para cada comando, así que no la fuerces demasiado, y si ves que no se da la situación puedes dejarla para su primera misión en la isla de Jersey. Veamos algunos ejemplos.
 
@@ -1170,16 +1170,16 @@ La IM ha encontrado una pequeña colina alejada de los núcleos urbanos. Con los
 
 Tienen que recuperar las comunicaciones con la pequeña isla de Jersey. Deberán transportar una antena en una ubicación secreta de la isla e instalarla. Deberán llevar un par de estegosaurios para cargar con la antena y dos saurios acuático para ayudarles a desembarcar en la isla. No pueden llevarse ningún saurio más y lo suyo es que haya la mayor cantidad de compañeros saurios posibles.
 
-### Embarcando en el "Mary Anning"
-Esta será la primera vez que verán el "Mary Anning", el barco que será su hogar lejos de su hogar durante muchas semanas. 
+### Embarcando en el «Mary Anning»
+Esta será la primera vez que verán el «Mary Anning», el barco que será su hogar lejos de su hogar durante muchas semanas. 
 
 \saltopagina
 
-Estará fondeado en la costa oeste de la isla a la altura de las tierras de la Fundación. Con barcazas de desembarco podrán subir al "Mary Anning" con sus saurios y la pesada antena. La primera en saludarles será la capitana Branningan que luego presentará a la tripulación, 
+Estará fondeado en la costa oeste de la isla a la altura de las tierras de la Fundación. Con barcazas de desembarco podrán subir al «Mary Anning» con sus saurios y la pesada antena. La primera en saludarles será la capitana Branningan que luego presentará a la tripulación, 
 
 Pueden aprovechar para conocer las instalaciones básicas del barco y hablar con la capitana, que sabe bastante de transportar saurios en barco, lleva haciéndolo años.
 
-EL viaje es corto, unos 3 días, hasta llegar a la costa de Francia donde está la isla de Jersey. Sin acercarse mucho a costa, tendrán que colocar los flotadores a los estegosaurios (ver el relato salvaje "El prototipo") y luego en una barcaza irán los comandos y las antenas. Los acuáticos en unos pocos viajes habrán desembarcado a todo el equipo sin hacer el mínimo ruido y sin usar luces. Salvo que pasará algo extraño son prácticamente indetectables. 
+EL viaje es corto, unos 3 días, hasta llegar a la costa de Francia donde está la isla de Jersey. Sin acercarse mucho a costa, tendrán que colocar los flotadores a los estegosaurios (ver el relato salvaje «El prototipo») y luego en una barcaza irán los comandos y las antenas. Los acuáticos en unos pocos viajes habrán desembarcado a todo el equipo sin hacer el mínimo ruido y sin usar luces. Salvo que pasará algo extraño son prácticamente indetectables. 
 
 [![Fotografía aérea de la Isla de Jersey](./assests/images/jersey.jpg 'Satellite view of Jersey - Copernicus Sentinel-2, ESA')](https://en.wikipedia.org/wiki/Jersey#/media/File:Jersey_by_Sentinel-2.jpg 'Satellite view of Jersey - Copernicus Sentinel-2, ESA')
 
@@ -1202,7 +1202,7 @@ El regreso será igual que la ida, pero para su sorpresa un camión nazi con dos
 
 Si se ven sobrepasados (mueren más de un tercio de los nazis), el capitán, si sigue vivo, intentará escapar en el camión, para pedir refuerzos. Es importante que ningún nazi salga vivo para que nadie pueda declarar la presencia de los saurios.
 
-Si consiguen acabar con los nazis podrán embarcar en el "Mary Anning" con toda tranquilidad.
+Si consiguen acabar con los nazis podrán embarcar en el «Mary Anning» con toda tranquilidad.
 
 En futuros viajes podrían intentar cambiar las baterías de la antena para mosquear a los nazis si tienen tiempo y una batería preparada.
 
@@ -1225,7 +1225,7 @@ El Norte de África es una de las ubicaciones más exóticas de esta campaña, a
 
 ## Sitio de Tobruk
 ```
-El ejército necesita que el comando entre Tobruk y saque a un agente que tiene un objeto de vital importancia para IM. El único problema es que la ciudad esta asediada por los "Africa-Korps" por tierra aire y mar.
+El ejército necesita que el comando entre Tobruk y saque a un agente que tiene un objeto de vital importancia para IM. El único problema es que la ciudad esta asediada por los «Africa-Korps» por tierra aire y mar.
 ```
 
 Aviso por radio, reunión urgente en el castillo Dunvegan. El teniente Horace Chambers aparece en el comedor con dulces locales escoceses y café de Colombia y un montón de mapas de lo que parece el Norte de África. Viene a encargarles una nueva misión a tus comandos.
@@ -1235,7 +1235,7 @@ Alegremente, Horace les explica que la misión es bastante simple, saltarse las 
 
 Tobruk es una ciudad portuaria muy bien protegida por ingleses y australianos. Está completamente sitiada por los nazis por tierra y por mar y los intentos anteriores de sacar al activo del IM han fracasado totalmente. Es por ello que el general Linton ha propuesto intentarlo desde otro punto de vista, uno prehistórico. 
 
-Es una misión de infiltración pura y dura, si se meten en combate tendrán a todos los "Africa-Korps" de Rommel contra ellos. Deberían desarrollar el plan de entrada y salida basándose en los saurios voladores y acuáticos que pueden entrar y salir de la ciudad sin ser vistos. 
+Es una misión de infiltración pura y dura, si se meten en combate tendrán a todos los «Africa-Korps» de Rommel contra ellos. Deberían desarrollar el plan de entrada y salida basándose en los saurios voladores y acuáticos que pueden entrar y salir de la ciudad sin ser vistos. 
 
 Los terrestres no deberían ser de utilidad, pero igual tienen un plan magistral para usarlos. Los plesiosaurios podrían estar días en el puerto sin ser detectados y los pteranodontes podrían refugiarse en los edificios medio derrumbados por bombardeos que hay por toda la ciudad.
 
@@ -1261,7 +1261,7 @@ Actualmente se encuentra defendido por fuerzas inglesas y australianas y sitiado
 Tus comandos tienen acceso a un mapa de la ciudad de antes del sitio con nombres en inglés y árabe. Tiene actualizaciones a mano como tachones en los edificios destruidos. Aunque la mayoría de la población es árabe mucha gente chapurrea inglés y francés, así que la comunicación básica es relativamente sencilla y con el mapa en bilingüe deberían poder moverse por la ciudad sin problema.
 
 ## Entrar en Tobruk
-El "Mary Anning" tomará camino a Creta todavía en manos inglesas y desde allí tratará de acercarse a Tobruk esquivando la marina nazi. El carguero se quedará a unas 12 millas de la costa lejos de los barcos que sitian la ciudad y lo suficientemente cerca para que los plesiosaurios pueda llegar a tierra. 
+El «Mary Anning» tomará camino a Creta todavía en manos inglesas y desde allí tratará de acercarse a Tobruk esquivando la marina nazi. El carguero se quedará a unas 12 millas de la costa lejos de los barcos que sitian la ciudad y lo suficientemente cerca para que los plesiosaurios pueda llegar a tierra. 
 
 Deben tener en cuenta que aunque Tobruk esté controlado por aliados, no es seguro y nadie ha sido avisado de su misión por temor a los espías nazis infiltrados. De hecho podrían ser considerados espías por las fuerzas de defensa de Tobruk si hacen movimientos extraños.
 
@@ -1308,7 +1308,7 @@ Enigma es una máquina electromagnética para cifrar y descifrar mensajes. Es us
 Jocelyn consiguió robar el rotor principal de la máquina con las modificaciones que los nazis hicieron al modelo original. Esto puede ayudar muchísimo a encontrar una forma de descifrar sus mensajes, así que su valor es inestimable y hay gente dispuesta a hacer lo que sea por esa pieza de la máquina enigma.
 
 ### ¡Es una trampa!
-De repente, habrá golpes en la puerta. "¡Policía militar! Abran la puerta. Están arrestados. Si no abren derribaremos la puerta." Tienen 3 turnos antes de que tiren la puerta y cada comando puede hacer una acción.
+De repente, habrá golpes en la puerta. «¡Policía militar! Abran la puerta. Están arrestados. Si no abren derribaremos la puerta.» Tienen 3 turnos antes de que tiren la puerta y cada comando puede hacer una acción.
 
 * Si miran por las ventanas que dan a la calle principal verán tres destartalados coches (con dos soldados en cada uno) en la puerta del edificio y cuatro.
 * Si miran por las ventanas que dan al callejón lateral verán unos 5 soldados para evitar que escapen por aquí. También verán pequeño trimotor de reparto.
@@ -1374,7 +1374,7 @@ La salida debería ser como la entrada, sumergidos con los plesiosaurios. Pero a
 
 Pueden intentar otras cosas que les ayuden en su salida.
 
-* Pueden desplegar los pteranodontes para tener imágenes "satélite" de la ciudad y sus alrededores a ver si pueden ver algo. También serían útiles para IM.
+* Pueden desplegar los pteranodontes para tener imágenes «satélite» de la ciudad y sus alrededores a ver si pueden ver algo. También serían útiles para IM.
 * Pueden ir a las autoridades militares aliadas y buscar ayuda. Aun así no pueden sacarles de la ciudad y los infiltrados nazis podrían encontrarlos y preparar otro ataque.
 * Pueden irse solos con el rotor y abandonar a Jocelyn. Sería fácil, pero no le sentaría bien a ella.
 
@@ -1386,22 +1386,22 @@ La idea es sumergirse y pasar por debajo del barco y salir a respirar cuando est
 * Si salen a la superficie a respirar, podrán atacarle si le detectan con Notar (con los focos solo tienen un -1 de negativos por la noche). Harán fuego de supresión sobre la zona con lo que podrán dañar al saurio y a los dos comandos con su Browning M2 (ver estadísticas en el libro básico).
 * Si fallan la tirada de Notar para detectar el barco nazi recibirán un ataque como si hubieran salido a respirar.
 
-Tras las 6 rondas habrán salido a mar abierto y estarán lejos de sus enemigos. Podrán ir nadando hasta donde les espera el "Mary Anning". 
+Tras las 6 rondas habrán salido a mar abierto y estarán lejos de sus enemigos. Podrán ir nadando hasta donde les espera el «Mary Anning». 
 
 Los pteranodontes les seguirán volando. Pueden hacer que ataquen al barco nazi una vez por ronda, pero solo si algún comando sale a respirar. Lo único que harán será molestar si pasan la tirada de ataque normal y pondrán un -2 al ataque de la barcaza.
  
-Recuerda que, si has empezado el relato salvaje "Arte robado", Jocelyn tiene escondidas dos estatuas romanas de gran valor arqueológico. Puede sacarlas como si fueran un comando más que no necesita respirar. El problema es que no tengan suficientes saurios acuáticos para hacerlo en un viaje.  
+Recuerda que, si has empezado el relato salvaje «Arte robado», Jocelyn tiene escondidas dos estatuas romanas de gran valor arqueológico. Puede sacarlas como si fueran un comando más que no necesita respirar. El problema es que no tengan suficientes saurios acuáticos para hacerlo en un viaje.  
 
 \saltopagina
 
 [![Plano del sitio de Tobruk](./assests/images/bletchley-park.jpg 'Bletchley Park House home of the World War Two Codebreakers - Outwivcamera')](https://commons.wikimedia.org/wiki/File:Bletchley_Park_House_home_of_the_World_War_Two_Codebreakers,.jpg 'Bletchley Park House home of the World War Two Codebreakers - Outwivcamera')
 
 ## Visita a Bletchley Park
-Mientras están de regreso en el "Mary Anning", recibirán órdenes de escoltar ellos mismos a Jocelyn y al engranaje hasta las instalaciones militares de Bletchley Park. 
+Mientras están de regreso en el «Mary Anning», recibirán órdenes de escoltar ellos mismos a Jocelyn y al engranaje hasta las instalaciones militares de Bletchley Park. 
 
-Branningan cree que lo mejor es desembarcar en Portsmouth, de ahí a Oxford y luego Bletchley Park. Tendrán que alquilar un vehículo y buscar transporte público. El "Mary Anning" con los dinosaurios seguirá por el mar de Irlanda hasta Skye.
+Branningan cree que lo mejor es desembarcar en Portsmouth, de ahí a Oxford y luego Bletchley Park. Tendrán que alquilar un vehículo y buscar transporte público. El «Mary Anning» con los dinosaurios seguirá por el mar de Irlanda hasta Skye.
 
-El viaje puede durar un par de días con lo que tendrán que pernoctar mínimo una noche. Un "Bed & Breakfast" en mitad de la campiña inglesa puede ser una opción interesante y con cierto encanto romántico. Aun así, deberían tomar precauciones como atrancar la puerta y montar guardias. 
+El viaje puede durar un par de días con lo que tendrán que pernoctar mínimo una noche. Un «Bed & Breakfast» en mitad de la campiña inglesa puede ser una opción interesante y con cierto encanto romántico. Aun así, deberían tomar precauciones como atrancar la puerta y montar guardias. 
 
 No deben fiarse de nadie hasta llegar a su destino. IM está seguro que hay nazis en suelo inglés con órdenes de destruir el rotor. 
 
@@ -1409,7 +1409,7 @@ Independientemente del medio de transporte que tendrán una emboscada de un grup
 
 * Si van en tren, intentarán asesinarlos en su compartimento.
 * Si alquilan un coche, les emboscarán en alguna carretera secundaria.
-* Quizás vayan en un autobús de línea. En ese caso, los asesinos irán disfrazados de militares buscando espías alemanes. Detendrán el bus y los sacarán para "interrogarlos" lejos del resto de pasajeros.
+* Quizás vayan en un autobús de línea. En ese caso, los asesinos irán disfrazados de militares buscando espías alemanes. Detendrán el bus y los sacarán para «interrogarlos» lejos del resto de pasajeros.
 
 \saltopagina
 
@@ -1425,7 +1425,7 @@ Estamos hablando de asesinos entrenados y dispuestos a cumplir las órdenes que 
 
 Si salen vivos de su encuentro con los asesinos podrán continuar su viaje, ya de forma segura, hasta las instalaciones militares de Bletchley Park.
 
-> Si hay fans de la informática en tu mesa quizás sea un detalle bonito que [Alan Turing](https://es.wikipedia.org/wiki/Alan_Turing) o [Joan Clarke](https://es.wikipedia.org/wiki/Joan_Clarke) recojan en rotor, se quiten las gafas estupefactas y exclamen "Esto podría cambiar el curso de la guerra. Habéis salvado miles si no millones de vidas".
+> Si hay fans de la informática en tu mesa quizás sea un detalle bonito que [Alan Turing](https://es.wikipedia.org/wiki/Alan_Turing) o [Joan Clarke](https://es.wikipedia.org/wiki/Joan_Clarke) recojan en rotor, se quiten las gafas estupefactas y exclamen «Esto podría cambiar el curso de la guerra. Habéis salvado miles si no millones de vidas».
 
 ## Mensaje desde Bletchley Park (Pistas)
 Cuando vuelvan a irse de misión Lady Margaret les enseñará un documento de Bletchley Park. Con las posiciones que tenía el rotor antes de sacarlo de la máquina Enigma han sacado unas palabras: Fundación Roxton infiltrado. 
@@ -1442,14 +1442,14 @@ Las islas Orcadas es un destino donde tus comandos triunfarán si son rápidos y
 La base naval de Scapa Flow es la más importante base naval inglesa. La marina británica la considera inexpugnable, pero los nazis tienen sus propios planes. Tus comandos pueden evitar un duro golpe a la Royal Navy, si desbaratan los planes de la Kaiserliche Marine nazi. 
 ```
 
-En el evento real, llamado el ataque de Scapa Flow, en que se basa esta misión un espía alemán se pasó 10 años estudiando la base naval y buscando la mejor forma de entrar en Scapa Flow saltándose todas sus defensas. Cuando lo descubrió paso la información a la marina nazi que envió el submarino U-47 bajo el mando del capitán Günther Prien. Este as del combate submarino hundió el destructor "HMS Royal Oak" y acabó con la vida de más 800 tripulantes.
+En el evento real, llamado el ataque de Scapa Flow, en que se basa esta misión un espía alemán se pasó 10 años estudiando la base naval y buscando la mejor forma de entrar en Scapa Flow saltándose todas sus defensas. Cuando lo descubrió paso la información a la marina nazi que envió el submarino U-47 bajo el mando del capitán Günther Prien. Este as del combate submarino hundió el destructor «HMS Royal Oak» y acabó con la vida de más 800 tripulantes.
 
 Sin embargo aquí están tus comandos y sus saurios para evitarlo o por lo menos lo intentarán. 
 
 ## Misión de rutina
 Esta misión no empieza como otras con Horace Linton dando una soporífera charla. Se ha pedido desde IM a la Fundación que con sus saurios acuáticos haga una serie de revisiones y trabajos en la base naval de Scapa Flow.
 
-Según ha dicho IM necesitan que "una entidad externa" haga una auditoria a todas las defensas antisubmarinos de la Scapa Flow y envíe un informe. Parce ser que temen un ataque nazi a las instalaciones y no quieren filtraciones.
+Según ha dicho IM necesitan que «una entidad externa» haga una auditoria a todas las defensas antisubmarinos de la Scapa Flow y envíe un informe. Parce ser que temen un ataque nazi a las instalaciones y no quieren filtraciones.
 
 ### La base naval de Scapa Flow
 La base Naval de Scapa Flow está en las islas Orcadas que están a solo unos 290 km al noreste de la isla de Skye. Scapa Flow es una masa de agua bastante grande rodeada por las diferentes islas Orcadas de forma que es un fondeadero tranquilo, ya usado por los vikingos. 
@@ -1464,10 +1464,10 @@ Scapa Flow siempre ha sido una obsesión para los nazis y siempre ha estado en e
 
 En el momento en que vayan tus comandos están fondeados en las aguas de Scapa Flow:
 
-* **HMS Royal Oak:** Acorazado de la clase "Revenge".
+* **HMS Royal Oak:** Acorazado de la clase «Revenge».
 * **HMS Pegasus:** Porta hidroaviones.
-* **HMS Iron Duke:** Acorazado de la clase "Iron Duke".
-* Además de 3 cargueros medios con materiales para la base y el "Mary Anning".
+* **HMS Iron Duke:** Acorazado de la clase «Iron Duke».
+* Además de 3 cargueros medios con materiales para la base y el «Mary Anning».
 
 \saltopagina
 
@@ -1480,17 +1480,17 @@ Si lo desean pueden ir haciendo tiradas diarias de Tácticas con la nueva inform
 
 La idea de toda esta parte es hacerla lo más aburrida y tediosa posible, ya que realmente su informe no sirve para nada en la trama. Pero tampoco lo alargues mucho (5-10 minutos) y si ves que alguien empieza a coger papel y lápiz, corta. Lo que buscamos es que de repente, sin previo aviso y sin estar preparados, aparezca el enemigo y ver como reaccionan ante la posibilidad de que si no lo hacen bien se pierdan miles de vidas.
 
-> Todo lo anterior es algo opcional y si no crees que encaje en tu partida eres libre de obviarlo todo, describirles el trabajo que realizan en la base naval y pasar al siguiente punto. Recuerda que "tu mesa, tus reglas".
+> Todo lo anterior es algo opcional y si no crees que encaje en tu partida eres libre de obviarlo todo, describirles el trabajo que realizan en la base naval y pasar al siguiente punto. Recuerda que «tu mesa, tus reglas».
 
 ## En todo el fregado
 Nadie lo sabe, pero mientras estaban trabajando un submarino nazi en el fondeadero. Ha entrado por una entrada oriental llamada Kirk Sound, un estrecho y turbulento brazo de mar entre las islas de Pomona y Lamb Holm.
 
-Tus comandos casi chocan con él en su trabajo de inspección. Se lo encontrarán a altura de periscopio y parece que está en modo combate y va directo hacia el "HMS Royal Oak". En cuanto este a distancia de torpedos lanzará su ataque. 
+Tus comandos casi chocan con él en su trabajo de inspección. Se lo encontrarán a altura de periscopio y parece que está en modo combate y va directo hacia el «HMS Royal Oak». En cuanto este a distancia de torpedos lanzará su ataque. 
 
 \saltopagina
 
 ### Escudo anti-torpedos
-Tus comandos y sus saurios son la única defensa que tiene el "HMS Royal Oak". Para cuando puedan avisarles del ataque y se preparen, el acorazado ya estará haciendo aguas. 
+Tus comandos y sus saurios son la única defensa que tiene el «HMS Royal Oak». Para cuando puedan avisarles del ataque y se preparen, el acorazado ya estará haciendo aguas. 
 
 Deben actuar ya, moverse rápido y desviar los torpedos de su trayectoria, siendo certeros con sus ataques. Con suerte el Royal Oak salga indemne del ataque y pueda contraatacar.
 
@@ -1501,7 +1501,7 @@ El submarino U-47 de Prien tiene dos tipos de torpedos:
 
 Como recordatorio rápido los plesiosaurios y los ictiosaurios tienen una velocidad máxima de 22 nudos (40 km/m).
 
-El submarino nazi va a intentar hundir el "HMS Royal Oak" y tus comandos con sus plesiosaurios e ictiosaurios deben crear un escudo anti torpedos. 
+El submarino nazi va a intentar hundir el «HMS Royal Oak» y tus comandos con sus plesiosaurios e ictiosaurios deben crear un escudo anti torpedos. 
 
 [![Detalle del tablero de combate](./assests/images/grid.png 'Detalle del tablero de combate')](https://mundoperdido.gwannon.com/assests/images/grid.png 'Detalle del tablero de combate')
 
@@ -1522,7 +1522,7 @@ Los G7a se les detecta muy fácilmente y desde la casilla 1 se ve su trayectoria
 [![Dibujo del submarino U-47](./assests/images/U-47.jpg 'U-47 by Rama')](https://commons.wikimedia.org/wiki/File:U-47.jpg#/media/Archivo:U-47.jpg 'U-47 by Rama')
 
 #### Desviar un torpedo
-Para deflectar un torpedo, el plesiosaurio debe estar en la misma casilla que el torpedo. Cada vez que un torpedo entra en una casilla ocupada por comando o el comando y su saurio entra en una casilla ocupada por un torpedo puede intentar desviarlo para que no impacte contra el "HMS Royal Oak".
+Para deflectar un torpedo, el plesiosaurio debe estar en la misma casilla que el torpedo. Cada vez que un torpedo entra en una casilla ocupada por comando o el comando y su saurio entra en una casilla ocupada por un torpedo puede intentar desviarlo para que no impacte contra el «HMS Royal Oak».
 
 No pueden desactivar ni detener los torpedos, solo pueden desviarlos. Es por ello que tendrán que hacer primero una tirada de Atletismo para nadar y acercarse por el lado adecuado. Cada avance da un +1 a la tirada de FUE enfrentada a la FUE del torpedo (d12 para el G7a y d8 para el G7e).
 
@@ -1571,9 +1571,9 @@ El sistema de detección y desvío de torpedos con saurios acuáticos tiene que 
 
 En unos días un relojero alemán afincado desde 1929 en las Orcadas llamado Alfred Wehring llegará a Londres y en pocos días la inteligencia nazi sabrá que el capitán Prien fallo inexplicablemente. 
 
-Es importante tener en cuenta que Prien es un as de la guerra submarina y su fracaso no estaba contemplado. También hay que entender que Alfred Wehring era un espía nazi que llevaba desde 1929 estudiando Scapa Flow y cómo entrar. Si dice que algo evitó que impactará en el "HMS Royal Oak" e hizo fracasar a Prien es que los ingleses tienen alguna nueva tecnología. 
+Es importante tener en cuenta que Prien es un as de la guerra submarina y su fracaso no estaba contemplado. También hay que entender que Alfred Wehring era un espía nazi que llevaba desde 1929 estudiando Scapa Flow y cómo entrar. Si dice que algo evitó que impactará en el «HMS Royal Oak» e hizo fracasar a Prien es que los ingleses tienen alguna nueva tecnología. 
 
-Esto hará que los espías alemanas en Inglaterra se pongan a buscar cualquier pista que les lleve a descubrir que han desarrollado e instalado en el "HMS Royal Oak". Esto puede hacer que los espías sigan líneas de investigación diferentes y raras que no han seguido otras veces y con un poco de mala suerte descubran que se cuece en la fundación Roxton.
+Esto hará que los espías alemanas en Inglaterra se pongan a buscar cualquier pista que les lleve a descubrir que han desarrollado e instalado en el «HMS Royal Oak». Esto puede hacer que los espías sigan líneas de investigación diferentes y raras que no han seguido otras veces y con un poco de mala suerte descubran que se cuece en la fundación Roxton.
 
 Por otro lado, es mucha casualidad que justo estuvieran los comandos y sus saurios cuando los nazis atacaron Scapa Flow. Si tus comandos son un poco paranoicos, todo esto no debería olerles bien del todo.
 
@@ -1629,7 +1629,7 @@ Como ya sabes de otras aventuras el soporte aéreo de los pteranodontes siempre 
 ### Equipo especial
 Horace tiene claro que esta misión va a necesitar equipo muy especial, tan especial como la propia misión. Horace aboga por pintura de camuflaje negro y diferentes cuernos postizos, pero está abierto a sugerencias. Tal vez tus comandos quieran algo más demoníaco con pintura roja y cuernos rojos. También podrían plantearlos más fantásticos con diseños tribales o con símbolos rúnicos pintados en sus escamas.
 
-Recuerda que IM tiene un prototipo de material reflectante (relato salvaje "El prototipo") que puede quedar increíble de noche.
+Recuerda que IM tiene un prototipo de material reflectante (relato salvaje «El prototipo») que puede quedar increíble de noche.
 
 #### Disfraces para saurios
 Los disfraces para saurios es algo que IM y la fundación ya tenía desarrollado antes de esta misión, así que simplemente hay que ir al granero donde lo guardan y buscar lo más apropiado. 
@@ -1642,17 +1642,17 @@ La IM piensa que quizás los jinetes pueden ir disfrazados de dioses nórdicos a
 
 Pueden tirar Conocimientos generales (para vestirse rollo Hollywood) o Humanidades (para vestirse más académicamente correcto). Si consiguen dos avances obtendrán un +2 siempre que tengan que convencer a alguien de que son dioses vikingos (ver más adelante).
 
-Si han participado en el relato salvaje "Titanes de tiempos pretéritos" pueden aplicar lo que aprendieron en esa aventura a la hora de hacerse pasar por dioses nórdicos.
+Si han participado en el relato salvaje «Titanes de tiempos pretéritos» pueden aplicar lo que aprendieron en esa aventura a la hora de hacerse pasar por dioses nórdicos.
 
 #### Lanzallamas
-Weyland ha preparado unos lanzallamas de efectos especiales que simulan llamaradas de dragón (truquitos de "Titanes de tiempos pretéritos"). Cada dispositivo tiene 3 cargas. El fuego no se puede usar de arma, es puro efecto visual, pero puede incendiar algo inflamable. No tiene olor a combustible que los delate y crea una llamarada roja muy aparente. 
+Weyland ha preparado unos lanzallamas de efectos especiales que simulan llamaradas de dragón (truquitos de «Titanes de tiempos pretéritos»). Cada dispositivo tiene 3 cargas. El fuego no se puede usar de arma, es puro efecto visual, pero puede incendiar algo inflamable. No tiene olor a combustible que los delate y crea una llamarada roja muy aparente. 
 
 \saltopagina
 
 Se activa tirando de un cordel que se pasa por las riendas. Si se usa cuando el saurio intenta intimidar a sus enemigos da un +2 a la tirada.
 
 ## Las otras heroínas de Telemark
-Esta misión empezará directamente en Skien, la principal ciudad de la zona de Telemark, donde el general von Liebenfels tiene su residencia. El "Mary Anning" dejo a los comandos en la costa de evitando la marina nazi y tus comandos se movieron por la desierta tundra noruega hasta llegar a Skien.
+Esta misión empezará directamente en Skien, la principal ciudad de la zona de Telemark, donde el general von Liebenfels tiene su residencia. El «Mary Anning» dejo a los comandos en la costa de evitando la marina nazi y tus comandos se movieron por la desierta tundra noruega hasta llegar a Skien.
 
 Puedes montar, si quieres, algún encuentro en el viaje por las tierras heladas de Noruega. Tal vez alguna patrulla nazi buscando a algún rebelde escapado o un grupo de lapones con sus rebaños de renos y tengan que comprar alguno para los saurios carnívoros.
 
@@ -1712,7 +1712,7 @@ Von Liebenfels ha dejado claro a sus tropas que si se encuentran con los dragone
 
 Cuando creas oportuno aparecerá una serie de vehículos todoterreno con unos 5 drachenjägers por pareja de dinosaurio/comando que rodearán a tus comandos. 
 
-Durante el combate von Liebenfels estará en la retaguardia lanzando "hechizos" que no tendrán ningún efecto real, pero puedes hacer aparecer las dotes de mando del general como parte del hechizo.
+Durante el combate von Liebenfels estará en la retaguardia lanzando «hechizos» que no tendrán ningún efecto real, pero puedes hacer aparecer las dotes de mando del general como parte del hechizo.
 
 El combate debería ser largo y duro y si se pone muy fácil puedes meter soldados nazis normales. Si intentan atacar a von Liebenfels este se pondrá a la defensiva, incluso podría protegerse en el vehículo todoterreno blindado. Si recibe una herida se retirará del combate. En cualquier, caso debería sobrevivir a este encuentro, aunque puede llevarse alguna cicatriz.
 
@@ -1742,7 +1742,7 @@ Naturalmente, todo esto no funciona, pero los cazadragones son tan fanáticos y 
 * **Equipo:** Espada vikinga (FUE+d8), Camisote de malla (+3 torso y brazos), casco abierto (+4 cabeza), escudo medieval mediano (parada +2, cobertura -2)
 
 ## Vuelta a casa
-Si consiguen derrotar a los drachenjägers podrán escapar a la costa norte de Noruega a través de la tundra donde les espera el "Mary Anning". Puedes hacerles llegar directamente a su barco, narrando el plan de escape que hayan diseñado o puedes hacerles buscar la forma de esconder su rastro y de llevar a una embarazada si van a sacar a Arntine y su familia. 
+Si consiguen derrotar a los drachenjägers podrán escapar a la costa norte de Noruega a través de la tundra donde les espera el «Mary Anning». Puedes hacerles llegar directamente a su barco, narrando el plan de escape que hayan diseñado o puedes hacerles buscar la forma de esconder su rastro y de llevar a una embarazada si van a sacar a Arntine y su familia. 
 
 \saltopagina
 
@@ -1753,7 +1753,7 @@ Si una de las prioridades de IM es esconder los dinosaurios por qué los convier
 
 Por otro lado, si hay algo que puede volver loco a Hitler y sus generales es poder hacer desfiles de la victoria montados en dinosaurios. Eso solo lo mejora hacerlo montados en dragones. Podríamos pensar que Hitler cambiaría toda el agua pesada de Noruega por un dragón y de hecho eso es lo que piensa von Liebenfels al desviar tantas tropas a buscar a tus comandos y sus saurios.
 
-Si no se dan cuenta de todos estos fallos en la misión y no se empiezan a hacer preguntas, puedes ponerles en su siguiente misión carteles de propaganda nazi con Hitler montando un dragón y conquistando el mundo. También puede ser que los vean en algún noticiario de los que ponen antes de las películas o en algún tabloide sensacionalista con algún titular como "¿Hitler tiene dragones?". Esto debería empezar a encauzarlos a pensar que igual IM quiere que Hitler descubra los saurios.
+Si no se dan cuenta de todos estos fallos en la misión y no se empiezan a hacer preguntas, puedes ponerles en su siguiente misión carteles de propaganda nazi con Hitler montando un dragón y conquistando el mundo. También puede ser que los vean en algún noticiario de los que ponen antes de las películas o en algún tabloide sensacionalista con algún titular como «¿Hitler tiene dragones?». Esto debería empezar a encauzarlos a pensar que igual IM quiere que Hitler descubra los saurios.
 
 ***
 
@@ -1771,7 +1771,7 @@ xxx
 xxx
 
 ## Espiados (Pistas)
-Una vez de vuelta al "Mary Anning" podrán revisar todo el papeleo que han conseguido. Encontrarán con facilidad, una serie de carpetas con los perfiles psicológicos/hoja de servicios/curriculum de tus comandos. No dicen nada que no venga en su ficha de personaje como ventajas y desventajas excepto cosas como Secreto.
+Una vez de vuelta al «Mary Anning» podrán revisar todo el papeleo que han conseguido. Encontrarán con facilidad, una serie de carpetas con los perfiles psicológicos/hoja de servicios/curriculum de tus comandos. No dicen nada que no venga en su ficha de personaje como ventajas y desventajas excepto cosas como Secreto.
 
 Es de ingenuos pensar que la IM no investigaría a los comandos antes de trabajar con ellos, pero desde luego lo que es preocupante es que está información haya caído en manos nazis. O lo que es peor (y ahí entra que juegues con su paranoia) que algún agente de la IM se haya vendido y haya filtrado esa información o que algún espía nazi haya tenido acceso a ella y haya conseguido pasarla a sus jefes.
 
@@ -1785,7 +1785,7 @@ Es de ingenuos pensar que la IM no investigaría a los comandos antes de trabaja
 Las tropas rusas y nazis llevan meses enfrentándose en las calles de Stalingrado sin que la victoria se decante a un lado u otro. IM quiere mandar a sus armas biológicas a sembrar el miedo y el caos en las filas nazis. 
 ```
 
-Esta misión no parece algo típico de IM, así que a diferencia de otras misiones Horace Linton no les hará la presentación con sus mapas y sus fotos. En la sala de misiones del "Mary Anning" les pasarán unos informes con mapas de Stalingrado y diferentes localizaciones importante para el ejército nazi, como campamentos, trincheras, depósitos de material y víveres, etc.
+Esta misión no parece algo típico de IM, así que a diferencia de otras misiones Horace Linton no les hará la presentación con sus mapas y sus fotos. En la sala de misiones del «Mary Anning» les pasarán unos informes con mapas de Stalingrado y diferentes localizaciones importante para el ejército nazi, como campamentos, trincheras, depósitos de material y víveres, etc.
 
 Si leen el informe verán que su barco les dejará lo más cerca de Stalingrado a través del Mar Negro. Deberán avanzar con sus dinosaurios hasta llegar al frente y allí hacer las fuerzas nazis el mayor daño posible. Es una misión de destrucción y muerte. La idea es crear un revulsivo que desatasque la situación en la ciudad.
 
@@ -1939,7 +1939,7 @@ Como siempre, si crees que este encuentro no es adecuado para tu mesa, óbvialo 
 ## Regreso a casa
 Todo el caos, explosiones y muerte que han sembrado tus comandos servirá como revulsivo del ejército ruso. Con las explosiones y las masacres tanto rusos como nazis mandarán unidades a investigar y eso hará que la rueda del combate que se había parado vuelva a rodar. Los rusos se envalentonarán al ver como una unidad solitaria ha creado tanto daño y los nazis tendrán miedo del nuevo enemigo que ha aparecido de la nada y del que no sabe nada. 
 
-Enseguida tus comandos podrán ver como hay movimientos por toda la ciudad, explosiones y tiroteos, movimiento de vehículos, la artillería vuelve a sonar, etc. Esa será la señal de volver a casa. Tendrán que volver a las costas del Mar Negro y embarcar en el "Mary Anning".
+Enseguida tus comandos podrán ver como hay movimientos por toda la ciudad, explosiones y tiroteos, movimiento de vehículos, la artillería vuelve a sonar, etc. Esa será la señal de volver a casa. Tendrán que volver a las costas del Mar Negro y embarcar en el «Mary Anning».
 
 ## Reportes desde el frente (Pistas)
 Realmente esta es una de las misiones con más sentido. Tienes una unidad especial y la mandas a frente a matar nazis y hacer el mayor daño posible. Y realmente lo es, lo que pasa es que lo que IM buscaban era que murieran allí y que los nazis encontrarán los saurios.
@@ -1992,7 +1992,7 @@ xxx
 Por suerte no están solos en sus misiones han hechos contactos, ayudado a gente y conseguidos recursos propios. Es hora de usarlos. 
 
 * **Jocelyn Dubois.** Si miran su correspondencia, alguien puede que tenga una carta Jocelyn contando que está en Londres hasta su siguiente misión. También pone su dirección. Quizás sea hora de que de cobrarse algún favor.
-* **Dolores Branningan y la tripulación del "Mary Anning".** Por supuesto que la valiente tripulación del "Mary Anning" está preparada para ayudar a tus comandos y hacer lo que sea para rescatar a Lady Roxton y matar nazis. y si no quieren Dolores le dará una buena zurra. 
+* **Dolores Branningan y la tripulación del «Mary Anning».** Por supuesto que la valiente tripulación del «Mary Anning» está preparada para ayudar a tus comandos y hacer lo que sea para rescatar a Lady Roxton y matar nazis. y si no quieren Dolores le dará una buena zurra. 
 * **Wayland.** Consiguió escaparse de los nazis, haciéndose pasar por un mozo de granja y escabulléndose cuando no miraban los guardias. Por supuesto que ayudará a tus comandos a matar nazis, de hecho, lo está deseando.
 * **Cualquier PNJ de tu propia cosecha que estuviera en la isla de Skye** es susceptible de haber escapado de los nazis y querer ayudar a tus comandos en su nueva misión.
 
@@ -2147,7 +2147,7 @@ Hay que recordar que solo es útil de noche o con poca luz y como con otros de l
 Un joven activista medioambiental se ha encadenado a la entrada principal del muro exterior del castillo Dunvegan y amenaza con prenderse fuego si no paran los experimentos con animales que se realizan en el castillo.
 ```
 
-Cuando tus comandos vuelve una misión se encuentran a un chaval de unos 15 o 16 años encadenado (3 cadenas con 3 candados, -2 Latrocinio cada candado, cada cadena tiene una consistencia de 9) a la puerta principal de los terrenos de la fundación. Tiene varios carteles donde se puede leer "Lady Roxton experimenta con animales en peligro de extinción" o "La Fundación Roxton es una tapadera del ejército para experimentar con animales". Tiene un hornillo para cocinar y calentarse y un gran macuto (también encadenado) con provisiones para 7 días.
+Cuando tus comandos vuelve una misión se encuentran a un chaval de unos 15 o 16 años encadenado (3 cadenas con 3 candados, -2 Latrocinio cada candado, cada cadena tiene una consistencia de 9) a la puerta principal de los terrenos de la fundación. Tiene varios carteles donde se puede leer «Lady Roxton experimenta con animales en peligro de extinción» o «La Fundación Roxton es una tapadera del ejército para experimentar con animales». Tiene un hornillo para cocinar y calentarse y un gran macuto (también encadenado) con provisiones para 7 días.
 
 \saltopagina
 
@@ -2187,18 +2187,18 @@ En 1924 en Hollywood una guionista/actriz llamada Marion Fairfax intentaba vende
 
 Hoy esa guionista en ciernes, es una famosa escritora de ciencia ficción que está de visita en Londres para promocionar su libro. La Fundación quiere aprovechar y averiguar cómo su guion era tan acertado. Si hubo en su momento una filtración es importante saberlo y solucionarla.
 
-Se va a hospedar durante 4 noches en el "Savoy", uno de los hoteles más elegantes y caros de Londres. Como curiosidad la entrada del "Savoy" en el único lugar de toda Inglaterra donde se circula por la derecha. 
+Se va a hospedar durante 4 noches en el «Savoy», uno de los hoteles más elegantes y caros de Londres. Como curiosidad la entrada del «Savoy» en el único lugar de toda Inglaterra donde se circula por la derecha. 
 
 Se dedicará a firmar sus obras y hacer lecturas en 4 librerías de Londres (Foyles, Daunt Books, Hatchards y por último los almacenes Liberty). También tiene el último día una cena con otras célebres escritoras como Agatha Christie. El quinto día, a primera hora, volverá a Nueva York en barco. 
 
 ### Intentos fallidos
-Pueden intentar acercarse a Marion en el "Savoy" o en una de las librerías. Pero estos intentos deberían fallar todas. Algunas opciones:
+Pueden intentar acercarse a Marion en el «Savoy» o en una de las librerías. Pero estos intentos deberían fallar todas. Algunas opciones:
 
 * Hay tal cantidad de fans esperando hablar con su autora preferida que es imposible acercarse. Si se ponen violentos los fans se volverán locos y habrá una turba de fans enloquecidos.
 
 \saltopagina
 
-* La seguridad de la librería o del "Savoy" cree que los comandos son sospechosos y los expulsará del local.
+* La seguridad de la librería o del «Savoy» cree que los comandos son sospechosos y los expulsará del local.
 * Cuando consigan acercarse a Marion habrá una alarma de incendio o incluso un aviso de bombardeo y evacuarán el local.
 * Al estar cerca de ella, estará indispuesta y tendrá que ir al baño y ya no volverá. El agua y la comida inglesa es demasiado para su estómago americano.
 * Su editora os confunde como editores ingleses y no se despega de ellos, intentando negociar algún tipo de trato con las novelas de su escritora.
@@ -2249,9 +2249,9 @@ Como regalo les dará una copia de su último libro dedicado y firmado y les dir
 La gente de IM ha tenido una idea genial, usar a los saurios en una película de bajo presupuesto. De forma que si alguien ve a los dinosaurios puedan decir que era un truco cinematográfico. 
 ```
 
-Lady Roxton quiere hablar con tus comandos. Mientras descansan entre misiones, tiene un pequeño trabajo que puede que incluso sea de su agrado. Cuando Lady Roxton les atienda les preguntará si les gusta el cine y les pasará una copia del guion. Si le dan un vistazo rápido es un guion de una película de serie B de dinosaurios llamada "Titanes de tiempos pretéritos", un título muy pretencioso para una cutre película. 
+Lady Roxton quiere hablar con tus comandos. Mientras descansan entre misiones, tiene un pequeño trabajo que puede que incluso sea de su agrado. Cuando Lady Roxton les atienda les preguntará si les gusta el cine y les pasará una copia del guion. Si le dan un vistazo rápido es un guion de una película de serie B de dinosaurios llamada «Titanes de tiempos pretéritos», un título muy pretencioso para una cutre película. 
 
-IM quiere que se usen dinosaurios reales y no efectos especiales para recrear a los dinosaurios. La genial idea que han tenido es que si alguien ve a uno de los saurios, hace una foto o incluso los graba en celuloide, poder decir que es un truco del cine y poner "Titanes de tiempos pretéritos" como ejemplo de lo que la gente de Hollywood puede hacer. 
+IM quiere que se usen dinosaurios reales y no efectos especiales para recrear a los dinosaurios. La genial idea que han tenido es que si alguien ve a uno de los saurios, hace una foto o incluso los graba en celuloide, poder decir que es un truco del cine y poner «Titanes de tiempos pretéritos» como ejemplo de lo que la gente de Hollywood puede hacer. 
 
 ### Revisando el guion
 Si revisan el guion que les da lady Margaret podrán ver que tendrán que rodar escenas estando disfrazados de trogloditas y luchando contra unos dinosaurios. También parece que rodarán con Marina Flowers, una estrella en ascenso de Hollywood, que tiene fama de ser problemática.
@@ -2271,7 +2271,7 @@ La IM quiere a Marina en esta película porque es una actriz con bastante fama q
 
 &nbsp;
 
-Es importante que los especialistas principales de cada secuencia no se repitan y en caso de tener que repetirse no deberían ser seguidas. Si alguna escena se complica y no pueden hacerla puedes recurrir a que el director, un joven y pedante director de documentales patrióticos llamado Bill Sullivan (usa la ficha de Artista), grite "¡Corten, se acabó por hoy! Ya arreglaremos este desastre en la sala de edición".
+Es importante que los especialistas principales de cada secuencia no se repitan y en caso de tener que repetirse no deberían ser seguidas. Si alguna escena se complica y no pueden hacerla puedes recurrir a que el director, un joven y pedante director de documentales patrióticos llamado Bill Sullivan (usa la ficha de Artista), grite «¡Corten, se acabó por hoy! Ya arreglaremos este desastre en la sala de edición».
 
 ### 1ª secuencia
 Para la primera secuencia Marina solo va a hablar con gruñidos y palabras inventadas tanto dentro como fuera del set de rodaje.
@@ -2320,7 +2320,7 @@ La víctima llevará debajo de las pieles una planchas de cuero muy fuerte para 
 ### Otras secuencias
 Si quieres hacer más secuencias aquí tienes algunas ideas divertidas.
 
-* Los cavernícolas deben robar un huevo gigante sin romperlo mientras esquivan a sus progenitores. Al final se harán una tortilla gigante (basado en una de las escenas de la película "Cavernícola" de 1981).
+* Los cavernícolas deben robar un huevo gigante sin romperlo mientras esquivan a sus progenitores. Al final se harán una tortilla gigante (basado en una de las escenas de la película «Cavernícola» de 1981).
 * Los y las cavernícolas hacen unos extraños (y extremadamente ridículos) bailes en la cueva a la luz de la hoguera para atraer a posibles parejas sexuales y románticas.
 * Alguna secuencia acuática con los ictiosaurios y los plesiosaurios. Quizás buceen para robar una perla gigante de una ostra aún más gigante.
 
@@ -2360,7 +2360,7 @@ Puede ser en alguna escena en que algún saurio la ataca o los cavernícolas la 
 Marina también puede ser el interés romántico de cualquiera de tus comandos, no importa ni su género ni su condición sexual. Como he explicado en el apartado anterior, Marina puede ser un personaje muy interesante y divertido para la campaña y este puede ser otro gancho para meterla en las aventuras.  
 
 ### Sospechas
-Si tus comandos pueden acceder al visionado de la película durante la edición o en su estreno, con una tirada de Humanidades verán que las tomas son tremendamente realistas. Las marionetas de otras películas no tienen primeros planos para que no se vean los cables, pero en "Titanes de tiempos pretéritos" hay planos muy cercanos.
+Si tus comandos pueden acceder al visionado de la película durante la edición o en su estreno, con una tirada de Humanidades verán que las tomas son tremendamente realistas. Las marionetas de otras películas no tienen primeros planos para que no se vean los cables, pero en «Titanes de tiempos pretéritos» hay planos muy cercanos.
 
 La idea de la película es que sirva de excusa si alguien dice haber visto un saurio, pero parece que quieran que los expertos en saurios puedan darse cuenta de que son reales.
 
@@ -2445,16 +2445,16 @@ Si no son capaces de descifrarlo pueden consultar a algún experto en cifrado co
 
 ## Limpiando el puerto
 ```
-Durante un trayecto en el "Mary Anning" llegan a un puerto que los nazis han tomado recientemente y han bloqueado el puerto llenándolo de minas. Quizas podrían aprovechar a fastidiar un poco a los nazis desactivándolas sin que lo sepan.
+Durante un trayecto en el «Mary Anning» llegan a un puerto que los nazis han tomado recientemente y han bloqueado el puerto llenándolo de minas. Quizas podrían aprovechar a fastidiar un poco a los nazis desactivándolas sin que lo sepan.
 ```
 
 Si las desactivan con la ayuda de los saurios acuáticos, los nazis creerán que el puerto está controlado, pero los contrabandistas podrán entrar y salir delante de las narices de los nazis. En caso de ataque de los aliados podrán evitar estas defensas y pillar a los nazis con la guardia baja.
 
 \saltopagina
 
-El "Mary Anning" fondeará en algún puerto natural cercano y podrán desembarcar a la playa. Volverá en 24 horas para continuar su ruta. El puerto en que les metas debería tener lógica con su ruta en barco y a poder ser donde se hable un idioma que controle alguno de tus comandos. 
+El «Mary Anning» fondeará en algún puerto natural cercano y podrán desembarcar a la playa. Volverá en 24 horas para continuar su ruta. El puerto en que les metas debería tener lógica con su ruta en barco y a poder ser donde se hable un idioma que controle alguno de tus comandos. 
 
-La misión debe hacerse con rapidez, antes de que los nazis detecten el "Mary Anning". Eso exigirá que el comando se divida en dos partes, una que desactive las minas con ayuda de los saurios acuáticos y otra que desembarque en el puerto y busque alguna célula rebelde para informarles de que las minas están desactivadas y pueden entrar y salir del puerto con, por ejemplo, soldados huidos de campos de prisioneros o material para sus actos de sabotaje.   
+La misión debe hacerse con rapidez, antes de que los nazis detecten el «Mary Anning». Eso exigirá que el comando se divida en dos partes, una que desactive las minas con ayuda de los saurios acuáticos y otra que desembarque en el puerto y busque alguna célula rebelde para informarles de que las minas están desactivadas y pueden entrar y salir del puerto con, por ejemplo, soldados huidos de campos de prisioneros o material para sus actos de sabotaje.   
 
 ### Desactivando minas
 
@@ -2567,10 +2567,10 @@ Si sus perfiles psicológicos son correctos, Hitler se volverá al saber que la 
 
 ## Arte robado
 ```
-Tu comando debe ayudar a los "Monuments Men" a recuperar arte robado por los nazis.
+Tu comando debe ayudar a los «Monuments Men» a recuperar arte robado por los nazis.
 ```
 
-El oficial James Rorimer se pondrá en contacto con tus comandos en alguna visita a Londres o quizás se presente en el propio castillo Dunvegan. Trabaja para ["Programa de Monumentos, Arte y Archivos"](https://es.wikipedia.org/wiki/Programa_de_Monumentos,_Arte_y_Archivos) de las fuerzas aliadas, más conocidos como los "Monuments men", y necesita toda la ayuda posible para recuperar arte robado por los nazis.
+El oficial James Rorimer se pondrá en contacto con tus comandos en alguna visita a Londres o quizás se presente en el propio castillo Dunvegan. Trabaja para [«Programa de Monumentos, Arte y Archivos»](https://es.wikipedia.org/wiki/Programa_de_Monumentos,_Arte_y_Archivos) de las fuerzas aliadas, más conocidos como los «Monuments men», y necesita toda la ayuda posible para recuperar arte robado por los nazis.
 
 Tiene contactos en el IM, de hecho juega a polo con el General Eugene Linton, y ha conseguido permiso para hablar con los comandos. No sabe nada de los saurios, pero si sabe que el equipo va a moverse por todo el mundo combatiendo a los nazis. Con un poco de suerte pueden rescatar obras robadas por los nazis.
 
@@ -2643,7 +2643,7 @@ En cada ronda deberán tirar Apostar y el que saque la peor tirada será el perd
 En la familia Branningan llevan siendo marinos desde hace siglo, lo que no cuentan es que durante un tiempo fueron corsarios al servicio de Inglaterra. 
 ```
 
-Ahora que regresan a casa, por el camino, la capitán Branningan tiene una oferta interesante que proponerles. Conoce la ubicación de un galeón hundido lleno de oro. Si le ayudan a rescatarlo, compartirá con ellos una parte a negociar. Dolores acaba su propuesta con un "Así, cuando acabe esta maldita guerra, podremos retirarnos y vivir como reyes en alguna isla del Caribe bebiendo ron y bailando salsa."
+Ahora que regresan a casa, por el camino, la capitán Branningan tiene una oferta interesante que proponerles. Conoce la ubicación de un galeón hundido lleno de oro. Si le ayudan a rescatarlo, compartirá con ellos una parte a negociar. Dolores acaba su propuesta con un «Así, cuando acabe esta maldita guerra, podremos retirarnos y vivir como reyes en alguna isla del Caribe bebiendo ron y bailando salsa.»
 
 Si aceptan el trato, Dolores variará el rumbo hacia la costa sur de Gales. El mar está en calma y la predicción meteorológica es buena, así que todo perfecto para un rescate submarino.
 
@@ -2708,7 +2708,7 @@ Cuando tus comandos lleguen a la Parte 7. Se quedarán sin los recursos económi
 
 ## Nadie
 ```
-Mientras el "Mary Anning" surcaba el mar uno de los plesiosaurios que viaja con él, ha aparecido con un extraño objeto en la boca. Quizás no es mala idea pararse y buscar donde lo ha encontrado.
+Mientras el «Mary Anning» surcaba el mar uno de los plesiosaurios que viaja con él, ha aparecido con un extraño objeto en la boca. Quizás no es mala idea pararse y buscar donde lo ha encontrado.
 ```
 
 Los saurios acuáticos está entrenados para recuperar cosas del fondo marino, sobre todo si son brillantes y metálicas. Lo ha dejado caer al suelo y ha hecho mucho ruido. Si lo examinan, parece algún tipo de caja metálica con partes de que debían ser de cristal y una especie de cables colgando. Si miran atentamente encontrarán una N en cursiva en el pie que no podrán reconocer.
@@ -2729,7 +2729,7 @@ xxx
 xxx
 
 ### El tesoro del capitán Nemo
-Como en el relato "El secreto de los Branningan" tendrán acceso a un gran tesoro en oro y piedras preciosas que, aunque tengan que compartir con la tripulación de "Mary Anning", seguirá siendo un montón. 
+Como en el relato «El secreto de los Branningan» tendrán acceso a un gran tesoro en oro y piedras preciosas que, aunque tengan que compartir con la tripulación de «Mary Anning», seguirá siendo un montón. 
 
 Si no lo venden y lo convierten en dinero no pueden hacer uso de él. El problema es que no van a tener el tiempo necesario para convertirlo en riqueza, deben frustrar los planes de conquista de los nazis. Como en ese relato puede llevárselo y esconderlo en algún lugar o pueden dejarlo aquí.
 
@@ -2802,13 +2802,13 @@ Es muy recomendables intercalar las misiones principales donde la trama avanza c
 
 No hace falta que las leas todas, pero tienen un pequeño texto gancho que te dará una idea de que tratan. Así podrás ver si se ajustan a tu estilo de partida. De todas formas son pequeñas y se leen en un pispas.
 
-Personalmente creo que es muy recomendables jugar "Noche de poker", "Cena de etiqueta" y "Titanes de tiempos pretéritos" porque creo que son relatos muy divertidos y diferentes al resto de la trama.
+Personalmente creo que es muy recomendables jugar «Noche de poker», «Cena de etiqueta» y «Titanes de tiempos pretéritos» porque creo que son relatos muy divertidos y diferentes al resto de la trama.
 
-"Arte robado" y "El prototipo" no son aventuras al uso, sino una forma de complicar y liar las misiones generales teniendo que hacer un esfuerzo extra como sería probar algún invento estúpido (El prototipo) o rescatando de la oficina de von Liebenfels un cuadro impresionista (Arte robado).
+«Arte robado» y «El prototipo» no son aventuras al uso, sino una forma de complicar y liar las misiones generales teniendo que hacer un esfuerzo extra como sería probar algún invento estúpido (El prototipo) o rescatando de la oficina de von Liebenfels un cuadro impresionista (Arte robado).
 
-"Campo minado" y "El pecio" puedes usarlos como un "encuentro aleatorio" dentro de algún viaje. 
+«Campo minado» y «Nadie» puedes usarlos como un «encuentro aleatorio» dentro de algún viaje. 
 
-La idea de "Despedidas" es cerrar la campaña con un viaje lacrimógeno a la meseta de Maple White donde tus comandos se despedirán de sus compañeros saurios.
+La idea de «Despedidas» es cerrar la campaña con un viaje lacrimógeno a la meseta de Maple White donde tus comandos se despedirán de sus compañeros saurios.
 
 ## Semillas de aventuras
 Además de los relatos salvajes, aquí te propongo una serie de semillas de aventuras si quieres alargar tus partidas o darles más profundidad.
@@ -2817,7 +2817,7 @@ Además de los relatos salvajes, aquí te propongo una serie de semillas de aven
 El Tercer Reich pide ayuda al ejército imperial japonés y estos envían a grupo de ninjas y samuráis para hacer frente a tus comandos y sus saurios. Quizás puedas animar las partidas con ataques de ninjas mientras duermen en un tren nocturno a París o tal vez tus comandos tengan que enfrentarse a un samurái que para las balas con su espada e invoca su ki a través de ella. 
 
 ### La gran evasión
-Alguien de tus comandos, incluso todos, han caído prisioneros de los nazis y deberán escapar de un campo de prisioneros al más puro estilo "La gran evasión".
+Alguien de tus comandos, incluso todos, han caído prisioneros de los nazis y deberán escapar de un campo de prisioneros al más puro estilo «La gran evasión».
 
 \saltopagina
 
@@ -2825,7 +2825,7 @@ Alguien de tus comandos, incluso todos, han caído prisioneros de los nazis y de
 Desde el campamento llegan malas noticias una enfermedad está afectando a todos los saurios de la meseta. Quizás la cura exija buscar gente y productos por todo el mundo, incluso igual en el propio Berlín. 
 
 ### Las aventuras del profesor Challenger
-El profesor Challenger aparece en otras dos novelas de sir Arthur Conan Doyle. La zona envenenada, donde la tierra atraviesa una zona de éter especial envenenado y todo el mundo en la tierra sucumbe y cae "muerto". En El país de la bruma, Challenger se enfrenta con temas de espiritismo.
+El profesor Challenger aparece en otras dos novelas de sir Arthur Conan Doyle. La zona envenenada, donde la tierra atraviesa una zona de éter especial envenenado y todo el mundo en la tierra sucumbe y cae «muerto». En El país de la bruma, Challenger se enfrenta con temas de espiritismo.
 
 Quizás los nazis hayan encontrado la forma de conseguir éter ponzoñoso o una forma de hablar con los muertos, o incluso de hacerlos combatir en el campo de batalla a su lado.
 
@@ -2840,12 +2840,12 @@ Por último, tenemos una sección con los auténticos protagonistas de esta camp
 
 > Recuerda que todo PJ con este símbolo (&#x2638;) en su nombre son considerados comodines con todo lo que ello conlleva.
 
-Con cada PJ viene una "sugerencia de interpretación". Como bien dice su nombre es una sugerencia y eres libre de seguirla o no. Es tu aventura no la nuestra.
+Con cada PJ viene una «sugerencia de interpretación». Como bien dice su nombre es una sugerencia y eres libre de seguirla o no. Es tu aventura no la nuestra.
 
 ## Aliados
 Don Quijote no sería nada sin su Sancho Pancho y tus comandos no serían nada sin sus aliados. En este apartado encontrarás a los principales aliados de tu mesa, gentes de la Fundación, de IM y PNJ que encontrarán cada escenario.
 
-> Las vidas sentimentales y sexuales de los personajes de esta ambientación han sido dejadas a propósito sin definir para que las adaptes como más te interese. Así que cualquier persona de tu mesa podrá "romancear" con cualquier PNJ que encuentres aquí.
+> Las vidas sentimentales y sexuales de los personajes de esta ambientación han sido dejadas a propósito sin definir para que las adaptes como más te interese. Así que cualquier persona de tu mesa podrá «romancear» con cualquier PNJ que encuentres aquí.
 > Recuerda también que en los pocos casos en se habla de familia, no se especifica a propósito cómo es y quiénes la componen. Móntate las relaciones sexo-afectivas y familiares que mejor se ajusten a tus gustos y los de tu mesa y con las que todos os encontréis cómodos.
 
 \saltopagina
@@ -2871,11 +2871,11 @@ xxx
 
 \saltopagina
 
-### Dolores Branningan, capitana del "Mary Anning" &#x2638;
+### Dolores Branningan, capitana del «Mary Anning» &#x2638;
 
 [![Retrato de Dolores Branningan](./assests/images/branningan.jpg 'Molly Kool, the first woman in, North America, to qualify to be a deep sea captain, in 1937.')](https://en.wikipedia.org/wiki/Molly_Kool#/media/File:Molly_Kool,_the_first_woman_in,_North_America,_to_qualify_to_be_a_deep_sea_captain,_in_1937_(cropped).jpg 'Molly Kool, the first woman in, North America, to qualify to be a deep sea captain, in 1937.')
 
-El agua salada lleva corriendo por las venas de los Branningans desde hace generaciones. Siempre han estado ligados al mar desde tiempos de Drake. Cuando la Fundación en 1916 compro el viejo carguero "Ambassador" y le cambió el nombre por el "Mary Anning" contrataron a la capitana Dolores como parte del contrato de compraventa.
+El agua salada lleva corriendo por las venas de los Branningans desde hace generaciones. Siempre han estado ligados al mar desde tiempos de Drake. Cuando la Fundación en 1916 compro el viejo carguero «Ambassador» y le cambió el nombre por el «Mary Anning» contrataron a la capitana Dolores como parte del contrato de compraventa.
 
 Dolores lleva toda la vida en un barco y cuando pisa tierra firme está rara e incómoda. Espera retirarse a alguna isla del Caribe bebiendo ron y bailando bachata.
 
@@ -2903,7 +2903,7 @@ Puede reparar lo que sea y en tiempo récord y si le das el equipo adecuado pued
 
 Wayland no es su nombre verdadero, fue el mote que le pusieron en la Fundación al ver sus asombrosas capacidades con herrero e ingeniero. Su auténtico nombre es Marcus Tosh.
 
-La Fundación le reclutó, cuando el "Mary Anning" tuvo que hacer reparaciones en Jamaica tras una terrible tormenta. Resucito de entre los muertos el motor del barco y consiguió mejorar su rendimiento un 5%.  
+La Fundación le reclutó, cuando el «Mary Anning» tuvo que hacer reparaciones en Jamaica tras una terrible tormenta. Resucito de entre los muertos el motor del barco y consiguió mejorar su rendimiento un 5%.  
 
 * **Atributos:** Agilidad d6, Astucia d10, Espíritu d8, Fuerza d8, Vigor d10
 * **Habilidades:** Atletismo d6, Ciencias d8, Conocimientos Generales d6, Disparar d6, Idioma Inglés d8, Idioma Español d4, Interpretar d6, Notar d8, Pelear d6, Persuadir d4, Reparar d12, Sigilo d6
@@ -2971,7 +2971,7 @@ Jocelyn será un personaje importante en dos escenarios de esta campaña, la Fra
 ### Arntine Cornelia Marie Edvardsdatter Lyngstad, campesina noruega convertida en espía inglesa &#x2638;
 [![Primer plano de Arntine Lyngstad en su juventud](./assests/images/arntine.jpg 'Aud Egede Nissen - Alexander Binder')](https://en.wikipedia.org/wiki/Aud_Egede-Nissen#/media/File:Aud_Egede_Nissen_Binder.jpg 'Aud Egede Nissen - Alexander Binder')
 
-Arntine Lyngstad es una paria entre su gente, su hija Synni es una "tyskerhoren" (zorras de los alemanes), mujeres nórdicas que se juntaron con soldados alemanes dentro de programas de mejora de la raza aria. Cuando su yerno desapareció en combate en el mar del Norte, su hija embarazada de una niña y ella perdieron el apoyo del gobierno nazi y también fueron repudiadas por sus compatriotas.
+Arntine Lyngstad es una paria entre su gente, su hija Synni es una «tyskerhoren» (zorras de los alemanes), mujeres nórdicas que se juntaron con soldados alemanes dentro de programas de mejora de la raza aria. Cuando su yerno desapareció en combate en el mar del Norte, su hija embarazada de una niña y ella perdieron el apoyo del gobierno nazi y también fueron repudiadas por sus compatriotas.
 
 Esta situación fue aprovechada por IM para convertir a Arntine en uno de sus colaboradores a cambio de una paga y la promesa de poder ir a vivir en Inglaterra después de la guerra.
 
@@ -2979,7 +2979,7 @@ Siguiendo órdenes de los ingleses, Arntine se movió por todo el país trabajan
 
 Ahora mismo está viviendo en la zona de Telemark y al ser el agente inglés de menor valía se le ha puesto a trabajar con los comandos de la fundación Roxton, ya que su perdida no supone ninguna perdida importante.
 
-> La niña que Synni lleva es su vientre es Frida, la cantante morena de grupo ABBA. Gracias a tus comandos todos podemos cantar "Mamma Mia" o "Waterloo".
+> La niña que Synni lleva es su vientre es Frida, la cantante morena de grupo ABBA. Gracias a tus comandos todos podemos cantar «Mamma Mia» o «Waterloo».
 
 * **Atributos:** Agilidad d6, Astucia d8, Espíritu d12, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d6, Conocimientos Generales d8, Idioma Noruego d8, Investigar d8, Notar d8, Pelear d6, Persuadir d8, Sigilo d8
@@ -3080,7 +3080,7 @@ xxx
 ### Günther Prien, capitán de submarino &#x2638;
 [![Primer plano de Günther Prien](./assests/images/prien.jpg 'Kapitänleutnant Prien 6534-40 - Bundesarchiv')](https://es.wikipedia.org/wiki/G%C3%BCnther_Prien#/media/Archivo:Bundesarchiv_Bild_183-2006-1130-500,_Kapit%C3%A4nleutnant_G%C3%BCnther_Prien.jpg 'Kapitänleutnant Prien 6534-40 - Bundesarchiv')
 
-[Günther Prien](https://es.wikipedia.org/wiki/G%C3%BCnther_Prien) es una de los mejores caza barcos de la marina nazi. Su sola mención hace que cualquier tripulación se "santigüe" y le rece a sus dioses. 
+[Günther Prien](https://es.wikipedia.org/wiki/G%C3%BCnther_Prien) es una de los mejores caza barcos de la marina nazi. Su sola mención hace que cualquier tripulación se «santigüe» y le rece a sus dioses. 
 
 A pesar de sus orígenes humildes, pudo entrar en la escuela de oficiales de la Kaiserliche Marine, llegando a ser uno de sus capitanes de corbeta más jóvenes. 
 
@@ -3137,8 +3137,8 @@ Hablamos de todo tipo de especialista en cualquier campo de la ciencia, desde pa
 * **Desventajas:** Elige 1 (Avergonzado, Despistado, Fobia, Patoso)
 * **Equipo:** Equipo científico adecuado a su especialidad y material de escritura
 
-### Tripulante del "Mary Anning"
-Los y las tripulantes del "Mary Anning" son de lo mejor que la marina mercante puede ofrecer. Saben enfrentarse con valentía a lo que el mar les pueda echar y no son capaces de saltarse bloqueos marítimos y meter contrabando sin que los nazis lo detecten. Hablan inglés y español de sus constantes viajes a Sudamérica.
+### Tripulante del «Mary Anning»
+Los y las tripulantes del «Mary Anning» son de lo mejor que la marina mercante puede ofrecer. Saben enfrentarse con valentía a lo que el mar les pueda echar y no son capaces de saltarse bloqueos marítimos y meter contrabando sin que los nazis lo detecten. Hablan inglés y español de sus constantes viajes a Sudamérica.
 
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d6, Fuerza d6, Vigor d8
 * **Habilidades:** Atletismo d6, Conocimientos Generales d6, Dispara d6, Latrocinio d6, Idioma Español d6, Idioma Inglés d6, Navegar d6, Notar d6, Pelear d6, Persuadir d4, Reparar d6, Sigilo d4, Supervivencia d6
@@ -3280,7 +3280,7 @@ Los oscuros callejones de las grandes ciudades están llenas de este tipo de per
 \saltopagina
 
 ## Dinosaurios del Mundo Perdido
-Las diferentes expediciones que han visitado el Mundo perdido han encontrado solo un limitado número de saurios, exactamente 8 además de 4 especies de animales "antediluvianos" incluido unos homínidos y unos humanos prehistóricos. 
+Las diferentes expediciones que han visitado el Mundo perdido han encontrado solo un limitado número de saurios, exactamente 8 además de 4 especies de animales «antediluvianos» incluido unos homínidos y unos humanos prehistóricos. 
 
 Que no hayan sido encontradas, no quiere decir que en la tierra de Maple White no existan, así que siéntete libre de meter todas las especies nuevas que quieras.
 
@@ -3320,7 +3320,7 @@ Sus potentes piernas también le convierten en el dinosaurio terrestre más ráp
 
 \saltopagina
 
-[![Dibujo de un estegosaurio](./assests/images/estegosaurio.jpg 'Life restoration of the "Sophie" Stegosaurus specimen - Fred Wierum')](https://es.wikipedia.org/wiki/Stegosaurus#/media/Archivo:Stegosaurus_stenops_Life_Reconstruction.png 'Life restoration of the "Sophie" Stegosaurus specimen - Fred Wierum')
+[![Dibujo de un estegosaurio](./assests/images/estegosaurio.jpg 'Life restoration of the «Sophie» Stegosaurus specimen - Fred Wierum')](https://es.wikipedia.org/wiki/Stegosaurus#/media/Archivo:Stegosaurus_stenops_Life_Reconstruction.png 'Life restoration of the «Sophie» Stegosaurus specimen - Fred Wierum')
 
 
 ### Estegosaurio
@@ -3607,7 +3607,7 @@ Seguramente nadie llegue a leer este apartado, pero aquí os dejo información, 
 Simplemente, porque me encanta Savage Worlds, es uno de los sistemas genéricos de juegos de rol con el que más cómodo me siento. Si voy a meterle muchas horas a esta campaña quiero hacerlo con un RPG que me sea fácil y familiar.
 
 ### ¿Por qué dinosaurios contra nazis?
-Toda esta campaña es principalmente producto de mi gusto por los crossover en diferentes géneros. Puede parecer increíble, pero es una mezcla entre mi gusto por películas bélicas como La gran evasión, Los cañones de Navarone o El desafío de las águilas y querer poder meter algo parecido a Pokémon pero sin derechos. Es por ello que escogí dinosaurios, que tienen un rollo Pokémon. Son criaturas "fantásticas" con capacidades muy especiales que no tienen el resto de seres vivos. 
+Toda esta campaña es principalmente producto de mi gusto por los crossover en diferentes géneros. Puede parecer increíble, pero es una mezcla entre mi gusto por películas bélicas como La gran evasión, Los cañones de Navarone o El desafío de las águilas y querer poder meter algo parecido a Pokémon pero sin derechos. Es por ello que escogí dinosaurios, que tienen un rollo Pokémon. Son criaturas «fantásticas» con capacidades muy especiales que no tienen el resto de seres vivos. 
 
 Y sinceramente porque los dinosaurios molan.
 
@@ -3644,7 +3644,7 @@ He tratado de que haya diversidad entre PNJ con todo tipo de opciones de género
 ### Maltrato animal
 Estoy totalmente en contra del maltrato animal y espero que las personas que vayan a jugar esta campaña sientan el mismo respeto que yo por los animales y el medio ambiente en general. Mi idea al crear esta campaña es que los dinosaurios fueran personajes importantes en la trama que luchen y sufran como los PJ y que se haga lo que sea necesario para protegerlos y viceversa. 
 
-La muerte de un dinosaurio no puede ser algo banal, debe tener una justificación y ser importante en una trama, ya que son tan importantes como los PJ de las personas de tu mesa. Si en tu mesa se usan a los compañeros dinosaurios como objetos de usar tirar y donde no importa si sufren o mueren, tómatelo como una tremenda "red flag".  
+La muerte de un dinosaurio no puede ser algo banal, debe tener una justificación y ser importante en una trama, ya que son tan importantes como los PJ de las personas de tu mesa. Si en tu mesa se usan a los compañeros dinosaurios como objetos de usar tirar y donde no importa si sufren o mueren, tómatelo como una tremenda «red flag».  
 
 Para aportar mi granito de arena os diré que el servidor donde se aloja esta ambientación es un servidor verde certificado por la [Green Web Foundation](https://www.thegreenwebfoundation.org/green-web-check/?url=https%3A%2F%2Fmundoperdido.gwannon.com%2F).
 
@@ -3652,7 +3652,7 @@ Para aportar mi granito de arena os diré que el servidor donde se aloja esta am
 El suicidio es un tema tratado, aunque sea un poco de pasada, en esta campaña. Es un tema espinoso que no debemos tomarlo a la ligera. Es por ello que creo que ser cuidadoso a la hora de mostrarlo o eliminarlo si crees que no tu mesa no está preparado. Como decimos más adelante establece si lo ves necesarios los velos y las herramientas de seguridad necesarias para tratarlo.
 
 ### Fascismo y nazismo
-Esta campaña va de joder los malvados planes de los nazis, así que cualquier tipo de actividad en partida que suponga simpatizar con nazis y fascistas y su ideología debería ser una "red flag" clarísima. Si tus compañeros y compañeras de mesa ensalzan de alguna manera las ideas de nazis y fascistas, deberías levantarte e irte y si eres tú, él o la que las ensalza que sepas que eres un pedazo de mierda. 
+Esta campaña va de joder los malvados planes de los nazis, así que cualquier tipo de actividad en partida que suponga simpatizar con nazis y fascistas y su ideología debería ser una «red flag» clarísima. Si tus compañeros y compañeras de mesa ensalzan de alguna manera las ideas de nazis y fascistas, deberías levantarte e irte y si eres tú, él o la que las ensalza que sepas que eres un pedazo de mierda. 
 
 ### Licencias con la obra original
 Me he tomado una serie de licencias con la obra original de Sir Arthur Conan Doyle a la hora de desarrollar esta campaña que pueden resumirse en los siguientes puntos:
@@ -3672,22 +3672,22 @@ Me he tomado una serie de licencias con la obra original de Sir Arthur Conan Doy
 ### Imágenes
 No soy propietario de ninguna de las imágenes de este documento. Estoy usando imágenes con licencia CC y atribuyéndola a su propietario. Si hay algún error, hacédmelo saber para corregirlo. Estas son las imágenes que por diseño no he podido atribuir de manera adecuada enlazándolas correctamente.
 
-* [Portada "Hace 65 millones de años los dinosaurios dominaron la Tierra ..."](https://en.wikipedia.org/wiki/Charles_R._Knight)
-* [Portada "La fundación Roxton"](https://www.pexels.com/zh-cn/photo/brown-concrete-building-near-body-of-water-6726778/)
-* [Portada "Acerca de los dinosaurios"](https://en.wikipedia.org/wiki/Charles_R._Knight)
-* [Portada "Reglas especiales para la campaña"](https://www.kcl.ac.uk/behind-the-few-the-womens-auxiliary-air-force-and-their-contribution-to-british-intelligence-during-the-second-world-war)
-* [Portada "La campaña"](https://es.wikipedia.org/wiki/El_mundo_perdido_(pel%C3%ADcula_de_1925)#/media/Archivo:The_Lost_World_(1925)_-_film_poster.jpg)
-* [Portada "Parte 1: La isla de Skye"](https://pixabay.com/es/photos/isla-de-skye-escocia-gran-breta%C3%B1a-4415029/)
-* [Portada "Parte 2: Norte de África"](https://en.wikipedia.org/wiki/Siege_of_Tobruk#/media/File:Men_of_the_Leicestershire_Rgt._man_a_Bren_gun_near_Tobruk.jpg)
-* [Portada "Parte 3: Islas Orcadas"](https://upload.wikimedia.org/wikipedia/commons/c/ce/Graf_Spee_Wreck_USNphoto_1.jpg)
-* [Portada "Parte 4: Noruega"](https://www.nia.no/en/the-saboteurs/)
-* [Portada "Parte 5: La Francia Ocupada"](https://en.wikipedia.org/wiki/Battle_of_Saint-Malo#/media/File:Bomb_exploding_during_the_Battle_of_Saint-Malo_August_1944.jpg)
-* [Portada "Parte 6: El frente ruso"](https://es.wikipedia.org/wiki/Batalla_de_Stalingrado#/media/Archivo:RIAN_archive_602161_Center_of_Stalingrad_after_liberation.jpg)
-* [Portada "Parte 7: Regreso a casa"](https://garystockbridge617.getarchive.net/amp/media/agare1939-44-1949-58-seereederei-frigga-ag-hemort-hamburg-7e3056)
-* [Portada "Parte 8: Regreso al mundo perdido"](https://es.wikipedia.org/wiki/Roraima_(tepuy)#/media/Archivo:Los_Jacuzzis.jpg)
-* [Portada "Parte 9: La Selva Negra"](https://www.pexels.com/photo/a-view-of-the-hohenzollern-castle-in-germany-13127331/)
-* [Portada "Relatos salvajes"](https://pixabay.com/es/photos/mapa-tierra-sudamerica-geograf%C3%ADa-428639/)
-* [Portada "Aliados, antagonistas y dinosaurios"](https://ca.m.wikipedia.org/wiki/Fitxer:%CE%93%CF%85%CE%BD%CE%B1%CE%AF%CE%BA%CE%B5%CF%82_%CF%83%CF%84%CF%81%CE%B1%CF%84%CE%B9%CF%8E%CF%84%CE%B5%CF%82_%CF%84%CE%BF%CF%85_%CE%95%CE%9B%CE%91%CE%A3.jpg)
+* [Portada «Hace 65 millones de años los dinosaurios dominaron la Tierra ...»](https://en.wikipedia.org/wiki/Charles_R._Knight)
+* [Portada «La fundación Roxton»](https://www.pexels.com/zh-cn/photo/brown-concrete-building-near-body-of-water-6726778/)
+* [Portada «Acerca de los dinosaurios»](https://en.wikipedia.org/wiki/Charles_R._Knight)
+* [Portada «Reglas especiales para la campaña»](https://www.kcl.ac.uk/behind-the-few-the-womens-auxiliary-air-force-and-their-contribution-to-british-intelligence-during-the-second-world-war)
+* [Portada «La campaña»](https://es.wikipedia.org/wiki/El_mundo_perdido_(pel%C3%ADcula_de_1925)#/media/Archivo:The_Lost_World_(1925)_-_film_poster.jpg)
+* [Portada «Parte 1: La isla de Skye»](https://pixabay.com/es/photos/isla-de-skye-escocia-gran-breta%C3%B1a-4415029/)
+* [Portada «Parte 2: Norte de África»](https://en.wikipedia.org/wiki/Siege_of_Tobruk#/media/File:Men_of_the_Leicestershire_Rgt._man_a_Bren_gun_near_Tobruk.jpg)
+* [Portada «Parte 3: Islas Orcadas»](https://upload.wikimedia.org/wikipedia/commons/c/ce/Graf_Spee_Wreck_USNphoto_1.jpg)
+* [Portada «Parte 4: Noruega»](https://www.nia.no/en/the-saboteurs/)
+* [Portada «Parte 5: La Francia Ocupada»](https://en.wikipedia.org/wiki/Battle_of_Saint-Malo#/media/File:Bomb_exploding_during_the_Battle_of_Saint-Malo_August_1944.jpg)
+* [Portada «Parte 6: El frente ruso»](https://es.wikipedia.org/wiki/Batalla_de_Stalingrado#/media/Archivo:RIAN_archive_602161_Center_of_Stalingrad_after_liberation.jpg)
+* [Portada «Parte 7: Regreso a casa»](https://garystockbridge617.getarchive.net/amp/media/agare1939-44-1949-58-seereederei-frigga-ag-hemort-hamburg-7e3056)
+* [Portada «Parte 8: Regreso al mundo perdido»](https://es.wikipedia.org/wiki/Roraima_(tepuy)#/media/Archivo:Los_Jacuzzis.jpg)
+* [Portada «Parte 9: La Selva Negra»](https://www.pexels.com/photo/a-view-of-the-hohenzollern-castle-in-germany-13127331/)
+* [Portada «Relatos salvajes»](https://pixabay.com/es/photos/mapa-tierra-sudamerica-geograf%C3%ADa-428639/)
+* [Portada «Aliados, antagonistas y dinosaurios»](https://ca.m.wikipedia.org/wiki/Fitxer:%CE%93%CF%85%CE%BD%CE%B1%CE%AF%CE%BA%CE%B5%CF%82_%CF%83%CF%84%CF%81%CE%B1%CF%84%CE%B9%CF%8E%CF%84%CE%B5%CF%82_%CF%84%CE%BF%CF%85_%CE%95%CE%9B%CE%91%CE%A3.jpg)
 * [Epílogo](https://commons.wikimedia.org/wiki/File:Dinosaur_footprint_%284056320716%29.jpg)
 
 \saltopagina
@@ -3723,7 +3723,7 @@ Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage
 #### Tras el Mundo Perdido
 Creado por [Gwannon](https://gwannon.itch.io/)
 
-"OPERACIÓN: Tras el Mundo Perdido" es una campaña de puntos argumentales donde lucharás contra nazis a lomos de dinosaurios.
+«OPERACIÓN: Tras el Mundo Perdido» es una campaña de puntos argumentales donde lucharás contra nazis a lomos de dinosaurios.
 
 Este libro contiene:
 
