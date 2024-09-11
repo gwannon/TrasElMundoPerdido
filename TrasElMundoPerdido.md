@@ -265,7 +265,7 @@ Tras muchos años de estudio se han ido creando una serie de hábitats para cada
 * **Acantilados del oeste** de la isla es la zona de anidación de los pteranodontes.
 * Aprovechando unas **piscinas naturales** en una de tantas calas de la isla se ha montado un hábitat para los saurios acuáticos.
 * Las **praderas sur de la reserva** son perfectas para los estegosaurios y los iguanodontes que parecen no tener problemas con las vacas y ovejas que había en los terrenos de la Fundación.
-* Las **praderas norte de la isla** son los dominios de los carnívoros. Se aprovechó una de las penínsulas de la isla que tenía un macizo rocoso en su istmo poniendo muros y rejas en el único paso que hay, por la costa sur de la península. El macizo tiene un sistema de cuevas naturales que sirven de refugio.
+* Las **praderas norte de la isla** son los dominios de los carnívoros. Se aprovechó una de las penínsulas de la isla que tenía un macizo rocoso en su istmo, poniendo muros y rejas en el único paso que hay, por la costa sur de la península. El macizo tiene un sistema de cuevas naturales que sirven de refugio.
 
 Los saurios terrestres están en semilibertad, ya que pueden moverse por extensas zonas, pero no pueden salir de la isla y están controlados por los guardabosques de la Fundación. Aún pudiendo moverse casi libremente por la isla, los ataques a humanos casi no existen. Saben que los humanos les son más útiles vivos que muertos y mientras se les tenga bien alimentados, solo los especímenes jóvenes de los carnívoros han dado algún problema.
 
@@ -273,7 +273,7 @@ Los acuáticos y voladores pueden moverse fuera de la isla sin problemas, pero e
 
 \saltopagina
 
-La Fundación, como santuario natural, paga a los pescadores locales para que no faenen en la zona, por ello, los bancos de peces que sirven de alimento a plesiosaurios, ictiosaurios y pteranodontes son muy abundantes. Ante esta situación muy pocos ejemplares han querido alejarse de la isla.
+La Fundación, como santuario natural, paga a los pescadores locales para que no faenen en la zona, por ello, los bancos de peces que sirven de alimento a plesiosaurios, ictiosaurios y pteranodontes son muy abundantes. Ante esta situación, muy pocos ejemplares han querido alejarse de la isla.
 
 #### Castillo de Dunvegan
 Este castillo fue alquilado por Lord Roxton a la familia McLeod y las zonas que estaban catalogadas como protegidas fue acondicionado como oficinas, dormitorios y salas de estar para los trabajadores de la Fundación. Lady Roxton usa las dependencias principales como sus aposentos. 
@@ -286,23 +286,23 @@ La única línea de teléfono de la isla está en el castillo y Lady Roxton ha p
 
 &nbsp;
 
-IM ha dejado cerca, pero no en el propio castillo artillería anti-área, pero nunca ha llegado tan lejos una aeronave nazi.
+IM ha dejado cerca, pero no en el propio castillo, artillería anti-área, aunque claro una aeronave nazi nunca ha llegado tan lejos.
 
 \saltopagina
 
 #### La forja de Wayland
 Este taller y forja está dirigido por Wayland (su mote en la forja), un herrero/ingeniero que la Fundación enroló para hacer todos los artilugios y piezas de metal que necesitan en la isla, desde rejas o cadenas o bardas y escudos.
 
-El taller está construido en una vieja forja, pero las instalaciones están totalmente modernizadas, hornos y equipamiento eléctrico y capacidad de trabajar con todo tipo de materiales desde acero hasta cerámica, baquelita o titanio.
+El taller está construido en una vieja forja, pero las instalaciones están totalmente modernizadas, hornos y equipamiento eléctrico y capacidad de trabajar con todo tipo de materiales, desde acero hasta cerámica, baquelita o titanio.
 
 #### Hospital de dinosaurios
 Además de un pequeño hospital para humanos (los casos más graves se llevan al de Inverness), cuenta con un completísimo hospital para saurios totalmente adaptado a su fisiología y tamaño. Hay establos de recuperación, quirófanos reforzados para los más grandes, máquinas de rayos-x para diferentes especies, etc.
 
-El hospital tiene un pequeño laboratorio para todo tipo de experimentos y pruebas y se usaban laboratorios privados para estudios más complejos. Con la participación de la Fundación en misiones las pruebas complicadas son enviadas a IM y desde allí se encargan de realizarlas. 
+El hospital tiene un pequeño laboratorio para todo tipo de experimentos y pruebas y se usaban laboratorios privados para estudios más complejos. Con la participación de la Fundación en misiones secretas, las pruebas complicadas son enviadas a IM y desde allí se encargan de realizarlas. 
 
 #### Otras instalaciones
 
-* En el Castillo Dunvegan está la mayor biblioteca de paleontología del mundo con muchos tratados que han hecho los trabajadores de la Fundación investigando los saurios en la meseta y en Skye.
+* En el Castillo Dunvegan está la mayor biblioteca de paleontología del mundo, con muchos tratados que han hecho los trabajadores de la Fundación investigando los saurios en la meseta y en Skye.
 * Cala de fondeo y embarque del «Mary Anning».
 * Hay varios jeeps todoterreno para mover y controlar las manadas de saurios y moverse por la reserva. 
 * Hay varias granjas normales con maquinaria agrícola donde se crían animales para alimentar carnívoros y diferentes frutas y verduras para los herbívoros. También abastecen de comida al personal de la Fundación.
@@ -386,7 +386,7 @@ De media hay unas 20 personas viviendo en un enclave de unos 10 pabellones. Son 
 
 Esta comunidad permanente de investigaciones ha establecido relaciones con los sakala y han tenido éxito en sus primeros intercambios culturales y comerciales, siguiendo siempre los protocolos establecidos por la Fundación.
 
-Este enclave se sitúa al sur del Lago Central que les provee de pesca y agua. Esto les permite estudiar los saurios acuáticos y estar lo suficientemente lejos de los habitantes de las cuevas para no molestarlos ni interferir en su día a día, pero lo suficientemente cerca para estudiarlos tenerlos controlados. 
+Este enclave se sitúa al sur del Lago Central que les provee de pesca y agua. Esto les permite estudiar los saurios acuáticos y estar lo suficientemente lejos de los habitantes de las cuevas para no molestarlos ni interferir en su día a día, pero lo suficientemente cerca para estudiarlos tenerlos y controlados. 
 
 Listado normal de residentes:
 * 
@@ -398,8 +398,7 @@ Listado normal de residentes:
 * Un/a doctor/a y su ayudante
 * Dos cazadores/as encargados de proteger el enclave y conseguir alimento
 
-La Fundación paga grandes sumas de dinero a las autoridades venezolanas para que eviten que se acerquen al mundo perdido cualquier tipo de expedición o que sobrevuelen vuelos comerciales. En teoría posee los derechos de explotación mineral y forestal de la zona a través de varias empresas fantasma de forma que nadie puede tener intereses económicos en la zona porque no puede explotarlos.
-
+La Fundación paga grandes sumas de dinero a las autoridades venezolanas para que eviten que se acerquen al mundo perdido cualquier tipo de expedición o que sobrevuelen vuelos comerciales. En teoría posee los derechos de explotación mineral y forestal de la zona a través de varias empresas fantasma, de forma que nadie puede tener intereses económicos en la zona porque no puede explotarlos.
 
 ### Recursos económicos y no económicos
 La fundación Roxton tienes unos recursos increíbles, ya que se ha dedicado durante años a extraer diamantes de la arcilla azul del pantano del Mundo Perdido. 
@@ -408,7 +407,7 @@ Pero todo esto se ha hecho bajo el más absoluto secreto, de forma que nadie sep
 
 Salvo casos especiales, la Fundación Roxton puede conseguir cualquier tipo de material y producto legal y contratar a cualquier persona que sea necesaria.
 
-Como curiosidad todos los trabajadores de la Fundación tienen un seguro de vida contratado con Guardian Assurance Company de Londres de 100.000 libras en caso de incapacidad y de 300.000 de libras para sus familias en caso de deceso.
+Como curiosidad, todos los trabajadores de la Fundación tienen un seguro de vida contratado con Guardian Assurance Company de Londres de 100.000 libras en caso de incapacidad y de 300.000 de libras para sus familias en caso de deceso.
 
 Y lo que el dinero de la Fundación no puede conseguir, la IM puede conseguirlo legal o ilegalmente, pero en ese caso siempre será bajo su control y supervisión. La IM puede agilizar burocracias, conseguir permisos especiales o accesos a la última tecnología de guerra.
 
@@ -430,28 +429,28 @@ El carácter de los dinosaurios tiene una gran parte marcada por su especie y fi
 A priori, los carnívoros son más agresivos en general. En la naturaleza son cazadores solitarios, con lo que es difícil tratar de coordinarlos con otras especies tanto porque las ven como competidores o como presas.
 
 ### Carnívoros acuáticos
-Los acuáticos suelen ser más distantes. Vivimos en mundos distintos y eso hace que no entiendan tanto a los humanos como a los dinosaurios terrestres o aéreos. Sin embargo, como cazan normalmente en manadas trabajan muy bien entre ellos.
+Los acuáticos suelen ser más distantes. Vivimos en mundos distintos y eso hace que no entiendan tanto a los humanos como a los dinosaurios terrestres o aéreos. Sin embargo, como cazan normalmente en manadas, trabajan muy bien entre ellos.
 
 ### Carnívoros aéreos
-Los pteranodontes tienen a ser bastante competitivos entre ellos buscando ser el más rápido y mejor cazador y con ello establecer sus relaciones de poder. Esto junto a su capacidad de vuelo hace que sean bastante molestos. Pueden pasarse horas mirando quién de ellos puede chinchar más a un carnívoro para salir volando cuando estos se enfadan y les atacan. Pero esa capacidad de vuelo ha hecho también que sean un poco cobardes en general, huyendo a la mínima. Sin embargo son más valientes y atrevidos en grupo.
+Los pteranodontes tienen a ser bastante competitivos entre ellos, buscando ser el más rápido y mejor cazador y con ello establecer sus relaciones de poder. Esto junto a su capacidad de vuelo hace que sean bastante molestos. Pueden pasarse horas mirando quién de ellos puede chinchar más a un carnívoro para salir volando cuando estos se enfadan y les atacan. Pero esa capacidad de vuelo ha hecho también que sean un poco cobardes en general, huyendo a la mínima. Sin embargo, son más valientes y atrevidos en grupo.
 
 \saltopagina
 
 ### Herbívoros
-Son quizás los menos agresivos, pero pueden ser tremendamente agresivos cuando tienen que proteger a su manada y sus crías. Tampoco son los más listos, pero establecen fuertes lazos sociales entre ellos y los humanos formando entre todos una manada y como ya hemos dicho harán lo que sea para proteger a su manada. Otra de sus características es trabajan bien en equipo. Varios estegosaurios protegiendo una zona con sus colas llenas de pinchos es un espectáculo digno de ver, por no hablar de varios iguanodontes corriendo a los lados de un JEEP para protegerlo de enemigos. 
+Son quizás los menos agresivos, pero pueden ser tremendamente agresivos cuando tienen que proteger a su manada y sus crías. Tampoco son los más listos, pero establecen fuertes lazos sociales entre ellos y los humanos, formando entre todos una manada y como ya hemos dicho, harán lo que sea para proteger a su manada. Otra de sus características es trabajan bien en equipo. Varios estegosaurios protegiendo una zona con sus colas llenas de pinchos es un espectáculo digno de ver, por no hablar de varios iguanodontes corriendo a los lados de un JEEP para protegerlo de enemigos. 
 
 &nbsp;
 
 [![Boceto de un nido alosaurios al que están robando los huevos](./assests/images/nido.jpg 'The Horrors of Thieving by FredTheDinosaurman')](https://www.deviantart.com/fredthedinosaurman/art/The-Horrors-of-Thieving-682621092 'The Horrors of Thieving by FredTheDinosaurman')
 
 ## Vida de los dinosaurios
-Los saurios traídos de la tierra de Maple White son diurnos con lo que realizan toda su actividad principalmente de día, pero eso no quiere decir que no estén activos de noche. Pueden realizar todo tipos de tareas de noche, ya que son de sangre caliente y pueden regular su temperatura incluso sin sol, pero como los humanos no están adaptados a moverse de noche. 
+Los saurios traídos de la tierra de Maple White son diurnos, con lo que realizan toda su actividad principalmente de día, pero eso no quiere decir que no estén activos de noche. Pueden realizar todo tipo de tareas de noche, ya que son de sangre caliente y pueden regular su temperatura incluso sin sol, pero como los humanos no están adaptados a moverse de noche. 
 
-El plumaje/plumón que tienen algunos de ellos les permite resistir en climas más fríos de lo que se pensaría a priori y también soportar las altas temperaturas. Así pues, pueden sobrevivir en una gran variedad de ambientes y climas desde la nieve hasta el desierto.
+El plumaje/plumón que tienen algunos de ellos les permite resistir en climas más fríos de lo que se pensaría a priori y también soportar las altas temperaturas. Así pues, pueden sobrevivir en una gran variedad de ambientes y climas, desde la nieve hasta el desierto.
 
 \saltopagina
 
-La esperanza normal de vida de un dinosaurio está entre 20 y 30 años variando según especies. En general cuanto mayor tamaño tienen más viven, pero tardan también más en llegar a su tamaño adulto. Según estudios hechos en los dinosaurios de la Fundación y en pruebas de campo en la meseta de Maple White, un alosaurio puede vivir hasta los 30 y pico años, pero no conseguirá su tamaño de adulto hasta pasados los 20 años.  
+La esperanza normal de vida de un dinosaurio está entre 20 y 30 años, variando según especies. En general, cuanto mayor tamaño tienen más viven, pero tardan también más en llegar a su tamaño adulto. Según estudios hechos en los dinosaurios de la Fundación y en pruebas de campo en la meseta de Maple White, un alosaurio puede vivir hasta los 30 y pico años, pero no conseguirá su tamaño de adulto hasta pasados los 20 años.  
 
 Todas estas especies construyen nidos y ponen huevos en ellos. Los incuban entre 3 y 6 meses. Las crías empiezan a ser independientes de sus padres a partir del año.
 
@@ -475,7 +474,7 @@ Los dinosaurios atienden a órdenes muy sencillas en estas situaciones como «si
 Aunque parezca que animales de varias toneladas no pueden esconderse, piensa que durante millones de años la evolución ha ido afilando sus capacidades para el sigilo, tanto los herbívoros para esconderse y no ser atacados, como para los carnívoros con su capacidad de tender emboscadas a sus presas. Ten en cuenta, además, que tienen su camuflaje natural y que la Fundación ha desarrollado diferentes inventos para mejorar su capacidad de infiltrarse.
 
 ### Misiones de reconocimiento aéreo
-Como dinosaurios voladores estas misiones son cosa de los pteranodontes. Estos saurios voladores han aprendido mediante refuerzo positivo a ir de un humano origen a otro humano destino en más o menos línea recta hasta unos 3 o 4 km. 
+Como dinosaurios voladores, estas misiones son cosa de los pteranodontes. Estos saurios voladores han aprendido mediante refuerzo positivo a ir de un humano origen a otro humano destino en más o menos línea recta hasta unos 3 o 4 km. 
 
 A partir de ahí solo hay que poner un arnés con cámaras de fotos de precisión con autodisparador y se puede sacar fotos de las instalaciones que el pteranodonte sobrevuele.
 
@@ -489,20 +488,20 @@ Con el arnés adecuado, un buzo puede sujetarse a un saurio acuático y moverse 
 Por otro lado, han sido entrenados para enseñarles un objeto y ellos buscar en el fondo de su piscina un objeto parecido y traerlo. Incluso podrían colaborar dos saurios si necesitan mover un objeto pesado o con forma difícil de manejar.
 
 ### Misiones de combate
-Si bien, hablamos de perfectas máquinas de guerra, su competencia son todos el intelecto humano en forma de armas de fuego y explosivos, barcos de guerra, tanques y aviones de combate. A priori, un alosaurio o un megalosaurio no es rival para un tanque en combate directo, pero este puede acechar al tanque durante días, seguirle por cualquier tipo de terreno y cuando los ocupantes salen a repostar ser devorados vivos.
+Si bien, hablamos de perfectas máquinas de guerra, su competencia son todos el intelecto humano en forma de armas de fuego y explosivos, barcos de guerra, tanques y aviones de combate. A priori, un alosaurio o un megalosaurio no es rival para un tanque en combate directo, pero este puede acechar al tanque durante días, seguirle por cualquier tipo de terreno y cuando los ocupantes salen a repostar, ser devorados vivos.
 
-Los estegosaurios y los iguanodontes tampoco se quedan atrás. Son seres que han aprendido a sobrevivir en un ambiente muy peligroso con lo que están dotados de poderosas armas como sus colas con pinchos. Solamente con su peso y su dura piel pueden hacer frente a un pelotón de soldados nazis sin sufrir más que algunos rasguños.
+Los estegosaurios y los iguanodontes tampoco se quedan atrás. Son seres que han aprendido a sobrevivir en un ambiente muy peligroso, con lo que están dotados de poderosas armas como sus colas con pinchos. Solamente con su peso y su dura piel pueden hacer frente a un pelotón de soldados nazis sin sufrir más que algunos rasguños.
 
 \saltopagina
 
-Por último los pteranodontes e ictiosaurios y plesiosaurios son muy peligrosos en su medio. Quizás no puedan derribar un UBoat o un Messerschmidt. Pero un buzo no es rival para un ictiosaurio y un pteranodonte puede atrapar a un soldado nazi, elevarse hasta 100 metros y dejarlo caer en unos pocos segundos.
+Por último, los pteranodontes e ictiosaurios y plesiosaurios son muy peligrosos en su medio. Quizás no puedan derribar un UBoat o un Messerschmidt. Pero un buzo no es rival para un ictiosaurio y un pteranodonte puede atrapar a un soldado nazi, elevarse hasta 100 metros y dejarlo caer en unos pocos segundos.
 
 La Fundación ha entrenado a los saurios para obedecer órdenes como «ataca», «auxilio» o «huye», aunque ten claro que tu compañero difícilmente huirá si estás en peligro.
 
 ### Misiones de rescate
 Las misiones de rescate pueden ser de cualquier índole y no tienen un equipo perfecto. Siempre depende de las circunstancias del rescate, no es lo mismo rescatar a unos rehenes en un tren en marcha que asaltar un castillo bávaro usado como prisión.
 
-Lo que si tienes que saber es que siempre necesitarás dos tipos de dinosaurio, el que rescate al objetivo y el que te permita que el anterior rescate al objetivo.
+Lo que sí tienes que saber es que siempre necesitarás dos tipos de dinosaurio, el que rescate al objetivo y el que te permita que el anterior rescate al objetivo.
 
 Siguiendo con los ejemplos anteriores, puedes usar la fuerza y la agilidad del iguanodonte para subir al tren saltando desde un puente y rompiendo el techo del tren para sacar a tu rehén y que un pteranodonte se lleve a los prisioneros y prisioneras volando mientras tú con el iguanodonte cubres la retirada.
 
@@ -520,7 +519,7 @@ Como las misiones en principio deberían ser cortas, a lo sumo una semana, los g
 
 En partida se supone que se llevan alimentos de sobra en las misiones y no deberían estar contando si quedan o no provisiones, esto no es «Economic D&D» no vamos a llevar al extremo el consumo/gasto de provisiones. Si fuera necesario, puedes montarle alguna escena para conseguir alimento fresco en el mercado local mientras evitan patrullas nazis. 
 
-> La regla general es que no hay problemas de alimentación para los carnívoros a no ser que las misiones sean largas y/o la falta de comida sea parte de la aventura. En estos casos, si quieres que haya un extra de complejidad puedes presionarles con la falta de comida de sus saurios.
+> La regla general es que no hay problemas de alimentación para los carnívoros, a no ser que las misiones sean largas y/o la falta de comida sea parte de la aventura. En estos casos, si quieres que haya un extra de complejidad, puedes presionarles con la falta de comida de sus saurios.
 
 ## ¿Qué sabe la gente normal de los dinosaurios?
 En 1940 la paleontología y en concreto los dinosaurios no son algo popular. La gente sabía que hace mucho tiempo habían existido lagartos gigantes que atacaban a los cavernícolas.
@@ -532,7 +531,7 @@ Los dinosaurios eran un monstruo más del imaginario popular junto a otros seres
 Una persona de la calle con estudios medios podría interpretar un avistamiento de dinosaurios como un ataque alienígena, un monstruo congelado en un iceberg derretido, superlagartos mutados, incluso ser un dragón despertado por la magia.
 
 ## Mantener en secreto a los dinosaurios
-Mantener en secreto la existencia de dinosaurios es una de las preocupaciones de la Fundación y como hemos visto lo lleva haciéndolo desde 1912. De hecho, han arriesgado mucho al ofrecer a sus especímenes más dotados e inteligentes a la IM inglesa, pero como ya sabemos, «tiempos desesperados exigen medidas desesperadas». Así que la Fundación y sus saurios salieron a la luz para unas pocas personas del ejército inglés.
+Mantener en secreto la existencia de dinosaurios es una de las preocupaciones de la Fundación y como hemos visto, lo lleva haciéndolo desde 1912. De hecho, han arriesgado mucho al ofrecer a sus especímenes más dotados e inteligentes a la IM inglesa, pero como ya sabemos, «tiempos desesperados exigen medidas desesperadas». Así que la Fundación y sus saurios salieron a la luz para unas pocas personas del ejército inglés.
 
 \saltopagina
 
@@ -571,7 +570,8 @@ Hay una serie de reglas en esta campaña que modifican las normas generales de c
 * No hay elementos paranormales en la aventura, con lo que el **Ocultismo se engloba en Humanidades** dentro de ciencias sociales como Historia, Teología, Antropología, etc.
 * Hay un nuevo idioma, el sakala, el idioma hablado por los aborígenes del mundo perdido.
 * **No existe la habilidad Ordenadores.** Electrónica cubre todo tipo de aparatos electrónicos con capacidades computacionales.
-* Hay nuevas Ventajas: Compañero dinosaurio, Los números primos son rojos y huelen dulces y Sensibilidad celta
+* Hay **nuevas Ventajas**: Compañero dinosaurio, Los números primos son rojos y huelen dulces y Sensibilidad celta.
+* Hay **nuevas Desventajas**: Alergia a los saurios e Imán de lo extraño.
 
 ### Arquetipos
 Aquí tienes algunos conceptos sobre los que construir tu PJ.
@@ -584,9 +584,11 @@ Estamos hablando de personas entrenadas en campos tan diversos como la elaboraci
 * **Desventajas recomendadas:** Apocado/a, Despistado/a y Leal
 
 #### Comando
-Hablamos de personas especializadas en algún tipo de combate y normalmente con buenas capacidades atléticas y de infiltración. Pueden ser estar especializados en combate cuerpo a cuerpo, armas de fuego a cierta y larga distancia, demoliciones, artillería.
+Hablamos de personas especializadas en algún tipo de combate y normalmente con buenas capacidades atléticas y de infiltración. 
 
 \saltopagina
+
+Pueden ser estar especializados en combate cuerpo a cuerpo, armas de fuego a cierta y larga distancia, demoliciones, artillería.
 
 * **Habilidades recomendadas:** Atletismo, Disparar/Pelear, Sigilo
 * **Ventajas recomendadas:** Alerta, Bloqueo/Esquiva y Nervios de acero
@@ -620,9 +622,10 @@ No hablamos de la típica cerebrita de laboratorio o del ratón de biblioteca. H
 
 * **Habilidades recomendadas:** Ciencias, Electrónica y Reparar
 * **Ventajas recomendadas:** Erudito/a, McGyver y Mr. Arreglalotodo
-* **Desventajas recomendadas:** Apocado/a, Despistado/a y Tozudo/a
 
 \saltopagina
+
+* **Desventajas recomendadas:** Apocado/a, Despistado/a y Tozudo/a
 
 #### Paleontóloga/o
 La paleontología es la rama de la ciencia que estudia entre más cosas los dinosaurios, así que se puede decir que son las personas que más saben sobre estos titanes que dominaron la tierra hace millones de años.
@@ -648,7 +651,6 @@ Este arquetipo refleja un amplio grupo de profesionales de la medicina y veterin
 * **Desventajas recomendadas:** Bocazas, Despistado y Exceso de confianza
 
 ## Nuevas reglas
-En este apartado encontrarás nuevas reglas, ventajas y desventajas aplicables a esta campaña.
 
 ### Nuevo uso de benis: Estos tontos humanos
 Un dinosaurio comodín puede gastar todos sus benis (mínimo 1) y conseguir que un humano comprenda el mensaje que el dinosaurio quiere decirle, desde «No vayas por ese que pasillo que huelo enemigos» o «No comas esas bayas venenosas» hasta «Salta sin paracaídas que yo te recojo».
@@ -1239,7 +1241,7 @@ Es una misión de infiltración pura y dura, si se meten en combate tendrán a t
 
 Los terrestres no deberían ser de utilidad, pero igual tienen un plan magistral para usarlos. Los plesiosaurios podrían estar días en el puerto sin ser detectados y los pteranodontes podrían refugiarse en los edificios medio derrumbados por bombardeos que hay por toda la ciudad.
 
-Como curiosidad dentro de la mitología árabe el plesiosaurio podría ser tomado por un orabou, un monstruo mitológico muy parecido al plesiosaurio pero con rasgos felinos. El pteranodonte podría ser confundido con un ave de roc. 
+Como curiosidad, dentro de la mitología árabe el plesiosaurio podría ser tomado por un orabou, un monstruo mitológico muy parecido al plesiosaurio pero con rasgos felinos. El pteranodonte podría ser confundido con un ave de roc. 
 
 \saltopagina
 
@@ -1444,7 +1446,7 @@ La base naval de Scapa Flow es la más importante base naval inglesa. La marina 
 
 En el evento real, llamado el ataque de Scapa Flow, en que se basa esta misión un espía alemán se pasó 10 años estudiando la base naval y buscando la mejor forma de entrar en Scapa Flow saltándose todas sus defensas. Cuando lo descubrió paso la información a la marina nazi que envió el submarino U-47 bajo el mando del capitán Günther Prien. Este as del combate submarino hundió el destructor «HMS Royal Oak» y acabó con la vida de más 800 tripulantes.
 
-Sin embargo aquí están tus comandos y sus saurios para evitarlo o por lo menos lo intentarán. 
+Sin embargo, aquí están tus comandos y sus saurios para evitarlo o por lo menos lo intentarán. 
 
 ## Misión de rutina
 Esta misión no empieza como otras con Horace Linton dando una soporífera charla. Se ha pedido desde IM a la Fundación que con sus saurios acuáticos haga una serie de revisiones y trabajos en la base naval de Scapa Flow.
@@ -1996,7 +1998,7 @@ Por suerte no están solos en sus misiones han hechos contactos, ayudado a gente
 * **Wayland.** Consiguió escaparse de los nazis, haciéndose pasar por un mozo de granja y escabulléndose cuando no miraban los guardias. Por supuesto que ayudará a tus comandos a matar nazis, de hecho, lo está deseando.
 * **Cualquier PNJ de tu propia cosecha que estuviera en la isla de Skye** es susceptible de haber escapado de los nazis y querer ayudar a tus comandos en su nueva misión.
 
-xxx
+Recuérdales que no tiene todo el tiempo del mundo. Dales una semana como mucho para reunir a sus aliados, mientras se preparan para partir a Sudamérica
 
 ***
 
@@ -2017,6 +2019,9 @@ xxx
 Tus comandos están contrarreloj, tienen que llegar lo más rápido a la meseta de Maple white para intentar detener a las fuerzas de von Liebenfels. El problema es que ya no cuentan los recursos de la Fundación e IM parece que ya no tiene interés en ayudar tus comandos y sus saurios, ni en rescatar a los capturados por los nazis y tampoco de proteger el mundo perdido del expolio.
 ```
 
+xxx
+
+### Preparativos
 xxx
 
 \saltopagina
@@ -2187,7 +2192,7 @@ En 1924 en Hollywood una guionista/actriz llamada Marion Fairfax intentaba vende
 
 Hoy esa guionista en ciernes, es una famosa escritora de ciencia ficción que está de visita en Londres para promocionar su libro. La Fundación quiere aprovechar y averiguar cómo su guion era tan acertado. Si hubo en su momento una filtración es importante saberlo y solucionarla.
 
-Se va a hospedar durante 4 noches en el «Savoy», uno de los hoteles más elegantes y caros de Londres. Como curiosidad la entrada del «Savoy» en el único lugar de toda Inglaterra donde se circula por la derecha. 
+Se va a hospedar durante 4 noches en el «Savoy», uno de los hoteles más elegantes y caros de Londres. Como curiosidad, la entrada del «Savoy» en el único lugar de toda Inglaterra donde se circula por la derecha. 
 
 Se dedicará a firmar sus obras y hacer lecturas en 4 librerías de Londres (Foyles, Daunt Books, Hatchards y por último los almacenes Liberty). También tiene el último día una cena con otras célebres escritoras como Agatha Christie. El quinto día, a primera hora, volverá a Nueva York en barco. 
 
