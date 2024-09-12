@@ -1771,14 +1771,37 @@ La IM necesita boicotear una serie de instalaciones antes del día D y tus coman
 
 &nbsp;
 
-La Wehrmacht de la Alemania nazi ha transformado la ciudad de La Havre (en la costa de Normandía) en una base militar, y han construido la «Festung Le Havre», una línea de fortificaciones y baterías de artillería. Este dispositivo forma parte del Muro atlántico, la línea defensiva que protege la Europa Nazi de posibles ataques desde Inglaterra.
+Horace, como siempre, trae un montón fotos y mapas, esta vez de Normandía, y una bandeja con té y galletas de chocolate. Tras una introducción sobre la historia de Normandía y la invasión de Inglaterra que no viene a cuento, Horace empezará con el informe de misión. 
+
+La Wehrmacht de la Alemania nazi ha transformado la ciudad de La Havre (en la costa de Normandía) en una base militar, y han construido la «Festung Le Havre», una línea de fortificaciones y baterías de artillería.
+
+\saltopagina
+
+Este dispositivo forma parte del Muro atlántico, la línea defensiva que protege la Europa Nazi de posibles ataques desde Inglaterra.
+
+Un punto muy importante es que La Havre está en centro de las comunicaciones de Normandía y si cortan la comunicación, todo el cinturón defensivo de Normandía quedará aislado del resto. Si alguien atacará las playas de Normandía tardarían horas en pedir refuerzos y apoyo, horas cruciales para tomar posiciones y que un posible desembarco tenga éxito.    
+
+La misión sería estar escondidos en La Havre, estudiando las defensas y sus puntos débiles, y cuando reciban las órdenes sabotear el sistema de comunicaciones.
 
 xxx
 
 \saltopagina
 
-## ¿Qué está pasando aquí?
+## Estudiando al enemigo
 xxx
+
+### Un pequeño favor
+xxx
+
+\saltopagina
+
+## Sabotaje
+xxx
+
+### Escapando
+xxx
+
+\saltopagina
 
 ## Espiados (Pistas)
 Una vez de vuelta al «Mary Anning» podrán revisar todo el papeleo que han conseguido. Encontrarán con facilidad, una serie de carpetas con los perfiles psicológicos/hoja de servicios/curriculum de tus comandos. No dicen nada que no venga en su ficha de personaje como ventajas y desventajas excepto cosas como Secreto.
