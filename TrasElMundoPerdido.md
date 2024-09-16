@@ -1781,8 +1781,13 @@ Este dispositivo forma parte del Muro atlántico, la línea defensiva que proteg
 
 Un punto muy importante es que La Havre está en centro de las comunicaciones de Normandía y si cortan la comunicación, todo el cinturón defensivo de Normandía quedará aislado del resto. Si alguien atacará las playas de Normandía tardarían horas en pedir refuerzos y apoyo, horas cruciales para tomar posiciones y que un posible desembarco tenga éxito.    
 
-La misión sería estar escondidos en La Havre, estudiando las defensas y sus puntos débiles, y cuando reciban las órdenes sabotear el sistema de comunicaciones.
+La misión sería estar escondidos en La Havre, estudiando las defensas y sus puntos débiles, y cuando reciban las órdenes sabotear el sistema de comunicaciones. Una vez saboteadas las comunicaciones, deberían quedarse sembrando el caos en La Havre hasta nuevas órdenes.
 
+IM está involucrada en el desembarco de Normandía y quiere usar a tus comandos como una pieza más de su partida. Tus comandos, una vez cortadas las comunicaciones poco antes del desembarco de Normandía, se supone que distraerán a todas las fuerzas nazis que puedan hasta que los aliados lleguen a La Havre. Cuando caiga La Havre, el «Mary Anning» los recogerá y volverán a casa. 
+
+Las sugerencias de Horace es que siendo una misión de infiltración en ciudad costera **deberían llevarse saurios voladores y acuáticos** como ya hicieron en Tobruk.
+
+## Entrando en La Havre
 xxx
 
 \saltopagina
@@ -1798,10 +1803,27 @@ xxx
 ## Sabotaje
 xxx
 
-### Escapando
-xxx
+\saltopagina
+
+[![Ilustración de una pieza de artillería de La Havre](./assests/images/artilleria.jpg 'A German Railway Gun captured at Le Havre, 1944 - Imperial War Museums')](https://picryl.com/media/a-german-railway-gun-captured-at-le-havre-1944-artiwmartld5560-081bd9 'A German Railway Gun captured at Le Havre, 1944 - Imperial War Museums')
+
+&nbsp;
+
+## Sembrando el caos
+Esta parte de la misión es totalmente opcional y sinceramente es una excusa para matar nazis porque sí. Si no quieres liarte, puedes narrarles cómo acaban con algunas unidades de soldados nazis que habrían puesto más difícil el desembarco en Normandía. 
+
+Desde el escondite de Jocelyn e Ibrahim puede salir a extender el caos. Veamos algunos posibles escenarios si no se les ocurre nada a tus comandos.
+
+* Pueden **atacar y tomar una patrullera (2 soldados nazis por comando + 1 oficial) en el puerto de la ciudad** con los saurios acuáticos y lanzarlo contra otros barcos nazis.
+* Quizás puedan acercarse sin ser vistos en alguno de **los bunkers de artillería y destruirlo**. El problema no sería tanto la resistencia nazi (1,5 soldados por comando + 2 oficiales) como el poner cargas en los sitios adecuados y que exploten sin matarlos. Necesitarán tiradas de Ciencias para buscar los puntos débiles de la estructura del bunker y Reparar para hacer los ingenios explosivos y colocarlos.
 
 \saltopagina
+
+* Otra opción es **destruir un depósito de munición de artillería**. Los depósitos sí estarán muy bien defendidos (4 soldados nazis por comando + 1 oficial por comando y 2 soldados acorazados). Como con el bunker de artillería necesitarán tiradas de Ciencias para buscar los mejores puntos para hacer estallar todo y Reparar para hacer los ingenios explosivos y colocarlos.
+* Otra forma no violenta de ayudar es **elaborar un mapa de la ciudad con objetivos interesantes en caso de bombardeo**. Hará más certeros los ataques y evitará víctimas colaterales. Necesitarán un mapa de la ciudad actualizado (tal vez tenga uno algún oficial nazi) y buenas tiradas de Notar para rellenar el mapa. Un vuelo al atardecer/anochecer en pteranodonte permita elaborar mejores mapas sin ser descubiertos. También pueden hacer fotografías aéreas de la ciudad.   
+* Si consiguen **material militar** en alguna de las misiones anteriores y localizan a **la resistencia**, pueden entregárselo para que a su vez generen más problemas a los nazis, mediante las tácticas de guerrilla y el sabotaje.
+
+Cuando se hayan divertido lo suficiente, las fuerzas nazis caerán ante el avance de los aliados y recibirán el aviso por radio de que el «Mary Anning» les está esperando a unas millas de la costa. 
 
 ## Espiados (Pistas)
 Una vez de vuelta al «Mary Anning» podrán revisar todo el papeleo que han conseguido. Encontrarán con facilidad, una serie de carpetas con los perfiles psicológicos/hoja de servicios/curriculum de tus comandos. No dicen nada que no venga en su ficha de personaje como ventajas y desventajas excepto cosas como Secreto.
@@ -3490,7 +3512,7 @@ Un plesiosaurio adulto de talla media crece entre 3 a 5 metros de longitud y pes
 
 Su cuerpo está totalmente adaptado a la vida acuática. Su piel no es escamosa, sino lisa para una mejor hidrodinámica. Tienen un largo cuello que mide más o menos la mitad de su cuerpo y que usa como timón a la hora de nadar. Para terminar, sus extremidades de un metro cada una formaban aletas alargadas, en forma de remo. 
 
-[![Dibujo de pteranodonte volando](./assests/images/pteranodon.jpg 'NobuTamura email:nobu.tamura@yahoo.com www.palaeocritti.com')](https://commons.wikimedia.org/wiki/File:Pteranodon_NT.jpg 'NobuTamura email:nobu.tamura@yahoo.com www.palaeocritti.com')
+[![Dibujo de pteranodonte volando](./assests/images/pteranodonte.jpg 'NobuTamura email:nobu.tamura@yahoo.com www.palaeocritti.com')](https://commons.wikimedia.org/wiki/File:Pteranodon_NT.jpg 'NobuTamura email:nobu.tamura@yahoo.com www.palaeocritti.com')
 
 ### Pteranodon
 **Carnívoro | Volador | 3x1 casillas | Código: Spitfire**
