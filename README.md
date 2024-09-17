@@ -30,6 +30,7 @@
 * Terminado el Relato Salvaje "El secreto de los Branningan"
 * Terminado el Relato Salvaje "Despedidas"
 * Terminando el Relato Salvaje "Nadie"
+* Terminado la parte de "Preparando el día D" de "Parte 5: Normandía"
 
 # Versión 0.7 08/09/2024
 * Terminada la parte de "Rompiendo el sitio de Stalingrado" de "Parte 6: El frente ruso"

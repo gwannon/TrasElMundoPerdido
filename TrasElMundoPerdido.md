@@ -212,7 +212,7 @@ Mapa de la isla de Skye
 
 \saltopagina
 
-Fue Lady Roxton quien vio que todo esto era insuficiente. Debíamos estudiar todo este increíble descubrimiento de forma adecuada y no solo los dinosaurios, sino también los aborigenes de la meseta.
+Fue Lady Roxton quien vio que todo esto era insuficiente. Debíamos estudiar todo este increíble descubrimiento de forma adecuada y no solo los dinosaurios, sino también los aborígenes de la meseta.
 
 Ella perfeccionó los hábitats que cada especie había creado, montó el hospital y el taller. También puso a funcionar la Fundación como sistema para conseguir investigadores e investigadoras de confianza a través de becas. Se becaba a alguien y se le estudiaba, si parecía de confianza se le ofrecía para trabajar en Skye o Maple White según capacidades y estudios.
 
@@ -1815,7 +1815,7 @@ Esta parte de la misión es totalmente opcional y sinceramente es una excusa par
 Desde el escondite de Jocelyn e Ibrahim puede salir a extender el caos. Veamos algunos posibles escenarios si no se les ocurre nada a tus comandos.
 
 * Pueden **atacar y tomar una patrullera (2 soldados nazis por comando + 1 oficial) en el puerto de la ciudad** con los saurios acuáticos y lanzarlo contra otros barcos nazis.
-* Quizás puedan acercarse sin ser vistos en alguno de **los bunkers de artillería y destruirlo**. El problema no sería tanto la resistencia nazi (1,5 soldados por comando + 2 oficiales) como el poner cargas en los sitios adecuados y que exploten sin matarlos. Necesitarán tiradas de Ciencias para buscar los puntos débiles de la estructura del bunker y Reparar para hacer los ingenios explosivos y colocarlos.
+* Quizás puedan acercarse sin ser vistos en alguno de **los búnkeres de artillería y destruirlo**. El problema no sería tanto la resistencia nazi (1,5 soldados por comando + 2 oficiales) como el poner cargas en los sitios adecuados y que exploten sin matarlos. Necesitarán tiradas de Ciencias para buscar los puntos débiles de la estructura del bunker y Reparar para hacer los ingenios explosivos y colocarlos.
 
 \saltopagina
 
@@ -2824,7 +2824,7 @@ Al volver a Skye os informan de que un huevo de pteranodonte ha desaparecido de 
 Todo indica que alguien ha entrado en los terrenos de la fundación y ha robado un huevo de pteranodonte. Ha tenido que ser algo planeado, ya que ha necesitado equipo de escalada para llegar a los nidos de los saurios. Lady Roxton considera esto un fallo de seguridad grave que habrá que solucionar.
 
 ### Buscando al ladrón
-Si preguntan en el ferry, no ha venido nadie nuevo en los últimos días y todavía no ha salido el ferry de hoy. Eso supone que o está en la isla o llegado al continente por otros medios.
+Si preguntan en el ferry, no ha venido nadie nuevo en los últimos días y todavía no ha salido el ferry de hoy. Eso supone que o está en la isla o ha llegado al continente por otros medios.
 
 xxx
 
@@ -2984,21 +2984,23 @@ Todo el proyecto es los comandos de dinosaurios es una gran estratagema ideada p
 
 Su única otra pasión es el futbol y su amado Manchester City, el equipo de su niñez, por el que siente verdadera devoción. El resto del tiempo es un militar como la copa de un pino, pero cuando el Manchester City está jugando en un hincha más. La única forma de traspasar su armadura de duro general inglés es con el fútbol.
 
-Linton sabe que el conflicto actual será su última batalla y quiere irse por la puerta grande dándole a los nazis en todos el morro y riéndose en su cara, sabiendo que han estado persiguiendo un espejismo por todo el mundo que él ha planeado al mínimo detalle.
+Linton sabe que el conflicto actual será su última batalla y quiere irse por la puerta grande, dándole a los nazis en todos el morro y riéndose en su cara, sabiendo que han estado persiguiendo un espejismo por todo el mundo que él ha planeado al mínimo detalle.
 
 * **Atributos:** Agilidad d8, Astucia d8, Espíritu d8, Fuerza d6, Vigor d6
-* **Habilidades:** Atletismo d8, Cabalgar d8, Conducir d8, Conocimientos Generales d8, Ciencias d6, Humanidades d4, Disparar d8, Idioma Inglés d8, Idioma Francés d8, Medicina d6, Notar d8, Pelear d8, Persuadir d8, Reparar d6, Sigilo d6, Tácticas d8
-* **Paso:** 6; **Parada:** xxx; **Dureza:** 5
-* **Ventajas:** xxx
-* **Desventajas:** xxx
+* **Habilidades:** Atletismo d8, Cabalgar d8, Conducir d8, Conocimientos Generales d8, Ciencias d6, Humanidades d4, Investigar d6, Disparar d8, Idioma Inglés d8, Idioma Francés d8, Medicina d6, Notar d8, Pelear d8, Persuadir d8, Reparar d6, Sigilo d6, Supervivencias d6, Tácticas d8
+* **Paso:** 6; **Parada:** 6; **Dureza:** 5
+* **Ventajas:** Alcurnia (General), Mando, Osado, Soldado
+* **Desventajas:** Manía (fútbol y Manchester City), Obligaciones (mayor, ejército)
 * **Equipo:** Uniforme de militar con galones de general, pistola reglamentaria, maletín con informes de alto secreto
-
-**Sugerencia de interpretación:** Eres un viejo soldado que ha pasado toda su vida en el ejército, de una guerra a otra luchando por tu país. Eres duro, más duro que un clavo en un ataúd, no tienes tiempo para sentimentalismo, porque si tomas malas decisiones o las haces tarde hay mucha gente que muere. Solo hay un momento en que relajas el rictus y es cuando hablas de fútbol y de tu querido Manchester City (de hecho llevas un lazo en la muñeca con sus colores).  
 
 \saltopagina
 
+**Sugerencia de interpretación:** Eres un viejo soldado que ha pasado toda su vida en el ejército, de una guerra a otra luchando por tu país. Eres duro, más duro que un clavo en un ataúd, no tienes tiempo para sentimentalismo, porque si tomas malas decisiones o las haces tarde hay mucha gente que muere. Solo hay un momento en que relajas el rictus y es cuando hablas de fútbol y de tu querido Manchester City (de hecho llevas un lazo en la muñeca con sus colores).  
+
 ### Teniente Horace Chambers, mano ejecutora de la IM y el General Linton &#x2638;
+
 [![Retrato de Teniente Horace Chambers](./assests/images/horace.jpg 'This is a photo of the young Peter Conder as a Lieutenant in the Royal Signal Corps. Author: Irandar')](https://commons.wikimedia.org/wiki/File:Peter_Conder_Lieutenant_Royal_Corps_Signals.jpg 'This is a photo of the young Peter Conder as a Lieutenant in the Royal Signal Corps. Author: Irandar')
+
 xxx
 
 * **Atributos:** Agilidad d4, Astucia d10, Espíritu d8, Fuerza d6, Vigor d6
@@ -3008,7 +3010,7 @@ xxx
 * **Desventajas:** Obligaciones (mayor, ejército), Leal, Patoso
 * **Equipo:** Uniforme de militar con galones de teniente, pistola reglamentaria, mapas, dosieres, cajas con dulces, taza de té
 
-**Sugerencia de interpretación:** xxx
+**Sugerencia de interpretación:** Siempre estás comiendo, aprovecha a abrir los aperitivos cuando hagas de Horace, habla con la boca abierta y haz mucho ruido al masticar. Te encanta la historia así que siempre metes datos históricos totalmente inútiles para la misión y al final todo el mundo acaba aburrido y bostezando.
 
 \saltopagina
 
