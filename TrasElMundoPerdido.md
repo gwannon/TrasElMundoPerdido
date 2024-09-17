@@ -1825,6 +1825,8 @@ Desde el escondite de Jocelyn e Ibrahim puede salir a extender el caos. Veamos a
 
 Cuando se hayan divertido lo suficiente, las fuerzas nazis caerán ante el avance de los aliados y recibirán el aviso por radio de que el «Mary Anning» les está esperando a unas millas de la costa. 
 
+\saltopagina
+
 ## Espiados (Pistas)
 Una vez de vuelta al «Mary Anning» podrán revisar todo el papeleo que han conseguido. Encontrarán con facilidad, una serie de carpetas con los perfiles psicológicos/hoja de servicios/curriculum de tus comandos. No dicen nada que no venga en su ficha de personaje como ventajas y desventajas excepto cosas como Secreto.
 
@@ -2038,6 +2040,9 @@ Si revisan la pieza de artillería antiaérea con una tirada de Reparar o de Dis
 
 xxx
 
+
+\saltopagina
+
 ## Con la mierda hasta el cuello
 La situación de tu comando ha cambiado drásticamente, a priori ha perdido los recursos de la fundación y no sabe si puede fiarse del todo de IM. xxx
 
@@ -2147,6 +2152,8 @@ Mapa del castillo de Hohenzollern en la Selva Negra.
 
 ### El castillo de Hohenzollern
 xxx
+
+\saltopagina
 
 ## Y ahora ¿qué va a pasar?
 xxx
