@@ -2976,16 +2976,24 @@ La Fundación le reclutó, cuando el «Mary Anning» tuvo que hacer reparaciones
 
 ### General Eugene Linton, director de la IM y enlace con el alto mando &#x2638;
 [![Primer plano de General Eugene Linton](./assests/images/linton.jpg 'Lieutenant General J T Crocker, Cb, Cbe, Dso, Mc, Commander of 1st Corps, France, August 1944 TR2168')](https://picryl.com/media/lieutenant-general-j-t-crocker-cb-cbe-dso-mc-commander-of-1st-corps-france-9aadef 'Lieutenant General J T Crocker, Cb, Cbe, Dso, Mc, Commander of 1st Corps, France, August 1944 TR2168')
-xxx
+Este viejo soldado de caballería lleva tanto tiempo entre cuarteles y campos de batalla que ya se ha olvidado lo que es la vida civil. Tras una brillante carrera militar durante la segunda guerra contra los bóeres y en la IGM, consiguió el rango de general. Retirado del frente y la lucha directa, termino siendo uno de los jefes de la Inteligencia Militar Británica. 
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
-* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+Su forma de pensar «fuera de la caja», con sus planes imaginativos y diferentes, es lo que le hace excepcional en su trabajo al frente de IM. Además es capaz de hacer planes previendo los movimientos del adversario y adelantándose a ellos de formas eficaces y sobre todo inesperadas.
+
+Todo el proyecto es los comandos de dinosaurios es una gran estratagema ideada por él para confundir a los nazis y sacar del frente al mayor número de unidades.
+
+Su única otra pasión es el futbol y su amado Manchester City, el equipo de su niñez, por el que siente verdadera devoción. El resto del tiempo es un militar como la copa de un pino, pero cuando el Manchester City está jugando en un hincha más. La única forma de traspasar su armadura de duro general inglés es con el fútbol.
+
+Linton sabe que el conflicto actual será su última batalla y quiere irse por la puerta grande dándole a los nazis en todos el morro y riéndose en su cara, sabiendo que han estado persiguiendo un espejismo por todo el mundo que él ha planeado al mínimo detalle.
+
+* **Atributos:** Agilidad d8, Astucia d8, Espíritu d8, Fuerza d6, Vigor d6
+* **Habilidades:** Atletismo d8, Cabalgar d8, Conducir d8, Conocimientos Generales d8, Ciencias d6, Humanidades d4, Disparar d8, Idioma Inglés d8, Idioma Francés d8, Medicina d6, Notar d8, Pelear d8, Persuadir d8, Reparar d6, Sigilo d6, Tácticas d8
+* **Paso:** 6; **Parada:** xxx; **Dureza:** 5
 * **Ventajas:** xxx
 * **Desventajas:** xxx
 * **Equipo:** Uniforme de militar con galones de general, pistola reglamentaria, maletín con informes de alto secreto
 
-**Sugerencia de interpretación:** xxx
+**Sugerencia de interpretación:** Eres un viejo soldado que ha pasado toda su vida en el ejército, de una guerra a otra luchando por tu país. Eres duro, más duro que un clavo en un ataúd, no tienes tiempo para sentimentalismo, porque si tomas malas decisiones o las haces tarde hay mucha gente que muere. Solo hay un momento en que relajas el rictus y es cuando hablas de fútbol y de tu querido Manchester City (de hecho llevas un lazo en la muñeca con sus colores).  
 
 \saltopagina
 
@@ -3106,9 +3114,9 @@ Theodor es uno de generales más importantes de las fuerzas militares nazis y es
 [![Primer plano de Wayland](./assests/images/eckart.jpg 'Geoffrey N. Pyke by State Library Victoria Collections')](https://www.flickr.com/photos/statelibraryofvictoria_collections/ 'Geoffrey N. Pyke by State Library Victoria Collections')
 xxx
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Atributos:** Agilidad d6, Astucia d12, Espíritu d6, Fuerza d6, Vigor d4
 * **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+* **Paso:** 6; **Parada:** xxx; **Dureza:** 4
 * **Ventajas:** xxx
 * **Desventajas:** xxx
 * **Equipo:** Bata blanca, Libros de consulta de física y química, Útiles científicos varios
