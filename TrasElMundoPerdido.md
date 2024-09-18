@@ -2925,9 +2925,9 @@ Margaret creció con las historias de caza que su tío le contaba cuando visitab
 
 xxx
 
-* **Atributos:** Agilidad dX, Astucia dX, Espíritu dX, Fuerza dX, Vigor dX
+* **Atributos:** Agilidad d6, Astucia d10, Espíritu d8, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** xxx; **Dureza:** xxx
+* **Paso:** 6; **Parada:** xxx; **Dureza:** 5
 * **Ventajas:** Alcurnia, Rica, Asquerosamente Rica
 * **Desventajas:** xxx
 * **Equipo:** Ropas de trabajo de calidad, Herramientas de granja, Cartas y teletipos sin leer
@@ -3121,6 +3121,7 @@ Theodor es uno de generales más importantes de las fuerzas militares nazis y es
 
 ### Artur Eckart, científico loco nazi &#x2638;
 [![Primer plano de Wayland](./assests/images/eckart.jpg 'Geoffrey N. Pyke by State Library Victoria Collections')](https://www.flickr.com/photos/statelibraryofvictoria_collections/ 'Geoffrey N. Pyke by State Library Victoria Collections')
+
 xxx
 
 * **Atributos:** Agilidad d6, Astucia d12, Espíritu d6, Fuerza d6, Vigor d4
