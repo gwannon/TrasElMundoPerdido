@@ -1788,6 +1788,15 @@ IM está involucrada en el desembarco de Normandía y quiere usar a tus comandos
 Las sugerencias de Horace es que siendo una misión de infiltración en ciudad costera **deberían llevarse saurios voladores y acuáticos** como ya hicieron en Tobruk.
 
 ## Entrando en La Havre
+
+Tus comandos pueden pensar que entrar en La Havre puede ser tan sencillo con cuando entraron en Tobruk, pero nada más lejos de la realidad. Para empezar en Tobruk iban a territorio aliado y aquí van a territorio enemigo.
+
+Segundo, La Havre ha sido totalmente fortificado por los nazis. Hay vallas, muros, alambre de espino, torres de vigilancia y controles en todas partes. Y si piensan colarse por el puerto está minado y vigilado 24 horas desde el agua y desde el puerto.
+
+Si quieren probar por el aire, los potentes focos y las armas anti-áreas darán buena cuenta de ellos.
+
+En resumen, solo con ayuda externa se puede entrar con seguridad en La Havre y eso solo puede dártelo Jocelyn Dubois. Quizás conozcan ya a Jocelyn de Tobruk e incluso tengan una relación intensa con ella. Según Linton, está ahora mismo en La Havre, su ciudad natal, en una misión propia para la IM. Tengo una radio de onda corta y podrían comunicarse con ella si se acercan a la costa francesa.
+
 xxx
 
 \saltopagina
@@ -1796,6 +1805,11 @@ xxx
 xxx
 
 ### Un pequeño favor
+
+Jocelyn les hizo un favor al conseguirles una vía de entrada segura a la ciudad. Es hora de cobrarse ese favor. Jocelyn no se andará quiere matar al mayor Nezhoda, el máximo representante nazi en la ciudad. Y no es una misión, es una venganza. El mayor Nezhoda mandó a un campo de concentración a casi toda su familia y a la pareja de Adauy. Está claro tiene que pagar con su vida.
+
+
+
 xxx
 
 \saltopagina
@@ -3143,13 +3157,13 @@ Irma es la _femme fatale_ por excelencia, seductora y misteriosa, pero también 
 xxx
 
 * **Atributos:** Agilidad d8, Astucia d8, Espíritu d12, Fuerza d8, Vigor d8
-* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** xxx; **Dureza:** 6
-* **Ventajas:** Atractiva, xxx
-* **Desventajas:** xxx
+* **Habilidades:** Atletismo d8, Apostar d6, Cabalgar d, Conducir d6, Conocimientos Generales d8, Humanidades d8, Idioma Inglés d6, Idioma Alemán d8, Intimidar d10, Latrocinio d8, Pelear d8, Notar d8, Persuadir d10, Reparar d6, Sigilo d8
+* **Paso:** 6; **Parada:** 6; **Dureza:** 6
+* **Ventajas:** Acróbata, Atractiva, Carismática, Ladrona
+* **Desventajas:** Despiadada (mayor), Exceso de confianza
 * **Equipo:** Impresionante traje de noche de alta costura, bolso a juego con pistola dentro, stilettos
 
-**Sugerencia de interpretación:** xxx
+**Sugerencia de interpretación:** De normal, la intimidación y la fuerza no son tu estilo. Lo tuyo es el carisma, el «sex-appeal» y la zalamería. Unas palabras bonitas y aduladoras y unas miraditas provocativas y tienes a todo el mundo comiendo de tu mano. Para que abrir una cerradura con ganzúas si puedes engañar a la persona que la vigila para que te abra. Todo va bien hasta que tu lado sádico sale a la superficie, en ese momento la careta cae y conocerán el dolor.
 
 \saltopagina
 
