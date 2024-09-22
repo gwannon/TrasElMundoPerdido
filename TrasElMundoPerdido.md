@@ -1806,9 +1806,7 @@ xxx
 
 ### Un pequeño favor
 
-Jocelyn les hizo un favor al conseguirles una vía de entrada segura a la ciudad. Es hora de cobrarse ese favor. Jocelyn no se andará quiere matar al mayor Nezhoda, el máximo representante nazi en la ciudad. Y no es una misión, es una venganza. El mayor Nezhoda mandó a un campo de concentración a casi toda su familia y a la pareja de Adauy. Está claro tiene que pagar con su vida.
-
-
+Jocelyn les hizo un favor al conseguirles una vía de entrada segura a la ciudad. Es hora de cobrarse ese favor. Jocelyn no se andará quiere matar al mayor Nezhoda, el máximo representante nazi en la ciudad. Y no es una misión, es una venganza. El mayor Nezhoda mandó a un campo de concentración a casi toda su familia y a la pareja de Adauy. Está claro que tiene que pagar con su vida.
 
 xxx
 
@@ -2798,14 +2796,48 @@ Una tirada de Ciencias deja ver que parece alguna lámpara eléctrica, pero la p
 
 Si consiguen algún avance puedes dejarles pistas como que los cables son de una aleación oro o que la estructura metálica es muy ligera, quizás de alguna aleación extraña de titanio. Todo esto tiene que haber despertado su interés como para parar las máquinas e intentar una inmersión.
 
+
+[![Imagen de caverna submarina](./assests/images/caverna.jpg 'THE ABBYSS By K--E--V')](https://www.deviantart.com/k--e--v/art/THE-ABBYSS-690664624 'THE ABBYSS By K--E--V')
+
+
+
+
 ### Inmersión
-xxx
+La inmersión debería ser sencilla, la profundidad de la zona es baja y con la ayuda de los plesiosaurios no deberían tener problemas a no ser que te interese poner alguna dificultad.
+
+Los plesiosaurios bajarán al fondo y conducirán a tus comandos a una cueva submarina de gran tamaño, tanto que podría entrar un submarino. Al adentrarse en ella llegan una gigantesca cámara de aire y pueden salir del agua y quitarse los trajes de submarinismo.
+
+A simple vista parece una cueva natural, pero una tirada de Reparar mostrará que alguien ha trabajado en las paredes arrancando estalagmitas y estalagmitas para poder moverse mejor y que el suelo está allanado rellenando con tierra los socavones.
+
+También verán un gancho en el techo con cables desgarrados y resto de cristales debajo en el suelo. Ahí debía estar colgada la lámpara que trajo el plesiosaurio.
+
+\saltopagina
+
+La cueva se estrecha, aunque sigue siendo grande, y desciende poco a poco hasta llegar a una gran puerta doble metálica con una N gigante grabada. La puerta no tiene ni picaporte ni parece que tenga cerradura.
+
+Pero en el lateral en la pared hay una especie de teclado numérico. Al apretar un botón suena un pip y si sigues metiendo números al azar al de 5 números suena un pip largo.
+
+Parece que (tirada de Ciencias) la puerta se abre con un código numérico de 5 dígitos. El pitido largo es un aviso de error. 5 cifras suponen 100.000 combinaciones lo cual son muchas combinaciones. Deberán comerse la cabeza para darse cuenta de que la combinación es 17539, que forma una N en el teclado numérico.
+
+Si no lo deducen, recuérdales la N o déjales tirar Notar y que vean las teclas más desgastadas que serán, claro, las de la combinación de apertura. Ahora solo queda ordenarlas.
+
+Si la combinación es correcta hará 3 pips seguidos. Los pip suenan a componentes electrónicos así que hay electricidad y puede que parte funciona.
+
+Abrirla por la puerta es muy difícil, pero no imposible y necesitarán explosivos que no tienen. Abrirla de otras maneras como abriendo el panel alfanumérico y trasteando en sus circuitos exige 2 avances en Electrónica.
 
 ### El refugio submarino
+Ante ellos se abrirá una gran estancia, está sí, excavada en la roca. Parece que ampliaron una cueva natural.
+
+xxx
+
+#### El sistema de seguridad
+
 xxx
 
 #### La estatua
 xxx
+
+\saltopagina
 
 ### El tesoro del capitán Nemo
 Como en el relato «El secreto de los Branningan» tendrán acceso a un gran tesoro en oro y piedras preciosas que, aunque tengan que compartir con la tripulación de «Mary Anning», seguirá siendo un montón. 
@@ -2819,8 +2851,6 @@ Cuando tus comandos lleguen a la Parte 7. Se quedarán sin los recursos económi
 ### Tecnología
 La tecnología que se muestra en este relato es muy avanzada a propósito como una forma de que metas, si lo deseas, cosas como Ciencias Extraña o armas láser. 
 
-\saltopagina
-
 También es muy valiosa, sobre todo en mitad de una guerra. Tus comandos pueden sentirse tentados de arramblar con ella y usarla en su beneficio. Si crees que tu mesa sería capaz de ello y al explotarla para su beneficio pueda estropear tu partida, eres libre de hacerla más normal. Por ejemplo, convirtiendo los láseres en lanzallamas y el generador nuclear en alguna especie de generador geotérmico. 
 
 ### Comenzando una gran aventura
@@ -2828,6 +2858,7 @@ Este relato puede servirte como introducción a tus propias aventuras. Entre los
 
 Quizás haya un mapa de algún lugar misterioso como Lemuria o la Atlántida, diseños de alguna extraña máquina hipertecnológica nazi, un grabado con la ubicación de otro mundo perdido, etc.
 
+\saltopagina
 
 ## Un día en el museo
 ```
@@ -2940,10 +2971,10 @@ Margaret creció con las historias de caza que su tío le contaba cuando visitab
 xxx
 
 * **Atributos:** Agilidad d6, Astucia d10, Espíritu d8, Fuerza d6, Vigor d6
-* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** xxx; **Dureza:** 5
+* **Habilidades:** Atletismo d6, Cabalgar d6, Ciencias d6, Conducir d6, Conocimientos Generales d4, Disparar d6, Humanidades d6, Idioma Inglés d4, Latrocinio d4, Medicina d6, Notar d6, Pelear d6, Persuadir d8, Provocar d6, Repara d6, Sigilo d6, Supervivencia d6, Tácticas d6
+* **Paso:** 6; **Parada:** 5; **Dureza:** 5
 * **Ventajas:** Alcurnia, Rica, Asquerosamente Rica
-* **Desventajas:** xxx
+* **Desventajas:** Heroica, Obligaciones(mayor, Fundación Roxton)
 * **Equipo:** Ropas de trabajo de calidad, Herramientas de granja, Cartas y teletipos sin leer
 
 **Sugerencia de interpretación:** xxx
