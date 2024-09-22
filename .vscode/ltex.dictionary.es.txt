@@ -296,3 +296,6 @@ miraditas
 Nezhoda
 pip
 pips
+electrocutadores
+electrocutador
+Electrocutadores

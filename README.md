@@ -10,14 +10,13 @@
 * Parte 9: La Selva Negra
 
 # Por hacer de la versión 0.8
-* Relatos salvajes
-  * Un día en el museo
-  * Nadie
-  * Espécimen perdido
+* Parte 5: Normandía
 * Parte 7: Regreso a casa
 
 # Por hacer de la versión 0.7
-* Parte 5: Normandía
+* Relatos salvajes
+  * Un día en el museo
+  * Espécimen perdido
 
 ## Recursos 
 * https://commons.wikimedia.org/wiki/Category:Charles_R._Knight
@@ -29,7 +28,7 @@
 # Versión 0.7.1 En desarrollo
 * Terminado el Relato Salvaje "El secreto de los Branningan"
 * Terminado el Relato Salvaje "Despedidas"
-* Terminando el Relato Salvaje "Nadie"
+* Terminado el Relato Salvaje "Nadie"
 * Terminado la parte de "Preparando el día D" de "Parte 5: Normandía"
 
 # Versión 0.7 08/09/2024

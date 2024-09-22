@@ -2799,9 +2799,6 @@ Si consiguen algún avance puedes dejarles pistas como que los cables son de una
 
 [![Imagen de caverna submarina](./assests/images/caverna.jpg 'THE ABBYSS By K--E--V')](https://www.deviantart.com/k--e--v/art/THE-ABBYSS-690664624 'THE ABBYSS By K--E--V')
 
-
-
-
 ### Inmersión
 La inmersión debería ser sencilla, la profundidad de la zona es baja y con la ayuda de los plesiosaurios no deberían tener problemas a no ser que te interese poner alguna dificultad.
 
@@ -2826,18 +2823,54 @@ Si la combinación es correcta hará 3 pips seguidos. Los pip suenan a component
 Abrirla por la puerta es muy difícil, pero no imposible y necesitarán explosivos que no tienen. Abrirla de otras maneras como abriendo el panel alfanumérico y trasteando en sus circuitos exige 2 avances en Electrónica.
 
 ### El refugio submarino
-Ante ellos se abrirá una gran estancia, está sí, excavada en la roca. Parece que ampliaron una cueva natural.
+Ante ellos se abrirá una gran estancia a oscuras, está sí, excavada en la roca. Parece que ampliaron una cueva natural.
 
-xxx
+Tiene iluminación eléctrica funcional, de hecho pueden encenderla con una tirada de Notar para encontrar una caja de mandos excesivamente decorada con motivos marinos. Al activar los mandos, la luz se encenderá por toda la caverna y verán su gigantesco tamaño. 
+
+Parece algún tipo de instalación pensada como almacén, ya que hay estanterías, armarios y demás elementos de organización y almacenaje. Todo está cubierto de una gruesa casa de polvo de haber estado mucho tiempo sin tocarse.
+
+Si empiezan a revisar las estanterías podrán encontrar todo tipo de herramientas y útiles. También hay armas que una tirada de Humanidades identificará como el siglo pasado y armas cuerpo a cuerpo mucho más antiguas pero muy bien conservadas o restauradas.
+
+En una esquina hay una puerta metálica con advertencias en varios idiomas: ¡¡¡Peligro!!! Planta de energía. Solo acceder con equipo de protección. De ella sale un potente zumbido desde que han activado los mandos de control. Unas tiradas de Ciencias o Electrónica les dirán que es algún tipo de generador eléctrico.
+
+Si buscan, encontrarán un armario con una especie de trajes medio buzón, medio guerra química actual. Si se atreven a entrar, tendrán un extraño generador eléctrico de diseño desconocido. Tiene miles de válvulas y medidores y está profusamente decorado. Es una mezcla de obra de ingeniería y de arte. Si entran sin protección recibirán alta radiación.
+
+\saltopagina
+
+Hay una zona de materiales, donde hay vigas y láminas de todo tipo de metales, maderas de varias calidades y para su sorpresa habrá dos estanterías llenas de lingotes de oro y plata. Humanidades identificará desde lingotes romanos u oro español de América. Reparar les dejará claro que todo ese oro y plata era considerado un material más. Recuérdales los cables de oro de la lámpara.
+
+En el techo además de lámparas hay una especie de rieles donde debían engancharse poleas y demás artilugios para mover materiales pesados.
+
+#### La estatua
+Al otro lado de la estancia, en la pared opuesta a la puerta de entrada, hay una estatua de obsidiana a tamaño natural de un hombre mayor con barba que porta un tridente. Tiene mucho porte y parece una especie de Neptuno griego, pero lleva ropajes de corte hindú, turbante, khalat, padukas, etc.
+
+Quiere seguir los estilos clásicos, pero se ve que es moderna y tiene incrustaciones de coral y madreperla para ciertos detalles.
+
+Tu mesa puede que reconozca al capitán Nemo, pero tus comandos tendrán que tirar Humanidades para conocer la historia del terrorista anarquista que hundía barcos en su extraño buque sumergible.
 
 #### El sistema de seguridad
 
-xxx
+Cuando entren saltará un sistema de seguridad que esperará unos 10 minutos a que se desactive. Para desactivarlo hay que pulsar un botón secreto en los zapatos de la estatua (Notar -4 a detectarlo).
 
-#### La estatua
-xxx
+Pasados los 10 minutos la puerta principal se cerrará sola sin posibilidad de abrirla (a no ser que pongan algo resistente para evitarlo) y de diferentes puntos de las paredes saldrán unos mecanismos metálicos (tantos como comandos) que van por los rieles moviéndose a gran velocidad y que lanzan arcos eléctricos de gran potencia.
+
+**Electrocutadores** Los electrocutadores son un constructo sin inteligencia. No se les puede persuadir ni engañar, simplemente siguen su patrón lanzado rayos.
+
+Tienen consistencia 18 y solo puedes ser atacados a distancia, ya que están a 5 metros de altura, incluso encima de las estanterías no llegarían a ellos. Si reciben una herida, son destruidos y si son aturdidos pierden su siguiente turno. Si vuelven a ser aturdidos durante ese turno reciben una herida y se destruyen.
+
+Cada turno cada electrocutador tiene un 25% (1 en d4) de pasar cerca de un comando (elige al azar) y atacarle con Disparar d10 pudiendo aplicar coberturas, acciones defensivas y otras ventajas. Si impacta el daño es de 3d6 de tipo eléctrico.
+
+Los electrocutadores tienen un patrón complejo de movimiento pero predecible. Si alguien los estudia durante dos o más turnos y pasa la tirada de Notar -2 descubrirá el patrón y los electrocutadores tendrán un -2 a atacarlos. Gastando otro turno explicándolo al resto de comandos, estos también lo tendrán.
+
+Si estudian otros 2 turnos, esta vez sin tirar, verán que solo hay 3 zonas seguras, fuera del almacén si pueden abrir la puerta, alrededor de la estatua y en la sala del generador.
 
 \saltopagina
+
+La única forma efectiva de detenerlos es dejarlos sin corriente. Una tirada de Electrónica o Ciencias les dirá que la energía les viene por los raíles. Si rompen los raíles (consistencia 12) el electrocutador se parará. La red de raíles es tan compleja que debe hacerse dos cortes para cada electrocutador dejándolo en medio.
+
+Si destruyen o apagan el generador, cosas que les llevará por lo menos 20 turnos, el sistema de seguridad dejará de funcionar pero también la iluminación y la puerta principal. Si la encienden de nuevo el sistema de seguridad se activará de nuevo donde estaba.
+
+Una vez destruidos podrán volver a explorar la estancia, sin más incidencia.
 
 ### El tesoro del capitán Nemo
 Como en el relato «El secreto de los Branningan» tendrán acceso a un gran tesoro en oro y piedras preciosas que, aunque tengan que compartir con la tripulación de «Mary Anning», seguirá siendo un montón. 
@@ -2856,9 +2889,9 @@ También es muy valiosa, sobre todo en mitad de una guerra. Tus comandos pueden 
 ### Comenzando una gran aventura
 Este relato puede servirte como introducción a tus propias aventuras. Entre los objetos rescatados puede haber algún tipo de documento que sirva de semilla de tus propias aventuras. 
 
-Quizás haya un mapa de algún lugar misterioso como Lemuria o la Atlántida, diseños de alguna extraña máquina hipertecnológica nazi, un grabado con la ubicación de otro mundo perdido, etc.
-
 \saltopagina
+
+Quizás haya un mapa de algún lugar misterioso como Lemuria o la Atlántida, diseños de alguna extraña máquina hipertecnológica nazi, un grabado con la ubicación de otro mundo perdido, etc.
 
 ## Un día en el museo
 ```
@@ -3164,7 +3197,7 @@ Theodor es uno de generales más importantes de las fuerzas militares nazis y es
 
 **Sugerencia de interpretación:** Eres todo lo que se espera de un general racista, machista, cruel, sádico (de hecho disfrutas con el dolor ajeno y propio) y con un total desprecio por la vida humana. Los fallos los castigas duramente, muy duramente. En cuanto empiezan a salirte mal las cosas empiezas a chillar a todos y a moverte frenéticamente.
 
-### Artur Eckart, científico loco nazi &#x2638;
+### Doctor Artur Eckart, científico loco nazi &#x2638;
 [![Primer plano de Wayland](./assests/images/eckart.jpg 'Geoffrey N. Pyke by State Library Victoria Collections')](https://www.flickr.com/photos/statelibraryofvictoria_collections/ 'Geoffrey N. Pyke by State Library Victoria Collections')
 
 xxx
@@ -3172,8 +3205,9 @@ xxx
 * **Atributos:** Agilidad d6, Astucia d12, Espíritu d6, Fuerza d6, Vigor d4
 * **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** xxx; **Dureza:** 4
-* **Ventajas:** xxx
+* **Ventajas:** Trasfondo arcano (Ciencia extraña), xxx
 * **Desventajas:** xxx
+* **Ciencia extraña:** xxx
 * **Equipo:** Bata blanca, Libros de consulta de física y química, Útiles científicos varios
 
 **Sugerencia de interpretación:** Tu locura esta al nivel de tu genialidad científica, así que estás muy muy loco. Gritas y susurras en la misma frase y hablas contigo mismo. Te preguntas y te respondes con diferentes voces incluso discutes a voces contigo mismo. Y de repente vuelves a la normalidad durante unos segundos pareciendo totalmente normal.
