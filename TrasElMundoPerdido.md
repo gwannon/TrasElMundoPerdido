@@ -3200,9 +3200,11 @@ Theodor es uno de generales más importantes de las fuerzas militares nazis y es
 ### Doctor Artur Eckart, científico loco nazi &#x2638;
 [![Primer plano de Wayland](./assests/images/eckart.jpg 'Geoffrey N. Pyke by State Library Victoria Collections')](https://www.flickr.com/photos/statelibraryofvictoria_collections/ 'Geoffrey N. Pyke by State Library Victoria Collections')
 
+Este genio de la ciencia, de hecho será una de las personas más inteligentes del mundo, es capaz de crear inventos increíbles, pero en vez de ponerlos al servicio del mundo se decantó por los nazis, aunque no crea en su causa, ya que no le ponían impedimentos éticos y morales a sus experimentos. No tiene problemas en probar todo tipo de ingenios y descubrimientos científicos en prisiones de guerra y de campos de concentración según él siempre en beneficio de la ciencia. 
+
 xxx
 
-* **Atributos:** Agilidad d6, Astucia d12, Espíritu d6, Fuerza d6, Vigor d4
+* **Atributos:** Agilidad d6, Astucia d12+2, Espíritu d6, Fuerza d6, Vigor d4
 * **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Notar d4, Persuadir d4, Sigilo d4
 * **Paso:** 6; **Parada:** xxx; **Dureza:** 4
 * **Ventajas:** Trasfondo arcano (Ciencia extraña), xxx
@@ -3210,7 +3212,7 @@ xxx
 * **Ciencia extraña:** xxx
 * **Equipo:** Bata blanca, Libros de consulta de física y química, Útiles científicos varios
 
-**Sugerencia de interpretación:** Tu locura esta al nivel de tu genialidad científica, así que estás muy muy loco. Gritas y susurras en la misma frase y hablas contigo mismo. Te preguntas y te respondes con diferentes voces incluso discutes a voces contigo mismo. Y de repente vuelves a la normalidad durante unos segundos pareciendo totalmente normal.
+**Sugerencia de interpretación:** Tu locura esta al nivel de tu genialidad científica, así que estás muy muy loco. Gritas y susurras en la misma frase y hablas contigo mismo. Te preguntas y te respondes con diferentes voces incluso discutes a gritos contigo mismo. Y de repente vuelves a la normalidad durante unos segundos pareciendo totalmente normal.
 
 \saltopagina
 
