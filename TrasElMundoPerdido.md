@@ -763,7 +763,7 @@ El dinosaurio no es un espécimen adulto y todavía no ha llegado a su tamaño d
 
 También supone que el equipamiento que se le ponga no puede usarse en otros dinosaurios de su especie porque es específico para él y viceversa. Adaptarlo de uno a otro llevará 1 hora de trabajo con las herramientas adecuadas.
 
-Podrá quitarse si se quiere gastando un avance conseguido a partir de Experimentado.
+Podrá quitarse si se quiere gastando un avance conseguido a partir de Experimentado. Si sigue siendo joven cuando empiecen la "Parte 8: Regreso al Mundo Perdido" también perderá esta desventaja. Han pasado muchos meses y ha terminado creciendo.
 
 ### Nueva desventaja para dinosaurios: Parte de la manada (Menor)
 
