@@ -571,7 +571,7 @@ Hay una serie de reglas en esta campaña que modifican las normas generales de c
 * Hay un nuevo idioma, el sakala, el idioma hablado por los aborígenes del mundo perdido.
 * **No existe la habilidad Ordenadores.** Electrónica cubre todo tipo de aparatos electrónicos con capacidades computacionales.
 * Hay **nuevas Ventajas**: Compañero dinosaurio, Los números primos son rojos y huelen dulces y Sensibilidad celta.
-* Hay **nuevas Desventajas**: Alergia a los saurios e Imán de lo extraño.
+* Hay **nuevas Desventajas**: Alergia a los saurios, Imán de lo extraño, Megalomanía y Paranoia.
 
 ### Arquetipos
 Aquí tienes algunos conceptos sobre los que construir tu PJ.
@@ -705,6 +705,16 @@ Como DJ, cuando vayas a hacer tiradas al azar para ver a quién le pasa algo rar
 
 \saltopagina
 
+### Nueva desventaja: Megalomanía (mayor/menor)
+La megalomanía se caracteriza porque la persona tiene ideas de grandeza, de manera que puede mentir, manipular o exagerar algunas situaciones o a las personas, a fin de conseguir sus objetivos.
+
+A nivel menor deberá elegir algo en el que quiere el mejor (el más fuerte, el más rápido, el más rico, ...), esto hará que actúe de forma desafiante y agresiva contra las personas que es mejor que él y obtendrá un -1 a todas las tiradas de interacción social con esas personas. A nivel mayor será a nivel general contra toda persona que pueda ser mejor que él en algún campo en el que esté cualificado, es decir, que tenga atributo/habilidad d8 o más.
+
+### Nueva desventaja: Paranoia (mayor/menor)
+Tu personaje está convencido de que los enemigos están en todas partes, y cree que todos están contra él. Siempre está mirando a su espalda esperando una traición de sus compañeros o tratando de escuchar cómo conspiran a sus espaldas.
+
+Como desventaja menor, tienes un -1 en todas las tiradas de habilidad que exijan concentración (como abrir cerraduras, jugar a las cartas, descifrar un código, …) cuando otros están a tu alrededor. Si se toma como mayor, además, el -1 se aplicará a todas las tiradas de percepción, ya que estará más preocupado desvelando conspiraciones y enemigos ocultos que en vigilar o buscar.
+
 ### Nueva ventaja para dinosaurios: Alas rápidas
 **Requisitos:** Novato, Vuelo, Agilidad d6+
 
@@ -718,7 +728,17 @@ Su capacidad de nadar es excepcionalmente rápida, convirtiéndole en uno de los
 ### Nueva ventaja para dinosaurios: Aviso de peligro
 **Requisitos:** Novato, Herbívoro
 
-Llevar milenios siendo una presa ha hecho que ciertos especímenes de tu especie detecte los peligros y tenga un sistema de alarma. Obtienes un +2 a Notar para detectar enemigos y además algún tipo de señal (bramido, golpear el suelo con la cola, chocar las alas, etc.) para avisar al resto de la manada.
+Llevar milenios siendo una presa ha hecho que ciertos especímenes de tu especie detecte los peligros y tenga un sistema de alarma. 
+
+\saltopagina
+
+[![Imagen de Charles R. Knight esculpiendo un estegosaurio](./assests/images/knight.jpg 'Charles R. Knight working on Stegosaurus in 1899 Unknown author - http://www.darwinlive.com/')](https://commons.wikimedia.org/wiki/Category:Charles_R._Knight#/media/File:Charles_R._Knight.jpg/2 'Charles R. Knight working on Stegosaurus in 1899 Unknown author - http://www.darwinlive.com/')
+
+&nbsp;
+
+Obtienes un +2 a Notar para detectar enemigos y además algún tipo de señal (bramido, golpear el suelo con la cola, chocar las alas, etc.) para avisar al resto de la manada.
+
+&nbsp;
 
 ### Nueva ventaja para dinosaurios: Buen paciente
 
@@ -726,6 +746,7 @@ Llevar milenios siendo una presa ha hecho que ciertos especímenes de tu especie
 
 El saurio es muy buen paciente y se comporta muy bien cuando hay que realizarle pruebas o realizar curas. Las tiradas de Ciencias al practicarle pruebas y experimentos y las de Medicina al curar heridas y enfermedades obtiene un +2.
 
+&nbsp;
 
 ### Nueva ventaja para dinosaurios: Raptor
 
@@ -733,16 +754,12 @@ El saurio es muy buen paciente y se comporta muy bien cuando hay que realizarle 
 
 El saurio carnívoro es un experto cazador con lo que puede obtiene +2 a Notar al buscar a su presa y +2 a sigilo al tender emboscadas a sus presas.
 
-### Nueva desventaja para dinosaurios: Joven (Mayor)
-
-El dinosaurio no es un espécimen adulto y todavía no ha llegado a su tamaño de adulto. Es por ello que tiene 1 punto menos de tamaño que lo normal en su especie con todas las consecuencias en Dureza, número de heridas, etc.
-
 \saltopagina
 
+### Nueva desventaja para dinosaurios: Joven (Mayor)
+[![Primer plano de una ilustración de un ictiosaurio](./assests/images/ictiosaurio-libro.jpg 'Mighty animals; being short talks about some of the animals which lived on this earth before man appeared, - Mix, Jennie Irene')](https://commons.wikimedia.org/wiki/Category:Mighty_animals#/media/File:Mighty_animals_(Page_64)_BHL40566207.jpg 'Mighty animals; being short talks about some of the animals which lived on this earth before man appeared, - Mix, Jennie Irene')
 
-[![Imagen de Charles R. Knight esculpiendo un estegosaurio](./assests/images/knight.jpg 'Charles R. Knight working on Stegosaurus in 1899 Unknown author - http://www.darwinlive.com/')](https://commons.wikimedia.org/wiki/Category:Charles_R._Knight#/media/File:Charles_R._Knight.jpg/2 'Charles R. Knight working on Stegosaurus in 1899 Unknown author - http://www.darwinlive.com/')
-
-&nbsp;
+El dinosaurio no es un espécimen adulto y todavía no ha llegado a su tamaño de adulto. Es por ello que tiene 1 punto menos de tamaño que lo normal en su especie con todas las consecuencias en Dureza, número de heridas, etc.
 
 También supone que el equipamiento que se le ponga no puede usarse en otros dinosaurios de su especie porque es específico para él y viceversa. Adaptarlo de uno a otro llevará 1 hora de trabajo con las herramientas adecuadas.
 
@@ -840,9 +857,9 @@ Aparte del equipo anterior tendrán acceso a típico equipo de comando o de esp�
 \saltopagina
 
 ## Equipo para dinosaurios
-Durante años, la fundación Roxton ha ido desarrollando todo tipo de equipamiento para que los humanos y los dinosaurios pudieran trabajar en equipo. 
-Este equipamiento está pensado en la comodidad no solo del humano sino también del saurio y ha sido adaptado las características y fisonomía de cada 
-especie. 
+Durante años, la fundación Roxton ha ido desarrollando todo tipo de equipamiento para que los humanos y los dinosaurios pudieran trabajar en equipo.
+
+Este equipamiento está pensado en la comodidad no solo del humano sino también del saurio y ha sido adaptado las características y fisonomía de cada especie. 
 
 ### Arnés acuático
 Esta estructura de aluminio superresistente, que se amarra y ajusta con cinchas de nailon a un ictiosaurio o un plesiosaurio, permite al submarinista ser transportado a gran velocidad bajo el agua. El buzo se agarra a dos estribos metálicos y se suelta cuando sea necesario. Según hace fuerza con los estribos en un sentido u otro, cambia el peso de su cuerpo e indica al saurio por donde ir.
@@ -3205,11 +3222,11 @@ Este genio de la ciencia, de hecho será una de las personas más inteligentes d
 xxx
 
 * **Atributos:** Agilidad d6, Astucia d12+2, Espíritu d6, Fuerza d6, Vigor d4
-* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Idioma Inglés d4, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** 6; **Parada:** xxx; **Dureza:** 4
-* **Ventajas:** Trasfondo arcano (Ciencia extraña), xxx
-* **Desventajas:** xxx
-* **Ciencia extraña:** xxx
+* **Habilidades:** Atletismo d4, Ciencias d12, Ciencia extraña d12, Conducir d6, Conocimientos Generales d4, Disparar d8, Humanidades d6, Idioma Alemán d12, Idioma Inglés d10, Investigar d8, Medicina d10, Notar d8, Pelear d4, Persuadir d4, Reparar d6, Sigilo d4
+* **Paso:** 6; **Parada:** 4; **Dureza:** 4
+* **Ventajas:** Trasfondo arcano (Ciencia extraña), Inventor, McGyver, Mr. Arreglalotodo, Los números primos son rojos y huelen dulces
+* **Desventajas:** Paranoia (mayor), Megalomania (mayor) 
+* **Ciencia extraña:** 15 pp. xxx
 * **Equipo:** Bata blanca, Libros de consulta de física y química, Útiles científicos varios
 
 **Sugerencia de interpretación:** Tu locura esta al nivel de tu genialidad científica, así que estás muy muy loco. Gritas y susurras en la misma frase y hablas contigo mismo. Te preguntas y te respondes con diferentes voces incluso discutes a gritos contigo mismo. Y de repente vuelves a la normalidad durante unos segundos pareciendo totalmente normal.
