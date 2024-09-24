@@ -3219,13 +3219,16 @@ Theodor es uno de generales más importantes de las fuerzas militares nazis y es
 
 Este genio de la ciencia (de hecho, será una de las personas más inteligentes del mundo) es capaz de crear inventos increíbles, pero en vez de ponerlos al servicio del mundo se decantó por los nazis. Aunque no cree en su causa, como no le ponen impedimentos éticos y morales a sus experimentos lleva asociado con ellos desde hace años. No tiene problemas en probar todo tipo de ingenios y descubrimientos científicos en prisiones de guerra y de campos de concentración, según él siempre en beneficio de la ciencia.
 
-Su mayor descubrimiento ha sido desarrollar una especie de rayo láser hipercalorífico que puede destruir ciudades enteras en segundos dejando nada más que cenizas, el problema es que para que el arma sea efectiva necesita una ingente cantidad de diamantes con unas características muy específicas de color y de tono que los hacen muy difíciles de encontrar. Ha podido ofrecer al propio Hitler versiones funcionales de su invento, pero a pequeña escala, para lograr una arma definitiva necesita gran cantidad de esos diamantes especiales.
+Su mayor descubrimiento ha sido desarrollar una especie de rayo láser hiper-calorífico que puede destruir ciudades enteras en segundos dejando nada más que cenizas, el problema es que para que el arma sea efectiva necesita una ingente cantidad de diamantes con unas características muy específicas de color y de tono que los hacen muy difíciles de encontrar. Ha podido ofrecer al propio Hitler versiones funcionales de su invento, pero a pequeña escala, para lograr una arma definitiva necesita gran cantidad de esos diamantes especiales.
 
-Ante este éxito parcial, Eckart consiguió que le montarán un laboratorio con todos los avances de la ciencia actual en el castillo de Hohenzollern. En principio dispone de fondos económicos infinitos para hacer sus experimentos y el ejército nazi le ha proporcionado algunas de sus mejores unidades de combate apra su defensa.
+Ante este éxito parcial, Eckart consiguió que le montarán un laboratorio con todos los avances de la ciencia actual en el castillo de Hohenzollern. En principio dispone de fondos económicos infinitos para hacer sus experimentos y el ejército nazi le ha proporcionado algunas de sus mejores unidades de combate para su defensa.
 
-Pero este genio loco no solo ha trabajado en su rayo mortal, también ha mejorado de forma efectiva a los soldados que protegen su castillo con todo tipo de inventos desarrollados por el.
+Pero este genio loco no solo ha trabajado en su rayo mortal, también ha mejorado de forma efectiva a los soldados que protegen su castillo con todo tipo de inventos desarrollados por él.
 
 * **Atributos:** Agilidad d6, Astucia d12+2, Espíritu d6, Fuerza d6, Vigor d4
+
+\saltopagina
+
 * **Habilidades:** Atletismo d4, Ciencias d12, Ciencia extraña d12, Conducir d6, Conocimientos Generales d4, Disparar d8, Humanidades d6, Idioma Alemán d12, Idioma Inglés d10, Investigar d8, Medicina d10, Notar d8, Pelear d4, Persuadir d4, Reparar d6, Sigilo d4
 * **Paso:** 6; **Parada:** 4; **Dureza:** 4
 * **Ventajas:** Trasfondo arcano (Ciencia extraña), Inventor, McGyver, Mr. Arreglalotodo, Los números primos son rojos y huelen dulces
@@ -3234,8 +3237,6 @@ Pero este genio loco no solo ha trabajado en su rayo mortal, también ha mejorad
 * **Equipo:** Bata blanca, Libros de consulta de física y química, Útiles científicos varios
 
 **Sugerencia de interpretación:** Tu locura esta al nivel de tu genialidad científica, así que estás muy muy loco. Gritas y susurras en la misma frase y hablas contigo mismo. Te preguntas y te respondes con diferentes voces incluso discutes a gritos contigo mismo. Y de repente vuelves a la normalidad durante unos segundos pareciendo totalmente normal.
-
-\saltopagina
 
 ### Irma Bormann, espía de las SS &#x2638;
 [![Retrato de Irma Bormann](./assests/images/bormann.jpg 'Studio portrait photo of Veronica Lake taken for promotional use.')](https://es.wikipedia.org/wiki/Veronica_Lake#/media/Archivo:Veronica_Lake_still.jpg 'Studio portrait photo of Veronica Lake taken for promotional use.')
@@ -3251,9 +3252,9 @@ xxx
 * **Desventajas:** Despiadada (mayor), Exceso de confianza
 * **Equipo:** Impresionante traje de noche de alta costura, bolso a juego con pistola dentro, stilettos
 
-**Sugerencia de interpretación:** De normal, la intimidación y la fuerza no son tu estilo. Lo tuyo es el carisma, el «sex-appeal» y la zalamería. Unas palabras bonitas y aduladoras y unas miraditas provocativas y tienes a todo el mundo comiendo de tu mano. Para que abrir una cerradura con ganzúas si puedes engañar a la persona que la vigila para que te abra. Todo va bien hasta que tu lado sádico sale a la superficie, en ese momento la careta cae y conocerán el dolor.
-
 \saltopagina
+
+**Sugerencia de interpretación:** De normal, la intimidación y la fuerza no son tu estilo. Lo tuyo es el carisma, el «sex-appeal» y la zalamería. Unas palabras bonitas y aduladoras y unas miraditas provocativas y tienes a todo el mundo comiendo de tu mano. Para que abrir una cerradura con ganzúas si puedes engañar a la persona que la vigila para que te abra. Todo va bien hasta que tu lado sádico sale a la superficie, en ese momento la careta cae y conocerán el dolor.
 
 ### Günther Prien, capitán de submarino &#x2638;
 [![Primer plano de Günther Prien](./assests/images/prien.jpg 'Kapitänleutnant Prien 6534-40 - Bundesarchiv')](https://es.wikipedia.org/wiki/G%C3%BCnther_Prien#/media/Archivo:Bundesarchiv_Bild_183-2006-1130-500,_Kapit%C3%A4nleutnant_G%C3%BCnther_Prien.jpg 'Kapitänleutnant Prien 6534-40 - Bundesarchiv')
