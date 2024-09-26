@@ -148,7 +148,7 @@ Lo único que está permitido es un comercio muy básico en el que la Fundación
 
 Siguiendo esta política, se estableció una especie de reserva controlada con los pitecántropos que sobrevivieron y escaparon de los sakala. Siguen siendo peligrosos, pero ahora son menos y más controlados.
 
-### Lady Roxton
+## Lady Roxton
 Poco sabía Margaret Roxton, sobrina de Lord Roxton, lo que iba a cambiar su vida cuando el albacea testamentario de su tío se presentó en su para entregarle una fabulosa fortuna y el control de la fundación con su nombre, tras la muerte de su tío por un ataque al corazón.
 
 \saltopagina
@@ -1814,9 +1814,11 @@ Si quieren probar por el aire, los potentes focos y las armas anti-áreas darán
 
 En resumen, solo con ayuda externa se puede entrar con seguridad en La Havre y eso solo puede dártelo Jocelyn Dubois. Quizás conozcan ya a Jocelyn de Tobruk e incluso tengan una relación intensa con ella. Según Linton, está ahora mismo en La Havre, su ciudad natal, en una misión propia para la IM. Tengo una radio de onda corta y podrían comunicarse con ella si se acercan a la costa francesa.
 
-xxx
+Jocelyn tienes varias formas de entrar en la ciudad, pero según le caigan tus comandos puede ser más maja o más cabrona. La opción maja es por la playa de La Havre. Los pescadores locales le dijeron que una barca cerca de la costa puede salir a alta mar sin ser detectado y sin acercarse a las minas. De la playa pueden ir al norte a una zona boscosa y ocultarse hasta que Jocelyn vaya a buscarlas. Puedes pedirles unas tiradas de Sigilo para moverse hasta el bosque sin ser detectados.
 
 \saltopagina
+
+La opción cabrona es hacerles entrar en la red de alcantarillado de la ciudad. Al norte de la ciudad una gran alcantarilla da al mar se pueden sumergir y entrar por gran tubería de alcantarillado hasta llegar al colector principal. Luego deberán seguir las instrucciones de Jocelyn hasta el colector principal donde les recogerá para llevarlos a algún sitio seguro. Puede que tu grupo se encuentre con alguna patrulla nazi que vigila las alcantarillas. No deberían tener problemas, el problema será si algún nazi escapa y avisa de que hay intrusos en la ciudad.
 
 ## Estudiando al enemigo
 xxx
@@ -3003,7 +3005,7 @@ Por último, tenemos una sección con los auténticos protagonistas de esta camp
 Con cada PJ viene una «sugerencia de interpretación». Como bien dice su nombre es una sugerencia y eres libre de seguirla o no. Es tu aventura no la nuestra.
 
 ## Aliados
-Don Quijote no sería nada sin su Sancho Pancho y tus comandos no serían nada sin sus aliados. En este apartado encontrarás a los principales aliados de tu mesa, gentes de la Fundación, de IM y PNJ que encontrarán cada escenario.
+Don Quijote no sería nada sin su Sancho Pancho y tus comandos no serían nada sin sus aliados. En este apartado encontrarás a los principales aliados de tu mesa, gentes de la Fundación, de IM y PNJ que encontrarán en cada escenario.
 
 > Las vidas sentimentales y sexuales de los personajes de esta ambientación han sido dejadas a propósito sin definir para que las adaptes como más te interese. Así que cualquier persona de tu mesa podrá «romancear» con cualquier PNJ que encuentres aquí.
 > Recuerda también que en los pocos casos en se habla de familia, no se especifica a propósito cómo es y quiénes la componen. Móntate las relaciones sexo-afectivas y familiares que mejor se ajusten a tus gustos y los de tu mesa y con las que todos os encontréis cómodos.
@@ -3014,7 +3016,7 @@ Don Quijote no sería nada sin su Sancho Pancho y tus comandos no serían nada s
 
 [![Retrato de Lady Margaret Roxton](./assests/images/lady-broxton.jpg 'Chalk drawing of Beatrice Webb by Jessie Holiday, circa 1909')](https://en.wikipedia.org/wiki/Beatrice_Webb#/media/File:Webb_beatrice_(middle_age).jpg 'Chalk drawing of Beatrice Webb by Jessie Holiday, circa 1909')
 
-La tranquila vida en Londres de Margaret Roxton se vio alterada cuando heredó el título de su tío, Lord John Roxton, su gran fortuna, su espectacular colección de armas de fuego y su reserva de animales en escocia. 
+La tranquila vida en Londres de Margaret Roxton se vio alterada cuando heredó el título de su tío, Lord John Roxton, su gran fortuna, su espectacular colección de armas de fuego y su reserva de animales en Escocia. 
 
 Margaret creció con las historias de caza que su tío le contaba cuando visitaba a su hermana y su familia. Eran grandes aventuras de África y sobre todo de Sudamérica, de la que estaba enamorada; cómo se había enfrentado a esclavistas, cómo había recorrido los rápidos de afluentes del Amazonas, las costumbres de las tribus indígenas, etc.
 
@@ -3027,7 +3029,7 @@ xxx
 * **Desventajas:** Heroica, Obligaciones(mayor, Fundación Roxton)
 * **Equipo:** Ropas de trabajo de calidad, Herramientas de granja, Cartas y teletipos sin leer
 
-**Sugerencia de interpretación:** xxx
+**Sugerencia de interpretación:** Tus modales de alta sociedad hace mucho que han desaparecido y estás más cerca de un mozo de cuadra que de una adinerada mujer de la alta sociedad. Ríete a carcajadas, grita, sorbe el té y come con las manos, no tienes ni ganas n tiempo para las chorradas de la alta sociedad.
 
 \saltopagina
 
@@ -3043,16 +3045,19 @@ Como buena irlandesa es vividora y fiestera y si sus manos no están sujetando u
 
 Dolores siempre cuenta que en su familia llevan siendo marinos desde hace siglo, lo que no cuenta es que durante un tiempo fueron corsarios al servicio de Inglaterra. Y entre los chismes familiares hay uno que fascina a Dolores desde niña, el que cuenta la ubicación de un galeón hundido lleno de oro. 
 
+> Dolores va a ser uno de los personajes con los que tus comandos más van a tener más relación durante sus aventuras. Es por ello que hay recalcar que es importante que caiga bien a tus comandos. Mi consejo es que busques la forma de que les caiga bien, quizás siendo divertida y chistosa, sacando unas copas de whisky cuando las cosas se ponen difíciles o diciendo un buen epitafio en el funeral de un comando o un saurio fallecido en combate. 
+
 * **Atributos:** Agilidad d6, Astucia d8, Espíritu d8, Fuerza d8, Vigor d6
 * **Habilidades:** Atletismo d8, Apostar d6, Conducir d8, Conocimientos Generales d6, Disparar d8, Idioma Inglés d8, Idioma Español d6, Intimidar d8, Navegar d10, Notar d8, Pelear d6, Persuadir d6, Pilotar d12, Reparar d8, Sigilo d4, Supervivencia d6
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
+
+\saltopagina
+
 * **Ventajas:** Afortunada, Muy Afortunada, Sensibilidad celta
 * **Desventajas:** Habito (menor, alcohol), Manía (menor, supersticiosa), Manía (menor, malhablada)
 * **Equipo:** Uniforme de capitán de la marina mercante, pistola, prismáticos, brújula
 
 **Sugerencia de interpretación:** Eres una irlandesa arquetípica, pendenciera, bebedora, fiestera y como marina eres malhablada y supersticiosa. Eso sí, harías lo que fuera necesario con tu familia y amigos.
-
-\saltopagina
 
 ### Wayland, armero e ingeniero &#x2638;
 [![Primer plano de Wayland](./assests/images/wayland.jpg 'Title: NYA (National Youth Administration) work center, Brooklyn, New York. Turret-lathe workers, Negro and white, who are receiving training in machine shop practice, carrying out an operation on a turret lathe Creator(s): Henle, Fritz, photographer')](https://picryl.com/media/turret-lathe-workers-8d36007v-f58c5b 'Title: NYA (National Youth Administration) work center, Brooklyn, New York. Turret-lathe workers, Negro and white, who are receiving training in machine shop practice, carrying out an operation on a turret lathe Creator(s): Henle, Fritz, photographer')
@@ -3072,9 +3077,9 @@ La Fundación le reclutó, cuando el «Mary Anning» tuvo que hacer reparaciones
 * **Desventajas:** Mudo
 * **Equipo:** Herramientas de buena calidad, Mandil de cuero de herrero (+1 pecho y piernas), Soplete de acetileno, Papel y lápiz para escribir
 
-**Sugerencia de interpretación:** Siempre estás alegre, bailoteando las canciones que ponen en tu radio, la cual nunca apagas. Te entusiasman los nuevos retos y estás deseoso de que alguien aparezca por tu taller con algún reto que ponga a prueba tus capacidades.  
-
 \saltopagina
+
+**Sugerencia de interpretación:** Siempre estás alegre, bailoteando las canciones que ponen en tu radio, la cual nunca apagas. Te entusiasman los nuevos retos y estás deseoso de que alguien aparezca por tu taller con algún reto que ponga a prueba tus capacidades.  
 
 ### General Eugene Linton, director de la IM y enlace con el alto mando &#x2638;
 [![Primer plano de General Eugene Linton](./assests/images/linton.jpg 'Lieutenant General J T Crocker, Cb, Cbe, Dso, Mc, Commander of 1st Corps, France, August 1944 TR2168')](https://picryl.com/media/lieutenant-general-j-t-crocker-cb-cbe-dso-mc-commander-of-1st-corps-france-9aadef 'Lieutenant General J T Crocker, Cb, Cbe, Dso, Mc, Commander of 1st Corps, France, August 1944 TR2168')
@@ -3103,7 +3108,13 @@ Linton sabe que el conflicto actual será su última batalla y quiere irse por l
 
 [![Retrato de Teniente Horace Chambers](./assests/images/horace.jpg 'This is a photo of the young Peter Conder as a Lieutenant in the Royal Signal Corps. Author: Irandar')](https://commons.wikimedia.org/wiki/File:Peter_Conder_Lieutenant_Royal_Corps_Signals.jpg 'This is a photo of the young Peter Conder as a Lieutenant in the Royal Signal Corps. Author: Irandar')
 
-xxx
+Horace Chambers es la persona más alejada de lo que pensarías que es un espía y sin embargo es una pieza importante en IM. Su visión totalmente diferente de la vida hace que piense fuera de la caja, cosa que IM ha aprovechado varias veces con éxito. 
+
+Tiene bastos conocimientos de cultura pop como chismes y cotilleos, datos curiosos, trucos de cocina, etc. A eso se junta su licenciatura en historia del arte una gran afición a leer los libros de estrategia militar antigua. Todo eso ha conformado una mente excepcional para buscar soluciones imaginativas a problemas importantes que ha tenido IM. 
+
+Fue Horace quien, mientras servía té al general Linton, vio un informe de la Fundación Roxton y le dijo sin darle la mínima importancia que Hitler se volvería loco por conseguir un tiranosaurio con el que desfilar por Berlín.
+
+Es un adicto confeso a la azúcar y es raro verlo sin algo azucarado en la mano. Deja una caja de pastas abierta al lado suyo y cuando te gires habrá desaparecido.
 
 * **Atributos:** Agilidad d4, Astucia d10, Espíritu d8, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d4, Conducir d4, Conocimientos Generales d12, Ciencias d10, Disparar d6, Humanidades d10, Idioma Inglés d10, Investigar d8, Notar d8, Pelear d4, Persuadir d4, Sigilo d4, Tácticas d10
@@ -3112,9 +3123,11 @@ xxx
 * **Desventajas:** Obligaciones (mayor, ejército), Leal, Patoso
 * **Equipo:** Uniforme de militar con galones de teniente, pistola reglamentaria, mapas, dosieres, cajas con dulces, taza de té
 
+\saltopagina
+
 **Sugerencia de interpretación:** Siempre estás comiendo, aprovecha a abrir los aperitivos cuando hagas de Horace, habla con la boca abierta y haz mucho ruido al masticar. Te encanta la historia así que siempre metes datos históricos totalmente inútiles para la misión y al final todo el mundo acaba aburrido y bostezando.
 
-\saltopagina
+> Aparte de un alivio cómico, Horace puede ser una excusa para dar pistas a tus comandos cuando los veas perdidos. Haz que suelte alguna frase que parezca estúpida, pero que si la piensan un poco les dé alguna buena idea para solucionar el problema al que se enfrentan. Quizás les recuerde que la corona de la familia real británica tiene 4 puntas y eso les sirva para detectar documentos falsos. 
 
 ### Jocelyn Dubois, espía y aventurera &#x2638;
 [![Retrato de Jocelyn Dubios](./assests/images/jocelyn.jpg 'Painting sketch by ArthurHenri')](https://www.deviantart.com/arthurhenri/art/Painting-sketch-775087428 'Painting sketch by ArthurHenri')
@@ -3127,6 +3140,8 @@ También es una apasionada de la historia, de hecho su tapadera principal es la 
 
 Jocelyn será un personaje importante en dos escenarios de esta campaña, la Francia Ocupada y el Norte de África. Por eso puede ser interesante y divertido que coquetee con alguno de los comandos en el primer escenario para que tengan un interés extra en el segundo escenario.
 
+\saltopagina
+
 * **Atributos:** Agilidad d8, Astucia d8, Espíritu d10, Fuerza d8, Vigor d8
 * **Habilidades:** Apostar d6, Atletismo d8, Conocimientos Generales d8, Disparar d8, Humanidades d8, Idioma Inglés d8, Idioma Árabe d6, Idioma Alemán d8, Idioma Italiano d6, Idioma Francés d8, Investigar d8, Latrocinio d8, Medicina d6, Notar d8, Pelear d8, Persuadir d8, Sigilo d6
 * **Paso:** 6; **Parada:** 6; **Dureza:** 6
@@ -3135,8 +3150,6 @@ Jocelyn será un personaje importante en dos escenarios de esta campaña, la Fra
 * **Equipo:** Varios pasaportes de diferentes nacionalidades y dinero en diferentes divisas (escondido en un lugar secreto), ropa cómoda de viaje, libros y herramientas de arqueología, pistola y daga (FUE+d4)
 
 **Sugerencia de interpretación:** Eres una vividora. Te gusta la vida en todos sus aspectos, la buena comida, la buena bebida, bailar y cantar y pasártelo bien en dormitorio. Trata siempre de disfrutar de los pequeños placeres de la vida incluso en las peores situaciones. Puede que estés en medio de un tiroteo con unos soldados nazis, pero eso no quiere decir que no puedas llevarte un par de botellas de un vino italiano para la cena.
-
-\saltopagina
 
 ### Arntine Cornelia Marie Edvardsdatter Lyngstad, campesina noruega convertida en espía inglesa &#x2638;
 [![Primer plano de Arntine Lyngstad en su juventud](./assests/images/arntine.jpg 'Aud Egede Nissen - Alexander Binder')](https://en.wikipedia.org/wiki/Aud_Egede-Nissen#/media/File:Aud_Egede_Nissen_Binder.jpg 'Aud Egede Nissen - Alexander Binder')
@@ -3147,6 +3160,8 @@ Esta situación fue aprovechada por IM para convertir a Arntine en uno de sus co
 
 Siguiendo órdenes de los ingleses, Arntine se movió por todo el país trabajando siempre para los alemanes en trabajos de bajo nivel como criada, costurera, etc. Esto le permitía entrar en cualquier sitio y ser casi invisible al ser considerada inferior por sus empleadores alemanes.
 
+\saltopagina
+
 Ahora mismo está viviendo en la zona de Telemark y al ser el agente inglés de menor valía se le ha puesto a trabajar con los comandos de la fundación Roxton, ya que su perdida no supone ninguna perdida importante.
 
 > La niña que Synni lleva es su vientre es Frida, la cantante morena de grupo ABBA. Gracias a tus comandos todos podemos cantar «Mamma Mia» o «Waterloo».
@@ -3156,20 +3171,19 @@ Ahora mismo está viviendo en la zona de Telemark y al ser el agente inglés de 
 * **Paso:** 6; **Parada:** 5; **Dureza:** 5
 * **Ventajas:** Investigadora, Osada
 * **Desventajas:** Marginada (menor, tyskerhoren), Obligaciones (menor, criada de von Liebenfels), Pobre
-
-\saltopagina
-
 * **Equipo:** Ropa de criada y productos y herramientas de limpieza
 
 **Sugerencia de interpretación:** Tu voluntad es inquebrantable, por mucho que lo intenten, por mucho que te echen encima, no pueden doblegarte. Seguirás adelante protegiendo a tu familia en una de las peores épocas de la historia. 
 
-### Ibrahim Adauy, un ladrón de guante largo que se burla de la ley &#x2638;
+### Ibrahim Adauy, un ladrón de guante blanco &#x2638;
 
 [![Primer plano de Ibrahim Adauy](./assests/images/ibrahim.jpg 'Image by ASphotofamily on Freepik')](https://www.freepik.com/free-photo/portrait-retro-1920s-english-arabian-business-man-wearing-dark-suit-tie-flat-cap_26284579.htm 'Image by ASphotofamily on Freepik')
 
 Ibrahim es el epítome del ladrón de guante blanco, es ágil, sigiloso y diestro. No hay pared que no pueda escalar o cerradura que no pueda abrir. Podría robarle su strudel a un oficial nazi de las manos sin que se diera cuenta.
 
 Ya tuvo que huir de Argelia por problemas a ambos lados de la ley, y como siga así tendrá que abandonar también Francia. La policía y la PM nazi han puesto una recompensa por su captura y a los criminales de la zona no les cae muy bien por su exceso de confianza que le lleva a arriesgar demasiado.
+
+\saltopagina
 
 Contratar a Adauy es una opción muy interesante si tus comandos necesitan conseguir algún objeto muy bien custodiado. Además, siempre anda con problemas de dinero por su ludopatía, con lo que se le puede comprar fácilmente.
 
@@ -3181,8 +3195,6 @@ Cuando haces tratos con Alí has de saber que tienden a pasar cosas extrañas a 
 * **Desventajas:** Exceso de confianza, Hábito (menor, ludopatía), Imán de lo extraño
 * **Ventajas:** Acróbata, Atractivo, Callejear, Ladrón, Pies ligeros
 * **Equipo:** Daga (FUE+d4), ropas oscuras, herramientas de ladrón y cuerda y garfio de escalada
-
-\saltopagina
 
 **Sugerencia de interpretación:** Ibrahim es el típico ladrón de guante blanco de películas clásicas de robos. Es elegante, de buenas maneras, modales finos y gustos caros. Cuando no estás trabajando disfrutas de los placeres de la vida en restaurantes y teatros. Coquetea continuamente y no dejes de halagar a la gente de alrededor, los halagos te han librado de prisión más veces que tus acrobacias.
 
@@ -3233,7 +3245,7 @@ Pero este genio loco no solo ha trabajado en su rayo mortal, también ha mejorad
 * **Paso:** 6; **Parada:** 4; **Dureza:** 4
 * **Ventajas:** Trasfondo arcano (Ciencia extraña), Inventor, McGyver, Mr. Arreglalotodo, Los números primos son rojos y huelen dulces
 * **Desventajas:** Paranoia (mayor), Megalomania (mayor) 
-* **Ciencia extraña:** 15 pp. xxx
+* **Ciencia extraña:** 15 pp. Rayo mortal portátil (Chorro), Campo de fuerza (Desvío)
 * **Equipo:** Bata blanca, Libros de consulta de física y química, Útiles científicos varios
 
 **Sugerencia de interpretación:** Tu locura esta al nivel de tu genialidad científica, así que estás muy muy loco. Gritas y susurras en la misma frase y hablas contigo mismo. Te preguntas y te respondes con diferentes voces incluso discutes a gritos contigo mismo. Y de repente vuelves a la normalidad durante unos segundos pareciendo totalmente normal.
