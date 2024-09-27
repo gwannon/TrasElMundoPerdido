@@ -27,8 +27,9 @@
 # Versión 0.7.2 en desarrollo
 * Pospuesto el Relato Salvaje "Un día en el museo"
 * Terminando el Relato Salvaje "Espécimen perdido"
+* Terminado la parte de "Un pequeño favor" de "Parte 5: Normandía"
 
-# Versión 0.7.1 En 27/09/2024
+# Versión 0.7.1 27/09/2024
 * Terminado el Relato Salvaje "El secreto de los Branningan"
 * Terminado el Relato Salvaje "Despedidas"
 * Terminado el Relato Salvaje "Nadie"

@@ -1821,15 +1821,108 @@ Jocelyn tienes varias formas de entrar en la ciudad, pero según le caigan tus c
 La opción cabrona es hacerles entrar en la red de alcantarillado de la ciudad. Al norte de la ciudad una gran alcantarilla da al mar se pueden sumergir y entrar por gran tubería de alcantarillado hasta llegar al colector principal. Luego deberán seguir las instrucciones de Jocelyn hasta el colector principal donde les recogerá para llevarlos a algún sitio seguro. Puede que tu grupo se encuentre con alguna patrulla nazi que vigila las alcantarillas. No deberían tener problemas, el problema será si algún nazi escapa y avisa de que hay intrusos en la ciudad.
 
 ## Estudiando al enemigo
-xxx
 
-### Un pequeño favor
-
-Jocelyn les hizo un favor al conseguirles una vía de entrada segura a la ciudad. Es hora de cobrarse ese favor. Jocelyn no se andará quiere matar al mayor Nezhoda, el máximo representante nazi en la ciudad. Y no es una misión, es una venganza. El mayor Nezhoda mandó a un campo de concentración a casi toda su familia y a la pareja de Adauy. Está claro que tiene que pagar con su vida.
+Cuando lleguen al piso franco Jocelyn les presentará Ibrahim Adauy, un ladrón de guante blanco que le ha ayudado en otras misiones en Francia. Ibrahim es de gran ayuda si necesitan colarse en algún sitio o robar algo y el estará encantado de ayudar. Lo que sea por joder a los nazis.
 
 xxx
 
 \saltopagina
+
+## Un pequeño favor
+
+Jocelyn les hizo un favor al conseguirles una vía de entrada segura a la ciudad y va a cobrarse ese favor. Jocelyn quiere matar al mayor Nezhoda, el máximo representante nazi en la ciudad. Y no es una misión del IM, es una venganza. El mayor Nezhoda (usa un oficial nazi y hazlo comodín) mandó a un campo de concentración a casi toda su familia y a la pareja de Adauy. Está claro que tiene que pagar con su vida.
+
+En algún momento de relax Jocelyn se acercará a tus comandos para pedirles ayuda en su misión. No puede contarles su plan real, así que lo disfrazará de un robo de documentos secretos. No necesita que tus comandos maten a Nezhoda, eso es algo reservado para ella sola, pero necesita que le permitan acercarse lo suficiente. 
+
+Según el plan de Jocelyn, el general da una fiesta de disfraces para la plana mayor del ejercito nazi y la gente rica de la ciudad. Cualquiera que se considere alguien en la ciudad tendrá una entrada y asistirá al evento del año. También puede ser que un grupo de soldados nazi vayan a tu casa y te fusilen si no apareces por la fiesta con tus mejores galas.
+
+La ciudad bulle de emoción; las tiendas están llenas de servidumbre comprando telas, brocados y abalorios para hacer disfraces y hay prisas y carreras con paquetes por todas partes.
+
+La fiesta de disfraces es perfecta para robar documentos secretos. Con un disfraz y una invitación podrá entrar cualquiera sin que nadie sepa quiénes son, habrá bastante descontrol y jaleo en la ayuntamiento (que Nezhoda ha convertido en su residencia) y podrán meter todo tipo de objetos raros que pudieran necesitar.
+
+La fiesta de disfraces es además una situación en la que no podrá usar a sus saurios, esta vez están solos, no tienen ayuda prehistórica. 
+
+### Preparativos
+
+Pero lo primero de todo es conseguir un transporte adecuado para ir a la fiesta, un buen disfraz y una invitación y tienen menos de 24 horas para conseguirlo.
+
+El coche es relativamente fácil, pueden alquilarlo o robarlo a alguna familia rica de la ciudad.
+
+Las entradas podrán falsificarlas si ven alguna o robarlas. Pueden hacer un doblete robando un coche que vaya a la fiesta y quitándoles las entradas.
+
+El disfraz puede ser de lo más divertido. Pueden ir de compras y montarse disfraces con lo que pillen. También pueden pillar cosas que tengan en su equipo. Igual tienen algún turbante de Tobruk, partes de los disfraces de dioses nórdicos de Noruega o ropajes de cavernícolas de la filmación de "Titanes de tiempos pretéritos". Es una fiesta de postín y deberán ir limpios y aseados.
+
+\saltopagina
+
+[![Esbozo de un baile de disfraces](./assests/images/baile-disfraces.jpg 'The Fancy-Dress Ball. Creator	Lucien Davis, English (1860–1941)')](https://www.lookandlearn.com/history-images/preview/U/U325/U325011_The-Fancy-Dress-Ball.jpg 'The Fancy-Dress Ball. Creator	Lucien Davis, English (1860–1941)')
+
+&nbsp;
+
+Quizas busquen mapas de alcantarillas o del ayuntamiento para buscar rutas de escape por si algo sale mal, pero han de tener en cuenta que esos actos son muy sospechosos y podrían levantar sospechas y decidir si eso les compensa.
+
+#### La fiesta
+La idea de esta escena y las siguientes es que sea muy improvisada por parte de tus comandos. No han tenido tiempo de prepararse nada y van un poco a ciegas. Como mucho, quizás, antes de la fiesta han podido emborrachar a alguien que trabaja al servicio de Nezhoda y sacarle información útil, como que la fiesta será en la primera planta y el estudio de Nezhoda está en la segunda planta y tiene una puerta roja. La sala de reuniones está en la primera planta, pero estará cerrada.
+
+Si se ponen a pensar su próximo movimiento en la fiesta dales un minuto y que te diga que van a hacer. El objetivo es que sea un desastre cada vez mayor, pero que vayan avanzando. Mete cosas divertidas, por ejemplo, si alguien va disfrazado de cocinero le metan en la cocina o si va de gallina le pidan que haga como que pone un huevo mientras el público aplaude y ríe. Cada puerta que abran puede ser una sorpresa con alguna escena rocambolesca.
+
+Al entrar verán la seguridad. Hay por lo menos unos 30 soldados en las calles adyacentes, vigilando el acceso a la plaza donde esta el ayuntamiento. Si tenían pensado huir por alguna ventana del edificio serán casi seguro detectados. La calles de alrededor están muy iluminadas y no hay muchos sitios oscuros donde esconderse de la vigilancia.
+
+\saltopagina
+
+Para darle color a la fiesta en la plaza hay una instalación de fuegos artificiales para el final de fiesta. Con una tirada de Reparar podrían encenderlos y durante 20 turnos tendrán una distracción visual y sonora.
+
+Cuando dejen su coche y entreguen sus entradas podrán entrar a la fiesta. Dales un beni si se les ocurre dejar en el coche a un comando o un aliado de conductor. Todo robo necesita un conductor atento a todo que ponga el vehículo de fuga en la entrada para salir pitando.
+
+La fiesta es todo lo ostentosa que te puedas imaginar. Nezhoda ha sacado su mejor vajilla, hay bandejas nazis colgando de todas partes, candelabros de planta, servilletas de la mayor calidad y un par de chefs de alto renombre de Paris están preparando exquisiteces para los invitados. Música en directo por parte de un cuarteto de cuerda y la servidumbre arriba y abajo con bandejas de canapés.
+
+Hay gente bailando, gente comiendo y gente charlando. Según pasen las horas, gracias a las máscaras y al alcohol, las buenas formas se irán y los más bajos instintos se apoderarán de la reunión; personas borrachas gritando, otras cotilleando y criticando por la espalda, otras besándose en las esquinas oscuras y otras confabulando en secreto. Y los peores serán los oficiales nazis.
+
+Dentro del baile no hay soldados, pero si bastantes oficiales disfrazados, pero una tirada de Notar les dirá que hay varios disfrazados con Lugers reglamentarias.
+
+#### Abriendo puertas
+Cuando la fiesta empiece a degenerar será el momento de empezar a buscar el despacho de Nezhoda donde Jocelyn dice que están los documentos secretos. La gente desaparece entre las cortinas y entra en las habitaciones. Los oficiales nazis sobrios tienen suficiente con detener las peleas y las discusiones, con lo que no estarán muy atentos, si se sube al piso de arriba.
+
+En el piso superior tiene 10 habitaciones entre dormitorios, despachos y baños. Para encontrar el estudio y tendrán que jugar al juego de las puertas. El problema es que si abren una puerta y está alguien puede que de la voz de alarma. Una tirada de Investigar les quitará 2 puertas más 1 por cada avance, ya que parecen de baños o de armarios para las escobas.
+
+Jocelyn se ofrecerá a vigilar las escaleras por si se presentan problemas en forma de oficiales nazis o el propio Nezhoda que va disfrazado de Genio de la Lámpara. Ibrahim les ayudará en el piso superior por si hay que abrir cerraduras o forzar cajas fuertes.
+
+Según vayan abriendo puertas descríbeles alguna escena divertida y sin sentido, por ejemplo, una persona disfrazada de domador haciendo trucos con un león de peluche y otras dos personas aplaudiendo. Cuando quieras, la puerta que abran, será la del estudio.
+
+Al entrar en el estudio se encontrarán a dos personas disfrazadas de cuerpo entero de liebre y de tortuga practicando sexo. La tortuga les señalará y la liebre saludará lascivamente y hará un gesto invitando al que tenga el disfraz más ridículo de tus comandos.
+
+\saltopagina
+
+En ese momento hay varias opciones: noquearlos, echarlos y que seguramente alerten a los soldados, rechazar la invitación y empezar a buscar mientras la pareja sigue a lo suyo y, por último, aceptar la invitación y que el resto siga su búsqueda si es que no van solos.
+
+No tendrán que buscar mucho, en un cajón la mesa de despacho hay un maletín de piel lleno de documentos secretos, ordenes y claves y parece que Nezhoda los ha estado estudiando por las notas que hay entre los papeles que tienen. Parece que Nezhoda está muy confiado en que controla la ciudad y sus habitantes y estos no pueden hacerle nada. Es por eso que no ha metido en su caja fuerte el maletín.
+
+#### Todo se desmadra
+Ahora les toca huir con los secretos robados. A priori, debería ser algo fácil salir por la puerta con el maletín entre los pliegues de sus disfraces o repartiendo los dossieres entre varias personas.
+
+Cuando bajen al piso inferior, Nezhoda estará llamado la atención para hacer un brindis. Más que un brindis será un discurso. Según se vayan moviendo por la pista de baile, la voz del general se ahogará y la punta un cuchillo sobresaldrá de su pecho y caerá al suelo muerto. Jocelyn cubierta de sangre y con el cuchillo gritara _Vive la France_ y saldrá corriendo esquivando.
+
+Mientras la gente se da cuenta de lo que pasa y reaccionan (recuerda que la mayoría está borracha), tienen unos 3 turnos para llegar a la puerta principal de la mansión. Después, algunos invitados, sobretodos nazis se les enfrentarán. Igual algún comando se pone a cantar la marsellesa a pleno pulmón. Una tirada buena de interpretar podría sacar el patriotismo de los invitados franceses y que empiecen a atacar a los nazis para dar tiempo a escapar a tus comandos.
+
+Si en algún momento Jocelyn corre peligro, Ibrahim Adauy hará lo que sea para salvarla, incluso sacrificarse para que ella pueda escapar.
+
+Si alguien se quedó en el coche como conductor, podrá tirar Notar para oír los gritos de los invitados, los disparos y el posterior barullo. Podrá encender motores y esperar al resto en la puerta del _hotel de la ville_.
+
+#### Escapando a la carrera
+La forma más rápida de escapar es coger el coche y salir pitando del ayuntamiento. Los guardias les seguirán algunos en moto y otros en coche a no ser que les hayan saboteado los vehículos. Si quieres puedes montar una persecución, donde tus comandos irán en un Citroën C4 o similar. Si han tenido la precaución de esconder armas en su coche podrán responder a los ataques de los soldados nazis.
+
+|VEHÍCULO|TAMAÑO|MANIOBRA.|VEL. MÁX.|DUREZA|TRIPULACIÓN|
+|--------|------|----|--|------|-----|
+|Citroën C4|6|0|90 km/h|10|1+4|
+
+Imagínate la situación, tu mesa con sus coloridos trajes de disfraces cruzando a toda velocidad la ciudad en un elegante coche, mientras intercambian disparos con nazis en moto y coche.
+
+\saltopagina
+
+Mientras los soldados buscan un vehículo, pasará el tiempo suficiente para que haya dos cartas entre perseguidores y perseguidos. Si se les ocurre disparar a los fuegos artificiales (disparo apuntado de -4 a las mechas) tras salir de la plaza estos prenderán y la luz y el ruido dejarán aturdidos a sus perseguidores y obtendrán una tercera carta de separación. Deberán deshacerse de sus perseguidores antes de ir al piso franco. Si se separan, los soldados seguirán al grupo más grande.
+
+En la persecución podrían hacer señales luminosas y recibir ayuda de los pteranodontes, pero la idea de este encuentro que lo hagan solos, pero eres libre de usar a sus saurios en esta parte.
+
+Jocelyn se negara a dar explicaciones de sus actos y desaparecerá a la primera que le quiten la vista de encima. No quiere dar explicaciones. Saldrá de Francia e irá a esconderse temporalmente a Londres, mientras piensa que hará ahora con su vida.
 
 ## Sabotaje
 xxx
@@ -1843,7 +1936,7 @@ xxx
 ## Sembrando el caos
 Esta parte de la misión es totalmente opcional y sinceramente es una excusa para matar nazis porque sí. Si no quieres liarte, puedes narrarles cómo acaban con algunas unidades de soldados nazis que habrían puesto más difícil el desembarco en Normandía. 
 
-Desde el escondite de Jocelyn e Ibrahim puede salir a extender el caos. Veamos algunos posibles escenarios si no se les ocurre nada a tus comandos.
+Desde el escondite de Jocelyn e Ibrahim pueden salir a extender el caos. Veamos algunos posibles escenarios si no se les ocurre nada a tus comandos.
 
 * Pueden **atacar y tomar una patrullera (2 soldados nazis por comando + 1 oficial) en el puerto de la ciudad** con los saurios acuáticos y lanzarlo contra otros barcos nazis.
 * Quizás puedan acercarse sin ser vistos en alguno de **los búnkeres de artillería y destruirlo**. El problema no sería tanto la resistencia nazi (1,5 soldados por comando + 2 oficiales) como el poner cargas en los sitios adecuados y que exploten sin matarlos. Necesitarán tiradas de Ciencias para buscar los puntos débiles de la estructura del bunker y Reparar para hacer los ingenios explosivos y colocarlos.
@@ -1856,17 +1949,15 @@ Desde el escondite de Jocelyn e Ibrahim puede salir a extender el caos. Veamos a
 
 Cuando se hayan divertido lo suficiente, las fuerzas nazis caerán ante el avance de los aliados y recibirán el aviso por radio de que el «Mary Anning» les está esperando a unas millas de la costa. 
 
-\saltopagina
-
 ## Espiados (Pistas)
-Una vez de vuelta al «Mary Anning» podrán revisar todo el papeleo que han conseguido. Encontrarán con facilidad, una serie de carpetas con los perfiles psicológicos/hoja de servicios/curriculum de tus comandos. No dicen nada que no venga en su ficha de personaje como ventajas y desventajas excepto cosas como Secreto.
+Una vez de vuelta al «Mary Anning» podrán revisar todo el papeleo que han conseguido del mayor Nezhoda. Encontrarán con facilidad, una serie de carpetas con los perfiles psicológicos/hoja de servicios/curriculum de tus comandos. No dicen nada que no venga en su ficha de personaje como ventajas y desventajas excepto cosas como Secreto.
 
 Es de ingenuos pensar que la IM no investigaría a los comandos antes de trabajar con ellos, pero desde luego lo que es preocupante es que está información haya caído en manos nazis. O lo que es peor (y ahí entra que juegues con su paranoia) que algún agente de la IM se haya vendido y haya filtrado esa información o que algún espía nazi haya tenido acceso a ella y haya conseguido pasarla a sus jefes.
 
 ***
 
 # Parte 6: El frente ruso
- El frente ruso y más en concreto el sitio de Stalingrado es una misión bastante diferente al resto de misiones, ya que aquí no va a haber ni infiltración, ni investigación, ni persecuciones, ni nada por el estilo. Stalingrado va una sucesión de combates de los que solo sobrevivirán los más resistentes.
+El frente ruso y más en concreto el sitio de Stalingrado es una misión bastante diferente al resto de misiones, ya que aquí no va a haber ni infiltración, ni investigación, ni persecuciones, ni nada por el estilo. Stalingrado va una sucesión de combates de los que solo sobrevivirán los más resistentes.
 
 ## Rompiendo el sitio de Stalingrado
 ```
@@ -2698,6 +2789,7 @@ Aquí tienes algunas ideas.
 
 * Jocelyn Dubios ha escondido varias esculturas romanas en un almacén de Tobruk. Si no los saca de la ciudad, seguramente serán destruidas en los combates o robadas por los nazis. Si no los sacan, deberían por lo menos sacarlos de la ciudad y enterrarlos en el desierto para que Jocelyn los rescate cuando acabe la guerra.
 * El general von Liebenfels se presentará con varias piezas del museo de historia de Skien que pertenecieron a varios reyes vikingos. Estamos hablando de un caso, hombreras, cinturón y un martillo de guerra. Podrían recuperarlo y ponerlo a salvo en el British Museum hasta que termine la guerra (véase la ironía). Sus drachenjägers también llevan equipamiento vikingo (espadas, cotas de malla, cascos y escudos) que se tendrían que preservar.
+* El mayor Nezhoda tiene un par de Picassos de pequeño tamaño en su despacho, son de su época azul.
 * El general von Liebenfels tiene 4 pequeños Rembrandts requisados a una familia judía de Ámsterdam en su lujoso camarote de su zepelín.
 * El doctor Eckart tiene una pequeña pinacoteca de 10 cuadros en el comedor principal del castillo de Hohenzollern. La cúpula nazi suele granjearse su amistad regalándole obras de impresionistas francesas.
 * Los nazis que atacaron el castillo Dunvegan se llevaron algunos cuadros que colecciono en vida Lord Roxton y que heredó su sobrina. Son 3 cuadros del pintor romántico William Turner por los que Lord Roxton tenía gran estima.
