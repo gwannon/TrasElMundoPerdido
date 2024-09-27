@@ -2153,7 +2153,7 @@ xxx
 ***
 
 # Parte 9: La Selva Negra
-xxx
+Esta es la última misión que afrontarán tus comandos, una batalla épica a la par que loca en un castillo bávaro lleno de dinosaurios enloquecidos, inventos extraños, contra un científico loco nazi con el objetivo de que Hitler no tenga una superarma que le daría la victoria. ¿Qué puede haber mejor?
 
 ## La fortaleza inexpugnable
 ```
