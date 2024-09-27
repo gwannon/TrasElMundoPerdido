@@ -2153,7 +2153,7 @@ xxx
 ***
 
 # Parte 9: La Selva Negra
-Esta es la última misión que afrontarán tus comandos, una batalla épica a la par que loca en un castillo bávaro lleno de dinosaurios enloquecidos, inventos extraños, contra un científico loco nazi con el objetivo de que Hitler no tenga una superarma que le daría la victoria. ¿Qué puede haber mejor?
+Esta es la última misión que afrontarán tus comandos, una batalla épica a la par que loca en un castillo de la Selva Negra lleno de dinosaurios enloquecidos, inventos extraños, contra un científico loco nazi con el objetivo de que Hitler no tenga una superarma que le daría la victoria. ¿Qué puede haber mejor?
 
 ## La fortaleza inexpugnable
 ```
@@ -2182,6 +2182,9 @@ Mapa del castillo de Hohenzollern en la Selva Negra.
 \saltopagina
 
 ### El castillo de Hohenzollern
+
+El castillo de Hohenzollern se encuentra en la cumbre del monte Hohenzollern, perteneciente a una sierra llamada Jura de Suabia. El castillo está una altitud de 855 metros. Data de 1847, aunque todavía hay resto de otros dos castillos anteriores destruidos en diferentes guerras. La ciudad más importante es Stuttgart que está a 50 kilómetros al sur del castillo. Se le considera una versión menos fantástica del famoso castillo de Neuschwanstein, conocido por ser inspiración de los castillos de las películas de Disney.
+
 xxx
 
 \saltopagina
