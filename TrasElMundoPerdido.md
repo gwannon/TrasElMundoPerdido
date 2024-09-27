@@ -965,13 +965,13 @@ La campaña comienza en la isla de Skye donde tu comando aprenderá a trabajar c
 
 Estas localizaciones y los eventos que ocurren en ellas tienen un orden cronológico, pero si no eres muy tiquismiquis con estas cosas puedes jugarlas en el orden que tú o tu comando prefiera.
 
-En cada localización habrá una aventura principal y varias aventuras secundarias, donde obtendrán pruebas de que hay un traidor en la Fundación.
+En cada localización habrá una aventura principal, donde obtendrán pruebas de que hay un traidor en la Fundación, de que los nazis saben de la existencia de los saurios y de que la IM no juega del todo limpio. Las pistas también alimentarán su paranoia.
 
-El conspirador se ha vendido a los nazis y les ha entregado el secreto más importante que guarda la Fundación Roxton, la localización de Mundo Perdido. Si Hitler puede hacerse con un ejército de dinosaurios será imparable.
+Un supuesto conspirador se ha vendido a los nazis y les ha entregado el secreto de la Fundación Roxton, la existencia de los saurios. Si Hitler puede hacerse con un ejército de dinosaurios será imparable.
 
 También ha propiciado la caída y la destrucción de la Fundación Roxton. Las instalaciones han sido arrasadas y los dinosaurios que vivían en ellas han sido capturados o asesinados. Así que a partir de este momento volarán solos. 
 
-Todos estos eventos les obligarán a empezar una carrera contra los nazis por llegar al Mundo Perdido antes que ellos y sabotear su misión de captura de dinosaurios. Allí descubrirán la auténtica verdad, el traidor era un doble agente y la IM montó todo el operativo de los dinosaurios en misiones para atraer a los nazis. La IM sabía que Hitler se volvería loco cuando los dinosaurios fueran detectados y trataría de conseguirse sus propios saurios «arios».
+Todos estos eventos les obligarán a empezar una carrera contra los nazis por llegar al Mundo Perdido antes que ellos y sabotear su misión de captura de dinosaurios. Allí descubrirán la auténtica verdad, no existen ni traidores ni conspiradores, la IM montó todo el operativo de los dinosaurios en misiones para atraer a los nazis. La IM sabía que Hitler se volvería loco cuando los dinosaurios fueran detectados y trataría de conseguirse sus propios saurios «arios».
 
 De esta forma, una gran cantidad de las fuerzas y recursos (tropas de combate, espías, submarinos, barcos y grandes cantidades de dinero y combustible) que iban a ser usados en primera línea de combate serían destinados a buscar y capturar unas criaturas «míticas» en la selva boliviana.   
 
@@ -1954,6 +1954,8 @@ Una vez de vuelta al «Mary Anning» podrán revisar todo el papeleo que han con
 
 Es de ingenuos pensar que la IM no investigaría a los comandos antes de trabajar con ellos, pero desde luego lo que es preocupante es que está información haya caído en manos nazis. O lo que es peor (y ahí entra que juegues con su paranoia) que algún agente de la IM se haya vendido y haya filtrado esa información o que algún espía nazi haya tenido acceso a ella y haya conseguido pasarla a sus jefes.
 
+Les llamará la atención de una orden firmada por el general von Liebenfels de requisar todos los diamantes de prisioneros de guerra y de minorías perseguidas con ciertas características de tamaño y color y enviarlos a un castillo de la Selva Negra. Los requiere un tal Doctor Artur Eckart, para unos prototipos que está desarrollando.
+
 ***
 
 # Parte 6: El frente ruso
@@ -2429,6 +2431,8 @@ En la biblioteca del castillo Dunvegan tienen el guion original que escribió Ma
 Una vez que consigan acercarse a Marion y le expliquen quienes son (sea verdad o mentira lo que le digan) estará encantada de contar la historia de su primer guion. 
 
 > La explicación es bastante sencilla la cocinera de su familia contaba la historia de un primo suyo llamado Zambo, el leal ayudante negro, que acompañó a la expedición Challenger.
+
+&nbsp;
 
 No era ninguna lumbrera y la Fundación no consideró que fuera una posible fuga de información. De hecho muchos amigos y familiares creían que estaba loco y que se había inventado toda la historia. Pero la contaban entre ellos porque era muy divertida.  
 
