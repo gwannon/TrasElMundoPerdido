@@ -2039,7 +2039,7 @@ El viaje de regreso puedes dejarles caer, si no se han dado cuenta antes, que es
 ***
 
 # Parte 7: Regreso a casa
-xxx
+A priori este capítulo debería empezar cuando acaben todas las misiones anteriores, pero puedes lanzarlo sin necesidad de haber completado el resto de misiones anteriores. Tu campaña tus reglas, pero recuerda que una vez empieces la campaña se encarrila hacia su final.
 
 ## Por sorpresa
 ```
@@ -2092,7 +2092,7 @@ Recuérdales que no tiene todo el tiempo del mundo. Dales una semana como mucho 
 ***
 
 # Parte 8: Regreso al Mundo Perdido
-xxx
+Tus comandos vuelven a donde todo empezó, el mundo perdido, y aquí van librar una grab batalla contra las fuerzas nazis de von Liebenfels. Pero primero, tu mesa deberá reunir fuerzas entre los diferentes grupos que habitan la meseta de Maple White y para conseguir su favor deberán ayudarles.
 
 ## El Mundo Perdido
 ```
@@ -2126,7 +2126,16 @@ xxx
 
 ## Evitando un genocidio
 ```
-El general Liebenfels considera que los sakala y los pitecántropos de la meseta emponzoñan los ideales raciales nazis y se propone a exterminar a todos ellos, si alguien no lo evita.
+El general von Liebenfels considera que los sakala de la meseta emponzoñan los ideales raciales nazis y se propone a exterminar a toda la tribu, si alguien no lo evita.
+```
+
+xxx
+
+\saltopagina
+
+## Asociaciones peligrosas
+```
+Los pitecántropos libres son pocos pero su apoyo pueden ser fundamental para expulsar a los nazis de la meseta. El problema es lo que pedirán ellos a cambio. 
 ```
 
 xxx
@@ -2140,8 +2149,12 @@ Solo un un milagro permitirá a tus comandos y sus salvajes aliados ganar la bat
 
 xxx
 
-### El zepelín
+\saltopagina
 
+## El zepelín
+```
+El general von Liebenfels ha perdido la batalla, pero no han acabado él. Huye en su zeppelin con algunos tesoros que ha sacado del mundo perdido y volverá para una ultima batalla.
+```
 [![Foto zepelín nazi en el Amazonas](./assests/images/dirigible.jpg 'LZ-127 at Jiquiá landing field in Recife')](https://www.airships.net/blog/zeppelin-mast-recife-brazil-pernambuco/ 'LZ-127 at Jiquiá landing field in Recife')
 
 &nbsp;
@@ -2914,14 +2927,6 @@ Este relato puede servirte como introducción a tus propias aventuras. Entre los
 \saltopagina
 
 Quizás haya un mapa de algún lugar misterioso como Lemuria o la Atlántida, diseños de alguna extraña máquina hipertecnológica nazi, un grabado con la ubicación de otro mundo perdido, etc.
-
-## Un día en el museo
-```
-Quizás una visita al Museo de Ciencias Naturales ayude a solucionar un nuevo problema que ha supuesto la cría de dinosaurios.
-```
-xxx
-
-\saltopagina
 
 ## Espécimen perdido
 ```

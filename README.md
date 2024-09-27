@@ -15,7 +15,6 @@
 
 # Por hacer de la versión 0.7
 * Relatos salvajes
-  * Un día en el museo
   * Espécimen perdido
 
 ## Recursos 
@@ -25,7 +24,11 @@
 
 # Changelog
 
-# Versión 0.7.1 En desarrollo
+# Versión 0.7.2 en desarrollo
+* Pospuesto el Relato Salvaje "Un día en el museo"
+* Terminando el Relato Salvaje "Espécimen perdido"
+
+# Versión 0.7.1 En 27/09/2024
 * Terminado el Relato Salvaje "El secreto de los Branningan"
 * Terminado el Relato Salvaje "Despedidas"
 * Terminado el Relato Salvaje "Nadie"
