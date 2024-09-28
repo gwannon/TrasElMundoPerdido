@@ -1822,7 +1822,7 @@ La opción cabrona es hacerles entrar en la red de alcantarillado de la ciudad. 
 
 ## Estudiando al enemigo
 
-Cuando lleguen al piso franco Jocelyn les presentará Ibrahim Adauy, un ladrón de guante blanco que le ha ayudado en otras misiones en Francia. Ibrahim es de gran ayuda si necesitan colarse en algún sitio o robar algo y el estará encantado de ayudar. Lo que sea por joder a los nazis.
+Cuando lleguen al piso franco Jocelyn les presentará Ibrahim Adauy, un ladrón de guante blanco que le ha ayudado en otras misiones en Francia. Ibrahim es de gran ayuda si necesitan colarse en algún sitio o robar algo y él estará encantado de ayudar. Lo que sea por joder a los nazis.
 
 xxx
 
@@ -1834,11 +1834,11 @@ Jocelyn les hizo un favor al conseguirles una vía de entrada segura a la ciudad
 
 En algún momento de relax Jocelyn se acercará a tus comandos para pedirles ayuda en su misión. No puede contarles su plan real, así que lo disfrazará de un robo de documentos secretos. No necesita que tus comandos maten a Nezhoda, eso es algo reservado para ella sola, pero necesita que le permitan acercarse lo suficiente. 
 
-Según el plan de Jocelyn, el general da una fiesta de disfraces para la plana mayor del ejercito nazi y la gente rica de la ciudad. Cualquiera que se considere alguien en la ciudad tendrá una entrada y asistirá al evento del año. También puede ser que un grupo de soldados nazi vayan a tu casa y te fusilen si no apareces por la fiesta con tus mejores galas.
+Según el plan de Jocelyn, el general da una fiesta de disfraces para la plana mayor del ejército nazi y la gente rica de la ciudad. Cualquiera que se considere alguien en la ciudad tendrá una entrada y asistirá al evento del año. También puede ser que un grupo de soldados nazi vayan a tu casa y te fusilen si no apareces por la fiesta con tus mejores galas.
 
 La ciudad bulle de emoción; las tiendas están llenas de servidumbre comprando telas, brocados y abalorios para hacer disfraces y hay prisas y carreras con paquetes por todas partes.
 
-La fiesta de disfraces es perfecta para robar documentos secretos. Con un disfraz y una invitación podrá entrar cualquiera sin que nadie sepa quiénes son, habrá bastante descontrol y jaleo en la ayuntamiento (que Nezhoda ha convertido en su residencia) y podrán meter todo tipo de objetos raros que pudieran necesitar.
+La fiesta de disfraces es perfecta para robar documentos secretos. Con un disfraz y una invitación podrá entrar cualquiera sin que nadie sepa quiénes son, habrá bastante descontrol y jaleo en el ayuntamiento (que Nezhoda ha convertido en su residencia) y podrán meter todo tipo de objetos raros que pudieran necesitar.
 
 La fiesta de disfraces es además una situación en la que no podrá usar a sus saurios, esta vez están solos, no tienen ayuda prehistórica. 
 
@@ -1846,7 +1846,7 @@ La fiesta de disfraces es además una situación en la que no podrá usar a sus 
 
 Pero lo primero de todo es conseguir un transporte adecuado para ir a la fiesta, un buen disfraz y una invitación y tienen menos de 24 horas para conseguirlo.
 
-El coche es relativamente fácil, pueden alquilarlo o robarlo a alguna familia rica de la ciudad.
+El coche es relativamente fácil, pueden alquilarlo o robarlo a alguna familia rica de la ciudad. Tiene que tener cierto cache o los vigilantes de la fiesta podrían sospechar.
 
 Las entradas podrán falsificarlas si ven alguna o robarlas. Pueden hacer un doblete robando un coche que vaya a la fiesta y quitándoles las entradas.
 
@@ -1858,14 +1858,14 @@ El disfraz puede ser de lo más divertido. Pueden ir de compras y montarse disfr
 
 &nbsp;
 
-Quizas busquen mapas de alcantarillas o del ayuntamiento para buscar rutas de escape por si algo sale mal, pero han de tener en cuenta que esos actos son muy sospechosos y podrían levantar sospechas y decidir si eso les compensa.
+Tal vez busquen mapas de alcantarillas o del ayuntamiento para buscar rutas de escape por si algo sale mal, pero han de tener en cuenta que esos actos son muy sospechosos y podrían levantar sospechas y decidir si eso les compensa.
 
 #### La fiesta
 La idea de esta escena y las siguientes es que sea muy improvisada por parte de tus comandos. No han tenido tiempo de prepararse nada y van un poco a ciegas. Como mucho, quizás, antes de la fiesta han podido emborrachar a alguien que trabaja al servicio de Nezhoda y sacarle información útil, como que la fiesta será en la primera planta y el estudio de Nezhoda está en la segunda planta y tiene una puerta roja. La sala de reuniones está en la primera planta, pero estará cerrada.
 
 Si se ponen a pensar su próximo movimiento en la fiesta dales un minuto y que te diga que van a hacer. El objetivo es que sea un desastre cada vez mayor, pero que vayan avanzando. Mete cosas divertidas, por ejemplo, si alguien va disfrazado de cocinero le metan en la cocina o si va de gallina le pidan que haga como que pone un huevo mientras el público aplaude y ríe. Cada puerta que abran puede ser una sorpresa con alguna escena rocambolesca.
 
-Al entrar verán la seguridad. Hay por lo menos unos 30 soldados en las calles adyacentes, vigilando el acceso a la plaza donde esta el ayuntamiento. Si tenían pensado huir por alguna ventana del edificio serán casi seguro detectados. La calles de alrededor están muy iluminadas y no hay muchos sitios oscuros donde esconderse de la vigilancia.
+Al entrar verán la seguridad. Hay por lo menos unos 30 soldados en las calles adyacentes, vigilando el acceso a la plaza donde está el ayuntamiento. Si tenían pensado huir por alguna ventana del edificio serán casi seguro detectados. Las calles de alrededor están muy iluminadas y no hay muchos sitios oscuros donde esconderse de la vigilancia.
 
 \saltopagina
 
@@ -1873,7 +1873,7 @@ Para darle color a la fiesta en la plaza hay una instalación de fuegos artifici
 
 Cuando dejen su coche y entreguen sus entradas podrán entrar a la fiesta. Dales un beni si se les ocurre dejar en el coche a un comando o un aliado de conductor. Todo robo necesita un conductor atento a todo que ponga el vehículo de fuga en la entrada para salir pitando.
 
-La fiesta es todo lo ostentosa que te puedas imaginar. Nezhoda ha sacado su mejor vajilla, hay bandejas nazis colgando de todas partes, candelabros de planta, servilletas de la mayor calidad y un par de chefs de alto renombre de Paris están preparando exquisiteces para los invitados. Música en directo por parte de un cuarteto de cuerda y la servidumbre arriba y abajo con bandejas de canapés.
+La fiesta es todo lo ostentosa que te puedas imaginar. Nezhoda ha sacado su mejor vajilla, hay bandejas nazis colgando de todas partes, candelabros de planta, servilletas de la mayor calidad y un par de chefs de alto renombre de París están preparando exquisiteces para los invitados. Música en directo por parte de un cuarteto de cuerda y la servidumbre arriba y abajo con bandejas de canapés.
 
 Hay gente bailando, gente comiendo y gente charlando. Según pasen las horas, gracias a las máscaras y al alcohol, las buenas formas se irán y los más bajos instintos se apoderarán de la reunión; personas borrachas gritando, otras cotilleando y criticando por la espalda, otras besándose en las esquinas oscuras y otras confabulando en secreto. Y los peores serán los oficiales nazis.
 
@@ -1894,14 +1894,14 @@ Al entrar en el estudio se encontrarán a dos personas disfrazadas de cuerpo ent
 
 En ese momento hay varias opciones: noquearlos, echarlos y que seguramente alerten a los soldados, rechazar la invitación y empezar a buscar mientras la pareja sigue a lo suyo y, por último, aceptar la invitación y que el resto siga su búsqueda si es que no van solos.
 
-No tendrán que buscar mucho, en un cajón la mesa de despacho hay un maletín de piel lleno de documentos secretos, ordenes y claves y parece que Nezhoda los ha estado estudiando por las notas que hay entre los papeles que tienen. Parece que Nezhoda está muy confiado en que controla la ciudad y sus habitantes y estos no pueden hacerle nada. Es por eso que no ha metido en su caja fuerte el maletín.
+No tendrán que buscar mucho, en un cajón la mesa de despacho hay un maletín de piel lleno de documentos secretos, órdenes y claves y parece que Nezhoda los ha estado estudiando por las notas que hay entre los papeles que tienen. Parece que Nezhoda está muy confiado en que controla la ciudad y sus habitantes y estos no pueden hacerle nada. Es por eso que no ha metido en su caja fuerte el maletín.
 
 #### Todo se desmadra
-Ahora les toca huir con los secretos robados. A priori, debería ser algo fácil salir por la puerta con el maletín entre los pliegues de sus disfraces o repartiendo los dossieres entre varias personas.
+Ahora les toca huir con los secretos robados. A priori, debería ser algo fácil salir por la puerta con el maletín entre los pliegues de sus disfraces o repartiendo los dosieres entre varias personas.
 
-Cuando bajen al piso inferior, Nezhoda estará llamado la atención para hacer un brindis. Más que un brindis será un discurso. Según se vayan moviendo por la pista de baile, la voz del general se ahogará y la punta un cuchillo sobresaldrá de su pecho y caerá al suelo muerto. Jocelyn cubierta de sangre y con el cuchillo gritara _Vive la France_ y saldrá corriendo esquivando.
+Cuando bajen al piso inferior, Nezhoda estará llamado la atención para hacer un brindis. Más que un brindis será un discurso. Según se vayan moviendo por la pista de baile, la voz del general se ahogará y la punta un cuchillo sobresaldrá de su pecho y caerá al suelo muerto. Jocelyn cubierta de sangre y con el cuchillo gritará _Vive la France_ y saldrá corriendo esquivando.
 
-Mientras la gente se da cuenta de lo que pasa y reaccionan (recuerda que la mayoría está borracha), tienen unos 3 turnos para llegar a la puerta principal de la mansión. Después, algunos invitados, sobretodos nazis se les enfrentarán. Igual algún comando se pone a cantar la marsellesa a pleno pulmón. Una tirada buena de interpretar podría sacar el patriotismo de los invitados franceses y que empiecen a atacar a los nazis para dar tiempo a escapar a tus comandos.
+Mientras la gente se da cuenta de lo que pasa y reaccionan (recuerda que la mayoría está borracha), tienen unos 3 turnos para llegar a la puerta principal de la mansión. Después, algunos invitados, sobretodos nazis se les enfrentarán. Igual algún comando se pone a cantar la «marsellesa» a pleno pulmón. Una tirada buena de interpretar podría sacar el patriotismo de los invitados franceses y que empiecen a atacar a los nazis para dar tiempo a escapar a tus comandos.
 
 Si en algún momento Jocelyn corre peligro, Ibrahim Adauy hará lo que sea para salvarla, incluso sacrificarse para que ella pueda escapar.
 
@@ -1922,7 +1922,7 @@ Mientras los soldados buscan un vehículo, pasará el tiempo suficiente para que
 
 En la persecución podrían hacer señales luminosas y recibir ayuda de los pteranodontes, pero la idea de este encuentro que lo hagan solos, pero eres libre de usar a sus saurios en esta parte.
 
-Jocelyn se negara a dar explicaciones de sus actos y desaparecerá a la primera que le quiten la vista de encima. No quiere dar explicaciones. Saldrá de Francia e irá a esconderse temporalmente a Londres, mientras piensa que hará ahora con su vida.
+Jocelyn se negará a dar explicaciones de sus actos y desaparecerá a la primera que le quiten la vista de encima. No quiere dar explicaciones. Saldrá de Francia e irá a esconderse temporalmente a Londres, mientras piensa que hará ahora con su vida.
 
 ## Sabotaje
 xxx
@@ -2149,7 +2149,7 @@ Los nazis han capturado a una serie de personas:
 
 * **Lady Roxton.**
 * **Teniente Horace Linton.** Esperaba la vuelta de tus comandos para hacer el informe de la última misión.
-* **Marina Flowers** si estaba en las instalaciones.
+* **Marina Flowers** si estaba en las instalaciones. Si es el interés romántico de algún comando puede darle mucho juego.
 * Si trajeron a la isla a **Arntine Lyngstad y su familia**, von Liebenfels la reconoció de Noruega y se la ha llevado. Quiere interrogarla para saber más del fiasco de Telemark.
 * **Cualquier PNJ de tu propia cosecha que estuviera en la isla de Skye** es susceptible de haber sido secuestrado.
 
@@ -2164,28 +2164,39 @@ Si revisan la pieza de artillería antiaérea con una tirada de Reparar o de Dis
 
 xxx
 
-
 \saltopagina
 
+## La visita del general
+Cuando creas adecuado un jeep o una barcaza militar aparecerá y el General Linton saldrá de ella. Se acercará a tus comandos y ceremoniosamente les dará unas cartas de licenciamiento. Ya han terminado su trabajo y el ejército inglés y la IM ya no necesitan más sus servicios. La idea es que esto mosquee muchísimo a tus comandos. Si le gritan o amenazan, mucho mejor. 
+
+El general les explicará que el proyecto ha terminado, los nazis lo descubrieron y lo han destruido. IM tratará de rescatar a los secuestrados, pero su principal interés ahora mismo es la guerra en el continente tras el desembarco en Normandía.
+
+xxx
+
 ## Con la mierda hasta el cuello
-La situación de tu comando ha cambiado drásticamente, a priori ha perdido los recursos de la fundación y no sabe si puede fiarse del todo de IM. xxx
+La situación de tu comando ha cambiado drásticamente, a priori ha perdido los recursos de la fundación y no sabe si puede fiarse del todo de IM.
+
+xxx
+
+### Recursos
 
 xxx
 
 ### Aliados
 Por suerte no están solos en sus misiones han hechos contactos, ayudado a gente y conseguidos recursos propios. Es hora de usarlos. 
 
-* **Jocelyn Dubois.** Si miran su correspondencia, alguien puede que tenga una carta Jocelyn contando que está en Londres hasta su siguiente misión. También pone su dirección. Quizás sea hora de que de cobrarse algún favor.
-* **Dolores Branningan y la tripulación del «Mary Anning».** Por supuesto que la valiente tripulación del «Mary Anning» está preparada para ayudar a tus comandos y hacer lo que sea para rescatar a Lady Roxton y matar nazis. y si no quieren Dolores le dará una buena zurra. 
+* **Jocelyn Dubois.** Si miran su correspondencia, alguien puede que tenga una carta Jocelyn contando que está escondida en Londres desde la misión en Normandía. También pone su dirección. Quizás sea hora de que de cobrarse algún favor.
+* **Dolores Branningan y la tripulación del «Mary Anning».** Por supuesto que la valiente tripulación del «Mary Anning» está preparada para ayudar a tus comandos y hacer lo que sea para rescatar a Lady Roxton y matar nazis. Y si no quieren Dolores le dará una buena zurra. 
 * **Wayland.** Consiguió escaparse de los nazis, haciéndose pasar por un mozo de granja y escabulléndose cuando no miraban los guardias. Por supuesto que ayudará a tus comandos a matar nazis, de hecho, lo está deseando.
+* **Ibrahim Adauy.** Si Jocelyn se une al grupo, él se apuntará sin pensárselo.  
 * **Cualquier PNJ de tu propia cosecha que estuviera en la isla de Skye** es susceptible de haber escapado de los nazis y querer ayudar a tus comandos en su nueva misión.
 
-Recuérdales que no tiene todo el tiempo del mundo. Dales una semana como mucho para reunir a sus aliados, mientras se preparan para partir a Sudamérica
+Recuérdales que no tiene todo el tiempo del mundo. Dales una semana como mucho para reunir recursos y aliados, mientras se preparan para partir a Sudamérica.
 
 ***
 
 # Parte 8: Regreso al Mundo Perdido
-Tus comandos vuelven a donde todo empezó, el mundo perdido, y aquí van librar una grab batalla contra las fuerzas nazis de von Liebenfels. Pero primero, tu mesa deberá reunir fuerzas entre los diferentes grupos que habitan la meseta de Maple White y para conseguir su favor deberán ayudarles.
+Tus comandos vuelven a donde todo empezó, el mundo perdido, y aquí van a librar una gran batalla contra las fuerzas nazis de von Liebenfels. Pero primero, tu mesa deberá reunir fuerzas entre los diferentes grupos que habitan la meseta de Maple White y para conseguir su favor deberán ayudarles.
 
 ## El Mundo Perdido
 ```
@@ -2857,11 +2868,11 @@ Si aceptan el trato, Dolores variará el rumbo hacia la costa sur de Gales. El m
 
 ### Preparaciones
 
-Si no sabían, la capitán dará una clases básicas de buceo en el tanque de los plesiosaurios. Ya deberían estar acostumbrados, ya que se hicieron prácticas en la instrucción en la isla Skye.
+Si no sabían, la capitán dará unas clases básicas de buceo en el tanque de los plesiosaurios. Ya deberían estar acostumbrados, ya que se hicieron prácticas en la instrucción en la isla Skye.
 
-Dolores tiene mapas y esquemas del pecio que llevan en un familia siglos. Van en busca de un galeón inglés de la flota corsaria de Sir Francis Drake. Estaba lleno de oro y plata robada a los españoles.
+Dolores tiene mapas y esquemas del pecio que llevan en su familia siglos. Van en busca de un galeón inglés de la flota corsaria de Sir Francis Drake. Estaba lleno de oro y plata robada a los españoles.
 
-Según Dolores está a poco profundidad, unos 50 metros, pero al borde de una sima. Y puede caer por ella en cualquier momento. Si eso pasará sería imposible de rescatar.
+Según Dolores está a poca profundidad, unos 50 metros, pero al borde de una sima. Y puede caer por ella en cualquier momento. Si eso pasará sería imposible de rescatar.
 
 ### Como locos a por el oro
 
@@ -2926,7 +2937,6 @@ Los saurios acuáticos está entrenados para recuperar cosas del fondo marino, s
 Una tirada de Ciencias deja ver que parece alguna lámpara eléctrica, pero la pátina dice que tiene unos 100 años, mucho antes de la bombilla de Edison. Además no parece que haya estado en el agua, ya que no tiene corrosión ni tiene señales de algas o moluscos, Ha estado en un ambiente seco mucho tiempo.
 
 Si consiguen algún avance puedes dejarles pistas como que los cables son de una aleación oro o que la estructura metálica es muy ligera, quizás de alguna aleación extraña de titanio. Todo esto tiene que haber despertado su interés como para parar las máquinas e intentar una inmersión.
-
 
 [![Imagen de caverna submarina](./assests/images/caverna.jpg 'THE ABBYSS By K--E--V')](https://www.deviantart.com/k--e--v/art/THE-ABBYSS-690664624 'THE ABBYSS By K--E--V')
 
@@ -3072,7 +3082,7 @@ Personalmente creo que es muy recomendables jugar «Noche de poker», «Cena de 
 
 «Arte robado» y «El prototipo» no son aventuras al uso, sino una forma de complicar y liar las misiones generales teniendo que hacer un esfuerzo extra como sería probar algún invento estúpido (El prototipo) o rescatando de la oficina de von Liebenfels un cuadro impresionista (Arte robado).
 
-«Campo minado» y «Nadie» puedes usarlos como un «encuentro aleatorio» dentro de algún viaje. 
+«Campo minado» y «Operación Columba» puedes usarlos como un «encuentro aleatorio» dentro de algún viaje. 
 
 La idea de «Despedidas» es cerrar la campaña con un viaje lacrimógeno a la meseta de Maple White donde tus comandos se despedirán de sus compañeros saurios.
 
@@ -3335,7 +3345,7 @@ Theodor es uno de generales más importantes de las fuerzas militares nazis y es
 
 Este genio de la ciencia (de hecho, será una de las personas más inteligentes del mundo) es capaz de crear inventos increíbles, pero en vez de ponerlos al servicio del mundo se decantó por los nazis. Aunque no cree en su causa, como no le ponen impedimentos éticos y morales a sus experimentos lleva asociado con ellos desde hace años. No tiene problemas en probar todo tipo de ingenios y descubrimientos científicos en prisiones de guerra y de campos de concentración, según él siempre en beneficio de la ciencia.
 
-Su mayor descubrimiento ha sido desarrollar una especie de rayo láser hiper-calorífico que puede destruir ciudades enteras en segundos dejando nada más que cenizas, el problema es que para que el arma sea efectiva necesita una ingente cantidad de diamantes con unas características muy específicas de color y de tono que los hacen muy difíciles de encontrar. Ha podido ofrecer al propio Hitler versiones funcionales de su invento, pero a pequeña escala, para lograr una arma definitiva necesita gran cantidad de esos diamantes especiales.
+Su mayor descubrimiento ha sido desarrollar una especie de rayo láser hipercalorífico que puede destruir ciudades enteras en segundos dejando nada más que cenizas, el problema es que para que el arma sea efectiva necesita una ingente cantidad de diamantes con unas características muy específicas de color y de tono que los hacen muy difíciles de encontrar. Ha podido ofrecer al propio Hitler versiones funcionales de su invento, pero a pequeña escala, para lograr una arma definitiva necesita gran cantidad de esos diamantes especiales.
 
 Ante este éxito parcial, Eckart consiguió que le montarán un laboratorio con todos los avances de la ciencia actual en el castillo de Hohenzollern. En principio dispone de fondos económicos infinitos para hacer sus experimentos y el ejército nazi le ha proporcionado algunas de sus mejores unidades de combate para su defensa.
 
@@ -3348,7 +3358,7 @@ Pero este genio loco no solo ha trabajado en su rayo mortal, también ha mejorad
 * **Habilidades:** Atletismo d4, Ciencias d12, Ciencia extraña d12, Conducir d6, Conocimientos Generales d4, Disparar d8, Humanidades d6, Idioma Alemán d12, Idioma Inglés d10, Investigar d8, Medicina d10, Notar d8, Pelear d4, Persuadir d4, Reparar d6, Sigilo d4
 * **Paso:** 6; **Parada:** 4; **Dureza:** 4
 * **Ventajas:** Trasfondo arcano (Ciencia extraña), Inventor, McGyver, Mr. Arreglalotodo, Los números primos son rojos y huelen dulces
-* **Desventajas:** Paranoia (mayor), Megalomania (mayor) 
+* **Desventajas:** Paranoia (mayor), Megalomanía (mayor) 
 * **Ciencia extraña:** 15 pp. Rayo mortal portátil (Chorro), Campo de fuerza (Desvío)
 * **Equipo:** Bata blanca, Libros de consulta de física y química, Útiles científicos varios
 
@@ -3370,7 +3380,7 @@ xxx
 
 \saltopagina
 
-**Sugerencia de interpretación:** De normal, la intimidación y la fuerza no son tu estilo. Lo tuyo es el carisma, el «sex-appeal» y la zalamería. Unas palabras bonitas y aduladoras y unas miraditas provocativas y tienes a todo el mundo comiendo de tu mano. Para que abrir una cerradura con ganzúas si puedes engañar a la persona que la vigila para que te abra. Todo va bien hasta que tu lado sádico sale a la superficie, en ese momento la careta cae y conocerán el dolor.
+**Sugerencia de interpretación:** De normal, la intimidación y la fuerza no son tu estilo. Lo tuyo es el carisma, el _sex appeal_ y la zalamería. Unas palabras bonitas y aduladoras y unas miraditas provocativas y tienes a todo el mundo comiendo de tu mano. Para que abrir una cerradura con ganzúas si puedes engañar a la persona que la vigila para que te abra. Todo va bien hasta que tu lado sádico sale a la superficie, en ese momento la careta cae y conocerán el dolor.
 
 ### Günther Prien, capitán de submarino &#x2638;
 [![Primer plano de Günther Prien](./assests/images/prien.jpg 'Kapitänleutnant Prien 6534-40 - Bundesarchiv')](https://es.wikipedia.org/wiki/G%C3%BCnther_Prien#/media/Archivo:Bundesarchiv_Bild_183-2006-1130-500,_Kapit%C3%A4nleutnant_G%C3%BCnther_Prien.jpg 'Kapitänleutnant Prien 6534-40 - Bundesarchiv')
