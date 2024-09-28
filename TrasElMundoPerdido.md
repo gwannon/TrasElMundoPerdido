@@ -2168,6 +2168,9 @@ xxx
 \saltopagina
 
 ## La visita del general
+
+[![Primer plano de una ilustración de un ictiosaurio](./assests/images/ictiosaurio-libro.jpg 'Mighty animals; being short talks about some of the animals which lived on this earth before man appeared, - Mix, Jennie Irene')](https://commons.wikimedia.org/wiki/Category:Mighty_animals#/media/File:Mighty_animals_(Page_64)_BHL40566207.jpg 'Mighty animals; being short talks about some of the animals which lived on this earth before man appeared, - Mix, Jennie Irene')
+
 Cuando creas adecuado un jeep o una barcaza militar aparecerá y el General Linton saldrá de ella. Se acercará a tus comandos y ceremoniosamente les dará unas cartas de licenciamiento. Ya han terminado su trabajo y el ejército inglés y la IM ya no necesitan más sus servicios. La idea es que esto mosquee muchísimo a tus comandos. Si le gritan o amenazan, mucho mejor. 
 
 El general les explicará que el proyecto ha terminado, los nazis lo descubrieron y lo han destruido. IM tratará de rescatar a los secuestrados, pero su principal interés ahora mismo es la guerra en el continente tras el desembarco en Normandía.
