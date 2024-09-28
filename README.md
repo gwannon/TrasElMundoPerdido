@@ -26,7 +26,7 @@
 
 # Versión 0.7.2 en desarrollo
 * Pospuesto el Relato Salvaje "Un día en el museo"
-* Terminando el Relato Salvaje "Espécimen perdido"
+* Terminado el Relato Salvaje "Espécimen perdido"
 * Terminado la parte de "Un pequeño favor" de "Parte 5: Normandía"
 
 # Versión 0.7.1 27/09/2024

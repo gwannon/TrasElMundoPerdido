@@ -307,3 +307,6 @@ padukas
 superarma
 Lugers
 ville
+Sheridan
+loft
+grandote

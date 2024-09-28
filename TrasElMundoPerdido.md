@@ -3042,19 +3042,52 @@ Al volver a Skye os informan de que un huevo de pteranodonte ha desaparecido de 
 Todo indica que alguien ha entrado en los terrenos de la fundación y ha robado un huevo de pteranodonte. Ha tenido que ser algo planeado, ya que ha necesitado equipo de escalada para llegar a los nidos de los saurios. Lady Roxton considera esto un fallo de seguridad grave que habrá que solucionar.
 
 ### Buscando al ladrón
-Si preguntan en el ferry, no ha venido nadie nuevo en los últimos días y todavía no ha salido el ferry de hoy. Eso supone que o está en la isla o ha llegado al continente por otros medios.
+
+[![Detalle de un huevo de pteranodonte](./assests/images/huevo.jpg 'Ostrich Egg - Azim Khan Ronnie')](https://commons.wikimedia.org/wiki/File:Ostrich_Egg.jpg 'Ostrich Egg - Azim Khan Ronnie')
+
+Si preguntan en el ferry, no ha venido nadie nuevo en los últimos días y todavía no ha salido el ferry de hoy. Ha habido mal mar estos días y no debería haber nadie de los pueblos costeros que se arriesgaría a cruzar a alguien a la isla en un bote de pescador.
+
+Por lo tanto el ladrón es alguien que ha llegado por sus propios medios. Si empiezan a rastrear la costa este de la isla que da a tierra firme encontrarán una pequeña barca escondida entre la vegetación de una playa.
+
+Pueden intentar tenderle una trampa en la barca o buscarle siguiendo más o menos una línea entre la barca y la fundación.
+
+Si esperan en la barca no llegará nunca. Si se ponen a buscarle, encontrarán su cuerpo en un refugio de pastores. Lleva ropas militares, pero sin marcas, y está lleno de cortes y rasguños, seguramente del combate con los padres del huevo robado. Parece que las heridas de los pteranodontes se le infectaron y murió. El refugio está lleno de latas de comida. Así que llevaba tiempo en la isla estudiándola y buscando el mejor momento para el golpe.
+
+\saltopagina
+
+El huevo está en una mochila, cubierto de trapos para que no se rompa, pero sin fuente de calor, el feto de su interior debe haber muerto.
+
+Si registran el cadáver, solo encontrarán algunas libras y un papel con un nombre Sheridan y una dirección en Edimburgo. Es fácil deducir que es el lugar de entrega. Si alguien es escocés o vivió allí sabe que esa dirección es un mal barrio de la ciudad.
+
+Si hablan con Lady Roxton lamentará la muerte de la cría del huevo y del ladrón. Si no lo plantean tus comandos, Lady Roxton planteará tirar del hilo y descubrir a la persona que contrato al ladrón para tratar de averiguar cuál era su objetivo y cómo supo de la existencia de los saurios.
+
+### La entrega
+Una vez en Edimburgo encontrar la dirección es fácil, es un local de apuestas, de un mafioso local apodado Sheridan, así que todo concuerda
+
+Pueden entrar sin problemas al local y si preguntan por Sheridan, el gerente empezará a hacer más preguntas, quiénes son, qué quieren, etc. No parará de preguntar hasta que enseñen el huevo o digan que han conseguido el huevo.
+
+Les hará pasar a la trastienda y de ahí al piso de arriba. Dónde dos camorristas les registrarán y requisarán todas las armas no ocultas (tienen Notar d8).
+
+Tras cruzar la puerta darán paso a una especie de estudio/loft horteramente decorado. Cosas carísimas que no pegan entre sí, y todo muy ostentoso. En un sofá de terciopelo rojo estará Sheridan, un tipo grandote, con pinta de mafioso y un fuerte acento escocés. Tiene la nariz partida y cicatrices de peleas, quizás fue boxeador o luchador profesional.
+
+Le cubren cuatro guardaespaldas desperdigados por toda la estancia. Todos armados y con las pistolas a la vista. Seguramente cerca tienen armas más grandes como escopetas escondidas.
 
 xxx
 
-### El intercambio
-Ahora que tienen el huevo y han capturado al ladrón puede ser interesante concertar una cita con el comprador para tratar de averiguar cuál era su objetivo y cómo supo de la existencia de los saurios.
+Cuando creas conveniente en el combate el huevo eclosionará y saldrá la cría de pteranodonte. Esto debería cambiar el sentido y objetivos del combate. Hasta ahora el huevo no importaba y ahora debería tratar de recuperarla sin que la débil cría reciba daño.
 
-xxx
+Si quieres meterle dramatismo, Sheridan podría usar la cría como rehén y el combate se parará para convertirse en una situación con rehenes.
 
-### Devolviendo el huevo
 xxx
 
 \saltopagina
+
+### Devolviendo la cría
+Milagrosamente la cría ha sobrevivido a toda esta aventura y es hora de devolvérsela a sus padres. Nadie cree que sus padres lo acepten, pero no hay nada que perder.
+
+Deja a tu mesa que piense como hacer la presentación y si crees que debe funcionar funcionará, los padres reconocerán a la cría como suya y la aceptarán en su nudo. 
+
+Puedes si te gusta la idea que sea rechazado y se convierta en la mascota de tus comandos. Algún comando con un compañero saurio pteranodonte podría adoptarla para enseñarles entre los dos a volar, cazar y demás.
 
 ## Despedidas
 ```
@@ -3069,9 +3102,9 @@ Este relato salvaje no es un relato normal, es más bien una serie de ideas para
 * La Fundación no va a permitir tu comando y su saurio de gran tamaño como el alosaurio o el estegosaurio anden sin control por vete tú a saber donde, el mundo todavía no está preparado para saber que los dinosaurios existen.
 * Quizás es divertido que los saurios tengan crías y tu comando se haga cargo de una o varias de ellas. 
 
-Algo que debes pensar es cuando va a ocurrir está despedida antes o después del fin de la guerra. Cada opción tiene sus implicaciones si quieres seguir jugando con el mismo PJ. Si la guerra está activa todavía puedes hacer aventuras de guerra en las que luchan contra nazis. Si la guerra ha acabado las tramas no deberían contener temas militares o no ser su punto central. No tendrán sentido las historias donde tengan que saltar un sitio de una ciudad o que deban escapar de un campo de prisioneros.
-
 \saltopagina
+
+Algo que debes pensar es cuando va a ocurrir está despedida antes o después del fin de la guerra. Cada opción tiene sus implicaciones si quieres seguir jugando con el mismo PJ. Si la guerra está activa todavía puedes hacer aventuras de guerra en las que luchan contra nazis. Si la guerra ha acabado las tramas no deberían contener temas militares o no ser su punto central. No tendrán sentido las historias donde tengan que saltar un sitio de una ciudad o que deban escapar de un campo de prisioneros.
 
 ## Recomendaciones sobre los relatos salvajes.
 Es muy recomendables intercalar las misiones principales donde la trama avanza con estas pequeñas aventuras donde los personajes muchas veces estarán fuera de lugar haciendo cosas fuera de su red de seguridad como es investigar o pelear. Quizás tengan que participar en una película, seguir la pista a una esquiva escritora o ayudar a la resistencia local a luchar contra las fuerzas nazis.
@@ -3092,10 +3125,10 @@ Además de los relatos salvajes, aquí te propongo una serie de semillas de aven
 ### Samuráis y ninjas
 El Tercer Reich pide ayuda al ejército imperial japonés y estos envían a grupo de ninjas y samuráis para hacer frente a tus comandos y sus saurios. Quizás puedas animar las partidas con ataques de ninjas mientras duermen en un tren nocturno a París o tal vez tus comandos tengan que enfrentarse a un samurái que para las balas con su espada e invoca su ki a través de ella. 
 
+\saltopagina
+
 ### La gran evasión
 Alguien de tus comandos, incluso todos, han caído prisioneros de los nazis y deberán escapar de un campo de prisioneros al más puro estilo «La gran evasión».
-
-\saltopagina
 
 ### La epidemia
 Desde el campamento llegan malas noticias una enfermedad está afectando a todos los saurios de la meseta. Quizás la cura exija buscar gente y productos por todo el mundo, incluso igual en el propio Berlín. 
