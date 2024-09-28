@@ -715,6 +715,19 @@ Tu personaje está convencido de que los enemigos están en todas partes, y cree
 
 Como desventaja menor, tienes un -1 en todas las tiradas de habilidad que exijan concentración (como abrir cerraduras, jugar a las cartas, descifrar un código, …) cuando otros están a tu alrededor. Si se toma como mayor, además, el -1 se aplicará a todas las tiradas de percepción, ya que estará más preocupado desvelando conspiraciones y enemigos ocultos que en vigilar o buscar.
 
+### Amnesia y flashbacks (menor/mayor)
+El cerebro de tu comando, muy sabiamente, ha bloqueado parcialmente el recuerdo concreto de una situación traumática (cómo le torturaron, cómo presenció un asesinato, ...). No quiere decir que no recuerde ese hecho concreto, pero solo generalmente. Los detalles son lo que ha reprimido y todos sabemos que el demonio está en los detalles.
+
+Esos detalles vuelven a su mente como flashbacks mostrándoles los momentos más traumáticos del evento que produjo la amnesia, los gritos espeluznantes, el olor a sangre podrida, los brillantes ojos del asesino, ...
+
+En juego, supone que una vez por sesión en momentos de estrés puede sufrir esos flashbacks fallando la tirada que vaya a hacer sin posibilidad de gastar un Beni para repetirla. Por estrés entendemos cualquier tirada enfrentada, desde jugar al póquer a discutir con un oponente político o tratar de entrar sigilosamente en la casa del gobernador. 
+
+Si se coge como mayor, el DJ podrá hacerle fallar cualquier tirada de combate y dejarle aturdido como si le hubieran hecho una finta o un truco sucio.
+
+\saltopagina
+
+[![Imagen de Charles R. Knight esculpiendo un estegosaurio](./assests/images/knight.jpg 'Charles R. Knight working on Stegosaurus in 1899 Unknown author - http://www.darwinlive.com/')](https://commons.wikimedia.org/wiki/Category:Charles_R._Knight#/media/File:Charles_R._Knight.jpg/2 'Charles R. Knight working on Stegosaurus in 1899 Unknown author - http://www.darwinlive.com/')
+
 ### Nueva ventaja para dinosaurios: Alas rápidas
 **Requisitos:** Novato, Vuelo, Agilidad d6+
 
@@ -732,13 +745,7 @@ Llevar milenios siendo una presa ha hecho que ciertos especímenes de tu especie
 
 \saltopagina
 
-[![Imagen de Charles R. Knight esculpiendo un estegosaurio](./assests/images/knight.jpg 'Charles R. Knight working on Stegosaurus in 1899 Unknown author - http://www.darwinlive.com/')](https://commons.wikimedia.org/wiki/Category:Charles_R._Knight#/media/File:Charles_R._Knight.jpg/2 'Charles R. Knight working on Stegosaurus in 1899 Unknown author - http://www.darwinlive.com/')
-
-&nbsp;
-
 Obtienes un +2 a Notar para detectar enemigos y además algún tipo de señal (bramido, golpear el suelo con la cola, chocar las alas, etc.) para avisar al resto de la manada.
-
-&nbsp;
 
 ### Nueva ventaja para dinosaurios: Buen paciente
 
@@ -746,19 +753,13 @@ Obtienes un +2 a Notar para detectar enemigos y además algún tipo de señal (b
 
 El saurio es muy buen paciente y se comporta muy bien cuando hay que realizarle pruebas o realizar curas. Las tiradas de Ciencias al practicarle pruebas y experimentos y las de Medicina al curar heridas y enfermedades obtiene un +2.
 
-&nbsp;
-
 ### Nueva ventaja para dinosaurios: Raptor
 
 **Requisitos:** Novato, Carnívoro
 
 El saurio carnívoro es un experto cazador con lo que puede obtiene +2 a Notar al buscar a su presa y +2 a sigilo al tender emboscadas a sus presas.
 
-\saltopagina
-
 ### Nueva desventaja para dinosaurios: Joven (Mayor)
-[![Primer plano de una ilustración de un ictiosaurio](./assests/images/ictiosaurio-libro.jpg 'Mighty animals; being short talks about some of the animals which lived on this earth before man appeared, - Mix, Jennie Irene')](https://commons.wikimedia.org/wiki/Category:Mighty_animals#/media/File:Mighty_animals_(Page_64)_BHL40566207.jpg 'Mighty animals; being short talks about some of the animals which lived on this earth before man appeared, - Mix, Jennie Irene')
-
 El dinosaurio no es un espécimen adulto y todavía no ha llegado a su tamaño de adulto. Es por ello que tiene 1 punto menos de tamaño que lo normal en su especie con todas las consecuencias en Dureza, número de heridas, etc.
 
 También supone que el equipamiento que se le ponga no puede usarse en otros dinosaurios de su especie porque es específico para él y viceversa. Adaptarlo de uno a otro llevará 1 hora de trabajo con las herramientas adecuadas.
@@ -3059,7 +3060,7 @@ El huevo está en una mochila, cubierto de trapos para que no se rompa, pero sin
 
 Si registran el cadáver, solo encontrarán algunas libras y un papel con un nombre Sheridan y una dirección en Edimburgo. Es fácil deducir que es el lugar de entrega. Si alguien es escocés o vivió allí sabe que esa dirección es un mal barrio de la ciudad.
 
-Si hablan con Lady Roxton lamentará la muerte de la cría del huevo y del ladrón. Si no lo plantean tus comandos, Lady Roxton planteará tirar del hilo y descubrir a la persona que contrato al ladrón para tratar de averiguar cuál era su objetivo y cómo supo de la existencia de los saurios.
+Cuando hablen con Lady Roxton lamentará la muerte de la cría del huevo y del ladrón. Si no lo plantean tus comandos, Lady Roxton planteará tirar del hilo y descubrir a la persona que contrato al ladrón para tratar de averiguar cuál era su objetivo y cómo supo de la existencia de los saurios.
 
 ### La entrega
 Una vez en Edimburgo encontrar la dirección es fácil, es un local de apuestas, de un mafioso local apodado Sheridan, así que todo concuerda
@@ -3072,18 +3073,41 @@ Tras cruzar la puerta darán paso a una especie de estudio/loft horteramente dec
 
 Le cubren cuatro guardaespaldas desperdigados por toda la estancia. Todos armados y con las pistolas a la vista. Seguramente cerca tienen armas más grandes como escopetas escondidas.
 
-xxx
+Sheridan se presentará como un empresario local y les preguntará quiénes son y por qué tienen el encargo de Matthew. Él mismo encargó el trabajo a Matthew y no entiende por qué no ha venido él. Tendrán que ser muy creativos para contestar, pero si no le convencen Sheridan hará una seña y sus guardaespaldas sacarán las armas y empezará el combate. Si le convencen les pedirá el huevo y les lanzará un sobre lleno de billetes.
+
+Si intentan seguir con la conversación y preguntarle más cosas, les dirá que no le gustan tantas preguntas y les insinuara «amablemente» que se vayan. En ese momento puede irse sin sacar ninguna información o quedarse y que empiece una pelea.
+
+### La pelea
+Si se monta la pelea, los guardaespaldas son fáciles, pero Sheridan es un mostrenco con puños de acero, que se ensañara con un enemigo hasta derribarlo para seguir con el siguiente, así hasta derrotar a todos tus comandos.
+
+\saltopagina
 
 Cuando creas conveniente en el combate el huevo eclosionará y saldrá la cría de pteranodonte. Esto debería cambiar el sentido y objetivos del combate. Hasta ahora el huevo no importaba y ahora debería tratar de recuperarla sin que la débil cría reciba daño.
 
 Si quieres meterle dramatismo, Sheridan podría usar la cría como rehén y el combate se parará para convertirse en una situación con rehenes.
 
-xxx
+Tras ganar el combate, si interrogan a Sheridan, solo sabe que alguien medio encapuchado le contrato por mucho dinero (dando la mitad por adelantado) y debía poner un anuncio en un periódico local si conseguía el huevo para que él y solo con él intercambiara el huevo por la otra mitad del dinero.
 
-\saltopagina
+En pocos minutos vendrá la policía, así que tus comandos deberán decidir si llevarse a Sheridan o no. Si le libran de la policía estará en deuda con ellos y podrían conseguirles armas y productos ilegales en un futuro.
+
+Si tratan de poner el anuncio, nadie acudirá. Han hecho mucho ruido y el misterioso encapuchado sabrá que es una trampa. La realidad es que el propio general Linton es el encapuchado. Buscaba otra forma más de mover el tema de los saurios, convencido que toda esta historia llegaría a oídos de espías nazis en suelo escocés.
+
+#### Sheridan, ex-boxeador y jefe criminal &#x2638;
+Este ex-boxeador metido a jefe mafioso controla una parte importante de las calles de Edimburgo y pocos negocios turbios quedan sin pasar por sus manos y sin llevarse tajada. Es bastante inteligente aunque a veces tiene flashbacks de su época de boxeador y no sabe donde está y qué hace. 
+
+* **Atributos:** Agilidad d8, Astucia d8, Espíritu d8, Fuerza d10, Vigor d10
+* **Habilidades:** Atletismo d8, Disparar d10, Idioma inglés d8, Intimidar d8, Latrocinio d8, Notar d10, Pelear d10, Reparar d6, Sigilo d6
+* **Paso:** 6; **Parada:** 8(1); **Dureza:** 10(3)
+* **Ventajas:** Bloqueo, Grande, Matón, Gorila, Nervios de acero
+* **Desventajas:** Buscado (Mayor, por crímenes varios), Amnesia y flashbacks (mayor, sus días de boxeador)
+* **Equipo:** Ropa elegante hecha a medida, puños (FUE+d6) y pistola
+
+**Sugerencia de interpretación:** Eres un jefe criminal y tienes que hacerte respetar, puedes ser divertido e incluso soltar chascarrillos a tus guardaespaldas, pero cuando el negocio sale en la conversación tu tono de voz cambia, es mucho más serio y duro.
 
 ### Devolviendo la cría
 Milagrosamente la cría ha sobrevivido a toda esta aventura y es hora de devolvérsela a sus padres. Nadie cree que sus padres lo acepten, pero no hay nada que perder.
+
+\saltopagina
 
 Deja a tu mesa que piense como hacer la presentación y si crees que debe funcionar funcionará, los padres reconocerán a la cría como suya y la aceptarán en su nudo. 
 
@@ -3102,9 +3126,9 @@ Este relato salvaje no es un relato normal, es más bien una serie de ideas para
 * La Fundación no va a permitir tu comando y su saurio de gran tamaño como el alosaurio o el estegosaurio anden sin control por vete tú a saber donde, el mundo todavía no está preparado para saber que los dinosaurios existen.
 * Quizás es divertido que los saurios tengan crías y tu comando se haga cargo de una o varias de ellas. 
 
-\saltopagina
-
 Algo que debes pensar es cuando va a ocurrir está despedida antes o después del fin de la guerra. Cada opción tiene sus implicaciones si quieres seguir jugando con el mismo PJ. Si la guerra está activa todavía puedes hacer aventuras de guerra en las que luchan contra nazis. Si la guerra ha acabado las tramas no deberían contener temas militares o no ser su punto central. No tendrán sentido las historias donde tengan que saltar un sitio de una ciudad o que deban escapar de un campo de prisioneros.
+
+\saltopagina
 
 ## Recomendaciones sobre los relatos salvajes.
 Es muy recomendables intercalar las misiones principales donde la trama avanza con estas pequeñas aventuras donde los personajes muchas veces estarán fuera de lugar haciendo cosas fuera de su red de seguridad como es investigar o pelear. Quizás tengan que participar en una película, seguir la pista a una esquiva escritora o ayudar a la resistencia local a luchar contra las fuerzas nazis.
@@ -3125,10 +3149,10 @@ Además de los relatos salvajes, aquí te propongo una serie de semillas de aven
 ### Samuráis y ninjas
 El Tercer Reich pide ayuda al ejército imperial japonés y estos envían a grupo de ninjas y samuráis para hacer frente a tus comandos y sus saurios. Quizás puedas animar las partidas con ataques de ninjas mientras duermen en un tren nocturno a París o tal vez tus comandos tengan que enfrentarse a un samurái que para las balas con su espada e invoca su ki a través de ella. 
 
-\saltopagina
-
 ### La gran evasión
 Alguien de tus comandos, incluso todos, han caído prisioneros de los nazis y deberán escapar de un campo de prisioneros al más puro estilo «La gran evasión».
+
+\saltopagina
 
 ### La epidemia
 Desde el campamento llegan malas noticias una enfermedad está afectando a todos los saurios de la meseta. Quizás la cura exija buscar gente y productos por todo el mundo, incluso igual en el propio Berlín. 

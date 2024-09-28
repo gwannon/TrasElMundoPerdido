@@ -13,10 +13,6 @@
 * Parte 5: Normandía
 * Parte 7: Regreso a casa
 
-# Por hacer de la versión 0.7
-* Relatos salvajes
-  * Espécimen perdido
-
 ## Recursos 
 * https://commons.wikimedia.org/wiki/Category:Charles_R._Knight
 
@@ -24,54 +20,56 @@
 
 # Changelog
 
-# Versión 0.7.2 en desarrollo
+## Version 0.8 en desarrollo
+
+## Versión 0.7.2 29/07/2024
 * Pospuesto el Relato Salvaje "Un día en el museo"
 * Terminado el Relato Salvaje "Espécimen perdido"
 * Terminado la parte de "Un pequeño favor" de "Parte 5: Normandía"
 
-# Versión 0.7.1 27/09/2024
+## Versión 0.7.1 27/09/2024
 * Terminado el Relato Salvaje "El secreto de los Branningan"
 * Terminado el Relato Salvaje "Despedidas"
 * Terminado el Relato Salvaje "Nadie"
 * Terminado la parte de "Preparando el día D" de "Parte 5: Normandía"
 
-# Versión 0.7 08/09/2024
+## Versión 0.7 08/09/2024
 * Terminada la parte de "Rompiendo el sitio de Stalingrado" de "Parte 6: El frente ruso"
 * Terminada la parte de "Encuentros" de "Parte 6: El frente ruso"
 * Terminada la parte de "Regreso a casa" de "Parte 6: El frente ruso"
 * Terminada la parte de "Reportes desde el frente (Pistas)" de "Parte 6: El frente ruso"
 
-# Versión 0.6.2 05/09/2024
+## Versión 0.6.2 05/09/2024
 * Terminada la parte de "¡¡¡¡Dragones!!!!" de "Parte 4: Noruega"
 * Terminada la parte de "Vuelta a casa" de "Parte 4: Noruega"
 
-# Versión 0.6.1 25/08/2024
+## Versión 0.6.1 25/08/2024
 * Terminada la parte de "Misión de rutina" de "Parte 3: Islas Orcadas"
 * Terminada la parte de "En todo el fregado" de "Parte 3: Islas Orcadas"
 * Terminada la parte de "¿Cómo detener un submarino?" de "Parte 3: Islas Orcadas"
 * Terminada la parte de "Interrogatorio" de "Parte 3: Islas Orcadas"
 * Terminado el Relato Salvaje "Cena de etiqueta"
 
-# Versión 0.6 20/08/2024
+## Versión 0.6 20/08/2024
 * Terminado el Relato Salvaje "Noche de poker"
 * Terminada la parte de "Operación Gunnerside" de "Parte 4: Noruega"
 * Terminada la parte de "Lo que IM puede contarte" de "Parte 4: Noruega"
 * Terminada la parte de "Las otras heroínas de Telemark" de "Parte 4: Noruega"
 
-# Versión 0.5.2 16/08/2024
+## Versión 0.5.2 16/08/2024
 * Terminada ambientación "La expedición Roxton"
 * Terminado el Relato Salvaje "Arte robado"
 * Terminado el Relato Salvaje "Limpiando el puerto"
 * Terminada la parte de "Buscar al activo de la IM" de "Parte 2: Norte de África"
 * Terminada la parte de "Salir de Tobruk" de "Parte 2: Norte de África"
 
-# Versión 0.5.1 10/08/2024
+## Versión 0.5.1 10/08/2024
 * Terminado el Relato Salvaje "Campo minado"
 * Terminado el Relato Salvaje "Operación Columba"
 * Terminada la parte de "Escudo anti-torpedos" de "Parte 3: Islas Orcadas"
 * Terminada ambientación "El mundo perdido"
 
-# Versión 0.5 06/08/2024
+## Versión 0.5 06/08/2024
 * Terminado el Relato Salvaje "¿Quién es Marion Fairfax?"
 * Terminada la parte de "Informe de misión" de "Parte 2: Norte de África"
 * Terminada la parte de "Tobruk" de "Parte 2: Norte de África"
@@ -79,7 +77,7 @@
 * Terminada la parte de "Visita a Bletchley Park" de "Parte 2: Norte de África"
 * Terminada la parte de "La pista" de "Parte 2: Norte de África"
 
-# Versión 0.4.3 02/08/2024
+## Versión 0.4.3 02/08/2024
 * Terminado el Relato Salvaje "Titanes de tiempos pretéritos"
 * Terminado el Relato Salvaje "¿Quién es Marion Fairfax?"
 * Terminada la parte de "Primera misión" de "Parte 1: La isla de Skye"
