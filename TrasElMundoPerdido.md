@@ -2180,6 +2180,9 @@ El general les explicará que el proyecto ha terminado, los nazis lo descubriero
 
 xxx
 
+
+\saltopagina
+
 ## Con la mierda hasta el cuello
 La situación de tu comando ha cambiado drásticamente, a priori ha perdido los recursos de la fundación y no sabe si puede fiarse del todo de IM.
 
@@ -2192,6 +2195,7 @@ xxx
 ### Aliados
 Por suerte no están solos en sus misiones han hechos contactos, ayudado a gente y conseguidos recursos propios. Es hora de usarlos. 
 
+* **Ningún compañero saurio** ha sido atrapado y podrán encontrarlo en los terrenos de la fundación. 
 * **Jocelyn Dubois.** Si miran su correspondencia, alguien puede que tenga una carta Jocelyn contando que está escondida en Londres desde la misión en Normandía. También pone su dirección. Quizás sea hora de que de cobrarse algún favor.
 * **Dolores Branningan y la tripulación del «Mary Anning».** Por supuesto que la valiente tripulación del «Mary Anning» está preparada para ayudar a tus comandos y hacer lo que sea para rescatar a Lady Roxton y matar nazis. Y si no quieren Dolores le dará una buena zurra. 
 * **Wayland.** Consiguió escaparse de los nazis, haciéndose pasar por un mozo de granja y escabulléndose cuando no miraban los guardias. Por supuesto que ayudará a tus comandos a matar nazis, de hecho, lo está deseando.
@@ -2222,7 +2226,10 @@ Tus comandos están contrarreloj, tienen que llegar lo más rápido a la meseta 
 xxx
 
 ### Preparativos
-xxx
+
+El único problema en este punto es el dinero, deben comprar combustible para el barco y víveres para el viaje. El resto de cosas que pudieran necesitar pueden comprarlo o sacarlo de lo que queda de la fundación. Si tienen dinero propio, como un tesoro hundido o algún comando rico, pueden tirar de ello, pero sea como sea necesitaran 4.000 libras para los gastos. si no tiene acceso a pasta igual puedan pedir un préstamo a personajes como el mafioso Sheridan o vender algún cuadro rescatado a los nazis.   
+
+Si reúnen la pasta, Branningan podrá preparar el viaje, pero deberán darse prisa y no tardar más de 1 semana o cuando lleguen los nazis habrán destruido el mundo perdido.
 
 \saltopagina
 
