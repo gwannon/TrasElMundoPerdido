@@ -1926,6 +1926,9 @@ En la persecución podrían hacer señales luminosas y recibir ayuda de los pter
 Jocelyn se negará a dar explicaciones de sus actos y desaparecerá a la primera que le quiten la vista de encima. No quiere dar explicaciones. Saldrá de Francia e irá a esconderse temporalmente a Londres, mientras piensa que hará ahora con su vida.
 
 ## Sabotaje
+
+Con Nezhoda muerto el ejército necesita un nuevo mandamás y pone a Irma Bormann que estaba en La Havre como agente de las SS en la zona y segunda al mando de Nezhoda. Enseguida toma las riendas del gobierno local y empieza a ejecutar las técnicas de control típicas de las SS, el terror y el asesinato. No quiere acabar como Nezhoda y tiene órdenes de controlar con mano de hierro la zona, La Havre es fundamental dentro del cinturón defensivo de Normandía. 
+
 xxx
 
 \saltopagina
@@ -2810,7 +2813,7 @@ Aquí tienes algunas ideas.
 * El general von Liebenfels se presentará con varias piezas del museo de historia de Skien que pertenecieron a varios reyes vikingos. Estamos hablando de un caso, hombreras, cinturón y un martillo de guerra. Podrían recuperarlo y ponerlo a salvo en el British Museum hasta que termine la guerra (véase la ironía). Sus drachenjägers también llevan equipamiento vikingo (espadas, cotas de malla, cascos y escudos) que se tendrían que preservar.
 * El mayor Nezhoda tiene un par de Picassos de pequeño tamaño en su despacho, son de su época azul.
 * El general von Liebenfels tiene 4 pequeños Rembrandts requisados a una familia judía de Ámsterdam en su lujoso camarote de su zepelín.
-* El doctor Eckart tiene una pequeña pinacoteca de 10 cuadros en el comedor principal del castillo de Hohenzollern. La cúpula nazi suele granjearse su amistad regalándole obras de impresionistas francesas.
+* El doctor Eckart tiene una pequeña pinacoteca de 10 cuadros en el comedor principal del castillo de Hohenzollern. La cúpula nazi suele granjearse su amistad regalándole obras de impresionistas francesas, tiene predilección por la pintora francesa impresionista Berthe Morisot.
 * Los nazis que atacaron el castillo Dunvegan se llevaron algunos cuadros que colecciono en vida Lord Roxton y que heredó su sobrina. Son 3 cuadros del pintor romántico William Turner por los que Lord Roxton tenía gran estima.
 
 La idea de este relato es añadir una dificultad extra a las aventuras si crees que pudieran resultar muy fáciles. Piensa que escapar de un sitio como Tobruk con una estatua griega de mármol se complica bastante.
@@ -3424,7 +3427,7 @@ Pero este genio loco no solo ha trabajado en su rayo mortal, también ha mejorad
 
 **Sugerencia de interpretación:** Tu locura esta al nivel de tu genialidad científica, así que estás muy muy loco. Gritas y susurras en la misma frase y hablas contigo mismo. Te preguntas y te respondes con diferentes voces incluso discutes a gritos contigo mismo. Y de repente vuelves a la normalidad durante unos segundos pareciendo totalmente normal.
 
-### Irma Bormann, espía de las SS &#x2638;
+### Irma Bormann, agente de las SS &#x2638;
 [![Retrato de Irma Bormann](./assests/images/bormann.jpg 'Studio portrait photo of Veronica Lake taken for promotional use.')](https://es.wikipedia.org/wiki/Veronica_Lake#/media/Archivo:Veronica_Lake_still.jpg 'Studio portrait photo of Veronica Lake taken for promotional use.')
 
 Irma es la _femme fatale_ por excelencia, seductora y misteriosa, pero también sádica y mortal. Nadie puede escapar de sus encantos. 

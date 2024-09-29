@@ -310,3 +310,5 @@ ville
 Sheridan
 loft
 grandote
+Berthe
+Morisot
