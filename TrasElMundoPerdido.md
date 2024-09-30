@@ -1888,11 +1888,13 @@ Para darle color a la fiesta en la plaza hay una instalación de fuegos artifici
 
 Cuando dejen su coche y entreguen sus entradas podrán entrar a la fiesta. Dales un beni si se les ocurre dejar en el coche a un comando o un aliado de conductor. Todo robo necesita un conductor atento a todo que ponga el vehículo de fuga en la entrada para salir pitando.
 
-La fiesta es todo lo ostentosa que te puedas imaginar. Nezhoda ha sacado su mejor vajilla, hay banderas y pendones nazis colgando de todas partes, candelabros de planta, servilletas de la mayor calidad y un par de chefs de alto renombre de París están preparando exquisiteces para los invitados. Música en directo por parte de un cuarteto de cuerda y la servidumbre arriba y abajo con bandejas de canapés.
+A la entrada de la fiesta esta Irma Bormann, lugarteniente de Nezhoda y agente local de las SS, revisando las entradas y buscando posibles intrusos. Será muy simpática e incluso seductora, haciendo preguntas casuales pero estudiando a los invitados. 
+
+La fiesta es todo lo ostentosa que te puedas imaginar. Nezhoda ha sacado su mejor vajilla, hay banderas y pendones nazis colgando de todas partes, cubertería y candelabros de plata, servilletas de la mayor calidad y un par de chefs de alto renombre de París están preparando exquisiteces para los invitados. Música en directo por parte de un cuarteto de cuerda y la servidumbre arriba y abajo con bandejas de canapés.
 
 Hay gente bailando, gente comiendo y gente charlando. Según pasen las horas, gracias a las máscaras y al alcohol, las buenas formas se irán y los más bajos instintos se apoderarán de la reunión; personas borrachas gritando, otras cotilleando y criticando por la espalda, otras besándose en las esquinas oscuras y otras confabulando en secreto. Y los peores serán los oficiales nazis.
 
-Dentro del baile no hay soldados encargados de la seguridad, pero si bastantes oficiales disfrazados, pero una tirada de Notar les dirá que hay varios disfrazados con Lugers reglamentarias. Nezhoda quiere montar una mezcla de fiesta salvaje y orgía y con soldados vigilando dentro puede cortar a los asistentes. 
+Dentro del baile no hay soldados encargados de la seguridad, pero si bastantes oficiales nazis disfrutando de la fiesta y disfrazados, pero una tirada de Notar les dirá que hay varios disfrazados con Lugers reglamentarias. Nezhoda quiere montar una mezcla de fiesta salvaje y orgía y con soldados vigilando dentro puede cortar a los asistentes. 
 
 Mete cosas divertidas, por ejemplo, si alguien va disfrazado de cocinero le metan en la cocina o si va de gallina le pidan que haga como que pone un huevo mientras el público aplaude y ríe. Cada puerta que abran puede ser una sorpresa con alguna escena rocambolesca.
 
@@ -1901,9 +1903,9 @@ Cuando la fiesta empiece a degenerar será el momento de empezar a buscar el des
 
 Jocelyn se ofrecerá a vigilar las escaleras por si se presentan problemas en forma de oficiales nazis o el propio Nezhoda que va disfrazado de Genio de la Lámpara. Ibrahim les ayudará en el piso superior por si hay que abrir cerraduras o forzar cajas fuertes.
 
-En el piso superior tiene 10 habitaciones entre dormitorios, despachos y baños. Para encontrar el estudio y tendrán que jugar al juego de las puertas. El problema es que si abren una puerta y está alguien puede que de la voz de alarma. Una tirada de Investigar les quitará 2 puertas más 1 por cada avance, ya que parecen de baños o de armarios para las escobas.
-
 \saltopagina
+
+En el piso superior tiene 10 habitaciones entre dormitorios, despachos y baños. Para encontrar el estudio y tendrán que jugar al juego de las puertas. El problema es que si abren una puerta y está alguien puede que de la voz de alarma. Una tirada de Investigar les quitará 2 puertas más 1 por cada avance, ya que parecen de baños o de armarios para las escobas.
 
 Según vayan abriendo puertas descríbeles alguna escena divertida y sin sentido, por ejemplo, una persona disfrazada de domador haciendo trucos con un león de peluche y otras dos personas aplaudiendo. Cuando quieras, la puerta que abran, será la del estudio.
 
@@ -1918,20 +1920,22 @@ Ahora les toca huir con los secretos robados. A priori, debería ser algo fácil
 
 Cuando bajen al piso inferior, Nezhoda estará llamado la atención para hacer un brindis. Más que un brindis será un discurso. Según se vayan moviendo por la pista de baile, la voz del general se ahogará y la punta un cuchillo sobresaldrá de su pecho y caerá al suelo muerto. Jocelyn cubierta de sangre y con el cuchillo gritará _Vive la France_ y saldrá corriendo esquivando.
 
-Mientras la gente se da cuenta de lo que pasa y reaccionan (recuerda que la mayoría está borracha), tienen unos 3 turnos para llegar a la puerta principal de la mansión. Después, algunos invitados, sobretodos nazis se les enfrentarán. Igual algún comando se pone a cantar la «marsellesa» a pleno pulmón. Una tirada buena de interpretar podría sacar el patriotismo de los invitados franceses y que empiecen a atacar a los nazis para dar tiempo a escapar a tus comandos.
+Mientras la gente se da cuenta de lo que pasa y reaccionan (recuerda que la mayoría está borracha), tienen unos 3 turnos para llegar a la puerta principal de la mansión. Después, algunos invitados, sobretodos nazis se les enfrentarán. Igual algún comando se pone a cantar la «marsellesa» a pleno pulmón. Una tirada buena de interpretar podría sacar el patriotismo de los invitados franceses y que empiecen a atacar a los nazis para dar tiempo a escapar a tus comandos. Sea como Irma Bormann les espera en la puerta y tratará de deternerlos, pueden derribarla o pueden esquivarla, pero deberán ser rápido. 
 
 Si en algún momento Jocelyn corre peligro, Ibrahim Adauy hará lo que sea para salvarla, incluso sacrificarse para que ella pueda escapar.
 
 Si alguien se quedó en el coche como conductor, podrá tirar Notar para oír los gritos de los invitados, los disparos y el posterior barullo. Podrá encender motores y esperar al resto en la puerta del _hotel de la ville_.
 
+\saltopagina
+
 #### Escapando a la carrera
 La forma más rápida de escapar es coger el coche y salir pitando del ayuntamiento. Los guardias les seguirán algunos en moto y otros en coche a no ser que les hayan saboteado los vehículos. Si quieres puedes montar una persecución, donde tus comandos irán en un Citroën C4 o similar. Si han tenido la precaución de esconder armas en su coche podrán responder a los ataques de los soldados nazis.
 
-\saltopagina
-
 |VEHÍCULO|TAMAÑO|MANIOBRA.|VEL. MÁX.|DUREZA|TRIPULACIÓN|
 |--------|------|----|--|------|-----|
-|Citroën C4|6|0|90 km/h|10|1+4|
+|Citroën C4|6|0|90 km/h|10|1+4¹|
+
+_¹ pueden ir dos personas más por fuera sobre los estribos, una por cada estribo._
 
 [![Detalle de un Citroën C4 de 1930](./assests/images/citroen-c4.jpg 'De Arnaud 25 - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=6415423')](https://es.wikipedia.org/wiki/Citro%C3%ABn_C4_(1928)#/media/Archivo:Citroen_Type_C4_001.jpg 'De Arnaud 25 - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=6415423')
 
@@ -1946,6 +1950,8 @@ Jocelyn se negará a hablar de lo que acaba de pasar y desaparecerá a la primer
 ## Sabotaje
 
 Con Nezhoda muerto el ejército necesita un nuevo mandamás y pone a Irma Bormann que estaba en La Havre como agente de las SS en la zona y segunda al mando de Nezhoda. Enseguida toma las riendas del gobierno local y empieza a ejecutar las técnicas de control típicas de las SS, el terror y el asesinato. No quiere acabar como Nezhoda y tiene órdenes de controlar con mano de hierro la zona, La Havre es fundamental dentro del cinturón defensivo de Normandía. 
+
+\saltopagina
 
 xxx
 
