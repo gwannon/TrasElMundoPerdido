@@ -2208,7 +2208,7 @@ xxx
 ### Aliados
 Por suerte no están solos en sus misiones han hechos contactos, ayudado a gente y conseguidos recursos propios. Es hora de usarlos. 
 
-* **Ningún compañero saurio** ha sido atrapado y podrán encontrarlo en los terrenos de la fundación. 
+* **Ningún compañero saurio** ha sido atrapado y podrán encontrarlos en los terrenos de la fundación. 
 * **Jocelyn Dubois.** Si miran su correspondencia, alguien puede que tenga una carta Jocelyn contando por qué mato a Nezhoda y que está escondida en Londres desde la misión en Normandía. También pone su dirección. Quizás sea hora de que de cobrarse algún favor.
 * **Dolores Branningan y la tripulación del «Mary Anning».** Por supuesto que la valiente tripulación del «Mary Anning» está preparada para ayudar a tus comandos y hacer lo que sea para rescatar a Lady Roxton y matar nazis. Y si no quieren Dolores le dará una buena zurra. 
 * **Wayland.** Consiguió escaparse de los nazis, haciéndose pasar por un mozo de granja y escabulléndose cuando no miraban los guardias. Por supuesto que ayudará a tus comandos a matar nazis, de hecho, lo está deseando.
