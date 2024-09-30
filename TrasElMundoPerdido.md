@@ -1825,7 +1825,9 @@ La opción cabrona es hacerles entrar en la red de alcantarillado de la ciudad. 
 
 Cuando lleguen al piso franco Jocelyn les presentará Ibrahim Adauy, un ladrón de guante blanco que le ha ayudado en otras misiones en Francia. Ibrahim es de gran ayuda si necesitan colarse en algún sitio o robar algo y él estará encantado de ayudar. Lo que sea por joder a los nazis.
 
-xxx
+Déjales unos días para que estudien la ciudad, las fuerzas de ocupación que hay, las estructuras que han montado los nazis, etc. Tendrán que cartografiar bunkers, vigilar cambios de guardias, número de unidades en cada parte de la ciudad, tiempos de respuesta, etc. Si consiguen montar un dosier de la ciudad con toda esa información, puedes darles positivos cuando preparen su estrategia de sabotaje o cuando entren en acción y tengan que tomar decisiones rápidas e improvisadas.
+
+Jocelyn puede ponerles en contacto con la resistencia local, pero esto no darán esa información gratis y puede que les pidan algo, como recursos o algún trabajito como sacar alguien de alguna cárcel o robar en alguna armería nazi. Puedes hacerles una pequeña aventura o simplemente narrarlo, pero desde leugo ese tipo de actos deberían a la alrga tener a los nazis más atentos, haciendo mñas controles y mejroando la seguridad. 
 
 \saltopagina
 
