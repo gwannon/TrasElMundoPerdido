@@ -1825,7 +1825,7 @@ La opción cabrona es hacerles entrar en la red de alcantarillado de la ciudad. 
 
 Cuando lleguen al piso franco Jocelyn les presentará Ibrahim Adauy, un ladrón de guante blanco que le ha ayudado en otras misiones en Francia. Ibrahim es de gran ayuda si necesitan colarse en algún sitio o robar algo y él estará encantado de ayudar. Lo que sea por joder a los nazis.
 
-Déjales unos días para que estudien la ciudad, las fuerzas de ocupación que hay, las estructuras que han montado los nazis, etc. Tendrán que cartografiar bunkers, vigilar cambios de guardias, número de unidades en cada parte de la ciudad, tiempos de respuesta, etc. Si consiguen montar un dosier de la ciudad con toda esa información, puedes darles positivos cuando preparen su estrategia de sabotaje o cuando entren en acción y tengan que tomar decisiones rápidas e improvisadas.
+Déjales unos días para que estudien la ciudad, las fuerzas de ocupación que hay, las estructuras que han montado los nazis, etc. Tendrán que cartografiar búnkeres, vigilar cambios de guardias, número de unidades en cada parte de la ciudad, tiempos de respuesta, etc. Si consiguen montar un informe detallado de la ciudad con toda esa información, puedes darles positivos cuando preparen su estrategia de sabotaje o cuando entren en acción y tengan que tomar decisiones rápidas e improvisadas.
 
 Adauy puede, si le consiguen ejemplares similares, hacer falsificaciones bastante buenas de todo tipo de documentos y salvoconductos. 
 
@@ -2176,7 +2176,7 @@ Los nazis han capturado a una serie de personas:
 * Si trajeron a la isla a **Arntine Lyngstad y su familia**, von Liebenfels la reconoció de Noruega y se la ha llevado. Quiere interrogarla para saber más del fiasco de Telemark.
 * **Cualquier PNJ de tu propia cosecha que estuviera en la isla de Skye** es susceptible de haber sido secuestrado.
 
-Si bien en teoría no pueden hacer nada, puedes usarlos en momentos de necesidad narrativa como una pista. No sería de extrañar que Lady Roxton se librará de sus captores y huyera hasta encontrar a tus comandos con información que les de una pista de lo que hacer. Tampoco sería de extrañar que Horace Linton les mande algún tipo de mensaje por radio de su ubicación si tiene oportunidad.
+Si bien en teoría no pueden hacer nada, puedes usarlos en momentos de necesidad narrativa como una pista. No sería de extrañar que Lady Roxton se librará de sus captores y huyera hasta encontrar a tus comandos con información que les dé una pista de lo que hacer. Tampoco sería de extrañar que Horace Linton les mande algún tipo de mensaje por radio de su ubicación si tiene oportunidad.
 
 \saltopagina
 
@@ -2198,7 +2198,6 @@ Cuando creas adecuado un jeep o una barcaza militar aparecerá y el General Lint
 El general les explicará que el proyecto ha terminado, los nazis lo descubrieron y lo han destruido. IM tratará de rescatar a los secuestrados, pero su principal interés ahora mismo es la guerra en el continente tras el desembarco en Normandía.
 
 xxx
-
 
 \saltopagina
 
@@ -2224,7 +2223,7 @@ Por suerte no están solos. En sus misiones han hechos contactos, ayudado a gent
 \saltopagina
 
 * **Ibrahim Adauy.** Si Jocelyn se une al grupo, él se apuntará sin pensárselo.  
-* **Cualquier PNJ de tu propia cosecha que estuviera en la isla de Skye** es susceptible de haber escapado de los nazis y querer ayudar a tus comandos en su nueva misión. También pueden llamar a PNJ de todo Reino Unido, pero de más lejos no daría tiempo a contactar y a que estén en SKye antes de partir. 
+* **Cualquier PNJ de tu propia cosecha que estuviera en la isla de Skye** es susceptible de haber escapado de los nazis y querer ayudar a tus comandos en su nueva misión. También pueden llamar a PNJ de todo Reino Unido, pero de más lejos no daría tiempo a contactar y a que estén en Skye antes de partir. 
 
 ***
 
@@ -2251,7 +2250,7 @@ xxx
 
 El único problema en este punto es el dinero para zarpar a Venezuela, deben comprar combustible para el barco y víveres para el viaje. El resto de cosas que pudieran necesitar pueden comprarlo a un precio asequible o sacarlo de lo que queda de la Fundación. Como sea necesitaran 4.000 libras para los gastos. Si no tiene acceso a esa suma considerable de dinero igual puedan pedir un préstamo a personajes como el mafioso Sheridan o vender algún cuadro rescatado a los nazis.   
 
-Si reúnen o tienen el dienro suficiente, Branningan podrá preparar el viaje, pero deberán darse prisa y no tardar más de 1 semana o cuando lleguen los nazis habrán destruido el mundo perdido.
+Si reúnen o tienen el dinero suficiente, Branningan podrá preparar el viaje, pero deberán darse prisa y no tardar más de 1 semana o cuando lleguen los nazis habrán destruido el mundo perdido.
 
 \saltopagina
 
@@ -2345,7 +2344,7 @@ xxx
 ## Y ahora ¿qué va a pasar?
 Pues realmente lo que tú quieras. Oficialmente la campaña ha acabado y tienes un relato salvaje titulado "Despedidas" que cubre como podría ser el final de la campaña cuando tus comandos devuelven a su entorno natural a sus saurios.
 
-Pero en vez esta historia no tiene porque acabar. La guerra no ha acabado y si como DJ quieres meter más aventuras, tienes semillas de aventuras que puedes usar o elaborar una trama, por ejemplo, en la que llegan a Berlín. 
+Pero en vez esta historia no tiene por qué acabar. La guerra no ha acabado y si como DJ quieres meter más aventuras, tienes semillas de aventuras que puedes usar o elaborar una trama, por ejemplo, en la que llegan a Berlín. 
 
 Como siempre si el tema de comandos con saurios te ha gustado, quizás puedas embarcarlos en alguna loca aventura pulp, como la búsqueda de la Atlántida o enfrentarlos a algún tipo de invasión extraterrestre o de horror cósmico. Nunca desdeñes la fuerza narrativa que tienen palabras como "Cthulhu vs. dinosaurios".
 

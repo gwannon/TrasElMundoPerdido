@@ -106,7 +106,7 @@
 ## Versión 0.3 30/06/2024
 * "Acerca de los dinosaurios" terminado.
 * Creadas imágenes para todos los capítulos
-* Dinosaurios terminados: Alosaurio, Estegosaurio, Ictiosaurio, Iguanodones
+* Dinosaurios terminados: Alosaurio, Estegosaurio, Ictiosaurio, Iguanodontes
 * Animales terminados: Megaloceros, Phorusrhacos, Pitecántropo, Cavernícola, Glyptodon
 
 ## Versión 0.2 13/08/2024
