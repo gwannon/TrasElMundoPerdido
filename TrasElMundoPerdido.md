@@ -2220,8 +2220,11 @@ Por suerte no están solos. En sus misiones han hechos contactos, ayudado a gent
 * **Jocelyn Dubois.** Si miran su correspondencia, alguien puede que tenga una carta Jocelyn contando por qué mato a Nezhoda y que está escondida en Londres desde la misión en Normandía. También pone su dirección. Quizás sea hora de que de cobrarse algún favor.
 * **Dolores Branningan y la tripulación del «Mary Anning».** Por supuesto que la valiente tripulación del «Mary Anning» está preparada para ayudar a tus comandos y hacer lo que sea para rescatar a Lady Roxton y matar nazis. Y si no quieren Dolores le dará una buena zurra. 
 * **Wayland.** Consiguió escaparse de los nazis, haciéndose pasar por un mozo de granja y escabulléndose cuando no miraban los guardias. Por supuesto que ayudará a tus comandos a matar nazis, de hecho, lo está deseando.
+
+\saltopagina
+
 * **Ibrahim Adauy.** Si Jocelyn se une al grupo, él se apuntará sin pensárselo.  
-* **Cualquier PNJ de tu propia cosecha que estuviera en la isla de Skye** es susceptible de haber escapado de los nazis y querer ayudar a tus comandos en su nueva misión.
+* **Cualquier PNJ de tu propia cosecha que estuviera en la isla de Skye** es susceptible de haber escapado de los nazis y querer ayudar a tus comandos en su nueva misión. También pueden llamar a PNJ de todo Reino Unido, pero de más lejos no daría tiempo a contactar y a que estén en SKye antes de partir. 
 
 ***
 
