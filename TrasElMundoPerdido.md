@@ -2176,7 +2176,7 @@ Los nazis han capturado a una serie de personas:
 * Si trajeron a la isla a **Arntine Lyngstad y su familia**, von Liebenfels la reconoció de Noruega y se la ha llevado. Quiere interrogarla para saber más del fiasco de Telemark.
 * **Cualquier PNJ de tu propia cosecha que estuviera en la isla de Skye** es susceptible de haber sido secuestrado.
 
-xxx
+Si bien en teoría no pueden hacer nada, puedes usarlos en momentos de necesidad narrativa como una pista. No sería de extrañar que Lady Roxton se librará de sus captores y huyera hasta encontrar a tus comandos con información que les de una pista de lo que hacer. Tampoco sería de extrañar que Horace Linton les mande algún tipo de mensaje por radio de su ubicación si tiene oportunidad.
 
 \saltopagina
 
@@ -2203,13 +2203,15 @@ xxx
 \saltopagina
 
 ## Con la mierda hasta el cuello
-La situación de tu comando ha cambiado drásticamente, a priori ha perdido los recursos de la fundación y no sabe si puede fiarse del todo de IM.
+La situación de tu comando ha cambiado drásticamente, a priori han perdido casi todos los recursos de la Fundación y la IM les ha dicho que no va a ayudarles. Aunque les fuera a ayudar tampoco deberían fiarse de la IM. Ya deberían tener suficientes pistas de que no han jugado limpio con ellos.
 
-xxx
+En este punto deben pensar qué van a hacer y reunir todos los recursos y aliados que puedan, porque les espera un viaje muy peligroso si quieren salvar a los secuestrados. Recuérdales que no tiene todo el tiempo del mundo. Dales una semana como mucho para reunir recursos y aliados, mientras se preparan para partir a Sudamérica.
 
 ### Recursos
 
-xxx
+Si quieren montar una misión de rescate y desbaratar los planes de von Liebenfels necesitan recursos, sobre todo económicos. Ahora mismo están sin ese tipo de recursos, pero siempre hay de donde rascar. Desde vender algunos de los objetos y equipamiento de la fundación que ha sobrevivido al ataque o tirar de fortunas personales a desenterrar tesoros o vender obras de arte. Sé flexible con el dinero y como conseguirlo y piensa que deberle dinero a alguien es un buen empiece para futuras aventuras.
+
+Si ves que no se les ocurre nada y no han jugado el relato salvaje "El secreto de los Branningan", Dolores podría proponerles la aventura y en un par de días tratar de rescatar oro suficiente para poder ir a salvar a sus amigos y aliados.
 
 ### Buscando aliados
 Por suerte no están solos. En sus misiones han hechos contactos, ayudado a gente y conseguidos recursos propios. Es hora de usarlos. 
@@ -2220,8 +2222,6 @@ Por suerte no están solos. En sus misiones han hechos contactos, ayudado a gent
 * **Wayland.** Consiguió escaparse de los nazis, haciéndose pasar por un mozo de granja y escabulléndose cuando no miraban los guardias. Por supuesto que ayudará a tus comandos a matar nazis, de hecho, lo está deseando.
 * **Ibrahim Adauy.** Si Jocelyn se une al grupo, él se apuntará sin pensárselo.  
 * **Cualquier PNJ de tu propia cosecha que estuviera en la isla de Skye** es susceptible de haber escapado de los nazis y querer ayudar a tus comandos en su nueva misión.
-
-Recuérdales que no tiene todo el tiempo del mundo. Dales una semana como mucho para reunir recursos y aliados, mientras se preparan para partir a Sudamérica.
 
 ***
 
@@ -2246,9 +2246,9 @@ xxx
 
 ### Preparativos
 
-El único problema en este punto es el dinero, deben comprar combustible para el barco y víveres para el viaje. El resto de cosas que pudieran necesitar pueden comprarlo o sacarlo de lo que queda de la fundación. Si tienen dinero propio, como un tesoro hundido o algún comando rico, pueden tirar de ello, pero sea como sea necesitaran 4.000 libras para los gastos. si no tiene acceso a pasta igual puedan pedir un préstamo a personajes como el mafioso Sheridan o vender algún cuadro rescatado a los nazis.   
+El único problema en este punto es el dinero para zarpar a Venezuela, deben comprar combustible para el barco y víveres para el viaje. El resto de cosas que pudieran necesitar pueden comprarlo a un precio asequible o sacarlo de lo que queda de la Fundación. Como sea necesitaran 4.000 libras para los gastos. Si no tiene acceso a esa suma considerable de dinero igual puedan pedir un préstamo a personajes como el mafioso Sheridan o vender algún cuadro rescatado a los nazis.   
 
-Si reúnen la pasta, Branningan podrá preparar el viaje, pero deberán darse prisa y no tardar más de 1 semana o cuando lleguen los nazis habrán destruido el mundo perdido.
+Si reúnen o tienen el dienro suficiente, Branningan podrá preparar el viaje, pero deberán darse prisa y no tardar más de 1 semana o cuando lleguen los nazis habrán destruido el mundo perdido.
 
 \saltopagina
 

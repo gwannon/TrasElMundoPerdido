@@ -17,19 +17,20 @@
 # Changelog
 
 ## Versión 0.8 en desarrollo
-* Terminado la parte de "Estudiando al enemigo" de "Parte 5: Normandía"
+* Terminada la parte de "Estudiando al enemigo" de "Parte 5: Normandía"
+* Terminada la parte de "Con la mierda hasta el cuello" de "Parte 7: Regreso a casa"
 * Terminando la parte de "Sabotaje" de "Parte 5: Normandía"
 
 ## Versión 0.7.2 29/07/2024
 * Pospuesto el Relato Salvaje "Un día en el museo"
 * Terminado el Relato Salvaje "Espécimen perdido"
-* Terminado la parte de "Un pequeño favor" de "Parte 5: Normandía"
+* Terminada la parte de "Un pequeño favor" de "Parte 5: Normandía"
 
 ## Versión 0.7.1 27/09/2024
 * Terminado el Relato Salvaje "El secreto de los Branningan"
 * Terminado el Relato Salvaje "Despedidas"
 * Terminado el Relato Salvaje "Nadie"
-* Terminado la parte de "Preparando el día D" de "Parte 5: Normandía"
+* Terminada la parte de "Preparando el día D" de "Parte 5: Normandía"
 
 ## Versión 0.7 08/09/2024
 * Terminada la parte de "Rompiendo el sitio de Stalingrado" de "Parte 6: El frente ruso"
