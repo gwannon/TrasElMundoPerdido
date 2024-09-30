@@ -1946,6 +1946,7 @@ xxx
 &nbsp;
 
 ## Sembrando el caos
+
 Esta parte de la misión es totalmente opcional y sinceramente es una excusa para matar nazis porque sí. Si no quieres liarte, puedes narrarles cómo acaban con algunas unidades de soldados nazis que habrían puesto más difícil el desembarco en Normandía. 
 
 Desde el escondite de Jocelyn e Ibrahim pueden salir a extender el caos. Veamos algunos posibles escenarios si no se les ocurre nada a tus comandos.
