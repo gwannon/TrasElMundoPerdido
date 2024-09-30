@@ -1833,13 +1833,17 @@ Jocelyn puede ponerles en contacto con la resistencia local, pero esto no darán
 
 ### El piso franco
 
-El piso franco de Jocelyn debía pertenecer a su familia y está en la parte comercial de la ciudad y es bastante grande, aunque tus comandos tendrán que dormir juntos en una habitación o en el sofá del salón. Tiene cocina equipada y despensa llena y hay un pequeño habitáculo, donde la familia guardaba los objetos de valor, que Jocelyn ha convertido una armería y zona de intendencia militar. De la limpieza y las compras se debe encargar algún familiar de confianza de Jocelyn, aunque no le hayáis visto nuca.
+El piso franco de Jocelyn debía pertenecer a su familia, está en la parte comercial de la ciudad y es bastante grande, aunque tus comandos tendrán que dormir juntos en una habitación o en el sofá del salón. Tiene cocina equipada y despensa llena y hay un pequeño habitáculo, donde la familia guardaba los objetos de valor, que Jocelyn ha convertido en una armería y zona de intendencia militar. De la limpieza y las compras se debe encargar algún familiar lejano de confianza de Jocelyn, aunque no le hayáis visto nuca.
+
+### Jocelyn está rara
+
+Si ya conocen a Jocelyn de Tobruk, se darán cuenta de que está rara, más irascible y más callada. Puede ser los nervios de la misión, pero deberías dejarles claro que no es la misma Jocelyn que viajo con ellos la última vez. Hay algo más. Si buscan por el piso, encontrarán mucha documentación sobre el Mayor Nezhoda, fotos, dosieres, noticias del periódico local, pero puede parecer algo normal de su propia misión.
 
 \saltopagina
 
 ## Un pequeño favor
 
-Jocelyn les hizo un favor al conseguirles una vía de entrada segura a la ciudad y va a cobrarse ese favor. Jocelyn quiere matar al mayor Nezhoda, el máximo representante nazi en la ciudad. Y no es una misión del IM, es una venganza. El mayor Nezhoda (usa un oficial nazi y hazlo comodín) mando matar a casi toda su familia y a la pareja de Adauy. Todo eso paso mientras estaba de misiones en el Norte de África y se entero al volver a Inglaterra. Está claro que tiene que pagar con su vida.
+Jocelyn les hizo un favor al conseguirles una vía de entrada segura a la ciudad y va a cobrarse ese favor. Jocelyn quiere matar al mayor Nezhoda, el máximo representante nazi en la ciudad. Y no es una misión del IM, es una venganza. El mayor Nezhoda (usa un oficial nazi y hazlo comodín) mando matar a casi toda su familia y a la pareja de Adauy. Todo eso pasó mientras estaba de misiones en el Norte de África y se enteró al volver a Francia. Está claro que tiene que pagar con su vida.
 
 En algún momento de relax Jocelyn se acercará a tus comandos para pedirles ayuda en su misión. No puede contarles su plan real, así que lo disfrazará de un robo de documentos secretos. No necesita que tus comandos maten a Nezhoda, eso es algo reservado para ella sola, pero necesita que le permitan acercarse lo suficiente. 
 
@@ -1931,7 +1935,7 @@ Mientras los soldados buscan un vehículo, pasará el tiempo suficiente para que
 
 En la persecución podrían hacer señales luminosas y recibir ayuda de los pteranodontes, pero la idea de este encuentro que lo hagan solos, pero eres libre de usar a sus saurios en esta parte.
 
-Jocelyn se negará a dar explicaciones de sus actos y desaparecerá a la primera que le quiten la vista de encima. No quiere dar explicaciones. Saldrá de Francia e irá a esconderse temporalmente a Londres, mientras piensa que hará ahora con su vida.
+Jocelyn se negará a hablar de lo que acaba de pasar y desaparecerá a la primera que le quiten la vista de encima. No quiere dar explicaciones. Saldrá de Francia e irá a esconderse temporalmente a Londres, mientras piensa que hará ahora con su vida.
 
 ## Sabotaje
 
@@ -2205,7 +2209,7 @@ xxx
 Por suerte no están solos en sus misiones han hechos contactos, ayudado a gente y conseguidos recursos propios. Es hora de usarlos. 
 
 * **Ningún compañero saurio** ha sido atrapado y podrán encontrarlo en los terrenos de la fundación. 
-* **Jocelyn Dubois.** Si miran su correspondencia, alguien puede que tenga una carta Jocelyn contando que está escondida en Londres desde la misión en Normandía. También pone su dirección. Quizás sea hora de que de cobrarse algún favor.
+* **Jocelyn Dubois.** Si miran su correspondencia, alguien puede que tenga una carta Jocelyn contando por qué mato a Nezhoda y que está escondida en Londres desde la misión en Normandía. También pone su dirección. Quizás sea hora de que de cobrarse algún favor.
 * **Dolores Branningan y la tripulación del «Mary Anning».** Por supuesto que la valiente tripulación del «Mary Anning» está preparada para ayudar a tus comandos y hacer lo que sea para rescatar a Lady Roxton y matar nazis. Y si no quieren Dolores le dará una buena zurra. 
 * **Wayland.** Consiguió escaparse de los nazis, haciéndose pasar por un mozo de granja y escabulléndose cuando no miraban los guardias. Por supuesto que ayudará a tus comandos a matar nazis, de hecho, lo está deseando.
 * **Ibrahim Adauy.** Si Jocelyn se une al grupo, él se apuntará sin pensárselo.  
