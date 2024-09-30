@@ -2343,7 +2343,17 @@ xxx
 \saltopagina
 
 ## Y ahora ¿qué va a pasar?
-xxx
+Pues realmente lo que tú quieras. Oficialmente la campaña ha acabado y tienes un relato salvaje titulado "Despedidas" que cubre como podría ser el final de la campaña cuando tus comandos devuelven a su entorno natural a sus saurios.
+
+Pero en vez esta historia no tiene porque acabar. La guerra no ha acabado y si como DJ quieres meter más aventuras, tienes semillas de aventuras que puedes usar o elaborar una trama, por ejemplo, en la que llegan a Berlín. 
+
+Como siempre si el tema de comandos con saurios te ha gustado, quizás puedas embarcarlos en alguna loca aventura pulp, como la búsqueda de la Atlántida o enfrentarlos a algún tipo de invasión extraterrestre o de horror cósmico. Nunca desdeñes la fuerza narrativa que tienen palabras como "Cthulhu vs. dinosaurios".
+
+En esta última aventura hemos dejado entrar la Ciencia Extraña, así que podría haber algún artilugio temporal que permita traer más saurios del pasado. O si jugaste el relato "Nadie", puedes servirte de esta como enlace para meter aventuras tipo Julio Verne y sus "20.000 leguas de viaje submarino". Quizás encontrar los restos del Nautilus y su tecnología perdida sea la gran aventura que tu mesa busca.
+
+Por último, en el libro original de El Mundo Perdido proponen montones de cosas misteriosas que hay escondidas en la meseta de Maple White que puedes seguir explotando.
+
+Sea como sea, a partir de aquí esto tuyo. Espero que te hayas divertido y te hayas quedado con ganas de seguir tu propia historia :)
 
 ***
 
@@ -2567,7 +2577,7 @@ Las rarezas de Marina lo dan todo en la última secuencia que van a rodar y ha c
 
 Esta secuencia es la batalla final contra el alosaurio. Esta vez Marina liderará a un grupo de cavernícolas contra el malvado depredador. Con lanzas y hachas de cartón-piedra se enfrentarán al alosaurio. El alosaurio deberá coger a uno de los cavernícolas con la boca y luego lanzarlo. Tras eso Marina acabará con el alosaurio clavándole una lanza en la tripa.
 
-Todos los cavernícolas (incluida Marina) deberán **pasar una tirada de Pelear para atacar con sus armas al alosaurio y otro de Atletismo para hacer alguna acrobacia para esquivar al alosaurio**.
+Todos los cavernícolas (incluida Marina) deberán **pasar una tirada de Pelear para atacar con sus armas al alosaurio y otra de Atletismo para hacer alguna acrobacia para esquivar al alosaurio**.
 
 La víctima llevará debajo de las pieles una planchas de cuero muy fuerte para que los dientes del alosaurio no le hagan daño. Deberá **tirar Interpretar para agitarse cuando lo atrape con sus mandíbulas** (con grito Wilhelm como siempre) y romper una cápsula de falsa sangre. Si falla a repetir la escena. Tendrá que hacer además otra de **Atletismo para caer y no hacerse 2d6 de daño** cuando le lance lejos. Esta segunda tirada no hace repetir la escena.
 
@@ -2917,8 +2927,6 @@ Puedes hacerles unas tiradas de Atletismo para subir y bajar del pecio y alguna 
 Cada viaje suben 5 lingotes, por si quieren hacer cuentas. Pero en realidad no lo van a tocar y tampoco lo van a necesitar mientras trabajen para la Fundación, que tiene fondos infinitos.
 
 \saltopagina
-
-
 
 [![Detalle de grabado con un kraken atacando un barco](./assests/images/kraken.jpg 'Pen and wash drawing by malacologist Pierre Dénys de Montfort, 1801')](https://es.wikipedia.org/wiki/Kraken#/media/Archivo:Colossal_octopus_by_Pierre_Denys_de_Montfort.jpg 'Pen and wash drawing by malacologist Pierre Dénys de Montfort, 1801')
 
