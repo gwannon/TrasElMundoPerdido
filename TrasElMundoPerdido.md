@@ -464,7 +464,7 @@ Recuerda que si tus comandos quieren un poco de complicación a las aventuras pu
 ## Dinosaurios en misiones
 Aunque pueda parecer poco creíble, la variedad de misiones en que estos reptiles gigantescos puede ser útiles son muy variadas. Todo es cuestión de conocer sus puntos fuertes y débiles y saber aplicarlos a cada situación adecuadamente. Veamos algunas opciones.
 
-### Misiones de infiltración 
+### Misiones de infiltración
 Para empezar hay que pensar que la mayoría de las misiones van a tener un componente de sigilo e infiltración. Muchas misiones implicarán como mínimo cruzar las líneas enemigas sin ser detectados.
 
 Los dinosaurios atienden a órdenes muy sencillas en estas situaciones como «silencio», «escóndete» o «quieto», a no ser que sus instintos más básicos le digan lo contrario. Por ejemplo, un estegosaurio no se quedará quieto si ve que están atacando y matando a su manada (tus comandos y sus dinosaurios).
@@ -535,7 +535,7 @@ Mantener en secreto la existencia de dinosaurios es una de las preocupaciones de
 
 \saltopagina
 
-### Aliados.
+### Los Aliados
 La existencia de los comandos humanos/dinosaurio no ha salido nunca de salas de la inteligencia inglesa. Ningún aliado sabe de ellas o por lo menos ha dado señales de conocer su existencia.
 
 Pero eso no quiere decir que otras potencias como Rusia o Estados Unidos no tengan sospechas de lo que se esconde en una isla perdida de Escocia.
@@ -1837,9 +1837,11 @@ El piso franco de Jocelyn debía pertenecer a su familia, está en la parte come
 
 ### Jocelyn está rara
 
-Si ya conocen a Jocelyn de Tobruk, se darán cuenta de que está rara, más irascible y más callada. Puede ser los nervios de la misión, pero deberías dejarles claro que no es la misma Jocelyn que viajo con ellos la última vez. Hay algo más. Si buscan por el piso, encontrarán mucha documentación sobre el Mayor Nezhoda, fotos, dosieres, noticias del periódico local, pero puede parecer algo normal de su propia misión.
+Si ya conocen a Jocelyn de Tobruk, se darán cuenta de que está rara, más irascible y más callada. Puede ser los nervios de la misión, pero deberías dejarles claro que no es la misma Jocelyn que viajo con ellos la última vez. Hay algo más. 
 
 \saltopagina
+
+Si buscan por el piso, encontrarán mucha documentación sobre el Mayor Nezhoda, fotos, dosieres, noticias del periódico local, pero puede parecer algo normal de su propia misión.
 
 ## Un pequeño favor
 
@@ -1863,47 +1865,49 @@ El coche es relativamente fácil, pueden alquilarlo o robarlo a alguna familia r
 
 Las entradas podrán falsificarlas si ven alguna o robarlas. Pueden hacer un doblete robando un coche que vaya a la fiesta y quitándoles las entradas.
 
-El disfraz puede ser de lo más divertido. Pueden ir de compras y montarse disfraces con lo que pillen. También pueden pillar cosas que tengan en su equipo. Igual tienen algún turbante de Tobruk, partes de los disfraces de dioses nórdicos de Noruega o ropajes de cavernícolas de la filmación de "Titanes de tiempos pretéritos". Es una fiesta de postín y deberán ir limpios y aseados.
-
 \saltopagina
 
 [![Esbozo de un baile de disfraces](./assests/images/baile-disfraces.jpg 'The Fancy-Dress Ball. Creator	Lucien Davis, English (1860–1941)')](https://www.lookandlearn.com/history-images/preview/U/U325/U325011_The-Fancy-Dress-Ball.jpg 'The Fancy-Dress Ball. Creator	Lucien Davis, English (1860–1941)')
 
 &nbsp;
 
+El disfraz puede ser de lo más divertido. Pueden ir de compras y montarse disfraces con lo que pillen. También pueden pillar cosas que tengan en su equipo. Igual tienen algún turbante de Tobruk, partes de los disfraces de dioses nórdicos de Noruega o ropajes de cavernícolas de la filmación de "Titanes de tiempos pretéritos". Es una fiesta de postín y deberán ir limpios y aseados.
+
 Tal vez busquen mapas de alcantarillas o del ayuntamiento para buscar rutas de escape por si algo sale mal, pero han de tener en cuenta que esos actos son muy sospechosos y podrían levantar sospechas y decidir si eso les compensa.
 
 #### La fiesta
 La idea de esta escena y las siguientes es que sea muy improvisada por parte de tus comandos. No han tenido tiempo de prepararse nada y van un poco a ciegas. Como mucho, quizás, antes de la fiesta han podido emborrachar a alguien que trabaja al servicio de Nezhoda y sacarle información útil, como que la fiesta será en la primera planta y el estudio de Nezhoda está en la segunda planta y tiene una puerta roja. La sala de reuniones está en la primera planta, pero estará cerrada.
 
-Si se ponen a pensar su próximo movimiento en la fiesta dales un minuto y que te diga que van a hacer. El objetivo es que sea un desastre cada vez mayor, pero que vayan avanzando. Mete cosas divertidas, por ejemplo, si alguien va disfrazado de cocinero le metan en la cocina o si va de gallina le pidan que haga como que pone un huevo mientras el público aplaude y ríe. Cada puerta que abran puede ser una sorpresa con alguna escena rocambolesca.
-
-Al entrar verán la seguridad. Hay por lo menos unos 30 soldados en las calles adyacentes, vigilando el acceso a la plaza donde está el ayuntamiento. Si tenían pensado huir por alguna ventana del edificio serán casi seguro detectados. Las calles de alrededor están muy iluminadas y no hay muchos sitios oscuros donde esconderse de la vigilancia.
+Si se ponen a pensar su próximo movimiento en la fiesta dales un minuto y que te digan que van a hacer. El objetivo es que sea un desastre cada vez mayor, pero que vayan avanzando.
 
 \saltopagina
+
+Al llegar verán la seguridad exterior. Hay por lo menos unos 30 soldados en las calles adyacentes, vigilando el acceso a la plaza donde está el ayuntamiento. Si tenían pensado huir por alguna ventana del edificio serán casi seguro detectados. Las calles de alrededor están muy iluminadas y no hay muchos sitios oscuros donde esconderse de la vigilancia.
 
 Para darle color a la fiesta en la plaza hay una instalación de fuegos artificiales para el final de fiesta. Con una tirada de Reparar podrían encenderlos y durante 20 turnos tendrán una distracción visual y sonora.
 
 Cuando dejen su coche y entreguen sus entradas podrán entrar a la fiesta. Dales un beni si se les ocurre dejar en el coche a un comando o un aliado de conductor. Todo robo necesita un conductor atento a todo que ponga el vehículo de fuga en la entrada para salir pitando.
 
-La fiesta es todo lo ostentosa que te puedas imaginar. Nezhoda ha sacado su mejor vajilla, hay bandejas nazis colgando de todas partes, candelabros de planta, servilletas de la mayor calidad y un par de chefs de alto renombre de París están preparando exquisiteces para los invitados. Música en directo por parte de un cuarteto de cuerda y la servidumbre arriba y abajo con bandejas de canapés.
+La fiesta es todo lo ostentosa que te puedas imaginar. Nezhoda ha sacado su mejor vajilla, hay banderas y pendones nazis colgando de todas partes, candelabros de planta, servilletas de la mayor calidad y un par de chefs de alto renombre de París están preparando exquisiteces para los invitados. Música en directo por parte de un cuarteto de cuerda y la servidumbre arriba y abajo con bandejas de canapés.
 
 Hay gente bailando, gente comiendo y gente charlando. Según pasen las horas, gracias a las máscaras y al alcohol, las buenas formas se irán y los más bajos instintos se apoderarán de la reunión; personas borrachas gritando, otras cotilleando y criticando por la espalda, otras besándose en las esquinas oscuras y otras confabulando en secreto. Y los peores serán los oficiales nazis.
 
-Dentro del baile no hay soldados, pero si bastantes oficiales disfrazados, pero una tirada de Notar les dirá que hay varios disfrazados con Lugers reglamentarias.
+Dentro del baile no hay soldados encargados de la seguridad, pero si bastantes oficiales disfrazados, pero una tirada de Notar les dirá que hay varios disfrazados con Lugers reglamentarias. Nezhoda quiere montar una mezcla de fiesta salvaje y orgía y con soldados vigilando dentro puede cortar a los asistentes. 
+
+Mete cosas divertidas, por ejemplo, si alguien va disfrazado de cocinero le metan en la cocina o si va de gallina le pidan que haga como que pone un huevo mientras el público aplaude y ríe. Cada puerta que abran puede ser una sorpresa con alguna escena rocambolesca.
 
 #### Abriendo puertas
 Cuando la fiesta empiece a degenerar será el momento de empezar a buscar el despacho de Nezhoda donde Jocelyn dice que están los documentos secretos. La gente desaparece entre las cortinas y entra en las habitaciones. Los oficiales nazis sobrios tienen suficiente con detener las peleas y las discusiones, con lo que no estarán muy atentos, si se sube al piso de arriba.
 
+Jocelyn se ofrecerá a vigilar las escaleras por si se presentan problemas en forma de oficiales nazis o el propio Nezhoda que va disfrazado de Genio de la Lámpara. Ibrahim les ayudará en el piso superior por si hay que abrir cerraduras o forzar cajas fuertes.
+
 En el piso superior tiene 10 habitaciones entre dormitorios, despachos y baños. Para encontrar el estudio y tendrán que jugar al juego de las puertas. El problema es que si abren una puerta y está alguien puede que de la voz de alarma. Una tirada de Investigar les quitará 2 puertas más 1 por cada avance, ya que parecen de baños o de armarios para las escobas.
 
-Jocelyn se ofrecerá a vigilar las escaleras por si se presentan problemas en forma de oficiales nazis o el propio Nezhoda que va disfrazado de Genio de la Lámpara. Ibrahim les ayudará en el piso superior por si hay que abrir cerraduras o forzar cajas fuertes.
+\saltopagina
 
 Según vayan abriendo puertas descríbeles alguna escena divertida y sin sentido, por ejemplo, una persona disfrazada de domador haciendo trucos con un león de peluche y otras dos personas aplaudiendo. Cuando quieras, la puerta que abran, será la del estudio.
 
 Al entrar en el estudio se encontrarán a dos personas disfrazadas de cuerpo entero de liebre y de tortuga practicando sexo. La tortuga les señalará y la liebre saludará lascivamente y hará un gesto invitando al que tenga el disfraz más ridículo de tus comandos.
-
-\saltopagina
 
 En ese momento hay varias opciones: noquearlos, echarlos y que seguramente alerten a los soldados, rechazar la invitación y empezar a buscar mientras la pareja sigue a lo suyo y, por último, aceptar la invitación y que el resto siga su búsqueda si es que no van solos.
 
@@ -1923,13 +1927,15 @@ Si alguien se quedó en el coche como conductor, podrá tirar Notar para oír lo
 #### Escapando a la carrera
 La forma más rápida de escapar es coger el coche y salir pitando del ayuntamiento. Los guardias les seguirán algunos en moto y otros en coche a no ser que les hayan saboteado los vehículos. Si quieres puedes montar una persecución, donde tus comandos irán en un Citroën C4 o similar. Si han tenido la precaución de esconder armas en su coche podrán responder a los ataques de los soldados nazis.
 
+\saltopagina
+
 |VEHÍCULO|TAMAÑO|MANIOBRA.|VEL. MÁX.|DUREZA|TRIPULACIÓN|
 |--------|------|----|--|------|-----|
 |Citroën C4|6|0|90 km/h|10|1+4|
 
-Imagínate la situación, tu mesa con sus coloridos trajes de disfraces cruzando a toda velocidad la ciudad en un elegante coche, mientras intercambian disparos con nazis en moto y coche.
+[![Detalle de un Citroën C4 de 1930](./assests/images/citroen-c4.jpg 'De Arnaud 25 - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=6415423')](https://es.wikipedia.org/wiki/Citro%C3%ABn_C4_(1928)#/media/Archivo:Citroen_Type_C4_001.jpg 'De Arnaud 25 - Trabajo propio, Dominio público, https://commons.wikimedia.org/w/index.php?curid=6415423')
 
-\saltopagina
+Imagínate la situación, tu mesa con sus coloridos trajes de disfraces cruzando a toda velocidad la ciudad en un elegante coche, mientras intercambian disparos con nazis en moto y coche.
 
 Mientras los soldados buscan un vehículo, pasará el tiempo suficiente para que haya dos cartas entre perseguidores y perseguidos. Si se les ocurre disparar a los fuegos artificiales (disparo apuntado de -4 a las mechas) tras salir de la plaza estos prenderán y la luz y el ruido dejarán aturdidos a sus perseguidores y obtendrán una tercera carta de separación. Deberán deshacerse de sus perseguidores antes de ir al piso franco. Si se separan, los soldados seguirán al grupo más grande.
 
@@ -2205,8 +2211,8 @@ xxx
 
 xxx
 
-### Aliados
-Por suerte no están solos en sus misiones han hechos contactos, ayudado a gente y conseguidos recursos propios. Es hora de usarlos. 
+### Buscando aliados
+Por suerte no están solos. En sus misiones han hechos contactos, ayudado a gente y conseguidos recursos propios. Es hora de usarlos. 
 
 * **Ningún compañero saurio** ha sido atrapado y podrán encontrarlos en los terrenos de la fundación. 
 * **Jocelyn Dubois.** Si miran su correspondencia, alguien puede que tenga una carta Jocelyn contando por qué mato a Nezhoda y que está escondida en Londres desde la misión en Normandía. También pone su dirección. Quizás sea hora de que de cobrarse algún favor.

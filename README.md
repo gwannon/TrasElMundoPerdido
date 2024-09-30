@@ -10,17 +10,15 @@
 * Parte 9: La Selva Negra
 
 # Por hacer de la versión 0.8
-* Parte 5: Normandía
 * Parte 7: Regreso a casa
-
-## Recursos 
-* https://commons.wikimedia.org/wiki/Category:Charles_R._Knight
 
 ***
 
 # Changelog
 
-## Version 0.8 en desarrollo
+## Versión 0.8 en desarrollo
+* Terminado la parte de "Estudiando al enemigo" de "Parte 5: Normandía"
+* Terminando la parte de "Sabotaje" de "Parte 5: Normandía"
 
 ## Versión 0.7.2 29/07/2024
 * Pospuesto el Relato Salvaje "Un día en el museo"
