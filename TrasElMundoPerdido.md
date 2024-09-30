@@ -1953,13 +1953,15 @@ Con Nezhoda muerto el ejército necesita un nuevo mandamás y pone a Irma Borman
 
 \saltopagina
 
-xxx
 
-\saltopagina
 
 [![Ilustración de una pieza de artillería de La Havre](./assests/images/artilleria.jpg 'A German Railway Gun captured at Le Havre, 1944 - Imperial War Museums')](https://picryl.com/media/a-german-railway-gun-captured-at-le-havre-1944-artiwmartld5560-081bd9 'A German Railway Gun captured at Le Havre, 1944 - Imperial War Museums')
 
 &nbsp;
+
+xxx
+
+\saltopagina
 
 ## Sembrando el caos
 
@@ -1970,7 +1972,6 @@ Desde el escondite de Jocelyn e Ibrahim pueden salir a extender el caos. Veamos 
 * Pueden **atacar y tomar una patrullera (2 soldados nazis por comando + 1 oficial) en el puerto de la ciudad** con los saurios acuáticos y lanzarlo contra otros barcos nazis.
 * Quizás puedan acercarse sin ser vistos en alguno de **los búnkeres de artillería y destruirlo**. El problema no sería tanto la resistencia nazi (1,5 soldados por comando + 2 oficiales) como el poner cargas en los sitios adecuados y que exploten sin matarlos. Necesitarán tiradas de Ciencias para buscar los puntos débiles de la estructura del bunker y Reparar para hacer los ingenios explosivos y colocarlos.
 
-\saltopagina
 
 * Otra opción es **destruir un depósito de munición de artillería**. Los depósitos sí estarán muy bien defendidos (4 soldados nazis por comando + 1 oficial por comando y 2 soldados acorazados). Como con el bunker de artillería necesitarán tiradas de Ciencias para buscar los mejores puntos para hacer estallar todo y Reparar para hacer los ingenios explosivos y colocarlos.
 * Otra forma no violenta de ayudar es **elaborar un mapa de la ciudad con objetivos interesantes en caso de bombardeo**. Hará más certeros los ataques y evitará víctimas colaterales. Necesitarán un mapa de la ciudad actualizado (tal vez tenga uno algún oficial nazi) y buenas tiradas de Notar para rellenar el mapa. Un vuelo al atardecer/anochecer en pteranodonte permita elaborar mejores mapas sin ser descubiertos. También pueden hacer fotografías aéreas de la ciudad.   
@@ -1980,6 +1981,8 @@ Cuando se hayan divertido lo suficiente, las fuerzas nazis caerán ante el avanc
 
 ## Espiados (Pistas)
 Una vez de vuelta al «Mary Anning» podrán revisar todo el papeleo que han conseguido del mayor Nezhoda. Encontrarán con facilidad, una serie de carpetas con los perfiles psicológicos/hoja de servicios/curriculum de tus comandos. No dicen nada que no venga en su ficha de personaje como ventajas y desventajas excepto cosas como Secreto.
+
+\saltopagina
 
 Es de ingenuos pensar que la IM no investigaría a los comandos antes de trabajar con ellos, pero desde luego lo que es preocupante es que está información haya caído en manos nazis. O lo que es peor (y ahí entra que juegues con su paranoia) que algún agente de la IM se haya vendido y haya filtrado esa información o que algún espía nazi haya tenido acceso a ella y haya conseguido pasarla a sus jefes.
 
