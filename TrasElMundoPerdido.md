@@ -1827,13 +1827,19 @@ Cuando lleguen al piso franco Jocelyn les presentará Ibrahim Adauy, un ladrón 
 
 Déjales unos días para que estudien la ciudad, las fuerzas de ocupación que hay, las estructuras que han montado los nazis, etc. Tendrán que cartografiar bunkers, vigilar cambios de guardias, número de unidades en cada parte de la ciudad, tiempos de respuesta, etc. Si consiguen montar un dosier de la ciudad con toda esa información, puedes darles positivos cuando preparen su estrategia de sabotaje o cuando entren en acción y tengan que tomar decisiones rápidas e improvisadas.
 
-Jocelyn puede ponerles en contacto con la resistencia local, pero esto no darán esa información gratis y puede que les pidan algo, como recursos o algún trabajito como sacar alguien de alguna cárcel o robar en alguna armería nazi. Puedes hacerles una pequeña aventura o simplemente narrarlo, pero desde leugo ese tipo de actos deberían a la alrga tener a los nazis más atentos, haciendo mñas controles y mejroando la seguridad. 
+Adauy puede, si le consiguen ejemplares similares, hacer falsificaciones bastante buenas de todo tipo de documentos y salvoconductos. 
+
+Jocelyn puede ponerles en contacto con la resistencia local, pero esto no darán esa información gratis y puede que les pidan algo, como recursos o algún trabajito como sacar alguien de alguna cárcel o robar en alguna armería nazi. Puedes hacerles una pequeña aventura o simplemente narrarlo, pero desde luego ese tipo de actos deberían a la larga tener a los nazis más atentos, haciendo más controles y mejorando la seguridad. 
+
+### El piso franco
+
+El piso franco de Jocelyn debía pertenecer a su familia y está en la parte comercial de la ciudad y es bastante grande, aunque tus comandos tendrán que dormir juntos en una habitación o en el sofá del salón. Tiene cocina equipada y despensa llena y hay un pequeño habitáculo, donde la familia guardaba los objetos de valor, que Jocelyn ha convertido una armería y zona de intendencia militar. De la limpieza y las compras se debe encargar algún familiar de confianza de Jocelyn, aunque no le hayáis visto nuca.
 
 \saltopagina
 
 ## Un pequeño favor
 
-Jocelyn les hizo un favor al conseguirles una vía de entrada segura a la ciudad y va a cobrarse ese favor. Jocelyn quiere matar al mayor Nezhoda, el máximo representante nazi en la ciudad. Y no es una misión del IM, es una venganza. El mayor Nezhoda (usa un oficial nazi y hazlo comodín) mandó a un campo de concentración a casi toda su familia y a la pareja de Adauy. Está claro que tiene que pagar con su vida.
+Jocelyn les hizo un favor al conseguirles una vía de entrada segura a la ciudad y va a cobrarse ese favor. Jocelyn quiere matar al mayor Nezhoda, el máximo representante nazi en la ciudad. Y no es una misión del IM, es una venganza. El mayor Nezhoda (usa un oficial nazi y hazlo comodín) mando matar a casi toda su familia y a la pareja de Adauy. Todo eso paso mientras estaba de misiones en el Norte de África y se entero al volver a Inglaterra. Está claro que tiene que pagar con su vida.
 
 En algún momento de relax Jocelyn se acercará a tus comandos para pedirles ayuda en su misión. No puede contarles su plan real, así que lo disfrazará de un robo de documentos secretos. No necesita que tus comandos maten a Nezhoda, eso es algo reservado para ella sola, pero necesita que le permitan acercarse lo suficiente. 
 
