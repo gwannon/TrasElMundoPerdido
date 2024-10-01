@@ -839,7 +839,7 @@ Para largas comunicaciones tendrían que comunicarse con el «Mary Anning» y es
 \saltopagina
 
 ### Venenos
-Como con los medicamentos, la flora y fauna de la meseta de Maple White, es un laboratorio de venenos del que la Fundación con ayuda de la IM ha podido sacar todo tipo de venenos con todo tipo de efectos.
+Como con los medicamentos, la flora y fauna de la meseta de Maple White, son un laboratorio de venenos del que la Fundación con ayuda de la IM ha podido sacar todo tipo de pócimas y bebedizos con todo tipo de efectos.
 
 Lady Roxton está en contra del uso de venenos y deberán conseguirlo sin que ella lo detecte. Si son reincidentes, Lady Roxton podría expulsarlos de la Fundación o degradarlos de sus puestos actuales.
 
@@ -1953,8 +1953,6 @@ Con Nezhoda muerto el ejército necesita un nuevo mandamás y pone a Irma Borman
 
 \saltopagina
 
-
-
 [![Ilustración de una pieza de artillería de La Havre](./assests/images/artilleria.jpg 'A German Railway Gun captured at Le Havre, 1944 - Imperial War Museums')](https://picryl.com/media/a-german-railway-gun-captured-at-le-havre-1944-artiwmartld5560-081bd9 'A German Railway Gun captured at Le Havre, 1944 - Imperial War Museums')
 
 &nbsp;
@@ -2171,10 +2169,22 @@ A priori este capítulo debería empezar cuando acaben todas las misiones anteri
 Tras su última misión tus comandos volverán a la isla de Skye para encontrarse todo destruido, hay heridos y muertos y la mayoría de los dinosaurios han sido capturados y se los han llevado a alguna localización secreta. 
 ```
 
-xxx
+Cuando el «Mary Anning» se acerque a Skye, tus comandos se encontrarán con una desagradable sorpresa. Primero verán grandes columnas de humo negro de varias zonas de los terrenos de la Fundación. Al acercarse más, verán en el cielo un Zepelín con insignias nazis y dos acorazados en el mar en dirección oeste. Si preguntan a Dolores no son rivales y no pueden seguirlos, con el nivel de combustible que tienen no pueden hacer mucho.
+
+Al bajar a tierra el panorama será desalentador. Parece que ha habido una escaramuza entre los nazis y la gente de la fundación en la que ha perdido la Fundación. Hay incendios que apagar, humanos y saurios que curar, etc. Un vistazo rápido les dirá que los nazis atacaron las instalaciones y se llevaron a una importante cantidad de saurios y humanos. Lo que se resistieron, sobre todo saurios fueron ejecutados. El ataque ha debido durar unas dos horas, ya que las fuerzas de defensa locales no han podido responder (tampoco se lo esperaba nadie). 
 
 ### Salvando vidas
-xxx
+Si algo de acción diferente o quieres evitar que tus comandos no traten de seguir como sea a los nazis, puedes ponerles algunos encuentros en forma de desastres que deberían retrasarles. Estas son algunas ideas:
+
+* **Incendio en el castillo Dunvegan:** Deberían asegurarse de que no haya nadie en el castillo, así que deberán meterse en un infierno en llamas y sacar alguna persona que se refugió dentro. Tendrán que organizar cadena humana de cubos de agua para sofocar el fuego.
+* **Vallas rotas:** El combate ha roto parte de los alambrados que evitan que las manadas de saurios escapen y las han espantado. Algunos jinetes de saurios deberían reunir el "ganado" como cowboys y cowgirls de las películas de Hollywood. 
+
+\saltopagina
+
+* **Vendajes y suturas:** Si hay personal médico entre tus comandos deberían estar tratando a los heridos.
+* **Saurio atrapado:** Algún saurio está atrapado bajo los escombros de alguna estructura. Está herido y reacciona agresivamente cuando tiene dolor y le puedes hacer daño al quitar los escombros. 
+* **Pteranodontes caído:** Deberán rescatar a un par de pteranodontes que al caído al mar al ser heridos con el armamento del zepelín. Los ictiosaurios y plesiosaurios pueden ayudar.
+* **Alejar a los mirones:** Con toda su buena voluntad las gentes de la isla han venido a ayudar con lo que tenía a mano, pero deberán controlarlos y que vea lo menos posible de los secretos de la Fundación.
 
 ### Secuestrados
 Los nazis han capturado a una serie de personas:
@@ -2187,14 +2197,10 @@ Los nazis han capturado a una serie de personas:
 
 Si bien en teoría no pueden hacer nada, puedes usarlos en momentos de necesidad narrativa como una pista. No sería de extrañar que Lady Roxton se librará de sus captores y huyera hasta encontrar a tus comandos con información que les dé una pista de lo que hacer. Tampoco sería de extrañar que Horace Linton les mande algún tipo de mensaje por radio de su ubicación si tiene oportunidad.
 
-\saltopagina
-
 ### Buscando pistas
 xxx
 
-Si revisan la pieza de artillería antiaérea con una tirada de Reparar o de Disparar, podrán ver que no ha sido disparada en tiempo. Lo cual es raro porque lo lógico habría sido usarlo contra el zepelín de von Liebenfels.
-
-xxx
+* **Pieza de artillería:** Si revisan la pieza de artillería antiaérea con una tirada de Reparar o de Disparar, podrán ver que no ha sido disparada en tiempo. Lo cual es raro porque lo lógico habría sido usarlo contra el zepelín de von Liebenfels. Si preguntan a los supervivientes confirmarán todo esto.
 
 \saltopagina
 
@@ -2202,7 +2208,7 @@ xxx
 
 [![Primer plano de una ilustración de un ictiosaurio](./assests/images/ictiosaurio-libro.jpg 'Mighty animals; being short talks about some of the animals which lived on this earth before man appeared, - Mix, Jennie Irene')](https://commons.wikimedia.org/wiki/Category:Mighty_animals#/media/File:Mighty_animals_(Page_64)_BHL40566207.jpg 'Mighty animals; being short talks about some of the animals which lived on this earth before man appeared, - Mix, Jennie Irene')
 
-Cuando creas adecuado un jeep o una barcaza militar aparecerá y el General Linton saldrá de ella. Se acercará a tus comandos y ceremoniosamente les dará unas cartas de licenciamiento. Ya han terminado su trabajo y el ejército inglés y la IM ya no necesitan más sus servicios. La idea es que esto mosquee muchísimo a tus comandos. Si le gritan o amenazan, mucho mejor. 
+Cuando tus comandos anden dando vueltas a las cosas que han averiguado, un jeep o una barcaza militar aparecerá y el General Linton saldrá de ella. Se acercará a tus comandos y ceremoniosamente les dará unas cartas de licenciamiento. Ya han terminado su trabajo y el ejército inglés y la IM ya no necesitan más sus servicios. La idea es que esto mosquee muchísimo a tus comandos. Si le gritan o amenazan, mucho mejor. 
 
 El general les explicará que el proyecto ha terminado, los nazis lo descubrieron y lo han destruido. IM tratará de rescatar a los secuestrados, pero su principal interés ahora mismo es la guerra en el continente tras el desembarco en Normandía.
 
