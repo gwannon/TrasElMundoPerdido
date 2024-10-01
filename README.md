@@ -9,17 +9,16 @@
 * Parte 8: Regreso al Mundo Perdido
 * Parte 9: La Selva Negra
 
-# Por hacer de la versión 0.8
-* Parte 7: Regreso a casa
-
 ***
 
 # Changelog
 
 ## Versión 0.8 en desarrollo
 * Terminada la parte de "Estudiando al enemigo" de "Parte 5: Normandía"
-* Terminada la parte de "Con la mierda hasta el cuello" de "Parte 7: Regreso a casa"
 * Terminando la parte de "Sabotaje" de "Parte 5: Normandía"
+* Terminada la parte de "Con la mierda hasta el cuello" de "Parte 7: Regreso a casa"
+* Terminada la parte de "Por sorpresa" de "Parte 7: Regreso a casa"
+* Terminando la parte de "La visita del general" de "Parte 7: Regreso a casa"
 
 ## Versión 0.7.2 29/07/2024
 * Pospuesto el Relato Salvaje "Un día en el museo"

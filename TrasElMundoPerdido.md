@@ -2198,11 +2198,22 @@ Los nazis han capturado a una serie de personas:
 Si bien en teoría no pueden hacer nada, puedes usarlos en momentos de necesidad narrativa como una pista. No sería de extrañar que Lady Roxton se librará de sus captores y huyera hasta encontrar a tus comandos con información que les dé una pista de lo que hacer. Tampoco sería de extrañar que Horace Linton les mande algún tipo de mensaje por radio de su ubicación si tiene oportunidad.
 
 ### Buscando pistas
-xxx
+Una vez solucionado todos los problemas y calculadas las bajas y detectados los rehenes de los nazis pueden empezar a investigar que ha pasado y de sacar sus propia conclusiones.
 
-* **Pieza de artillería:** Si revisan la pieza de artillería antiaérea con una tirada de Reparar o de Disparar, podrán ver que no ha sido disparada en tiempo. Lo cual es raro porque lo lógico habría sido usarlo contra el zepelín de von Liebenfels. Si preguntan a los supervivientes confirmarán todo esto.
+**Entrevistar a los supervivientes:** Una vez este todo más tranquilo. Si interrogan a los supervivientes contarán que el zepelín apareció en el cielo y los buques de guerra empezaron a disparar contra tierra. El zepelín aterrizó cerca del castillo sin ninguna oposición y de él salieron montones de soldados nazis.
 
 \saltopagina
+
+Enseguida controlaban todo se llevaron algunos rehenes y atraparon bastantes saurios que subieron a bordo de los navíos de guerra en barcazas de desembarco. 
+
+Una tirada de Tácticas les dirá que esta misión estaba muy preparada, planificada al milímetro y ejecutada sin fallos. Debían tener mucha y muy buena información para llegar hasta aquí sin encontrarse con enemigos y luego para ejecutar su plan en pocas horas.
+
+**Pieza de artillería:** Si revisan la pieza de artillería antiaérea con una tirada de Reparar o de Disparar, podrán ver que no ha sido disparada en tiempo. Lo cual es raro porque lo lógico habría sido usarlo contra el zepelín de von Liebenfels. Si preguntan a los supervivientes confirmarán todo esto.
+
+**Saurios:** Una buena tirada de Notar encontrará en la playa los restos unos collares eléctricos rotos del tamaño del cuello del alosaurio. Parece 
+que es la forma de controlar a los saurios, con descargas eléctricas. También parece que han llevado otros aparatos de control de animales como redes metálicas superresistentes o porras eléctricas por las quemaduras de algunos saurios que han escapado. 
+
+**Secuestrados:** Si analizan los secuestrados, no se han llevado a cualquiera. Se han llevado a Lady Roxton y a Horace Linton, dos piezas muy importantes. Debían conocer a Lady Roxton muy bien porque por como viste y se arregla de normal parece otra trabajadora más de la Fundación. Esto se suma a los puntos anteriores y queda claro que el ataque estaba muy planeado.
 
 ## La visita del general
 
@@ -2353,6 +2364,22 @@ Mapa del castillo de Hohenzollern en la Selva Negra.
 El castillo de Hohenzollern se encuentra en la cumbre del monte Hohenzollern, perteneciente a una sierra llamada Jura de Suabia. El castillo está una altitud de 855 metros. Data de 1847, aunque todavía hay resto de otros dos castillos anteriores destruidos en diferentes guerras. La ciudad más importante es Stuttgart que está a 50 kilómetros al sur del castillo. Se le considera una versión menos fantástica del famoso castillo de Neuschwanstein, conocido por ser inspiración de los castillos de las películas de Disney.
 
 xxx
+
+#### Defensas exteriores
+xxx
+
+#### Defensas interiores
+xxx
+
+#### Habitaciones interiores
+xxx
+
+#### El laboratorio en el sótano
+xxx
+
+### El zepelín
+xxx
+
 
 \saltopagina
 
@@ -3248,7 +3275,9 @@ La tranquila vida en Londres de Margaret Roxton se vio alterada cuando heredó e
 
 Margaret creció con las historias de caza que su tío le contaba cuando visitaba a su hermana y su familia. Eran grandes aventuras de África y sobre todo de Sudamérica, de la que estaba enamorada; cómo se había enfrentado a esclavistas, cómo había recorrido los rápidos de afluentes del Amazonas, las costumbres de las tribus indígenas, etc.
 
-xxx
+Margaret supuso un cambio radical en la Fundación, no solo en la forma de tratar a los saurios sino de como estudiar y protegerlos a ellos y toda la fauna y flora de la Meseta de Maple White. Además elimino todo el rancio elitismo de su tío. Lady Roxton salió del castillo y trabajo en el campo como sus ayudantes, se hundió en el barro y mierda de saurios, sufrió fiebres de pteranodontes y tiene cicatrices de garras de megalosaurio.  
+
+Tampoco debemos olvidar que ella ofreció a sus queridos saurios para ayudar en la guerra, sabiendo lo que se jugaba la humanidad en esta guerra y que no ha dudado nunca en poner los fondos de la Fundación al servicio de su país contra los nazis.
 
 * **Atributos:** Agilidad d6, Astucia d10, Espíritu d8, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d6, Cabalgar d6, Ciencias d6, Conducir d6, Conocimientos Generales d4, Disparar d6, Humanidades d6, Idioma Inglés d4, Latrocinio d4, Medicina d6, Notar d6, Pelear d6, Persuadir d8, Provocar d6, Repara d6, Sigilo d6, Supervivencia d6, Tácticas d6
@@ -3257,7 +3286,7 @@ xxx
 * **Desventajas:** Heroica, Obligaciones(mayor, Fundación Roxton)
 * **Equipo:** Ropas de trabajo de calidad, Herramientas de granja, Cartas y teletipos sin leer
 
-**Sugerencia de interpretación:** Tus modales de alta sociedad hace mucho que han desaparecido y estás más cerca de un mozo de cuadra que de una adinerada mujer de la alta sociedad. Ríete a carcajadas, grita, sorbe el té y come con las manos, no tienes ni ganas n tiempo para las chorradas de la alta sociedad.
+**Sugerencia de interpretación:** Tus modales de alta sociedad hace mucho que han desaparecido y estás más cerca de un mozo de cuadra que de una adinerada mujer de la alta sociedad. Ríete a carcajadas, grita, sorbe el té y come con las manos, no tienes ni ganas ni tiempo para las chorradas de la alta sociedad.
 
 \saltopagina
 
