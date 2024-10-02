@@ -2261,7 +2261,19 @@ Tus comandos vuelven a donde todo empezó, el mundo perdido, y aquí van a libra
 Esta será la primera vez que tus comandos verán el mundo perdido. Veamos cómo es esta sorprendente tierra.
 ```
 
-xxx
+Así describió Edward Malone en sus notas la Meseta de Maple White:
+
+&nbsp;
+
+_El sol estaba justamente rozando la línea del horizonte por el oeste, y el atardecer era especialmente brillante y claro, de modo que toda la extensión de la meseta se ofrecía ante mi vista. Vista desde esa altura, se presentaba como un **óvalo de unas treinta millas de largo por unas veinte de ancho**. Su conformación general era la de un **embudo poco profundo**, que descendía en declive por todos sus lados hasta un **lago bastante grande que había en su centro**._
+
+_**El lago debía de tener unas diez millas de circunferencia** y se extendía muy verde y hermoso a la luz del atardecer, con una espesa orla de cañaverales en sus orillas y su superficie quebrada por algunos amarillos bancos de arena que brillaban como el oro al suave resplandor del sol. En los bordes de aquellas manchas arenosas se veían cantidades de objetos largos y oscuros, demasiado gruesos para ser caimanes y demasiado largos para ser canoas. Con mis gemelos pude ver claramente que estaban vivos, pero no pude imaginar cuál podría ser su naturaleza._
+
+_Desde el lado de la meseta en que estábamos descendían las tierras boscosas, con ocasionales claros que se desplegaban hacia el lago central en una extensión de cinco o seis millas. Pude ver a mis mismos pies el calvero de los iguanodontes y, más lejos, una abertura redonda entre los árboles señalaba la ciénaga de los pterodáctilos. Sin embargo, por la parte que quedaba frente a mí, la meseta presentaba un aspecto muy diferente. Allí, **los riscos basálticos del exterior se reproducían por el interior**, formando una escarpa de unos doscientos pies de altura, con una pendiente boscosa por debajo._
+
+_A lo largo de la base de estos riscos rojizos, a cierta altura sobre el suelo, pude ver con ayuda de mis prismáticos una cantidad de agujeros negros, que debían ser las bocas de cuevas, según conjeturé. En la entrada de una de ellas resaltaba débilmente algo blanco, pero no pude descubrir qué era. Me puse a dibujar el mapa de la comarca hasta que el sol se puso y estuvo demasiado oscuro para distinguir los detalles._
+
+**_Extracto de la obra El Mundo Perdido de Sir Arthur Conan Doyle_**
 
 \saltopagina
 
