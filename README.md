@@ -14,6 +14,7 @@
 # Changelog
 
 ## Versión 0.8 en desarrollo
+* Terminada la parte de "El Mundo Perdido" de "Parte 8: Regreso al Mundo Perdido"
 * Terminada la parte de "Estudiando al enemigo" de "Parte 5: Normandía"
 * Terminando la parte de "Sabotaje" de "Parte 5: Normandía"
 * Terminada la parte de "Con la mierda hasta el cuello" de "Parte 7: Regreso a casa"

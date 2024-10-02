@@ -3522,18 +3522,23 @@ Pero este genio loco no solo ha trabajado en su rayo mortal, también ha mejorad
 ### Irma Bormann, agente de las SS &#x2638;
 [![Retrato de Irma Bormann](./assests/images/bormann.jpg 'Studio portrait photo of Veronica Lake taken for promotional use.')](https://es.wikipedia.org/wiki/Veronica_Lake#/media/Archivo:Veronica_Lake_still.jpg 'Studio portrait photo of Veronica Lake taken for promotional use.')
 
-Irma es la _femme fatale_ por excelencia, seductora y misteriosa, pero también sádica y mortal. Nadie puede escapar de sus encantos. 
+Irma es la _femme fatale_ por excelencia, seductora y misteriosa, pero también sádica y mortal. Nadie puede escapar de sus encantos ni de sus salas de tortura e interrogatorio. 
 
-xxx
+Le encanta el lujo, la riqueza y la moda, pero le gusta más seguir a ciegas las creencias del nazismo y de las ramas más duras de las SS tanto por convicción como forma de medrar socialmente.
+
+Mientras es una subalterna, es muy eficiente cumpliendo órdenes, una hábil espía y una gran consejera, pero en el momento que consigue subir en el escalafón de mando poder, Irma se convierte en una adicta al poder y a su sadismo natural se le una tremenda megalomanía.
+
+Puede mandar fusilar a una familia entera y derribar su casa sin pestañear si eso le permite a las tropas bajo su mando tardar 1 minuto en llegar al frente.
 
 * **Atributos:** Agilidad d8, Astucia d8, Espíritu d12, Fuerza d8, Vigor d8
+
+\saltopagina
+
 * **Habilidades:** Atletismo d8, Apostar d6, Cabalgar d, Conducir d6, Conocimientos Generales d8, Humanidades d8, Idioma Inglés d6, Idioma Alemán d8, Intimidar d10, Latrocinio d8, Pelear d8, Notar d8, Persuadir d10, Reparar d6, Sigilo d8
 * **Paso:** 6; **Parada:** 6; **Dureza:** 6
 * **Ventajas:** Acróbata, Atractiva, Carismática, Ladrona
-* **Desventajas:** Despiadada (mayor), Exceso de confianza
+* **Desventajas:** Despiadada (mayor), Exceso de confianza, Megalomanía
 * **Equipo:** Impresionante traje de noche de alta costura, bolso a juego con pistola dentro, stilettos
-
-\saltopagina
 
 **Sugerencia de interpretación:** De normal, la intimidación y la fuerza no son tu estilo. Lo tuyo es el carisma, el _sex appeal_ y la zalamería. Unas palabras bonitas y aduladoras y unas miraditas provocativas y tienes a todo el mundo comiendo de tu mano. Para que abrir una cerradura con ganzúas si puedes engañar a la persona que la vigila para que te abra. Todo va bien hasta que tu lado sádico sale a la superficie, en ese momento la careta cae y conocerán el dolor.
 
@@ -3548,7 +3553,12 @@ Günther Prien es un hábil capitán de submarino. Con su U-47 ha conseguido var
 
 Es muy querido por sus subordinados por su buen trato y por preocuparse por ellos. Todos sus marineros y oficiales harían lo que fuera por él.
 
+&nbsp;
+
 * **Atributos:** Agilidad d6, Astucia d10, Espíritu d8, Fuerza d6, Vigor d6
+
+\saltopagina
+
 * **Habilidades:** Atletismo d6, Conocimientos Generales d10, Dispara d8, Humanidades d8, Ciencias d8, Idioma alemán d4, Notar d8, Pelear d8, Persuadir d6, Pilotar (submarino) d12, Sigilo d4, Supervivencia d6, Tácticas d10
 * **Paso:** 6; **Parada:** 6; **Dureza:** 5
 * **Ventajas:** As, Osado, Calculador
