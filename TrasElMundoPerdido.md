@@ -2377,10 +2377,20 @@ El castillo de Hohenzollern se encuentra en la cumbre del monte Hohenzollern, pe
 
 xxx
 
+#### El zepelín
+El zepelín de von Liebenfels está suspendido sobre el castillo de forma que pueden usarlo como un recurso del que sacar unidades nazis. Si ves que los combates en las murallas y el patio son muy fáciles. Pueden descender soldados de todo tipo haciendo rapel o incluso podrían disparar con ametralladoras pesadas para barrer la zona de combate (hiriendo también a sus tropas).
+
+En un momento de máximo dramatismo, incluso podrías hacer una escena en que von Liebenfels estrella su zepelín con él a los mandos contra tus comandos y sus saurios para tratar de detenerlos, mientras les grita en alemán todo tipo de consignas nazis y suena de fondo "La marcha de las valkirias" de Wagner. 
+
+Si ves que la presencia del zepelín, influye demasiado en los planes de ataque, puedes hacer que desaparezca o que se vaya haga rondas de vigilancia de varias horas de forma que no influya tanto en sus planes de ataque.  
+
 #### Defensas exteriores
 xxx
 
 #### Defensas interiores
+xxx
+
+#### Patio del castillo
 xxx
 
 #### Habitaciones interiores
@@ -2388,10 +2398,6 @@ xxx
 
 #### El laboratorio en el sótano
 xxx
-
-### El zepelín
-xxx
-
 
 \saltopagina
 
