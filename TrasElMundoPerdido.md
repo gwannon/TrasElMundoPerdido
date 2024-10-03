@@ -1920,7 +1920,7 @@ Ahora les toca huir con los secretos robados. A priori, debería ser algo fácil
 
 Cuando bajen al piso inferior, Nezhoda estará llamado la atención para hacer un brindis. Más que un brindis será un discurso. Según se vayan moviendo por la pista de baile, la voz del general se ahogará y la punta un cuchillo sobresaldrá de su pecho y caerá al suelo muerto. Jocelyn cubierta de sangre y con el cuchillo gritará _Vive la France_ y saldrá corriendo esquivando.
 
-Mientras la gente se da cuenta de lo que pasa y reaccionan (recuerda que la mayoría está borracha), tienen unos 3 turnos para llegar a la puerta principal de la mansión. Después, algunos invitados, sobretodos nazis se les enfrentarán. Igual algún comando se pone a cantar la «marsellesa» a pleno pulmón. Una tirada buena de interpretar podría sacar el patriotismo de los invitados franceses y que empiecen a atacar a los nazis para dar tiempo a escapar a tus comandos. Sea como Irma Bormann les espera en la puerta y tratará de deternerlos, pueden derribarla o pueden esquivarla, pero deberán ser rápido. 
+Mientras la gente se da cuenta de lo que pasa y reaccionan (recuerda que la mayoría está borracha), tienen unos 3 turnos para llegar a la puerta principal de la mansión. Después, algunos invitados, sobretodos nazis se les enfrentarán. Igual algún comando se pone a cantar la «marsellesa» a pleno pulmón. Una tirada buena de interpretar podría sacar el patriotismo de los invitados franceses y que empiecen a atacar a los nazis para dar tiempo a escapar a tus comandos. Sea como Irma Bormann les espera en la puerta y tratará de detenerlos, pueden derribarla o pueden esquivarla, pero deberán ser rápido. 
 
 Si en algún momento Jocelyn corre peligro, Ibrahim Adauy hará lo que sea para salvarla, incluso sacrificarse para que ella pueda escapar.
 
@@ -2204,6 +2204,8 @@ Una vez solucionado todos los problemas y calculadas las bajas y detectados los 
 
 \saltopagina
 
+[![Primer plano de una ilustración de un ictiosaurio](./assests/images/ictiosaurio-libro.jpg 'Mighty animals; being short talks about some of the animals which lived on this earth before man appeared, - Mix, Jennie Irene')](https://commons.wikimedia.org/wiki/Category:Mighty_animals#/media/File:Mighty_animals_(Page_64)_BHL40566207.jpg 'Mighty animals; being short talks about some of the animals which lived on this earth before man appeared, - Mix, Jennie Irene')
+
 Enseguida controlaban todo se llevaron algunos rehenes y atraparon bastantes saurios que subieron a bordo de los navíos de guerra en barcazas de desembarco. 
 
 Una tirada de Tácticas les dirá que esta misión estaba muy preparada, planificada al milímetro y ejecutada sin fallos. Debían tener mucha y muy buena información para llegar hasta aquí sin encontrarse con enemigos y luego para ejecutar su plan en pocas horas.
@@ -2216,21 +2218,22 @@ que es la forma de controlar a los saurios, con descargas eléctricas. También 
 **Secuestrados:** Si analizan los secuestrados, no se han llevado a cualquiera. Se han llevado a Lady Roxton y a Horace Linton, dos piezas muy importantes. Debían conocer a Lady Roxton muy bien porque por como viste y se arregla de normal parece otra trabajadora más de la Fundación. Esto se suma a los puntos anteriores y queda claro que el ataque estaba muy planeado.
 
 ## La visita del general
+Cuando tus comandos anden dando vueltas a las cosas que han averiguado, un jeep o una barcaza militar aparecerá y el General Linton saldrá de ella. Se acercará a tus comandos y ceremoniosamente les dará unas cartas de licenciamiento (que su secretario rellena aceleradamente a su lado). Ya han terminado su trabajo y el ejército inglés y la IM ya no necesitan más sus servicios. La idea es que esto mosquee muchísimo a tus comandos. Si le gritan o amenazan, mucho mejor tienen a sus hombres para protegerle. 
 
-[![Primer plano de una ilustración de un ictiosaurio](./assests/images/ictiosaurio-libro.jpg 'Mighty animals; being short talks about some of the animals which lived on this earth before man appeared, - Mix, Jennie Irene')](https://commons.wikimedia.org/wiki/Category:Mighty_animals#/media/File:Mighty_animals_(Page_64)_BHL40566207.jpg 'Mighty animals; being short talks about some of the animals which lived on this earth before man appeared, - Mix, Jennie Irene')
-
-Cuando tus comandos anden dando vueltas a las cosas que han averiguado, un jeep o una barcaza militar aparecerá y el General Linton saldrá de ella. Se acercará a tus comandos y ceremoniosamente les dará unas cartas de licenciamiento. Ya han terminado su trabajo y el ejército inglés y la IM ya no necesitan más sus servicios. La idea es que esto mosquee muchísimo a tus comandos. Si le gritan o amenazan, mucho mejor. 
-
-El general les explicará que el proyecto ha terminado, los nazis lo descubrieron y lo han destruido. IM tratará de rescatar a los secuestrados, pero su principal interés ahora mismo es la guerra en el continente tras el desembarco en Normandía.
-
-xxx
+El general les explicará que el proyecto ha terminado abruptamente porque los nazis lo descubrieron y lo han destruido. IM tratará de rescatar a los secuestrados, pero su principal interés ahora mismo es la guerra en el continente tras el desembarco en Normandía.
 
 \saltopagina
+
+Les dará un par de días para sacar sus cosas de los restos de la Fundación, ya que a partir de ese momento IM pasará a controlar lo que ha quedado de la Fundación y clausurará sus instalaciones.
+
+En esta parte es importante que aunque no lo diga el general, les deje muy claro mediante indirectas que todo lo que ha pasado es culpa suya. Si hubieran hecho bien su trabajo esto no habría pasado. Si tratan de argumentar con todos los fallos de seguridad que han visto en las misiones por parte del IM o sus sospechas de espías y filtraciones desde la IM, Linton responderá que se hagan responsables de sus héroes y les acusará de ser todo culpa suya.
+
+Tiene que seguir con la farsa incluso ahora por si hubiera espías. Está muy cerca de conseguir que Hitler siga quimeras por la selva venezolana y que miles de soldados que pudieran estar luchando en el frente se estén movilizando para llevar dinosaurios a Berlín.  
 
 ## Con la mierda hasta el cuello
 La situación de tu comando ha cambiado drásticamente, a priori han perdido casi todos los recursos de la Fundación y la IM les ha dicho que no va a ayudarles. Aunque les fuera a ayudar tampoco deberían fiarse de la IM. Ya deberían tener suficientes pistas de que no han jugado limpio con ellos.
 
-En este punto deben pensar qué van a hacer y reunir todos los recursos y aliados que puedan, porque les espera un viaje muy peligroso si quieren salvar a los secuestrados. Recuérdales que no tiene todo el tiempo del mundo. Dales una semana como mucho para reunir recursos y aliados, mientras se preparan para partir a Sudamérica.
+En este punto deben pensar qué van a hacer y reunir todos los recursos y aliados que puedan, porque les espera un viaje muy peligroso si quieren salvar a los secuestrados. Recuérdales que no tiene todo el tiempo del mundo. Dales una semana como mucho para reunir recursos y aliados, mientras se preparan para partir a Sudamérica. De hecho, Linton les ha dado un par días para irse de la isla.
 
 ### Recursos
 
@@ -2241,13 +2244,12 @@ Si ves que no se les ocurre nada y no han jugado el relato salvaje "El secreto d
 ### Buscando aliados
 Por suerte no están solos. En sus misiones han hechos contactos, ayudado a gente y conseguidos recursos propios. Es hora de usarlos. 
 
+\saltopagina
+
 * **Ningún compañero saurio** ha sido atrapado y podrán encontrarlos en los terrenos de la fundación. 
 * **Jocelyn Dubois.** Si miran su correspondencia, alguien puede que tenga una carta Jocelyn contando por qué mato a Nezhoda y que está escondida en Londres desde la misión en Normandía. También pone su dirección. Quizás sea hora de que de cobrarse algún favor.
 * **Dolores Branningan y la tripulación del «Mary Anning».** Por supuesto que la valiente tripulación del «Mary Anning» está preparada para ayudar a tus comandos y hacer lo que sea para rescatar a Lady Roxton y matar nazis. Y si no quieren Dolores le dará una buena zurra. 
 * **Wayland.** Consiguió escaparse de los nazis, haciéndose pasar por un mozo de granja y escabulléndose cuando no miraban los guardias. Por supuesto que ayudará a tus comandos a matar nazis, de hecho, lo está deseando.
-
-\saltopagina
-
 * **Ibrahim Adauy.** Si Jocelyn se une al grupo, él se apuntará sin pensárselo.  
 * **Cualquier PNJ de tu propia cosecha que estuviera en la isla de Skye** es susceptible de haber escapado de los nazis y querer ayudar a tus comandos en su nueva misión. También pueden llamar a PNJ de todo Reino Unido, pero de más lejos no daría tiempo a contactar y a que estén en Skye antes de partir. 
 

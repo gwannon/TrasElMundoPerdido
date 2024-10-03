@@ -13,15 +13,17 @@
 
 # Changelog
 
-## Versión 0.8 en desarrollo
+## Versión 0.8.1 En desarrollo 
+* Terminando la parte de "Sabotaje" de "Parte 5: Normandía"
+
+## Versión 0.8 en 03/10/2024
 * Terminada la parte de "El Mundo Perdido" de "Parte 8: Regreso al Mundo Perdido"
 * Terminada la parte de "Estudiando al enemigo" de "Parte 5: Normandía"
-* Terminando la parte de "Sabotaje" de "Parte 5: Normandía"
 * Terminada la parte de "Con la mierda hasta el cuello" de "Parte 7: Regreso a casa"
 * Terminada la parte de "Por sorpresa" de "Parte 7: Regreso a casa"
-* Terminando la parte de "La visita del general" de "Parte 7: Regreso a casa"
+* Terminada la parte de "La visita del general" de "Parte 7: Regreso a casa"
 
-## Versión 0.7.2 29/07/2024
+## Versión 0.7.2 29/09/2024
 * Pospuesto el Relato Salvaje "Un día en el museo"
 * Terminado el Relato Salvaje "Espécimen perdido"
 * Terminada la parte de "Un pequeño favor" de "Parte 5: Normandía"
