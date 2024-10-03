@@ -2340,6 +2340,16 @@ Es importante dejar claro que en esta parte de la aventura tus comandos debería
 
 xxx
 
+|VEHÍCULO|TAMAÑO|MANIOBRA.|VEL. MÁX.|DUREZA|TRIPULACIÓN|
+|--------|------|----|--|------|-----|
+|Zepelín nazi|18|+1|128 km/h|16|18+2d6¹|
+
+_¹ 18 (comandante, 2 pilotos, navegador, operador de radio, bombardero, 4 mecánicos, 4 carpinteros, 4 artilleros), +2d6 soldados nazis._
+
+\saltopagina
+
+**Armamento:** 6 ametralladoras pesadas en plataformas giratorias, 2 en la parte superior, 2 en la parte delantera de la góndola, 2 en la parte trasera de la góndola (cada una tiene munición ilimitada)
+
 ***
 
 # Parte 9: La Selva Negra
