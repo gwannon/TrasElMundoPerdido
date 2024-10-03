@@ -7,7 +7,18 @@
 
 # Por hacer de la versión 0.9
 * Parte 8: Regreso al Mundo Perdido
+  * Carrera al Mundo perdido
+  * Misión de rescate
+  * Evitando un genocidio
+  * Asociaciones peligrosas
+  * Batalla del Mundo Perdido
+  * El zepelín
 * Parte 9: La Selva Negra
+  * Los diamantes
+  * Viaje a la selva Negra
+  * El castillo de Hohenzollern
+  * Batalla final
+  * Y ahora ¿qué va a pasar?
 
 ***
 

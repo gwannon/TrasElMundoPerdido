@@ -2357,10 +2357,32 @@ _¹ 18 (comandante, 2 pilotos, navegador, operador de radio, bombardero, 4 mecá
 # Parte 9: La Selva Negra
 Esta es la última misión que afrontarán tus comandos, una batalla épica a la par que loca en un castillo de la Selva Negra lleno de dinosaurios enloquecidos, inventos extraños, contra un científico loco nazi con el objetivo de que Hitler no tenga una superarma que le daría la victoria. ¿Qué puede haber mejor?
 
-## La fortaleza inexpugnable
+## Los diamantes
 ```
-Parece que los nazis no solo buscaban dinosaurios para su ejército, también buscaba los diamantes de la arcilla azul. Parece que van a crear una arma terrible con los diamantes sacados del Mundo Perdido que puede cambiar el curso de la guerra a su favor. 
+Parece que los nazis no solo buscaban dinosaurios para su ejército, también buscaba los diamantes de la arcilla azul, descubrieron las ventas periódicas de diamantes de la Fundación y vieron que eran los que el Doctor Eckart necesita y lleva meses buscando. Parece que van a crear una arma terrible con los diamantes que puede cambiar el curso de la guerra a su favor. 
 ```
+xxx
+
+## Viaje a la selva Negra
+xxx
+
+\saltopagina
+
+[![Mapa del castillo de Hohenzollern](./assests/images/hohenzollern-mapa-anotado.jpg 'Hohenzollern Castle - https://www.milbysmaps.com/')](https://www.milbysmaps.com/2023/06/10/hohenzollern-castle/ 'Hohenzollern Castle - https://www.milbysmaps.com/')
+
+&nbsp;
+
+Mapa del castillo de Hohenzollern en la Selva Negra.
+
+\saltopagina
+
+## El castillo de Hohenzollern
+```
+El castillo de Hohenzollern es la guarida secreta del Doctor Eckart, una fortaleza inexpugnable protegida por un zepelín, dinosaurios enloquecidos y nazis con los locos inventos del doctor. Acabar con el arma que el doctor está construyendo en sus catacumbas es una autentica misión suicida.
+```
+
+El castillo de Hohenzollern se encuentra en la cumbre del monte Hohenzollern, perteneciente a una sierra llamada Jura de Suabia. El castillo está una altitud de 855 metros. Data de 1847, aunque todavía hay resto de otros dos castillos anteriores destruidos en diferentes guerras. La ciudad más importante es Stuttgart que está a 50 kilómetros al sur del castillo. Se le considera una versión menos fantástica del famoso castillo de Neuschwanstein, conocido por ser inspiración de los castillos de las películas de Disney.
+
 xxx
 
 ### Dinosaurios capturados
@@ -2375,40 +2397,37 @@ xxx
 
 \saltopagina
 
-[![Mapa del castillo de Hohenzollern](./assests/images/hohenzollern-mapa-anotado.jpg 'Hohenzollern Castle - https://www.milbysmaps.com/')](https://www.milbysmaps.com/2023/06/10/hohenzollern-castle/ 'Hohenzollern Castle - https://www.milbysmaps.com/')
-
-&nbsp;
-
-Mapa del castillo de Hohenzollern en la Selva Negra.
-
-\saltopagina
-
-### El castillo de Hohenzollern
-
-El castillo de Hohenzollern se encuentra en la cumbre del monte Hohenzollern, perteneciente a una sierra llamada Jura de Suabia. El castillo está una altitud de 855 metros. Data de 1847, aunque todavía hay resto de otros dos castillos anteriores destruidos en diferentes guerras. La ciudad más importante es Stuttgart que está a 50 kilómetros al sur del castillo. Se le considera una versión menos fantástica del famoso castillo de Neuschwanstein, conocido por ser inspiración de los castillos de las películas de Disney.
-
-xxx
-
-#### El zepelín
+### El zepelín
 El zepelín de von Liebenfels está suspendido sobre el castillo de forma que pueden usarlo como un recurso del que sacar unidades nazis. Si ves que los combates en las murallas y el patio son muy fáciles. Pueden descender soldados de todo tipo haciendo rapel o incluso podrían disparar con ametralladoras pesadas para barrer la zona de combate (hiriendo también a sus tropas).
 
 En un momento de máximo dramatismo, incluso podrías hacer una escena en que von Liebenfels estrella su zepelín con él a los mandos contra tus comandos y sus saurios para tratar de detenerlos, mientras les grita en alemán todo tipo de consignas nazis y suena de fondo "La marcha de las valkirias" de Wagner. 
 
 Si ves que la presencia del zepelín, influye demasiado en los planes de ataque, puedes hacer que desaparezca o que se vaya haga rondas de vigilancia de varias horas de forma que no influya tanto en sus planes de ataque.  
 
-#### Defensas exteriores
+### Defensas exteriores
 xxx
 
-#### Defensas interiores
+### Defensas interiores
 xxx
 
-#### Patio del castillo
+\saltopagina
+
+### Patio del castillo
 xxx
 
-#### Habitaciones interiores
+### Habitaciones interiores
 xxx
 
-#### El laboratorio en el sótano
+### El laboratorio en el sótano
+xxx
+
+\saltopagina
+
+## Batalla final
+```
+Esta es la batalla final de esta aventura, el combate entre el bien y el mal. Si pierden los nazis ganarán la guerra con el nuevo arma del Doctor Eckart. Si ganan, el nazismo será derrotado y tus comandos y sus saurios serán los heroes invisibles de la mayor guerra de la historia. ¿De qué lado estarán los lados? 
+```
+
 xxx
 
 \saltopagina
