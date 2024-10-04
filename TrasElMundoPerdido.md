@@ -122,13 +122,13 @@ De lo primero que descubrieron es que la evolución no se había parado en el Mu
 
 De hecho, son capaces de solucionar problemas básicos y de realizar rutinas tras un proceso de aprendizaje.
  
-Pero el gran descubrimiento que hizo Roxton en esta segunda expedición es que todos los saurios tenían cierto grado de domesticación. No eran mascotas como perros y gatos, ni tampoco animales de granja, pero habían convivido con los humanos primitivos de la meseta durante miles de años (cosa que no había ocurrido en el resto del mundo) y esto había transformado sus instintos poco a poco.
+Pero el gran descubrimiento que hizo Roxton en esta segunda expedición es que todos los saurios tenían cierto grado de domesticación. No eran mascotas como perros y gatos, ni tampoco animales de granja, pero habían convivido con los sakalas de la meseta durante miles de años (cosa que no había ocurrido en el resto del mundo) y esto había transformado sus instintos poco a poco.
 
 Los antropólogos y antropólogas de la fundación se dedicaron a estudiar a los aborígenes y descubrieron interacciones entre ambas especies que habían llevado a los saurios a ser en parte domesticados. 
 
-Durante la anterior expedición ya vio que los sakala habían domesticado iguanodontes criándolos desde huevo. Pero investigaciones más exhaustivas permitieron descubrir algo muy interesante. Las tribus de humanos primitivos habían aprendido a dejar parte de su caza lejos de sus asentamientos para alejar a los grandes depredadores. También aprendieron a atraer a los herbívoros dejando gran cantidad de frutas en ciertos lugares donde era más fácil cazarlos o alejarlos de sus nidos y entonces robar sus huevos o sus crías. 
+Durante la anterior expedición ya vio que los sakala habían domesticado iguanodontes criándolos desde huevo. Pero investigaciones más exhaustivas permitieron descubrir algo muy interesante. La tribu sakala había aprendido a dejar parte de su caza lejos de sus asentamientos para alejar a los grandes depredadores. También aprendieron a atraer a los herbívoros dejando gran cantidad de frutas en ciertos lugares donde era más fácil cazarlos o alejarlos de sus nidos y entonces robar sus huevos o sus crías. 
 
-Estas interacciones fueron con los siglos evolucionado y grabándose en los instintos de los saurios, de forma que saben que salvo en caso de agresión, necesidad y hambre, un humano es más útil vivo que muerto. Este hecho, junto a la selección de los mejores y más inteligentes ejemplares, hizo que la Fundación pudiera domesticar dinosaurios con técnicas avanzadas de condicionamiento positivo en unos 15 años.
+Estas interacciones fueron con los siglos evolucionado y grabándose en los instintos de los saurios, de forma que saben que salvo en caso de agresión, necesidad o hambre, un humano es más útil vivo que muerto. Este hecho, junto a la selección de los mejores y más inteligentes ejemplares, hizo que la Fundación pudiera domesticar dinosaurios con técnicas avanzadas de condicionamiento positivo en unos 15 años.
 
 \saltopagina
 
@@ -142,7 +142,7 @@ La vida de aventuras de Lord Roxton se convirtió en una vida de burocracia al f
 La principal razón de lord Roxton para montar las instalaciones de la Fundación en Escocia, es que los posibles avistamientos de monstruos prehistóricos podían verse como un intento más de un loco escocés queriendo llamar la atención sobre el Lago Ness. De hecho, desde 1930 se han multiplicado los avistamientos de monstruos de todo tipo y estos hechos son rápidamente noticias en la prensa amarilla. Esto hace que los testigos sean desprestigiados rápidamente por la opinión pública y la comunidad científica, a pesar de que muchas veces han podido ser reales.
 
 ### Política de no intromisión
-Una de las políticas claves que estableció Lord Roxton en su expedición fue la no intervención en la vida de los hombres y mujeres primitivos. Esto incluye todo tipo de intervención que trastocase su modo de vida. No se les da ningún tipo de tecnología, no se les ayuda salvo en cosas muy graves y no se les trata de enseñar ningún tipo de conocimiento.
+Una de las políticas claves que estableció Lord Roxton en su expedición fue la no intervención en la vida de los hombres y mujeres primitivos, tanto sakalas como pitecantropos. Esto incluye todo tipo de intervención que trastocase su modo de vida. No se les da ningún tipo de tecnología, no se les ayuda salvo en cosas muy graves y no se les trata de enseñar ningún tipo de conocimiento.
 
 Lo único que está permitido es un comercio muy básico en el que la Fundación no saca ningún beneficio, solamente usa estos encuentros para estudiar a sus vecinos, los sakala. Intercambian pieles, alimentos y algunas herramientas muy básicas.
 
@@ -2361,6 +2361,7 @@ Esta es la última misión que afrontarán tus comandos, una batalla épica a la
 ```
 Parece que los nazis no solo buscaban dinosaurios para su ejército, también buscaba los diamantes de la arcilla azul, descubrieron las ventas periódicas de diamantes de la Fundación y vieron que eran los que el Doctor Eckart necesita y lleva meses buscando. Parece que van a crear una arma terrible con los diamantes que puede cambiar el curso de la guerra a su favor. 
 ```
+
 xxx
 
 ## Viaje a la selva Negra
@@ -2407,6 +2408,8 @@ Si ves que la presencia del zepelín, influye demasiado en los planes de ataque,
 ### Defensas exteriores
 xxx
 
+\saltopagina
+
 ### Defensas interiores
 xxx
 
@@ -2415,17 +2418,23 @@ xxx
 ### Patio del castillo
 xxx
 
-### Habitaciones interiores
+\saltopagina
+
+### Estancias interiores del castillo
 xxx
+
+El doctor Eckart tiene una pequeña pinacoteca de 10 cuadros en el comedor principal del castillo de Hohenzollern. Son todos de la pintora francesa impresionista Berthe Morisot. Tus comandos deberían tratar de recuperarlos sin que sufran daño, con un agujero de bala o con una esquina quemada perderían parte de su valor. 
+
+\saltopagina
 
 ### El laboratorio en el sótano
 xxx
 
 \saltopagina
 
-## Batalla final
+## La batalla final
 ```
-Esta es la batalla final de esta aventura, el combate entre el bien y el mal. Si pierden los nazis ganarán la guerra con el nuevo arma del Doctor Eckart. Si ganan, el nazismo será derrotado y tus comandos y sus saurios serán los heroes invisibles de la mayor guerra de la historia. ¿De qué lado estarán los lados? 
+Esta es la batalla final de esta aventura, el combate entre el bien y el mal. Si pierden los nazis ganarán la guerra con el nuevo arma del Doctor Eckart. Si ganan, el nazismo será derrotado y tus comandos y sus saurios serán los héroes invisibles de la mayor guerra de la historia.¿Hacia que lado se inclinará la balanza del destino? 
 ```
 
 xxx
@@ -3563,7 +3572,7 @@ Irma es la _femme fatale_ por excelencia, seductora y misteriosa, pero también 
 
 Le encanta el lujo, la riqueza y la moda, pero le gusta más seguir a ciegas las creencias del nazismo y de las ramas más duras de las SS tanto por convicción como forma de medrar socialmente.
 
-Mientras es una subalterna, es muy eficiente cumpliendo órdenes, una hábil espía y una gran consejera, pero en el momento que consigue subir en el escalafón de mando poder, Irma se convierte en una adicta al poder y a su sadismo natural se le una tremenda megalomanía.
+Mientras es una subalterna, es muy eficiente cumpliendo órdenes, una hábil espía y una gran consejera, pero en el momento que consigue subir en el escalafón de mando poder, Irma se convierte en una adicta al poder y a su sadismo natural se le une una tremenda megalomanía.
 
 Puede mandar fusilar a una familia entera y derribar su casa sin pestañear si eso le permite a las tropas bajo su mando tardar 1 minuto en llegar al frente.
 
@@ -3963,7 +3972,7 @@ Su cuerpo está totalmente adaptado a la vida acuática. Su piel no es escamosa,
 
 [![Dibujo de pteranodonte volando](./assests/images/pteranodonte.jpg 'NobuTamura email:nobu.tamura@yahoo.com www.palaeocritti.com')](https://commons.wikimedia.org/wiki/File:Pteranodon_NT.jpg 'NobuTamura email:nobu.tamura@yahoo.com www.palaeocritti.com')
 
-### Pteranodon
+### Pteranodonte
 **Carnívoro | Volador | 3x1 casillas | Código: Spitfire**
 
 Que los reptiles aprendieron a volar y que las aves descienden de estos dinosaurios voladores es de sobra conocido. Los pteranodontes son el culmen de los reptiles voladores y aunque torpes en tierra son los amos de los aires.
@@ -4164,7 +4173,7 @@ Esta campaña va de joder los malvados planes de los nazis, así que cualquier t
 ### Licencias con la obra original
 Me he tomado una serie de licencias con la obra original de Sir Arthur Conan Doyle a la hora de desarrollar esta campaña que pueden resumirse en los siguientes puntos:
 
-* Los dinosaurios son muchísimo más inteligentes que en el libro. En el original se les representa como seres estúpidos fáciles de engañar. Su cerebro es muy pequeño y esa es su principal debilidad. En esta campaña se considera que sus cerebros han evolucionado gracias a la interacción con los humanos primitivos.
+* Los dinosaurios son muchísimo más inteligentes que en el libro. En el original se les representa como seres estúpidos fáciles de engañar. Su cerebro es muy pequeño y esa es su principal debilidad. En esta campaña se considera que sus cerebros han evolucionado gracias a la interacción con los sakalas.
 * Siguiendo con el punto anterior, los aborígenes no se dedican a cazar y matar dinosaurios, sino que han aprendido a semi-domesticarlos.
 
 \saltopagina
