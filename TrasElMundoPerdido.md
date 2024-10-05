@@ -2365,7 +2365,7 @@ Como hemos dicho antes, la posibilidad de éxito es factible. Puede que tus coma
 
 **Cómo lo dirigiría yo:** Dale dramatismo, narra como el suelo se acerca muy rápido y como se siente el viento en la cara. Ver su vida pasar ante sus ojos puede estar bien. Calcula lentamente el daño y coge uno a uno el montón de dados que tienes que tirar. Hazlo sonar en tus manos y cuando vayas a tirarlos, te paras y un pteranodonte le agarrará en plena caída y lo dejará en el suelo sano y salvo.
 
-El resultado de muchas de las acciones anteriores contra el zepelín serán caídas al vacío que deberían ser mortales. Como todos sabemos en el pulp los héroes y las heroínas no mueren en caídas siempre pasa algo y se salvan.
+El resultado de muchas de las acciones anteriores contra el zepelín serán caídas al vacío que deberían ser mortales. Como todos sabemos en el pulp los héroes y las heroínas no mueren en caídas, siempre pasa algo y se salvan.
 
 Puedes salvarles de muchas formas. Un pteranodonte que lo agarra en plena caída o caer sobre árboles y llevarse algo de daño pero sin ser mortal. Quizás el resto de comandos han creado un colchón para su caída o si quieres alguno de los geysers de la zona volcánica explota en el momento justo y le salva.
 
@@ -2829,7 +2829,7 @@ Veamos las opciones que tienen tus comandos.
 * Abrir el canutillo, ver el mensaje y volver a cerrarlo sin que se note. Luego pueden dejar a la paloma libre o entregarla al MI14.
 * Una opción para comandos maquiavélicos sería meter un mensaje falso y soltar a la paloma o entregar la paloma MI14. Puede ser que por alguna razón esto les dé alguna ventaja en el futuro. Esto es muy difícil porque exige descifrar el mensaje original y cifrar su mensaje, es decir, doble trabajo.
 
-Puedes jugar con su paranoia; igual es una paloma mensajera nazi que lleva importantes mensajes al propio Hitler. Solo abriendo el canutillo podrán saberlo.
+**Cómo lo dirigiría yo:** Si no quieren abrir el canutillo y te conviene que lo abran, puedes jugar con su paranoia; igual es una paloma mensajera nazi que lleva importantes mensajes al propio Hitler o igual hay información sobre la Fundación que pueda serles útil. Solo abriendo el canutillo podrán saberlo.
 
 Si abren el canutillo, verán un mensaje cifrado. Si descifran el mensaje (Humanidades -4 y un día completo de trabajo), eres libre de darles el mensaje que quieras. **Te recomiendo que la uses como semilla de aventura.** 
 
@@ -2871,9 +2871,11 @@ Solo tienen una oportunidad de desactivar las bombas, luego será imposible entr
 ### Contactando con la resistencia local
 Mientras un equipo desactiva bombas el otro debería desembarcar en alguna playa cercana y tratar de evitar a los nazis y los colaboracionistas y encontrar a la resistencia local. Deberán usar sus habilidades de Investigar, Notar y Persuadir para hacer contacto. 
 
+**Cómo lo dirigiría yo:** Si van a enseñarles como entrar y salir del puerto, puedes jugar con la paranoia que al desactivar igual hubo alguna tirada mala y no esta del todo desactivada o tal vez si no han desactivado todas se equivocan de la ruta segura. Luego tú decides si usas el porcentaje de minas pifiadas del paso anterior y solo haces rodar los dados.
+
 Si ves que no saben cómo hacerlo, puedes hacer alguna escena en que la resistencia se enfrenta a los soldados nazis. Estamos hablando de algún tiroteo, alguna detención ilegal, un ataque sorpresa desde un vehículo e incluso pillastres haciendo pintadas en las paredes del cuartel nazi.
 
-Una establezcan contactos deberán explicarles que han hecho y ofrecer alguna prueba, quizás podrían entrar y salir del puerto con los rebeldes para demostrarles que han hecho lo que dicen. Puedes jugar con la paranoia que al desactivar igual hubo alguna tirada mala y no esta del todo desactivada o tal vez si no han desactivado todas se equivocan de ruta segura. Luego tú decides si usas el porcentaje de minas pifiadas del paso anterior y solo haces rodar los dados.
+Una establezcan contactos deberán explicarles que han hecho y ofrecer alguna prueba, quizás podrían entrar y salir del puerto con los rebeldes para demostrarles que han hecho lo que dicen.
 
 ### Recompensas
 Lo único que pueden conseguir tus comandos tras esta aventura es buena comida y bebida local y la satisfacción de haber hecho una buena acción y de haber estropeado los planes de los nazis. Aparte pueden tener un puerto seguro donde refugiarse y esconderse si se meten en problemas. La resistencia se encargará de buscarles una casa segura donde ocultarse. El tema de si aceptarán a las bestias prehistóricas que les acompañan es otro tema.  

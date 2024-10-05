@@ -23,7 +23,8 @@
 
 # Changelog
 
-## Versión 0.8.1 En desarrollo 
+## Versión 0.8.1 En desarrollo
+* Creadas cajas con consejos para dirigir
 * Terminando la parte de "Sabotaje" de "Parte 5: Normandía"
 * Terminada la parte de "El zepelín" de "Parte 8: Regreso al Mundo Perdido"
 
