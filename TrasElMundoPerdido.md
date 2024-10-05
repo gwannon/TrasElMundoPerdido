@@ -142,7 +142,7 @@ La vida de aventuras de Lord Roxton se convirtió en una vida de burocracia al f
 La principal razón de lord Roxton para montar las instalaciones de la Fundación en Escocia, es que los posibles avistamientos de monstruos prehistóricos podían verse como un intento más de un loco escocés queriendo llamar la atención sobre el Lago Ness. De hecho, desde 1930 se han multiplicado los avistamientos de monstruos de todo tipo y estos hechos son rápidamente noticias en la prensa amarilla. Esto hace que los testigos sean desprestigiados rápidamente por la opinión pública y la comunidad científica, a pesar de que muchas veces han podido ser reales.
 
 ### Política de no intromisión
-Una de las políticas claves que estableció Lord Roxton en su expedición fue la no intervención en la vida de los hombres y mujeres primitivos, tanto sakalas como pitecantropos. Esto incluye todo tipo de intervención que trastocase su modo de vida. No se les da ningún tipo de tecnología, no se les ayuda salvo en cosas muy graves y no se les trata de enseñar ningún tipo de conocimiento.
+Una de las políticas claves que estableció Lord Roxton en su expedición fue la no intervención en la vida de los hombres y mujeres primitivos, tanto sakalas como pitecántropos. Esto incluye todo tipo de intervención que trastocase su modo de vida. No se les da ningún tipo de tecnología, no se les ayuda salvo en cosas muy graves y no se les trata de enseñar ningún tipo de conocimiento.
 
 Lo único que está permitido es un comercio muy básico en el que la Fundación no saca ningún beneficio, solamente usa estos encuentros para estudiar a sus vecinos, los sakala. Intercambian pieles, alimentos y algunas herramientas muy básicas.
 
@@ -2332,23 +2332,50 @@ xxx
 
 ## El zepelín
 ```
-El general von Liebenfels ha perdido la batalla, pero no han acabado él. Huye en su zeppelin con algunos tesoros que ha sacado del mundo perdido y volverá para una ultima batalla.
+El general von Liebenfels ha perdido la batalla, pero no esta todo perdido para los nazis. Su zeppelin huye con algunos tesoros que las fuerzas nazis han sacado del mundo perdido y puede que todavía puedan ganar el siguiente y definitivo asalto.
 ```
 [![Foto zepelín nazi en el Amazonas](./assests/images/dirigible.jpg 'LZ-127 at Jiquiá landing field in Recife')](https://www.airships.net/blog/zeppelin-mast-recife-brazil-pernambuco/ 'LZ-127 at Jiquiá landing field in Recife')
 
 &nbsp;
 
-Es importante dejar claro que en esta parte de la aventura tus comandos deberían fracasar, para que puedan ir a la parte 9 y enfrentarse a los nazis en un castillo de la selva Negra. Pero eso no quiere decir que si se lo montan excepcionalmente bien y los dados acompañan puedan terminar la aventura aquí mismo y también está bien. 
+Es importante dejar claro que en esta parte de la aventura tus comandos deberían fracasar, para que puedan ir a la parte 9 y enfrentarse a los nazis en un castillo de la selva Negra. Pero eso no quiere decir que si se lo montan excepcionalmente bien y los dados acompañan puedan terminar la aventura aquí mismo y también está bien.
 
-xxx
+Cuando la batalla termine, solo debería quedar funcional el zepelín nazi. Quizás tenga algo de daño, pero al ser volador solo debería tener impactos pequeños de armas de fuego en los cristales y quizás haya sufrido algún pequeño incendio o rasgones en el globo.
+
+Su principal problema es que ha acabado con toda la munición y ha dejado de ser efectivo. El capitán ha dejado una pequeña reserva de balas por si tienen algún problema en el viaje de regreso a Alemania.
+
+\saltopagina
+
+La escena del zepelín puedes montarla de varias maneras y puedes ser muy divertido si les das un final desastroso pero muy pulp. Veamos opciones:
+
+**Persecución aérea:** La primera opción que se les ocurrirá a tus comandos es engancharse a un pteranodonte y salir volando. No es muy útil porque en cuanto el zepelín coja velocidad los dejará atrás en segundos. Puedes hacer que les disparen desde las ventanillas de la góndola con armas normales y ellos respondan.
+
+Pueden incluso, aterrizar en la parte superior del zepelín, pero en cuanto coja velocidad, el viento no debería dejarles moverse, tiradas de FUE para mantenerse agarrado y con avances podrán hacer cosas como moverse o descender por las cuerdas a la góndola (3 acciones de movimiento). Si fallan FUE se caerán.
+
+**Maroma o escala:** Si deseas, el zepelín en su huida apresurada se ha dejado alguna escala o maroma sin recoger. Si corren y saltan (Atletismo) tal vez puedan alcanzarla e intentar subir escalando por ella.
+
+Si consiguen acercarse a la góndola, debería aparecer un nazi que hará el saludo nazi y cortará las cuerdas con su hacha de abordaje. Pueden intentar disparar, pero recuerda que tienen negativo por plataforma inestable, tendrán que desenfundar y el nazi tiene protección parcial.
+
+**Persecución por tierra:** Pueden tratar de montar en algún saurio terrestre y perseguir al zepelín. Quizás sea la opción más estúpida, ya que en algún momento se les acabará la meseta.
+
+Si quieres puedes hacerles unas tiradas de Notar para dejar de mirar al cielo y que detecten el final de la meseta y no se caigan por sus acantilados. Si eso pasa siempre puedes hacer tiradas de Atletismo y acabar agarrados al borde del precipicio en un auténtico cliffhangers.
+
+
+Como hemos dicho antes, la posibilidad de éxito es factible. Puede que tus comandos se lo monten muy bien y consigan entrar en el zepelín mientras huye y hacerse con su control o estrellarlo. Tal vez hayan creado una catapulta para la batalla y ahora con ella derriben al zepelín. Si se lo merecen no les quites su victoria en favor de la historia. Con unas modificaciones mínimas puedes convertir el último capítulo de la campaña en una aventura de un par de sesiones en que eviten que los nazis fabriquen una super arma.
+
+**Cómo lo dirigiría yo:** Dale dramatismo, narra como el suelo se acerca muy rápido y como se siente el viento en la cara. Ver su vida pasar ante sus ojos puede estar bien. Calcula lentamente el daño y coge uno a uno el montón de dados que tienes que tirar. Hazlo sonar en tus manos y cuando vayas a tirarlos, te paras y un pteranodonte le agarrará en plena caída y lo dejará en el suelo sano y salvo.
+
+El resultado de muchas de las acciones anteriores contra el zepelín serán caídas al vacío que deberían ser mortales. Como todos sabemos en el pulp los héroes y las heroínas no mueren en caídas siempre pasa algo y se salvan.
+
+Puedes salvarles de muchas formas. Un pteranodonte que lo agarra en plena caída o caer sobre árboles y llevarse algo de daño pero sin ser mortal. Quizás el resto de comandos han creado un colchón para su caída o si quieres alguno de los geysers de la zona volcánica explota en el momento justo y le salva.
+
+\saltopagina
 
 |VEHÍCULO|TAMAÑO|MANIOBRA.|VEL. MÁX.|DUREZA|TRIPULACIÓN|
 |--------|------|----|--|------|-----|
 |Zepelín nazi|18|+1|128 km/h|16|18+2d6¹|
 
 _¹ 18 (comandante, 2 pilotos, navegador, operador de radio, bombardero, 4 mecánicos, 4 carpinteros, 4 artilleros), +2d6 soldados nazis._
-
-\saltopagina
 
 **Armamento:** 6 ametralladoras pesadas en plataformas giratorias, 2 en la parte superior, 2 en la parte delantera de la góndola, 2 en la parte trasera de la góndola (cada una tiene munición ilimitada)
 
@@ -2362,9 +2389,11 @@ Esta es la última misión que afrontarán tus comandos, una batalla épica a la
 Parece que los nazis no solo buscaban dinosaurios para su ejército, también buscaba los diamantes de la arcilla azul, descubrieron las ventas periódicas de diamantes de la Fundación y vieron que eran los que el Doctor Eckart necesita y lleva meses buscando. Parece que van a crear una arma terrible con los diamantes que puede cambiar el curso de la guerra a su favor. 
 ```
 
+Lo único que se salvó de la batalla fue el zepelín de von Liebenfels que llevaba algunos dinosaurios carnívoros y un gran cargamento de diamantes de las fumarolas de arcilla azul. La misión ha sido un desastre y Hitler no tendrá su ejército de saurios. Pero esos diamantes son lo que el Doctor Eckart lleva meses buscando para completar su rayo de la muerte.
+
 xxx
 
-## Viaje a la selva Negra
+## La IM vuelve y viaje a la selva Negra
 xxx
 
 \saltopagina
@@ -2401,7 +2430,7 @@ xxx
 ### El zepelín
 El zepelín de von Liebenfels está suspendido sobre el castillo de forma que pueden usarlo como un recurso del que sacar unidades nazis. Si ves que los combates en las murallas y el patio son muy fáciles. Pueden descender soldados de todo tipo haciendo rapel o incluso podrían disparar con ametralladoras pesadas para barrer la zona de combate (hiriendo también a sus tropas).
 
-En un momento de máximo dramatismo, incluso podrías hacer una escena en que von Liebenfels estrella su zepelín con él a los mandos contra tus comandos y sus saurios para tratar de detenerlos, mientras les grita en alemán todo tipo de consignas nazis y suena de fondo "La marcha de las valkirias" de Wagner. 
+En un momento de máximo dramatismo, incluso podrías hacer una escena en que von Liebenfels estrella su zepelín con él a los mandos contra tus comandos y sus saurios para tratar de detenerlos, mientras les grita en alemán todo tipo de consignas nazis y suena de fondo "La marcha de las valquirias" de Wagner. 
 
 Si ves que la presencia del zepelín, influye demasiado en los planes de ataque, puedes hacer que desaparezca o que se vaya haga rondas de vigilancia de varias horas de forma que no influya tanto en sus planes de ataque.  
 
@@ -2444,7 +2473,7 @@ xxx
 ## Y ahora ¿qué va a pasar?
 Pues realmente lo que tú quieras. Oficialmente la campaña ha acabado y tienes un relato salvaje titulado "Despedidas" que cubre como podría ser el final de la campaña cuando tus comandos devuelven a su entorno natural a sus saurios.
 
-Pero en vez esta historia no tiene por qué acabar. La guerra no ha acabado y si como DJ quieres meter más aventuras, tienes semillas de aventuras que puedes usar o elaborar una trama, por ejemplo, en la que llegan a Berlín. 
+Pero esta historia no tiene por qué acabar. La guerra no ha acabado y si como DJ quieres meter más aventuras, tienes semillas de aventuras que puedes usar o elaborar una trama, por ejemplo, en la que llegan a Berlín. 
 
 Como siempre si el tema de comandos con saurios te ha gustado, quizás puedas embarcarlos en alguna loca aventura pulp, como la búsqueda de la Atlántida o enfrentarlos a algún tipo de invasión extraterrestre o de horror cósmico. Nunca desdeñes la fuerza narrativa que tienen palabras como "Cthulhu vs. dinosaurios".
 

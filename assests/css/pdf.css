@@ -53,4 +53,9 @@ body {
     top: 23px;
   }
 
+  p.comodirigir {
+    border: 8px dashed #bf3b3b;
+    background: none;
+  }
+
 }

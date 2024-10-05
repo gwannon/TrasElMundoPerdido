@@ -12,7 +12,6 @@
   * Evitando un genocidio
   * Asociaciones peligrosas
   * Batalla del Mundo Perdido
-  * El zepelín
 * Parte 9: La Selva Negra
   * Los diamantes
   * Viaje a la selva Negra
@@ -26,6 +25,7 @@
 
 ## Versión 0.8.1 En desarrollo 
 * Terminando la parte de "Sabotaje" de "Parte 5: Normandía"
+* Terminada la parte de "El zepelín" de "Parte 8: Regreso al Mundo Perdido"
 
 ## Versión 0.8 en 03/10/2024
 * Terminada la parte de "El Mundo Perdido" de "Parte 8: Regreso al Mundo Perdido"

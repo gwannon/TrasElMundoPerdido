@@ -296,6 +296,20 @@ a:has(img) {
   display: block;
 }
 
+p.comodirigir {
+  float: right;
+  width: 45%;
+  padding: 20px 20px 15px 20px;
+  font-size: 14px;
+  box-sizing: border-box;
+  background-image: repeating-linear-gradient(226deg, #bf3b3b, #bf3b3b 23px, transparent 23px, transparent 35px, #bf3b3b 35px), repeating-linear-gradient(316deg, #bf3b3b, #bf3b3b 23px, transparent 23px, transparent 35px, #bf3b3b 35px), repeating-linear-gradient(46deg, #bf3b3b, #bf3b3b 23px, transparent 23px, transparent 35px, #bf3b3b 35px), repeating-linear-gradient(136deg, #bf3b3b, #bf3b3b 23px, transparent 23px, transparent 35px, #bf3b3b 35px);
+  background-size: 10px 100%, 100% 10px, 10px 100% , 100% 10px;
+  background-position: 0 0, 0 0, 100% 0, 0 100%;
+  background-repeat: no-repeat;
+  margin-right: var(--padding);
+  margin-left: calc(var(--padding) / 2);
+}
+
 /* ------------- Clip --------------- */
 section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Dibujo]):before,
 section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Plano]):before,

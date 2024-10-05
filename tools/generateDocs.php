@@ -20,6 +20,8 @@ $html = str_replace("</h1>", "</h1>\n<div class=\"saltopagina\"></div>", $html);
 $html = str_replace("<table>", "<div><table>", $html); 
 $html = str_replace("</table>", "</table></div>", $html); 
 
+$html = str_replace("<p><strong>Cómo lo dirigiría yo:</strong>", "<p class='comodirigir'><strong>Cómo lo dirigiría yo:</strong>", $html); 
+
 
 file_put_contents(__DIR__ . "/../index.html", $html);
 
