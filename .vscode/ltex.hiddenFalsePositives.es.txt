@@ -6,3 +6,4 @@
 {"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QSi alguno de los jinetes no puede terminar los 3 lances (por ejemplo por heridas) pierde la justa.\\E$"}
 {"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QRojo = carnívoros\nAzul = acuáticos\nVerde = herbívoros\nAmarillo = voladores\\E$"}
 {"rule":"LO_LOS","sentence":"^\\QPero tampoco lo alargues mucho (5-10 minutos) y si ves que alguien empieza a coger papel y lápiz, corta.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSi eso pasa siempre puedes hacer tiradas de Atletismo y acabar agarrados al borde del precipicio en un auténtico cliffhangers.\\E$"}

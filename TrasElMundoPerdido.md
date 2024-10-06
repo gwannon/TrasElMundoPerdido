@@ -2421,14 +2421,20 @@ Los dinosaurios capturados en la isla de Skye y en la meseta han sido trasladado
 El maltrato recibido los hace muy agresivos y más primitivos con lo que han perdido parte de su inteligencia. Aquí vemos algunos cambios frente a las estadísticas normales de los saurios.
 
 * Un nivel de dado menos de Astucia y las habilidades basadas en Astucia como Notar.
-* Son más agresivos, pero no tan hábiles debido a las malas condiciones en las que viven, con lo que tienen -1 a todas las tiradas de ataque y +1 al daño.
+* Son más agresivos, pero no tan hábiles debido a las malas condiciones en las que viven, con lo que tienen -1 a todas las tiradas de ataque y +2 al daño.
 
-xxx
+A la hora de usarlos en combate los nazis no son cuidadosos con ellos y se lanzan con ellos contra sus enemigos sin preocuparse de su seguridad. Si mueren, pues mueren son solo armas, vivas pero armas.
+
+Si tus comandos tratan de no hacerles daño, deberías darles benis por sus actos de bondad. 
 
 \saltopagina
 
+Si consiguen romper los collares de entrenamiento, los saurios serán libres de hacer lo que quieran y normalmente será atacar a sus torturadores. Si se apunta a los collares (-6 al ataque) y pasan su consistencia de 8, el collar se estropeará y el mando de control será inútil.
+
+Los saurios carnívoros liberados atacarán a su jinete y seguramente escaparán. Los herbívoros se desharán del jinete y puede que se unan a la manada. Si se libera del control a un herbívoro, un compañero saurio herbívoro puede hacer una tirada de Espíritu para atraerlo a la manada y que combata con él. Si falla, el dinosaurio huirá del combate.
+
 ### El zepelín
-El zepelín de von Liebenfels está suspendido sobre el castillo de forma que pueden usarlo como un recurso del que sacar unidades nazis. Si ves que los combates en las murallas y el patio son muy fáciles. Pueden descender soldados de todo tipo haciendo rapel o incluso podrían disparar con ametralladoras pesadas para barrer la zona de combate (hiriendo también a sus tropas).
+El zepelín de von Liebenfels está suspendido sobre el castillo de forma que pueden usarlo como un recurso del que sacar unidades nazis. Si ves que los combates en las murallas y el patio son muy fáciles. Pueden descender soldados de todo tipo haciendo rápel o incluso podrían disparar con ametralladoras pesadas para barrer la zona de combate (hiriendo también a sus tropas).
 
 En un momento de máximo dramatismo, incluso podrías hacer una escena en que von Liebenfels estrella su zepelín con él a los mandos contra tus comandos y sus saurios para tratar de detenerlos, mientras les grita en alemán todo tipo de consignas nazis y suena de fondo "La marcha de las valquirias" de Wagner. 
 
