@@ -315,3 +315,6 @@ Morisot
 Nautilus
 superresistentes
 cowgirls
+PA
+1d12
+3d10

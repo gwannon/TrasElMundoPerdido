@@ -2361,7 +2361,7 @@ Si consiguen acercarse a la góndola, debería aparecer un nazi que hará el sal
 Si quieres puedes hacerles unas tiradas de Notar para dejar de mirar al cielo y que detecten el final de la meseta y no se caigan por sus acantilados. Si eso pasa siempre puedes hacer tiradas de Atletismo y acabar agarrados al borde del precipicio en un auténtico cliffhangers.
 
 
-Como hemos dicho antes, la posibilidad de éxito es factible. Puede que tus comandos se lo monten muy bien y consigan entrar en el zepelín mientras huye y hacerse con su control o estrellarlo. Tal vez hayan creado una catapulta para la batalla y ahora con ella derriben al zepelín. Si se lo merecen no les quites su victoria en favor de la historia. Con unas modificaciones mínimas puedes convertir el último capítulo de la campaña en una aventura de un par de sesiones en que eviten que los nazis fabriquen una super arma.
+Como hemos dicho antes, la posibilidad de éxito es factible. Puede que tus comandos se lo monten muy bien y consigan entrar en el zepelín mientras huye y hacerse con su control o estrellarlo. Tal vez hayan creado una catapulta para la batalla y ahora con ella derriben al zepelín. Si se lo merecen no les quites su victoria en favor de la historia. Con unas modificaciones mínimas puedes convertir el último capítulo de la campaña en una aventura de un par de sesiones en que eviten que los nazis fabriquen una superarma.
 
 **Cómo lo dirigiría yo:** Dale dramatismo, narra como el suelo se acerca muy rápido y como se siente el viento en la cara. Ver su vida pasar ante sus ojos puede estar bien. Calcula lentamente el daño y coge uno a uno el montón de dados que tienes que tirar. Hazlo sonar en tus manos y cuando vayas a tirarlos, te paras y un pteranodonte le agarrará en plena caída y lo dejará en el suelo sano y salvo.
 
@@ -2395,7 +2395,7 @@ Tras llegar a territorio nazi en la Europa continental y entregar la fortuna en 
 
 Cuando el Doctor Eckart vio la pureza y las características de los diamantes hizo un prototipo portátil que dio excelentes resultados en test de campo. Todo avaló todas las teorías que había desarrollado sobre su rayo desintegrador y se puso a fabricar su ingenio a gran escala. 
 
-A día de hoy, su rayo mortal esta casi al 95% y espera tenerlo en unos días. Lo que si ha podido es producir varias copias de su prototipo portatil que se han usado dentro de las defensas del castillo. 
+A día de hoy, su rayo mortal esta casi al 95% y espera tenerlo en unos días. Lo que si ha podido es producir varias copias de su prototipo portátil que se han usado dentro de las defensas del castillo. 
 
 ### Arma de rayos portátil de Doctor Eckart
 Estas armas son tan grandes como una Ametralladora pesada y además una mochila. De hecho, es tan pesada que el que la porta está sobrecargado y se mueve muy lento. Su portador elige una línea recta y tira Disparar.
@@ -2453,7 +2453,7 @@ En un momento de máximo dramatismo, incluso podrías hacer una escena en que vo
 
 Si ves que la presencia del zepelín, influye demasiado en los planes de ataque, puedes hacer que desaparezca o que se vaya haga rondas de vigilancia de varias horas de forma que no influya tanto en sus planes de ataque. 
 
-Ya hemos hablado de las versiones portatiles del rayo desintegrador del Doctor Eckart, si fuera necesario puedes sustituir uno de las amatralladoras que porta por uno de estas mortales armas de rayos.
+Ya hemos hablado de las versiones portátiles del rayo desintegrador del Doctor Eckart, si fuera necesario puedes sustituir uno de las ametralladoras que porta por uno de estas mortales armas de rayos.
 
 ### Defensas exteriores
 xxx
@@ -2467,6 +2467,24 @@ xxx
 
 ### Patio del castillo
 xxx
+
+El patio es el lugar perfecto para cambiar el estilo de combate y si lo deseas puedes montar una especie de justa a muerte. 
+
+Varios oficiales nazis tendrán el control de dos alosaurios y han decidido ponerse partes de armaduras del castillo y unas lanzas de caballería. Estarán armados en mitad del patio y sobre sus monturas dinosaurio esperando a tus comandos. 
+
+Si tus comandos disponen de alosaurios o megalosaurios se establecerá con unos cruces de miradas un acuerdo tácito entre los oficiales nazis y tus comandos para hacer una justa. Los caballeros nazis entregarán algo de equipo (lanzas y escudos) a tus comandos.
+
+El equipo que gane la justa ganará el combate y se espera que nadie interfiera en los lances de la justa ni haga cosas raras, como tender trampas o sucias estrategias del estilo. La justa decidirá quien gana, pero a diferencia será a inconsciencia o muerte. Si no puedes montar o mueres pierdes la justa. No hay puntos, solo honor y sangre.
+
+#### Caballero nazi
+Estos oficiales nazis quieren seguir las antiguas tradiciones y han montado esta justa improvisada. Se han armado con equipo del castillo y tienen una armadura de malla, un escudo y lanza.
+
+* **Atributos:** Agilidad d8, Astucia d6, Espíritu d6, Fuerza d8, Vigor d6
+* **Habilidades:** Atletismo d6, Cabalgar d8, Conducir d6, Conocimientos Generales d6, Disparar d8, Idioma alemán d6, Idioma Inglés d4, Intimidar d8, Notar d8, Pelear d10, Persuadir d6, Sigilo d6, Tácticas d6
+* **Paso:** 6; **Parada:** 9(2); **Dureza:** 5
+* **Ventajas:** Mando, Soldado, Bloqueo, Bloqueo mejorado
+* **Desventajas:** Obligaciones (mayor, ejército), Fanático (SS), Elige 1 (Avaricioso, Sanguinario, Vengativo, Sobreconfiado)
+* **Equipo:** Lanza de caballería (FUE+d8, PA 2 cuando carga, Alcance 2, solo se puede usar montado), Camisote de malla (+3 torso y brazos), casco abierto (+4 cabeza), escudo medieval mediano (parada +2, cobertura -2)
 
 \saltopagina
 
@@ -2492,7 +2510,7 @@ xxx
 \saltopagina
 
 ## Y ahora ¿qué va a pasar?
-Pues realmente lo que tú quieras. Recepción de la reina, medallas militares, asensos militares, becas de investigación, títulos de Sir y Dame, etc. Si tus comandos han llegado a hasta aquí se lo han currado y no deberías cortarte en contarles todo lo que ha traido su lucha y su victoria sobre las fuerzas nazis.
+Pues realmente lo que tú quieras. Recepción de la reina, medallas militares, asensos militares, becas de investigación, títulos de Sir y Dame, etc. Si tus comandos han llegado a hasta aquí se lo han currado y no deberías cortarte en contarles todo lo que ha traído su lucha y su victoria sobre las fuerzas nazis.
 
 Oficialmente la campaña ha acabado y tienes un relato salvaje titulado "Despedidas" que cubre como podría ser el final de la campaña cuando tus comandos devuelven a su entorno natural a sus saurios.
 
