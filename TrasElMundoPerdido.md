@@ -2397,6 +2397,15 @@ Cuando el Doctor Eckart vio la pureza y las características de los diamantes hi
 
 A día de hoy, su rayo mortal esta casi al 95% y espera tenerlo en unos días. Lo que si ha podido es producir varias copias de su prototipo portatil que se han usado dentro de las defensas del castillo. 
 
+### Arma de rayos portátil de Doctor Eckart
+Estas armas son tan grandes como una Ametralladora pesada y además una mochila. De hecho, es tan pesada que el que la porta está sobrecargado y se mueve muy lento. Su portador elige una línea recta y tira Disparar.
+
+\saltopagina
+
+Si tiene éxito un chorro de energía sale del arma y todos los seres que estén en esa línea recta deberán tirar Atletismo o Pelear para evitar ser golpeados por el rayo. La dificultad es la tirada de Disparar del portador del arma.
+
+El arma hace 3d10 de daño a todos los que fallen la tirada de esquivar. Los objetos que se pongan delante del rayo son pulverizados y le rayo puede atravesar paredes techos. Con una buena tirada de disparar podrían abrirse puertas en paredes, suelos y techos. Si se dispara a la mochila (-2 a Disparar) esta explota si recibe daño (Consistencia 12) haciendo 1d12+2 al portador bajando un nivel por cada 5 pies.
+
 ## La IM vuelve y viaje a la selva Negra
 xxx
 
