@@ -6,26 +6,33 @@
 [Versión PDF](https://mundoperdido.gwannon.com/pdf/)
 
 # Por hacer de la versión 0.9
-* Parte 8: Regreso al Mundo Perdido
+* Parte 5: Normandía (1)
+  * Sabotaje
+* Parte 8: Regreso al Mundo Perdido (5)
   * Carrera al Mundo perdido
   * Misión de rescate
   * Evitando un genocidio
   * Asociaciones peligrosas
   * Batalla del Mundo Perdido
-* Parte 9: La Selva Negra
-  * Los diamantes
-  * Viaje a la selva Negra
+* Parte 9: La Selva Negra (8)
+  * La IM vuelve y viaje a la selva Negra
   * El castillo de Hohenzollern
+    * Defensas exteriores
+    * Defensas interiores
+    * Patio del castillo
+    * Estancias interiores del castillo
+    * El laboratorio en el sótano
   * Batalla final
-  * Y ahora ¿qué va a pasar?
 
 ***
 
 # Changelog
 
-## Versión 0.8.1 En desarrollo
+## Versión 0.9 En desarrollo
+
+## Versión 0.8.1 En 03/10/2024
 * Creadas cajas con consejos para dirigir
-* Terminando la parte de "Sabotaje" de "Parte 5: Normandía"
+* Terminada la parte de "Los diamantes" de "Parte 8: Regreso al Mundo Perdido"
 * Terminada la parte de "El zepelín" de "Parte 8: Regreso al Mundo Perdido"
 
 ## Versión 0.8 en 03/10/2024

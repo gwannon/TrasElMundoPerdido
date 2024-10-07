@@ -2391,7 +2391,11 @@ Parece que los nazis no solo buscaban dinosaurios para su ejército, también bu
 
 Lo único que se salvó de la batalla fue el zepelín de von Liebenfels que llevaba algunos dinosaurios carnívoros y un gran cargamento de diamantes de las fumarolas de arcilla azul. La misión ha sido un desastre y Hitler no tendrá su ejército de saurios. Pero esos diamantes son lo que el Doctor Eckart lleva meses buscando para completar su rayo de la muerte.
 
-xxx
+Tras llegar a territorio nazi en la Europa continental y entregar la fortuna en diamantes a las SS, estos vieron que cumplían a la perfección las especificaciones que el Doctor Eckart había dado para la requisa de diamantes a prisioneros de guerra y presos de los campos de concentración. Según el zepelín repostó combustible y víveres y partió al interior de Alemania, al castillo de Hohenzollern en la Selva Negra, para llevar su preciosa carga al doctor.
+
+Cuando el Doctor Eckart vio la pureza y las características de los diamantes hizo un prototipo portátil que dio excelentes resultados en test de campo. Todo avaló todas las teorías que había desarrollado sobre su rayo desintegrador y se puso a fabricar su ingenio a gran escala. 
+
+A día de hoy, su rayo mortal esta casi al 95% y espera tenerlo en unos días. Lo que si ha podido es producir varias copias de su prototipo portatil que se han usado dentro de las defensas del castillo. 
 
 ## La IM vuelve y viaje a la selva Negra
 xxx
@@ -2438,7 +2442,9 @@ El zepelín de von Liebenfels está suspendido sobre el castillo de forma que pu
 
 En un momento de máximo dramatismo, incluso podrías hacer una escena en que von Liebenfels estrella su zepelín con él a los mandos contra tus comandos y sus saurios para tratar de detenerlos, mientras les grita en alemán todo tipo de consignas nazis y suena de fondo "La marcha de las valquirias" de Wagner. 
 
-Si ves que la presencia del zepelín, influye demasiado en los planes de ataque, puedes hacer que desaparezca o que se vaya haga rondas de vigilancia de varias horas de forma que no influya tanto en sus planes de ataque.  
+Si ves que la presencia del zepelín, influye demasiado en los planes de ataque, puedes hacer que desaparezca o que se vaya haga rondas de vigilancia de varias horas de forma que no influya tanto en sus planes de ataque. 
+
+Ya hemos hablado de las versiones portatiles del rayo desintegrador del Doctor Eckart, si fuera necesario puedes sustituir uno de las amatralladoras que porta por uno de estas mortales armas de rayos.
 
 ### Defensas exteriores
 xxx
@@ -2477,7 +2483,9 @@ xxx
 \saltopagina
 
 ## Y ahora ¿qué va a pasar?
-Pues realmente lo que tú quieras. Oficialmente la campaña ha acabado y tienes un relato salvaje titulado "Despedidas" que cubre como podría ser el final de la campaña cuando tus comandos devuelven a su entorno natural a sus saurios.
+Pues realmente lo que tú quieras. Recepción de la reina, medallas militares, asensos militares, becas de investigación, títulos de Sir y Dame, etc. Si tus comandos han llegado a hasta aquí se lo han currado y no deberías cortarte en contarles todo lo que ha traido su lucha y su victoria sobre las fuerzas nazis.
+
+Oficialmente la campaña ha acabado y tienes un relato salvaje titulado "Despedidas" que cubre como podría ser el final de la campaña cuando tus comandos devuelven a su entorno natural a sus saurios.
 
 Pero esta historia no tiene por qué acabar. La guerra no ha acabado y si como DJ quieres meter más aventuras, tienes semillas de aventuras que puedes usar o elaborar una trama, por ejemplo, en la que llegan a Berlín. 
 
