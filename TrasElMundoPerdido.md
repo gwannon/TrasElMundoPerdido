@@ -2226,7 +2226,7 @@ El general les explicará que el proyecto ha terminado abruptamente porque los n
 
 Les dará un par de días para sacar sus cosas de los restos de la Fundación, ya que a partir de ese momento IM pasará a controlar lo que ha quedado de la Fundación y clausurará sus instalaciones.
 
-En esta parte es importante que aunque no lo diga el general, les deje muy claro mediante indirectas que todo lo que ha pasado es culpa suya. Si hubieran hecho bien su trabajo esto no habría pasado. Si tratan de argumentar con todos los fallos de seguridad que han visto en las misiones por parte del IM o sus sospechas de espías y filtraciones desde la IM, Linton responderá que se hagan responsables de sus héroes y les acusará de ser todo culpa suya.
+En esta parte es importante que aunque no lo diga el general, les deje muy claro mediante indirectas que todo lo que ha pasado es culpa suya. Si hubieran hecho bien su trabajo esto no habría pasado. Si tratan de argumentar con todos los fallos de seguridad que han visto en las misiones por parte del IM o sus sospechas de espías y filtraciones desde la IM, Linton responderá que se hagan responsables de sus errores y les acusará de ser todo culpa suya.
 
 Tiene que seguir con la farsa incluso ahora por si hubiera espías. Está muy cerca de conseguir que Hitler siga quimeras por la selva venezolana y que miles de soldados que pudieran estar luchando en el frente se estén movilizando para llevar dinosaurios a Berlín.  
 
@@ -2252,6 +2252,8 @@ Por suerte no están solos. En sus misiones han hechos contactos, ayudado a gent
 * **Wayland.** Consiguió escaparse de los nazis, haciéndose pasar por un mozo de granja y escabulléndose cuando no miraban los guardias. Por supuesto que ayudará a tus comandos a matar nazis, de hecho, lo está deseando.
 * **Ibrahim Adauy.** Si Jocelyn se une al grupo, él se apuntará sin pensárselo.  
 * **Cualquier PNJ de tu propia cosecha que estuviera en la isla de Skye** es susceptible de haber escapado de los nazis y querer ayudar a tus comandos en su nueva misión. También pueden llamar a PNJ de todo Reino Unido, pero de más lejos no daría tiempo a contactar y a que estén en Skye antes de partir. 
+
+Si consiguen contactar con el campamento en la meseta de Maple White, quizás puedan estar preparados para la que se les viene encima. No son los suficientes para hacer frente a una escuadra nazi, ni hay muchos sitios donde esconderse, ni pueden huir ellos solos de la meseta y el viaje de semana hasta la civilización. Pero pueden esconder material y armas y algunos pueden irse a las cuevas de los sakalas para evitar ser atrapados.
 
 ***
 
@@ -2300,6 +2302,8 @@ Cuando el zepelín sobrevoló el Mundo Perdido descubrió el campamento de la Fu
 ```
 
 xxx
+
+El campamento no fue rival para el ejército nazi, pero pudo esconder ciertos recursos, como material médico y componentes de la radio suficiente para arreglar la original. 
 
 \saltopagina
 
@@ -2406,8 +2410,23 @@ Si tiene éxito un chorro de energía sale del arma y todos los seres que estén
 
 El arma hace 3d10 de daño a todos los que fallen la tirada de esquivar. Los objetos que se pongan delante del rayo son pulverizados y le rayo puede atravesar paredes techos. Con una buena tirada de disparar podrían abrirse puertas en paredes, suelos y techos. Si se dispara a la mochila (-2 a Disparar) esta explota si recibe daño (Consistencia 12) haciendo 1d12+2 al portador bajando un nivel por cada 5 pies.
 
-## La IM vuelve y viaje a la selva Negra
-xxx
+## La IM vuelve y viaje a la Selva Negra
+Cuando consigan restablecer las comunicaciones, arreglando la radio del campamento, recibirán noticias desde Inglaterra. El general Linton sabe que tus comandos están en la meseta de Maple White (de hecho casi lo esperaba) y quiere saber qué ha pasado. Sus espías han visto pasar el zepelín de von Liebenfels cruzando medía Europa camino a Berlín.
+
+Necesita saber qué ha pasado y que se ha llevado el zepelín de la meseta de Maple White. Tus comandos saben que tienen algunos ejemplares jóvenes de saurios y que descubrieron los diamantes del cieno azul. Pueden recordar las órdenes de entregar los diamantes de prisioneros de guerra y presos de campos de concentración al Doctor Eckart.
+
+En este momento pueden contarle todo a Linton que les hablará del Doctor Eckart y sus locuras o pueden callárselo porque el general no es de fiar. De hecho, como ya saben, lleva usando a tus comandos desde el día 1 y todo lo que han hecho durante meses era una farsa. 
+
+Si se vuelven confiar en Linton, se sincerará con tus comandos y confesará todo el plan de distraer a Hitler y sus fuerzas buscando seres fantásticos por toda Europa. Y les dice que tiene una última misión para ellos, truncar los planes del Doctor Eckart. Cuando crucen el Atlántico volverán a hablar.
+
+Si prefieren apagar la radio, Horace les contará todo lo que sabe del Doctor Eckart, de sus locos inventos y de su fortaleza en la Selva Negra. De hecho, los collares de control de los saurios es algo que Eckart inventaría. 
+
+Lo que van a averiguar de Linton o de Horace:
+
+* Eckart es un loco, pero muy listo si necesitaba diamantes es porque tenía algún tipo de arma de destrucción masiva que podría poner la balanza del lado de los nazis.
+* Eckart tiene saurios y seguramente experimentara con ellos sin importarle su salud y su sufrimiento. Si tiene que hacer una vivisección, la hará.
+
+Cuando lleguen a costas Europeas, Linton volverá a dar la carga. xxx
 
 \saltopagina
 
@@ -2445,6 +2464,8 @@ Si tus comandos tratan de no hacerles daño, deberías darles benis por sus acto
 Si consiguen romper los collares de entrenamiento, los saurios serán libres de hacer lo que quieran y normalmente será atacar a sus torturadores. Si se apunta a los collares (-6 al ataque) y pasan su consistencia de 8, el collar se estropeará y el mando de control será inútil.
 
 Los saurios carnívoros liberados atacarán a su jinete y seguramente escaparán. Los herbívoros se desharán del jinete y puede que se unan a la manada. Si se libera del control a un herbívoro, un compañero saurio herbívoro puede hacer una tirada de Espíritu para atraerlo a la manada y que combata con él. Si falla, el dinosaurio huirá del combate.
+
+Un par de ejemplares de saurios carnívoros jóvenes han sido llevados al zoo de Berlín, los han ocultado. Hitler los reserva para entrar en Londres montado en ellos. Puede ser una buena semilla de aventura, tras la campaña, que tus comandos rescaten esos saurios del zoo de Berlín antes de que entre el ejercito rojo.
 
 ### El zepelín
 El zepelín de von Liebenfels está suspendido sobre el castillo de forma que pueden usarlo como un recurso del que sacar unidades nazis. Si ves que los combates en las murallas y el patio son muy fáciles. Pueden descender soldados de todo tipo haciendo rápel o incluso podrían disparar con ametralladoras pesadas para barrer la zona de combate (hiriendo también a sus tropas).
