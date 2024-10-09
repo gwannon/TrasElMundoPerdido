@@ -2314,6 +2314,8 @@ El general von Liebenfels considera que los sakala de la meseta emponzoñan los 
 
 xxx
 
+Los sakalas son la fuerza de combate más importante de la meseta y sin conseguir su ayuda la batalla está abocada al fracaso. Así pues es fundamental salvarlos de los nazis y conseguir que se unan a tus comandos.
+
 \saltopagina
 
 ## Asociaciones peligrosas
@@ -2322,6 +2324,8 @@ Los pitecántropos libres son pocos pero su apoyo pueden ser fundamental para ex
 ```
 
 xxx
+
+Los pitecántropos no son ni muchos ni muy fuertes, pero si están en su terreno, el bosque, se vuelven muy peligrosos. Pueden moverse a gran velocidad, atacar por sorpresa desde los arboles y desaparecer en las copas por segundos. 
 
 \saltopagina
 
@@ -2487,6 +2491,7 @@ xxx
 \saltopagina
 
 ### Patio del castillo
+[![Primer plano de aguilas de bronce](./assests/images/hohenzollern-aguilas.jpg 'PxHere')](https://pxhere.com/es/photo/1003976 'PxHere')
 El patio del castillo es un gran espacio libre con una parte ajardinada donde aparca los camiones, coches y motos que usan las fuerzas nazis en la defensa del castillo. El suelo está adoquinado y los adoquines hay zonas donde están pulidos por el paso continuo de personas y vehículos. Permite a través de varias puertas acceder a las estancias interiores del castillo y tiene un gran roble centenario en su centro.
 
 Una tirada de Notar les permitirá encontrar una zona cuadrada de 5x5 metros que parece algún tipo de trampilla por la que podría salir algo o alguien. 
@@ -2505,11 +2510,11 @@ Estos oficiales nazis quieren seguir las antiguas tradiciones y han montado esta
 * **Atributos:** Agilidad d8, Astucia d6, Espíritu d6, Fuerza d8, Vigor d6
 * **Habilidades:** Atletismo d6, Cabalgar d8, Conducir d6, Conocimientos Generales d6, Disparar d8, Idioma alemán d6, Idioma Inglés d4, Intimidar d8, Notar d8, Pelear d10, Persuadir d6, Sigilo d6, Tácticas d6
 * **Paso:** 6; **Parada:** 9(2); **Dureza:** 5
-* **Ventajas:** Mando, Soldado, Bloqueo, Bloqueo mejorado
-* **Desventajas:** Obligaciones (mayor, ejército), Fanático (SS), Elige 1 (Avaricioso, Sanguinario, Vengativo, Sobreconfiado)
 
 \saltopagina
 
+* **Ventajas:** Mando, Soldado, Bloqueo, Bloqueo mejorado
+* **Desventajas:** Obligaciones (mayor, ejército), Fanático (SS), Elige 1 (Avaricioso, Sanguinario, Vengativo, Sobreconfiado)
 * **Equipo:** Lanza de caballería (FUE+d8, PA 2 cuando carga, Alcance 2, solo se puede usar montado), Camisote de malla (+3 torso y brazos), casco abierto (+4 cabeza), escudo medieval mediano (parada +2, cobertura -2)
 
 ### Estancias interiores del castillo
@@ -2533,17 +2538,18 @@ Al lado suyo está el Doctor Eckart montado en un alosaurio con barda y equipado
 Esta es la batalla final de esta aventura, el combate entre el bien y el mal. Si pierden los nazis ganarán la guerra con el nuevo arma del Doctor Eckart. Si ganan, el nazismo será derrotado y tus comandos y sus saurios serán los héroes invisibles de la mayor guerra de la historia.¿Hacia que lado se inclinará la balanza del destino? 
 ```
 
-La batalla final se jugará en el patio, un sitio ya conocido por tus comandos. Es difícil ocultarse, ya que es un espacio abierto sin obstáculos, pero pueden moverse hacia la zona ajardinada o parapetarse dentro de las estancias interiores y disparar desde las ventanas.  
-
-\saltopagina
-
 ### Reglas de la batalla
 
-* En principio, no hay apoyos. Ya han acabado con ellos por el camino, pero siempre está el zepelín.
-* El Doctor está embadurnado de un polímero de su invención que le da +3 a la armadura. Le da un aspecto brillante. Quizás puedan quitárselo con agua o similar.
-* xxx
+Veamos algunas reglas que puedes usar esta gran batalla final para hacerla más épica y apasionante.
 
 \saltopagina
+
+* La batalla final se jugará en el patio, un sitio ya conocido por tus comandos. Es difícil ocultarse, ya que es un espacio abierto sin obstáculos, pero pueden moverse hacia la zona ajardinada o parapetarse dentro de las estancias interiores y disparar desde las ventanas.  
+* El rayo destructor está cargándose y parece que esta apuntando a algún punto a cientos de kilómetros (Ciencias para tener una idea que apunta a Paris que acaba de ser liberada). Eso hace que tienen que desactivarlo en 10 turnos o lanzará su energía destructora. En 10 turnos, lanzará su rayo seguramente matando a cientos , sino miles de habitantes de Paris. Para parar el disparo hay que usar a llave de seguridad que lleva Eckart al cuello. 
+* En principio, no hay apoyos. Ya han acabado con ellos por el camino, pero siempre está el zepelín, del que puede bajar soldados o usar sus armas contra la gente del patio.
+* El Doctor está embadurnado de un polímero de su invención que le da +3 a la armadura y no le afecta la PA de las armas. Le da un aspecto brillante. Quizás puedan quitárselo con agua a presión do similar.
+* Si se destruye la palanca de control el alosaurio será libre y se tragará al Doctor Eckart.
+* No se puede negociar con Eckart, está demasiado ido para convencerle con la lógica, la persuasión o la intimidación.
 
 ### El hitlersaurio &#x2638;
 Este alosaurio modificado por el Doctor Eckart es una versión más agresiva y mortal de un alosaurio de la Meseta de Maple White, pero también menos inteligente. El collar de control ha sido sustituido por una especie de palanca con varios botones en la base del cuello, con la que el doctor dirige a esta poderosa bestia. Además sus manos sujetan dos rayos destructores y sus baterías se encuentran en su espalda. Las baterías tienen más protección, ya que no importa el peso (consistencia 16).
@@ -2556,6 +2562,10 @@ La expresión de dolor del saurio es fácilmente identificable por cualquiera qu
 * **Ventajas:** Nervios de Acero Mejorados
 * **Capacidades especiales:**
   * **Agresivo:** Son más agresivos, pero no tan hábiles debido a las malas condiciones en las que viven, con lo que tienen -1 a todas las tiradas de ataque y +2 al daño.
+
+\saltopagina
+
+* 
   * **Armadura +5:** Piel escamosa y dura. Además ha sido embadurnado de un polímero de invención del Doctor que hace aún más resistente. El polímero le da un toque brillante muy llamativo. Puede que el agua puedan disolver el polímero y quitarle esa protección.
   * **Mordisco:** FUE+d8+2.
   * **Rayos destructores:** Cada turno, adicionalmente a su ataque puede lanzar un rayo destructor, pero tienes que tirar al azar en que dirección sale (1d3 para elegir por que casilla delantera sale). Si quiere apuntar, entonces no podrá hacer el ataque normal.
@@ -2564,10 +2574,6 @@ La expresión de dolor del saurio es fácilmente identificable por cualquiera qu
   * **Grande:** +1 herida. Los enemigos de tamaño normal obtienen un +2 en tiradas de ataque contra ellos.
   * **Tamaño +6:** +6 a Dureza
   * **Pisotón:** Daño FUE. El pisotón del alosaurio cuenta como arma pesada. Un enemigo pisoteado debe realizar una tirada opuesta de FUE contra el alosaurio para liberarse. Mientras el alosaurio no se mueva, continuará causando daño de FUE a la víctima en cada ronda (aunque normalmente la morderá hasta matarla una vez que la tenga atrapada), y obtiene un +2 al golpe y al daño de su mordisco contra su presa.
-
-\saltopagina
-
-*
   * **Tragar entero:** Los alosaurios pueden tragarse enteras presas de Tamaño +1 o inferiores. Mientras está dentro del estómago, el objetivo es agarrado según el libro de reglas básico y sufre 2d6 de daño por asalto debido a los jugos digestivos, hasta que se lo come o le corta el estómago. La armadura no ofrece protección.
 
 ## Y ahora ¿qué va a pasar?
@@ -2576,6 +2582,8 @@ Pues realmente lo que tú quieras. Recepción de la reina, medallas militares, a
 Oficialmente la campaña ha acabado y tienes un relato salvaje titulado "Despedidas" que cubre como podría ser el final de la campaña cuando tus comandos devuelven a su entorno natural a sus saurios.
 
 Pero esta historia no tiene por qué acabar. La guerra no ha acabado y si como DJ quieres meter más aventuras, tienes semillas de aventuras que puedes usar o elaborar una trama, por ejemplo, en la que llegan a Berlín. 
+
+\saltopagina
 
 Como siempre si el tema de comandos con saurios te ha gustado, quizás puedas embarcarlos en alguna loca aventura pulp, como la búsqueda de la Atlántida o enfrentarlos a algún tipo de invasión extraterrestre o de horror cósmico. Nunca desdeñes la fuerza narrativa que tienen palabras como "Cthulhu vs. dinosaurios".
 
