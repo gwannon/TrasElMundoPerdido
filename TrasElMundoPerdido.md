@@ -2507,9 +2507,10 @@ Estos oficiales nazis quieren seguir las antiguas tradiciones y han montado esta
 * **Paso:** 6; **Parada:** 9(2); **Dureza:** 5
 * **Ventajas:** Mando, Soldado, Bloqueo, Bloqueo mejorado
 * **Desventajas:** Obligaciones (mayor, ejército), Fanático (SS), Elige 1 (Avaricioso, Sanguinario, Vengativo, Sobreconfiado)
-* **Equipo:** Lanza de caballería (FUE+d8, PA 2 cuando carga, Alcance 2, solo se puede usar montado), Camisote de malla (+3 torso y brazos), casco abierto (+4 cabeza), escudo medieval mediano (parada +2, cobertura -2)
 
 \saltopagina
+
+* **Equipo:** Lanza de caballería (FUE+d8, PA 2 cuando carga, Alcance 2, solo se puede usar montado), Camisote de malla (+3 torso y brazos), casco abierto (+4 cabeza), escudo medieval mediano (parada +2, cobertura -2)
 
 ### Estancias interiores del castillo
 xxx
@@ -2534,31 +2535,35 @@ Esta es la batalla final de esta aventura, el combate entre el bien y el mal. Si
 
 xxx
 
-#### Reglas de la batalla
+### Reglas de la batalla
 xxx
 
 \saltopagina
 
-#### El hitlersaurio &#x2638;
-xxx
+### El hitlersaurio &#x2638;
+Este alosaurio modificado por el Doctor Eckart es una versión más agresiva y mortal de un alosaurio de la Meseta de Maple White, pero también menos inteligente. El collar de control ha sido sustituido por una especie de palanca con varios botones en la base del cuello, con la que el doctor dirige a esta poderosa bestia. Además sus manos sujetan dos rayos destructores y sus baterías se encuentran en su espalda. Las baterías tienen más protección, ya que no importa el peso (consistencia 16).
+
+La expresión de dolor del saurio es fácilmente identificable por cualquiera que haya tenido trato con estos animales. Es fácil pensar que si se destruye la palanca de control del alosaurio (-6 a Disparar, consistencia 8) se volverá contra su jinete de forma más brutal posible.
 
 * **Atributos:** Agilidad d6, Astucia d4 (A), Espíritu d12, Fuerza d12+6, Vigor d10
-* **Habilidades:** Atletismo d6, Intimidar d12, Notar d4, Pelear d8, Supervivencia d6
-* **Paso:** 8; **Parada:** 6; **Dureza:** 17(3)
+* **Habilidades:** Atletismo d6, Intimidar d12+1, Notar d4, Pelear d8, Supervivencia d6
+* **Paso:** 8; **Parada:** 6; **Dureza:** 19(5)
 * **Ventajas:** Nervios de Acero Mejorados
 * **Capacidades especiales:**
-  * **Agresivos:** Son más agresivos, pero no tan hábiles debido a las malas condiciones en las que viven, con lo que tienen -1 a todas las tiradas de ataque y +2 al daño.
-  * **Armadura +3:** Piel escamosa y dura.
+  * **Agresivo:** Son más agresivos, pero no tan hábiles debido a las malas condiciones en las que viven, con lo que tienen -1 a todas las tiradas de ataque y +2 al daño.
+  * **Armadura +5:** Piel escamosa y dura. Además ha sido embadurnado de un polímero de invención del Doctor que hace aún más resistente. El polímero le da un toque brillante muy llamativo.
   * **Mordisco:** FUE+d8+2.
-  * **Rayos destructores:** xxx
+  * **Rayos destructores:** Cada turno, adicionalmente a su ataque puede lanzar un rayo destructor, pero tienes que tirar al azar en que dirección sale (1d3 para elegir por que casilla delantera sale). Si quiere apuntar, entonces no podrá hacer el ataque normal.
   * **Miedo -2:** Quien vea un poderoso alosaurio deberá hacer una tirada contra miedo con una penalización de -2.
   * **Impávido:** Es inmune a las tiradas de miedo e Intimidar.
   * **Grande:** +1 herida. Los enemigos de tamaño normal obtienen un +2 en tiradas de ataque contra ellos.
   * **Tamaño +6:** +6 a Dureza
   * **Pisotón:** Daño FUE. El pisotón del alosaurio cuenta como arma pesada. Un enemigo pisoteado debe realizar una tirada opuesta de FUE contra el alosaurio para liberarse. Mientras el alosaurio no se mueva, continuará causando daño de FUE a la víctima en cada ronda (aunque normalmente la morderá hasta matarla una vez que la tenga atrapada), y obtiene un +2 al golpe y al daño de su mordisco contra su presa.
-  * **Tragar entero:** Los alosaurios pueden tragarse enteras presas de Tamaño +1 o inferiores. Mientras está dentro del estómago, el objetivo es agarrado según el libro de reglas básico y sufre 2d6 de daño por asalto debido a los jugos digestivos, hasta que se lo come o le corta el estómago. La armadura no ofrece protección.
 
 \saltopagina
+
+*
+  * **Tragar entero:** Los alosaurios pueden tragarse enteras presas de Tamaño +1 o inferiores. Mientras está dentro del estómago, el objetivo es agarrado según el libro de reglas básico y sufre 2d6 de daño por asalto debido a los jugos digestivos, hasta que se lo come o le corta el estómago. La armadura no ofrece protección.
 
 ## Y ahora ¿qué va a pasar?
 Pues realmente lo que tú quieras. Recepción de la reina, medallas militares, asensos militares, becas de investigación, títulos de Sir y Dame, etc. Si tus comandos han llegado a hasta aquí se lo han currado y no deberías cortarte en contarles todo lo que ha traído su lucha y su victoria sobre las fuerzas nazis.
