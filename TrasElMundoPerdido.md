@@ -2487,17 +2487,17 @@ xxx
 \saltopagina
 
 ### Patio del castillo
-xxx
+El patio del castillo es un gran espacio libre donde aparca los camiones, coches y motos que usan las fuerzas nazis en la defensa del castillo. El suelo está adoquinado  y los adoquines hay zonas donde están pulidos por el paso continuo de personas y vehículos. Permite a través de varias puertas acceder a las estancias interiores del castillo y tiene un gran pozo en un de los laterales. 
 
-El patio es el lugar perfecto para cambiar el estilo de combate y si lo deseas puedes montar una especie de justa a muerte. 
+Puedes hacer un combate tipo escaramuza contra 3 soldados y un oficial por comando y saurio, entre los cuales habrá por lo menos 3 soldados con rayos mortales del Doctor Eckart. Pero quizás haya otras opciones mucho más interesantes. El patio es un lugar perfecto para cambiar el estilo de combate y si lo deseas puedes montar una especie de justa a muerte. 
 
-Varios oficiales nazis tendrán el control de dos alosaurios y han decidido ponerse partes de armaduras del castillo y unas lanzas de caballería. Estarán armados en mitad del patio y sobre sus monturas dinosaurio esperando a tus comandos. 
+Cuando consigan llegar al patio podrán ver a varios oficiales nazis tendrán el control de dos alosaurios y han decidido ponerse partes de armaduras del castillo y unas lanzas de caballería. Estarán armados en mitad del patio y sobre sus monturas dinosaurio esperando a tus comandos. 
 
 Si tus comandos disponen de alosaurios o megalosaurios se establecerá con unos cruces de miradas un acuerdo tácito entre los oficiales nazis y tus comandos para hacer una justa. Los caballeros nazis entregarán algo de equipo (lanzas y escudos) a tus comandos.
 
 El equipo que gane la justa ganará el combate y se espera que nadie interfiera en los lances de la justa ni haga cosas raras, como tender trampas o sucias estrategias del estilo. La justa decidirá quien gana, pero a diferencia será a inconsciencia o muerte. Si no puedes montar o mueres pierdes la justa. No hay puntos, solo honor y sangre.
 
-#### Caballero nazi
+#### Caballero nazi &#x2638;
 Estos oficiales nazis quieren seguir las antiguas tradiciones y han montado esta justa improvisada. Se han armado con equipo del castillo y tienen una armadura de malla, un escudo y lanza.
 
 * **Atributos:** Agilidad d8, Astucia d6, Espíritu d6, Fuerza d8, Vigor d6
