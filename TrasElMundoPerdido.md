@@ -2487,7 +2487,9 @@ xxx
 \saltopagina
 
 ### Patio del castillo
-El patio del castillo es un gran espacio libre donde aparca los camiones, coches y motos que usan las fuerzas nazis en la defensa del castillo. El suelo está adoquinado  y los adoquines hay zonas donde están pulidos por el paso continuo de personas y vehículos. Permite a través de varias puertas acceder a las estancias interiores del castillo y tiene un gran pozo en un de los laterales. 
+El patio del castillo es un gran espacio libre con una parte ajardinada donde aparca los camiones, coches y motos que usan las fuerzas nazis en la defensa del castillo. El suelo está adoquinado y los adoquines hay zonas donde están pulidos por el paso continuo de personas y vehículos. Permite a través de varias puertas acceder a las estancias interiores del castillo y tiene un gran roble centenario en su centro.
+
+Una tirada de Notar les permitirá encontrar una zona cuadrada de 5x5 metros que parece algún tipo de trampilla por la que podría salir algo o alguien. 
 
 Puedes hacer un combate tipo escaramuza contra 3 soldados y un oficial por comando y saurio, entre los cuales habrá por lo menos 3 soldados con rayos mortales del Doctor Eckart. Pero quizás haya otras opciones mucho más interesantes. El patio es un lugar perfecto para cambiar el estilo de combate y si lo deseas puedes montar una especie de justa a muerte. 
 
@@ -2517,9 +2519,13 @@ El doctor Eckart tiene una pequeña pinacoteca de 10 cuadros en el comedor princ
 \saltopagina
 
 ### El laboratorio en el sótano
-xxx
+En el ala norte del castillo, hay unas escaleras que lleva a la bodega del castillo. Una vez tuvo una de las mejores vinos de Europa en sus estantes, pero el Doctor Eckart lo ha convertido en su laboratorio.
 
-\saltopagina
+La bodega aprovechó unas cuevas naturales y tiene una altura de unos 5 metros y parte de la bodega es natural y parte ha sido excavada. El laboratorio está lleno de equipo científico carísimo en mesas, miles de probetas con todo tipo de productos químicos humeantes, aparatos lanzando arcos voltaicos, etc. Un comando con conocimientos científicos podrá montar cualquier cosa rápida con ese equipo. Hablamos de explosivos, gases mortales, etc.
+
+Al final de la cueva hay una especie de plataforma elevadora con una gran estructura metálica con una parabólica de 2 metros de radio llena de diamantes. Una tirada de Ciencias les confirmará que es la versión gigantesca de los rayos destructores portátiles que han visto hasta ahora. Las bordes de parabolica se está iluminando y por experiencias anteriores eso significa que se prepara para disparar, cuando  
+
+Al lado suyo está el Doctor Eckart montado en un alosaurio con barda y equipado con dos rayos destructores en cada brazo. Cuando les vea entrar, hará el saludo nazi, accionara un mando y la plataforma elevadora lo sacará al patio. Si intentan disparar los disparos chocaran contra el cristal blindado que rodea la plataforma elevadora.
 
 ## La batalla final
 ```
@@ -2527,6 +2533,30 @@ Esta es la batalla final de esta aventura, el combate entre el bien y el mal. Si
 ```
 
 xxx
+
+#### Reglas de la batalla
+xxx
+
+\saltopagina
+
+#### El hitlersaurio &#x2638;
+xxx
+
+* **Atributos:** Agilidad d6, Astucia d4 (A), Espíritu d12, Fuerza d12+6, Vigor d10
+* **Habilidades:** Atletismo d6, Intimidar d12, Notar d4, Pelear d8, Supervivencia d6
+* **Paso:** 8; **Parada:** 6; **Dureza:** 17(3)
+* **Ventajas:** Nervios de Acero Mejorados
+* **Capacidades especiales:**
+  * **Agresivos:** Son más agresivos, pero no tan hábiles debido a las malas condiciones en las que viven, con lo que tienen -1 a todas las tiradas de ataque y +2 al daño.
+  * **Armadura +3:** Piel escamosa y dura.
+  * **Mordisco:** FUE+d8+2.
+  * **Rayos destructores:** xxx
+  * **Miedo -2:** Quien vea un poderoso alosaurio deberá hacer una tirada contra miedo con una penalización de -2.
+  * **Impávido:** Es inmune a las tiradas de miedo e Intimidar.
+  * **Grande:** +1 herida. Los enemigos de tamaño normal obtienen un +2 en tiradas de ataque contra ellos.
+  * **Tamaño +6:** +6 a Dureza
+  * **Pisotón:** Daño FUE. El pisotón del alosaurio cuenta como arma pesada. Un enemigo pisoteado debe realizar una tirada opuesta de FUE contra el alosaurio para liberarse. Mientras el alosaurio no se mueva, continuará causando daño de FUE a la víctima en cada ronda (aunque normalmente la morderá hasta matarla una vez que la tenga atrapada), y obtiene un +2 al golpe y al daño de su mordisco contra su presa.
+  * **Tragar entero:** Los alosaurios pueden tragarse enteras presas de Tamaño +1 o inferiores. Mientras está dentro del estómago, el objetivo es agarrado según el libro de reglas básico y sufre 2d6 de daño por asalto debido a los jugos digestivos, hasta que se lo come o le corta el estómago. La armadura no ofrece protección.
 
 \saltopagina
 

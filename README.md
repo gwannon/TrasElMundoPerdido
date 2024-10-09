@@ -14,13 +14,12 @@
   * Evitando un genocidio
   * Asociaciones peligrosas
   * Batalla del Mundo Perdido
-* Parte 9: La Selva Negra (7)
+* Parte 9: La Selva Negra (6)
   * La IM vuelve y viaje a la selva Negra
   * El castillo de Hohenzollern
     * Defensas exteriores
     * Defensas interiores
     * Estancias interiores del castillo
-    * El laboratorio en el sótano
   * Batalla final
 
 ***
@@ -28,6 +27,7 @@
 # Changelog
 
 ## Versión 0.9 En desarrollo
+* Terminada la parte de "El laboratorio en el sótano" de "Parte 9: La Selva Negra"
 * Terminada la parte de "Patio del castillo" de "Parte 9: La Selva Negra"
 
 ## Versión 0.8.1 En 03/10/2024
