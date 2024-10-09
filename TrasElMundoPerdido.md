@@ -2533,10 +2533,15 @@ Al lado suyo está el Doctor Eckart montado en un alosaurio con barda y equipado
 Esta es la batalla final de esta aventura, el combate entre el bien y el mal. Si pierden los nazis ganarán la guerra con el nuevo arma del Doctor Eckart. Si ganan, el nazismo será derrotado y tus comandos y sus saurios serán los héroes invisibles de la mayor guerra de la historia.¿Hacia que lado se inclinará la balanza del destino? 
 ```
 
-xxx
+La batalla final se jugará en el patio, un sitio ya conocido por tus comandos. Es difícil ocultarse, ya que es un espacio abierto sin obstáculos, pero pueden moverse hacia la zona ajardinada o parapetarse dentro de las estancias interiores y disparar desde las ventanas.  
+
+\saltopagina
 
 ### Reglas de la batalla
-xxx
+
+* En principio, no hay apoyos. Ya han acabado con ellos por el camino, pero siempre está el zepelín.
+* El Doctor está embadurnado de un polímero de su invención que le da +3 a la armadura. Le da un aspecto brillante. Quizás puedan quitárselo con agua o similar.
+* xxx
 
 \saltopagina
 
@@ -2551,7 +2556,7 @@ La expresión de dolor del saurio es fácilmente identificable por cualquiera qu
 * **Ventajas:** Nervios de Acero Mejorados
 * **Capacidades especiales:**
   * **Agresivo:** Son más agresivos, pero no tan hábiles debido a las malas condiciones en las que viven, con lo que tienen -1 a todas las tiradas de ataque y +2 al daño.
-  * **Armadura +5:** Piel escamosa y dura. Además ha sido embadurnado de un polímero de invención del Doctor que hace aún más resistente. El polímero le da un toque brillante muy llamativo.
+  * **Armadura +5:** Piel escamosa y dura. Además ha sido embadurnado de un polímero de invención del Doctor que hace aún más resistente. El polímero le da un toque brillante muy llamativo. Puede que el agua puedan disolver el polímero y quitarle esa protección.
   * **Mordisco:** FUE+d8+2.
   * **Rayos destructores:** Cada turno, adicionalmente a su ataque puede lanzar un rayo destructor, pero tienes que tirar al azar en que dirección sale (1d3 para elegir por que casilla delantera sale). Si quiere apuntar, entonces no podrá hacer el ataque normal.
   * **Miedo -2:** Quien vea un poderoso alosaurio deberá hacer una tirada contra miedo con una penalización de -2.
