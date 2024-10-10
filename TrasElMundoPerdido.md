@@ -2323,19 +2323,45 @@ Los sakalas son la fuerza de combate más importante de la meseta y sin consegui
 Los pitecántropos libres son pocos pero su apoyo pueden ser fundamental para expulsar a los nazis de la meseta. El problema es lo que pedirán ellos a cambio. 
 ```
 
-[![Detalle de la cara de un pitecántropo](./assests/images/cara-pitecantropo.jpg 'Reconstruction of a female H. erectus - Tim Evanson - https://www.flickr.com/photos/timevanson/7283200708/in/photostream/')](https://en.wikipedia.org/wiki/Homo_erectus#/media/File:Homo.erectus.adult.female.smithsonian.timevanson.flickr.jpg 'Reconstruction of a female H. erectus - Tim Evanson - https://www.flickr.com/photos/timevanson/7283200708/in/photostream/')
+Si tus comandos visitan la reserva de los pitecántropos, encontrarán una comunidad de unos 60 seres que han construido sus nidos/casas en los árboles alrededor de un claro del bosque. Los seres crueles y violentos que describían las historias de Lord Roxton no representa a este grupo, que parece que está empezando a descubrir la artesanía básica y empiezan a controlar el fuego. Tampoco parece que hayan vuelto a hacer sacrificios humanos y parecen bastante hospitalarios.
 
-Si tus comandos xxx
+Alguna persona del campamento podrá ser usada de traductor. Así que podrán hablar con Madas, la matriarca del clan. La comunicación no será fácil, pero para dar su ayuda a tus comandos, su cabecilla lo que les exige son rifles y munición. Saben por propia experiencia del poder de las armas de fuego y quieren ese poder para ellos. Conseguirles algunas armas de fuego no debería ser problema, es una cuestión más ética y moral.
 
-La comunicación no es fácil, pero para dar su ayuda a tus comandos su cabecilla lo que les exige son rifles y munición. Saben por propia experiencia del poder de las armas de fuego y quieren ese poder para ellos. Conseguirles algunas armas más no debería ser problema, es una cuestión más ética y moral.
+Según Madas, el poder extra que dar los rifles es la única forma de poder proteger a su gente de la violenta naturaleza de la meseta. Ahora mismo están en lo más bajo de la cadena alimentaria y esas armas les podrían dar una posición más ventajosa.
 
-Según su cabecilla, el poder extra es la única forma de poder proteger a su gente de la violenta naturaleza de la meseta. Ahora mismo están en lo más bajo de la cadena alimentaria y esas armas les podrían dar una posición más ventajosa.
+¿Deben darles acceso a una tecnología tan avanzada a unos seres tan primitivos y que saben a ciencia cierta que son malvados? Recordemos que disfrutaban sacrificando a humanos tirándolos por el acantilado de la meseta sobre unas piedras puntiagudas. Pero está claro que han podido volverse mejores y haber aprendido de sus errores y las armas de fuego son su única forma de supervivencia en un mundo tan peligroso como este mundo perdido. 
 
-¿Deben darles acceso a una tecnología tan avanzada a unos seres tan primitivos y que saben a ciencia cierta que son malvados? Recordemos que disfrutaban sacrificando a humanos tirándolos por el acantilado de la meseta sobre unas piedras puntiagudas. Pero está claro que han podido volverse mejores y haber aprendido de sus errores y las armas de fuego son su única forma de supervivencia en un mundo tan peligroso como este mundo perdido.
+Madas no va a usar para el mal esas armas, solo es una forma de proteger a su gente, pero tus comandos no pueden saberlo (solo ver las pistas) y tendrán que decidir si darles una segunda oportunidad 
 
 También tendrán que decidir si les entregan las armas antes o después de la gran batalla. Pero después de la batalla no tendrá casi importancia porque estarán todos muertos o podrán cogerlos de los cuerpos muertos de aliados y nazis.
 
-Los pitecántropos no son ni muchos ni muy fuertes, pero si están en su terreno, el bosque, se vuelven muy peligrosos. Pueden moverse a gran velocidad, atacar por sorpresa desde los árboles y desaparecer en las copas por segundos. 
+Los pitecántropos no son ni muchos ni muy fuertes, pero si están en su terreno, el bosque, se vuelven muy peligrosos. Pueden moverse a gran velocidad, atacar por sorpresa desde los árboles y desaparecer en las copas por segundos. Madas puede reunir unos 30 combatientes que pueden dar un token a tus comandos en la batalla. 
+
+\saltopagina
+
+### Madas, matriarca del clan de pitecántropos &#x2638;
+
+[![Detalle de la cara de un pitecántropo](./assests/images/cara-pitecantropo.jpg 'Reconstruction of a female H. erectus - Tim Evanson - https://www.flickr.com/photos/timevanson/7283200708/in/photostream/')](https://en.wikipedia.org/wiki/Homo_erectus#/media/File:Homo.erectus.adult.female.smithsonian.timevanson.flickr.jpg 'Reconstruction of a female H. erectus - Tim Evanson - https://www.flickr.com/photos/timevanson/7283200708/in/photostream/')
+
+Madas, es la matriarca del clan de pitecántropos de la meseta. A diferencia de sus predecesores, ha preferido usar la inteligencia y la diplomacia a la fuerza, reservando esta última solo para protegerse de los peligros que acechan entre el follaje del mundo perdido.
+
+Madas es más lista que la media y puede ser una buena negociante aun así tu pensamiento es muy lineal y no entiende ironías o sarcasmos y en caso de mentir son mentiras muy básicas. A pesar de todo, no podrán engañarla, si no le prometen las armas no llevará a su gente a la guerra.
+
+En la batalla Madas, como su gente, es brutal, pero nunca permitirá atacar y matar a enemigos que se hayan rendido. Quiere aprovechar la oportunidad de dejar claro que son peligrosos, pero solo si se les ataca. 
+
+* **Atributos:** Agilidad d10, Astucia d8, Espíritu d8, Fuerza d8, Vigor d8
+* **Habilidades:** Atletismo d10, Notar d8, Pelear d8, Persuadir d6, Sigilo d6, Supervivencia d8
+* **Paso:** 6; **Parada:** 5; **Dureza:** 7(1)
+* **Ventajas:** Acróbata, Mando
+* **Desventajas:** Heroico (mayor)
+* **Equipo:** Garrote endurecido (FUE+d6)
+* **Capacidades especiales:**
+  * **Armadura +1:** Piel dura como el cuero curtido. 
+  * **Mordisco:** FUE+d4 de daño.
+  * **Vista y oído agudo.** Su buena vista y oído le da +2 a las tiradas de Notar y Supervivencia que impliquen vista u oído.
+  * **Buen trepador:** Paso 8 trepando. Los pitecántropos pasan gran parte de su vida en los árboles y su cuerpo está adaptado a ello. Añaden +2 a sus tiradas de Atletismo cuando trepan.
+
+**Sugerencia de interpretación:** Gruñe, chilla y haz ruidos raros. Gesticula sin mucho sentido y golpea la mesa. Si cree que puede ser divertido para todos lanza los ganchitos que tengais por la mesa.
 
 \saltopagina
 
@@ -2343,9 +2369,12 @@ Los pitecántropos no son ni muchos ni muy fuertes, pero si están en su terreno
 ```
 La gran ventaja que tiene la gente de la Fundación en su lucha contra las tropas nazis es que conocen el terreno. Saben por donde moverse y por donde no. Y pueden intentar montones de tretas que les darían ventaja en la batalla. 
 ```
+
 Veamos algunos ejemplos de uso interesante del terreno.
-* Pueden tratar de meter a las tropas nazis en terrenos pantanosos para que pierdan unidades, tanto de soldados como de vehículos.
-* Pueden tratar de provocar una estampida de dinosaurios herbívoros y lanzarlos contra la línea del frente nazi. Para crear la estampida deberán usar saurios carnívoros que espanten a los herbívoros. Y deberán conseguir xxx para generar la estampida. Cada carnívoro puede controlar a 5 herbívoros y cada herbivoro puede pisotear a 2 soldados.
+
+* **Terreno pantanoso:** Pueden tratar de meter a las tropas nazis en terrenos pantanosos para que pierdan unidades, tanto de soldados como de vehículos. Si consiguen que la gran batalla sea en terreno pantanoso las tropas de tus comandos no tendrán tanto problema como la fuerzas nazis y sus vehículos blindados que se hundirán en el fango. Puedes quitar un token al lado nazi si esto sucede. 
+* **Estampida de dinosaurios:** Pueden tratar de provocar una estampida de dinosaurios herbívoros y lanzarlos contra la línea del frente nazi. Para crear la estampida deberán usar saurios carnívoros que primero reúnan y luego espanten a los herbívoros. Necesitarán un día de trabajo y podrán hacer 5 tiradas de Cabalgar por comando y saurio carnívoro. Si consiguen 5 tiradas exitosas (los avances cuentan como otro éxito) en un día, reunirán una buena manada que podrán lanzar en la batalla y les dará un token siguiendo las reglas de batalla. 
+* **Fumarolas:** La meseta es una zona volcánica activa y hay muchas fumarolas que emiten extraños líquidos y gases. Tus comandos podrían diseñar (Ciencias) y construir (Reparar) algún tipo de explosivo o fuego griego y usarlo en combate. Si ponen a algún equipo (sakalas, campamento, etc.) a trabajar dos días enteros pueden conseguir un token extra.
 * xxx
 
 \saltopagina
@@ -2355,13 +2384,13 @@ Veamos algunos ejemplos de uso interesante del terreno.
 Solo un un milagro permitirá a tus comandos y sus salvajes aliados ganar la batalla final contra las fuerzas de von Liebenfels, pero si han de morir que sea a lo grande y matando nazis.
 ```
 
-El general von Liebenfels contará con 100 hombres y 4 carros de combate cuando lleguen tus comandos y cada dos días recibirá 20 soldados más y un carro de combate que el zepelín traerá del grueso de la expedición nazi que está llegando desde la costa.
+El general von Liebenfels contará con 100 hombres y 4 carros (4 tokens) de combate cuando lleguen tus comandos y cada dos días recibirá 20 soldados más y un carro de combate (1 token extra) que el zepelín traerá del grueso de la expedición nazi que está llegando desde la costa.
 
-La única forma de subir tropas a la meseta es mediante el zepeĺín, así que es un recurso muy importante y muy vigilado y von Liebenfels sabe que si lo pierde, él y sus tropas están aisladas.
+La única forma de subir tropas a la meseta es mediante el zepelín, así que es un recurso muy importante y muy vigilado y von Liebenfels sabe que si lo pierde, él y sus tropas están aisladas.
 
 Tus comandos sabrán todo esto por la gente del campamento que ha estado observando las idas y venidas del zepelín y los soldados y vehículos que han traído, mientras eran prisioneros.
 
-Tus comandos deberán calcular cuanto les llevará reclutar a cada grupo, tender trampas o preparar estrategias y decidir si siguen con esos trabajos o se lanzan a la batalla, porque cada dos días su enemigo se hace más grandes y poderoso.
+Tus comandos deberán calcular cuanto les llevará reclutar a cada grupo, tender trampas o preparar estrategias y decidir si siguen con esos trabajos o se lanzan a la batalla, porque cada dos días su enemigo se hace más grandes y poderoso. Han de tener en cuenta que el comando ya cuenta como un token frente a los 4 con los que empiezan las nazis.
 
 xxx
 
@@ -2404,7 +2433,7 @@ Como hemos dicho antes, la posibilidad de éxito es factible. Puede que tus coma
 
 El resultado de muchas de las acciones anteriores contra el zepelín serán caídas al vacío que deberían ser mortales. Como todos sabemos en el pulp los héroes y las heroínas no mueren en caídas, siempre pasa algo y se salvan.
 
-Puedes salvarles de muchas formas. Un pteranodonte que lo agarra en plena caída o caer sobre árboles y llevarse algo de daño pero sin ser mortal. Quizás el resto de comandos han creado un colchón para su caída o si quieres alguno de los geysers de la zona volcánica explota en el momento justo y le salva.
+Puedes salvarles de muchas formas. Un pteranodonte que lo agarra en plena caída o caer sobre árboles y llevarse algo de daño pero sin ser mortal. Quizás el resto de comandos han creado un colchón para su caída o si quieres alguno de los géiser de la zona volcánica explota en el momento justo y le salva.
 
 \saltopagina
 
@@ -2520,7 +2549,7 @@ xxx
 \saltopagina
 
 ### Patio del castillo
-[![Primer plano de aguilas de bronce](./assests/images/hohenzollern-aguilas.jpg 'PxHere')](https://pxhere.com/es/photo/1003976 'PxHere')
+[![Primer plano de águilas de bronce](./assests/images/hohenzollern-aguilas.jpg 'PxHere')](https://pxhere.com/es/photo/1003976 'PxHere')
 El patio del castillo es un gran espacio libre con una parte ajardinada donde aparca los camiones, coches y motos que usan las fuerzas nazis en la defensa del castillo. El suelo está adoquinado y los adoquines hay zonas donde están pulidos por el paso continuo de personas y vehículos. Permite a través de varias puertas acceder a las estancias interiores del castillo y tiene un gran roble centenario en su centro.
 
 Una tirada de Notar les permitirá encontrar una zona cuadrada de 5x5 metros que parece algún tipo de trampilla por la que podría salir algo o alguien. 
@@ -2558,7 +2587,7 @@ En el ala norte del castillo, hay unas escaleras que lleva a la bodega del casti
 
 La bodega aprovechó unas cuevas naturales y tiene una altura de unos 5 metros y parte de la bodega es natural y parte ha sido excavada. El laboratorio está lleno de equipo científico carísimo en mesas, miles de probetas con todo tipo de productos químicos humeantes, aparatos lanzando arcos voltaicos, etc. Un comando con conocimientos científicos podrá montar cualquier cosa rápida con ese equipo. Hablamos de explosivos, gases mortales, etc.
 
-Al final de la cueva hay una especie de plataforma elevadora con una gran estructura metálica con una parabólica de 2 metros de radio llena de diamantes. Una tirada de Ciencias les confirmará que es la versión gigantesca de los rayos destructores portátiles que han visto hasta ahora. Las bordes de parabolica se está iluminando y por experiencias anteriores eso significa que se prepara para disparar, cuando  
+Al final de la cueva hay una especie de plataforma elevadora con una gran estructura metálica con una parabólica de 2 metros de radio llena de diamantes. Una tirada de Ciencias les confirmará que es la versión gigantesca de los rayos destructores portátiles que han visto hasta ahora. Las bordes de parabólica se está iluminando y por experiencias anteriores eso significa que se prepara para disparar, cuando  
 
 Al lado suyo está el Doctor Eckart montado en un alosaurio con barda y equipado con dos rayos destructores en cada brazo. Cuando les vea entrar, hará el saludo nazi, accionara un mando y la plataforma elevadora lo sacará al patio. Si intentan disparar los disparos chocaran contra el cristal blindado que rodea la plataforma elevadora.
 
@@ -2574,7 +2603,7 @@ Veamos algunas reglas que puedes usar esta gran batalla final para hacerla más 
 \saltopagina
 
 * La batalla final se jugará en el patio, un sitio ya conocido por tus comandos. Es difícil ocultarse, ya que es un espacio abierto sin obstáculos, pero pueden moverse hacia la zona ajardinada o parapetarse dentro de las estancias interiores y disparar desde las ventanas.  
-* El rayo destructor está cargándose y parece que esta apuntando a algún punto a cientos de kilómetros (Ciencias para tener una idea que apunta a Paris que acaba de ser liberada). Eso hace que tienen que desactivarlo en 10 turnos o lanzará su energía destructora. En 10 turnos, lanzará su rayo seguramente matando a cientos , sino miles de habitantes de Paris. Para parar el disparo hay que usar a llave de seguridad que lleva Eckart al cuello. 
+* El rayo destructor está cargándose y parece que está apuntando a algún punto a cientos o miles de kilómetros (Ciencias para tener una idea que apunta a París que acaba de ser liberada) y puede hacer una gran masacre. Eso hace que tienen que desactivarlo en 10 turnos (o más según veas) o lanzará su energía destructora. Para parar el disparo hay que usar a llave de seguridad que lleva Eckart al cuello. Recuérdales lo que pasa cuando explota la versión portátil del rayo, si quieren destruirlo el prototipo gigante. 
 * En principio, no hay apoyos. Ya han acabado con ellos por el camino, pero siempre está el zepelín, del que puede bajar soldados o usar sus armas contra la gente del patio.
 * El Doctor está embadurnado de un polímero de su invención que le da +3 a la armadura y no le afecta la PA de las armas. Le da un aspecto brillante. Quizás puedan quitárselo con agua a presión do similar.
 * Si se destruye la palanca de control el alosaurio será libre y se tragará al Doctor Eckart.
@@ -2597,7 +2626,7 @@ La expresión de dolor del saurio es fácilmente identificable por cualquiera qu
 * 
   * **Armadura +5:** Piel escamosa y dura. Además ha sido embadurnado de un polímero de invención del Doctor que hace aún más resistente. El polímero le da un toque brillante muy llamativo. Puede que el agua puedan disolver el polímero y quitarle esa protección.
   * **Mordisco:** FUE+d8+2.
-  * **Rayos destructores:** Cada turno, adicionalmente a su ataque puede lanzar un rayo destructor, pero tienes que tirar al azar en que dirección sale (1d3 para elegir por que casilla delantera sale). Si quiere apuntar, entonces no podrá hacer el ataque normal.
+  * **Rayos destructores:** Cada turno, adicionalmente a su ataque puede lanzar un rayo destructor, pero tienes que tirar al azar en que dirección sale (1d3 para elegir por cuál casilla delantera sale). Si quiere apuntar, entonces no podrá hacer el ataque normal.
   * **Miedo -2:** Quien vea un poderoso alosaurio deberá hacer una tirada contra miedo con una penalización de -2.
   * **Impávido:** Es inmune a las tiradas de miedo e Intimidar.
   * **Grande:** +1 herida. Los enemigos de tamaño normal obtienen un +2 en tiradas de ataque contra ellos.

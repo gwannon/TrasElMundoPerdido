@@ -318,3 +318,7 @@ cowgirls
 PA
 1d12
 3d10
+Madas
+tokens
+token
+1d3

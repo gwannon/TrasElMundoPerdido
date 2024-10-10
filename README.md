@@ -10,11 +10,10 @@
 ## Versión 0.9 En desarrollo
 * Parte 5: Normandía (1)
   * Sabotaje
-* Parte 8: Regreso al Mundo Perdido (6)
+* Parte 8: Regreso al Mundo Perdido (5)
   * Carrera al Mundo perdido
   * Misión de rescate
   * Evitando un genocidio
-  * Asociaciones peligrosas
   * Aprovechando el terreno
   * Batalla del Mundo Perdido
 * Parte 9: La Selva Negra (5)
@@ -24,7 +23,7 @@
     * Defensas interiores
     * Estancias interiores del castillo
 
-
+* Terminada la parte de "Asociaciones peligrosas" de "Parte 8: Regreso al Mundo Perdido"
 * Terminada la parte de "Patio del castillo" de "Parte 9: La Selva Negra"
 * Terminada la parte de "El laboratorio en el sótano" de "Parte 9: La Selva Negra"
 * Terminada la parte de "Batalla final" de "Parte 9: La Selva Negra"
