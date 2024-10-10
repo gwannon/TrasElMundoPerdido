@@ -2322,10 +2322,28 @@ Los sakalas son la fuerza de combate más importante de la meseta y sin consegui
 ```
 Los pitecántropos libres son pocos pero su apoyo pueden ser fundamental para expulsar a los nazis de la meseta. El problema es lo que pedirán ellos a cambio. 
 ```
+Si tus comandos xxx
 
-xxx
+La comunicación no es fácil, pero para dar su ayuda a tus comandos su cabecilla lo que les exige son rifles y munición. Saben por propia experiencia del poder de las armas de fuego y quieren ese poder para ellos. Conseguirles algunas armas más no debería ser problema, es una cuestión más ética y moral.
 
-Los pitecántropos no son ni muchos ni muy fuertes, pero si están en su terreno, el bosque, se vuelven muy peligrosos. Pueden moverse a gran velocidad, atacar por sorpresa desde los arboles y desaparecer en las copas por segundos. 
+Según su cabecilla, el poder extra es la única forma de poder proteger a su gente de la violenta naturaleza de la meseta. Ahora mismo están en lo más bajo de la cadena alimentaria y esas armas les podrían dar una posición más ventajosa.
+
+¿Deben darles acceso a una tecnología tan avanzada a unos seres tan primitivos y que saben a ciencia cierta que son malvados? Recordemos que disfrutaban sacrificando a humanos tirándolos por el acantilado de la meseta sobre unas piedras puntiagudas. Pero está claro que han podido volverse mejores y haber aprendido de sus errores y las armas de fuego son su única forma de supervivencia en un mundo tan peligroso como este mundo perdido.
+
+También tendrán que decidir si les entregan las armas antes o después de la gran batalla. Pero después de la batalla no tendrá casi importancia porque estarán todos muertos o podrán cogerlos de los cuerpos muertos de aliados y nazis.
+
+Los pitecántropos no son ni muchos ni muy fuertes, pero si están en su terreno, el bosque, se vuelven muy peligrosos. Pueden moverse a gran velocidad, atacar por sorpresa desde los árboles y desaparecer en las copas por segundos. 
+
+\saltopagina
+
+## Aprovechando el terreno
+```
+La gran ventaja que tiene la gente de la Fundación en su lucha contra las tropas nazis es que conocen el terreno. Saben por donde moverse y por donde no. Y pueden intentar montones de tretas que les darían ventaja en la batalla. 
+```
+Veamos algunos ejemplos de uso interesante del terreno.
+* Pueden tratar de meter a las tropas nazis en terrenos pantanosos para que pierdan unidades, tanto de soldados como de vehículos.
+* Pueden tratar de provocar una estampida de dinosaurios herbívoros y lanzarlos contra la línea del frente nazi. Para crear la estampida deberán usar saurios carnívoros que espanten a los herbívoros. Y deberán conseguir xxx para generar la estampida. Cada carnívoro puede controlar a 5 herbívoros y cada herbivoro puede pisotear a 2 soldados.
+* xxx
 
 \saltopagina
 
@@ -2333,6 +2351,14 @@ Los pitecántropos no son ni muchos ni muy fuertes, pero si están en su terreno
 ```
 Solo un un milagro permitirá a tus comandos y sus salvajes aliados ganar la batalla final contra las fuerzas de von Liebenfels, pero si han de morir que sea a lo grande y matando nazis.
 ```
+
+El general von Liebenfels contará con 100 hombres y 4 carros de combate cuando lleguen tus comandos y cada dos días recibirá 20 soldados más y un carro de combate que el zepelín traerá del grueso de la expedición nazi que está llegando desde la costa.
+
+La única forma de subir tropas a la meseta es mediante el zepeĺín, así que es un recurso muy importante y muy vigilado y von Liebenfels sabe que si lo pierde, él y sus tropas están aisladas.
+
+Tus comandos sabrán todo esto por la gente del campamento que ha estado observando las idas y venidas del zepelín y los soldados y vehículos que han traído, mientras eran prisioneros.
+
+Tus comandos deberán calcular cuanto les llevará reclutar a cada grupo, tender trampas o preparar estrategias y decidir si siguen con esos trabajos o se lanzan a la batalla, porque cada dos días su enemigo se hace más grandes y poderoso.
 
 xxx
 
