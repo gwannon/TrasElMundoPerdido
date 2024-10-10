@@ -2322,6 +2322,9 @@ Los sakalas son la fuerza de combate más importante de la meseta y sin consegui
 ```
 Los pitecántropos libres son pocos pero su apoyo pueden ser fundamental para expulsar a los nazis de la meseta. El problema es lo que pedirán ellos a cambio. 
 ```
+
+[![Detalle de la cara de un pitecántropo](./assests/images/cara-pitecantropo.jpg 'Reconstruction of a female H. erectus - Tim Evanson - https://www.flickr.com/photos/timevanson/7283200708/in/photostream/')](https://en.wikipedia.org/wiki/Homo_erectus#/media/File:Homo.erectus.adult.female.smithsonian.timevanson.flickr.jpg 'Reconstruction of a female H. erectus - Tim Evanson - https://www.flickr.com/photos/timevanson/7283200708/in/photostream/')
+
 Si tus comandos xxx
 
 La comunicación no es fácil, pero para dar su ayuda a tus comandos su cabecilla lo que les exige son rifles y munición. Saben por propia experiencia del poder de las armas de fuego y quieren ese poder para ellos. Conseguirles algunas armas más no debería ser problema, es una cuestión más ética y moral.
