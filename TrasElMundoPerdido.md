@@ -2361,7 +2361,7 @@ En la batalla Madas, como su gente, es brutal, pero nunca permitirá atacar y ma
   * **Buen trepador:** Paso 8 trepando. Los pitecántropos pasan gran parte de su vida en los árboles y su cuerpo está adaptado a ello. Añaden +2 a sus tiradas de Atletismo cuando trepan.
 * **Equipo:** Garrote endurecido (FUE+d6)
 
-**Sugerencia de interpretación:** Gruñe, chilla y haz ruidos raros. Gesticula sin mucho sentido y golpea la mesa. Si cree que puede ser divertido para todos lanza los ganchitos que tengais por la mesa.
+**Sugerencia de interpretación:** Gruñe, chilla y haz ruidos raros. Gesticula sin mucho sentido y golpea la mesa. Si cree que puede ser divertido para todos lanza los ganchitos que tengáis por la mesa.
 
 \saltopagina
 
@@ -2435,7 +2435,7 @@ Como hemos dicho antes, la posibilidad de éxito es factible. Puede que tus coma
 
 El resultado de muchas de las acciones anteriores contra el zepelín serán caídas al vacío que deberían ser mortales. Como todos sabemos en el pulp los héroes y las heroínas no mueren en caídas, siempre pasa algo y se salvan.
 
-Puedes salvarles de muchas formas. Un pteranodonte que lo agarra en plena caída o caer sobre árboles y llevarse algo de daño pero sin ser mortal. Quizás el resto de comandos han creado un colchón para su caída o si quieres alguno de los géiser de la zona volcánica explota en el momento justo y le salva.
+Puedes salvarles de muchas formas. Un pteranodonte que lo agarra en plena caída o caer sobre árboles y llevarse algo de daño pero sin ser mortal. Quizás el resto de comandos han creado un colchón para su caída o si quieres alguno de los géiseres de la zona volcánica explota en el momento justo y le salva.
 
 \saltopagina
 
