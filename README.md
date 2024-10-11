@@ -7,14 +7,13 @@
 
 # Changelog
 
-## Versión 0.9 En desarrollo
+## Versión 0.9.1 En desarrollo
 * Parte 5: Normandía (1)
   * Sabotaje
-* Parte 8: Regreso al Mundo Perdido (5)
+* Parte 8: Regreso al Mundo Perdido (4)
   * Carrera al Mundo perdido
   * Misión de rescate
   * Evitando un genocidio
-  * Aprovechando el terreno
   * Batalla del Mundo Perdido
 * Parte 9: La Selva Negra (5)
   * La IM vuelve y viaje a la selva Negra
@@ -23,6 +22,8 @@
     * Defensas interiores
     * Estancias interiores del castillo
 
+## Versión 0.9 11/10/2024
+* Terminada la parte de "Aprovechando el terreno" de "Parte 8: Regreso al Mundo Perdido"
 * Terminada la parte de "Asociaciones peligrosas" de "Parte 8: Regreso al Mundo Perdido"
 * Terminada la parte de "Patio del castillo" de "Parte 9: La Selva Negra"
 * Terminada la parte de "El laboratorio en el sótano" de "Parte 9: La Selva Negra"

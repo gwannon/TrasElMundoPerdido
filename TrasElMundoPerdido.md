@@ -2354,12 +2354,12 @@ En la batalla Madas, como su gente, es brutal, pero nunca permitirá atacar y ma
 * **Paso:** 6; **Parada:** 5; **Dureza:** 7(1)
 * **Ventajas:** Acróbata, Mando
 * **Desventajas:** Heroico (mayor)
-* **Equipo:** Garrote endurecido (FUE+d6)
 * **Capacidades especiales:**
   * **Armadura +1:** Piel dura como el cuero curtido. 
   * **Mordisco:** FUE+d4 de daño.
   * **Vista y oído agudo.** Su buena vista y oído le da +2 a las tiradas de Notar y Supervivencia que impliquen vista u oído.
   * **Buen trepador:** Paso 8 trepando. Los pitecántropos pasan gran parte de su vida en los árboles y su cuerpo está adaptado a ello. Añaden +2 a sus tiradas de Atletismo cuando trepan.
+* **Equipo:** Garrote endurecido (FUE+d6)
 
 **Sugerencia de interpretación:** Gruñe, chilla y haz ruidos raros. Gesticula sin mucho sentido y golpea la mesa. Si cree que puede ser divertido para todos lanza los ganchitos que tengais por la mesa.
 
@@ -2372,11 +2372,12 @@ La gran ventaja que tiene la gente de la Fundación en su lucha contra las tropa
 
 Veamos algunos ejemplos de uso interesante del terreno.
 
-* **Terreno pantanoso:** Pueden tratar de meter a las tropas nazis en terrenos pantanosos para que pierdan unidades, tanto de soldados como de vehículos. Si consiguen que la gran batalla sea en terreno pantanoso las tropas de tus comandos no tendrán tanto problema como la fuerzas nazis y sus vehículos blindados que se hundirán en el fango. Puedes quitar un token al lado nazi si esto sucede. Como lo hagan ya será csa suya.
+* **Terreno pantanoso:** Pueden tratar de meter a las tropas nazis en terrenos pantanosos para que pierdan unidades, tanto de soldados como de vehículos. Si consiguen que la gran batalla sea en terreno pantanoso las tropas de tus comandos no tendrán tanto problema como la fuerzas nazis y sus vehículos blindados que se hundirán en el fango. Puedes quitar un token al lado nazi si esto sucede. Como lo hagan ya será cosa suya.
 * **Estampida de dinosaurios:** Pueden tratar de provocar una estampida de dinosaurios herbívoros y lanzarlos contra la línea del frente nazi. Para crear la estampida deberán usar saurios carnívoros que primero reúnan y luego espanten a los herbívoros. Necesitarán un día de trabajo y podrán hacer 5 tiradas de Cabalgar por comando y saurio carnívoro. Si consiguen 5 tiradas exitosas (los avances cuentan como otro éxito) en un día, reunirán una buena manada que podrán lanzar en la batalla y les dará un token siguiendo las reglas de batalla. Esta estrategia no funcionará si quiere meter a las fuerzas nazis en terreno pantanoso. Los grandes saurios herbívoros evitarán entrar en el pantano y reducirán su carrera.
 * **Fumarolas:** La meseta es una zona volcánica activa y hay muchas fumarolas que emiten extraños líquidos y gases. Tus comandos podrían diseñar (Ciencias) y construir (Reparar) algún tipo de explosivo o fuego griego y usarlo en combate. Si ponen a algún equipo (sakalas, campamento, etc.) a trabajar dos días enteros pueden conseguir un token extra.
 * **Pteranodontes:** Usar los pteranodontes como fuerza aérea podría ser una buena idea si no fuera porque los únicos adiestrados para estas tareas son los de los comandos y no son suficientes para ser una fuerza a tomar en cuenta en la batalla.
-* xxx
+
+A parte de estas ideas tus comandos pueden tener todo tipo de ideas originales y bastante plausibles que pueden enriquecer la partida. Quien dice que no se les ocurra tratar de sorprender al enemigo moviéndose por los acantilados de la meseta hasta ponerse en su espalda y aparecer detrás suyo con la ventaja que eso puede suponer. Trata de ser generoso en benis con esas ideas. Piensa que directamente te están haciendo la partida ellos solos.
 
 \saltopagina
 
