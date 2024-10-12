@@ -2509,7 +2509,21 @@ El castillo de Hohenzollern es la guarida secreta del Doctor Eckart, una fortale
 
 El castillo de Hohenzollern se encuentra en la cumbre del monte Hohenzollern, perteneciente a una sierra llamada Jura de Suabia. El castillo está una altitud de 855 metros. Data de 1847, aunque todavía hay resto de otros dos castillos anteriores destruidos en diferentes guerras. La ciudad más importante es Stuttgart que está a 50 kilómetros al sur del castillo. Se le considera una versión menos fantástica del famoso castillo de Neuschwanstein, conocido por ser inspiración de los castillos de las películas de Disney.
 
-xxx
+El castillo fue construido en un macizo rocoso por lo que excavar un túnel para entrar es casi imposible y tampoco hay estructuras cavernosas debajo suyo que puedan usarse.
+
+Los muros de todo el castillo son de piedra y dan protección contra todo tipo de arma de fuego, mientras no sea artillería pesada. Sin embargo, sus grandes ventanales de estilo neogótico inglés serán la delicia de francotiradores.
+
+El castillo ha tenido varias reformas de forma que por ejemplo pueden acceder a él coches y camiones mediante los carriles asfaltados en forma de 8. Lo bueno de estas rampas es que son tan empinadas y curvadas que ningún vehículo puede coger mucha velocidad y lanzarse contra la puerta principal.
+
+Tiene varios niveles cada uno de ellos amurallados. Las murallas no son realmente un obstáculo insalvable, de hecho casi no tienen valor defensivo en caso de un ataque a gran escala, pero sirven para separar las diferentes partes del exterior del castillo. Aun así es necesario escalarlos (unos 2 y 3 metros de altura) o atravesar las puertas fortificadas que tienen.  
+
+Cuenta con varias zonas ajardinadas donde tus comandos pueden esconderse en sus arbustos y parapetarse detrás de sus árboles. 
+
+La muralla exterior del castillo tiene forma de una estrella de 7 puntas y cada punta cuenta con un puesto de vigilancia que controla las laderas boscosas que dan acceso al castillo. Estos puestos tienen ametralladoras pesadas para defender el castillo. El puesto de vigilancia que esta sobre las rampas de acceso son los más importantes y con más vigilancia para controlar el acceso al castillo y un par de ametralladoras pesadas para detener cualquier vehículo no blindado.
+
+\saltopagina
+
+De normal puede haber unas 100 personas en el castillo entre soldados, oficiales y personal de servicio del Doctor Eckart. Están continuamente moviéndose por todo el castillo en diversas tareas o durmiendo o comiendo. De normal hay 3 soldados por puesto de vigilancia y 6 en el que vigila la entrada. 
 
 ### Dinosaurios capturados
 Los dinosaurios capturados en la isla de Skye y en la meseta han sido trasladados al castillo como parte de sus defensas. Sus jinetes los controlan por la fuerza mediante los collares de entrenamiento y los mandos de control, sin olvidar otros castigos e insuficiente alimentación.
@@ -2523,8 +2537,6 @@ A la hora de usarlos en combate los nazis no son cuidadosos con ellos y se lanza
 
 Si tus comandos tratan de no hacerles daño, deberías darles benis por sus actos de bondad. 
 
-\saltopagina
-
 Si consiguen romper los collares de entrenamiento, los saurios serán libres de hacer lo que quieran y normalmente será atacar a sus torturadores. Si se apunta a los collares (-6 al ataque) y pasan su consistencia de 8, el collar se estropeará y el mando de control será inútil.
 
 Los saurios carnívoros liberados atacarán a su jinete y seguramente escaparán. Los herbívoros se desharán del jinete y puede que se unan a la manada. Si se libera del control a un herbívoro, un compañero saurio herbívoro puede hacer una tirada de Espíritu para atraerlo a la manada y que combata con él. Si falla, el dinosaurio huirá del combate.
@@ -2533,6 +2545,8 @@ Un par de ejemplares de saurios carnívoros jóvenes han sido llevados al zoo de
 
 ### El zepelín
 El zepelín de von Liebenfels está suspendido sobre el castillo de forma que pueden usarlo como un recurso del que sacar unidades nazis. Si ves que los combates en las murallas y el patio son muy fáciles. Pueden descender soldados de todo tipo haciendo rápel o incluso podrían disparar con ametralladoras pesadas para barrer la zona de combate (hiriendo también a sus tropas).
+
+\saltopagina
 
 En un momento de máximo dramatismo, incluso podrías hacer una escena en que von Liebenfels estrella su zepelín con él a los mandos contra tus comandos y sus saurios para tratar de detenerlos, mientras les grita en alemán todo tipo de consignas nazis y suena de fondo "La marcha de las valquirias" de Wagner. 
 
