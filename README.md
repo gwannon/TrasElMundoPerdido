@@ -15,17 +15,19 @@
   * Misión de rescate
   * Evitando un genocidio
   * Batalla del Mundo Perdido
-* Parte 9: La Selva Negra (4)
+* Parte 9: La Selva Negra (3)
   * La IM vuelve y viaje a la selva Negra
-  * Defensas exteriores
   * Defensas interiores
   * Estancias interiores del castillo
+
+* Terminada la parte de "Defensas exteriores" de "Parte 9: La Selva Negra"
 
 ## Versión 0.9 11/10/2024
 * Terminada la parte de "Aprovechando el terreno" de "Parte 8: Regreso al Mundo Perdido"
 * Terminada la parte de "Asociaciones peligrosas" de "Parte 8: Regreso al Mundo Perdido"
 * Terminada la parte de "Patio del castillo" de "Parte 9: La Selva Negra"
 * Terminada la parte de "El castillo de Hohenzollern" de "Parte 9: La Selva Negra"
+
 * Terminada la parte de "El laboratorio en el sótano" de "Parte 9: La Selva Negra"
 * Terminada la parte de "Batalla final" de "Parte 9: La Selva Negra"
 

@@ -2525,6 +2525,10 @@ La muralla exterior del castillo tiene forma de una estrella de 7 puntas y cada 
 
 De normal puede haber unas 100 personas en el castillo entre soldados, oficiales y personal de servicio del Doctor Eckart. Están continuamente moviéndose por todo el castillo en diversas tareas o durmiendo o comiendo. De normal hay 3 soldados por puesto de vigilancia y 6 en el que vigila la entrada. 
 
+Atacar de noche o de día no debería dar mucha ventaja, ya que el castillo está muy bien iluminado así que a no ser que saboteen las líneas eléctricas y los generadores de emergencia no habrá problemas de iluminación. 
+
+Los saurios acuáticos no pueden acceder al castillo de ninguna forma por lo que no son útiles en esta parte. Puedes darles a los comandos con compañeros saurios acuáticos los benis de sus compañeros para su uso en estas sesiones, de forma que cada sesión empiecen con 6 en vez de los 3 normales.
+
 ### Dinosaurios capturados
 Los dinosaurios capturados en la isla de Skye y en la meseta han sido trasladados al castillo como parte de sus defensas. Sus jinetes los controlan por la fuerza mediante los collares de entrenamiento y los mandos de control, sin olvidar otros castigos e insuficiente alimentación.
 
@@ -2543,10 +2547,10 @@ Los saurios carnívoros liberados atacarán a su jinete y seguramente escaparán
 
 Un par de ejemplares de saurios carnívoros jóvenes han sido llevados al zoo de Berlín, los han ocultado. Hitler los reserva para entrar en Londres montado en ellos. Puede ser una buena semilla de aventura, tras la campaña, que tus comandos rescaten esos saurios del zoo de Berlín antes de que entre el ejercito rojo.
 
+\saltopagina
+
 ### El zepelín
 El zepelín de von Liebenfels está suspendido sobre el castillo de forma que pueden usarlo como un recurso del que sacar unidades nazis. Si ves que los combates en las murallas y el patio son muy fáciles. Pueden descender soldados de todo tipo haciendo rápel o incluso podrían disparar con ametralladoras pesadas para barrer la zona de combate (hiriendo también a sus tropas).
-
-\saltopagina
 
 En un momento de máximo dramatismo, incluso podrías hacer una escena en que von Liebenfels estrella su zepelín con él a los mandos contra tus comandos y sus saurios para tratar de detenerlos, mientras les grita en alemán todo tipo de consignas nazis y suena de fondo "La marcha de las valquirias" de Wagner. 
 
@@ -2554,10 +2558,21 @@ Si ves que la presencia del zepelín, influye demasiado en los planes de ataque,
 
 Ya hemos hablado de las versiones portátiles del rayo desintegrador del Doctor Eckart, si fuera necesario puedes sustituir uno de las ametralladoras que porta por uno de estas mortales armas de rayos.
 
+[![Foto entrada del castillo de Hohenzollern](./assests/images/entrada-hohenzollern.jpg 'Karlheinz Klingbeil - Burg Hohenzollern / Hohenzollern Castle')](https://www.flickr.com/photos/42pixels/46758599982 'Karlheinz Klingbeil - Burg Hohenzollern / Hohenzollern Castle')
+
 ### Defensas exteriores
-xxx
+
+La única forma de hacer un ataque a gran escala al castillo es por la puerta principal, que claramente es el punto mejor defendido de la muralla exterior. Si tus comandos tratan de entrar por otros lados subiendo por las laderas de los montes pueden hacerlo, pero entrarán solos al castillo, ya que ningún terrestre podrá superar el muro exterior del castillo.
 
 \saltopagina
+
+Si has visto la cuesta en ocho que hay para llegar a la puerta principal del castillo puede hacer un combate muy entretenido, ya que hay varios niveles para atacar desde arriba y desde abajo, túneles donde refugiarse y opciones de salto de unos caminos a otros. Encima de la puerta principal hay dos ametralladoras pesadas con 2 tiradores y soldados protegiéndolas. Deberán deshacerse de ellas para poder acercarse a la entrada.
+
+El portón de la entrada estará cerrado y se abre o cierra con un ingenio eléctrico (FUE 1d12+1). Pueden intentar enganchar cadenas a la puerta y aun saurio y que tire. Deberán ganar 3 tiradas seguidas de FUE enfrentadas a la maquinaria de la puerta para sacarlas de sus bisagras.
+
+Al quitar la puerta se encontrarán a 3 estegosaurios que los oficiales nazis obligan a dar coletazos sin parar para evitar el avance de tus comandos. Desde detrás estos saurios 4 soldados dispararán a los intrusos. Una tirada de notar identificará los collares de control en el cuello de los saurios.
+
+Si tus comandos se retrasan mucho puedes traer gente de otros puestos de vigilancia con sus ametralladoras pesadas. si no formarán parte de las defensas interiores. A no ser que hayan planeado deshacerse de ellos de alguna forma.
 
 ### Defensas interiores
 xxx
