@@ -220,54 +220,15 @@ Ella perfeccionó los hábitats que cada especie había creado, montó el hospit
 Las instalaciones en la isla no están concentradas en un único lugar, sino que están dispersas por los terrenos de la fundación. La idea es evitar que los reconocimientos aéreos nazis descubran las instalaciones. Si no se revisan a conciencia las fotos se considerará que son grupos dispersos de granjas.
 Los dinosaurios en libertad, a pesar de su tamaño, siguen con instintos de cazador y presa y se ocultan bastante bien entre bosques y maleza alta. Aun así, alguien de la inteligencia nazi puede descubrir el pastel fácilmente si le pone interés.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #### Hábitats
 Tras muchos años de estudio se han ido creando una serie de hábitats para cada especie donde viven y son estudiados. Mientras que los pteranodontes se habituaron rápidamente y sin problemas a los acantilados de la isla donde montaron sus nidos, los carnívoros han sido los más complicados por su carácter, su agresividad y su alimentación. Hábitats actuales.
 
 * **Acantilados del oeste** de la isla es la zona de anidación de los pteranodontes.
 * Aprovechando unas **piscinas naturales** en una de tantas calas de la isla se ha montado un hábitat para los saurios acuáticos.
-* Las **praderas sur de la reserva** son perfectas para los estegosaurios y los iguanodontes que parecen no tener problemas con las vacas y ovejas que había en los terrenos de la Fundación.
+* Las **praderas sur de la reserva** son perfectas para los estegosaurios y los iguanodontes, que parecen no tener problemas con las vacas y ovejas que había en los terrenos de la Fundación.
 * Las **praderas norte de la isla** son los dominios de los carnívoros. Se aprovechó una de las penínsulas de la isla que tenía un macizo rocoso en su istmo, poniendo muros y rejas en el único paso que hay, por la costa sur de la península. El macizo tiene un sistema de cuevas naturales que sirven de refugio.
 
-Los saurios terrestres están en semilibertad, ya que pueden moverse por extensas zonas, pero no pueden salir de la isla y están controlados por los guardabosques de la Fundación. Aún pudiendo moverse casi libremente por la isla, los ataques a humanos casi no existen. Saben que los humanos les son más útiles vivos que muertos y mientras se les tenga bien alimentados, solo los especímenes jóvenes de los carnívoros han dado algún problema.
+Los saurios terrestres están en semilibertad, ya que pueden moverse por extensas zonas, pero no pueden salir de la isla y están controlados por los guardabosques de la Fundación. Aun pudiendo moverse casi libremente por la isla, los ataques a humanos casi no existen. Saben que los humanos les son más útiles vivos que muertos y mientras se les tenga bien alimentados, solo los especímenes jóvenes de los carnívoros han dado algún problema.
 
 Los acuáticos y voladores pueden moverse fuera de la isla sin problemas, pero estos no se alejan mucho, aunque ha habido casos de avistamientos. De hecho, hace unos años un plesiosaurio desorientado y enfermo acabo en el lago Ness desatando la locura por Nessy en la zona. 
 
@@ -286,7 +247,7 @@ La única línea de teléfono de la isla está en el castillo y Lady Roxton ha p
 
 &nbsp;
 
-IM ha dejado cerca, pero no en el propio castillo, artillería anti-área, aunque claro una aeronave nazi nunca ha llegado tan lejos.
+IM ha dejado cerca, pero no en el propio castillo, artillería anti-área, aunque claro, una aeronave nazi nunca ha llegado tan lejos.
 
 \saltopagina
 
@@ -386,7 +347,7 @@ De media hay unas 20 personas viviendo en un enclave de unos 10 pabellones. Son 
 
 Esta comunidad permanente de investigaciones ha establecido relaciones con los sakala y han tenido éxito en sus primeros intercambios culturales y comerciales, siguiendo siempre los protocolos establecidos por la Fundación.
 
-Este enclave se sitúa al sur del Lago Central que les provee de pesca y agua. Esto les permite estudiar los saurios acuáticos y estar lo suficientemente lejos de los habitantes de las cuevas para no molestarlos ni interferir en su día a día, pero lo suficientemente cerca para estudiarlos tenerlos y controlados. 
+Este enclave se sitúa al sur del Lago Central que les provee de pesca y agua. Esto les permite estudiar los saurios acuáticos y estar lo suficientemente lejos de los habitantes de las cuevas para no molestarlos ni interferir en su día a día, pero lo suficientemente cerca para estudiarlos y tenerlos controlados. 
 
 Listado normal de residentes:
 * 
@@ -667,7 +628,7 @@ El comando que adquiere esta ventaja puede convertir a un dinosaurio con el que 
 
 * Lo primero será darle nombre
 * El **compañero dinosaurio se convierte en comodín** con lo que tiene sus propios benis y su dado de héroe.
-* Por **cada Rango que alcance el comando el compañero conseguirá un avance**. Si se coge esta ventaja siendo experimentado, el compañero tendrá derecho a dos avances por Novato y por Experimentado. Cuando alcance el rango de Veterano y siguientes tendrá derecho a un nuevo avance por cada nuevo rango.
+* Por **cada Rango que alcance el comando, el compañero conseguirá un avance**. Si se coge esta ventaja siendo experimentado, el compañero tendrá derecho a dos avances por Novato y por Experimentado. Cuando alcance el rango de Veterano y siguientes tendrá derecho a un nuevo avance por cada nuevo rango.
 * Habrá que ponerle 2 desventajas mayores (o 2 menores) mentales o físicas que marquen su carácter, como Tozudo, Curioso, Sanguinario, etc. y además la desventaja Manía (menor) con alguna cosa curiosa y divertida, tipo «le vuelve loco el queso».
 * El compañero animal no atacará al comando bajo ninguna circunstancia normal.
 * Si por alguna causa fallece el compañero, el héroe podrá reemplazarlo tras 1d4 días. Si lo desea puede cambiar esta ventaja por otra que cumpla los requisitos y dejará de tener compañero saurio.
@@ -687,11 +648,11 @@ Recibes un **+2 en tiradas en que las matemáticas sean importantes**, desde Apo
 
 **Requisitos:** Novato, solo un comando por grupo
 
-El comando tiene un sexto sentido afinado con las energías extrañas que nos rodean, desde los diferentes planos, pasando por otras dimensiones, hasta la magia. Esto se resumen en un sexto sentido que le da ideas en situaciones desesperadas. 
+El comando tiene un sexto sentido afinado conalas energías extrañas que nos rodean, desde los diferentes planos, pasando por otras dimensiones, hasta la magia. Esto se resumen en un sexto sentido que le da ideas en situaciones desesperadas. 
 
 En situaciones de estrés y grave peligro, como estar rodeados por nazis, en un avión en llamas o perdidos en la selva, el comando puede gastar todos sus benis (mínimo 1) y el DJ deberá darle una pista que le ayude a salir del embrollo en que este metido. Puede ser buscar un sótano por el que escapar, construir un paracaídas con restos o buscar un punto elevado para orientarse. 
 
-La pista puede implicar a veces que como DJ debas cambiar detalles de tu aventura, pero deberían ser justo lo suficiente para tener una posibilidad de salir del apuro
+La pista puede implicar a veces que como DJ debas cambiar detalles de tu aventura, pero deberían ser justo lo suficiente para tener una posibilidad de salir del apuro.
 
 ### Nueva desventaja: Alergia a los saurios (mayor)
 
@@ -757,10 +718,10 @@ El saurio es muy buen paciente y se comporta muy bien cuando hay que realizarle 
 
 **Requisitos:** Novato, Carnívoro
 
-El saurio carnívoro es un experto cazador con lo que puede obtiene +2 a Notar al buscar a su presa y +2 a sigilo al tender emboscadas a sus presas.
+El saurio carnívoro es un experto cazador, con lo que obtiene +2 a Notar al buscar a su presa y +2 a sigilo al tender emboscadas a sus presas.
 
 ### Nueva desventaja para dinosaurios: Joven (Mayor)
-El dinosaurio no es un espécimen adulto y todavía no ha llegado a su tamaño de adulto. Es por ello que tiene 1 punto menos de tamaño que lo normal en su especie con todas las consecuencias en Dureza, número de heridas, etc.
+El dinosaurio no es un espécimen adulto y todavía no ha llegado a su tamaño de adulto. Es por ello que tiene 1 punto menos de tamaño que lo normal en su especie, con todas las consecuencias en Dureza, número de heridas, etc.
 
 También supone que el equipamiento que se le ponga no puede usarse en otros dinosaurios de su especie porque es específico para él y viceversa. Adaptarlo de uno a otro llevará 1 hora de trabajo con las herramientas adecuadas.
 
@@ -815,7 +776,7 @@ Estos dispositivos letales en forma de cápsula permiten al comando suicidarse e
 **Recuerda:** Este dispositivo es totalmente opcional y es casi más para PNJ que para PJ. Es una forma de darle dramatismo a la muerte de ciertas personas. Si crees que no es adecuado para tu mesa, puedes eliminarlo de tus partidas o aplicar los velos y herramientas de seguridad que creas necesarias. Te recordamos que es suicidio es un tema complicado que deberías tratar con la mayor madurez.
 
 ### Maletín de revelado de foto
-Este maletín que a simple vista parece de oficinista, contiene todo lo necesario para el revelado de fotos: compuestos químicos, luz roja, papel fotográfico, etc. 
+Este maletín, que a simple vista parece de oficinista, contiene todo lo necesario para el revelado de fotos: compuestos químicos, luz roja, papel fotográfico, etc. 
 
 Permite el revelado de 3 carretes de 24 fotos, antes de que se agoten sus componentes.
 
@@ -826,7 +787,7 @@ Permite el revelado de 3 carretes de 24 fotos, antes de que se agoten sus compon
 ### Medicamentos
 El equipo de biología que trabaja en la meseta de Maple White ha encontrado que un laboratorio donde la naturaleza ha creado miles de compuestos químicos con propiedades increíbles y llevan estudiando su uso en la curación de todo tipo de enfermedades.
 
-> A priori la Fundación puede curar experimentalmente (no ha podido probar con humanos por no ser laboratorio oficial) muchas enfermedades que los comandos pudieran contraer, es por ello que no debieran de preocuparse por contraer enfermedades como el tifus, la malaria, el dengue, etc.
+> A priori, la Fundación puede curar experimentalmente (no ha podido probar con humanos por no ser laboratorio oficial) muchas enfermedades que los comandos pudieran contraer, es por ello que no debieran de preocuparse por contraer enfermedades como el tifus, la malaria, el dengue, etc.
 
 ### Radio de campaña
 Esta radio portátil permite a tu comando recibir y enviar información. El radio de acción es corto y se reduce si hay montañas y otros accidentes geográficos y atmosféricos que afecten a la señal de radio.
@@ -950,7 +911,7 @@ Cada silla de montar está modificada para cada especie de saurio y no pueden in
 > Se puede cabalgar sin silla, pero supone un -2 a la tirada de Cabalgar si es un compañero saurio y un -4 si no lo es.
 
 ***
-
+F
 # La campaña
 
 ## Resumen
@@ -1006,12 +967,12 @@ Si ves muy descompensado el grupo, puedes restringirles especies y cantidades. L
 \saltopagina
 
 ### Equipamiento
-En el tema de equipo, mientras no se pasen con el armamento y los explosivos puedes ser bastante permisivo. Si usan artilugios que no son ni armas ni explosivos, seguramente tienen un plan divertido que deberías por lo menos dejarles probar por loco y poco adecuado que sea. Como mínimo siempre será divertido.
+En el tema de equipo, mientras no se pasen con el armamento y los explosivos puedes ser bastante permisivo. Si usan artilugios que no son ni armas ni explosivos, seguramente tienen un plan divertido que deberías por lo menos dejarles probar por loco y poco adecuado que sea. Como mínimo, siempre será divertido.
 
 ## Los viajes
 Como buena historia de aventuras, los viajes no serán importantes, no importa ni el coste ni el tiempo ni si hay submarinos alemanes en esas aguas. Siempre llegarán a tiempo y sin problemas a no ser que el viaje sea la propia aventura. 
 
-Vamos a usar el recurso fílmico llamado «viajar por el mapa». Cuando tu comando decida ir a Noruega, como en Indiana Jones, la imagen se fundirá hasta verse un mapamundi viejo y descolorido y sobre este un barco partirá de Escocia dejando tras de sí una línea roja punteada de su ruta. Cruzará el mar del Norte y llegará finalmente a la costa de Noruega para fundirse el mapa y volver a ver nuestro comando.
+Vamos a usar el recurso fílmico llamado «viajar por el mapa». Cuando tu comando decida ir a Noruega, como en Indiana Jones, la imagen se fundirá hasta verse un mapamundi viejo y descolorido, y sobre este un barco partirá de Escocia, dejando tras de sí una línea roja punteada de su ruta. Cruzará el mar del Norte y llegará finalmente a la costa de Noruega para fundirse el mapa y volver a ver nuestro comando.
 
 No hay tablas de encuentros aleatorios, ni tiradas de climatología, ni nada por el estilo. Aunque eres libre, si quieres, de meter los encuentros que desees.
 
@@ -1078,13 +1039,13 @@ Puedes aprovechar para hacer una sesión 0 con cada comando en el que le recluta
 
 * Tu superior te dice que te trasladan a Escocia a un proyecto secreto. Firma los papeles y recoge tu macuto, tienes que estar allí en 3 días. Tras mirar los horarios de trenes tienes la noche libre para una última juerga en Londres, Manchester, Dublín, etc.
 * IM ha comprado el préstamo que solicitaste para continuar con tus investigaciones y te propone saldarla si trabajas con ellos en un proyecto secreto en Escocia. Al día siguiente de firmar con el IM, cuando entras por la puerta de tu laboratorio no hay nada. Se han llevado todo y solo hay un sobre muy gordo con billetes de tren e instrucciones para llegar a la isla de Skye.  
-* Tu oficial superior te ofrece la posibilidad de librarte de pasar los años de condena que te quedan en la prisión militar si te enrolas en un proyecto secreto de IM. N te puede decir mucho más, pero que puede ser peor que una fría prisión militar. Si no estás dispuesto a participar quizás los guardas pueden convencerte cuando nadie mire.
+* Tu oficial superior te ofrece la posibilidad de librarte de pasar los años de condena que te quedan en la prisión militar si te enrolas en un proyecto secreto de IM. N te puede decir mucho más, pero que puede ser peor que una fría prisión militar. Si no estás dispuesto a participar, quizás los guardas pueden convencerte cuando nadie mire.
 * Un militar al que no conoces aparece en tu laboratorio y te muestra unas extrañas escamas que nunca habías visto o quizás los restos de unos huevos que no parecen de ningún animal actual. Te propone formar parte de un proyecto donde podrás estudiar cosas asombrosas que nunca nadie ha visto hasta ahora. Si no quieres participar, te deja su tarjeta y la extraña muestra para que la estudies, sabe que en cuanto descubras alguno de sus secretos aparecerás en su puerta para aceptar participar en el proyecto.
 
 Si investigan solo sabrán que les trasladarán a la reserva de animales salvajes de la Fundación Roxton en la isla de Skye. Unas buenas tiradas de investigar no sacarán a la luz nada extraño, pero dará a entender que alguien ha limpiado la información que se puede sacar de archivos, bibliotecas y periódicos.
 
 ## Primeros pasos
-Del ferry que une tierra firme con la isla de Skye desembarcan tus comandos con sus macutos. Nadie más ha tomado el ferry así que se conocen de vista. Delante del grupo se para un pequeño camión y el conductor les mira y les dice con un fuerte acento escocés «Entrad atrás, tenemos bastante camino hasta el castillo y no quiero llegar tarde al almuerzo. Por cierto, soy Willy.»
+Del ferry que une tierra firme con la isla de Skye desembarcan tus comandos con sus macutos. Nadie más ha tomado el ferry, así que se conocen de vista. Delante del grupo se para un pequeño camión y el conductor les mira y les dice con un fuerte acento escocés «Entrad atrás, tenemos bastante camino hasta el castillo y no quiero llegar tarde al almuerzo. Por cierto, soy Willy.»
 
 \saltopagina
 
@@ -1102,7 +1063,7 @@ Cuando terminen la comida Lady Roxton les llevará con su jeep a ver las instala
 ### ¡Mira! ¡Es un dinosaurio!
 Recuerdas la primera vez que ves un dinosaurio en Jurassic Park, así debería ser esta escena. Mientras Lady Roxton los lleva en un jeep por la tierra de la reserva, se desviara por un camino de cabras para alcanzar una colina. Desde arriba se encontrarán con una manada de estegosaurios pastando en una pradera cercana. Puedes poner incluso la [suite principal](https://www.youtube.com/watch?v=IL-pu2vhb88&t=60s).
 
-A partir de ahí, Lady Roxton los conducirá por los diferentes hábitats mostrándoles las especies de saurios que hay (iguanodontes, pteranodontes, ictiosaurios y plesiosaurios). Dejará para el final los alosaurios y megalosaurios que se dedicarán a devorar una vaca. En un alarde Lady Roxton se acercará a los carnívoros y ellos ni se inmutarán.
+A partir de ahí, Lady Roxton los conducirá por los diferentes hábitats mostrándoles las especies de saurios que hay (iguanodontes, pteranodontes, ictiosaurios y plesiosaurios). Dejará para el final los alosaurios y megalosaurios que se dedicarán a devorar una vaca. En un alarde, Lady Roxton se acercará a los carnívoros y ellos ni se inmutarán.
 
 Si algún comando se baja del jeep y se acerca a Lady Roxton, el carnívoro más cercano se acercará a olerlo. Debería hacer una tirada de miedo cuando se le acerque a olisquearle y note su caliente aliento. Si falla la tirada de miedo igual hasta se mea encima.  
 
@@ -1113,9 +1074,9 @@ A partir de este momento empezarán el entrenamiento con los diferentes dinosaur
 
 Los entrenamientos estarán dirigidos por la propia Lady Roxton que disfrutará de sus golpes y caídas y humillando a los comandos (solo un poquito) cuando lo hagan mal.
 
-* **Vuelo con los pteranodontes.** Harán prácticas de vuelo, el pteranodonte deberá recogerlos del suelo u llevarlos lejos. El pteranodonte y el humano deberán pasar una tirada de Atletismo para dejarse atrapar y para atraparlo. El pteranodonte podrá llevarlo bastante lejos hasta que unos cientos de metros más allá. Cuantos más avances consigan en las tiradas más lejos les llevará. Si falla el pteranodonte no le agarrará y si falla el comando se caerá (2d6 de daño de caída). También les enseñarán a darles órdenes básicas de sobrevolar una zona y volver.
+* **Vuelo con los pteranodontes.** Harán prácticas de vuelo, el pteranodonte deberá recogerlos del suelo u llevarlos lejos. El pteranodonte y el humano deberán pasar una tirada de Atletismo para dejarse atrapar y para atraparlo. El pteranodonte podrá llevarlo bastante lejos hasta que unos cientos de metros más allá. Cuantos más avances consigan en las tiradas, más lejos les llevará. Si falla el pteranodonte no le agarrará y si falla el comando se caerá (2d6 de daño de caída). También les enseñarán a darles órdenes básicas de sobrevolar una zona y volver.
 * Podrán hacer pruebas de **monta con estegosaurios e iguanodontes** con Cabalgar. Puedes, si no se les ocurre a tus comandos, organizar una carrera. También podrían hacer prácticas de tiro desde sus monturas (recuerda que hay un -2 por disparar sobre una plataforma inestable).
-* Puedes hacerles unos **dispositivos construidos por Wayland que simulen la defensa con la cola de los estegosaurios** y que se lleven unos cuantos porrazos. Deberían hacer tiradas enfrentadas de Atletismo o Pelear contra el Pelear del mecanismo (d8). Tendrán que superar 3 tiradas para atravesar la zona de coletazos. Si el dispositivo que da coletazos saca un avance roba una de las tiradas pasadas. En 
+* Puedes hacerles unos **dispositivos construidos por Wayland que simulen la defensa con la cola de los estegosaurios** y que se lleven unos cuantos porrazos. Deberían hacer tiradas enfrentadas de Atletismo o Pelear contra el Pelear del mecanismo (d8). Tendrán que superar 3 tiradas para atravesar la zona de coletazos. Si el dispositivo que da coletazos saca un avance, roba una de las tiradas pasadas. En 
 * Prácticas de **submarinismo con los ictiosaurios y plesiosaurios**. Serán ejercicios de inmersión y natación con ellos (tiradas de atletismo de saurio y humano). También podrán lanzarles objetos y que los recuperen del fondo del mar (tiradas de Notar para buscar el objeto y Atletismo para nadar rápido a recogerlo). 
 * Los entrenamientos con los **carnívoros serán unas pruebas de combate**. Deberán derribar a 5 maniquíes de diferentes materiales, cada uno más resistente al anterior, paja (consistencia 4), madera (6), madera con arpillera (8), madera con refuerzos metálicos (10) y acero (12). Los jinetes pueden apoyar a su montura en combate pasando una tirada de Cabalgar e indicarle la mejor posición o forma de atacar.
 
@@ -1138,14 +1099,14 @@ Las justas con dinosaurios pueden ser un divertido deporte entre comandos para r
 
 ## Dinosaurios a la fuga
 ```
-Una manada variopinta de saurios ha escapado de la ciudad. Hay que captura y devolverla antes de lleguen a grandes ciudades como Inverness, Edimburgo o Glasgow.
+Una manada variopinta de saurios ha escapado de la ciudad. Hay que capturarla y devolverla antes de que lleguen a grandes ciudades como Inverness, Edimburgo o Glasgow.
 ```
 
 Lady Roxton llega en su jeep a donde estén y bastante nerviosa les dirá que un iguanodonte joven ha escapado del hábitat de los herbívoros. No debería poder salir de la isla, pero hay que cazarlo antes de que llegue a algún núcleo urbano. Lady Roxton les deja su jeep y cerca habrá una moto, un caballo u otro jeep, lo que veas más divertido. El jeep de Lady Roxton tiene una radio para comunicarse con ella en el castillo Dunvegan.
 
 \saltopagina
 
-A partir de aquí saca el mapa del la isla y déjales que traten de establecer un la posible localización del iguanodonte. Sé generoso con los benis si tienen buenas ideas porque los necesitarán para devolver al saurio al redil.
+A partir de aquí saca el mapa de la isla y déjales que traten de establecer un la posible localización del iguanodonte. Sé generoso con los benis si tienen buenas ideas porque los necesitarán para devolver al saurio al redil.
 
 A continuación, que sigan su plan de búsqueda (con algunas tiradas de Notar y Conducir) hasta que localicen al iguanodonte, entonces empezará una persecución donde el iguanodonte tendrá **2 cartas de ventajas**.
 
@@ -1172,7 +1133,7 @@ Esta escena debería ser especial para cada comando, así que no la fuerces dema
 \saltopagina
 
 * Seguramente un alosaurio y un megalosaurio se sentirán inclinados a seguir a un comando que ni se inmute cuando estos gigantes depredadores se les acerque a la carrera rugiendo.
-* Los pteranodontes son bastante irritantes. Seguramente intentarán robar el almuerzo de algún comando. Si no le puede robar su comida lo intentará más días hasta que puede que se genere algún tipo de vínculo.
+* Los pteranodontes son bastante irritantes. Seguramente intentarán robar el almuerzo de algún comando. Si no le puede robar su comida, lo intentará más días hasta que puede que se genere algún tipo de vínculo.
 * Los saurios acuáticos quizás sean los más alienígenas y por ello no deberías dejar que haya un vínculo con un comando a no ser que haya una buena razón.
 
 ## Primera misión
@@ -1182,9 +1143,9 @@ Los comandos y sus saurios tendrán su primera misión en la pequeña isla de Je
 
 Lady Roxton reunirá a los comandos en su despacho. Van a salir a su primera misión de campo y es importante que lo haga bien para la continuidad del programa.
 
-Los alemanes han destruido las antenas que permitían escuchar la BBC en la isla de Jersey, muy cerca de la costa francesa en el canal de la Mancha. Tus comandos deben de montar un nuevo tipo de repetidor de señal más pequeña y potente en una de las cimas de la isla sin que los detecten los nazis.
+Los alemanes han destruido las antenas que permitían escuchar la BBC en la isla de Jersey, muy cerca de la costa francesa, en el canal de la Mancha. Tus comandos deben de montar un nuevo tipo de repetidor de señal más pequeña y potente en una de las cimas de la isla sin que los detecten los nazis.
 
-Devolver la emisión de la BBC en las islas del canal es un golpe de efecto. Por un lado sube la moral de la población y deja en ridículo a los nazis a quienes se les ha colado efectivos ingleses hasta la cocina.
+Devolver la emisión de la BBC en las islas del canal es un golpe de efecto. Por un lado, sube la moral de la población y deja en ridículo a los nazis a quienes se les ha colado efectivos ingleses hasta la cocina.
 
 La IM ha encontrado una pequeña colina alejada de los núcleos urbanos. Con los saurios podrán moverse en sigilo por la noche cargando con la nueva antena, que es más pequeña, pero aun así pesa casi tonelada y media. La batería no debería durar más de un día, pero es suficiente para su campaña de propaganda.
 
@@ -1199,7 +1160,7 @@ Estará fondeado en la costa oeste de la isla a la altura de las tierras de la F
 
 Pueden aprovechar para conocer las instalaciones básicas del barco y hablar con la capitana, que sabe bastante de transportar saurios en barco, lleva haciéndolo años.
 
-EL viaje es corto, unos 3 días, hasta llegar a la costa de Francia donde está la isla de Jersey. Sin acercarse mucho a costa, tendrán que colocar los flotadores a los estegosaurios (ver el relato salvaje «El prototipo») y luego en una barcaza irán los comandos y las antenas. Los acuáticos en unos pocos viajes habrán desembarcado a todo el equipo sin hacer el mínimo ruido y sin usar luces. Salvo que pasará algo extraño son prácticamente indetectables. 
+El viaje es corto, unos 3 días, hasta llegar a la costa de Francia, donde está la isla de Jersey. Sin acercarse mucho a costa, tendrán que colocar los flotadores a los estegosaurios (ver el relato salvaje «El prototipo») y luego en una barcaza irán los comandos y las antenas. Los acuáticos en unos pocos viajes habrán desembarcado a todo el equipo sin hacer el mínimo ruido y sin usar luces. Salvo que pasará algo extraño son prácticamente indetectables. 
 
 [![Fotografía aérea de la Isla de Jersey](./assests/images/jersey.jpg 'Satellite view of Jersey - Copernicus Sentinel-2, ESA')](https://en.wikipedia.org/wiki/Jersey#/media/File:Jersey_by_Sentinel-2.jpg 'Satellite view of Jersey - Copernicus Sentinel-2, ESA')
 
@@ -1211,11 +1172,11 @@ Una vez en la playa más cercana al objetivo y quitados los flotadores, empieza 
 Puedes hacerles ver algunas luces en movimiento, quizás un campesino volviendo a su casa en su tractor o quizás una patrulla nazi. Como sea, deberán camuflarse o tratar de ponerse fuera de su vista. Incluso algún comando podría tratar de despistarlos llamando su atención desde otra parte. Al final será una camioneta de reparto que vuelve de su ruta.    
 
 ### Colocando la antena
-Para empezar a colocar la antena deben cerciorarse primero que están en la posición indicada. Por ello, necesitarán una tirada de Supervivencia a -2 por la baja luminosidad. Si la pasan no se perderán. Si fallan se darán cuenta de que se han equivocado de lugar. Puedes meterles otra escena como la anterior de las luces de un vehículo, si lo deseas. Fracasar supondrá que creen que están en el sitio correcto y sin embargo han fallado estrepitosamente. Solo media isla podrá oír la BBC.
+Para empezar a colocar la antena deben cerciorarse primero que están en la posición indicada. Por ello, necesitarán una tirada de Supervivencia a -2 por la baja luminosidad. Si la pasan no se perderán. Si fallan se darán cuenta de que se han equivocado de lugar. Puedes meterles otra escena como la anterior de las luces de un vehículo, si lo deseas. Fracasar supondrá que creen que están en el sitio correcto y, sin embargo, han fallado estrepitosamente. Solo media isla podrá oír la BBC.
 
 Una vez encontrado el lugar donde poner la antena, necesitarán otra tirada de Electrónica para poner en funcionamiento la antena (orientarla y conectarle adecuadamente a las baterías). Deben tener en cuenta que en cuanto la conecten empezará una cuenta atrás. Los nazis tardarán un poco, pero se terminarán dando de que algo permite conectar con la BBC usando las radios y las teles de la isla. 
 
-En ese momento en general nazi encargado de la isla pondrá a buscar la antena y los «traidores» que la han activado. Enseguida la isla se llenará de sonido de camiones, coches y motos nazis que buscan la antena.
+En ese momento, el general nazi encargado de la isla pondrá a buscar la antena y los «traidores» que la han activado. Enseguida la isla se llenará de sonido de camiones, coches y motos nazis que buscan la antena.
 
 ### Escape de Jersey
 El regreso será igual que la ida, pero para su sorpresa un camión nazi con dos soldados nazis (Infantería nazi) por cada comando más un capitán nazi (Oficial nazi) les estarán esperando. Los soldados están registrando la playa donde han desembarcado y si descubren la barcaza podrían sospechar todo el plan.
@@ -1239,6 +1200,30 @@ En grandes espacios como la tundra noruega es imposible encontrar pistas de los 
 Dándole vueltas a todo esto debería ser sospechoso que a la IM no haya visto el problema de las huellas. Todavía no tienen que sospecharlo, pero con el tiempo podrán darse cuenta de que la IM quiere que los nazis encuentren las huellas y las estudien y empiecen a sospechar que existen los dinosaurios.
 
 ***
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Parte 2: Norte de África
 El Norte de África es una de las ubicaciones más exóticas de esta campaña, arena, sol y calor insoportable. Quizás sea un cambio interesante después de unos meses en la fría Escocia. También puede ser interesante tras congelarse el culo en Noruega o en Stalingrado.
@@ -2607,16 +2592,24 @@ Estos oficiales nazis quieren seguir las antiguas tradiciones y han montado esta
 * **Equipo:** Lanza de caballería (FUE+d8, PA 2 cuando carga, Alcance 2, solo se puede usar montado), Camisote de malla (+3 torso y brazos), casco abierto (+4 cabeza), escudo medieval mediano (parada +2, cobertura -2)
 
 ### Estancias interiores del castillo
-xxx
+[![Detalle del comedor](./assests/images/comedor.jpg 'Dennis Jarvis - Germany-00348')](https://www.flickr.com/photos/archer10/30333671205/ 'Dennis Jarvis - Germany-00348')
+
+La estancias interiores es un pequeño descanso antes de la gran batalla final. Pueden aprovechar a curarse y curar a los saurios, recargar las armas, conseguir munición, reparar algo de equipo roto. Pueden conseguir algo de comida en la cocina donde están algunos sirvientes escondidos en la despensa. En las habitaciones pueden hacer vendas para los saurios con la ropa de cama. 
+
+La completa biblioteca del castillo será la perdición de cualquier ratón de biblioteca y entre tus incunables puede haber libros antiguos que sirvan de semilla de aventura para tus futuras aventuras.
+
+Déjales unos 10 o 15 minutos de descanso y si no se mueven puedes hacer que un grupo de soldados entren en la estancias y empiecen a buscarlos para espolearlos y que se pongan de nuevo en movimiento. También puedes empezar a disparar con el rayo mortal desde el zepelín atravesando el techo y los suelos del castillo. El único sitio seguro será el sótano donde el suelo de piedra servirá contra el arma desintegradora del zepelín.
 
 El doctor Eckart tiene una pequeña pinacoteca de 10 cuadros en el comedor principal del castillo de Hohenzollern. Son todos de la pintora francesa impresionista Berthe Morisot. Tus comandos deberían tratar de recuperarlos sin que sufran daño, con un agujero de bala o con una esquina quemada perderían parte de su valor. 
-
-\saltopagina
 
 ### El laboratorio en el sótano
 En el ala norte del castillo, hay unas escaleras que lleva a la bodega del castillo. Una vez tuvo una de las mejores vinos de Europa en sus estantes, pero el Doctor Eckart lo ha convertido en su laboratorio.
 
-La bodega aprovechó unas cuevas naturales y tiene una altura de unos 5 metros y parte de la bodega es natural y parte ha sido excavada. El laboratorio está lleno de equipo científico carísimo en mesas, miles de probetas con todo tipo de productos químicos humeantes, aparatos lanzando arcos voltaicos, etc. Un comando con conocimientos científicos podrá montar cualquier cosa rápida con ese equipo. Hablamos de explosivos, gases mortales, etc.
+La bodega aprovechó unas cuevas naturales y tiene una altura de unos 5 metros y parte de la bodega es natural y parte ha sido excavada. 
+
+\saltopagina
+
+El laboratorio está lleno de equipo científico carísimo en mesas, miles de probetas con todo tipo de productos químicos humeantes, aparatos lanzando arcos voltaicos, etc. Un comando con conocimientos científicos podrá montar cualquier cosa rápida con ese equipo. Hablamos de explosivos, gases mortales, etc.
 
 Al final de la cueva hay una especie de plataforma elevadora con una gran estructura metálica con una parabólica de 2 metros de radio llena de diamantes. Una tirada de Ciencias les confirmará que es la versión gigantesca de los rayos destructores portátiles que han visto hasta ahora. Las bordes de parabólica se está iluminando y por experiencias anteriores eso significa que se prepara para disparar, cuando  
 
@@ -2631,14 +2624,16 @@ Esta es la batalla final de esta aventura, el combate entre el bien y el mal. Si
 
 Veamos algunas reglas que puedes usar esta gran batalla final para hacerla más épica y apasionante.
 
-\saltopagina
 
 * La batalla final se jugará en el patio, un sitio ya conocido por tus comandos. Es difícil ocultarse, ya que es un espacio abierto sin obstáculos, pero pueden moverse hacia la zona ajardinada o parapetarse dentro de las estancias interiores y disparar desde las ventanas.  
-* El rayo destructor está cargándose y parece que está apuntando a algún punto a cientos o miles de kilómetros (Ciencias para tener una idea que apunta a París que acaba de ser liberada) y puede hacer una gran masacre. Eso hace que tienen que desactivarlo en 10 turnos (o más según veas) o lanzará su energía destructora. Para parar el disparo hay que usar a llave de seguridad que lleva Eckart al cuello. Recuérdales lo que pasa cuando explota la versión portátil del rayo, si quieren destruirlo el prototipo gigante. 
 * En principio, no hay apoyos. Ya han acabado con ellos por el camino, pero siempre está el zepelín, del que puede bajar soldados o usar sus armas contra la gente del patio.
+* No se puede negociar con Eckart, está demasiado ido para convencerle con la lógica, la persuasión o la intimidación.
+
+\saltopagina
+
+* El rayo destructor está cargándose y parece que está apuntando a algún punto a cientos o miles de kilómetros (Ciencias para tener una idea que apunta a París que acaba de ser liberada) y puede hacer una gran masacre. Eso hace que tienen que desactivarlo en 10 turnos (o más según veas) o lanzará su energía destructora. Para parar el disparo hay que usar a llave de seguridad que lleva Eckart al cuello. Recuérdales lo que pasa cuando explota la versión portátil del rayo, si quieren destruirlo el prototipo gigante. 
 * El Doctor está embadurnado de un polímero de su invención que le da +3 a la armadura y no le afecta la PA de las armas. Le da un aspecto brillante. Quizás puedan quitárselo con agua a presión do similar.
 * Si se destruye la palanca de control el alosaurio será libre y se tragará al Doctor Eckart.
-* No se puede negociar con Eckart, está demasiado ido para convencerle con la lógica, la persuasión o la intimidación.
 
 ### El hitlersaurio &#x2638;
 Este alosaurio modificado por el Doctor Eckart es una versión más agresiva y mortal de un alosaurio de la Meseta de Maple White, pero también menos inteligente. El collar de control ha sido sustituido por una especie de palanca con varios botones en la base del cuello, con la que el doctor dirige a esta poderosa bestia. Además sus manos sujetan dos rayos destructores y sus baterías se encuentran en su espalda. Las baterías tienen más protección, ya que no importa el peso (consistencia 16).
@@ -2651,13 +2646,13 @@ La expresión de dolor del saurio es fácilmente identificable por cualquiera qu
 * **Ventajas:** Nervios de Acero Mejorados
 * **Capacidades especiales:**
   * **Agresivo:** Son más agresivos, pero no tan hábiles debido a las malas condiciones en las que viven, con lo que tienen -1 a todas las tiradas de ataque y +2 al daño.
+  * **Armadura +5:** Piel escamosa y dura. Además ha sido embadurnado de un polímero de invención del Doctor que hace aún más resistente. El polímero le da un toque brillante muy llamativo. Puede que el agua puedan disolver el polímero y quitarle esa protección.
+  * **Rayos destructores:** Cada turno, adicionalmente a su ataque puede lanzar un rayo destructor, pero tienes que tirar al azar en que dirección sale (1d3 para elegir por cuál casilla delantera sale). Si quiere apuntar, entonces no podrá hacer el ataque normal.
 
 \saltopagina
 
-* 
-  * **Armadura +5:** Piel escamosa y dura. Además ha sido embadurnado de un polímero de invención del Doctor que hace aún más resistente. El polímero le da un toque brillante muy llamativo. Puede que el agua puedan disolver el polímero y quitarle esa protección.
+*  
   * **Mordisco:** FUE+d8+2.
-  * **Rayos destructores:** Cada turno, adicionalmente a su ataque puede lanzar un rayo destructor, pero tienes que tirar al azar en que dirección sale (1d3 para elegir por cuál casilla delantera sale). Si quiere apuntar, entonces no podrá hacer el ataque normal.
   * **Miedo -2:** Quien vea un poderoso alosaurio deberá hacer una tirada contra miedo con una penalización de -2.
   * **Impávido:** Es inmune a las tiradas de miedo e Intimidar.
   * **Grande:** +1 herida. Los enemigos de tamaño normal obtienen un +2 en tiradas de ataque contra ellos.
@@ -2672,11 +2667,11 @@ Oficialmente la campaña ha acabado y tienes un relato salvaje titulado "Despedi
 
 Pero esta historia no tiene por qué acabar. La guerra no ha acabado y si como DJ quieres meter más aventuras, tienes semillas de aventuras que puedes usar o elaborar una trama, por ejemplo, en la que llegan a Berlín. 
 
-\saltopagina
-
 Como siempre si el tema de comandos con saurios te ha gustado, quizás puedas embarcarlos en alguna loca aventura pulp, como la búsqueda de la Atlántida o enfrentarlos a algún tipo de invasión extraterrestre o de horror cósmico. Nunca desdeñes la fuerza narrativa que tienen palabras como "Cthulhu vs. dinosaurios".
 
 En esta última aventura hemos dejado entrar la Ciencia Extraña, así que podría haber algún artilugio temporal que permita traer más saurios del pasado. O si jugaste el relato "Nadie", puedes servirte de esta como enlace para meter aventuras tipo Julio Verne y sus "20.000 leguas de viaje submarino". Quizás encontrar los restos del Nautilus y su tecnología perdida sea la gran aventura que tu mesa busca.
+
+\saltopagina
 
 Por último, en el libro original de El Mundo Perdido proponen montones de cosas misteriosas que hay escondidas en la meseta de Maple White que puedes seguir explotando.
 

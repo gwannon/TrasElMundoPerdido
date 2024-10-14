@@ -15,12 +15,12 @@
   * Misión de rescate
   * Evitando un genocidio
   * Batalla del Mundo Perdido
-* Parte 9: La Selva Negra (3)
+* Parte 9: La Selva Negra (2)
   * La IM vuelve y viaje a la selva Negra
   * Defensas interiores
-  * Estancias interiores del castillo
 
 * Terminada la parte de "Defensas exteriores" de "Parte 9: La Selva Negra"
+* Terminada la parte de "Estancias interiores del castillo" de "Parte 9: La Selva Negra"
 
 ## Versión 0.9 11/10/2024
 * Terminada la parte de "Aprovechando el terreno" de "Parte 8: Regreso al Mundo Perdido"
