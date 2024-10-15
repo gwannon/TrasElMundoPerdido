@@ -648,7 +648,7 @@ Recibes un **+2 en tiradas en que las matemáticas sean importantes**, desde Apo
 
 **Requisitos:** Novato, solo un comando por grupo
 
-El comando tiene un sexto sentido afinado conalas energías extrañas que nos rodean, desde los diferentes planos, pasando por otras dimensiones, hasta la magia. Esto se resumen en un sexto sentido que le da ideas en situaciones desesperadas. 
+El comando tiene un sexto sentido afinado con las energías extrañas que nos rodean, desde los diferentes planos, pasando por otras dimensiones, hasta la magia. Esto se resumen en un sexto sentido que le da ideas en situaciones desesperadas. 
 
 En situaciones de estrés y grave peligro, como estar rodeados por nazis, en un avión en llamas o perdidos en la selva, el comando puede gastar todos sus benis (mínimo 1) y el DJ deberá darle una pista que le ayude a salir del embrollo en que este metido. Puede ser buscar un sótano por el que escapar, construir un paracaídas con restos o buscar un punto elevado para orientarse. 
 
@@ -911,7 +911,7 @@ Cada silla de montar está modificada para cada especie de saurio y no pueden in
 > Se puede cabalgar sin silla, pero supone un -2 a la tirada de Cabalgar si es un compañero saurio y un -4 si no lo es.
 
 ***
-F
+
 # La campaña
 
 ## Resumen
@@ -1468,12 +1468,13 @@ Nadie lo sabe, pero mientras estaban trabajando un submarino nazi en el fondeade
 
 Tus comandos casi chocan con él en su trabajo de inspección. Se lo encontrarán a altura de periscopio y parece que está en modo combate y va directo hacia el «HMS Royal Oak». En cuanto esté a distancia de torpedos, lanzará su ataque. 
 
-\saltopagina
 
 ### Escudo anti-torpedos
 Tus comandos y sus saurios son la única defensa que tiene el «HMS Royal Oak». Para cuando puedan avisarles del ataque y se preparen, el acorazado ya estará haciendo aguas. 
 
 Deben actuar ya, moverse rápido y desviar los torpedos de su trayectoria, siendo certeros con sus ataques. Con suerte el Royal Oak salga indemne del ataque y pueda contraatacar.
+
+\saltopagina
 
 El submarino U-47 de Prien tiene dos tipos de torpedos:
 
@@ -1484,8 +1485,6 @@ Como recordatorio rápido, los plesiosaurios y los ictiosaurios tienen una veloc
 
 El submarino nazi va a intentar hundir el «HMS Royal Oak» y tus comandos con sus plesiosaurios e ictiosaurios deben crear un escudo anti torpedos. 
 
-[![Detalle del tablero de combate](./assests/images/grid.png 'Detalle del tablero de combate')](https://mundoperdido.gwannon.com/assests/images/grid.png 'Detalle del tablero de combate')
-
 #### Campo de batalla
 Crea una cuadrícula de 6x10. En un extremo estará el buque de guerra y en el otro extremo el submarino. 
 
@@ -1494,13 +1493,19 @@ El primer turno y cada dos turnos (1, 3, 5, 7, etc.) el submarino lanza un torpe
 #### Movimiento por el campo de batalla
 Cada turno, por cada torpedo activo saca una carta, si sale trébol se mueve una casilla hacia adelante y si no se mueven dos casillas hacia delante (y como antes un Joker supone que falla un G7e). Los saurios acuáticos se mueven 1 casilla y con una tirada de Atletismo podrá moverse otra casilla adicional.
 
-\saltopagina
-
 Si falla, sigue moviéndose la casilla extra, pero recibe 1 punto de fatiga (efectivo al terminar su turno). Si pifia, ni obtiene la casilla extra y recibe el punto de fatiga.
 
-Los G7a se les detecta muy fácilmente y desde la casilla 1 se ve su trayectoria, pero lo G7e son invisibles para tus comandos hasta que un comando pasa por su casilla o una adyacente. En ese momento, podrán detectarlo y ver qué columna de la cuadrícula sigue. 
-
 [![Dibujo del submarino U-47](./assests/images/U-47.jpg 'U-47 by Rama')](https://commons.wikimedia.org/wiki/File:U-47.jpg#/media/Archivo:U-47.jpg 'U-47 by Rama')
+
+\saltopagina
+
+[![Imagen del tablero de combate](./assests/images/grid.png 'Detalle del tablero de combate')](https://mundoperdido.gwannon.com/assests/images/grid.png 'Detalle del tablero de combate')
+
+Plantilla del combate contra el submarino
+
+\saltopagina
+
+Los G7a se les detecta muy fácilmente y desde la casilla 1 se ve su trayectoria, pero lo G7e son invisibles para tus comandos hasta que un comando pasa por su casilla o una adyacente. En ese momento, podrán detectarlo y ver qué columna de la cuadrícula sigue. 
 
 #### Desviar un torpedo
 Para deflectar un torpedo, el plesiosaurio debe estar en la misma casilla que el torpedo. Cada vez que un torpedo entra en una casilla ocupada por comando o el comando y su saurio entra en una casilla ocupada por un torpedo, puede intentar desviarlo para que no impacte contra el «HMS Royal Oak».
@@ -1516,14 +1521,13 @@ Si pasan la tirada, el proyectil recibe tal impacto que es desviado de su ruta y
 #### Fin del combate
 Cuando un torpedo lleva a la última casilla de su columna, impacta el buque de guerra. El combate acaba en dos situaciones 
 
-\saltopagina
-
 * Cuando el barco recibe 3 impactos o 2 impactos en la misma localización. En este caso, el buque de guerra ha recibido demasiado daño y empezará a hundirse.
 * Cuando el submarino lanza 15 torpedos y no consigue hundir su objetivo.
 
 ## ¿Cómo detener un submarino?
-El U-47 se ha quedado casi sin torpedos y solo le queda escapar, pero no será tan fácil con un grupo de saurios acuáticos persiguiéndote en aguas enemigas;
-Tus comandos debe buscar la forma de detener el submarino antes de que alcance Kirk Sound, el punto de entrada y salida a Scapa Flow. 
+El U-47 se ha quedado casi sin torpedos y solo le queda escapar, pero no será tan fácil con un grupo de saurios acuáticos persiguiéndote en aguas enemigas. Tus comandos debe buscar la forma de detener el submarino antes de que alcance Kirk Sound, el punto de entrada y salida a Scapa Flow. 
+
+\saltopagina
 
 Tus comandos no tienen capacidad para detener un submarino ellos solos, pero el submarino tiene que moverse muy lentamente entre los arrecifes de Kirk Sound. Podrían intentar alguna de estas opciones.
 
@@ -1540,15 +1544,14 @@ Si consiguen detener al U-47 y Prien rinde su nave, podrán interrogar a los cap
 * Todo el submarino está alucinando por haber fallado casi todos los torpedos contra un navío desprevenido.
 * Cree que consiguieron comunicarse con su base para explicar qué ha pasado antes de rendirse.
 * Si no es su primera misión, hay rumores de que los ingleses tienen seres mágicos, gremlins o espíritus o su servicio.
-
-\saltopagina
-
 * Muchas unidades están dejando el frente para trabajar en proyectos secretos y el general Theodor von Liebenfels siempre está relacionado con ello.
 
 Puedes aprovechar estos rumores para introducir también tus propias tramas.
 
 ## Saltan las alarmas (Pistas)
 El sistema de detección y desvío de torpedos con saurios acuáticos tiene que haber vuelto loco al capitán de corbeta Prien. Ha tenido que alucinar al ver como todos sus torpedos acababan fallando contra un enemigo desprotegido y desprevenido. Lo normal es que reporte a sus jefes que los ingleses tienen una tecnología anti-torpedos y que la han probado en combate.
+
+\saltopagina
 
 En unos días un relojero alemán afincado desde 1929 en las Orcadas llamado Alfred Wehring llegará a Londres y en pocos días la inteligencia nazi sabrá que el capitán Prien fallo inexplicablemente. 
 
@@ -2625,7 +2628,6 @@ Esta es la batalla final de esta aventura, el combate entre el bien y el mal. Si
 ### Reglas de la batalla
 
 Veamos algunas reglas que puedes usar esta gran batalla final para hacerla más épica y apasionante.
-
 
 * La batalla final se jugará en el patio, un sitio ya conocido por tus comandos. Es difícil ocultarse, ya que es un espacio abierto sin obstáculos, pero pueden moverse hacia la zona ajardinada o parapetarse dentro de las estancias interiores y disparar desde las ventanas.  
 * En principio, no hay apoyos. Ya han acabado con ellos por el camino, pero siempre está el zepelín, del que puede bajar soldados o usar sus armas contra la gente del patio.
