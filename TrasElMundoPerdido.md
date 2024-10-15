@@ -1825,7 +1825,7 @@ La fiesta de disfraces es además una situación en la que no podrá usar a sus 
 
 Pero lo primero de todo es conseguir un transporte adecuado para ir a la fiesta, un buen disfraz y una invitación y tienen menos de 24 horas para conseguirlo.
 
-El coche es relativamente fácil, pueden alquilarlo o robarlo a alguna familia rica de la ciudad. Tiene que tener cierto cache o los vigilantes de la fiesta podrían sospechar.
+El coche es relativamente fácil, pueden alquilarlo o robarlo a alguna familia rica de la ciudad. Tiene que tener cierto prestigio social y clase o los vigilantes de la fiesta podrían sospechar.
 
 Las entradas podrán falsificarlas si ven alguna o robarlas. Pueden hacer un doblete robando un coche que vaya a la fiesta y quitándoles las entradas.
 
@@ -2473,7 +2473,7 @@ El castillo de Hohenzollern es la guarida secreta del Doctor Eckart, una fortale
 
 El castillo de Hohenzollern se encuentra en la cumbre del monte Hohenzollern, perteneciente a una sierra llamada Jura de Suabia. El castillo está una altitud de 855 metros. Data de 1847, aunque todavía hay resto de otros dos castillos anteriores destruidos en diferentes guerras. La ciudad más importante es Stuttgart que está a 50 kilómetros al sur del castillo. Se le considera una versión menos fantástica del famoso castillo de Neuschwanstein, conocido por ser inspiración de los castillos de las películas de Disney.
 
-El castillo fue construido en un macizo rocoso por lo que excavar un túnel para entrar es casi imposible y tampoco hay estructuras cavernosas debajo suyo que puedan usarse.
+El castillo fue construido en un macizo rocoso por lo que excavar un túnel para entrar es casi imposible y tampoco hay estructuras cavernosas en su subsuelo que puedan usarse.
 
 Los muros de todo el castillo son de piedra y dan protección contra todo tipo de arma de fuego, mientras no sea artillería pesada. Sin embargo, sus grandes ventanales de estilo neogótico inglés serán la delicia de francotiradores.
 
@@ -2505,11 +2505,11 @@ A la hora de usarlos en combate los nazis no son cuidadosos con ellos y se lanza
 
 Si tus comandos tratan de no hacerles daño, deberías darles benis por sus actos de bondad. 
 
-Si consiguen romper los collares de entrenamiento, los saurios serán libres de hacer lo que quieran y normalmente será atacar a sus torturadores. Si se apunta a los collares (-6 al ataque) y pasan su consistencia de 8, el collar se estropeará y el mando de control será inútil.
+Rompiendo los collares de entrenamiento, los saurios serán libres de hacer lo que quieran y normalmente será atacar a sus torturadores. Si se apunta a los collares (-6 al ataque) y pasan su consistencia de 8, el collar se estropeará y el mando de control será inútil.
 
 Los saurios carnívoros liberados atacarán a su jinete y seguramente escaparán. Los herbívoros se desharán del jinete y puede que se unan a la manada. Si se libera del control a un herbívoro, un compañero saurio herbívoro puede hacer una tirada de Espíritu para atraerlo a la manada y que combata con él. Si falla, el dinosaurio huirá del combate.
 
-Un par de ejemplares de saurios carnívoros jóvenes han sido llevados al zoo de Berlín, los han ocultado. Hitler los reserva para entrar en Londres montado en ellos. Puede ser una buena semilla de aventura, tras la campaña, que tus comandos rescaten esos saurios del zoo de Berlín antes de que entre el ejercito rojo.
+Un par de ejemplares de saurios carnívoros jóvenes han sido llevados al zoo de Berlín, los han ocultado. Hitler los reserva para entrar en Londres montado en ellos. Puede ser una buena semilla de aventura, tras la campaña, que tus comandos rescaten esos saurios del zoo de Berlín antes de que entre el ejército rojo.
 
 \saltopagina
 
@@ -2573,11 +2573,11 @@ Estos oficiales nazis quieren seguir las antiguas tradiciones y han montado esta
 ### Estancias interiores del castillo
 [![Detalle del comedor](./assests/images/comedor.jpg 'Dennis Jarvis - Germany-00348')](https://www.flickr.com/photos/archer10/30333671205/ 'Dennis Jarvis - Germany-00348')
 
-La estancias interiores es un pequeño descanso antes de la gran batalla final. Pueden aprovechar a curarse y curar a los saurios, recargar las armas, conseguir munición, reparar algo de equipo roto. Pueden conseguir algo de comida en la cocina donde están algunos sirvientes escondidos en la despensa. En las habitaciones pueden hacer vendas para los saurios con la ropa de cama. 
+Las estancias interiores es un pequeño descanso antes de la gran batalla final. Pueden aprovechar a curarse y curar a los saurios, recargar las armas, conseguir munición, reparar algo de equipo roto. Pueden conseguir algo de comida en la cocina donde están algunos sirvientes escondidos en la despensa. En las habitaciones pueden hacer vendas para los saurios con la ropa de cama. 
 
 La completa biblioteca del castillo será la perdición de cualquier ratón de biblioteca y entre tus incunables puede haber libros antiguos que sirvan de semilla de aventura para tus futuras aventuras.
 
-Déjales unos 10 o 15 minutos de descanso y si no se mueven puedes hacer que un grupo de soldados entren en la estancias y empiecen a buscarlos para espolearlos y que se pongan de nuevo en movimiento. También puedes empezar a disparar con el rayo mortal desde el zepelín atravesando el techo y los suelos del castillo. El único sitio seguro será el sótano donde el suelo de piedra servirá contra el arma desintegradora del zepelín.
+Déjales unos 10 o 15 minutos de descanso y si no se mueven puedes hacer que un grupo de soldados entren en las estancias y empiecen a buscarlos para espolearlos y que se pongan de nuevo en movimiento. También puedes empezar a disparar con el rayo mortal desde el zepelín atravesando el techo y los suelos del castillo. El único sitio seguro será el sótano donde el suelo de piedra servirá contra el arma desintegradora del zepelín.
 
 El doctor Eckart tiene una pequeña pinacoteca de 10 cuadros en el comedor principal del castillo de Hohenzollern. Son todos de la pintora francesa impresionista Berthe Morisot. Tus comandos deberían tratar de recuperarlos sin que sufran daño, con un agujero de bala o con una esquina quemada perderían parte de su valor. 
 
@@ -3514,11 +3514,11 @@ En este capítulo vamos a ver todos los personajes que van a poblar esta campañ
 
 Aquí tienes, primero, aliados de tus comandos, miembros de la Fundación, altos cargos de IM. Continuamos con antagonistas, todo una serie de malvados nazis que van a ponérselo difícil a tus comandos. Además, tenemos toda una serie de secuaces que llenarán tus aventuras de todo tipo de personajes.
 
-Por último, tenemos una sección con los auténticos protagonistas de esta campaña los dinosaurios con extensas descripciones, ilustraciones, escalas en relación con los humanos, etc.
+Por último, tenemos una sección con los auténticos protagonistas de esta campaña, los dinosaurios con extensas descripciones, ilustraciones, escalas en relación con los humanos, etc.
 
-> Recuerda que todo PJ con este símbolo (&#x2638;) en su nombre son considerados comodines con todo lo que ello conlleva.
+> Recuerda que todo PJ con este símbolo (&#x2638;) en su nombre son considerados comodines, con todo lo que ello conlleva.
 
-Con cada PJ viene una «sugerencia de interpretación». Como bien dice su nombre es una sugerencia y eres libre de seguirla o no. Es tu aventura no la nuestra.
+Con cada PJ viene una «sugerencia de interpretación». Como bien dice su nombre es una sugerencia y eres libre de seguirla o no. Es tu aventura, no la nuestra.
 
 ## Aliados
 Don Quijote no sería nada sin su Sancho Pancho y tus comandos no serían nada sin sus aliados. En este apartado encontrarás a los principales aliados de tu mesa, gentes de la Fundación, de IM y PNJ que encontrarán en cada escenario.
@@ -3536,7 +3536,7 @@ La tranquila vida en Londres de Margaret Roxton se vio alterada cuando heredó e
 
 Margaret creció con las historias de caza que su tío le contaba cuando visitaba a su hermana y su familia. Eran grandes aventuras de África y sobre todo de Sudamérica, de la que estaba enamorada; cómo se había enfrentado a esclavistas, cómo había recorrido los rápidos de afluentes del Amazonas, las costumbres de las tribus indígenas, etc.
 
-Margaret supuso un cambio radical en la Fundación, no solo en la forma de tratar a los saurios sino de como estudiar y protegerlos a ellos y toda la fauna y flora de la Meseta de Maple White. Además, eliminó todo el rancio elitismo de su tío. Lady Roxton salió del castillo y trabajo en el campo como sus ayudantes, se hundió en el barro y mierda de saurios, sufrió fiebres de pteranodontes y tiene cicatrices de garras de megalosaurio.  
+Margaret supuso un cambio radical en la Fundación, no solo en la forma de tratar a los saurios, sino de como estudiar y protegerlos a ellos y toda la fauna y flora de la Meseta de Maple White. Además, eliminó todo el rancio elitismo de su tío. Lady Roxton salió del castillo y trabajo en el campo como sus ayudantes, se hundió en el barro y mierda de saurios, sufrió fiebres de pteranodontes y tiene cicatrices de garras de megalosaurio.  
 
 Tampoco debemos olvidar que ella ofreció a sus queridos saurios para ayudar en la guerra, sabiendo lo que se jugaba la humanidad en esta guerra y que no ha dudado nunca en poner los fondos de la Fundación al servicio de su país contra los nazis.
 
@@ -3605,7 +3605,7 @@ Este viejo soldado de caballería lleva tanto tiempo entre cuarteles y campos de
 
 Su forma de pensar «fuera de la caja», con sus planes imaginativos y diferentes, es lo que le hace excepcional en su trabajo al frente de IM. Además, es capaz de hacer planes previendo los movimientos del adversario y adelantándose a ellos de formas eficaces y sobre todo inesperadas.
 
-Todo el proyecto es los comandos de dinosaurios es una gran estratagema ideada por él para confundir a los nazis y sacar del frente al mayor número de unidades.
+Todo el proyecto de los comandos de dinosaurios es una gran estratagema ideada por él para confundir a los nazis y sacar del frente al mayor número de unidades.
 
 Su única otra pasión es el futbol y su amado Manchester City, el equipo de su niñez, por el que siente verdadera devoción. El resto del tiempo es un militar como la copa de un pino, pero cuando el Manchester City está jugando en un hincha más. La única forma de traspasar su armadura de duro general inglés es con el fútbol.
 
@@ -3620,7 +3620,7 @@ Linton sabe que el conflicto actual será su última batalla y quiere irse por l
 
 \saltopagina
 
-**Sugerencia de interpretación:** Eres un viejo soldado que ha pasado toda su vida en el ejército, de una guerra a otra luchando por tu país. Eres duro, más duro que un clavo en un ataúd, no tienes tiempo para sentimentalismo, porque si tomas malas decisiones o las haces tarde hay mucha gente que muere. Solo hay un momento en que relajas el rictus y es cuando hablas de fútbol y de tu querido Manchester City (de hecho llevas un lazo en la muñeca con sus colores).  
+**Sugerencia de interpretación:** Eres un viejo soldado que ha pasado toda su vida en el ejército, de una guerra a otra, luchando por tu país. Eres duro, más duro que un clavo en un ataúd, no tienes tiempo para sentimentalismo, porque si tomas malas decisiones o las haces tarde hay mucha gente que muere. Solo hay un momento en que relajas el rictus y es cuando hablas de fútbol y de tu querido Manchester City (de hecho llevas un lazo en la muñeca con sus colores).  
 
 ### Teniente Horace Chambers, mano ejecutora de la IM y el General Linton &#x2638;
 
@@ -3628,7 +3628,7 @@ Linton sabe que el conflicto actual será su última batalla y quiere irse por l
 
 Horace Chambers es la persona más alejada de lo que pensarías que es un espía y sin embargo es una pieza importante en IM. Su visión totalmente diferente de la vida hace que piense fuera de la caja, cosa que IM ha aprovechado varias veces con éxito. 
 
-Tiene bastos conocimientos de cultura pop como chismes y cotilleos, datos curiosos, trucos de cocina, etc. A eso se junta su licenciatura en historia del arte una gran afición a leer los libros de estrategia militar antigua. Todo eso ha conformado una mente excepcional para buscar soluciones imaginativas a problemas importantes que ha tenido IM. 
+Tiene vastos conocimientos de cultura pop como chismes y cotilleos, datos curiosos, trucos de cocina, etc. A eso se junta su licenciatura en historia del arte, una gran afición a leer los libros de estrategia militar antigua. Todo eso ha conformado una mente excepcional para buscar soluciones imaginativas a problemas importantes que ha tenido IM. 
 
 Fue Horace quien, mientras servía té al general Linton, vio un informe de la Fundación Roxton y le dijo sin darle la mínima importancia que Hitler se volvería loco por conseguir un tiranosaurio con el que desfilar por Berlín.
 
@@ -3643,16 +3643,16 @@ Es un adicto confeso a la azúcar y es raro verlo sin algo azucarado en la mano.
 
 \saltopagina
 
-**Sugerencia de interpretación:** Siempre estás comiendo, aprovecha a abrir los aperitivos cuando hagas de Horace, habla con la boca abierta y haz mucho ruido al masticar. Te encanta la historia así que siempre metes datos históricos totalmente inútiles para la misión y al final todo el mundo acaba aburrido y bostezando.
+**Sugerencia de interpretación:** Siempre estás comiendo, aprovecha a abrir los aperitivos cuando hagas de Horace, habla con la boca abierta y haz mucho ruido al masticar. Te encanta la historia, así que siempre metes datos históricos totalmente inútiles para la misión y al final todo el mundo acaba aburrido y bostezando.
 
 > Aparte de un alivio cómico, Horace puede ser una excusa para dar pistas a tus comandos cuando los veas perdidos. Haz que suelte alguna frase que parezca estúpida, pero que si la piensan un poco les dé alguna buena idea para solucionar el problema al que se enfrentan. Quizás les recuerde que la corona de la familia real británica tiene 4 puntas y eso les sirva para detectar documentos falsos. 
 
 ### Jocelyn Dubois, espía y aventurera &#x2638;
 [![Retrato de Jocelyn Dubios](./assests/images/jocelyn.jpg 'Painting sketch by ArthurHenri')](https://www.deviantart.com/arthurhenri/art/Painting-sketch-775087428 'Painting sketch by ArthurHenri')
 
-Desde muy pequeña Jocelyn lleva viajando con su familia, comerciantes de origen francés, o por su cuenta a ambos lados del Mediterráneo. Habla 6 idiomas fluidamente y sabe mezclarse con la gente y desaparecer. Es por ello que fue reclutada por la IM inglesa para trabajar como espía cuando Francia cayó ante los nazis. 
+Desde muy pequeña, Jocelyn lleva viajando con su familia, comerciantes de origen francés, o por su cuenta a ambos lados del Mediterráneo. Habla 6 idiomas fluidamente y sabe mezclarse con la gente y desaparecer. Es por ello que fue reclutada por la IM inglesa para trabajar como espía cuando Francia cayó ante los nazis. 
 
-Fue entrenada en habilidades básicas de espionaje, investigación y combate y la mandaron a diferentes misiones por Francia, Italia, Marruecos, Libia y Egipto de las siempre ha salido airosa.
+Fue entrenada en habilidades básicas de espionaje, investigación y combate y la mandaron a diferentes misiones por Francia, Italia, Marruecos, Libia y Egipto, de las que siempre ha salido airosa.
 
 También es una apasionada de la historia, de hecho su tapadera principal es la de una diletante estudiante de arqueología que viaja por el Mediterráneo estudiando ruinas de todas las civilizaciones que han surcado sus aguas.
 
@@ -3667,7 +3667,7 @@ Jocelyn será un personaje importante en dos escenarios de esta campaña, la Fra
 * **Desventajas:** Exceso de confianza, Fobia (menor, ratas)
 * **Equipo:** Varios pasaportes de diferentes nacionalidades y dinero en diferentes divisas (escondido en un lugar secreto), ropa cómoda de viaje, libros y herramientas de arqueología, pistola y daga (FUE+d4)
 
-**Sugerencia de interpretación:** Eres una vividora. Te gusta la vida en todos sus aspectos, la buena comida, la buena bebida, bailar y cantar y pasártelo bien en dormitorio. Trata siempre de disfrutar de los pequeños placeres de la vida incluso en las peores situaciones. Puede que estés en medio de un tiroteo con unos soldados nazis, pero eso no quiere decir que no puedas llevarte un par de botellas de un vino italiano para la cena.
+**Sugerencia de interpretación:** Eres una vividora. Te gusta la vida en todos sus aspectos, la buena comida, la buena bebida, bailar y cantar y pasártelo bien en dormitorio. Trata siempre de disfrutar de los pequeños placeres de la vida, incluso en las peores situaciones. Puede que estés en medio de un tiroteo con unos soldados nazis, pero eso no quiere decir que no puedas llevarte un par de botellas de un vino italiano para la cena.
 
 ### Arntine Cornelia Marie Edvardsdatter Lyngstad, campesina noruega convertida en espía inglesa &#x2638;
 [![Primer plano de Arntine Lyngstad en su juventud](./assests/images/arntine.jpg 'Aud Egede Nissen - Alexander Binder')](https://en.wikipedia.org/wiki/Aud_Egede-Nissen#/media/File:Aud_Egede_Nissen_Binder.jpg 'Aud Egede Nissen - Alexander Binder')
@@ -3676,7 +3676,7 @@ Arntine Lyngstad es una paria entre su gente, su hija Synni es una «tyskerhoren
 
 Esta situación fue aprovechada por IM para convertir a Arntine en uno de sus colaboradores a cambio de una paga y la promesa de poder ir a vivir en Inglaterra después de la guerra.
 
-Siguiendo órdenes de los ingleses, Arntine se movió por todo el país trabajando siempre para los alemanes en trabajos de bajo nivel como criada, costurera, etc. Esto le permitía entrar en cualquier sitio y ser casi invisible al ser considerada inferior por sus empleadores alemanes.
+Siguiendo órdenes de los ingleses, Arntine se movió por todo el país, trabajando siempre para los alemanes en trabajos de bajo nivel como criada, costurera, etc. Esto le permitía entrar en cualquier sitio y ser casi invisible al ser considerada inferior por sus empleadores alemanes.
 
 \saltopagina
 
@@ -3742,12 +3742,12 @@ Theodor es uno de generales más importantes de las fuerzas militares nazis y es
 
 * **Equipo de combate:** Espada vikinga (FUE+d8), Camisote de malla (+3 torso y brazos), casco abierto (+4 cabeza), escudo medieval mediano (parada +2, cobertura -2)
 
-**Sugerencia de interpretación:** Eres todo lo que se espera de un general racista, machista, cruel, sádico (de hecho disfrutas con el dolor ajeno y propio) y con un total desprecio por la vida humana. Los fallos los castigas duramente, muy duramente. En cuanto empiezan a salirte mal las cosas empiezas a chillar a todos y a moverte frenéticamente.
+**Sugerencia de interpretación:** Eres todo lo que se espera de un general racista, machista, cruel, sádico (de hecho disfrutas con el dolor ajeno y propio) y con un total desprecio por la vida humana. Los fallos los castigas duramente, muy duramente. En cuanto empiezan a salirte mal las cosas, comienzas a chillar a todos y a moverte frenéticamente.
 
 ### Doctor Artur Eckart, científico loco nazi &#x2638;
 [![Primer plano de Wayland](./assests/images/eckart.jpg 'Geoffrey N. Pyke by State Library Victoria Collections')](https://www.flickr.com/photos/statelibraryofvictoria_collections/ 'Geoffrey N. Pyke by State Library Victoria Collections')
 
-Este genio de la ciencia (de hecho, será una de las personas más inteligentes del mundo) es capaz de crear inventos increíbles, pero en vez de ponerlos al servicio del mundo se decantó por los nazis. Aunque no cree en su causa, como no le ponen impedimentos éticos y morales a sus experimentos lleva asociado con ellos desde hace años. No tiene problemas en probar todo tipo de ingenios y descubrimientos científicos en prisiones de guerra y de campos de concentración, según él siempre en beneficio de la ciencia.
+Este genio de la ciencia (de hecho, será una de las personas más inteligentes del mundo) es capaz de crear inventos increíbles, pero en vez de ponerlos al servicio del mundo se decantó por los nazis. Aunque no cree en su causa, como no le ponen impedimentos éticos y morales a sus experimentos, lleva asociado con ellos desde hace años. No tiene problemas en probar todo tipo de ingenios y descubrimientos científicos en prisiones de guerra y de campos de concentración, según él siempre en beneficio de la ciencia.
 
 Su mayor descubrimiento ha sido desarrollar una especie de rayo láser hipercalorífico que puede destruir ciudades enteras en segundos dejando nada más que cenizas, el problema es que para que el arma sea efectiva necesita una ingente cantidad de diamantes con unas características muy específicas de color y de tono que los hacen muy difíciles de encontrar. Ha podido ofrecer al propio Hitler versiones funcionales de su invento, pero a pequeña escala, para lograr una arma definitiva necesita gran cantidad de esos diamantes especiales.
 
@@ -3766,7 +3766,7 @@ Pero este genio loco no solo ha trabajado en su rayo mortal, también ha mejorad
 * **Ciencia extraña:** 15 pp. Rayo mortal portátil (Chorro), Campo de fuerza (Desvío)
 * **Equipo:** Bata blanca, Libros de consulta de física y química, Útiles científicos varios
 
-**Sugerencia de interpretación:** Tu locura esta al nivel de tu genialidad científica, así que estás muy muy loco. Gritas y susurras en la misma frase y hablas contigo mismo. Te preguntas y te respondes con diferentes voces incluso discutes a gritos contigo mismo. Y de repente vuelves a la normalidad durante unos segundos pareciendo totalmente normal.
+**Sugerencia de interpretación:** Tu locura está al nivel de tu genialidad científica, así que estás muy muy loco. Gritas y susurras en la misma frase y hablas contigo mismo. Te preguntas y te respondes con diferentes voces incluso, discutes a gritos contigo mismo. Y de repente vuelves a la normalidad durante unos segundos pareciendo totalmente normal.
 
 ### Irma Bormann, agente de las SS &#x2638;
 [![Retrato de Irma Bormann](./assests/images/bormann.jpg 'Studio portrait photo of Veronica Lake taken for promotional use.')](https://es.wikipedia.org/wiki/Veronica_Lake#/media/Archivo:Veronica_Lake_still.jpg 'Studio portrait photo of Veronica Lake taken for promotional use.')
@@ -3794,13 +3794,13 @@ Puede mandar fusilar a una familia entera y derribar su casa sin pestañear si e
 ### Günther Prien, capitán de submarino &#x2638;
 [![Primer plano de Günther Prien](./assests/images/prien.jpg 'Kapitänleutnant Prien 6534-40 - Bundesarchiv')](https://es.wikipedia.org/wiki/G%C3%BCnther_Prien#/media/Archivo:Bundesarchiv_Bild_183-2006-1130-500,_Kapit%C3%A4nleutnant_G%C3%BCnther_Prien.jpg 'Kapitänleutnant Prien 6534-40 - Bundesarchiv')
 
-[Günther Prien](https://es.wikipedia.org/wiki/G%C3%BCnther_Prien) es una de los mejores caza barcos de la marina nazi. Su sola mención hace que cualquier tripulación se «santigüe» y le rece a sus dioses. 
+[Günther Prien](https://es.wikipedia.org/wiki/G%C3%BCnther_Prien) es uno de los mejores caza barcos de la marina nazi. Su sola mención hace que cualquier tripulación se «santigüe» y le rece a sus dioses. 
 
 A pesar de sus orígenes humildes, pudo entrar en la escuela de oficiales de la Kaiserliche Marine, llegando a ser uno de sus capitanes de corbeta más jóvenes. 
 
 Günther Prien es un hábil capitán de submarino. Con su U-47 ha conseguido varias victorias, obteniendo bastante renombre no solo entre militares sino también la opinión pública y los medios. Es por ello que la marina nazi lo ha elegido para entrar en la inexpugnable base de Scapa Flow. La verdad es que si hay alguien capaz de lograrlo es él.
 
-Es muy querido por sus subordinados por su buen trato y por preocuparse por ellos. Todos sus marineros y oficiales harían lo que fuera por él.
+Es muy querido por sus subordinados, por su buen trato y por preocuparse por ellos. Todos sus marineros y oficiales harían lo que fuera por él.
 
 &nbsp;
 
@@ -3866,7 +3866,7 @@ Los y las tripulantes del «Mary Anning» son de lo mejor que la marina mercante
 * **Equipo:** Machete(FUE+d6), Salvavidas, Caja de herramientas
 
 ### Combatiente de la guerrilla
-Incluye a cualquier tipo de persona que empuñe un arma y defienda sus tierras de los invasores nazis. Desde jóvenes sin experiencia y con mucho ánimo hasta personas ancianas experimentadas pero cansadas de luchas.
+Incluye a cualquier tipo de persona que empuñe un arma y defienda sus tierras de los invasores nazis. Desde jóvenes sin experiencia y con mucho ánimo hasta personas ancianas, experimentadas pero cansadas de luchas.
 
 \saltopagina
 
@@ -3919,7 +3919,7 @@ Este soldado nazi es por así decirlo una arma de destrucción personal. Tiene u
 * **Equipo:** Ametralladora pesada con arnés de sujeción (necesita un turno completo para deshacerse de este equipo) y gran cantidad de munición, casco (+1 dureza cabeza)
 
 ### Infantería nazi acorazado
-La idea de este soldado nazi es crear una persona que sea un tanque. Con tanto blindaje encima que no tenga problemas en meterse directamente en la línea de fuego del enemigo con sus armas automáticas. Como en otros casos su capacidad de movimiento es limitada debido al peso de la armadura y de su armamento. Por todo esto es más fácil evitarlo que enfrentarse a él directamente.
+La idea de este soldado nazi es crear una persona que sea un tanque. Con tanto blindaje encima que no tenga problemas en meterse directamente en la línea de fuego del enemigo con sus armas automáticas. Como en otros casos, su capacidad de movimiento es limitada debido al peso de la armadura y de su armamento. Por todo esto es más fácil evitarlo que enfrentarse a él directamente.
 
 \saltopagina
 
@@ -4004,6 +4004,19 @@ Las diferentes expediciones que han visitado el Mundo perdido han encontrado sol
 Que no hayan sido encontradas, no quiere decir que en la tierra de Maple White no existan, así que siéntete libre de meter todas las especies nuevas que quieras.
 
 [![Dibujo de un alosaurio](./assests/images/alosaurio.jpg 'De Fred Wierum - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=47577505')](https://es.wikipedia.org/wiki/Allosaurus#/media/Archivo:Allosaurus_Revised.jpg 'De Fred Wierum - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=47577505')
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Alosaurio
 **Carnívoro | Terrestre | 4x2 casillas | Código: Matilda (por el tanque inglés A12 Matilda II)**
