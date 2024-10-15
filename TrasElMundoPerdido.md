@@ -570,7 +570,7 @@ Este arquetipo engloba un amplio espectro de habilidades y capacidades. Hablamos
 * **Desventajas recomendadas:** Arrogante, Código de honor y Enemigo
 
 #### Explorador/a
-Estas personas saben moverse en la naturaleza como pez en el agua, conseguir agua, comida, refugio y fuego es sencillo para ellos, incluso en el lugar más extremo. Además saben seguir rastros y orientarse sin perderse.
+Estas personas saben moverse en la naturaleza como pez en el agua, conseguir agua, comida, refugio y fuego es sencillo para ellos, incluso en el lugar más extremo. Además, saben seguir rastros y orientarse sin perderse.
 
 Normalmente, prefieren la compañía de los animales a las de las personas y seguro que tienen sus razones.
 
@@ -1201,36 +1201,12 @@ Dándole vueltas a todo esto debería ser sospechoso que a la IM no haya visto e
 
 ***
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Parte 2: Norte de África
 El Norte de África es una de las ubicaciones más exóticas de esta campaña, arena, sol y calor insoportable. Quizás sea un cambio interesante después de unos meses en la fría Escocia. También puede ser interesante tras congelarse el culo en Noruega o en Stalingrado.
 
 ## Sitio de Tobruk
 ```
-El ejército necesita que el comando entre Tobruk y saque a un agente que tiene un objeto de vital importancia para IM. El único problema es que la ciudad esta asediada por los «Africa-Korps» por tierra aire y mar.
+El ejército necesita que el comando entre Tobruk y saque a un agente que tiene un objeto de vital importancia para IM. El único problema es que la ciudad está asediada por los «Africa-Korps» por tierra, aire y mar.
 ```
 
 Aviso por radio, reunión urgente en el castillo Dunvegan. El teniente Horace Chambers aparece en el comedor con dulces locales escoceses y café de Colombia y un montón de mapas de lo que parece el Norte de África. Viene a encargarles una nueva misión a tus comandos.
@@ -1257,18 +1233,18 @@ La ciudad de Tobruk es la típica ciudad costera árabe del Norte de África. La
 
 Una parte importante de la ciudad ha sufrido con los continuos ataques que ha recibido de aliados y fuerzas nazis, por ello hay muchas casas derrumbadas o medio derrumbadas. Estos edificios son los pocos tranquilos donde hacer reuniones secretas lejos de ojos y oídos indiscretos.
 
-Tobruk es un puerto muy importante para la campaña del Norte de África, de hecho es fundamental. El puerto protege los barcos en las peores situaciones y al estar la ciudad en una península es fácilmente defendible en el istmo con muy pocas unidades.
+Tobruk es un puerto fundamental para la campaña del Norte de África, de hecho es fundamental. El puerto protege los barcos en las peores situaciones y al estar la ciudad en una península es fácilmente defendible en el istmo con muy pocas unidades.
 
 \saltopagina
 
-Actualmente se encuentra defendido por fuerzas inglesas y australianas y sitiado por fuerzas nazis. Hay un perímetro defensivo alrededor de la ciudad a base de trincheras antitanques, erizos checos, campos minados y alambradas, además de una red nidos de ametralladoras y artillería.
+Actualmente, se encuentra defendido por fuerzas inglesas y australianas y sitiado por fuerzas nazis. Hay un perímetro defensivo alrededor de la ciudad a base de trincheras antitanques, erizos checos, campos minados y alambradas, además de una red de nidos de ametralladoras y artillería.
 
-Tus comandos tienen acceso a un mapa de la ciudad de antes del sitio con nombres en inglés y árabe. Tiene actualizaciones a mano como tachones en los edificios destruidos. Aunque la mayoría de la población es árabe mucha gente chapurrea inglés y francés, así que la comunicación básica es relativamente sencilla y con el mapa en bilingüe deberían poder moverse por la ciudad sin problema.
+Tus comandos tienen acceso a un mapa de la ciudad de antes del sitio con nombres en inglés y árabe. Tiene actualizaciones a mano como tachones en los edificios destruidos. Aunque la mayoría de la población es árabe, mucha gente chapurrea inglés y francés, así que la comunicación básica es relativamente sencilla y con el mapa en bilingüe deberían poder moverse por la ciudad sin problema.
 
 ## Entrar en Tobruk
-El «Mary Anning» tomará camino a Creta todavía en manos inglesas y desde allí tratará de acercarse a Tobruk esquivando la marina nazi. El carguero se quedará a unas 12 millas de la costa lejos de los barcos que sitian la ciudad y lo suficientemente cerca para que los plesiosaurios pueda llegar a tierra. 
+El «Mary Anning» tomará camino a Creta todavía en manos inglesas y desde allí tratará de acercarse a Tobruk esquivando la marina nazi. El carguero se quedará a unas 12 millas de la costa, lejos de los barcos que sitian la ciudad y lo suficientemente cerca para que los plesiosaurios pueda llegar a tierra. 
 
-Deben tener en cuenta que aunque Tobruk esté controlado por aliados, no es seguro y nadie ha sido avisado de su misión por temor a los espías nazis infiltrados. De hecho podrían ser considerados espías por las fuerzas de defensa de Tobruk si hacen movimientos extraños.
+Deben tener en cuenta que aunque Tobruk esté controlado por aliados, no es seguro y nadie ha sido avisado de su misión por temor a los espías nazis infiltrados. De hecho, podrían ser considerados espías por las fuerzas de defensa de Tobruk si hacen movimientos extraños.
 
 Entrar en Tobruk debería ser fácil, enganchados a los plesiosaurios con el equipo en contenedores estancos deberían poder alcanzar el puerto con facilidad al anochecer para no ser vistos. Pregúntales por los objetos que llevan en los contenedores porque será su único equipo en la misión, si necesitan algo más tendrán que buscarse la vida. 
 
@@ -1276,21 +1252,21 @@ Los pteranodontes podrán seguir a los saurios acuáticos y podrían pasar por a
 
 Deberían pasar una tirada de Sigilo al salir del agua sin llamar la atención y con trajes de buceo. Dales modificadores tras pasar una tirada de Notar, si tratan de buscar sitios como muelles sobre columnas que permitan meterse debajo donde nadie les vea.
 
-Otra opción sería desembarcar fuera de la ciudad, lejos de miradas indiscretas, pero podrían encontrarse con patrullas aliadas vigilando el perímetro de la ciudad. Además los plesiosaurios deberían quedarse en esa zona y son más útiles en el puerto. Los voladores si pueden seguirles por tierra e incluso ayudarles en caso de problemas.
+Otra opción sería desembarcar fuera de la ciudad, lejos de miradas indiscretas, pero podrían encontrarse con patrullas aliadas vigilando el perímetro de la ciudad. Además, los plesiosaurios deberían quedarse en esa zona y son más útiles en el puerto. Los voladores si pueden seguirles por tierra e incluso ayudarles en caso de problemas.
 
 ## Buscar al activo de la IM
 El activo del IM a rescatar es Jocelyn Dubois. Quizás ya la conozcan de la misión en Francia, o sea la primera vez que se la encuentran. Está escondida en un piso franco de la IM y no se atreve mucho a salir. Es el tercer intento de sacarla de la ciudad y ha salido viva de milagro del último operativo de rescate. Todo su equipo pereció en esa operación.
 
 \saltopagina
 
-Jocelyn sabe con certeza que en el último intento de rescate alguien les vendió a los nazis. Todo esto hará que sea muy recelosa sobre todo de unos locos que hablan de dinosaurios.
+Jocelyn sabe con certeza que en el último intento de rescate alguien les vendió a los nazis. Todo esto hará que sea muy recelosa, sobre todo de unos locos que hablan de dinosaurios.
 
 ### Buscando a Jocelyn
 Durante el informe de misión les dieron varios posibles escondites (en el centro, el norte, el sur y en el este de la ciudad) y tendrán que revisarlos para encontrarla. Curiosamente, estará en el último que busquen. Tira en la tabla o elige la opción más interesante. 
 
 |1d4|Descripción|
 |--------|------|
-|1|**Edificio destruido:** El edificio ha sido derrumbado por algún proyectil explosivo. Si Jocelyn estaba dentro es muy probable que esté muerta. Deberán investigar entre las ruinas si encuentran algo o preguntar a los vecinos si vivía alguien y fue rescatada, quizás la trasladarán a un hospital. Si calculan fechas del derrumbe y del último intento de rescate sabrán que fue destruido antes del rescate así que no está aquí.|
+|1|**Edificio destruido:** El edificio ha sido derrumbado por algún proyectil explosivo. Si Jocelyn estaba dentro, es muy probable que esté muerta. Deberán investigar entre las ruinas si encuentran algo o preguntar a los vecinos si vivía alguien y fue rescatada, quizás la trasladarán a un hospital. Si calculan fechas del derrumbe y del último intento de rescate sabrán que fue destruido antes, así que no está aquí.|
 |2|**Creo que aquí no es:** En el supuesto piso franco hay una familia viviendo, quizás los datos del informe están equivocados, quizás el comando se ha equivocado de piso o número, incluso de calle. También podría ser que se hayan colado. Tendrán que investigar en el edificio qué ha pasado y su+i Jocelyn ha estado allí.|
 |3|**Vacío:** El lugar es el correcto, pero no hay señales de que nadie haya estado allí en meses. Quizás no se ha usado o tal vez Jocelyn es una paranoica que no deja ni una prueba de su presencia. Tendrán que hablar con los comerciantes locales y los vecinos para ver si dan una pista.|
 |4|**Registrado:** La puerta esta rota y el piso franco ha sido registrado a fondo, cajones sacados, armarios volcados, sillones y colchones rajados. No hay nada sin revisar. Como siempre, habrá que hablar con los vecinos por si fueron aliados o enemigos quienes registraron el piso. Tal vez haya pistas que indiquen si Jocelyn huyo y hacia donde pudo ir. Si investigan encontrarán un rastro de sangre seca en uno de las ventanas, pero no pueden precisar cuanto lleva allí. Como otras veces tal vez deban preguntar en hospitales y médicos privados.|
@@ -1320,7 +1296,7 @@ De repente, habrá golpes en la puerta. «¡Policía militar! Abran la puerta. E
 * Si miran por la mirilla de la puerta verán a 6 soldados con las armas preparadas dispuestos a entrar. 
 * Pueden mover armarios y sofás para trabar la puerta (tirada de FUE), cada éxito que consigan detendrá a los soldados un turno con un máximo de 23. 
 
-Si tiran Notar verán que los uniformes parecen falsos, sin pequeños fallos con galones incorrectos o demasiado nuevos y sin usar para llevar semanas sitiados y sin recibir repuestos.
+Si tiran Notar verán que los uniformes parecen falsos, son pequeños fallos, como galones incorrectos o demasiado nuevos y sin usar para llevar semanas sitiados y sin recibir repuestos.
 
 \saltopagina
 
@@ -1338,7 +1314,7 @@ La huida por las azoteas es una persecución con las siguientes reglas:
 
 * Habilidad de manejo: **Atletismo**
 * El grupo del callejón está en la primera carta, el de los coches en la segunda y tus comandos en la cuarta carta.
-* Si se trajeron a los pteranodontes, uno de los comandos puede usar su acción para mandarles atacar a sus perseguidores. Recuerda que está acción dejará al descubierto la existencia de saurios prehistóricos si los perseguidores salen con vida de la persecución.
+* Si se trajeron a los pteranodontes, uno de los comandos puede usar su acción para mandarles atacar a sus perseguidores. Recuerda que esta acción dejará al descubierto la existencia de saurios prehistóricos si los perseguidores salen con vida de la persecución.
 * Recuerda que está anocheciendo, eso supone un -2 por iluminación en los ataques y acciones similares. No se te olvide del -2 por disparar desde un vehículo.
 * Van saltando de azotea en azotea, por lo que los incidentes que pasen tendrían que ser relacionados con esto. Tejados que se hunden, tejas que se deslizan, gente que se cae, etc.
 
@@ -1346,14 +1322,14 @@ La huida por las callejuelas de la medina de Tobruk es una persecución con las 
 
 * Habilidad de manejo: **Conducir**
 * El grupo del pasillo está en la primera carta, el de los coches en la segunda y tus comandos en la tercera carta.
-* Aunque los coches tienen mayor velocidad que el trimotor en la persecución son iguales porque ninguno puede ir al máximo en las callejuelas de la medina llenas de gente y tenderetes.
+* Aunque los coches tienen mayor velocidad que el trimotor, en la persecución son iguales porque ninguno puede ir al máximo en las callejuelas de la medina llenas de gente y tenderetes.
 
 \saltopagina
 
 * Todos los ataques a distancia tienen un +1 por la poca visibilidad (toldos, esquinas y otros obstáculos).
 * Recuerda que está anocheciendo, eso supone un -2 por iluminación en los ataques y acciones similares.
-* Circulan por calles muy estrechas llenas de gente y de trastos, por lo que los eventos al sacar tréboles y en las pifias deberían ir en este sentido. Tiran un puesto de frutas, se llevan los hilos tintados y secados en la calle, el vehículo se llena de gallinas al atropellar un carro, etc.
-* Las calles de la medina a veces están cubiertas. Si tu carta de acción es 3, 5, 7, 9, Q o A y la de otro vehículo también, ambos equipos estáis al descubierto. Uno de tus comandos puede usar su acción para mandar a los pteranodontes atacar a sus perseguidores. Recuerda que está acción dejará al descubierto la existencia de saurios prehistóricos si los perseguidores salen con vida de la persecución.
+* Circulan por calles muy estrechas, llenas de gente y de trastos, por lo que los eventos al sacar tréboles y en las pifias deberían ir en este sentido. Tiran un puesto de frutas, se llevan los hilos tintados y secados en la calle, el vehículo se llena de gallinas al atropellar un carro, etc.
+* Las calles de la medina a veces están cubiertas. Si tu carta de acción es 3, 5, 7, 9, Q o A y la de otro vehículo también, ambos equipos estáis al descubierto. Uno de tus comandos puede usar su acción para mandar a los pteranodontes atacar a sus perseguidores. Recuerda que esta acción dejará al descubierto la existencia de saurios prehistóricos si los perseguidores salen con vida de la persecución.
 * Para los coches de los nazis usa las estadísticas del Jeep. Para el trimotor usa las siguientes estadísticas. 
 
 |VEHÍCULO|TAMAÑO|MANIOBRA.|VEL. MÁX.|DUREZA|TRIPULACIÓN|
@@ -1366,14 +1342,14 @@ El trimotor de reparto tiene un +1 a las tiradas de Conducir al realizar una acc
 
 Una vez hayan escapado de sus perseguidores o los hayan derrotado, deberán buscar un sitio seguro. Las ruinas del edificio donde se esconden los pteranodontes puede servir. En ese momento podrán hablar más tranquilamente con Jocelyn y establecer un plan de escape de Tobruk.
 
-Si son alcanzados en cualquiera de las dos persecuciones deberán enfrentarse a los dos grupos de soldados.
+Si son alcanzados en cualquiera de las dos persecuciones, deberán enfrentarse a los dos grupos de soldados.
 
 ## Salir de Tobruk
 La salida de Tobruk debería ser tan fácil como la entrada, pero con el encuentro anterior los espías nazis están sobre aviso y vigilan toda la ciudad y la Policía Militar empezará a investigar los disturbios.
 
 \saltopagina
 
-Una vez más tranquilos Jocelyn sacará su petaca y tras dar un buen lingotazo la pasará al resto. Tienen que mirar que van a hacer. 
+Una vez más tranquilos, Jocelyn sacará su petaca y tras dar un buen lingotazo la pasará al resto. Tienen que mirar que van a hacer. 
 
 La salida debería ser como la entrada, sumergidos con los plesiosaurios. Pero antes deberán hacer las presentaciones y Jocelyn debe conocer a su vía de escape, a no ser que ya se conozcan de Francia.
 
@@ -1383,7 +1359,7 @@ Pueden intentar otras cosas que les ayuden en su salida.
 * Pueden ir a las autoridades militares aliadas y buscar ayuda. Aun así no pueden sacarles de la ciudad y los infiltrados nazis podrían encontrarlos y preparar otro ataque.
 * Pueden irse solos con el rotor y abandonar a Jocelyn. Sería fácil, pero no le sentaría bien a ella.
 
-El problema principal es cuando vayan a salir del puerto habrá un barco lleno de nazis vigilando la salida. Seguramente estén fuertemente armados e irán con potentes focos de pesca para la noche. Deberán tirar Notar para detectar la trampa.
+El problema principal es que, cuando vayan a salir del puerto, habrá un barco lleno de nazis vigilando la salida. Seguramente estén fuertemente armados e irán con potentes focos de pesca para la noche. Deberán tirar Notar para detectar la trampa.
 
 La idea es sumergirse y pasar por debajo del barco y salir a respirar cuando estén fuera de su alcance. Eso suponen 6 rondas debajo del agua, tres antes de llegar al barco y 3 después.
 
@@ -1406,11 +1382,11 @@ Mientras están de regreso en el «Mary Anning», recibirán órdenes de escolt
 
 Branningan cree que lo mejor es desembarcar en Portsmouth, de ahí a Oxford y luego Bletchley Park. Tendrán que alquilar un vehículo y buscar transporte público. El «Mary Anning» con los dinosaurios seguirá por el mar de Irlanda hasta Skye.
 
-El viaje puede durar un par de días con lo que tendrán que pernoctar mínimo una noche. Un «Bed & Breakfast» en mitad de la campiña inglesa puede ser una opción interesante y con cierto encanto romántico. Aun así, deberían tomar precauciones como atrancar la puerta y montar guardias. 
+El viaje puede durar un par de días, con lo que tendrán que pernoctar mínimo una noche. Un «Bed & Breakfast» en mitad de la campiña inglesa puede ser una opción interesante y con cierto encanto romántico. Aun así, deberían tomar precauciones como atrancar la puerta y montar guardias. 
 
 No deben fiarse de nadie hasta llegar a su destino. IM está seguro que hay nazis en suelo inglés con órdenes de destruir el rotor. 
 
-Independientemente del medio de transporte que tendrán una emboscada de un grupo de asesinos nazis (1,5 asesinos por cada comando incluida Jocelyn). Alguien que vigilaba las estaciones ha reconocido a Jocelyn. 
+Independientemente del medio de transporte que tendrán una emboscada de un grupo de asesinos nazis (1,5 asesinos por cada comando, incluida Jocelyn). Alguien que vigilaba las estaciones ha reconocido a Jocelyn. 
 
 * Si van en tren, intentarán asesinarlos en su compartimento.
 * Si alquilan un coche, les emboscarán en alguna carretera secundaria.
@@ -1430,14 +1406,39 @@ Estamos hablando de asesinos entrenados y dispuestos a cumplir las órdenes que 
 
 Si salen vivos de su encuentro con los asesinos podrán continuar su viaje, ya de forma segura, hasta las instalaciones militares de Bletchley Park.
 
-> Si hay fans de la informática en tu mesa quizás sea un detalle bonito que [Alan Turing](https://es.wikipedia.org/wiki/Alan_Turing) o [Joan Clarke](https://es.wikipedia.org/wiki/Joan_Clarke) recojan en rotor, se quiten las gafas estupefactas y exclamen «Esto podría cambiar el curso de la guerra. Habéis salvado miles si no millones de vidas».
+> Si hay fans de la informática en tu mesa, quizás sea un detalle bonito que [Alan Turing](https://es.wikipedia.org/wiki/Alan_Turing) o [Joan Clarke](https://es.wikipedia.org/wiki/Joan_Clarke) recojan el rotor, se quiten las gafas estupefactas y exclamen «Esto podría cambiar el curso de la guerra. Habéis salvado miles si no millones de vidas».
 
 ## Mensaje desde Bletchley Park (Pistas)
-Cuando vuelvan a irse de misión Lady Margaret les enseñará un documento de Bletchley Park. Con las posiciones que tenía el rotor antes de sacarlo de la máquina Enigma han sacado unas palabras: Fundación Roxton infiltrado. 
+Cuando vuelvan a irse de misión, Lady Margaret les enseñará un documento de Bletchley Park. Con las posiciones que tenía el rotor antes de sacarlo de la máquina Enigma han sacado unas palabras: Fundación Roxton infiltrado. 
 
 Esto supone que la Fundación está en el radar de las SS. Algo deben sospechar los nazis si usan una compleja máquina de cifrado para enviar mensajes referentes a la Fundación. Con una tirada de Investigar podrás datar este mensaje a semanas antes de que tus comandos ingresarán en la Fundación.
 
 ***
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Parte 3: Islas Orcadas
 Las islas Orcadas es un destino donde tus comandos triunfarán si son rápidos y entienden a sus saurios acuáticos y saben sacar provecho de sus excepcionales habilidades en el agua.
@@ -1463,7 +1464,7 @@ La base Naval de Scapa Flow está en las islas Orcadas que están a solo unos 29
 
 [![Plano de Scapa Flow](./assests/images/scapa-flow.jpg 'Mapa de Scapa Flow, en las islas Orcadas. - Siałababamak')](https://es.wikipedia.org/wiki/Scapa_Flow#/media/Archivo:Scapa_Flow.svg 'Mapa de Scapa Flow, en las islas Orcadas. - Siałababamak')
 
-La base naval está protegida con todos los elementos posibles (redes antisubmarinos, portones, minas, cañones...). Además siempre cuenta con varios barcos de guerra que se encargan de su defensa.
+La base naval está protegida con todos los elementos posibles (redes antisubmarinos, portones, minas, cañones...). Además, siempre cuenta con varios barcos de guerra que se encargan de su defensa.
 
 Scapa Flow siempre ha sido una obsesión para los nazis y siempre ha estado en el punto de mira de la marina del Führer.
 
@@ -2636,7 +2637,7 @@ Veamos algunas reglas que puedes usar esta gran batalla final para hacerla más 
 * Si se destruye la palanca de control el alosaurio será libre y se tragará al Doctor Eckart.
 
 ### El hitlersaurio &#x2638;
-Este alosaurio modificado por el Doctor Eckart es una versión más agresiva y mortal de un alosaurio de la Meseta de Maple White, pero también menos inteligente. El collar de control ha sido sustituido por una especie de palanca con varios botones en la base del cuello, con la que el doctor dirige a esta poderosa bestia. Además sus manos sujetan dos rayos destructores y sus baterías se encuentran en su espalda. Las baterías tienen más protección, ya que no importa el peso (consistencia 16).
+Este alosaurio modificado por el Doctor Eckart es una versión más agresiva y mortal de un alosaurio de la Meseta de Maple White, pero también menos inteligente. El collar de control ha sido sustituido por una especie de palanca con varios botones en la base del cuello, con la que el doctor dirige a esta poderosa bestia. Además, sus manos sujetan dos rayos destructores y sus baterías se encuentran en su espalda. Las baterías tienen más protección, ya que no importa el peso (consistencia 16).
 
 La expresión de dolor del saurio es fácilmente identificable por cualquiera que haya tenido trato con estos animales. Es fácil pensar que si se destruye la palanca de control del alosaurio (-6 a Disparar, consistencia 8) se volverá contra su jinete de forma más brutal posible.
 
@@ -2646,7 +2647,7 @@ La expresión de dolor del saurio es fácilmente identificable por cualquiera qu
 * **Ventajas:** Nervios de Acero Mejorados
 * **Capacidades especiales:**
   * **Agresivo:** Son más agresivos, pero no tan hábiles debido a las malas condiciones en las que viven, con lo que tienen -1 a todas las tiradas de ataque y +2 al daño.
-  * **Armadura +5:** Piel escamosa y dura. Además ha sido embadurnado de un polímero de invención del Doctor que hace aún más resistente. El polímero le da un toque brillante muy llamativo. Puede que el agua puedan disolver el polímero y quitarle esa protección.
+  * **Armadura +5:** Piel escamosa y dura. Además, ha sido embadurnado de un polímero de invención del Doctor que hace aún más resistente. El polímero le da un toque brillante muy llamativo. Puede que el agua puedan disolver el polímero y quitarle esa protección.
   * **Rayos destructores:** Cada turno, adicionalmente a su ataque puede lanzar un rayo destructor, pero tienes que tirar al azar en que dirección sale (1d3 para elegir por cuál casilla delantera sale). Si quiere apuntar, entonces no podrá hacer el ataque normal.
 
 \saltopagina
@@ -2813,7 +2814,7 @@ Una vez que consigan acercarse a Marion y le expliquen quienes son (sea verdad o
 
 &nbsp;
 
-No era ninguna lumbrera y la Fundación no consideró que fuera una posible fuga de información. De hecho muchos amigos y familiares creían que estaba loco y que se había inventado toda la historia. Pero la contaban entre ellos porque era muy divertida.  
+No era ninguna lumbrera y la Fundación no consideró que fuera una posible fuga de información. De hecho, muchos amigos y familiares creían que estaba loco y que se había inventado toda la historia. Pero la contaban entre ellos porque era muy divertida.  
 
 Como regalo les dará una copia de su último libro dedicado y firmado y les dirá que si pasan por san Francisco vayan a visitarla y es verdad.
 
@@ -2879,7 +2880,7 @@ Para la filmación de esta secuencia Marina tiene preparado una sorpresa para to
 
 Marina y otros cavernícolas harán esquí acuático usando a los plesiosaurios como lanchas. Se pondrán unos esquíes cubiertos de corteza de madera para parecer prehistóricos y los plesiosaurios empezarán a tirar de ellos para que floten sobre el agua. Uno de los cavernícolas, deberá caerse al agua dando unas cuantas volteretas en el aire.
 
-Marina y los comandos deberán **pasar una tirada de Atletismo -2 para hacer esquí acuático**. Si alguno falla deberán repetir la secuencia. Además alguno deberá **conseguir un aumento para hacer alguna acrobacia** y luego una tirada de **Interpretar para fingir una caída** y que le ataque un ictiosaurio. 
+Marina y los comandos deberán **pasar una tirada de Atletismo -2 para hacer esquí acuático**. Si alguno falla deberán repetir la secuencia. Además, alguno deberá **conseguir un aumento para hacer alguna acrobacia** y luego una tirada de **Interpretar para fingir una caída** y que le ataque un ictiosaurio. 
 
 Tienen todos unas bolsas de sangre preparadas para romperlas y que el agua se tiña de rojo. Si fallan sus acrobacias o su actuación al morir volverán a repetir las secuencias.  
 
@@ -3302,7 +3303,7 @@ Los saurios acuáticos está entrenados para recuperar cosas del fondo marino, s
 
 \saltopagina
 
-Una tirada de Ciencias deja ver que parece alguna lámpara eléctrica, pero la pátina dice que tiene unos 100 años, mucho antes de la bombilla de Edison. Además no parece que haya estado en el agua, ya que no tiene corrosión ni tiene señales de algas o moluscos, Ha estado en un ambiente seco mucho tiempo.
+Una tirada de Ciencias deja ver que parece alguna lámpara eléctrica, pero la pátina dice que tiene unos 100 años, mucho antes de la bombilla de Edison. Además, no parece que haya estado en el agua, ya que no tiene corrosión ni tiene señales de algas o moluscos, Ha estado en un ambiente seco mucho tiempo.
 
 Si consiguen algún avance puedes dejarles pistas como que los cables son de una aleación oro o que la estructura metálica es muy ligera, quizás de alguna aleación extraña de titanio. Todo esto tiene que haber despertado su interés como para parar las máquinas e intentar una inmersión.
 
@@ -3558,7 +3559,7 @@ La tranquila vida en Londres de Margaret Roxton se vio alterada cuando heredó e
 
 Margaret creció con las historias de caza que su tío le contaba cuando visitaba a su hermana y su familia. Eran grandes aventuras de África y sobre todo de Sudamérica, de la que estaba enamorada; cómo se había enfrentado a esclavistas, cómo había recorrido los rápidos de afluentes del Amazonas, las costumbres de las tribus indígenas, etc.
 
-Margaret supuso un cambio radical en la Fundación, no solo en la forma de tratar a los saurios sino de como estudiar y protegerlos a ellos y toda la fauna y flora de la Meseta de Maple White. Además elimino todo el rancio elitismo de su tío. Lady Roxton salió del castillo y trabajo en el campo como sus ayudantes, se hundió en el barro y mierda de saurios, sufrió fiebres de pteranodontes y tiene cicatrices de garras de megalosaurio.  
+Margaret supuso un cambio radical en la Fundación, no solo en la forma de tratar a los saurios sino de como estudiar y protegerlos a ellos y toda la fauna y flora de la Meseta de Maple White. Además, eliminó todo el rancio elitismo de su tío. Lady Roxton salió del castillo y trabajo en el campo como sus ayudantes, se hundió en el barro y mierda de saurios, sufrió fiebres de pteranodontes y tiene cicatrices de garras de megalosaurio.  
 
 Tampoco debemos olvidar que ella ofreció a sus queridos saurios para ayudar en la guerra, sabiendo lo que se jugaba la humanidad en esta guerra y que no ha dudado nunca en poner los fondos de la Fundación al servicio de su país contra los nazis.
 
@@ -3625,7 +3626,7 @@ La Fundación le reclutó, cuando el «Mary Anning» tuvo que hacer reparaciones
 [![Primer plano de General Eugene Linton](./assests/images/linton.jpg 'Lieutenant General J T Crocker, Cb, Cbe, Dso, Mc, Commander of 1st Corps, France, August 1944 TR2168')](https://picryl.com/media/lieutenant-general-j-t-crocker-cb-cbe-dso-mc-commander-of-1st-corps-france-9aadef 'Lieutenant General J T Crocker, Cb, Cbe, Dso, Mc, Commander of 1st Corps, France, August 1944 TR2168')
 Este viejo soldado de caballería lleva tanto tiempo entre cuarteles y campos de batalla que ya se ha olvidado lo que es la vida civil. Tras una brillante carrera militar durante la segunda guerra contra los bóeres y en la IGM, consiguió el rango de general. Retirado del frente y la lucha directa, termino siendo uno de los jefes de la Inteligencia Militar Británica. 
 
-Su forma de pensar «fuera de la caja», con sus planes imaginativos y diferentes, es lo que le hace excepcional en su trabajo al frente de IM. Además es capaz de hacer planes previendo los movimientos del adversario y adelantándose a ellos de formas eficaces y sobre todo inesperadas.
+Su forma de pensar «fuera de la caja», con sus planes imaginativos y diferentes, es lo que le hace excepcional en su trabajo al frente de IM. Además, es capaz de hacer planes previendo los movimientos del adversario y adelantándose a ellos de formas eficaces y sobre todo inesperadas.
 
 Todo el proyecto es los comandos de dinosaurios es una gran estratagema ideada por él para confundir a los nazis y sacar del frente al mayor número de unidades.
 
