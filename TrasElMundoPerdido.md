@@ -1563,47 +1563,21 @@ Por otro lado, es mucha casualidad que justo estuvieran los comandos y sus sauri
 
 ***
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Parte 4: Noruega
-La helada Noruega es un destino diferente, no hay un frente donde se desarrolle la guerra. Noruega es territorio controlado por los nazis, moverse es peligroso y ante cualquier fallo no hay lugar al que huir, vayas donde vayas todo es terreno enemigo. Si tienes suerte, puede que la resistencia noruega te ayude.  
+La helada Noruega es un destino diferente, no hay un frente donde se desarrolle la guerra. Noruega es territorio controlado por los nazis, moverse es peligroso y ante cualquier fallo no hay lugar al que huir, vayas donde vayas, todo es terreno enemigo. Si tienes suerte, puede que la resistencia noruega te ayude.  
 
 ## Operación Gunnerside
 ```
 Sabotear las fábricas de agua pesada de Telemark es fundamental si queremos ganar la guerra. Sin ellas los nazis no podrán desarrollar la bomba y sin la bomba puede que pierdan.
 ```
-La operación Gunnerside necesita una distracción para poder hacer su trabajo. La IM ha decidido que la mejor distracción puede ser una horda de dinosaurios asesinos sembrando el caos y la muerte es la tundra Noruega. Cuantas más unidades atraigan más fácil será la misión de sabotaje.
+La operación Gunnerside necesita una distracción para poder hacer su trabajo. La IM ha decidido que la mejor distracción puede ser una horda de dinosaurios asesinos sembrando el caos y la muerte es la tundra Noruega. Cuantas más unidades atraigan, más fácil será la misión de sabotaje.
 
 La fascinación de los nazis por los mitos nórdicos es de sobra conocida, así que IM pretende disfrazar a los saurios como monstruos mitológicos y dejar que la loca imaginación de los nazis haga el resto. 
 
-Como siempre la misión empezará con una visita del teniente Horace Chambers y como siempre ha traído té y una gran cantidad dulces, una inusual cantidad de croissants y parecen franceses e inusualmente frescos. Ha debido estar en Francia hace poco.
+Como siempre, la misión empezará con una visita del teniente Horace Chambers y como siempre ha traído té y una gran cantidad dulces, una inusual cantidad de croissants y parecen franceses e inusualmente frescos. Ha debido estar en Francia hace poco.
 
 ## Lo que IM puede contarte
-Horace no puede dar muchos detalles de la operación Gunnerside, solo dirá que otros agentes en Noruega necesitan una distracción y tus comandos serán los encargados de generar la distracción. Cuantas más unidades nazis consigan atraer sobre ellos más fácil será el trabajo del otro equipo.
+Horace no puede dar muchos detalles de la operación Gunnerside, solo dirá que otros agentes en Noruega necesitan una distracción y tus comandos serán los encargados de generar la distracción. Cuantas más unidades nazis consigan atraer sobre ellos, más fácil será el trabajo del otro equipo.
 
 ### El general Theodor von Liebenfels
 El general Theodor von Liebenfels es el militar de más alto rango de Noruega y se encarga de apaciguar y controlar la zona. En realidad, su misión, directamente encargada por el Führer, es proteger las fábricas de agua pesada de la región de posibles sabotajes y conseguir que la producción se mantenga al ritmo actual. 
@@ -1618,11 +1592,11 @@ El punto débil que IM quiere explotar es su obsesión por el ocultismo y la mit
 
 [![Detalle de escudo con dragón](./assests/images/dragon.jpg 'Coats of arms from Bavaria')](https://es.wikipedia.org/wiki/Archivo:Lindwurm.jpg 'Coats of arms from Bavaria')
 
-Por todo esto han pensado en **revivir los mitos nórdicos de los dragones** y convencerle de que existen. Piensan que von Liebenfels se obsesionará con conseguir dragones para su Führer (y también para él), seguramente esto le reservará un lugar en el Valhalla que está convencido que existe.
+Por todo esto, han pensado en **revivir los mitos nórdicos de los dragones** y convencerle de que existen. Piensan que von Liebenfels se obsesionará con conseguir dragones para su Führer (y también para él), seguramente esto le reservará un lugar en el Valhalla que está convencido que existe.
 
 Horace empezará a poner una serie de diapositivas de dibujos medievales de dragones y a hablar de los dragones en la mitología nórdica. Tiene un doctorado en historia medieval y este es su momento de lucirse. 
 
-Es tremendamente aburrido aun hablando de dragones. Si algún comando falla una tirada de Espíritu se quedará dormido y si no le despiertan no podrá tomar parte en las decisiones. Se siente es lo que pasa cuando te duermes en clase.
+Es tremendamente aburrido aun hablando de dragones. Si algún comando falla una tirada de Espíritu se quedará dormido y si no le despiertan no podrá tomar parte en las decisiones. Se siente, es lo que pasa cuando te duermes en clase.
 
 Según Horace, los nórdicos no tenían una concepción del dragón como un ser alado, sino como un reptil/serpiente de gran tamaño y fuerza. Les hablará de 3 ejemplos:
 
@@ -1632,12 +1606,12 @@ Según Horace, los nórdicos no tenían una concepción del dragón como un ser 
 
 Según sus estudios, los terópodos, los saurios que van a dos patas, serían dragones perfectos. Así pues, deberían llevar alosaurios, megalosaurios e iguanodontes jóvenes que se mueven a dos patas en vez de a cuatro.
 
-Como ya sabes de otras aventuras el soporte aéreo de los pteranodontes siempre es de gran ayuda.
+Como ya sabes de otras aventuras, el soporte aéreo de los pteranodontes siempre es de gran ayuda.
 
 \saltopagina
 
 ### Equipo especial
-Horace tiene claro que esta misión va a necesitar equipo muy especial, tan especial como la propia misión. Horace aboga por pintura de camuflaje negro y diferentes cuernos postizos, pero está abierto a sugerencias. Tal vez tus comandos quieran algo más demoníaco con pintura roja y cuernos rojos. También podrían plantearlos más fantásticos con diseños tribales o con símbolos rúnicos pintados en sus escamas.
+Horace tiene claro que esta misión va a necesitar equipo muy especial, tan especial como la propia misión. Horace aboga por pintura de camuflaje negro y diferentes cuernos postizos, pero está abierto a sugerencias. Tal vez tus comandos quieran algo más demoníaco con pintura roja y cuernos rojos. También podrían plantearlos más fantásticos, con diseños tribales o con símbolos rúnicos pintados en sus escamas.
 
 Recuerda que IM tiene un prototipo de material reflectante (relato salvaje «El prototipo») que puede quedar increíble de noche.
 
@@ -1648,7 +1622,7 @@ Los disfraces para saurios es algo que IM y la fundación ya tenía desarrollado
 
 #### Disfraces para humanos
 
-La IM piensa que quizás los jinetes pueden ir disfrazados de dioses nórdicos así que tiene también un vestuario completo de disfraces de vikingo para tus comandos. Vikingos como se creían en 1940, más cercanos a Hollywood que a la realidad. Cascos con cuernos, barbas y pelucas rubias o pelirrojas, capas de pieles, etc. Si quedan un poco ridículos para nuestra mentalidad moderna es que van perfectos.
+La IM piensa que quizás los jinetes pueden ir disfrazados de dioses nórdicos, así que tiene también un vestuario completo de disfraces de vikingo para tus comandos. Vikingos como se creían en 1940, más cercanos a Hollywood que a la realidad. Cascos con cuernos, barbas y pelucas rubias o pelirrojas, capas de pieles, etc. Si quedan un poco ridículos para nuestra mentalidad moderna es que van perfectos.
 
 Pueden tirar Conocimientos generales (para vestirse rollo Hollywood) o Humanidades (para vestirse más académicamente correcto). Si consiguen dos avances obtendrán un +2 siempre que tengan que convencer a alguien de que son dioses vikingos (ver más adelante).
 
@@ -1659,7 +1633,7 @@ Weyland ha preparado unos lanzallamas de efectos especiales que simulan llamarad
 
 \saltopagina
 
-Se activa tirando de un cordel que se pasa por las riendas. Si se usa cuando el saurio intenta intimidar a sus enemigos da un +2 a la tirada.
+Se activa tirando de un cordel que se pasa por las riendas. Si se usa cuando el saurio intenta intimidar a sus enemigos, da un +2 a la tirada.
 
 ## Las otras heroínas de Telemark
 Esta misión empezará directamente en Skien, la principal ciudad de la zona de Telemark, donde el general von Liebenfels tiene su residencia. El «Mary Anning» dejo a los comandos en la costa de evitando la marina nazi y tus comandos se movieron por la desierta tundra noruega hasta llegar a Skien.
@@ -1672,9 +1646,9 @@ Están establecidos en una granja abandonada a las afueras y tienen papeles de v
 
 Lo primero es contactar con Arntine, la colaboradora local, que trabaja de criada para el general. Su misión es informarles de las actividades diarias de von Liebenfels para conseguir que se obsesione totalmente con los dragones y se olvide del agua pesada.
 
-Cuando la visiten en su humilde casa les ofrecerá comida y bebida a pesar de que su economía no es muy boyante. Allí conocerán a su hija Sunny que está embarazada.
+Cuando la visiten en su humilde casa les ofrecerá comida y bebida, a pesar de que su economía no es muy boyante. Allí conocerán a su hija Sunny que está embarazada.
 
-Ella no tiene acceso a las reuniones secretas ni a documentos clasificados, pero puede ver que humor tiene el general, que grita a sus subalternos, que no para de leer libros viejos, revisa fotos, casi ni come, etc. Ese tipo de cosas que con unas tiradas de Astucia les dirán si están haciendo bien o mal su trabajo.
+Ella no tiene acceso a las reuniones secretas ni a documentos clasificados, pero puede ver qué humor tiene el general, que grita a sus subalternos, que no para de leer libros viejos, revisa fotos, casi ni come, etc. Ese tipo de cosas que con unas tiradas de Astucia les dirán si están haciendo bien o mal su trabajo.
 
 Pueden visitarla cada cierto tiempo en su casa o montar algún tipo de sistema de mensajes que no la comprometa. Tipo colgar en su casa ropa de un color u otro o dejar, algunas marcas en algún sitio de camino de casa del general a su casa.
 
@@ -1693,7 +1667,7 @@ Las tiradas de Espíritu son secretas, pero pueden ver si han tenido éxito haci
 ### Montando las distracciones
 Antes de entrar en combate deben decidir dónde, cuándo y cómo van a actuar para atraer la atención de los nazis. Veamos algunas ideas que podrían tener:
 
-* **Dejar que alguien escape o salga vivo:** Es importante que alguien salga vivo y cuente la historia. Si no sale nadie vivo el relato solo serán suposiciones de huellas gigantes y heridas de garras y dientes terribles. Sin supervivientes el general tendrá un bonus de +2. 
+* **Dejar que alguien escape o salga vivo:** Es importante que alguien salga vivo y cuente la historia. Si no sale nadie vivo, el relato solo serán suposiciones de huellas gigantes y heridas de garras y dientes terribles. Sin supervivientes, el general tendrá un bonus de +2. 
 * **Atacar de noche:** Atacar de noche no da malus, pero como en las pelis malas permitirá que otras opciones sean efectivas como el lanzallamas. Las sombras, los sonidos, los ojos brillantes en la oscuridad, etc. harán que las historias sean más terroríficas y los detalles menos precisos.
 * **Disfraces de dinosaurio:** Los disfraces darán un malus de -1 y pueden usarse una segunda vez si les hacen algún cambio radical como ponerles reflectantes o tal vez hacer cosas como que huelan a carne podrida.
 * **Disfraces de dioses y diosas nórdicas:** Si cuando se presentan ante la unidad nazi van disfrazados y pasan una tirada de Interpretar obtendrán un -2 a la tirada de Espíritu.
@@ -1718,13 +1692,13 @@ Cuando von Liebenfels tenga 4 fallos, el objetivo de tus comandos está cumplido
 
 Cuando Arntine detecte la locura total de von Liebenfels empacará sus pocas pertenencias y con su familia irá en busca tus comandos para salir con ellos de Noruega.
 
-Von Liebenfels ha dejado claro a sus tropas que si se encuentran con los dragones no ataquen solo avisen y se queden vigilando. El general ha creado una unidad llamada los drachenjägers con él a la cabeza con la que va a enfrentarse a los dragones. 
+Von Liebenfels ha dejado claro a sus tropas que si se encuentran con los dragones no ataquen, solo avisen y se queden vigilando. El general ha creado una unidad llamada los drachenjägers con él a la cabeza, con la que va a enfrentarse a los dragones. 
 
 Cuando creas oportuno aparecerá una serie de vehículos todoterreno con unos 5 drachenjägers por pareja de dinosaurio/comando que rodearán a tus comandos. 
 
-Durante el combate von Liebenfels estará en la retaguardia lanzando «hechizos» que no tendrán ningún efecto real, pero puedes hacer aparecer las dotes de mando del general como parte del hechizo.
+Durante el combate, von Liebenfels estará en la retaguardia lanzando «hechizos» que no tendrán ningún efecto real, pero puedes hacer aparecer las dotes de mando del general como parte del hechizo.
 
-El combate debería ser largo y duro y si se pone muy fácil puedes meter soldados nazis normales. Si intentan atacar a von Liebenfels este se pondrá a la defensiva, incluso podría protegerse en el vehículo todoterreno blindado. Si recibe una herida se retirará del combate. En cualquier, caso debería sobrevivir a este encuentro, aunque puede llevarse alguna cicatriz.
+El combate debería ser largo y duro y si se pone muy fácil puedes meter soldados nazis normales. Si intentan atacar a von Liebenfels este se pondrá a la defensiva, incluso podría protegerse en el vehículo todoterreno blindado. Si recibe una herida se retirará del combate. En cualquier caso, debería sobrevivir a este encuentro, aunque puede llevarse alguna cicatriz.
 
 ### ¡Sabotaje!
 Cuando veas que es un buen momento y va a quedar bien, los saboteadores destruirán las plantas de producción de agua pesada. Una inmensa explosión y una gigantesca llamarada iluminará el cielo y las montañas cercanas. 
@@ -1738,7 +1712,7 @@ Si von Liebenfels sigue en el combate, mirará horrorizado la explosión sabiend
 #### Drachenjäger (Cazadragones)
 El general von Liebenfels ha montado una escuadra especial de soldados pensando en los rumores y medias verdades que ha oído las últimas semanas de los supervivientes de los ataques de _dragones_. Ha reclutado de entre sus tropas a una panda de psicópatas fanáticos que no tienen miedo a nada.
 
-Von Liebenfels está convencido que las armas modernas no pueden hacer daño a los dragones así que ha saqueado las armas y armaduras de los museos de historia de la zona y ha equipado a su escuadrón de drachenjägers con espada, escudos y armaduras antiguas. 
+Von Liebenfels está convencido que las armas modernas no pueden hacer daño a los dragones, así que ha saqueado las armas y armaduras de los museos de historia de la zona y ha equipado a su escuadrón de drachenjägers con espada, escudos y armaduras antiguas. 
 
 El propio von Liebenfels ha realizado algún tipo de ritual de magia o plegaria a los aesires (dioses nórdicos) para que las armas puedan herir a los dragones. También ha bendecido unas redes metálicas (consistencia 12) para poder atraparlos. 
 
@@ -1752,14 +1726,14 @@ Naturalmente, todo esto no funciona, pero los cazadragones son tan fanáticos y 
 * **Equipo:** Espada vikinga (FUE+d8), Camisote de malla (+3 torso y brazos), casco abierto (+4 cabeza), escudo medieval mediano (parada +2, cobertura -2)
 
 ## Vuelta a casa
-Si consiguen derrotar a los drachenjägers podrán escapar a la costa norte de Noruega a través de la tundra donde les espera el «Mary Anning». Puedes hacerles llegar directamente a su barco, narrando el plan de escape que hayan diseñado o puedes hacerles buscar la forma de esconder su rastro y de llevar a una embarazada si van a sacar a Arntine y su familia. 
+Si consiguen derrotar a los drachenjägers podrán escapar a la costa norte de Noruega a través de la tundra donde les espera el «Mary Anning». Puedes hacerles llegar directamente a su barco, narrando el plan de escape que hayan diseñado, o puedes hacerles buscar la forma de esconder su rastro y de llevar a una embarazada si van a sacar a Arntine y su familia. 
 
 \saltopagina
 
 Si llegan a Inglaterra con Arntine, Lady Roxton las acogerá en Dunvegan mientras trata de legalizar su situación. Arntine no quiere limosna y se pondrá a trabajar como empleada del hogar y ayudando en el campo. 
 
 ## Realidad o leyenda (Pistas)
-Si una de las prioridades de IM es esconder los dinosaurios por qué los convierten en el centro de una operación de distracción. No tiene sentido, como en misiones anteriores algo no cuadra. ¿Puede ser que IM esconda algo?
+Si una de las prioridades de IM es esconder los dinosaurios, por qué los convierten en el centro de una operación de distracción. No tiene sentido, como en misiones anteriores, algo no cuadra. ¿Puede ser que IM esconda algo?
 
 Por otro lado, si hay algo que puede volver loco a Hitler y sus generales es poder hacer desfiles de la victoria montados en dinosaurios. Eso solo lo mejora hacerlo montados en dragones. Podríamos pensar que Hitler cambiaría toda el agua pesada de Noruega por un dragón y de hecho eso es lo que piensa von Liebenfels al desviar tantas tropas a buscar a tus comandos y sus saurios.
 
@@ -1986,7 +1960,7 @@ El frente ruso y más en concreto el sitio de Stalingrado es una misión bastant
 Las tropas rusas y nazis llevan meses enfrentándose en las calles de Stalingrado sin que la victoria se decante a un lado u otro. IM quiere mandar a sus armas biológicas a sembrar el miedo y el caos en las filas nazis. 
 ```
 
-Esta misión no parece algo típico de IM, así que a diferencia de otras misiones Horace Linton no les hará la presentación con sus mapas y sus fotos. En la sala de misiones del «Mary Anning» les pasarán unos informes con mapas de Stalingrado y diferentes localizaciones importante para el ejército nazi, como campamentos, trincheras, depósitos de material y víveres, etc.
+Esta misión no parece algo típico de IM, así que a diferencia de otras misiones, Horace Linton no les hará la presentación con sus mapas y sus fotos. En la sala de misiones del «Mary Anning» les pasarán unos informes con mapas de Stalingrado y diferentes localizaciones importante para el ejército nazi, como campamentos, trincheras, depósitos de material y víveres, etc.
 
 Si leen el informe verán que su barco les dejará lo más cerca de Stalingrado a través del Mar Negro. Deberán avanzar con sus dinosaurios hasta llegar al frente y allí hacer las fuerzas nazis el mayor daño posible. Es una misión de destrucción y muerte. La idea es crear un revulsivo que desatasque la situación en la ciudad.
 
@@ -1999,7 +1973,7 @@ El informe recuerda, más bien hace mucho hincapié, que llevan en el equipo las
 ## Encuentros
 Una vez hayan llegado al frente, tendrán que participar en varios combates contra diferentes antagonistas nazis. La idea de IM es que sigan una política de tierra quemada, por donde pasen no debería quedar nada. Así que tendrán explosivos a su disposición para destruir todo vehículo o estructura nazi que se encuentren. 
 
-Cuando creas que han sufrido lo suficiente y están a punto de caer el ejército rojo saldrá de sus trincheras y hará retroceder a las fuerzas nazis comenzando el contraataque aliado. 
+Cuando creas que han sufrido lo suficiente y están a punto de caer, el ejército rojo saldrá de sus trincheras y hará retroceder a las fuerzas nazis comenzando el contraataque aliado. 
 
 \saltopagina
 
@@ -2009,7 +1983,7 @@ Si ya se han enfrentado al general von Liebenfels en Noruega, puedes decirles qu
 
 Los combates son normales y puedes modificarlos a tu gusto o meter otros, pero aquí tienes algunas reglas entre combates que harán que cada vez vayan más justos de fuerzas y se les ponga todo cuesta arriba. La idea es que vayan perdiendo fuerza y se vean obligados a ser más creativos en sus combates.
 
-* **No hay tiempo para planes:** No deberían tener tiempo para hacer vigilancias y hacer y ejecutar planes. La mayoría de las veces no podrán hacer nada, solamente atacar y destruir. Si pillan a su objetivo por sorpresa tienen como mucho una hora para montar un plan rápido y simple. Si quieren parar a planificar algo complejo diles que llegan refuerzos o que se van y atacan ahora o pierden la oportunidad. 
+* **No hay tiempo para planes:** No deberían tener tiempo para hacer vigilancias y hacer y ejecutar planes. La mayoría de las veces no podrán hacer nada, solamente atacar y destruir. Si pillan a su objetivo por sorpresa, tienen como mucho una hora para montar un plan rápido y simple. Si quieren parar a planificar algo complejo, diles que llegan refuerzos o que se van y atacan ahora o pierden la oportunidad. 
 * **No hay tiempo para curarse:** Solo pueden intentar curaciones en la hora de oro. Luego no tendrán ni el tiempo ni los materiales. Si aun así insisten sácales un encuentro básico (10/15 soldados) para cortar las curaciones.
 * **No hay tiempo para descansar:** Cada dos encuentros tendrán que pasar una tirada Vigor para evitar un nivel de fatiga por cansancio extremo. El problema es que no pueden descansar para recuperarse de la fatiga. Si aun así insisten sácales un encuentro básico (10/15 soldados) para cortar los descansos.
 * **Frio extremo:** Aunque ya hemos hablado de que no deberías preocuparte el frío, en las misiones en Stalingrado es tan extremo que puedes meterlo en la aventura como un enemigo más. En caso de querer aplicar las reglas de frío del Manual Básico de SWEA has de tener en cuenta que la media de temperatura son entre -20° y -25°.
@@ -2039,7 +2013,7 @@ Un antiguo palacio de la nobleza rusa está siendo usado por oficiales nazis com
 
 Tus comandos encuentran huellas recientes de un vehículo en la nieve y el barro que llevan hasta una gran mansión. Está anocheciendo y se ven luces y se oyen ruidos de personas.
 
-Parece que dentro han montado un grupo de oficiales su puesto de mando. A priori puede ser un combate sencillo, pero el problema es que los saurios no serán muy útiles dentro del palacio y serán tus comandos quienes tendrán que ir sala por sala ejecutando nazis.
+Parece que un grupo de oficiales dentro han montado su puesto de mando. A priori puede ser un combate sencillo, pero el problema es que los saurios no serán muy útiles dentro del palacio y serán tus comandos quienes tendrán que ir sala por sala ejecutando nazis.
 
 Este encuentro en realidad son 5 mini-encuentros. La mansión tiene 10 habitaciones (comedor, cocina, biblioteca, etc.) con tamaños que varían de 5x5 casillas a 5x10 casillas.
 
@@ -2069,7 +2043,7 @@ El tanque es casi impenetrable con armas convencionales, necesitarán meterle ex
 
 El parque no tiene zonas de cobertura, pequeños setos y algunos árboles, así que lo que venga será visto de lejos y si tus comandos los ven ellos ven a tus comandos. Así que en combate empezará nada más verse, sin posibilidad de planificar.
 
-Tus comandos no debería tener el cañón automático del tanque, pero la ametralladora mediana si puede ser un peligro.
+Tus comandos no deberían temer el cañón automático del tanque, pero la ametralladora mediana sí puede ser un peligro.
 
 #### Tripulación tanque nazi
 
@@ -2086,19 +2060,19 @@ Tus comandos están en el punto de mira de un grupo de francotiradores. Es compl
 
 Avanzando por una desértica calle del centro de la ciudad, entran una zona de disparo de una pareja de francotiradores.
 
-Hay dos francotiradores escondidos en los edificios de la calle y al ver a los dinosaurios los han visto como caza mayor. Está puede ser la pieza que termine definitivamente con su rivalidad, el que derribe a un saurio será el mejor francotirador de todos y quizás pueda salir de este infierno helado.
+Hay dos francotiradores escondidos en los edificios de la calle y al ver a los dinosaurios los han visto como caza mayor. Esta puede ser la pieza que termine definitivamente con su rivalidad, el que derribe a un saurio será el mejor francotirador de todos y quizás pueda salir de este infierno helado.
 
 Este combate es un tanto especial por varias razones:
 
 * En principio no va a ser sin mapa. Puedes dibujar algo por hacerse una idea.
-* Los objetivos de los francotiradores son los saurios. Es por ello que salvo, tiros muy claros dispararan a los gigantescos reptiles apuntando a sitios como ojos o cabeza. 
+* Los objetivos de los francotiradores son los saurios. Es por ello que, salvo, tiros muy claros dispararan a los gigantescos reptiles apuntando a sitios como ojos o cabeza. 
 * Los francotiradores, una vez encontrados, no son rival y huirán antes de ser alcanzados. Deberán evitarlo siguiendo las órdenes recibidas.
-* Los comandos pueden moverse sin problemas de una protección a otra de la calle. Pero los saurios estarán a la vista pudiendo como mucho conseguir media ocultación.
+* Los comandos pueden moverse sin problemas de una protección a otra de la calle. Pero los saurios estarán a la vista, pudiendo como mucho conseguir media ocultación.
 
 \saltopagina
 
 * Cada vez que se muevan podrán usar su acción normal en buscar a los francotiradores desde la nueva ubicación con Notar contra la tirada de Sigilo+4(ocultación parcial)+2(traje de camuflaje nieve) que hicieron los francotiradores al principio del combate.
-* Si detectan a un tirador este estará a distancia media de su arma y si consiguen impactarle, este huirá.
+* Si detectan a un tirador, este estará a distancia media de su arma y si consiguen impactarle, este huirá.
 * En su huida podrán atacarle todos con armas a distancia durante 4 turnos antes de que desaparezca. Estos 4 turnos suponen recoger el equipo (1 turno), bajar de la azotea (1 turno) y por último perderse entre las ruinas de la ciudad por la ruta de escape que se haya preparado(2 turnos y es distancia media). No debería responder al fuego, pero debería tener bonos por ir guareciéndose en distintas protecciones.
 * Los dinosaurios no serán útiles en este caso porque no pueden meterse entre las ruinas y por dentro de los edificios.
 * Pueden intentar seguir su rastro, pero tirarán Supervivencia contra su Sigilo+2 por conocer el terreno.
@@ -2129,7 +2103,7 @@ No debería ser un combate difícil a no ser que vayan muy tocados. Este encuent
 
 Si van a huir, con que se retiren 3 turnos hacia atrás mientras intercambian tiros será suficiente.
 
-Lo que hagan en este encuentro no tiene consecuencias en la campaña, pero dejará clara la caradura moral de tus comandos. Si se comen la cabeza un rato sobre como deberían haber actuado el objetivo de este encuentro se ha cumplido.
+Lo que hagan en este encuentro no tiene consecuencias en la campaña, pero dejará clara la caradura moral de tus comandos. Si se comen la cabeza un rato sobre como deberían haber actuado, el objetivo de este encuentro se ha cumplido.
 
 Como siempre, si crees que este encuentro no es adecuado para tu mesa, óbvialo o crea otro en su lugar.
 
@@ -2147,21 +2121,21 @@ Realmente esta es una de las misiones con más sentido. Tienes una unidad especi
 
 Necesitan dejar una prueba ya palpable de que los ingleses tienen dinosaurios y que se vuelvan locos por conseguirlos destinando tropas y recursos que ya no tienen quitándolos de los diferentes frentes.
 
-El viaje de regreso puedes dejarles caer, si no se han dado cuenta antes, que es bastante peligroso que fueran con uniformes ingleses a una misión como está. Debería haber ido sin uniformes. 
+El viaje de regreso puedes dejarles caer, si no se han dado cuenta antes, que es bastante peligroso que fueran con uniformes ingleses a una misión como esta. Debería haber ido sin uniformes. 
 
 ***
 
 # Parte 7: Regreso a casa
-A priori este capítulo debería empezar cuando acaben todas las misiones anteriores, pero puedes lanzarlo sin necesidad de haber completado el resto de misiones anteriores. Tu campaña tus reglas, pero recuerda que una vez empieces la campaña se encarrila hacia su final.
+A priori este capítulo debería empezar cuando acaben todas las misiones anteriores, pero puedes lanzarlo sin necesidad de haber completado el resto de misiones anteriores. Tu campaña, tus reglas, pero recuerda que una vez empieces la campaña se encarrila hacia su final.
 
 ## Por sorpresa
 ```
-Tras su última misión tus comandos volverán a la isla de Skye para encontrarse todo destruido, hay heridos y muertos y la mayoría de los dinosaurios han sido capturados y se los han llevado a alguna localización secreta. 
+Tras su última misión, tus comandos volverán a la isla de Skye para encontrarse todo destruido, hay heridos y muertos y la mayoría de los dinosaurios han sido capturados y se los han llevado a alguna localización secreta. 
 ```
 
 Cuando el «Mary Anning» se acerque a Skye, tus comandos se encontrarán con una desagradable sorpresa. Primero verán grandes columnas de humo negro de varias zonas de los terrenos de la Fundación. Al acercarse más, verán en el cielo un Zepelín con insignias nazis y dos acorazados en el mar en dirección oeste. Si preguntan a Dolores no son rivales y no pueden seguirlos, con el nivel de combustible que tienen no pueden hacer mucho.
 
-Al bajar a tierra el panorama será desalentador. Parece que ha habido una escaramuza entre los nazis y la gente de la fundación en la que ha perdido la Fundación. Hay incendios que apagar, humanos y saurios que curar, etc. Un vistazo rápido les dirá que los nazis atacaron las instalaciones y se llevaron a una importante cantidad de saurios y humanos. Lo que se resistieron, sobre todo saurios fueron ejecutados. El ataque ha debido durar unas dos horas, ya que las fuerzas de defensa locales no han podido responder (tampoco se lo esperaba nadie). 
+Al bajar a tierra el panorama será desalentador. Parece que ha habido una escaramuza entre los nazis y la gente de la fundación en la que ha perdido la Fundación. Hay incendios que apagar, humanos y saurios que curar, etc. Un vistazo rápido les dirá que los nazis atacaron las instalaciones y se llevaron a una importante cantidad de saurios y humanos. Lo que se resistieron, sobre todo saurios, fueron ejecutados. El ataque ha debido durar unas dos horas, ya que las fuerzas de defensa locales no han podido responder (tampoco se lo esperaba nadie). 
 
 ### Salvando vidas
 Si algo de acción diferente o quieres evitar que tus comandos no traten de seguir como sea a los nazis, puedes ponerles algunos encuentros en forma de desastres que deberían retrasarles. Estas son algunas ideas:
@@ -2173,22 +2147,22 @@ Si algo de acción diferente o quieres evitar que tus comandos no traten de segu
 
 * **Vendajes y suturas:** Si hay personal médico entre tus comandos deberían estar tratando a los heridos.
 * **Saurio atrapado:** Algún saurio está atrapado bajo los escombros de alguna estructura. Está herido y reacciona agresivamente cuando tiene dolor y le puedes hacer daño al quitar los escombros. 
-* **Pteranodontes caído:** Deberán rescatar a un par de pteranodontes que al caído al mar al ser heridos con el armamento del zepelín. Los ictiosaurios y plesiosaurios pueden ayudar.
-* **Alejar a los mirones:** Con toda su buena voluntad las gentes de la isla han venido a ayudar con lo que tenía a mano, pero deberán controlarlos y que vea lo menos posible de los secretos de la Fundación.
+* **Pteranodontes caídos:** Deberán rescatar a un par de pteranodontes que al caído al mar al ser heridos con el armamento del zepelín. Los ictiosaurios y plesiosaurios pueden ayudar.
+* **Alejar a los mirones:** Con toda su buena voluntad, las gentes de la isla han venido a ayudar con lo que tenía a mano, pero deberán controlarlos y que vea lo menos posible de los secretos de la Fundación.
 
 ### Secuestrados
 Los nazis han capturado a una serie de personas:
 
 * **Lady Roxton.**
 * **Teniente Horace Linton.** Esperaba la vuelta de tus comandos para hacer el informe de la última misión.
-* **Marina Flowers** si estaba en las instalaciones. Si es el interés romántico de algún comando puede darle mucho juego.
+* **Marina Flowers**, si estaba en las instalaciones. Si es el interés romántico de algún comando puede darle mucho juego.
 * Si trajeron a la isla a **Arntine Lyngstad y su familia**, von Liebenfels la reconoció de Noruega y se la ha llevado. Quiere interrogarla para saber más del fiasco de Telemark.
 * **Cualquier PNJ de tu propia cosecha que estuviera en la isla de Skye** es susceptible de haber sido secuestrado.
 
 Si bien en teoría no pueden hacer nada, puedes usarlos en momentos de necesidad narrativa como una pista. No sería de extrañar que Lady Roxton se librará de sus captores y huyera hasta encontrar a tus comandos con información que les dé una pista de lo que hacer. Tampoco sería de extrañar que Horace Linton les mande algún tipo de mensaje por radio de su ubicación si tiene oportunidad.
 
 ### Buscando pistas
-Una vez solucionado todos los problemas y calculadas las bajas y detectados los rehenes de los nazis pueden empezar a investigar que ha pasado y de sacar sus propia conclusiones.
+Una vez solucionado todos los problemas y calculadas las bajas y detectados los rehenes de los nazis, pueden empezar a investigar que ha pasado y de sacar sus propias conclusiones.
 
 **Entrevistar a los supervivientes:** Una vez este todo más tranquilo. Si interrogan a los supervivientes contarán que el zepelín apareció en el cielo y los buques de guerra empezaron a disparar contra tierra. El zepelín aterrizó cerca del castillo sin ninguna oposición y de él salieron montones de soldados nazis.
 
@@ -2196,13 +2170,13 @@ Una vez solucionado todos los problemas y calculadas las bajas y detectados los 
 
 [![Primer plano de una ilustración de un ictiosaurio](./assests/images/ictiosaurio-libro.jpg 'Mighty animals; being short talks about some of the animals which lived on this earth before man appeared, - Mix, Jennie Irene')](https://commons.wikimedia.org/wiki/Category:Mighty_animals#/media/File:Mighty_animals_(Page_64)_BHL40566207.jpg 'Mighty animals; being short talks about some of the animals which lived on this earth before man appeared, - Mix, Jennie Irene')
 
-Enseguida controlaban todo se llevaron algunos rehenes y atraparon bastantes saurios que subieron a bordo de los navíos de guerra en barcazas de desembarco. 
+Enseguida controlaban todo, se llevaron algunos rehenes y atraparon bastantes saurios que subieron a bordo de los navíos de guerra en barcazas de desembarco. 
 
 Una tirada de Tácticas les dirá que esta misión estaba muy preparada, planificada al milímetro y ejecutada sin fallos. Debían tener mucha y muy buena información para llegar hasta aquí sin encontrarse con enemigos y luego para ejecutar su plan en pocas horas.
 
-**Pieza de artillería:** Si revisan la pieza de artillería antiaérea con una tirada de Reparar o de Disparar, podrán ver que no ha sido disparada en tiempo. Lo cual es raro porque lo lógico habría sido usarlo contra el zepelín de von Liebenfels. Si preguntan a los supervivientes confirmarán todo esto.
+**Pieza de artillería:** Si revisan la pieza de artillería antiaérea con una tirada de Reparar o de Disparar, podrán ver que no ha sido disparada en tiempo. Lo cual es raro porque lo lógico habría sido usarlo contra el zepelín de von Liebenfels. Si preguntan a los supervivientes, confirmarán todo esto.
 
-**Saurios:** Una buena tirada de Notar encontrará en la playa los restos unos collares eléctricos rotos del tamaño del cuello del alosaurio. Parece 
+**Saurios:** Una buena tirada de Notar encontrará en la playa los restos de unos collares eléctricos rotos del tamaño del cuello del alosaurio. Parece 
 que es la forma de controlar a los saurios, con descargas eléctricas. También parece que han llevado otros aparatos de control de animales como redes metálicas superresistentes o porras eléctricas por las quemaduras de algunos saurios que han escapado. 
 
 **Secuestrados:** Si analizan los secuestrados, no se han llevado a cualquiera. Se han llevado a Lady Roxton y a Horace Linton, dos piezas muy importantes. Debían conocer a Lady Roxton muy bien porque por como viste y se arregla de normal parece otra trabajadora más de la Fundación. Esto se suma a los puntos anteriores y queda claro que el ataque estaba muy planeado.
@@ -2216,7 +2190,7 @@ El general les explicará que el proyecto ha terminado abruptamente porque los n
 
 Les dará un par de días para sacar sus cosas de los restos de la Fundación, ya que a partir de ese momento IM pasará a controlar lo que ha quedado de la Fundación y clausurará sus instalaciones.
 
-En esta parte es importante que aunque no lo diga el general, les deje muy claro mediante indirectas que todo lo que ha pasado es culpa suya. Si hubieran hecho bien su trabajo esto no habría pasado. Si tratan de argumentar con todos los fallos de seguridad que han visto en las misiones por parte del IM o sus sospechas de espías y filtraciones desde la IM, Linton responderá que se hagan responsables de sus errores y les acusará de ser todo culpa suya.
+En esta parte es importante que aunque no lo diga el general, les deje muy claro mediante indirectas que todo lo que ha pasado es culpa suya. Si hubieran hecho bien su trabajo, esto no habría pasado. Si tratan de argumentar con todos los fallos de seguridad que han visto en las misiones por parte del IM o sus sospechas de espías y filtraciones desde la IM, Linton responderá que se hagan responsables de sus errores y les acusará de ser todo culpa suya.
 
 Tiene que seguir con la farsa incluso ahora por si hubiera espías. Está muy cerca de conseguir que Hitler siga quimeras por la selva venezolana y que miles de soldados que pudieran estar luchando en el frente se estén movilizando para llevar dinosaurios a Berlín.  
 
@@ -4352,7 +4326,7 @@ Seguramente nadie llegue a leer este apartado, pero aquí os dejo información, 
 Simplemente, porque me encanta Savage Worlds, es uno de los sistemas genéricos de juegos de rol con el que más cómodo me siento. Si voy a meterle muchas horas a esta campaña quiero hacerlo con un RPG que me sea fácil y familiar.
 
 ### ¿Por qué dinosaurios contra nazis?
-Toda esta campaña es principalmente producto de mi gusto por los crossover en diferentes géneros. Puede parecer increíble, pero es una mezcla entre mi gusto por películas bélicas como La gran evasión, Los cañones de Navarone o El desafío de las águilas y querer poder meter algo parecido a Pokémon pero sin derechos. Es por ello que escogí dinosaurios, que tienen un rollo Pokémon. Son criaturas «fantásticas» con capacidades muy especiales que no tienen el resto de seres vivos. 
+Toda esta campaña es principalmente producto de mi gusto por los crossovers en diferentes géneros. Puede parecer increíble, pero es una mezcla entre mi gusto por películas bélicas como La gran evasión, Los cañones de Navarone o El desafío de las águilas y querer poder meter algo parecido a Pokémon pero sin derechos. Es por ello que escogí dinosaurios, que tienen un rollo Pokémon. Son criaturas «fantásticas» con capacidades muy especiales que no tienen el resto de seres vivos. 
 
 Y sinceramente porque los dinosaurios molan.
 
@@ -4387,20 +4361,20 @@ He tratado de que haya diversidad entre PNJ con todo tipo de opciones de género
 \saltopagina
 
 ### Maltrato animal
-Estoy totalmente en contra del maltrato animal y espero que las personas que vayan a jugar esta campaña sientan el mismo respeto que yo por los animales y el medio ambiente en general. Mi idea al crear esta campaña es que los dinosaurios fueran personajes importantes en la trama que luchen y sufran como los PJ y que se haga lo que sea necesario para protegerlos y viceversa. 
+Estoy totalmente en contra del maltrato animal y espero que las personas que vayan a jugar esta campaña sientan el mismo respeto que yo por los animales y el medio ambiente en general. Mi idea al crear esta campaña es que los dinosaurios fueran personajes importantes en la trama, que luchen y sufran como los PJ y que se haga lo que sea necesario para protegerlos y viceversa. 
 
 La muerte de un dinosaurio no puede ser algo banal, debe tener una justificación y ser importante en una trama, ya que son tan importantes como los PJ de las personas de tu mesa. Si en tu mesa se usan a los compañeros dinosaurios como objetos de usar tirar y donde no importa si sufren o mueren, tómatelo como una tremenda «red flag».  
 
 Para aportar mi granito de arena os diré que el servidor donde se aloja esta ambientación es un servidor verde certificado por la [Green Web Foundation](https://www.thegreenwebfoundation.org/green-web-check/?url=https%3A%2F%2Fmundoperdido.gwannon.com%2F).
 
 ### Suicidio
-El suicidio es un tema tratado, aunque sea un poco de pasada, en esta campaña. Es un tema espinoso que no debemos tomarlo a la ligera. Es por ello que creo que ser cuidadoso a la hora de mostrarlo o eliminarlo si crees que no tu mesa no está preparado. Como decimos más adelante establece si lo ves necesarios los velos y las herramientas de seguridad necesarias para tratarlo.
+El suicidio es un tema tratado, aunque sea un poco de pasada, en esta campaña. Es un tema espinoso que no debemos tomarlo a la ligera. Es por ello que creo que ser cuidadoso a la hora de mostrarlo o eliminarlo si crees que no tu mesa no está preparado. Como decimos más adelante, establece, si lo ves necesarios, los velos y las herramientas de seguridad necesarias para tratarlo.
 
 ### Fascismo y nazismo
 Esta campaña va de joder los malvados planes de los nazis, así que cualquier tipo de actividad en partida que suponga simpatizar con nazis y fascistas y su ideología debería ser una «red flag» clarísima. Si tus compañeros y compañeras de mesa ensalzan de alguna manera las ideas de nazis y fascistas, deberías levantarte e irte y si eres tú, él o la que las ensalza que sepas que eres un pedazo de mierda. 
 
 ### Licencias con la obra original
-Me he tomado una serie de licencias con la obra original de Sir Arthur Conan Doyle a la hora de desarrollar esta campaña que pueden resumirse en los siguientes puntos:
+Me he tomado una serie de licencias con la obra original de Sir Arthur Conan Doyle a la hora de desarrollar esta campaña, que pueden resumirse en los siguientes puntos:
 
 * Los dinosaurios son muchísimo más inteligentes que en el libro. En el original se les representa como seres estúpidos fáciles de engañar. Su cerebro es muy pequeño y esa es su principal debilidad. En esta campaña se considera que sus cerebros han evolucionado gracias a la interacción con los sakalas.
 * Siguiendo con el punto anterior, los aborígenes no se dedican a cazar y matar dinosaurios, sino que han aprendido a semi-domesticarlos.
