@@ -23,7 +23,6 @@
   * Parte 8: Regreso al Mundo Perdido (Por terminar)
   * Parte 9: La Selva Negra (Por terminar)
   * Relatos salvajes
-  * 
 
 * Corrección de textos "Parte 3: Islas Orcadas", "Parte 4: Noruega", "Parte 6: El frente ruso", "Parte 7: Regreso a casa", "Aliados, antagonistas y dinosaurios" y "Epílogo"
 

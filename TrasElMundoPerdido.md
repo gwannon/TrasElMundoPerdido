@@ -2669,7 +2669,7 @@ La gente de IM tiene nuevos inventos e ingenios para saurios y necesita que sean
 
 Esto no es exactamente un relato, sino una serie de ingenios y cachivaches que pueden llevarse en cada misión para probarlos. Son cacharros con funciones locas que fallan un montón y que tienden a explotar. Tómatelo como algo divertido y humorístico que meter en las grandes misiones. Si el humor no encaja en como llevas esta campaña, obvia completamente esta parte.
 
-Los comandos no deberían conocer como funcionan solo lo que les digan desde IM, deberán averiguarlo en sus misiones.
+Los comandos no deberían conocer como funcionan, solo lo que les digan desde IM, deberán averiguarlo en sus misiones.
 
 ### Antena de radio para estegosaurios
 Desde IM han creado una especie de fundas de tela metálica con cables y antenas para colocar en las placas dorsales de un estegosaurio y que funcionarían como antena amplificadora de señal de radio. Es bastante efectiva, pero al mínimo movimiento del saurio, la señal puede desaparecer o amplificarse demasiado.
@@ -2681,9 +2681,9 @@ Desde IM han creado una especie de fundas de tela metálica con cables y antenas
 La antena podría usarse para disfrazar al estegosaurio de algún tipo de ser extraterrestre si lo apoyan con luces y humo. No se me ocurre en que situación les podría venir bien, pero la posibilidad existe.
 
 ### Flotadores para dinosaurios
-Los dinosaurios carnívoros terrestres no son buenos nadadores y la gente de IM han decidido crear unos flotadores en forma de rosca para alosaurios y megalosaurios. Estos flotadores con colores de camuflaje se colocan entre los brazos y las piernas. Cabe decir que se ven ridículos en el agua con los flotadores. Lo malo es que hay que tira de ellos, ya que no pueden nadar solo flotar.
+Los dinosaurios carnívoros terrestres no son buenos nadadores y la gente de IM han decidido crear unos flotadores en forma de rosca para alosaurios y megalosaurios. Estos flotadores con colores de camuflaje se colocan entre los brazos y las piernas. Cabe decir que se ven ridículos en el agua con los flotadores. Lo malo es que hay que tirar de ellos, ya que no pueden nadar, solo flotar.
 
-Para los herbívoros, que nadan algo mejor, tienen unos en forma de barra que se ajustan con cinchas a los lados y les permiten andar a lo perrito con lo que son más autónomos en el agua.
+Para los herbívoros, que nadan algo mejor, tienen unos en forma de barra que se ajustan con cinchas a los lados y les permiten andar a lo perrito, con lo que son más autónomos en el agua.
 
 > A los herbívoros les permite nadar con sus extremidades 1 casilla por turno. Los carnívoros solo flotan. No pueden hundirse a no ser que el flotador se rompa. 
 > Cuesta 5 turnos ponerlo y otros 5 quitarlo y mientras los tengan puestos tienen un -2 a Intimidar.
@@ -2717,7 +2717,7 @@ Tendrán que buscar la manera de deshacerse de Gerald, bien por la fuerza, bien 
 
 Por la fuerza es el camino más rápido, pero no pueden hacerle nada porque está fuera de los terrenos. Si le dañan de alguna manera les pondrá una demanda, habrá un juicio por lesiones y demás. Puede aparecer alguien de la prensa cuando vayan a actuar contra Gerald para complicarlo.
 
-Pueden intentar engañarle, prometerle que le dejarán entrar y ver las instalaciones y cuando se desate no hacerle ni caso. En esa situación al volver de otra misión Gerald volverá a estar con dos compañeros, así con más gente hasta que le deje entrar.
+Pueden intentar engañarle, prometerle que le dejarán entrar y ver las instalaciones y cuando se desate no hacerle ni caso. En esa situación, al volver de otra misión, Gerald volverá a estar con dos compañeros, así con más gente hasta que le deje entrar.
 
 Si tratan de persuadirle de que desista o que se canse cuando se le acabe la comida. Es casi imposible, es terriblemente tozudo. Solo unas muy buenas tiradas podrían convencerle.
 
@@ -2742,12 +2742,12 @@ Este, joven naturalista y activista medioambiental va a ser un pequeño quebrade
 
 ## ¿Quién es Marion Fairfax?
 ```
-En 1924 en Hollywood una guionista/actriz llamada Marion Fairfax intentaba vender un guion de cine que era casi calcado a la expedición de Challenger. La Fundación Roxton compró los derechos cinematográficos a través de una empresa pantalla e hizo desaparecer el manuscrito del guión.
+En 1924 en Hollywood una guionista/actriz llamada Marion Fairfax intentaba vender un guion de cine que era casi calcado a la expedición de Challenger. La Fundación Roxton compró los derechos cinematográficos a través de una empresa pantalla e hizo desaparecer el manuscrito del guion.
 ```
 
 [![Retrato de Marion Fairfax](./assests/images/marion-fairfax.jpg 'American screenwriter Marion Fairfax, page 24 of the October 1921 Photoplay.')](https://es.wikipedia.org/wiki/Marion_Fairfax#/media/Archivo:Marion_Fairfax.jpg 'American screenwriter Marion Fairfax, page 24 of the October 1921 Photoplay.')
 
-Hoy esa guionista en ciernes, es una famosa escritora de ciencia ficción que está de visita en Londres para promocionar su libro. La Fundación quiere aprovechar y averiguar cómo su guion era tan acertado. Si hubo en su momento una filtración es importante saberlo y solucionarla.
+Hoy esa guionista en ciernes, es una famosa escritora de ciencia ficción que está de visita en Londres para promocionar su libro. La Fundación quiere aprovechar y averiguar cómo su guion era tan acertado. Si hubo en su momento una filtración, es importante saberlo y solucionarla.
 
 Se va a hospedar durante 4 noches en el «Savoy», uno de los hoteles más elegantes y caros de Londres. Como curiosidad, la entrada del «Savoy» en el único lugar de toda Inglaterra donde se circula por la derecha. 
 
@@ -2756,7 +2756,7 @@ Se dedicará a firmar sus obras y hacer lecturas en 4 librerías de Londres (Foy
 ### Intentos fallidos
 Pueden intentar acercarse a Marion en el «Savoy» o en una de las librerías. Pero estos intentos deberían fallar todas. Algunas opciones:
 
-* Hay tal cantidad de fans esperando hablar con su autora preferida que es imposible acercarse. Si se ponen violentos los fans se volverán locos y habrá una turba de fans enloquecidos.
+* Hay tal cantidad de fans esperando hablar con su autora preferida que es imposible acercarse. Si se ponen violentos, los fans se volverán locos y habrá una turba de fans enloquecidos.
 
 \saltopagina
 
@@ -2770,7 +2770,7 @@ Pueden intentar acercarse a Marion en el «Savoy» o en una de las librerías. P
 Si se lo trabajan bien puedes darles algunos benis, pero lo divertido es que fracasen e incitarles a cada vez llevar a cabo planes más locos, como disfrazarse de fans, colarse como camareros o infiltrase en plan ninja en el hotel.
 
 ### Cena de escritoras
-La última oportunidad será una comida de escritoras famosas como Agatha Christie, Virginia Woolf, Pamela Lyndon Travers (autora de Mary Poppins). A esta altura y con todos sus planes anteriores fallando deberían buscar un plan realmente loco. Si no les ves animados, recibirán un telegrama de Lady Roxton metiéndoles presión.
+La última oportunidad será una comida de escritoras famosas como Agatha Christie, Virginia Woolf, Pamela Lyndon Travers (autora de Mary Poppins). A esta altura y con todos sus planes anteriores fallando, deberían buscar un plan realmente loco. Si no les ves animados, recibirán un telegrama de Lady Roxton metiéndoles presión.
 
 Marion siempre va acompañada de su editora, Alice Gerald (usa la ficha de Burócrata), que no se separa de ella nunca. Así que el primer paso será deshacerse de Alice para poder acercarse a Marion. Puedes deshacerse de ellas de varias formas, pero como mínimo un comando tendrá que estar con ella. Pueden seducirla, ponerle laxantes en la bebida, perderla cuando coja un taxi, etc. Puedes manejarla como un Terminador, su objetivo es estar junto a Marion y nada la detendrá. 
 
@@ -2780,14 +2780,14 @@ Cualquier plan es posible. Quizás puedan disfrazarse de alguna escritora/editor
 
 Si Marina Flowers (Titanes de tiempos pretéritos) está en el país, quizás puedan conseguir que les ayude, pero deberán saber manejar sus rarezas.
 
-En la biblioteca del castillo Dunvegan tienen el guion original que escribió Marion. Si consiguen que lo vea, aunque sea de lejos, se quedará ojiplática. Ya ni se acordaba de esos tiempos en Hollywood y se acerca directamente les pedirá que vayan a un lugar privado a hablar sobre el tema.
+En la biblioteca del castillo Dunvegan tienen el guion original que escribió Marion. Si consiguen que lo vea, aunque sea de lejos, se quedará ojiplática. Ya ni se acordaba de esos tiempos en Hollywood y se acerca directamente, les pedirá que vayan a un lugar privado a hablar sobre el tema.
 
 \saltopagina
 
 ### El secreto de Marion
 Una vez que consigan acercarse a Marion y le expliquen quienes son (sea verdad o mentira lo que le digan) estará encantada de contar la historia de su primer guion. 
 
-> La explicación es bastante sencilla la cocinera de su familia contaba la historia de un primo suyo llamado Zambo, el leal ayudante negro, que acompañó a la expedición Challenger.
+> La explicación es bastante sencilla, la cocinera de su familia contaba la historia de un primo suyo llamado Zambo, el leal ayudante negro, que acompañó a la expedición Challenger.
 
 &nbsp;
 
@@ -2835,7 +2835,7 @@ La IM quiere a Marina en esta película porque es una actriz con bastante fama q
 
 &nbsp;
 
-Es importante que los especialistas principales de cada secuencia no se repitan y en caso de tener que repetirse no deberían ser seguidas. Si alguna escena se complica y no pueden hacerla puedes recurrir a que el director, un joven y pedante director de documentales patrióticos llamado Bill Sullivan (usa la ficha de Artista), grite «¡Corten, se acabó por hoy! Ya arreglaremos este desastre en la sala de edición».
+Es importante que los especialistas principales de cada secuencia no se repitan y en caso de tener que repetirse no deberían ser seguidas. Si alguna escena se complica y no pueden hacerla, puedes recurrir a que el director, un joven y pedante director de documentales patrióticos llamado Bill Sullivan (usa la ficha de Artista), grite «¡Corten, se acabó por hoy! Ya arreglaremos este desastre en la sala de edición».
 
 ### 1ª secuencia
 Para la primera secuencia Marina solo va a hablar con gruñidos y palabras inventadas tanto dentro como fuera del set de rodaje.
@@ -2844,16 +2844,16 @@ La primera secuencia será de una estampida de saurios. Marina y un par de caver
 
 \saltopagina
 
-Por una de las praderas del hábitat de los herbívoros deberán correr los actores escapando de la estampida. Unos de los cavernícolas debe caerse y ser aplastado por los saurios. Que decidan entre tus comandos quien va a morir en la escena.
+Por una de las praderas del hábitat de los herbívoros deberán correr los actores escapando de la estampida. Unos de los cavernícolas debe caerse y ser aplastado por los saurios. Que decidan entre tus comandos quién va a morir en la escena.
 
 Cuando el director de la señal debería dejarse caer y gritar como si lo hubieran aplastado. Deberá pasar **3 tiradas enfrentadas de Atletismo contra el Atletismo de dos estegosaurios y un iguanodonte**. Si la gana, lo esquiva rodando por el suelo, si falla recibe la FUE del saurio de daño. Un compañero saurio no pisará a su humano. 
 
-Además de las tiradas de Atletismo tendrá que **hacer una tirada de Interpretar para hacerse bien el muerto**. Si falla la tirada el director volverá a rodar la escena con otro comando. Si fallan todos, hará una segunda ronda. Si vuelven a fallar, cogerá la escena del comando que obtuvo mejor tirada. Recuerda que tus comandos pueden fallar a propósito su tirada para fastidiar a sus compañeros.
+Además de las tiradas de Atletismo tendrá que **hacer una tirada de Interpretar para hacerse bien el muerto**. Si falla la tirada, el director volverá a rodar la escena con otro comando. Si fallan todos, hará una segunda ronda. Si vuelven a fallar, cogerá la escena del comando que obtuvo mejor tirada. Recuerda que tus comandos pueden fallar a propósito su tirada para fastidiar a sus compañeros.
 
 Puede ser divertido que pongas el [Grito Wilhelm](https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d9/Wilhelm_Scream.ogg/Wilhelm_Scream.ogg.mp3) cuando algún comando finja su muerte.
 
 ### 2ª secuencia
-Para la filmación de esta secuencia Marina tiene preparado una sorpresa para todos los extras, una pistola de tatuaje (y demás parafernalia) que vete tú a saber de donde lo ha sacado. Quiere que todos se tatúen una huela de dinosaurio en una nalga.
+Para la filmación de esta secuencia Marina, tiene preparado una sorpresa para todos los extras, una pistola de tatuaje (y demás parafernalia) que vete tú a saber de donde lo ha sacado. Quiere que todos se tatúen una huela de dinosaurio en una nalga.
 
 Marina y otros cavernícolas harán esquí acuático usando a los plesiosaurios como lanchas. Se pondrán unos esquíes cubiertos de corteza de madera para parecer prehistóricos y los plesiosaurios empezarán a tirar de ellos para que floten sobre el agua. Uno de los cavernícolas, deberá caerse al agua dando unas cuantas volteretas en el aire.
 
@@ -2862,27 +2862,27 @@ Marina y los comandos deberán **pasar una tirada de Atletismo -2 para hacer esq
 Tienen todos unas bolsas de sangre preparadas para romperlas y que el agua se tiña de rojo. Si fallan sus acrobacias o su actuación al morir volverán a repetir las secuencias.  
 
 ### 3ª secuencia
-Como es costumbre Marina llegará al set de rodaje con una de sus rarezas, ha conseguido unos troncos y quieren practicar lanzamientos de troncos, un deporte tradicional de las tierras altas. 
+Como es costumbre, Marina llegará al set de rodaje con una de sus rarezas, ha conseguido unos troncos y quieren practicar lanzamientos de troncos, un deporte tradicional de las tierras altas. 
 
-La secuencia de hoy exige que una bandada de pteranodontes capturen a Marina y la lleven a su nido donde están sus crías. Esta escena tiene dos partes una en que están reunidos Marina y los comandos/cavernícolas y de repente los pteranodontes raptan a Marina y a un figurante cavernícola. La segunda parte es que al extra lo tiran al mar, mientras que a Marina la dejan en uno de los nidos de los acantilados.
+La secuencia de hoy exige que una bandada de pteranodontes capturen a Marina y la lleven a su nido donde están sus crías. Esta escena tiene dos partes, una en que están reunidos Marina y los comandos/cavernícolas y de repente los pteranodontes raptan a Marina y a un figurante cavernícola. La segunda parte es que al extra lo tiran al mar, mientras que a Marina la dejan en uno de los nidos de los acantilados.
 
 \saltopagina
 
 Los pteranodontes no tienen problema es atrapar a un humano y llevárselo volando, el único problema es la caída al mar. El cavernícola tendrá que hacer dos tiradas. **Una de Interpretar para mover las piernas y los brazos frenéticamente** (metraje que saldrá en la película con el grito Wilhelm) y otra de **Atletismo para hacer una zambullida al mar sin llevarse al daño** (que no saldrá en la película).
 
-Si falla la primera tirada, tendrán que repetir la escena. Si falla la segunda se llevará 3d6 de daño por la panzada contra el agua. 
+Si falla la primera tirada, tendrán que repetir la escena. Si falla, la segunda se llevará 3d6 de daño por la panzada contra el agua. 
 
 ### 4ª secuencia
 Las rarezas de Marina lo dan todo en la última secuencia que van a rodar y ha conseguido el atrezo de alguna representación amateur de Sueño de una noche de verano y además ha traído un barrilete de whisky escocés para la fiesta post filmación.
 
-Esta secuencia es la batalla final contra el alosaurio. Esta vez Marina liderará a un grupo de cavernícolas contra el malvado depredador. Con lanzas y hachas de cartón-piedra se enfrentarán al alosaurio. El alosaurio deberá coger a uno de los cavernícolas con la boca y luego lanzarlo. Tras eso Marina acabará con el alosaurio clavándole una lanza en la tripa.
+Esta secuencia es la batalla final contra el alosaurio. Esta vez Marina liderará a un grupo de cavernícolas contra el malvado depredador. Con lanzas y hachas de cartón-piedra se enfrentarán al alosaurio. El alosaurio deberá coger a uno de los cavernícolas con la boca y luego lanzarlo. Tras eso, Marina acabará con el alosaurio clavándole una lanza en la tripa.
 
 Todos los cavernícolas (incluida Marina) deberán **pasar una tirada de Pelear para atacar con sus armas al alosaurio y otra de Atletismo para hacer alguna acrobacia para esquivar al alosaurio**.
 
-La víctima llevará debajo de las pieles una planchas de cuero muy fuerte para que los dientes del alosaurio no le hagan daño. Deberá **tirar Interpretar para agitarse cuando lo atrape con sus mandíbulas** (con grito Wilhelm como siempre) y romper una cápsula de falsa sangre. Si falla a repetir la escena. Tendrá que hacer además otra de **Atletismo para caer y no hacerse 2d6 de daño** cuando le lance lejos. Esta segunda tirada no hace repetir la escena.
+La víctima llevará debajo de las pieles una planchas de cuero muy fuerte para que los dientes del alosaurio no le hagan daño. Deberá **tirar Interpretar para agitarse cuando lo atrape con sus mandíbulas** (con grito Wilhelm como siempre) y romper una cápsula de falsa sangre. Si falla, a repetir la escena. Tendrá que hacer además otra de **Atletismo para caer y no hacerse 2d6 de daño** cuando le lance lejos. Esta segunda tirada no hace repetir la escena.
 
 ### Otras secuencias
-Si quieres hacer más secuencias aquí tienes algunas ideas divertidas.
+Si quieres hacer más secuencias, aquí tienes algunas ideas divertidas.
 
 * Los cavernícolas deben robar un huevo gigante sin romperlo mientras esquivan a sus progenitores. Al final se harán una tortilla gigante (basado en una de las escenas de la película «Cavernícola» de 1981).
 * Los y las cavernícolas hacen unos extraños (y extremadamente ridículos) bailes en la cueva a la luz de la hoguera para atraer a posibles parejas sexuales y románticas.
@@ -2916,7 +2916,7 @@ No es excéntrica, ni va de diva, simplemente tiene ramalazos raros y de repente
 **Sugerencia de interpretación:** Eres muy carismática y habladora, siempre interesándote por lo demás y ayudándoles en lo que sea. Te gusta flirtear, y hacerte querer. En general da gusto estar contigo hasta que tu cerebro hace clic y te dejas llevar por tu lado raro.
 
 ### Compañero saurio
-Puede ser interesante que durante el rodaje Marina establezca un vínculo con alguno de los dinosaurios. Esto hará que marina y sus rarezas puedan aparecer cada cierto tiempo por el castillo Dunvegan a visitar a su compañero saurio. Puedes usarlo como un comando pre-generado para un jugador o jugadora que quiera jugar una sesión o como un PJ que les dé apoyo en sus aventuras sobre todo en los relatos salvajes.
+Puede ser interesante que durante el rodaje Marina establezca un vínculo con alguno de los dinosaurios. Esto hará que marina y sus rarezas puedan aparecer cada cierto tiempo por el castillo Dunvegan a visitar a su compañero saurio. Puedes usarlo como un comando pre-generado para un jugador o jugadora que quiera jugar una sesión o como un PJ que les dé apoyo en sus aventuras, sobre todo en los relatos salvajes.
 
 Puede ser en alguna escena en que algún saurio la ataca o los cavernícolas la capturan, otro saurio de fuera de la escena salga a defenderla.
 
@@ -2939,12 +2939,12 @@ El atrezo consta de ropas hechas de pieles, sandalias, lanzas y hachas de piedra
 ```
 Mientras tus comandos atraviesan una zona despejada de terreno, descubren para su desgracia que se han metido en un campo de minas.
 ```
-En algún momento mientras tus comandos recorren la campiña francesa, la tundra helada de Noruega, las arenas del Sahara o las calles de Stalingrado, alguien pisa algo metálico que hace un clic metálico (tirada de Notar) y no debería hacerlo. Han entrado en un campo de minas y uno de los comandos ha pisado una mina. 
+En algún momento, mientras tus comandos recorren la campiña francesa, la tundra helada de Noruega, las arenas del Sahara o las calles de Stalingrado, alguien pisa algo metálico que hace un clic metálico (tirada de Notar) y no debería hacerlo. Han entrado en un campo de minas y uno de los comandos ha pisado una mina. 
 
 Puede que la haya detectado y si levanta el pie explotará o que no la detecte y reciba daño. Si has pisado una mina y no ha explotado tienes 2 opciones.
 
 * **Saltar tirando Atletismo,** el éxito y cada avance quita un dado de daño.
-* Un compañero podría acercarse y **desactivarla haciendo una tirada de Reparar** (-4 si no tienen herramientas y -2 si no tienen herramientas de desactivador de explosivos). Un fallo supone daño para los dos comandos.
+* Un compañero podría acercarse y **desactivarla haciendo una tirada de Reparar** (-4 si no tienen herramientas y -2 si no tienen herramientas de desactivación de explosivos). Un fallo supone daño para los dos comandos.
 
 ### Lo que dice el manual en estas situaciones
 Una vez solucionado el primer problema tienen que salir del campo de minas. 
@@ -2954,14 +2954,14 @@ Una vez solucionado el primer problema tienen que salir del campo de minas.
 
 \saltopagina
 
-3. Apunta las coordenadas de tantas minas como (comandos + saurios) x 2. Recuerda que las minas explotan por simpatía. Si la honda expansiva llega a otra mina está explotará. Recuerda que debería haber menos minas por el lado donde entraron.
+3. Apunta las coordenadas de tantas minas como (comandos + saurios) x 2. Recuerda que las minas explotan por simpatía. Si la honda expansiva llega a otra mina, esta explotará. Recuerda que debería haber menos minas por el lado donde entraron.
 4. Coloca (comandos + saurios) casillas con elementos seguros sin minas como árboles, grandes rocas, pozos, abrevaderos, etc. 
 
 [![Detalle de comando inglés buscando minas](./assests/images/campo-minado.jpg 'A British soldier laying a mine in the sand, 6 April 1942. The mine is placed in a sack and buried with its top level with the ground. 5lb of pressure is required to set it off.')](https://picryl.com/media/the-campaign-in-north-africa-1940-1943-e10294-95e948 'A British soldier laying a mine in the sand, 6 April 1942. The mine is placed in a sack and buried with its top level with the ground. 5lb of pressure is required to set it off.')
 
 El objetivo es salir del mapa y cada turno (10 minutos) pueden moverse una casilla en la dirección que quieran. Deben tirar Notar por cada casilla en la que entren. Si la pasan, si hay mina detectarán la mina y podrán marcarla como minada. Deberán evitarla por si explota sin querer. Si no hay nada pueden marcar la casilla como segura y nadie necesitará tirar Notar al pasar por ella. 
 
-Si fallan la tirada de notar y no hay nada no sabrán si es segura. Pueden perder otro turno para explorarla de nuevo tirando Notar. Si fallan el Notar y hay mina explotará.
+Si fallan la tirada de notar y no hay nada, no sabrán si es segura. Pueden perder otro turno para explorarla de nuevo tirando Notar. Si fallan el Notar y hay mina explotará.
 
 Lo lógico es que el comando con más notar marque una ruta segura que el resto debería seguir. El problema es que cada comando está solo hasta llegar a la ruta segura. 
 
@@ -2972,7 +2972,7 @@ Podrían tratar de salir volando del campo con pteranodontes (como saltar pero t
 
 Sé generoso con los benis para las buenas ideas, ya que seguramente los necesitarán si quieren salir ilesos del campo de minas.
 
-> Realmente las minas explotan al pisarlas no al quitar el peso, pero he sido incapaz de resistirme a este mito de las películas bélicas en que una persona no puede moverse porque ha pisado una mina y si se mueve explota.
+> Realmente las minas explotan al pisarlas, no al quitar el peso, pero he sido incapaz de resistirme a este mito de las películas bélicas en que una persona no puede moverse porque ha pisado una mina y si se mueve explota.
 
 \saltopagina
 
@@ -3005,11 +3005,11 @@ Veamos las opciones que tienen tus comandos.
 
 Si abren el canutillo, verán un mensaje cifrado. Si descifran el mensaje (Humanidades -4 y un día completo de trabajo), eres libre de darles el mensaje que quieras. **Te recomiendo que la uses como semilla de aventura.** 
 
-Si no son capaces de descifrarlo pueden consultar a algún experto en cifrado como la gente de Bletchley Park de la Parte 2 de la campaña.
+Si no son capaces de descifrarlo, pueden consultar a algún experto en cifrado como la gente de Bletchley Park de la Parte 2 de la campaña.
 
 ## Limpiando el puerto
 ```
-Durante un trayecto en el «Mary Anning» llegan a un puerto que los nazis han tomado recientemente y han bloqueado el puerto llenándolo de minas. Quizas podrían aprovechar a fastidiar un poco a los nazis desactivándolas sin que lo sepan.
+Durante un trayecto en el «Mary Anning» llegan a un puerto que los nazis han tomado recientemente y han bloqueado el puerto llenándolo de minas. Quizás podrían aprovechar a fastidiar un poco a los nazis desactivándolas sin que lo sepan.
 ```
 
 Si las desactivan con la ayuda de los saurios acuáticos, los nazis creerán que el puerto está controlado, pero los contrabandistas podrán entrar y salir delante de las narices de los nazis. En caso de ataque de los aliados podrán evitar estas defensas y pillar a los nazis con la guardia baja.
@@ -3024,7 +3024,7 @@ La misión debe hacerse con rapidez, antes de que los nazis detecten el «Mary A
 
 [![Detalle de mina marina nazi sacada del agua](./assests/images/mina-marina.jpg 'Recovered german mine, Imperial War Museum')](https://picryl.com/media/recovered-german-mine-600576 'Recovered german mine, Imperial War Museum')
 
-Hay una 20 minas en el puerto. Podrían desactivar todas o pueden desactivar la mitad y crear un paso seguro para entrar y salir del puerto. No hay opción buena o mala solo son distintas. Desactivar todas hace que el puerto pueda ser tomado más fácilmente por los aliados, pero puede que los nazis descubran la treta más fácilmente y desarmando la mitad todo lo contrario, es más difícil tomar el puerto, pero también es más difícil de detectar.
+Hay unas 20 minas en el puerto. Podrían desactivar todas o pueden desactivar la mitad y crear un paso seguro para entrar y salir del puerto. No hay opción buena o mala, solo son distintas. Desactivar todas hace que el puerto pueda ser tomado más fácilmente por los aliados, pero puede que los nazis descubran la treta más fácilmente y desarmando la mitad, todo lo contrario, es más difícil tomar el puerto, pero también es más difícil de detectar.
 
 Si hacen un poco de investigación en el puerto antes de lanzarse a la acción, verán que hay una pequeña patrullera con una ametralladora y 5 soldados nazis que recorre el puerto, el rompeolas y las calas adyacentes. Podría detectar a los comandos si les pilla en el puerto. La ronda dura unas 2 horas y empieza con el salir el sol y acaba cuando se pone. 
 
@@ -3041,9 +3041,9 @@ Al de dos horas, deberán de dejar de trabajar e irse o serán detectados por la
 Solo tienen una oportunidad de desactivar las bombas, luego será imposible entre el cansancio de la ronda anterior, los cambios en las mareas, mal tiempo, etc.
 
 ### Contactando con la resistencia local
-Mientras un equipo desactiva bombas el otro debería desembarcar en alguna playa cercana y tratar de evitar a los nazis y los colaboracionistas y encontrar a la resistencia local. Deberán usar sus habilidades de Investigar, Notar y Persuadir para hacer contacto. 
+Mientras un equipo desactiva bombas, el otro debería desembarcar en alguna playa cercana y tratar de evitar a los nazis y los colaboracionistas y encontrar a la resistencia local. Deberán usar sus habilidades de Investigar, Notar y Persuadir para hacer contacto. 
 
-**Cómo lo dirigiría yo:** Si van a enseñarles como entrar y salir del puerto, puedes jugar con la paranoia que al desactivar igual hubo alguna tirada mala y no esta del todo desactivada o tal vez si no han desactivado todas se equivocan de la ruta segura. Luego tú decides si usas el porcentaje de minas pifiadas del paso anterior y solo haces rodar los dados.
+**Cómo lo dirigiría yo:** Si van a enseñarles como entrar y salir del puerto, puedes jugar con la paranoia que al desactivar igual hubo alguna tirada mala y no está del todo desactivada o tal vez si no han desactivado todas se equivocan de la ruta segura. Luego tú decides si usas el porcentaje de minas pifiadas del paso anterior y solo haces rodar los dados.
 
 Si ves que no saben cómo hacerlo, puedes hacer alguna escena en que la resistencia se enfrenta a los soldados nazis. Estamos hablando de algún tiroteo, alguna detención ilegal, un ataque sorpresa desde un vehículo e incluso pillastres haciendo pintadas en las paredes del cuartel nazi.
 
@@ -3051,6 +3051,25 @@ Una establezcan contactos deberán explicarles que han hecho y ofrecer alguna pr
 
 ### Recompensas
 Lo único que pueden conseguir tus comandos tras esta aventura es buena comida y bebida local y la satisfacción de haber hecho una buena acción y de haber estropeado los planes de los nazis. Aparte pueden tener un puerto seguro donde refugiarse y esconderse si se meten en problemas. La resistencia se encargará de buscarles una casa segura donde ocultarse. El tema de si aceptarán a las bestias prehistóricas que les acompañan es otro tema.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Cena de etiqueta
 ```
@@ -4005,25 +4024,12 @@ Que no hayan sido encontradas, no quiere decir que en la tierra de Maple White n
 
 [![Dibujo de un alosaurio](./assests/images/alosaurio.jpg 'De Fred Wierum - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=47577505')](https://es.wikipedia.org/wiki/Allosaurus#/media/Archivo:Allosaurus_Revised.jpg 'De Fred Wierum - Trabajo propio, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=47577505')
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Alosaurio
 **Carnívoro | Terrestre | 4x2 casillas | Código: Matilda (por el tanque inglés A12 Matilda II)**
 
 El alosaurio es el mayor de los saurios que sobreviven en la tierra de Maple White y al más terrible de ellos. Es un terópodo, es decir que es bípedo, pero a diferencia de otros terópodos, como el tiranosaurio, sus brazos eran más largos y podían ser usados para atacar y sujetar las presas.
 
-Como depredadores, pueden llegar a cazar estegosaurios, aunque siempre especímenes jóvenes, viejos o enfermos. Su vista les permite calcular bastante precisamente las distancias con lo que son bastante efectivos en sus ataques por sorpresa.
+Como depredadores, pueden llegar a cazar estegosaurios, aunque siempre especímenes jóvenes, viejos o enfermos. Su vista les permite calcular bastante precisamente las distancias, con lo que son bastante efectivos en sus ataques por sorpresa.
 
 * **Atributos:** Agilidad d6, Astucia d6 (A), Espíritu d12, Fuerza d12+6, Vigor d10
 * **Habilidades:** Atletismo d6, Intimidar d12, Notar d6, Pelear d8, Supervivencia d6
@@ -4046,7 +4052,7 @@ Como depredadores, pueden llegar a cazar estegosaurios, aunque siempre especíme
 
 Un alosaurio adulto de talla media crece hasta 12 metros de longitud de la cabeza a la punta de la cola y pesa entre 1.500 y 2.000 kg. Todo esto convierte a este cazador solitario en el mayor depredador de la tierra de Maple White.
 
-Sus potentes piernas también le convierten en el dinosaurio terrestre más rápido del Mundo perdido con una velocidad máxima de 55 km/h.
+Sus potentes piernas también le convierten en el dinosaurio terrestre más rápido del mundo perdido con una velocidad máxima de 55 km/h.
 
 > Oficialmente en la novela de El mundo perdido no hay T-Rex, pero si sientes la necesidad de que tu campaña tenga T-Rexes, puedes usar las estadísticas de alosaurio subiéndole un punto al tamaño.
 
@@ -4074,7 +4080,7 @@ En general son lentos y tranquilos, pero la creencia de que eran poco inteligent
 \saltopagina
 
 * 
-  * **Coletazo:** FUE+d6. Si durante su turno, no se mueve puede hacer un ataque de área en 3 casillas adyacentes entre sí y alrededor suyo. Hace una tirada por cada enemigo en el área. Todo enemigo que pase por esa zona hasta el siguiente turno del estegosaurio recibe un ataque. Varios estegosaurios puede combinar estos barridos con sus colas con pinchos de forma que crean una barrera defensiva que nadie en su sano juicio querría atravesar.
+  * **Coletazo:** FUE+d6. Si durante su turno no se mueve, puede hacer un ataque de área en 3 casillas adyacentes entre sí y alrededor suyo. Hace una tirada por cada enemigo en el área. Todo enemigo que pase por esa zona hasta el siguiente turno del estegosaurio recibe un ataque. Varios estegosaurios puede combinar estos barridos con sus colas con pinchos de forma que crean una barrera defensiva que nadie en su sano juicio querría atravesar.
   * **Placas dorsales:** Las placas de su espalda hacen que los ataques cuerpo a cuerpo de enemigos más altos o que solo puedan atacar desde arriba sean más difíciles y tengan un -2. 
 
 [![Escala Estegosaurio](./assests/images/escala-estegosaurio.png 'Tamaño de S. ungulatus y S. stenops comparados con un ser humano. Matt Martyniuk')](https://es.wikipedia.org/wiki/Archivo:Human-allosaurus_size_comparison.png 'Tamaño de S. ungulatus y S. stenops comparados con un ser humano. Matt Martyniuk')
@@ -4088,7 +4094,7 @@ Como ya hemos comentado, este saurio es famoso por sus placas dorsales y tambié
 ### Ictiosaurio
 **Carnívoro | Acuático | 2x1 casillas | Código: LCA (Lancha de desembarco)**
 
-Los ictiosaurios descienden reptiles que volvieron al mar como hicieron delfines y ballenas. Como ellos respiran aire con lo que cada cierto tiempo tienen que subir a la superficie a tomar aire. Están totalmente adaptados al medio acuático y se alimentan de peces y calamares.  
+Los ictiosaurios descienden reptiles que volvieron al mar, como hicieron delfines y ballenas. Como ellos respiran aire con lo que cada cierto tiempo tienen que subir a la superficie a tomar aire. Están totalmente adaptados al medio acuático y se alimentan de peces y calamares.  
 
 \saltopagina
 
@@ -4135,7 +4141,7 @@ Quizás su característica más interesante sean sus extremidades superiores. En
 
 [![Escala Iguanodon](./assests/images/escala-iguanodon.png 'Size chart for Iguanodon bernissartensis, based on an illustration by ArthurWeasley')](https://en.wikipedia.org/wiki/File:Iguanodon_scale.png 'Size chart for Iguanodon bernissartensis, based on an illustration by ArthurWeasley')
 
-Estos herbívoros pesaban un promedio de 3 toneladas​ y medían cerca de 10 metros de largo de punta a punta, pudiendo alcanzar en algunos casos los 13 metros, y hasta 2,7 m de altura.
+Estos herbívoros pesaban un promedio de 3 toneladas​ y medían cerca de 10 metros de largo, de punta a punta, pudiendo alcanzar en algunos casos los 13 metros, y hasta 2,7 m de altura.
 
 \saltopagina
 
@@ -4144,7 +4150,7 @@ Estos herbívoros pesaban un promedio de 3 toneladas​ y medían cerca de 10 me
 ### Megalosaurio
 **Carnívoro | Terrestre | 3x2 casillas | Código: Long Tom (cañón de gran tamaño)**
 
-El megalosaurio es el segundo gran depredador de la meseta de Maple White. Es de menor tamaño que es alosaurio, pero como él caza crías o ejemplares jóvenes o muy viejos de iguanodontes y estegosaurios. También caza megaloceros y otras criaturas terrestres de tamaño medio. Aunque su tamaño es grande es de pequeña constitución con lo que pesa mucho menos de otros saurios de su mismo tamaño.
+El megalosaurio es el segundo gran depredador de la meseta de Maple White. Es de menor tamaño que es alosaurio, pero como él caza crías o ejemplares jóvenes o muy viejos de iguanodontes y estegosaurios. También caza megaloceros y otras criaturas terrestres de tamaño medio. Aunque su tamaño es grande, es de pequeña constitución, con lo que pesa mucho menos de otros saurios de su mismo tamaño.
 
 * **Atributos:** Agilidad d6, Astucia d4 (A), Espíritu d6, Fuerza d12+4, Vigor d12
 * **Habilidades:** Atletismo d8, Notar d6, Pelear d8, Sigilo d6, Supervivencia d6
@@ -4166,7 +4172,7 @@ El tamaño de largo de un megalosaurio adulto ronda los 9 m y una altura de unos
 ### Plesiosaurio
 **Carnívoro | Acuático | 3x1 casillas | Código: DUKW (Pronunciado como DUCK, PATO en castellano)**
 
-Otro reptil que volvió al mar como el ictiosaurio, pero quizás en vez de evolucionar a algo parecido a delfines o peces espadas lo hizo hacia mamíferos marinos como focas y morsas.
+Otro reptil que volvió al mar como el ictiosaurio, pero quizás en vez de evolucionar a algo parecido a delfines o peces espadas, lo hizo hacia mamíferos marinos como focas y morsas.
 
 Su largo cuello les permite sacar la cabeza fuera del agua y poder mirar en todas las direcciones y evitar ataques por sorpresa. Su boca tienes unos poderosos dientes capaces de romper los caparazones de los crustáceos de los que se alimenta.
 
@@ -4191,13 +4197,13 @@ Su cuerpo está totalmente adaptado a la vida acuática. Su piel no es escamosa,
 ### Pteranodonte
 **Carnívoro | Volador | 3x1 casillas | Código: Spitfire**
 
-Que los reptiles aprendieron a volar y que las aves descienden de estos dinosaurios voladores es de sobra conocido. Los pteranodontes son el culmen de los reptiles voladores y aunque torpes en tierra son los amos de los aires.
+Que los reptiles aprendieron a volar y que las aves descienden de estos dinosaurios voladores es de sobra conocido. Los pteranodontes son el culmen de los reptiles voladores y aunque torpes en tierra, son los amos de los aires.
 
 \saltopagina
 
 Los pteranodontes pasan mucho tiempo pescando en el mar y como las grandes aves marinas, su vuelo se basaba más en el planeo con sus grandes alas que en el aleteo.
 
-Como bien nos ha enseñado el cine (en realidad no) son capaces de lanzarse contra sus presas o enemigos agarrarlos y elevarse con ellos para llevarlos a su nido para alimentar a sus crías o para dejarlos caer de grandes alturas. 
+Como bien nos ha enseñado el cine (en realidad no) son capaces de lanzarse contra sus presas o enemigos, agarrarlos y elevarse con ellos para llevarlos a su nido para alimentar a sus crías o para dejarlos caer de grandes alturas. 
 
 * **Atributos:** Agilidad d10, Astucia d6 (A), Espíritu d6, Fuerza d8, Vigor d8
 * **Habilidades:** Notar d10, Pelear d6
@@ -4206,7 +4212,7 @@ Como bien nos ha enseñado el cine (en realidad no) son capaces de lanzarse cont
   * **Armadura +1:** Piel escamosa.
   * **Picotazo/Garras:** FUE+d6.
   * **Volar:** Los pteranodontes tienen un paso de volando de 12 (solo 4 en la primera ronda, porque sus enormes cuerpos les dificultan volar inicialmente). Tienen una subida de -1.
-  * **Ataque volador:** Cuando el pteranodonte vuela a toda velocidad, puede realizar un ataque volador, obteniendo un +2 al daño. Si consigue un avance en su tirada de ataque cuando vuela contra un humano o un oponente de menor tamaño, lo atrapa y se lo lleva, probablemente a su nido.
+  * **Ataque volador:** Cuando el pteranodonte vuela a toda velocidad, puede realizar un ataque volador, obteniendo un +2 al daño. Si consigue un avance en su tirada de ataque cuando vuela contra un humano o un oponente de menor tamaño, lo atrapa y se lo lleva, probablemente, a su nido.
   * **Tamaño +2:** Podían llegar a tener una envergadura de alas de 5 o 6 m y un peso de unos 60 kilos.
   * **Lento:** En el suelo solo tiene Paso 4 y no puede correr.
   * **Veneno:** Después de un combate contra pteranodontes, si recibes una herida, debes tirar VIG. En caso de fallar, el día siguiente tendrá un nivel de fatiga, que se recupera tras dormir una noche, debido a la fiebre y malestar general generados por la infección de las bacterias de su pico y sus garras.
@@ -4228,9 +4234,9 @@ Esta tribu primitiva de aborígenes llevan siglos si no milenios viviendo en la 
 
 Son principalmente cazadores y recolectores, por no decir carroñeros, pero también han domesticado a ciertos saurios.
 
-Son capaces de crear y usar armas y herramientas sencillas como lanzas, cuchillos y arcos que usan para cazar, curtir pieles, trenzar cuerdas, hacer cestos, etc. Controlan el fuego lo que les da una gran ventaja en su mundo.
+Son capaces de crear y usar armas y herramientas sencillas como lanzas, cuchillos y arcos que usan para cazar, curtir pieles, trenzar cuerdas, hacer cestos, etc. Controlan el fuego, lo que les da una gran ventaja en su mundo.
 
-Han desarrollado técnicas para enfrentarse, sobre todo en grupo, contra seres mucho más grandes que ellos de forma que puede combatir con relativo éxito a alosaurios y megalosaurios. 
+Han desarrollado técnicas para enfrentarse, sobre todo en grupo, contra seres mucho más grandes que ellos, de forma que puede combatir con relativo éxito a alosaurios y megalosaurios. 
 
 * **Atributos:** Agilidad d6, Astucia d4, Espíritu d6, Fuerza d8, Vigor d8
 * **Habilidades:** Atletismo d6, Conocimientos Generales d4, Dispara d8, Intimidar d6, Notar d6, Pelear d8, Sigilo d6, Supervivencia d8
@@ -4248,7 +4254,7 @@ Han desarrollado técnicas para enfrentarse, sobre todo en grupo, contra seres m
 ### Glyptodon
 **Herbívoro | Terrestre | 2x1 casillas**
 
-Este gran mamífero acorazado miden unos 3 m de largo y 1,5 de alto y podían llegar a las 2 tn de peso. Su caparazón es una buena defensa contra depredadores y su cola reforzada de placas óseas es muy fuerte lo que la convierte en una efectiva arma contundente.
+Este gran mamífero acorazado miden unos 3 m de largo y 1,5 de alto y podían llegar a las 2 tn de peso. Su caparazón es una buena defensa contra depredadores y su cola reforzada de placas óseas es muy fuerte, lo que la convierte en una efectiva arma contundente.
 
 Tienen muy mala visión de día y solo ven bien de noche, por eso prefieren los bosques frondosos donde la luz del sol no les molestaba tanto.
 
