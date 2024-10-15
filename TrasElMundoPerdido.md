@@ -1415,31 +1415,6 @@ Esto supone que la Fundación está en el radar de las SS. Algo deben sospechar 
 
 ***
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Parte 3: Islas Orcadas
 Las islas Orcadas es un destino donde tus comandos triunfarán si son rápidos y entienden a sus saurios acuáticos y saben sacar provecho de sus excepcionales habilidades en el agua.
 
@@ -1448,14 +1423,14 @@ Las islas Orcadas es un destino donde tus comandos triunfarán si son rápidos y
 La base naval de Scapa Flow es la más importante base naval inglesa. La marina británica la considera inexpugnable, pero los nazis tienen sus propios planes. Tus comandos pueden evitar un duro golpe a la Royal Navy, si desbaratan los planes de la Kaiserliche Marine nazi. 
 ```
 
-En el evento real, llamado el ataque de Scapa Flow, en que se basa esta misión un espía alemán se pasó 10 años estudiando la base naval y buscando la mejor forma de entrar en Scapa Flow saltándose todas sus defensas. Cuando lo descubrió paso la información a la marina nazi que envió el submarino U-47 bajo el mando del capitán Günther Prien. Este as del combate submarino hundió el destructor «HMS Royal Oak» y acabó con la vida de más 800 tripulantes.
+En el evento real, llamado el ataque de Scapa Flow, en que se basa esta misión, un espía alemán se pasó 10 años estudiando la base naval y buscando la mejor forma de entrar en Scapa Flow saltándose todas sus defensas. Cuando lo descubrió paso la información a la marina nazi que envió el submarino U-47 bajo el mando del capitán Günther Prien. Este as del combate submarino hundió el destructor «HMS Royal Oak» y acabó con la vida de más 800 tripulantes.
 
 Sin embargo, aquí están tus comandos y sus saurios para evitarlo o por lo menos lo intentarán. 
 
 ## Misión de rutina
-Esta misión no empieza como otras con Horace Linton dando una soporífera charla. Se ha pedido desde IM a la Fundación que con sus saurios acuáticos haga una serie de revisiones y trabajos en la base naval de Scapa Flow.
+Esta misión no empieza como otras, con Horace Linton dando una soporífera charla. Se ha pedido desde IM a la Fundación que con sus saurios acuáticos haga una serie de revisiones y trabajos en la base naval de Scapa Flow.
 
-Según ha dicho IM necesitan que «una entidad externa» haga una auditoria a todas las defensas antisubmarinos de la Scapa Flow y envíe un informe. Parce ser que temen un ataque nazi a las instalaciones y no quieren filtraciones.
+Según ha dicho IM, necesitan que «una entidad externa» haga una auditoria a todas las defensas antisubmarinos de la Scapa Flow y envíe un informe. Parce ser que temen un ataque nazi a las instalaciones y no quieren filtraciones.
 
 ### La base naval de Scapa Flow
 La base Naval de Scapa Flow está en las islas Orcadas que están a solo unos 290 km al noreste de la isla de Skye. Scapa Flow es una masa de agua bastante grande rodeada por las diferentes islas Orcadas de forma que es un fondeadero tranquilo, ya usado por los vikingos. 
@@ -1464,7 +1439,7 @@ La base Naval de Scapa Flow está en las islas Orcadas que están a solo unos 29
 
 [![Plano de Scapa Flow](./assests/images/scapa-flow.jpg 'Mapa de Scapa Flow, en las islas Orcadas. - Siałababamak')](https://es.wikipedia.org/wiki/Scapa_Flow#/media/Archivo:Scapa_Flow.svg 'Mapa de Scapa Flow, en las islas Orcadas. - Siałababamak')
 
-La base naval está protegida con todos los elementos posibles (redes antisubmarinos, portones, minas, cañones...). Además, siempre cuenta con varios barcos de guerra que se encargan de su defensa.
+La base naval está protegida con todos los elementos posibles (redes antisubmarinos, portones, minas, cañones, etc.). Además, siempre cuenta con varios barcos de guerra que se encargan de su defensa.
 
 Scapa Flow siempre ha sido una obsesión para los nazis y siempre ha estado en el punto de mira de la marina del Führer.
 
@@ -1484,14 +1459,14 @@ Hazles tirar cada día Notar o Reparar por la mañana y por la tarde y haz como 
 
 Si lo desean pueden ir haciendo tiradas diarias de Tácticas con la nueva información recaba cada día para ver qué falla en las defensas y dónde están los lugares por los que podrían atacar. Dales positivos aleatoriamente a la tirada. Puedes dejarles que intenten hablar con los mandamases de la base si detectan alguna brecha grave, pero esto solo debería servirles para pegarles   
 
-La idea de toda esta parte es hacerla lo más aburrida y tediosa posible, ya que realmente su informe no sirve para nada en la trama. Pero tampoco lo alargues mucho (5-10 minutos) y si ves que alguien empieza a coger papel y lápiz, corta. Lo que buscamos es que de repente, sin previo aviso y sin estar preparados, aparezca el enemigo y ver como reaccionan ante la posibilidad de que si no lo hacen bien se pierdan miles de vidas.
+**Cómo lo dirigiría yo:** Todo lo anterior es algo opcional y si no crees que encaje en tu partida eres libre de obviarlo todo, describirles el trabajo que realizan en la base naval y pasar al siguiente punto. Recuerda que «tu mesa, tus reglas».
 
-> Todo lo anterior es algo opcional y si no crees que encaje en tu partida eres libre de obviarlo todo, describirles el trabajo que realizan en la base naval y pasar al siguiente punto. Recuerda que «tu mesa, tus reglas».
+La idea de toda esta parte es hacerla lo más aburrida y tediosa posible, ya que realmente su informe no sirve para nada en la trama. Pero tampoco lo alargues mucho (5-10 minutos) y si ves que alguien empieza a coger papel y lápiz, corta. Lo que buscamos es que de repente, sin previo aviso y sin estar preparados, aparezca el enemigo y ver como reaccionan ante la posibilidad de que si no lo hacen bien se pierdan miles de vidas.
 
 ## En todo el fregado
 Nadie lo sabe, pero mientras estaban trabajando un submarino nazi en el fondeadero. Ha entrado por una entrada oriental llamada Kirk Sound, un estrecho y turbulento brazo de mar entre las islas de Pomona y Lamb Holm.
 
-Tus comandos casi chocan con él en su trabajo de inspección. Se lo encontrarán a altura de periscopio y parece que está en modo combate y va directo hacia el «HMS Royal Oak». En cuanto este a distancia de torpedos lanzará su ataque. 
+Tus comandos casi chocan con él en su trabajo de inspección. Se lo encontrarán a altura de periscopio y parece que está en modo combate y va directo hacia el «HMS Royal Oak». En cuanto esté a distancia de torpedos, lanzará su ataque. 
 
 \saltopagina
 
@@ -1503,9 +1478,9 @@ Deben actuar ya, moverse rápido y desviar los torpedos de su trayectoria, siend
 El submarino U-47 de Prien tiene dos tipos de torpedos:
 
 * Torpedo G7a que alcanzaba una velocidad de 44 nudos (80 km/h). Muy rápido y con un alcance de 5.000 m, pero su motor era muy ruidoso y dejaba una estela de burbujas que mostraba su ruta.
-* Torpedo G7e con una velocidad de 30 nudos (55 km/h). Más lento y con menor alcance (3.000 m) pero muy silencioso y casi invisible. Tenía un motor eléctrico que no dejaba una estela de burbujas por los gases del motor a combustión. Pero que exigía mayor mantenimiento y por tanto tendían a fallar más.
+* Torpedo G7e con una velocidad de 30 nudos (55 km/h). Más lento y con menor alcance (3.000 m) pero muy silencioso y casi invisible. Tenía un motor eléctrico que no dejaba una estela de burbujas por los gases del motor a combustión. Pero que exigía mayor mantenimiento y, por tanto, tendían a fallar más.
 
-Como recordatorio rápido los plesiosaurios y los ictiosaurios tienen una velocidad máxima de 22 nudos (40 km/m).
+Como recordatorio rápido, los plesiosaurios y los ictiosaurios tienen una velocidad máxima de 22 nudos (40 km/m).
 
 El submarino nazi va a intentar hundir el «HMS Royal Oak» y tus comandos con sus plesiosaurios e ictiosaurios deben crear un escudo anti torpedos. 
 
@@ -1514,7 +1489,7 @@ El submarino nazi va a intentar hundir el «HMS Royal Oak» y tus comandos con s
 #### Campo de batalla
 Crea una cuadrícula de 6x10. En un extremo estará el buque de guerra y en el otro extremo el submarino. 
 
-El primer turno y cada dos turnos (1, 3, 5, 7, ...) el submarino lanza un torpedo y tiras d6 (en secreto) para saber por cuál columna va a moverse el torpedo. Saca una carta para saber el tipo, rojo G7a y negro G7e. Si sale un Joker vuelve a sacar otra carta para saber el tipo y, además de las ventajas propias del Joker, el torpedo G7e más cercano al buque de guerra se le estropea el motor, se hunde y explota al tocar el fondo.
+El primer turno y cada dos turnos (1, 3, 5, 7, etc.) el submarino lanza un torpedo y tiras d6 (en secreto) para saber por cuál columna va a moverse el torpedo. Saca una carta para saber el tipo, rojo G7a y negro G7e. Si sale un Joker vuelve a sacar otra carta para saber el tipo y, además de las ventajas propias del Joker, el torpedo G7e más cercano al buque de guerra se le estropea el motor, se hunde y explota al tocar el fondo.
 
 #### Movimiento por el campo de batalla
 Cada turno, por cada torpedo activo saca una carta, si sale trébol se mueve una casilla hacia adelante y si no se mueven dos casillas hacia delante (y como antes un Joker supone que falla un G7e). Los saurios acuáticos se mueven 1 casilla y con una tirada de Atletismo podrá moverse otra casilla adicional.
@@ -1523,27 +1498,27 @@ Cada turno, por cada torpedo activo saca una carta, si sale trébol se mueve una
 
 Si falla, sigue moviéndose la casilla extra, pero recibe 1 punto de fatiga (efectivo al terminar su turno). Si pifia, ni obtiene la casilla extra y recibe el punto de fatiga.
 
-Los G7a se les detecta muy fácilmente y desde la casilla 1 se ve su trayectoria, pero lo G7e son invisibles para tus comandos hasta que un comando pasa por su casilla o una adyacente. En ese momento, podrán verlo y ver que columna de la cuadrícula sigue. 
+Los G7a se les detecta muy fácilmente y desde la casilla 1 se ve su trayectoria, pero lo G7e son invisibles para tus comandos hasta que un comando pasa por su casilla o una adyacente. En ese momento, podrán detectarlo y ver qué columna de la cuadrícula sigue. 
 
 [![Dibujo del submarino U-47](./assests/images/U-47.jpg 'U-47 by Rama')](https://commons.wikimedia.org/wiki/File:U-47.jpg#/media/Archivo:U-47.jpg 'U-47 by Rama')
 
 #### Desviar un torpedo
-Para deflectar un torpedo, el plesiosaurio debe estar en la misma casilla que el torpedo. Cada vez que un torpedo entra en una casilla ocupada por comando o el comando y su saurio entra en una casilla ocupada por un torpedo puede intentar desviarlo para que no impacte contra el «HMS Royal Oak».
+Para deflectar un torpedo, el plesiosaurio debe estar en la misma casilla que el torpedo. Cada vez que un torpedo entra en una casilla ocupada por comando o el comando y su saurio entra en una casilla ocupada por un torpedo, puede intentar desviarlo para que no impacte contra el «HMS Royal Oak».
 
 No pueden desactivar ni detener los torpedos, solo pueden desviarlos. Es por ello que tendrán que hacer primero una tirada de Atletismo para nadar y acercarse por el lado adecuado. Cada avance da un +1 a la tirada de FUE enfrentada a la FUE del torpedo (d12 para el G7a y d8 para el G7e).
 
-Si pasan la tirada, el proyectil recibe tal impacto que es desviado de su ruta y no impacta contra el barco. Si fallan, el torpedo sigue su ruta y si empatan el torpedo cambia de carril al azar (par a la izquierda, impar derecha y si sale de la cuadrícula se pierde). Si pifian las dos tiradas el torpedo explota (6d6 de daño para el plesiosaurio y su jinete).
+Si pasan la tirada, el proyectil recibe tal impacto que es desviado de su ruta y no impacta contra el barco. Si fallan, el torpedo sigue su ruta y si empatan el torpedo cambia de carril al azar (par a la izquierda, impar derecha y si sale de la cuadrícula se pierde). Si pifian las dos tiradas, el torpedo explota (6d6 de daño para el plesiosaurio y su jinete).
 
 [![Dibujo cenital del submarino U-47](./assests/images/U-47-cenital.jpg 'Vista cenital del U-47 by Rama')](https://es.wikipedia.org/wiki/U_47_(1938)#/media/Archivo:U-47_6.jpg 'Vista cenital del U-47 by Rama')
 
 &nbsp;
 
 #### Fin del combate
-Cuando un torpedo lleva a la última casilla de su columna impacta el buque de guerra. El combate acaba en dos situaciones 
+Cuando un torpedo lleva a la última casilla de su columna, impacta el buque de guerra. El combate acaba en dos situaciones 
 
 \saltopagina
 
-* Cuando el barco recibe 3 impactos o 2 impactos en la misma localización. En este caso el buque de guerra ha recibido demasiado daño y empezará a hundirse.
+* Cuando el barco recibe 3 impactos o 2 impactos en la misma localización. En este caso, el buque de guerra ha recibido demasiado daño y empezará a hundirse.
 * Cuando el submarino lanza 15 torpedos y no consigue hundir su objetivo.
 
 ## ¿Cómo detener un submarino?
@@ -1557,7 +1532,7 @@ Tus comandos no tienen capacidad para detener un submarino ellos solos, pero el 
 * De alguna forma podrían delatar la posición del submarino, por ejemplo atando una boya al submarino, de forma que el Royal Oak pueda atacarlo.
 * Quizás puedan volver loco al sonar del submarino generando mucho ruido y dejarlo ciego.
 
-Si consiguen detener el submarino el capitán Prien rendirá la nave por radio y saldrá a superficie.
+Si consiguen detener el submarino, el capitán Prien rendirá la nave por radio y saldrá a superficie.
 
 ## Interrogatorio
 Si consiguen detener al U-47 y Prien rinde su nave, podrán interrogar a los capturados. IM no les dejará interrogar al capitán y los oficiales, pero pueden interrogar a la marinería. Pueden sacar algo de chocolate y café y tratar de ganarse la simpatía de algún marinero nazi (tiradas de Persuadir). Cosas que pueden sacarles.
@@ -1584,6 +1559,32 @@ Esto hará que los espías alemanas en Inglaterra se pongan a buscar cualquier p
 Por otro lado, es mucha casualidad que justo estuvieran los comandos y sus saurios cuando los nazis atacaron Scapa Flow. Si tus comandos son un poco paranoicos, todo esto no debería olerles bien del todo.
 
 ***
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Parte 4: Noruega
 La helada Noruega es un destino diferente, no hay un frente donde se desarrolle la guerra. Noruega es territorio controlado por los nazis, moverse es peligroso y ante cualquier fallo no hay lugar al que huir, vayas donde vayas todo es terreno enemigo. Si tienes suerte, puede que la resistencia noruega te ayude.  
