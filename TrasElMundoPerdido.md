@@ -3205,27 +3205,6 @@ En cada ronda deberán tirar Apostar y el que saque la peor tirada será el perd
 
 \saltopagina
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## El secreto de los Branningan
 ```
 En la familia Branningan llevan siendo marinos desde hace siglo, lo que no cuentan es que durante un tiempo fueron corsarios al servicio de Inglaterra. 
@@ -3241,7 +3220,7 @@ Si no sabían, la capitán dará unas clases básicas de buceo en el tanque de l
 
 Dolores tiene mapas y esquemas del pecio que llevan en su familia siglos. Van en busca de un galeón inglés de la flota corsaria de Sir Francis Drake. Estaba lleno de oro y plata robada a los españoles.
 
-Según Dolores está a poca profundidad, unos 50 metros, pero al borde de una sima. Y puede caer por ella en cualquier momento. Si eso pasará sería imposible de rescatar.
+Según Dolores, está a poca profundidad, unos 50 metros, pero al borde de una sima. Y puede caer por ella en cualquier momento. Si eso pasará sería imposible de rescatar.
 
 ### Como locos a por el oro
 
@@ -3255,7 +3234,7 @@ Cada viaje suben 5 lingotes, por si quieren hacer cuentas. Pero en realidad no l
 
 ### ¡¡¡Kraken!!!
 
-Igual que han sobrevivido dinosaurios y otros seres prehistóricos en la meseta de Maple White, en esta zona habita un monstruo de tiempos ancestrales un kraken, un calamar gigante capaz de hundir barcos pequeños.
+Igual que han sobrevivido dinosaurios y otros seres prehistóricos en la meseta de Maple White, en esta zona habita un monstruo de tiempos ancestrales, un kraken, un calamar gigante capaz de hundir barcos pequeños.
 
 El calamar gigante vive en la sima, pero sube hasta el precio a pescar. No es un experto en Sigilo, pero tampoco tendrá problemas en pillarlos por sorpresa. Quizás meta uno de sus tentáculos por los agujeros del casco o espíe el interior del barco por los ventanucos.
 
@@ -3263,9 +3242,9 @@ Es fácil esquivarlo y subir a la superficie, sobre todo con los saurios acuáti
 
 En la superficie puedes pasarles arpones, para volver a bajar y expulsar al kraken. Si recibe 3 heridas, huirá y desaparecerá en la fosa.
 
-Cada vez que reciba una herida o haga un ataque a un enemigo y le haga herida. Deberá tirar Fuerza y si consigue un avance, las contorsiones y golpes del kraken harán moverse al pecio. Si mueve el pecio 5 veces este caerá a la sima.
+Cada vez que reciba una herida o haga un ataque a un enemigo y le haga herida. Deberá tirar Fuerza y si consigue un avance, las contorsiones y golpes del kraken harán moverse al pecio. Si mueve el pecio 5 veces, este caerá a la sima.
 
-Si el kraken tiene agarrado a alguien se lo llevará con él al abismo oceánico. La víctima tienes 3 turnos para liberarse o morirá por la presión de la rápida presión. Tus comandos pueden intentar ayudarle.
+Si el kraken tiene agarrado a alguien, se lo llevará con él al abismo oceánico. La víctima tienes 3 turnos para liberarse o morirá por la presión de la rápida presión. Tus comandos pueden intentar ayudarle.
 
 Si expulsan al kraken sin que caiga el precio a la suma podrán seguir sacando oro, pero el calamar gigante podría volver enfadado.
 
@@ -3294,10 +3273,10 @@ Cuando tus comandos lleguen a la Parte 7. Se quedarán sin los recursos económi
 
 ## Nadie
 ```
-Mientras el «Mary Anning» surcaba el mar uno de los plesiosaurios que viaja con él, ha aparecido con un extraño objeto en la boca. Quizás no es mala idea pararse y buscar donde lo ha encontrado.
+Mientras el «Mary Anning» surcaba el mar, uno de los plesiosaurios que viaja con él, ha aparecido con un extraño objeto en la boca. Quizás no es mala idea pararse y buscar donde lo ha encontrado.
 ```
 
-Los saurios acuáticos está entrenados para recuperar cosas del fondo marino, sobre todo si son brillantes y metálicas. Lo ha dejado caer al suelo y ha hecho mucho ruido. Si lo examinan, parece algún tipo de caja metálica con partes de que debían ser de cristal y una especie de cables colgando. Si miran atentamente encontrarán una N en cursiva en el pie que no podrán reconocer.
+Los saurios acuáticos están entrenados para recuperar cosas del fondo marino, sobre todo si son brillantes y metálicas. Lo ha dejado caer al suelo y ha hecho mucho ruido. Si lo examinan, parece algún tipo de caja metálica con partes de que debían ser de cristal y una especie de cables colgando. Si miran atentamente encontrarán una N en cursiva en el pie que no podrán reconocer.
 
 \saltopagina
 
@@ -3320,18 +3299,18 @@ También verán un gancho en el techo con cables desgarrados y resto de cristale
 
 La cueva se estrecha, aunque sigue siendo grande, y desciende poco a poco hasta llegar a una gran puerta doble metálica con una N gigante grabada. La puerta no tiene ni picaporte ni parece que tenga cerradura.
 
-Pero en el lateral en la pared hay una especie de teclado numérico. Al apretar un botón suena un pip y si sigues metiendo números al azar al de 5 números suena un pip largo.
+Pero en el lateral, en la pared hay una especie de teclado numérico. Al apretar un botón suena un pip y si sigues metiendo números al azar al de 5 números suena un pip largo.
 
-Parece que (tirada de Ciencias) la puerta se abre con un código numérico de 5 dígitos. El pitido largo es un aviso de error. 5 cifras suponen 100.000 combinaciones lo cual son muchas combinaciones. Deberán comerse la cabeza para darse cuenta de que la combinación es 17539, que forma una N en el teclado numérico.
+Parece que (tirada de Ciencias) la puerta se abre con un código numérico de 5 dígitos. El pitido largo es un aviso de error. 5 cifras suponen 100.000 combinaciones, lo cual son muchas combinaciones. Deberán comerse la cabeza para darse cuenta de que la combinación es 17539, que forma una N en el teclado numérico.
 
 Si no lo deducen, recuérdales la N o déjales tirar Notar y que vean las teclas más desgastadas que serán, claro, las de la combinación de apertura. Ahora solo queda ordenarlas.
 
-Si la combinación es correcta hará 3 pips seguidos. Los pip suenan a componentes electrónicos así que hay electricidad y puede que parte funciona.
+Si la combinación es correcta hará 3 pips seguidos. Los pip suenan a componentes electrónicos, así que hay electricidad y puede que parte funcione.
 
 Abrirla por la puerta es muy difícil, pero no imposible y necesitarán explosivos que no tienen. Abrirla de otras maneras como abriendo el panel alfanumérico y trasteando en sus circuitos exige 2 avances en Electrónica.
 
 ### El refugio submarino
-Ante ellos se abrirá una gran estancia a oscuras, está sí, excavada en la roca. Parece que ampliaron una cueva natural.
+Ante ellos se abrirá una gran estancia a oscuras, esta sí, excavada en la roca. Parece que ampliaron una cueva natural.
 
 Tiene iluminación eléctrica funcional, de hecho pueden encenderla con una tirada de Notar para encontrar una caja de mandos excesivamente decorada con motivos marinos. Al activar los mandos, la luz se encenderá por toda la caverna y verán su gigantesco tamaño. 
 
@@ -3347,7 +3326,7 @@ Si buscan, encontrarán un armario con una especie de trajes medio buzón, medio
 
 Hay una zona de materiales, donde hay vigas y láminas de todo tipo de metales, maderas de varias calidades y para su sorpresa habrá dos estanterías llenas de lingotes de oro y plata. Humanidades identificará desde lingotes romanos u oro español de América. Reparar les dejará claro que todo ese oro y plata era considerado un material más. Recuérdales los cables de oro de la lámpara.
 
-En el techo además de lámparas hay una especie de rieles donde debían engancharse poleas y demás artilugios para mover materiales pesados.
+En el techo, además de lámparas, hay una especie de rieles donde debían engancharse poleas y demás artilugios para mover materiales pesados.
 
 #### La estatua
 Al otro lado de la estancia, en la pared opuesta a la puerta de entrada, hay una estatua de obsidiana a tamaño natural de un hombre mayor con barba que porta un tridente. Tiene mucho porte y parece una especie de Neptuno griego, pero lleva ropajes de corte hindú, turbante, khalat, padukas, etc.
@@ -3364,7 +3343,7 @@ Pasados los 10 minutos la puerta principal se cerrará sola sin posibilidad de a
 
 **Electrocutadores** Los electrocutadores son un constructo sin inteligencia. No se les puede persuadir ni engañar, simplemente siguen su patrón lanzado rayos.
 
-Tienen consistencia 18 y solo puedes ser atacados a distancia, ya que están a 5 metros de altura, incluso encima de las estanterías no llegarían a ellos. Si reciben una herida, son destruidos y si son aturdidos pierden su siguiente turno. Si vuelven a ser aturdidos durante ese turno reciben una herida y se destruyen.
+Tienen consistencia 18 y solo puedes ser atacados a distancia, ya que están a 5 metros de altura, incluso encima de las estanterías no llegarían a ellos. Si reciben una herida, son destruidos y si son aturdidos, pierden su siguiente turno. Si vuelven a ser aturdidos durante ese turno, reciben una herida y se destruyen.
 
 Cada turno cada electrocutador tiene un 25% (1 en d4) de pasar cerca de un comando (elige al azar) y atacarle con Disparar d10 pudiendo aplicar coberturas, acciones defensivas y otras ventajas. Si impacta el daño es de 3d6 de tipo eléctrico.
 
@@ -3376,14 +3355,14 @@ Si estudian otros 2 turnos, esta vez sin tirar, verán que solo hay 3 zonas segu
 
 La única forma efectiva de detenerlos es dejarlos sin corriente. Una tirada de Electrónica o Ciencias les dirá que la energía les viene por los raíles. Si rompen los raíles (consistencia 12) el electrocutador se parará. La red de raíles es tan compleja que debe hacerse dos cortes para cada electrocutador dejándolo en medio.
 
-Si destruyen o apagan el generador, cosas que les llevará por lo menos 20 turnos, el sistema de seguridad dejará de funcionar pero también la iluminación y la puerta principal. Si la encienden de nuevo el sistema de seguridad se activará de nuevo donde estaba.
+Si destruyen o apagan el generador, cosas que les llevará por lo menos 20 turnos, el sistema de seguridad dejará de funcionar, pero también la iluminación y la puerta principal. Si la encienden de nuevo el sistema de seguridad se activará de nuevo donde estaba.
 
 Una vez destruidos podrán volver a explorar la estancia, sin más incidencia.
 
 ### El tesoro del capitán Nemo
 Como en el relato «El secreto de los Branningan» tendrán acceso a un gran tesoro en oro y piedras preciosas que, aunque tengan que compartir con la tripulación de «Mary Anning», seguirá siendo un montón. 
 
-Si no lo venden y lo convierten en dinero no pueden hacer uso de él. El problema es que no van a tener el tiempo necesario para convertirlo en riqueza, deben frustrar los planes de conquista de los nazis. Como en ese relato puede llevárselo y esconderlo en algún lugar o pueden dejarlo aquí.
+Si no lo venden y lo convierten en dinero, no pueden hacer uso de él. El problema es que no van a tener el tiempo necesario para convertirlo en riqueza, deben frustrar los planes de conquista de los nazis. Como en ese relato puede llevárselo y esconderlo en algún lugar o pueden dejarlo aquí.
 
 Puedes dejarles llevarse algunos lingotes y piedras preciosas para que se den una fiesta en tierra firme, ayuden a gente como Arntine y su familia o lo usen para sobornos y propinas.
 
@@ -3400,6 +3379,25 @@ Este relato puede servirte como introducción a tus propias aventuras. Entre los
 \saltopagina
 
 Quizás haya un mapa de algún lugar misterioso como Lemuria o la Atlántida, diseños de alguna extraña máquina hipertecnológica nazi, un grabado con la ubicación de otro mundo perdido, etc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Espécimen perdido
 ```
