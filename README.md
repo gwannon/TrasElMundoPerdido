@@ -18,7 +18,7 @@
 * Parte 9: La Selva Negra (1)
   * La IM vuelve y viaje a la selva Negra
 
-* Corrección de textos "Parte 3: Islas Orcadas", "Parte 4: Noruega", "Parte 6: El frente ruso", "Parte 7: Regreso a casa", "Relatos salvajes", "Aliados, antagonistas y dinosaurios" y "Epílogo"
+* Corrección de textos "Parte 3: Islas Orcadas", "Parte 4: Noruega", "Parte 5: Normandía", "Parte 6: El frente ruso", "Parte 7: Regreso a casa", "Parte 8: Regreso al Mundo Perdido", "Parte 9: La Selva Negra", "Relatos salvajes", "Aliados, antagonistas y dinosaurios" y "Epílogo"
 * Terminada la parte de "Defensas interiores" de "Parte 9: La Selva Negra"
 
 ## Versión 0.9.1 15/10/2024
