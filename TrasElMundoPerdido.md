@@ -2423,11 +2423,11 @@ Parece que los nazis no solo buscaban dinosaurios para su ejército, también bu
 
 Lo único que se salvó de la batalla fue el zepelín de von Liebenfels que llevaba algunos dinosaurios carnívoros y un gran cargamento de diamantes de las fumarolas de arcilla azul. La misión ha sido un desastre y Hitler no tendrá su ejército de saurios. Pero esos diamantes son lo que el Doctor Eckart lleva meses buscando para completar su rayo de la muerte.
 
-Tras llegar a territorio nazi en la Europa continental y entregar la fortuna en diamantes a las SS, estos vieron que cumplían a la perfección las especificaciones que el Doctor Eckart había dado para la requisa de diamantes a prisioneros de guerra y presos de los campos de concentración. Según el zepelín repostó combustible y víveres y partió al interior de Alemania, al castillo de Hohenzollern en la Selva Negra, para llevar su preciosa carga al doctor.
+Tras llegar a territorio nazi en la Europa continental y entregar la fortuna en diamantes a las SS, estos vieron que cumplían a la perfección las especificaciones que el Doctor Eckart había dado para la requisa de diamantes a prisioneros de guerra y presos de los campos de concentración. Según el zepelín repostó combustible y víveres, partió al interior de Alemania, al castillo de Hohenzollern en la Selva Negra, para llevar su preciosa carga al doctor.
 
-Cuando el Doctor Eckart vio la pureza y las características de los diamantes hizo un prototipo portátil que dio excelentes resultados en test de campo. Todo avaló todas las teorías que había desarrollado sobre su rayo desintegrador y se puso a fabricar su ingenio a gran escala. 
+Cuando el Doctor Eckart vio la pureza y las características de los diamantes, hizo un prototipo portátil que dio excelentes resultados en test de campo. Todo avaló todas las teorías que había desarrollado sobre su rayo desintegrador y se puso a fabricar su ingenio a gran escala. 
 
-A día de hoy, su rayo mortal esta casi al 95% y espera tenerlo en unos días. Lo que si ha podido es producir varias copias de su prototipo portátil que se han usado dentro de las defensas del castillo. 
+A día de hoy, su rayo mortal está casi al 95% y espera tenerlo en unos días. Lo que si ha podido es producir varias copias de su prototipo portátil que se han usado dentro de las defensas del castillo. 
 
 ### Arma de rayos portátil de Doctor Eckart
 Estas armas son tan grandes como una Ametralladora pesada y además una mochila. De hecho, es tan pesada que el que la porta está sobrecargado y se mueve muy lento. Su portador elige una línea recta y tira Disparar.
@@ -2436,7 +2436,9 @@ Estas armas son tan grandes como una Ametralladora pesada y además una mochila.
 
 Si tiene éxito un chorro de energía sale del arma y todos los seres que estén en esa línea recta deberán tirar Atletismo o Pelear para evitar ser golpeados por el rayo. La dificultad es la tirada de Disparar del portador del arma.
 
-El arma hace 3d10 de daño a todos los que fallen la tirada de esquivar. Los objetos que se pongan delante del rayo son pulverizados y le rayo puede atravesar paredes techos. Con una buena tirada de disparar podrían abrirse puertas en paredes, suelos y techos. Si se dispara a la mochila (-2 a Disparar) esta explota si recibe daño (Consistencia 12) haciendo 1d12+2 al portador bajando un nivel por cada 5 pies.
+El arma hace 3d10 de daño a todos los que fallen la tirada de esquivar. Los objetos que se pongan delante del rayo son pulverizados y el rayo puede atravesar paredes y techos. Con una buena tirada de disparar podrían abrirse puertas en paredes, suelos y techos. Si se dispara a la mochila (-2 a Disparar) esta explota si recibe daño (Consistencia 12) haciendo 1d12+2 al portador bajando un nivel por cada 5 pies.
+
+Si consiguen alguna de estas armas de rayo, pueden usarlas, pero necesitan una tirada de Reparar para desmontarla y volver a montarla. No puedes quitártela solo y pesa unos 40 kilos, así que casi fijo estarás sobrecargado. 
 
 ## La IM vuelve y viaje a la Selva Negra
 Cuando consigan restablecer las comunicaciones, arreglando la radio del campamento, recibirán noticias desde Inglaterra. El general Linton sabe que tus comandos están en la meseta de Maple White (de hecho casi lo esperaba) y quiere saber qué ha pasado. Sus espías han visto pasar el zepelín de von Liebenfels cruzando medía Europa camino a Berlín.
@@ -2468,18 +2470,18 @@ Mapa del castillo de Hohenzollern en la Selva Negra.
 
 ## El castillo de Hohenzollern
 ```
-El castillo de Hohenzollern es la guarida secreta del Doctor Eckart, una fortaleza inexpugnable protegida por un zepelín, dinosaurios enloquecidos y nazis con los locos inventos del doctor. Acabar con el arma que el doctor está construyendo en sus catacumbas es una autentica misión suicida.
+El castillo de Hohenzollern es la guarida secreta del Doctor Eckart, una fortaleza inexpugnable protegida por un zepelín, dinosaurios enloquecidos y nazis con los locos inventos del doctor. Acabar con el arma que el doctor está construyendo en sus catacumbas es una auténtica misión suicida.
 ```
 
 El castillo de Hohenzollern se encuentra en la cumbre del monte Hohenzollern, perteneciente a una sierra llamada Jura de Suabia. El castillo está una altitud de 855 metros. Data de 1847, aunque todavía hay resto de otros dos castillos anteriores destruidos en diferentes guerras. La ciudad más importante es Stuttgart que está a 50 kilómetros al sur del castillo. Se le considera una versión menos fantástica del famoso castillo de Neuschwanstein, conocido por ser inspiración de los castillos de las películas de Disney.
 
-El castillo fue construido en un macizo rocoso por lo que excavar un túnel para entrar es casi imposible y tampoco hay estructuras cavernosas en su subsuelo que puedan usarse.
+El castillo fue construido en un macizo rocoso, por lo que excavar un túnel para entrar es casi imposible y tampoco hay estructuras cavernosas en su subsuelo que puedan usarse.
 
 Los muros de todo el castillo son de piedra y dan protección contra todo tipo de arma de fuego, mientras no sea artillería pesada. Sin embargo, sus grandes ventanales de estilo neogótico inglés serán la delicia de francotiradores.
 
-El castillo ha tenido varias reformas de forma que por ejemplo pueden acceder a él coches y camiones mediante los carriles asfaltados en forma de 8. Lo bueno de estas rampas es que son tan empinadas y curvadas que ningún vehículo puede coger mucha velocidad y lanzarse contra la puerta principal.
+El castillo ha tenido varias reformas, de forma que por ejemplo pueden acceder a él coches y camiones mediante los carriles asfaltados en forma de 8. Lo bueno de estas rampas es que son tan empinadas y curvadas que ningún vehículo puede coger mucha velocidad y lanzarse contra la puerta principal.
 
-Tiene varios niveles cada uno de ellos amurallados. Las murallas no son realmente un obstáculo insalvable, de hecho casi no tienen valor defensivo en caso de un ataque a gran escala, pero sirven para separar las diferentes partes del exterior del castillo. Aun así es necesario escalarlos (unos 2 y 3 metros de altura) o atravesar las puertas fortificadas que tienen.  
+Tiene varios niveles, cada uno de ellos amurallados. Las murallas no son realmente un obstáculo insalvable, de hecho casi no tienen valor defensivo en caso de un ataque a gran escala, pero sirven para separar las diferentes partes del exterior del castillo. Aun así, es necesario escalarlos (unos 2 y 3 metros de altura) o atravesar las puertas fortificadas que tienen.  
 
 Cuenta con varias zonas ajardinadas donde tus comandos pueden esconderse en sus arbustos y parapetarse detrás de sus árboles. 
 
@@ -2489,19 +2491,19 @@ La muralla exterior del castillo tiene forma de una estrella de 7 puntas y cada 
 
 De normal puede haber unas 100 personas en el castillo entre soldados, oficiales y personal de servicio del Doctor Eckart. Están continuamente moviéndose por todo el castillo en diversas tareas o durmiendo o comiendo. De normal hay 3 soldados por puesto de vigilancia y 6 en el que vigila la entrada. 
 
-Atacar de noche o de día no debería dar mucha ventaja, ya que el castillo está muy bien iluminado así que a no ser que saboteen las líneas eléctricas y los generadores de emergencia no habrá problemas de iluminación. 
+Atacar de noche o de día no debería dar mucha ventaja, ya que el castillo está muy bien iluminado, así que a no ser que saboteen las líneas eléctricas y los generadores de emergencia no habrá problemas de iluminación. 
 
-Los saurios acuáticos no pueden acceder al castillo de ninguna forma por lo que no son útiles en esta parte. Puedes darles a los comandos con compañeros saurios acuáticos los benis de sus compañeros para su uso en estas sesiones, de forma que cada sesión empiecen con 6 en vez de los 3 normales.
+Los saurios acuáticos no pueden acceder al castillo de ninguna forma, por lo que no son útiles en esta parte. Puedes darles a los comandos con compañeros saurios acuáticos los benis de sus compañeros para su uso en estas sesiones, de forma que cada sesión empiecen con 6 en vez de los 3 normales.
 
 ### Dinosaurios capturados
 Los dinosaurios capturados en la isla de Skye y en la meseta han sido trasladados al castillo como parte de sus defensas. Sus jinetes los controlan por la fuerza mediante los collares de entrenamiento y los mandos de control, sin olvidar otros castigos e insuficiente alimentación.
 
-El maltrato recibido los hace muy agresivos y más primitivos con lo que han perdido parte de su inteligencia. Aquí vemos algunos cambios frente a las estadísticas normales de los saurios.
+El maltrato recibido los hace muy agresivos y más primitivos, con lo que han perdido parte de su inteligencia. Aquí vemos algunos cambios frente a las estadísticas normales de los saurios.
 
 * Un nivel de dado menos de Astucia y las habilidades basadas en Astucia como Notar.
 * Son más agresivos, pero no tan hábiles debido a las malas condiciones en las que viven, con lo que tienen -1 a todas las tiradas de ataque y +2 al daño.
 
-A la hora de usarlos en combate los nazis no son cuidadosos con ellos y se lanzan con ellos contra sus enemigos sin preocuparse de su seguridad. Si mueren, pues mueren son solo armas, vivas pero armas.
+A la hora de usarlos en combate, los nazis no son cuidadosos con ellos y se lanzan con ellos contra sus enemigos sin preocuparse de su seguridad. Si mueren, pues mueren. Son solo armas, vivas, pero armas.
 
 Si tus comandos tratan de no hacerles daño, deberías darles benis por sus actos de bondad. 
 
@@ -2520,13 +2522,13 @@ En un momento de máximo dramatismo, incluso podrías hacer una escena en que vo
 
 Si ves que la presencia del zepelín, influye demasiado en los planes de ataque, puedes hacer que desaparezca o que se vaya haga rondas de vigilancia de varias horas de forma que no influya tanto en sus planes de ataque. 
 
-Ya hemos hablado de las versiones portátiles del rayo desintegrador del Doctor Eckart, si fuera necesario puedes sustituir uno de las ametralladoras que porta por uno de estas mortales armas de rayos.
+Ya hemos hablado de las versiones portátiles del rayo desintegrador del Doctor Eckart, si fuera necesario puedes sustituir una de las ametralladoras que porta por una de estas mortales armas de rayos.
 
 [![Foto entrada del castillo de Hohenzollern](./assests/images/entrada-hohenzollern.jpg 'Karlheinz Klingbeil - Burg Hohenzollern / Hohenzollern Castle')](https://www.flickr.com/photos/42pixels/46758599982 'Karlheinz Klingbeil - Burg Hohenzollern / Hohenzollern Castle')
 
 ### Defensas exteriores
 
-La única forma de hacer un ataque a gran escala al castillo es por la puerta principal, que claramente es el punto mejor defendido de la muralla exterior. Si tus comandos tratan de entrar por otros lados subiendo por las laderas de los montes pueden hacerlo, pero entrarán solos al castillo, ya que ningún terrestre podrá superar el muro exterior del castillo.
+La única forma de hacer un ataque a gran escala al castillo es por la puerta principal, que claramente es el punto mejor defendido de la muralla exterior. Si tus comandos tratan de entrar por otros lados subiendo por las laderas de los montes, pueden hacerlo, pero entrarán solos al castillo, ya que ningún terrestre podrá superar el muro exterior del castillo.
 
 \saltopagina
 
@@ -2539,9 +2541,26 @@ Al quitar la puerta se encontrarán a 3 estegosaurios que los oficiales nazis ob
 Si tus comandos se retrasan mucho puedes traer gente de otros puestos de vigilancia con sus ametralladoras pesadas. si no formarán parte de las defensas interiores. A no ser que hayan planeado deshacerse de ellos de alguna forma.
 
 ### Defensas interiores
-xxx
+Tras pasar las defensas exteriores llegarán a la planta en forma de estrella 7 puntas. Es una parte llena de jardines y zonas para pasear. De hecho, para seguir avanzando tendrán que atravesar un jardín bastante grande.
+
+Desde el patio central, un grupo de soldados bajan al jardín para detener el ataque. Por cada comando hay una pareja de soldados nazis, uno normal y otro con una extraña arma del tamaño de un fusil conectada a una mochila. Los soldados normales son los guardaespaldas de los soldados rayo, que portan una arma desintegradora portátil del doctor Eckart.
+
+El jardín no tiene más que algunos puntos donde protegerse de los rayos, como las fuentes o los bancos de piedra, pero una vez que se han usados como defensa, son destruidos por el rayo y no se puede usar más.
+
+Puedes hacer el combate más divertido y complicarlo haciendo que los rayos desintegradores corten los árboles. Esto hará que los troncos supongan terreno difícil y las copas de los árboles sean obstáculos que no pueden atravesar.
+
+#### Soldado rayo nazi
+Estos soldados portan dos grandes inventos del Doctor Eckart, su armadura de polímeros superresistente y su arma de rayos portátil. Son lentos y torpes pero increíblemente destructivos. Por eso suelen tener un compañero de fatigas que les guarda las espaldas. 
+
+* **Atributos:** Agilidad d6, Astucia d6, Espíritu d4, Fuerza d8, Vigor d8
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Disparar d10, Idioma alemán d6, Pelear d6, Notar d8, Persuadir d4, Sigilo d4
 
 \saltopagina
+
+* **Paso:** 6 (sobrecargado: paso 4 y no puede correr); **Parada:** 5; **Dureza:** 10(4)
+* **Ventajas:** Soldado, Reflejo de combate
+* **Desventajas:** Obligaciones (mayor, ejército), Fanático (SS)
+* **Equipo:** Arma de rayos portátil de Doctor Eckart, peto de polímero superresistente del doctor Eckart (+4 dureza), casco de polímero superresistente del doctor Eckart (+4 dureza cabeza)
 
 ### Patio del castillo
 [![Primer plano de águilas de bronce](./assests/images/hohenzollern-aguilas.jpg 'PxHere')](https://pxhere.com/es/photo/1003976 'PxHere')
@@ -2551,11 +2570,13 @@ Una tirada de Notar les permitirá encontrar una zona cuadrada de 5x5 metros que
 
 Puedes hacer un combate tipo escaramuza contra 3 soldados y un oficial por comando y saurio, entre los cuales habrá por lo menos 3 soldados con rayos mortales del Doctor Eckart. Pero quizás haya otras opciones mucho más interesantes. El patio es un lugar perfecto para cambiar el estilo de combate y si lo deseas puedes montar una especie de justa a muerte. 
 
-Cuando consigan llegar al patio podrán ver a varios oficiales nazis tendrán el control de dos alosaurios y han decidido ponerse partes de armaduras del castillo y unas lanzas de caballería. Estarán armados en mitad del patio y sobre sus monturas dinosaurio esperando a tus comandos. 
+Cuando consigan llegar al patio, podrán ver a varios oficiales nazis (tantos comandos con saurios que puedan ser usados como monturas). Tendrán el control de varios alosaurios, megalosaurios y estegosaurios y han decidido ponerse partes de armaduras del castillo y unas lanzas de caballería. Estarán armados en mitad del patio y sobre sus monturas dinosaurio esperando a tus comandos. 
 
 Si tus comandos disponen de alosaurios o megalosaurios se establecerá con unos cruces de miradas un acuerdo tácito entre los oficiales nazis y tus comandos para hacer una justa. Los caballeros nazis entregarán algo de equipo (lanzas y escudos) a tus comandos.
 
-El equipo que gane la justa ganará el combate y se espera que nadie interfiera en los lances de la justa ni haga cosas raras, como tender trampas o sucias estrategias del estilo. La justa decidirá quien gana, pero a diferencia será a inconsciencia o muerte. Si no puedes montar o mueres pierdes la justa. No hay puntos, solo honor y sangre.
+El equipo que gane la justa ganará el combate y se espera que nadie interfiera en los lances de la justa, ni haga cosas raras, como tender trampas o sucias estrategias del estilo. La justa decidirá quién gana, pero a diferencia será a inconsciencia o muerte. Si no puedes montar o mueres, pierdes la justa. No hay puntos, solo honor y sangre.
+
+\saltopagina
 
 #### Caballero nazi &#x2638;
 Estos oficiales nazis quieren seguir las antiguas tradiciones y han montado esta justa improvisada. Se han armado con equipo del castillo y tienen una armadura de malla, un escudo y lanza.
@@ -2563,9 +2584,6 @@ Estos oficiales nazis quieren seguir las antiguas tradiciones y han montado esta
 * **Atributos:** Agilidad d8, Astucia d6, Espíritu d6, Fuerza d8, Vigor d6
 * **Habilidades:** Atletismo d6, Cabalgar d8, Conducir d6, Conocimientos Generales d6, Disparar d8, Idioma alemán d6, Idioma Inglés d4, Intimidar d8, Notar d8, Pelear d10, Persuadir d6, Sigilo d6, Tácticas d6
 * **Paso:** 6; **Parada:** 9(2); **Dureza:** 5
-
-\saltopagina
-
 * **Ventajas:** Mando, Soldado, Bloqueo, Bloqueo mejorado
 * **Desventajas:** Obligaciones (mayor, ejército), Fanático (SS), Elige 1 (Avaricioso, Sanguinario, Vengativo, Sobreconfiado)
 * **Equipo:** Lanza de caballería (FUE+d8, PA 2 cuando carga, Alcance 2, solo se puede usar montado), Camisote de malla (+3 torso y brazos), casco abierto (+4 cabeza), escudo medieval mediano (parada +2, cobertura -2)
@@ -2581,37 +2599,36 @@ Déjales unos 10 o 15 minutos de descanso y si no se mueven puedes hacer que un 
 
 El doctor Eckart tiene una pequeña pinacoteca de 10 cuadros en el comedor principal del castillo de Hohenzollern. Son todos de la pintora francesa impresionista Berthe Morisot. Tus comandos deberían tratar de recuperarlos sin que sufran daño, con un agujero de bala o con una esquina quemada perderían parte de su valor. 
 
+\saltopagina
+
 ### El laboratorio en el sótano
-En el ala norte del castillo, hay unas escaleras que lleva a la bodega del castillo. Una vez tuvo una de las mejores vinos de Europa en sus estantes, pero el Doctor Eckart lo ha convertido en su laboratorio.
+En el ala norte del castillo, hay unas escaleras que lleva a la bodega del castillo. Una vez tuvo una de las mejores vinotecas de Europa en sus estantes, pero el Doctor Eckart lo ha convertido en su laboratorio.
 
 La bodega aprovechó unas cuevas naturales y tiene una altura de unos 5 metros y parte de la bodega es natural y parte ha sido excavada. 
 
-\saltopagina
-
 El laboratorio está lleno de equipo científico carísimo en mesas, miles de probetas con todo tipo de productos químicos humeantes, aparatos lanzando arcos voltaicos, etc. Un comando con conocimientos científicos podrá montar cualquier cosa rápida con ese equipo. Hablamos de explosivos, gases mortales, etc.
 
-Al final de la cueva hay una especie de plataforma elevadora con una gran estructura metálica con una parabólica de 2 metros de radio llena de diamantes. Una tirada de Ciencias les confirmará que es la versión gigantesca de los rayos destructores portátiles que han visto hasta ahora. Las bordes de parabólica se está iluminando y por experiencias anteriores eso significa que se prepara para disparar, cuando  
+Al final de la cueva hay una especie de plataforma elevadora con una gran estructura metálica con una parabólica de 2 metros de radio llena de diamantes. Una tirada de Ciencias les confirmará que es la versión gigantesca de los rayos destructores portátiles que han visto hasta ahora. Las bordes de parabólica se está iluminando y por experiencias anteriores eso significa que se prepara para disparar, cuando cuando la parabólica este completamente iluminada podrá ser disparada. 
 
-Al lado suyo está el Doctor Eckart montado en un alosaurio con barda y equipado con dos rayos destructores en cada brazo. Cuando les vea entrar, hará el saludo nazi, accionara un mando y la plataforma elevadora lo sacará al patio. Si intentan disparar los disparos chocaran contra el cristal blindado que rodea la plataforma elevadora.
+Al lado suyo está el Doctor Eckart montado en un alosaurio con barda y equipado con dos rayos destructores en cada brazo. Cuando les vea entrar, hará el saludo nazi, accionará un mando y la plataforma elevadora lo sacará al patio. Si intentan disparar los disparos chocarán contra el cristal blindado que rodea la plataforma elevadora.
 
 ## La batalla final
 ```
-Esta es la batalla final de esta aventura, el combate entre el bien y el mal. Si pierden los nazis ganarán la guerra con el nuevo arma del Doctor Eckart. Si ganan, el nazismo será derrotado y tus comandos y sus saurios serán los héroes invisibles de la mayor guerra de la historia.¿Hacia que lado se inclinará la balanza del destino? 
+Esta es la batalla final de esta aventura, el combate entre el bien y el mal. Si pierden los nazis ganarán la guerra con la nuevo arma del Doctor Eckart. Si ganan, el nazismo será derrotado y tus comandos y sus saurios serán los héroes invisibles de la mayor guerra de la historia. ¿Hacia qué lado se inclinará la balanza del destino? 
 ```
 
 ### Reglas de la batalla
 
 Veamos algunas reglas que puedes usar esta gran batalla final para hacerla más épica y apasionante.
 
-* La batalla final se jugará en el patio, un sitio ya conocido por tus comandos. Es difícil ocultarse, ya que es un espacio abierto sin obstáculos, pero pueden moverse hacia la zona ajardinada o parapetarse dentro de las estancias interiores y disparar desde las ventanas.  
-* En principio, no hay apoyos. Ya han acabado con ellos por el camino, pero siempre está el zepelín, del que puede bajar soldados o usar sus armas contra la gente del patio.
-* No se puede negociar con Eckart, está demasiado ido para convencerle con la lógica, la persuasión o la intimidación.
-
 \saltopagina
 
+* La batalla final se jugará en el patio, un sitio ya conocido por tus comandos. Es difícil ocultarse, ya que es un espacio abierto, sin obstáculos, pero pueden moverse hacia la zona ajardinada o parapetarse dentro de las estancias interiores y disparar desde las ventanas.  
+* En principio, no hay apoyos. Ya han acabado con ellos por el camino, pero siempre está el zepelín, del que puede bajar soldados o usar sus armas contra la gente del patio.
+* No se puede negociar con Eckart, está demasiado ido para convencerle con la lógica, la persuasión o la intimidación.
 * El rayo destructor está cargándose y parece que está apuntando a algún punto a cientos o miles de kilómetros (Ciencias para tener una idea que apunta a París que acaba de ser liberada) y puede hacer una gran masacre. Eso hace que tienen que desactivarlo en 10 turnos (o más según veas) o lanzará su energía destructora. Para parar el disparo hay que usar a llave de seguridad que lleva Eckart al cuello. Recuérdales lo que pasa cuando explota la versión portátil del rayo, si quieren destruirlo el prototipo gigante. 
 * El Doctor está embadurnado de un polímero de su invención que le da +3 a la armadura y no le afecta la PA de las armas. Le da un aspecto brillante. Quizás puedan quitárselo con agua a presión do similar.
-* Si se destruye la palanca de control el alosaurio será libre y se tragará al Doctor Eckart.
+* Si se destruye la palanca de control, el alosaurio será libre y se tragará al Doctor Eckart.
 
 ### El hitlersaurio &#x2638;
 Este alosaurio modificado por el Doctor Eckart es una versión más agresiva y mortal de un alosaurio de la Meseta de Maple White, pero también menos inteligente. El collar de control ha sido sustituido por una especie de palanca con varios botones en la base del cuello, con la que el doctor dirige a esta poderosa bestia. Además, sus manos sujetan dos rayos destructores y sus baterías se encuentran en su espalda. Las baterías tienen más protección, ya que no importa el peso (consistencia 16).
@@ -2624,12 +2641,12 @@ La expresión de dolor del saurio es fácilmente identificable por cualquiera qu
 * **Ventajas:** Nervios de Acero Mejorados
 * **Capacidades especiales:**
   * **Agresivo:** Son más agresivos, pero no tan hábiles debido a las malas condiciones en las que viven, con lo que tienen -1 a todas las tiradas de ataque y +2 al daño.
-  * **Armadura +5:** Piel escamosa y dura. Además, ha sido embadurnado de un polímero de invención del Doctor que hace aún más resistente. El polímero le da un toque brillante muy llamativo. Puede que el agua puedan disolver el polímero y quitarle esa protección.
-  * **Rayos destructores:** Cada turno, adicionalmente a su ataque puede lanzar un rayo destructor, pero tienes que tirar al azar en que dirección sale (1d3 para elegir por cuál casilla delantera sale). Si quiere apuntar, entonces no podrá hacer el ataque normal.
 
 \saltopagina
 
-*  
+* 
+  * **Armadura +5:** Piel escamosa y dura. Además, ha sido embadurnado de un polímero de invención del Doctor que hace aún más resistente. El polímero le da un toque brillante muy llamativo. Puede que el agua puedan disolver el polímero y quitarle esa protección.
+  * **Rayos destructores:** Cada turno, adicionalmente a su ataque, puede lanzar un rayo destructor, pero tienes que tirar al azar en que dirección sale (1d3 para elegir por cuál casilla delantera sale). Si quiere apuntar, entonces no podrá hacer el ataque normal.
   * **Mordisco:** FUE+d8+2.
   * **Miedo -2:** Quien vea un poderoso alosaurio deberá hacer una tirada contra miedo con una penalización de -2.
   * **Impávido:** Es inmune a las tiradas de miedo e Intimidar.
@@ -2641,15 +2658,15 @@ La expresión de dolor del saurio es fácilmente identificable por cualquiera qu
 ## Y ahora ¿qué va a pasar?
 Pues realmente lo que tú quieras. Recepción de la reina, medallas militares, asensos militares, becas de investigación, títulos de Sir y Dame, etc. Si tus comandos han llegado a hasta aquí se lo han currado y no deberías cortarte en contarles todo lo que ha traído su lucha y su victoria sobre las fuerzas nazis.
 
-Oficialmente la campaña ha acabado y tienes un relato salvaje titulado "Despedidas" que cubre como podría ser el final de la campaña cuando tus comandos devuelven a su entorno natural a sus saurios.
+Oficialmente, la campaña ha acabado y tienes un relato salvaje titulado "Despedidas" que cubre como podría ser el final de la campaña cuando tus comandos devuelven a su entorno natural a sus saurios.
 
 Pero esta historia no tiene por qué acabar. La guerra no ha acabado y si como DJ quieres meter más aventuras, tienes semillas de aventuras que puedes usar o elaborar una trama, por ejemplo, en la que llegan a Berlín. 
+
+\saltopagina
 
 Como siempre si el tema de comandos con saurios te ha gustado, quizás puedas embarcarlos en alguna loca aventura pulp, como la búsqueda de la Atlántida o enfrentarlos a algún tipo de invasión extraterrestre o de horror cósmico. Nunca desdeñes la fuerza narrativa que tienen palabras como "Cthulhu vs. dinosaurios".
 
 En esta última aventura hemos dejado entrar la Ciencia Extraña, así que podría haber algún artilugio temporal que permita traer más saurios del pasado. O si jugaste el relato "Nadie", puedes servirte de esta como enlace para meter aventuras tipo Julio Verne y sus "20.000 leguas de viaje submarino". Quizás encontrar los restos del Nautilus y su tecnología perdida sea la gran aventura que tu mesa busca.
-
-\saltopagina
 
 Por último, en el libro original de El Mundo Perdido proponen montones de cosas misteriosas que hay escondidas en la meseta de Maple White que puedes seguir explotando.
 

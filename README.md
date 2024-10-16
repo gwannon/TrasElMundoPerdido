@@ -15,12 +15,11 @@
   * Misión de rescate
   * Evitando un genocidio
   * Batalla del Mundo Perdido
-* Parte 9: La Selva Negra (2)
+* Parte 9: La Selva Negra (1)
   * La IM vuelve y viaje a la selva Negra
-  * Defensas interiores
-  * Corrección de textos
 
 * Corrección de textos "Parte 3: Islas Orcadas", "Parte 4: Noruega", "Parte 6: El frente ruso", "Parte 7: Regreso a casa", "Relatos salvajes", "Aliados, antagonistas y dinosaurios" y "Epílogo"
+* Terminada la parte de "Defensas interiores" de "Parte 9: La Selva Negra"
 
 ## Versión 0.9.1 15/10/2024
 * Corrección de textos "Hace 65 millones de años los dinosaurios dominaron la Tierra ...", "La Fundación Roxton", "Acerca de los dinosaurios", "Reglas especiales para la campaña", "La campaña", "Parte 1: La isla de Skye" y "Parte 2: Norte de África"
