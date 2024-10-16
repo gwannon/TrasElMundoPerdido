@@ -3052,25 +3052,6 @@ Una establezcan contactos deberán explicarles que han hecho y ofrecer alguna pr
 ### Recompensas
 Lo único que pueden conseguir tus comandos tras esta aventura es buena comida y bebida local y la satisfacción de haber hecho una buena acción y de haber estropeado los planes de los nazis. Aparte pueden tener un puerto seguro donde refugiarse y esconderse si se meten en problemas. La resistencia se encargará de buscarles una casa segura donde ocultarse. El tema de si aceptarán a las bestias prehistóricas que les acompañan es otro tema.  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Cena de etiqueta
 ```
 La Reina quiere agasajar a las heroínas y héroes de la fundación Roxton con una cena en el Castillo de Balmoral donde podrá conocer a los dinosaurios que les acompañan en sus peligrosas misiones.
@@ -3084,9 +3065,9 @@ La Reina quiere agasajar a las heroínas y héroes de la fundación Roxton con u
 
 La reina Isabel quiere conocer a los comandos a sus asombrosos compañeros, así que van a preparar una cena en el Castillo de Balmoral en Escocia, residencia de verano de la realeza británica. 
 
-IM tiene preparado el transporte terrestre de los saurios. Son unas 6 horas en camión así que saldrán a medio día para llegar a Balmoral a la hora de cenar. La idea es que vayan Lady Roxton como cabeza de la Fundación junto con los comandos y sus compañeros, pero de no ser posible (por ejemplo por estar heridos o ser acuáticos) pueden buscar sustitutos. 
+IM tiene preparado el transporte terrestre de los saurios. Son unas 6 horas en camión, así que saldrán a medio día para llegar a Balmoral a la hora de cenar. La idea es que vayan Lady Roxton como cabeza de la Fundación junto con los comandos y sus compañeros, pero de no ser posible (por ejemplo por estar heridos o ser acuáticos) pueden buscar sustitutos. 
 
-Si Marina Flowers está en la isla será invitada junto a los comandos. Y si te parece divertido meter otros personajes dentro de la comitiva pues perfecto. Esta aventura es un divertimento con tintes de comedia de enredos que no lleva a ninguna parte más que pasar una sesión divertida metiendo a tus comandos en algunas situaciones para las que no están preparados y de las que no saben salir. 
+Si Marina Flowers está en la isla, será invitada junto a los comandos. Y si te parece divertido meter otros personajes dentro de la comitiva, pues perfecto. Esta aventura es un divertimento con tintes de comedia de enredos que no lleva a ninguna parte más que pasar una sesión divertida metiendo a tus comandos en algunas situaciones para las que no están preparados y de las que no saben salir. 
 
 ### Clases rápidas de protocolo
 Lady Roxton tiene 24 horas para enseñar un mínimo protocolo a tus comandos y su lema es que la letra con sangre entra. Aquí tienes algunas ideas para sus enseñanzas.
@@ -3098,16 +3079,16 @@ Lady Roxton tiene 24 horas para enseñar un mínimo protocolo a tus comandos y s
 
 * Practicarán el besamanos a la reina (tirada de Conocimientos Generales) con Lady Roxton como la reina. Ya sabes qué pasa si fallan.
 
-Dales positivos si tienen ideas originales, pero que no se pasen que van a cenar con la reina. Si quieres hacerlo más divertido cada golpe de Lady Roxton quita un beni y si intentan esquivarlos te dará dos y perderás dos benis. 
+Dales positivos si tienen ideas originales, pero que no se pasen, que van a cenar con la reina. Si quieres hacerlo más divertido cada golpe de Lady Roxton quita un beni y si intentan esquivarlos te dará dos y perderás dos benis. 
 
 Los dos comandos que reciban más golpes de reglas les pondrá un capirote de zopencos y decidirá que no son aptos para cenar con la reina. Irán solo como cuidadores de los saurios. Sé generoso y dales algunos benis a los que van a la cena. 
 
-Además Lady Roxton tratará de buscar ropa adecuada para los comandos menos afines a la moda. Una tirada de Conocimientos Generales permitirá al comando elegir la ropa más adecuada de lo que tenga disponible, otra cosa es que luego sepa llevarla con estilo y clase (tirada de Espíritu) o por la percha (tirada de Vigor).  
+Además, Lady Roxton tratará de buscar ropa adecuada para los comandos menos afines a la moda. Una tirada de Conocimientos Generales permitirá al comando elegir la ropa más adecuada de lo que tenga disponible, otra cosa es que luego sepa llevarla con estilo y clase (tirada de Espíritu) o por la percha (tirada de Vigor).  
 
 También pueden aprovechar para acicalar a sus compañeros y de hecho Wayland ha hecho unas pajaritas de tela para los saurios. Hay que estar elegantes si vas a ver a la reina.
 
 ### La recepción real
-La recepción consistirá en un besamanos a la reina en la sala de recepciones del castillo. La reina parece entusiasma, posiblemente porque en un ambiente de noticias de guerra está cena es algo diferente. 
+La recepción consistirá en un besamanos a la reina en la sala de recepciones del castillo. La reina parece entusiasma, posiblemente porque en un ambiente de noticias de guerra esta cena es algo diferente. 
 
 Acto seguido pasarán al exterior a los jardines donde se ha instalado un cenador. Allí estarán con los saurios los comandos que no hayan pasado el corte con unos buzos azules cuidando de los saurios. La reina se quedará muy impresionada por los animales sobre todos los pteranodontes y aguantará con bastante entereza cuando el alosaurio acerque sus terribles dientes y resople cerca de su cabeza.
 
@@ -3115,7 +3096,7 @@ Algún comando avispado puede intentar montar algún ejercicio con los dinosauri
 
 Acto seguido, **la reina Isabel concederá a Lady Roxton la medalla de la Orden del Imperio Británico** por sus logros. A partir de este momento pasarían a ser también Dame. Si alguno de tus comandos realizo alguna gesta en los escenarios de combate digna del tal nombre, podrías otorgarle la Cruz de la Victoria (incluso póstumamente), pero digamos que tiene que ser una gesta muy heroica. 
 
-Si alguno de los compañeros saurios ha caído en combate se le concederá la medalla Dickin, que puede ser considerada como un equivalente de la Cruz Victoria para los animales que sirven en el ejército inglés.
+Si alguno de los compañeros saurios ha caído en combate, se le concederá la medalla Dickin, que puede ser considerada como un equivalente de la Cruz Victoria para los animales que sirven en el ejército inglés.
 
 \saltopagina
 
@@ -3124,7 +3105,7 @@ Mientras que la cena transcurrirá con tranquilidad, a no ser que algún invitad
 
 Aunque parezca increíble, las ocas y gansos que hay en los terrenos del castillo no les gusta la presencia de sus tatarabuelos evolutivos y se están juntando para acabar con ellos. Una manada de unos 15 gansos y ocas se va a reunir en las sombras cerca del cenador, preparados para expulsar a sus enemigos prehistóricos. 
 
-Unas tiradas de Notar y tus comandos descubrirán el _graznido_ de gansos. Son bastantes agresivos y no se amilanan por nada. En el momento que uno de los comandos intente asustarlos y dispersarlos, se desatará el desastre. Los gansos se lanzarán al ataque (Miedo -3) e increíblemente los saurios huirán de las ocas y los gansos. Tus comandos tendrán que pasar la tirada de Miedo o también saldrán corriendo.
+Unas tiradas de Notar y tus comandos descubrirán el _graznido_ de gansos. Son bastante agresivos y no se amilanan por nada. En el momento que uno de los comandos intente asustarlos y dispersarlos, se desatará el desastre. Los gansos se lanzarán al ataque (Miedo -3) e increíblemente los saurios huirán de las ocas y los gansos. Tus comandos tendrán que pasar la tirada de Miedo o también saldrán corriendo.
 
 Mientras, si algún comando de la cena se anima, puede contar alguna anécdota graciosa de sus aventuras. Puedes pedirles tirar Interpretar. Si fallan la reina no cogerá la historia y fingirá reírse. Si la pasan se reirá de buena gana y por cada avance la reina se atragantará de risa o echará sopa por la nariz por las carcajadas.
 
@@ -3157,7 +3138,7 @@ Tu comando debe ayudar a los «Monuments Men» a recuperar arte robado por los n
 
 El oficial James Rorimer se pondrá en contacto con tus comandos en alguna visita a Londres o quizás se presente en el propio castillo Dunvegan. Trabaja para [«Programa de Monumentos, Arte y Archivos»](https://es.wikipedia.org/wiki/Programa_de_Monumentos,_Arte_y_Archivos) de las fuerzas aliadas, más conocidos como los «Monuments men», y necesita toda la ayuda posible para recuperar arte robado por los nazis.
 
-Tiene contactos en el IM, de hecho juega a polo con el General Eugene Linton, y ha conseguido permiso para hablar con los comandos. No sabe nada de los saurios, pero si sabe que el equipo va a moverse por todo el mundo combatiendo a los nazis. Con un poco de suerte pueden rescatar obras robadas por los nazis.
+Tiene contactos en el IM, de hecho juega a polo con el General Eugene Linton, y ha conseguido permiso para hablar con los comandos. No sabe nada de los saurios, pero sí sabe que el equipo va a moverse por todo el mundo combatiendo a los nazis. Con un poco de suerte pueden rescatar obras robadas por los nazis.
 
 \saltopagina
 
@@ -3165,7 +3146,7 @@ Tiene contactos en el IM, de hecho juega a polo con el General Eugene Linton, y 
 
 Puedes poner cuadros y estatuas robadas en cualquier parte de la aventura o Rorimer puede informarles del arte robado que podrían encontrar en cada misión. 
 
-Salvo casos muy claros, será necesario una tirada de Humanidades para reconocer las piezas robadas. Sería gracioso que se jugaran la vida para rescatar un cuadro pintado por el propio Hitler pensado que era un da Vinci.
+Salvo casos muy claros, será necesario una tirada de Humanidades para reconocer las piezas robadas. Sería gracioso que se jugaran la vida para rescatar un cuadro pintado por el propio Hitler pensado que era un Da Vinci.
 
 Aquí tienes algunas ideas.
 
@@ -3190,7 +3171,7 @@ También pueden quedarse algunas o todas las obras para su jubilación y hacer u
 Weyland suele organizar noches de póker y esta vez ha invitado a tus comandos. Lo que no saben ninguno es que Lady Roxton se ha enterado y se va a autoinvitar.  
 ```
 
-Wayland ha montado una timba de póker en su taller. Hay una mesa con sillas, cartas nuevas, fichas, picoteo escamoteado de la cocina y cerveza y ron jamaicano. Wayland es bastante malo como jugador, pero disfruta de la interacción humana, de la comida, de la bebida y de los habanos que guarda para estas ocasiones. Si Marina Flowers está en la isla también participará en la noche de póker.
+Wayland ha montado una timba de póker en su taller. Hay una mesa con sillas, cartas nuevas, fichas, picoteo escamoteado de la cocina y cerveza y ron jamaicano. Wayland es bastante malo como jugador, pero disfruta de la interacción humana, de la comida, de la bebida y de los habanos que guarda para estas ocasiones. Si Marina Flowers está en la isla, también participará en la noche de póker.
 
 Cuando estén a punto de repartir las primeras cartas aparecerá Lady Roxton con ropa cómoda y material para hacer gintonics. Se disculpará por llegar tarde y actuará como si la hubieran invitado. Parece ser que ha caído en sus manos un libro sobre técnicas modernas de Relaciones Laborales y está probando cosas. Puede que al principio les intimide un poco, pero los gintonics lubricarán las asperezas y acabarán todos cantando, gritando, contando chistes y jugando al poker.
 
@@ -3216,13 +3197,34 @@ En cada ronda deberán tirar Apostar y el que saque la peor tirada será el perd
 
 ### Historias vergonzosas
 
-> El perdedor de cada ronda de póker deberá contar una anécdota graciosa y vergonzante de su comando y como DJ deberías darles al final de la sesión a cada comando algún beneficio muy especifico relacionado con su historia. Puede ser un +2 al participar en concursos de comida, un +2 a identificar razas de ganado, etc. Solo el ganador no tendrá que contar ninguna historia vergonzosa, pero si quiere podrá hacerlo.
+> El perdedor de cada ronda de póker deberá contar una anécdota graciosa y vergonzante de su comando y como DJ deberías darles al final de la sesión a cada comando algún beneficio muy específico relacionado con su historia. Puede ser un +2 al participar en concursos de comida, un +2 a identificar razas de ganado, etc. Solo el ganador no tendrá que contar ninguna historia vergonzosa, pero si quiere podrá hacerlo.
 
-* La historia de Lady Roxton es que escribió un fanfic en que Hércules Poirot viaja en el tiempo, tras perderse en un templo egipcio, para detener a Jack el Destripador. Se lo envió a Agatha Christie y esta le pidió que no volviese a intentar escribir. Si se lo piden, puede enseñar la carta firmada por la propia Agatha. 
+* La historia de Lady Roxton es que escribió un fanfic en que Hercule Poirot viaja en el tiempo, tras perderse en un templo egipcio, para detener a Jack el Destripador. Se lo envió a Agatha Christie y esta le pidió que no volviese a intentar escribir. Si se lo piden, puede enseñar la carta firmada por la propia Agatha. 
 * La historia de Marina es que uno de los primeros trabajos fue de mono en una película de Tarzan y se enrolló con otro mono sin quitarse los disfraces y sin hablar solo haciendo sonidos de monos. Nunca ha sabido con quién se lio.
-* Wayland contará por mímica que su primera borrachera fue con vino misal robado del misionero que le acogió. Cree recordar que meó en la pila bautismal, pero esa parte está nublosa en su memoria. Sabe que le encontraron durmiendo acurrucado en el regazo de la virgen y mamando de una de sus tetas.
+* Wayland contará por mímica que su primera borrachera fue con vino misal robado del misionero que le acogió. Cree recordar que meó en la pila bautismal, pero esa parte está nublosa en su memoria. Sabe que le encontraron durmiendo, acurrucado en el regazo de la virgen y mamando de una de sus tetas.
 
 \saltopagina
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## El secreto de los Branningan
 ```
