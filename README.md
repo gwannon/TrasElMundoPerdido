@@ -10,13 +10,11 @@
 ## Versión 0.9.2 En desarrollo
 * Parte 5: Normandía (1)
   * Sabotaje
-  * Corrección de textos
 * Parte 8: Regreso al Mundo Perdido (4)
   * Carrera al Mundo perdido
   * Misión de rescate
   * Evitando un genocidio
   * Batalla del Mundo Perdido
-  * Corrección de textos
 * Parte 9: La Selva Negra (2)
   * La IM vuelve y viaje a la selva Negra
   * Defensas interiores

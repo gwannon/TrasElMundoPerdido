@@ -1742,7 +1742,7 @@ Si no se dan cuenta de todos estos fallos en la misión y no se empiezan a hacer
 ***
 
 # Parte 5: Normandía
-La Francia ocupada es un escenario clásico. Pero mientras que las historias normales tratan del día D y del desembarco de Normandía, esta historia va la preparación de ese enfrentamiento. Tus comandos se moverán por la Francia ocupada, más en concreto por Normandía recabando información para la IM.
+La Francia ocupada es un escenario clásico. Pero mientras que las historias normales tratan del día D y del desembarco de Normandía, esta historia va la preparación de ese enfrentamiento. Tus comandos se moverán por la Francia ocupada, más en concreto por Normandía, saboteando instalaciones nazis para la IM.
 
 ## Preparando el día D
 ```
@@ -1753,7 +1753,7 @@ La IM necesita boicotear una serie de instalaciones antes del día D y tus coman
 
 &nbsp;
 
-Horace, como siempre, trae un montón fotos y mapas, esta vez de Normandía, y una bandeja con té y galletas de chocolate. Tras una introducción sobre la historia de Normandía y la invasión de Inglaterra que no viene a cuento, Horace empezará con el informe de misión. 
+Horace, como siempre, trae un montón de fotos y mapas, esta vez de Normandía, y una bandeja con té y galletas de chocolate. Tras una introducción sobre la historia de Normandía y la invasión de Inglaterra que no viene a cuento, Horace empezará con el informe de misión. 
 
 La Wehrmacht de la Alemania nazi ha transformado la ciudad de La Havre (en la costa de Normandía) en una base militar, y han construido la «Festung Le Havre», una línea de fortificaciones y baterías de artillería.
 
@@ -1761,7 +1761,7 @@ La Wehrmacht de la Alemania nazi ha transformado la ciudad de La Havre (en la co
 
 Este dispositivo forma parte del Muro atlántico, la línea defensiva que protege la Europa Nazi de posibles ataques desde Inglaterra.
 
-Un punto muy importante es que La Havre está en centro de las comunicaciones de Normandía y si cortan la comunicación, todo el cinturón defensivo de Normandía quedará aislado del resto. Si alguien atacará las playas de Normandía tardarían horas en pedir refuerzos y apoyo, horas cruciales para tomar posiciones y que un posible desembarco tenga éxito.    
+Un punto muy importante es que La Havre está en centro de las comunicaciones de Normandía y si cortan la comunicación, todo el cinturón defensivo de Normandía quedará aislado del resto. Si alguien atacará las playas de Normandía, tardarían horas en pedir refuerzos y apoyo, horas cruciales para tomar posiciones y que un posible desembarco tenga éxito.    
 
 La misión sería estar escondidos en La Havre, estudiando las defensas y sus puntos débiles, y cuando reciban las órdenes sabotear el sistema de comunicaciones. Una vez saboteadas las comunicaciones, deberían quedarse sembrando el caos en La Havre hasta nuevas órdenes.
 
@@ -1787,13 +1787,13 @@ La opción cabrona es hacerles entrar en la red de alcantarillado de la ciudad. 
 
 ## Estudiando al enemigo
 
-Cuando lleguen al piso franco Jocelyn les presentará Ibrahim Adauy, un ladrón de guante blanco que le ha ayudado en otras misiones en Francia. Ibrahim es de gran ayuda si necesitan colarse en algún sitio o robar algo y él estará encantado de ayudar. Lo que sea por joder a los nazis.
+Cuando lleguen al piso franco, Jocelyn les presentará Ibrahim Adauy, un ladrón de guante blanco que le ha ayudado en otras misiones en Francia. Ibrahim es de gran ayuda si necesitan colarse en algún sitio o robar algo y él estará encantado de ayudar. Lo que sea por joder a los nazis.
 
 Déjales unos días para que estudien la ciudad, las fuerzas de ocupación que hay, las estructuras que han montado los nazis, etc. Tendrán que cartografiar búnkeres, vigilar cambios de guardias, número de unidades en cada parte de la ciudad, tiempos de respuesta, etc. Si consiguen montar un informe detallado de la ciudad con toda esa información, puedes darles positivos cuando preparen su estrategia de sabotaje o cuando entren en acción y tengan que tomar decisiones rápidas e improvisadas.
 
 Adauy puede, si le consiguen ejemplares similares, hacer falsificaciones bastante buenas de todo tipo de documentos y salvoconductos. 
 
-Jocelyn puede ponerles en contacto con la resistencia local, pero esto no darán esa información gratis y puede que les pidan algo, como recursos o algún trabajito como sacar alguien de alguna cárcel o robar en alguna armería nazi. Puedes hacerles una pequeña aventura o simplemente narrarlo, pero desde luego ese tipo de actos deberían a la larga tener a los nazis más atentos, haciendo más controles y mejorando la seguridad. 
+Jocelyn puede ponerles en contacto con la resistencia local, pero esto no darán esa información gratis y puede que les pidan algo, como recursos o algún trabajito, como sacar alguien de alguna cárcel o robar en alguna armería nazi. Puedes hacerles una pequeña aventura o simplemente narrarlo, pero desde luego ese tipo de actos deberían a la larga tener a los nazis más atentos, haciendo más controles y mejorando la seguridad. 
 
 ### El piso franco
 
@@ -1811,7 +1811,7 @@ Si buscan por el piso, encontrarán mucha documentación sobre el Mayor Nezhoda,
 
 Jocelyn les hizo un favor al conseguirles una vía de entrada segura a la ciudad y va a cobrarse ese favor. Jocelyn quiere matar al mayor Nezhoda, el máximo representante nazi en la ciudad. Y no es una misión del IM, es una venganza. El mayor Nezhoda (usa un oficial nazi y hazlo comodín) mando matar a casi toda su familia y a la pareja de Adauy. Todo eso pasó mientras estaba de misiones en el Norte de África y se enteró al volver a Francia. Está claro que tiene que pagar con su vida.
 
-En algún momento de relax Jocelyn se acercará a tus comandos para pedirles ayuda en su misión. No puede contarles su plan real, así que lo disfrazará de un robo de documentos secretos. No necesita que tus comandos maten a Nezhoda, eso es algo reservado para ella sola, pero necesita que le permitan acercarse lo suficiente. 
+En algún momento de relax, Jocelyn se acercará a tus comandos para pedirles ayuda en su misión. No puede contarles su plan real, así que lo disfrazará de un robo de documentos secretos. No necesita que tus comandos maten a Nezhoda, eso es algo reservado para ella sola, pero necesita que le permitan acercarse lo suficiente. 
 
 Según el plan de Jocelyn, el general da una fiesta de disfraces para la plana mayor del ejército nazi y la gente rica de la ciudad. Cualquiera que se considere alguien en la ciudad tendrá una entrada y asistirá al evento del año. También puede ser que un grupo de soldados nazi vayan a tu casa y te fusilen si no apareces por la fiesta con tus mejores galas.
 
@@ -1842,23 +1842,23 @@ Tal vez busquen mapas de alcantarillas o del ayuntamiento para buscar rutas de e
 #### La fiesta
 La idea de esta escena y las siguientes es que sea muy improvisada por parte de tus comandos. No han tenido tiempo de prepararse nada y van un poco a ciegas. Como mucho, quizás, antes de la fiesta han podido emborrachar a alguien que trabaja al servicio de Nezhoda y sacarle información útil, como que la fiesta será en la primera planta y el estudio de Nezhoda está en la segunda planta y tiene una puerta roja. La sala de reuniones está en la primera planta, pero estará cerrada.
 
-Si se ponen a pensar su próximo movimiento en la fiesta dales un minuto y que te digan que van a hacer. El objetivo es que sea un desastre cada vez mayor, pero que vayan avanzando.
+Si se ponen a pensar su próximo movimiento en la fiesta, dales un minuto y que te digan que van a hacer. El objetivo es que sea un desastre cada vez mayor, pero que vayan avanzando.
 
 \saltopagina
 
 Al llegar verán la seguridad exterior. Hay por lo menos unos 30 soldados en las calles adyacentes, vigilando el acceso a la plaza donde está el ayuntamiento. Si tenían pensado huir por alguna ventana del edificio serán casi seguro detectados. Las calles de alrededor están muy iluminadas y no hay muchos sitios oscuros donde esconderse de la vigilancia.
 
-Para darle color a la fiesta en la plaza hay una instalación de fuegos artificiales para el final de fiesta. Con una tirada de Reparar podrían encenderlos y durante 20 turnos tendrán una distracción visual y sonora.
+Para darle color a la fiesta, en la plaza hay una instalación de fuegos artificiales para el final de fiesta. Con una tirada de Reparar podrían encenderlos y durante 20 turnos tendrán una distracción visual y sonora.
 
 Cuando dejen su coche y entreguen sus entradas podrán entrar a la fiesta. Dales un beni si se les ocurre dejar en el coche a un comando o un aliado de conductor. Todo robo necesita un conductor atento a todo que ponga el vehículo de fuga en la entrada para salir pitando.
 
-A la entrada de la fiesta esta Irma Bormann, lugarteniente de Nezhoda y agente local de las SS, revisando las entradas y buscando posibles intrusos. Será muy simpática e incluso seductora, haciendo preguntas casuales pero estudiando a los invitados. 
+A la entrada de la fiesta está Irma Bormann, lugarteniente de Nezhoda y agente local de las SS, revisando las entradas y buscando posibles intrusos. Será muy simpática e incluso seductora, haciendo preguntas casuales pero estudiando a los invitados. 
 
 La fiesta es todo lo ostentosa que te puedas imaginar. Nezhoda ha sacado su mejor vajilla, hay banderas y pendones nazis colgando de todas partes, cubertería y candelabros de plata, servilletas de la mayor calidad y un par de chefs de alto renombre de París están preparando exquisiteces para los invitados. Música en directo por parte de un cuarteto de cuerda y la servidumbre arriba y abajo con bandejas de canapés.
 
 Hay gente bailando, gente comiendo y gente charlando. Según pasen las horas, gracias a las máscaras y al alcohol, las buenas formas se irán y los más bajos instintos se apoderarán de la reunión; personas borrachas gritando, otras cotilleando y criticando por la espalda, otras besándose en las esquinas oscuras y otras confabulando en secreto. Y los peores serán los oficiales nazis.
 
-Dentro del baile no hay soldados encargados de la seguridad, pero si bastantes oficiales nazis disfrutando de la fiesta y disfrazados, pero una tirada de Notar les dirá que hay varios disfrazados con Lugers reglamentarias. Nezhoda quiere montar una mezcla de fiesta salvaje y orgía y con soldados vigilando dentro puede cortar a los asistentes. 
+Dentro del baile no hay soldados encargados de la seguridad, pero sí bastantes oficiales nazis disfrutando de la fiesta y disfrazados, pero una tirada de Notar les dirá que hay varios disfrazados con Lugers reglamentarias. Nezhoda quiere montar una mezcla de fiesta salvaje y orgía y con soldados vigilando dentro puede cortar a los asistentes. 
 
 Mete cosas divertidas, por ejemplo, si alguien va disfrazado de cocinero le metan en la cocina o si va de gallina le pidan que haga como que pone un huevo mientras el público aplaude y ríe. Cada puerta que abran puede ser una sorpresa con alguna escena rocambolesca.
 
@@ -1884,7 +1884,7 @@ Ahora les toca huir con los secretos robados. A priori, debería ser algo fácil
 
 Cuando bajen al piso inferior, Nezhoda estará llamado la atención para hacer un brindis. Más que un brindis será un discurso. Según se vayan moviendo por la pista de baile, la voz del general se ahogará y la punta un cuchillo sobresaldrá de su pecho y caerá al suelo muerto. Jocelyn cubierta de sangre y con el cuchillo gritará _Vive la France_ y saldrá corriendo esquivando.
 
-Mientras la gente se da cuenta de lo que pasa y reaccionan (recuerda que la mayoría está borracha), tienen unos 3 turnos para llegar a la puerta principal de la mansión. Después, algunos invitados, sobretodos nazis se les enfrentarán. Igual algún comando se pone a cantar la «marsellesa» a pleno pulmón. Una tirada buena de interpretar podría sacar el patriotismo de los invitados franceses y que empiecen a atacar a los nazis para dar tiempo a escapar a tus comandos. Sea como Irma Bormann les espera en la puerta y tratará de detenerlos, pueden derribarla o pueden esquivarla, pero deberán ser rápido. 
+Mientras la gente se da cuenta de lo que pasa y reaccionan (recuerda que la mayoría está borracha), tienen unos 3 turnos para llegar a la puerta principal de la mansión. Después, algunos invitados, sobretodo nazis, se les enfrentarán. Igual algún comando se pone a cantar la «marsellesa» a pleno pulmón. Una tirada buena de interpretar podría sacar el patriotismo de los invitados franceses y que empiecen a atacar a los nazis para dar tiempo a escapar a tus comandos. Sea como Irma Bormann les espera en la puerta y tratará de detenerlos, pueden derribarla o pueden esquivarla, pero deberán ser rápido. 
 
 Si en algún momento Jocelyn corre peligro, Ibrahim Adauy hará lo que sea para salvarla, incluso sacrificarse para que ella pueda escapar.
 
@@ -1893,7 +1893,7 @@ Si alguien se quedó en el coche como conductor, podrá tirar Notar para oír lo
 \saltopagina
 
 #### Escapando a la carrera
-La forma más rápida de escapar es coger el coche y salir pitando del ayuntamiento. Los guardias les seguirán algunos en moto y otros en coche a no ser que les hayan saboteado los vehículos. Si quieres puedes montar una persecución, donde tus comandos irán en un Citroën C4 o similar. Si han tenido la precaución de esconder armas en su coche podrán responder a los ataques de los soldados nazis.
+La forma más rápida de escapar es coger el coche y salir pitando del ayuntamiento. Los guardias les seguirán algunos en moto y otros en coche a no ser que les hayan saboteado los vehículos. Si quieres puedes montar una persecución, donde tus comandos irán en un Citroën C4 o similar. Si han tenido la precaución de esconder armas en su coche, podrán responder a los ataques de los soldados nazis.
 
 |VEHÍCULO|TAMAÑO|MANIOBRA.|VEL. MÁX.|DUREZA|TRIPULACIÓN|
 |--------|------|----|--|------|-----|
@@ -1905,7 +1905,7 @@ _¹ pueden ir dos personas más por fuera sobre los estribos, una por cada estri
 
 Imagínate la situación, tu mesa con sus coloridos trajes de disfraces cruzando a toda velocidad la ciudad en un elegante coche, mientras intercambian disparos con nazis en moto y coche.
 
-Mientras los soldados buscan un vehículo, pasará el tiempo suficiente para que haya dos cartas entre perseguidores y perseguidos. Si se les ocurre disparar a los fuegos artificiales (disparo apuntado de -4 a las mechas) tras salir de la plaza estos prenderán y la luz y el ruido dejarán aturdidos a sus perseguidores y obtendrán una tercera carta de separación. Deberán deshacerse de sus perseguidores antes de ir al piso franco. Si se separan, los soldados seguirán al grupo más grande.
+Mientras los soldados buscan un vehículo, pasará el tiempo suficiente para que haya dos cartas entre perseguidores y perseguidos. Si se les ocurre disparar a los fuegos artificiales (disparo apuntado de -4 a las mechas) tras salir de la plaza, estos prenderán y la luz y el ruido dejarán aturdidos a sus perseguidores y obtendrán una tercera carta de separación. Deberán deshacerse de sus perseguidores antes de ir al piso franco. Si se separan, los soldados seguirán al grupo más grande.
 
 En la persecución podrían hacer señales luminosas y recibir ayuda de los pteranodontes, pero la idea de este encuentro que lo hagan solos, pero eres libre de usar a sus saurios en esta parte.
 
@@ -1913,7 +1913,7 @@ Jocelyn se negará a hablar de lo que acaba de pasar y desaparecerá a la primer
 
 ## Sabotaje
 
-Con Nezhoda muerto el ejército necesita un nuevo mandamás y pone a Irma Bormann que estaba en La Havre como agente de las SS en la zona y segunda al mando de Nezhoda. Enseguida toma las riendas del gobierno local y empieza a ejecutar las técnicas de control típicas de las SS, el terror y el asesinato. No quiere acabar como Nezhoda y tiene órdenes de controlar con mano de hierro la zona, La Havre es fundamental dentro del cinturón defensivo de Normandía. 
+Con Nezhoda muerto, el ejército necesita un nuevo mandamás y pone a Irma Bormann que estaba en La Havre como agente de las SS en la zona y segunda al mando de Nezhoda. Enseguida toma las riendas del gobierno local y empieza a ejecutar las técnicas de control típicas de las SS, el terror y el asesinato. No quiere acabar como Nezhoda y tiene órdenes de controlar con mano de hierro la zona, La Havre es fundamental dentro del cinturón defensivo de Normandía. 
 
 \saltopagina
 
@@ -1942,7 +1942,7 @@ Desde el escondite de Jocelyn e Ibrahim pueden salir a extender el caos. Veamos 
 Cuando se hayan divertido lo suficiente, las fuerzas nazis caerán ante el avance de los aliados y recibirán el aviso por radio de que el «Mary Anning» les está esperando a unas millas de la costa. 
 
 ## Espiados (Pistas)
-Una vez de vuelta al «Mary Anning» podrán revisar todo el papeleo que han conseguido del mayor Nezhoda. Encontrarán con facilidad, una serie de carpetas con los perfiles psicológicos/hoja de servicios/curriculum de tus comandos. No dicen nada que no venga en su ficha de personaje como ventajas y desventajas excepto cosas como Secreto.
+Una vez de vuelta al «Mary Anning» podrán revisar todo el papeleo que han conseguido del mayor Nezhoda. Encontrarán, con facilidad, una serie de carpetas con los perfiles psicológicos/hoja de servicios/curriculum de tus comandos. No dicen nada que no venga en su ficha de personaje como ventajas y desventajas, excepto cosas como Secreto.
 
 \saltopagina
 
@@ -2247,7 +2247,7 @@ _A lo largo de la base de estos riscos rojizos, a cierta altura sobre el suelo, 
 
 ## Carrera al Mundo perdido
 ```
-Tus comandos están contrarreloj, tienen que llegar lo más rápido a la meseta de Maple white para intentar detener a las fuerzas de von Liebenfels. El problema es que ya no cuentan los recursos de la Fundación e IM parece que ya no tiene interés en ayudar tus comandos y sus saurios, ni en rescatar a los capturados por los nazis y tampoco de proteger el mundo perdido del expolio.
+Tus comandos están contrarreloj, tienen que llegar lo más rápido a la meseta de Maple White para intentar detener a las fuerzas de von Liebenfels. El problema es que ya no cuentan los recursos de la Fundación e IM parece que ya no tiene interés en ayudar tus comandos y sus saurios, ni en rescatar a los capturados por los nazis y tampoco de proteger el mundo perdido del expolio.
 ```
 
 xxx
@@ -2262,7 +2262,7 @@ Si reúnen o tienen el dinero suficiente, Branningan podrá preparar el viaje, p
 
 ## Misión de rescate
 ```
-Cuando el zepelín sobrevoló el Mundo Perdido descubrió el campamento de la Fundación y mando un grupo de asalto que tomo fácilmente el control de las instalaciones. Lo primero de tus comandos debería ser liberar a los prisioneros.
+Cuando el zepelín sobrevoló el Mundo Perdido, descubrió el campamento de la Fundación y mando un grupo de asalto que tomo fácilmente el control de las instalaciones. Lo primero de tus comandos debería ser liberar a los prisioneros.
 ```
 
 xxx
@@ -2278,13 +2278,13 @@ El general von Liebenfels considera que los sakala de la meseta emponzoñan los 
 
 xxx
 
-Los sakalas son la fuerza de combate más importante de la meseta y sin conseguir su ayuda la batalla está abocada al fracaso. Así pues es fundamental salvarlos de los nazis y conseguir que se unan a tus comandos.
+Los sakalas son la fuerza de combate más importante de la meseta y sin conseguir su ayuda la batalla está abocada al fracaso. Así pues, es fundamental salvarlos de los nazis y conseguir que se unan a tus comandos.
 
 \saltopagina
 
 ## Asociaciones peligrosas
 ```
-Los pitecántropos libres son pocos pero su apoyo pueden ser fundamental para expulsar a los nazis de la meseta. El problema es lo que pedirán ellos a cambio. 
+Los pitecántropos libres son pocos, pero su apoyo pueden ser fundamental para expulsar a los nazis de la meseta. El problema es lo que pedirán ellos a cambio. 
 ```
 
 Si tus comandos visitan la reserva de los pitecántropos, encontrarán una comunidad de unos 60 seres que han construido sus nidos/casas en los árboles alrededor de un claro del bosque. Los seres crueles y violentos que describían las historias de Lord Roxton no representa a este grupo, que parece que está empezando a descubrir la artesanía básica y empiezan a controlar el fuego. Tampoco parece que hayan vuelto a hacer sacrificios humanos y parecen bastante hospitalarios.
@@ -2309,7 +2309,7 @@ Los pitecántropos no son ni muchos ni muy fuertes, pero si están en su terreno
 
 Madas, es la matriarca del clan de pitecántropos de la meseta. A diferencia de sus predecesores, ha preferido usar la inteligencia y la diplomacia a la fuerza, reservando esta última solo para protegerse de los peligros que acechan entre el follaje del mundo perdido.
 
-Madas es más lista que la media y puede ser una buena negociante aun así tu pensamiento es muy lineal y no entiende ironías o sarcasmos y en caso de mentir son mentiras muy básicas. A pesar de todo, no podrán engañarla, si no le prometen las armas no llevará a su gente a la guerra.
+Madas es más lista que la media y puede ser una buena negociante, aun así tu pensamiento es muy lineal y no entiende ironías o sarcasmos y en caso de mentir son mentiras muy básicas. A pesar de todo, no podrán engañarla, si no le prometen las armas no llevará a su gente a la guerra.
 
 En la batalla Madas, como su gente, es brutal, pero nunca permitirá atacar y matar a enemigos que se hayan rendido. Quiere aprovechar la oportunidad de dejar claro que son peligrosos, pero solo si se les ataca. 
 
@@ -2325,7 +2325,7 @@ En la batalla Madas, como su gente, es brutal, pero nunca permitirá atacar y ma
   * **Buen trepador:** Paso 8 trepando. Los pitecántropos pasan gran parte de su vida en los árboles y su cuerpo está adaptado a ello. Añaden +2 a sus tiradas de Atletismo cuando trepan.
 * **Equipo:** Garrote endurecido (FUE+d6)
 
-**Sugerencia de interpretación:** Gruñe, chilla y haz ruidos raros. Gesticula sin mucho sentido y golpea la mesa. Si cree que puede ser divertido para todos lanza los ganchitos que tengáis por la mesa.
+**Sugerencia de interpretación:** Gruñe, chilla y haz ruidos raros. Gesticula sin mucho sentido y golpea la mesa. Si cree que puede ser divertido para todos, lanza los ganchitos que tengáis por la mesa.
 
 \saltopagina
 
@@ -2336,18 +2336,18 @@ La gran ventaja que tiene la gente de la Fundación en su lucha contra las tropa
 
 Veamos algunos ejemplos de uso interesante del terreno.
 
-* **Terreno pantanoso:** Pueden tratar de meter a las tropas nazis en terrenos pantanosos para que pierdan unidades, tanto de soldados como de vehículos. Si consiguen que la gran batalla sea en terreno pantanoso las tropas de tus comandos no tendrán tanto problema como la fuerzas nazis y sus vehículos blindados que se hundirán en el fango. Puedes quitar un token al lado nazi si esto sucede. Como lo hagan ya será cosa suya.
+* **Terreno pantanoso:** Pueden tratar de meter a las tropas nazis en terrenos pantanosos para que pierdan unidades, tanto de soldados como de vehículos. Si consiguen que la gran batalla sea en terreno pantanoso, las tropas de tus comandos no tendrán tanto problema como la fuerzas nazis y sus vehículos blindados que se hundirán en el fango. Puedes quitar un token al lado nazi si esto sucede. Como lo hagan ya será cosa suya.
 * **Estampida de dinosaurios:** Pueden tratar de provocar una estampida de dinosaurios herbívoros y lanzarlos contra la línea del frente nazi. Para crear la estampida deberán usar saurios carnívoros que primero reúnan y luego espanten a los herbívoros. Necesitarán un día de trabajo y podrán hacer 5 tiradas de Cabalgar por comando y saurio carnívoro. Si consiguen 5 tiradas exitosas (los avances cuentan como otro éxito) en un día, reunirán una buena manada que podrán lanzar en la batalla y les dará un token siguiendo las reglas de batalla. Esta estrategia no funcionará si quiere meter a las fuerzas nazis en terreno pantanoso. Los grandes saurios herbívoros evitarán entrar en el pantano y reducirán su carrera.
 * **Fumarolas:** La meseta es una zona volcánica activa y hay muchas fumarolas que emiten extraños líquidos y gases. Tus comandos podrían diseñar (Ciencias) y construir (Reparar) algún tipo de explosivo o fuego griego y usarlo en combate. Si ponen a algún equipo (sakalas, campamento, etc.) a trabajar dos días enteros pueden conseguir un token extra.
 * **Pteranodontes:** Usar los pteranodontes como fuerza aérea podría ser una buena idea si no fuera porque los únicos adiestrados para estas tareas son los de los comandos y no son suficientes para ser una fuerza a tomar en cuenta en la batalla.
 
-A parte de estas ideas tus comandos pueden tener todo tipo de ideas originales y bastante plausibles que pueden enriquecer la partida. Quien dice que no se les ocurra tratar de sorprender al enemigo moviéndose por los acantilados de la meseta hasta ponerse en su espalda y aparecer detrás suyo con la ventaja que eso puede suponer. Trata de ser generoso en benis con esas ideas. Piensa que directamente te están haciendo la partida ellos solos.
+A parte de estas ideas, tus comandos pueden tener todo tipo de ideas originales y bastante plausibles que pueden enriquecer la partida. Quien dice que no se les ocurra tratar de sorprender al enemigo moviéndose por los acantilados de la meseta hasta ponerse en su espalda y aparecer detrás suyo con la ventaja que eso puede suponer. Trata de ser generoso en benis con esas ideas. Piensa que directamente te están haciendo la partida ellos solos.
 
 \saltopagina
 
 ## Batalla del Mundo Perdido
 ```
-Solo un un milagro permitirá a tus comandos y sus salvajes aliados ganar la batalla final contra las fuerzas de von Liebenfels, pero si han de morir que sea a lo grande y matando nazis.
+Solo un milagro permitirá a tus comandos y sus salvajes aliados ganar la batalla final contra las fuerzas de von Liebenfels, pero si han de morir que sea a lo grande y matando nazis.
 ```
 
 El general von Liebenfels contará con 100 hombres y 4 carros (4 tokens) de combate cuando lleguen tus comandos y cada dos días recibirá 20 soldados más y un carro de combate (1 token extra) que el zepelín traerá del grueso de la expedición nazi que está llegando desde la costa.
@@ -2364,7 +2364,7 @@ xxx
 
 ## El zepelín
 ```
-El general von Liebenfels ha perdido la batalla, pero no esta todo perdido para los nazis. Su zeppelin huye con algunos tesoros que las fuerzas nazis han sacado del mundo perdido y puede que todavía puedan ganar el siguiente y definitivo asalto.
+El general von Liebenfels ha perdido la batalla, pero no está todo perdido para los nazis. Su zeppelin huye con algunos tesoros que las fuerzas nazis han sacado del mundo perdido y puede que todavía puedan ganar el siguiente y definitivo asalto.
 ```
 [![Foto zepelín nazi en el Amazonas](./assests/images/dirigible.jpg 'LZ-127 at Jiquiá landing field in Recife')](https://www.airships.net/blog/zeppelin-mast-recife-brazil-pernambuco/ 'LZ-127 at Jiquiá landing field in Recife')
 
@@ -2382,7 +2382,7 @@ La escena del zepelín puedes montarla de varias maneras y puedes ser muy divert
 
 **Persecución aérea:** La primera opción que se les ocurrirá a tus comandos es engancharse a un pteranodonte y salir volando. No es muy útil porque en cuanto el zepelín coja velocidad los dejará atrás en segundos. Puedes hacer que les disparen desde las ventanillas de la góndola con armas normales y ellos respondan.
 
-Pueden incluso, aterrizar en la parte superior del zepelín, pero en cuanto coja velocidad, el viento no debería dejarles moverse, tiradas de FUE para mantenerse agarrado y con avances podrán hacer cosas como moverse o descender por las cuerdas a la góndola (3 acciones de movimiento). Si fallan FUE se caerán.
+Pueden, incluso, aterrizar en la parte superior del zepelín, pero en cuanto coja velocidad, el viento no debería dejarles moverse, tiradas de FUE para mantenerse agarrado y con avances podrán hacer cosas como moverse o descender por las cuerdas a la góndola (3 acciones de movimiento). Si fallan FUE se caerán.
 
 **Maroma o escala:** Si deseas, el zepelín en su huida apresurada se ha dejado alguna escala o maroma sin recoger. Si corren y saltan (Atletismo) tal vez puedan alcanzarla e intentar subir escalando por ella.
 
@@ -2390,7 +2390,7 @@ Si consiguen acercarse a la góndola, debería aparecer un nazi que hará el sal
 
 **Persecución por tierra:** Pueden tratar de montar en algún saurio terrestre y perseguir al zepelín. Quizás sea la opción más estúpida, ya que en algún momento se les acabará la meseta.
 
-Si quieres puedes hacerles unas tiradas de Notar para dejar de mirar al cielo y que detecten el final de la meseta y no se caigan por sus acantilados. Si eso pasa siempre puedes hacer tiradas de Atletismo y acabar agarrados al borde del precipicio en un auténtico cliffhangers.
+Si quieres puedes hacerles unas tiradas de Notar para dejar de mirar al cielo y que detecten el final de la meseta y no se caigan por sus acantilados. Si eso pasa siempre puedes hacer tiradas de Atletismo y acabar agarrados al borde del precipicio en un auténtico cliffhanger.
 
 
 Como hemos dicho antes, la posibilidad de éxito es factible. Puede que tus comandos se lo monten muy bien y consigan entrar en el zepelín mientras huye y hacerse con su control o estrellarlo. Tal vez hayan creado una catapulta para la batalla y ahora con ella derriben al zepelín. Si se lo merecen no les quites su victoria en favor de la historia. Con unas modificaciones mínimas puedes convertir el último capítulo de la campaña en una aventura de un par de sesiones en que eviten que los nazis fabriquen una superarma.
@@ -3412,7 +3412,7 @@ Todo indica que alguien ha entrado en los terrenos de la fundación y ha robado 
 
 Si preguntan en el ferry, no ha venido nadie nuevo en los últimos días y todavía no ha salido el ferry de hoy. Ha habido mal mar estos días y no debería haber nadie de los pueblos costeros que se arriesgaría a cruzar a alguien a la isla en un bote de pescador.
 
-Por lo tanto el ladrón es alguien que ha llegado por sus propios medios. Si empiezan a rastrear la costa este de la isla que da a tierra firme encontrarán una pequeña barca escondida entre la vegetación de una playa.
+Por lo tanto, el ladrón es alguien que ha llegado por sus propios medios. Si empiezan a rastrear la costa este de la isla que da a tierra firme encontrarán una pequeña barca escondida entre la vegetación de una playa.
 
 Pueden intentar tenderle una trampa en la barca o buscarle siguiendo más o menos una línea entre la barca y la fundación.
 
@@ -3422,7 +3422,7 @@ Si esperan en la barca no llegará nunca. Si se ponen a buscarle, encontrarán s
 
 El huevo está en una mochila, cubierto de trapos para que no se rompa, pero sin fuente de calor, el feto de su interior debe haber muerto.
 
-Si registran el cadáver, solo encontrarán algunas libras y un papel con un nombre Sheridan y una dirección en Edimburgo. Es fácil deducir que es el lugar de entrega. Si alguien es escocés o vivió allí sabe que esa dirección es un mal barrio de la ciudad.
+Si registran el cadáver, solo encontrarán algunas libras y un papel con un nombre Sheridan y una dirección en Edimburgo. Es fácil deducir que es el lugar de entrega. Si alguien es escocés o vivió allí, sabe que esa dirección es un mal barrio de la ciudad.
 
 Cuando hablen con Lady Roxton lamentará la muerte de la cría del huevo y del ladrón. Si no lo plantean tus comandos, Lady Roxton planteará tirar del hilo y descubrir a la persona que contrato al ladrón para tratar de averiguar cuál era su objetivo y cómo supo de la existencia de los saurios.
 
@@ -3437,7 +3437,7 @@ Tras cruzar la puerta darán paso a una especie de estudio/loft horteramente dec
 
 Le cubren cuatro guardaespaldas desperdigados por toda la estancia. Todos armados y con las pistolas a la vista. Seguramente cerca tienen armas más grandes como escopetas escondidas.
 
-Sheridan se presentará como un empresario local y les preguntará quiénes son y por qué tienen el encargo de Matthew. Él mismo encargó el trabajo a Matthew y no entiende por qué no ha venido él. Tendrán que ser muy creativos para contestar, pero si no le convencen Sheridan hará una seña y sus guardaespaldas sacarán las armas y empezará el combate. Si le convencen les pedirá el huevo y les lanzará un sobre lleno de billetes.
+Sheridan se presentará como un empresario local y les preguntará quiénes son y por qué tienen el encargo de Matthew. Él mismo encargó el trabajo a Matthew y no entiende por qué no ha venido él. Tendrán que ser muy creativos para contestar, pero si no le convencen, Sheridan hará una seña y sus guardaespaldas sacarán las armas y empezará el combate. Si le convencen les pedirá el huevo y les lanzará un sobre lleno de billetes.
 
 Si intentan seguir con la conversación y preguntarle más cosas, les dirá que no le gustan tantas preguntas y les insinuara «amablemente» que se vayan. En ese momento puede irse sin sacar ninguna información o quedarse y que empiece una pelea.
 
@@ -3446,7 +3446,7 @@ Si se monta la pelea, los guardaespaldas son fáciles, pero Sheridan es un mostr
 
 \saltopagina
 
-Cuando creas conveniente en el combate el huevo eclosionará y saldrá la cría de pteranodonte. Esto debería cambiar el sentido y objetivos del combate. Hasta ahora el huevo no importaba y ahora debería tratar de recuperarla sin que la débil cría reciba daño.
+Cuando creas conveniente en el combate, el huevo eclosionará y saldrá la cría de pteranodonte. Esto debería cambiar el sentido y objetivos del combate. Hasta ahora el huevo no importaba y ahora debería tratar de recuperarla sin que la débil cría reciba daño.
 
 Si quieres meterle dramatismo, Sheridan podría usar la cría como rehén y el combate se parará para convertirse en una situación con rehenes.
 
@@ -3457,7 +3457,7 @@ En pocos minutos vendrá la policía, así que tus comandos deberán decidir si 
 Si tratan de poner el anuncio, nadie acudirá. Han hecho mucho ruido y el misterioso encapuchado sabrá que es una trampa. La realidad es que el propio general Linton es el encapuchado. Buscaba otra forma más de mover el tema de los saurios, convencido que toda esta historia llegaría a oídos de espías nazis en suelo escocés.
 
 #### Sheridan, ex-boxeador y jefe criminal &#x2638;
-Este ex-boxeador metido a jefe mafioso controla una parte importante de las calles de Edimburgo y pocos negocios turbios quedan sin pasar por sus manos y sin llevarse tajada. Es bastante inteligente aunque a veces tiene flashbacks de su época de boxeador y no sabe donde está y qué hace. 
+Este ex-boxeador metido a jefe mafioso controla una parte importante de las calles de Edimburgo y pocos negocios turbios quedan sin pasar por sus manos y sin llevarse tajada. Es bastante inteligente, aunque a veces tiene flashbacks de su época de boxeador y no sabe donde está y qué hace. 
 
 * **Atributos:** Agilidad d8, Astucia d8, Espíritu d8, Fuerza d10, Vigor d10
 * **Habilidades:** Atletismo d8, Disparar d10, Idioma inglés d8, Intimidar d8, Latrocinio d8, Notar d10, Pelear d10, Reparar d6, Sigilo d6
@@ -3469,7 +3469,7 @@ Este ex-boxeador metido a jefe mafioso controla una parte importante de las call
 **Sugerencia de interpretación:** Eres un jefe criminal y tienes que hacerte respetar, puedes ser divertido e incluso soltar chascarrillos a tus guardaespaldas, pero cuando el negocio sale en la conversación tu tono de voz cambia, es mucho más serio y duro.
 
 ### Devolviendo la cría
-Milagrosamente la cría ha sobrevivido a toda esta aventura y es hora de devolvérsela a sus padres. Nadie cree que sus padres lo acepten, pero no hay nada que perder.
+Milagrosamente, la cría ha sobrevivido a toda esta aventura y es hora de devolvérsela a sus padres. Nadie cree que sus padres lo acepten, pero no hay nada que perder.
 
 \saltopagina
 
@@ -3486,11 +3486,11 @@ Este relato salvaje no es un relato normal, es más bien una serie de ideas para
 
 * Tus comandos deben volver a su vida normal donde no hay espacio para reptiles gigantes, es por ello que debería haber una escena de despedida. La despedida debería ser en la meseta de Maple White volviendo el saurio a la naturaleza salvaje.
 * Otra opción, si el trasfondo del comando lo permite, es que vaya a trabajar la meseta de Maple White, de esa forma no habría despedida y podrían seguir juntos.
-* Los saurios acuáticos o voladores son de menor tamaño y no entran en contacto con los seres humanos de forma normal. Podrían vivir sus propias aventuras, quizás como pescadores, submarinistas, pilotos, etc. Deberían irse a un lugar aislado lejos de miradas indiscretas.
+* Los saurios acuáticos o voladores son de menor tamaño y no entran en contacto con los seres humanos de forma normal. Podrían vivir sus propias aventuras, quizás como pescadores, submarinistas, pilotos, etc. Deberían irse a un lugar aislado, lejos de miradas indiscretas.
 * La Fundación no va a permitir tu comando y su saurio de gran tamaño como el alosaurio o el estegosaurio anden sin control por vete tú a saber donde, el mundo todavía no está preparado para saber que los dinosaurios existen.
 * Quizás es divertido que los saurios tengan crías y tu comando se haga cargo de una o varias de ellas. 
 
-Algo que debes pensar es cuando va a ocurrir está despedida antes o después del fin de la guerra. Cada opción tiene sus implicaciones si quieres seguir jugando con el mismo PJ. Si la guerra está activa todavía puedes hacer aventuras de guerra en las que luchan contra nazis. Si la guerra ha acabado las tramas no deberían contener temas militares o no ser su punto central. No tendrán sentido las historias donde tengan que saltar un sitio de una ciudad o que deban escapar de un campo de prisioneros.
+Algo que debes pensar es cuando va a ocurrir está despedida antes o después del fin de la guerra. Cada opción tiene sus implicaciones si quieres seguir jugando con el mismo PJ. Si la guerra está activa, todavía puedes hacer aventuras de guerra en las que luchan contra nazis. Si la guerra ha acabado, las tramas no deberían contener temas militares o no ser su punto central. No tendrán sentido las historias donde tengan que saltar un sitio de una ciudad o que deban escapar de un campo de prisioneros.
 
 \saltopagina
 
@@ -3499,9 +3499,9 @@ Es muy recomendables intercalar las misiones principales donde la trama avanza c
 
 No hace falta que las leas todas, pero tienen un pequeño texto gancho que te dará una idea de que tratan. Así podrás ver si se ajustan a tu estilo de partida. De todas formas son pequeñas y se leen en un pispas.
 
-Personalmente creo que es muy recomendables jugar «Noche de poker», «Cena de etiqueta» y «Titanes de tiempos pretéritos» porque creo que son relatos muy divertidos y diferentes al resto de la trama.
+Personalmente, creo que es muy recomendables jugar «Noche de poker», «Cena de etiqueta» y «Titanes de tiempos pretéritos» porque creo que son relatos muy divertidos y diferentes al resto de la trama.
 
-«Arte robado» y «El prototipo» no son aventuras al uso, sino una forma de complicar y liar las misiones generales teniendo que hacer un esfuerzo extra como sería probar algún invento estúpido (El prototipo) o rescatando de la oficina de von Liebenfels un cuadro impresionista (Arte robado).
+«Arte robado» y «El prototipo» no son aventuras al uso, sino una forma de complicar y liar las misiones generales, teniendo que hacer un esfuerzo extra como sería probar algún invento estúpido (El prototipo) o rescatando de la oficina de von Liebenfels un cuadro impresionista (Arte robado).
 
 «Campo minado» y «Operación Columba» puedes usarlos como un «encuentro aleatorio» dentro de algún viaje. 
 
@@ -3519,7 +3519,7 @@ Alguien de tus comandos, incluso todos, han caído prisioneros de los nazis y de
 \saltopagina
 
 ### La epidemia
-Desde el campamento llegan malas noticias una enfermedad está afectando a todos los saurios de la meseta. Quizás la cura exija buscar gente y productos por todo el mundo, incluso igual en el propio Berlín. 
+Desde el campamento llegan malas noticias, una enfermedad está afectando a todos los saurios de la meseta. Quizás la cura exija buscar gente y productos por todo el mundo, incluso igual en el propio Berlín. 
 
 ### Las aventuras del profesor Challenger
 El profesor Challenger aparece en otras dos novelas de sir Arthur Conan Doyle. La zona envenenada, donde la tierra atraviesa una zona de éter especial envenenado y todo el mundo en la tierra sucumbe y cae «muerto». En El país de la bruma, Challenger se enfrenta con temas de espiritismo.
