@@ -2445,18 +2445,67 @@ Cuando consigan restablecer las comunicaciones, arreglando la radio del campamen
 
 Necesita saber qué ha pasado y que se ha llevado el zepelín de la meseta de Maple White. Tus comandos saben que tienen algunos ejemplares jóvenes de saurios y que descubrieron los diamantes del cieno azul. Pueden recordar las órdenes de entregar los diamantes de prisioneros de guerra y presos de campos de concentración al Doctor Eckart.
 
-En este momento pueden contarle todo a Linton que les hablará del Doctor Eckart y sus locuras o pueden callárselo porque el general no es de fiar. De hecho, como ya saben, lleva usando a tus comandos desde el día 1 y todo lo que han hecho durante meses era una farsa. 
+En este momento pueden contarle todo a Linton que les hablará del Doctor Eckart y sus locuras, o pueden callárselo porque el general no es de fiar. De hecho, como ya saben, lleva usando a tus comandos desde el día 1 y todo lo que han hecho durante meses era una farsa.
 
-Si se vuelven confiar en Linton, se sincerará con tus comandos y confesará todo el plan de distraer a Hitler y sus fuerzas buscando seres fantásticos por toda Europa. Y les dice que tiene una última misión para ellos, truncar los planes del Doctor Eckart. Cuando crucen el Atlántico volverán a hablar.
+Si vuelven confiar en Linton, se sincerará con tus comandos y confesará todo el plan de distraer a Hitler y sus fuerzas buscando seres fantásticos por toda Europa. Y les dice que tiene una última misión para ellos, truncar los planes del Doctor Eckart. Cuando crucen el Atlántico volverán a hablar.
 
-Si prefieren apagar la radio, Horace les contará todo lo que sabe del Doctor Eckart, de sus locos inventos y de su fortaleza en la Selva Negra. De hecho, los collares de control de los saurios es algo que Eckart inventaría. 
+Si prefieren apagar la radio, Horace les contará todo lo que sabe del Doctor Eckart, de sus locos inventos y de su fortaleza en la Selva Negra. De hecho, los collares de control de los saurios son algo que Eckart inventaría.
 
 Lo que van a averiguar de Linton o de Horace:
 
-* Eckart es un loco, pero muy listo si necesitaba diamantes es porque tenía algún tipo de arma de destrucción masiva que podría poner la balanza del lado de los nazis.
+* Eckart es un loco, pero muy listo. Si necesitaba diamantes es porque tenía algún tipo de arma de destrucción masiva que podría poner la balanza del lado de los nazis.
 * Eckart tiene saurios y seguramente experimentara con ellos sin importarle su salud y su sufrimiento. Si tiene que hacer una vivisección, la hará.
 
-Cuando lleguen a costas Europeas, Linton volverá a dar la carga. xxx
+\saltopagina
+
+[![Detalle de la descarga trasera de un Junkers 290](./assests/images/junkers.jpg 'Dominio público')](https://commons.wikimedia.org/wiki/File:Ju290-3s.jpg 'Dominio público')
+
+Cuando lleguen a costas Europeas, Linton volverá a la carga, si le rechazaron en Maple White, e incluso podría interceptarles en algún navío menor de la marina inglesa.
+
+Sea como sea, si quieren llegar al corazón de Alemania le necesitan. Así que tendrán que negociar con Linton las condiciones de la misión. 
+
+Linton prometerá no volver a mentirles y es un hombre de palabra. No tiene muy claro que tiene entre manos Eckart, pero no puede arriesgarse, así que apoyará, si ellos le dejan, a tus comandos.
+
+Puede conseguirles un avión y soltarlos con sus saurios sobre la Selva Negra. No hay trucos. No los va a usar como distracción, ni nada parecido.
+
+Pueden negociar algunas cosas extras con el general. 
+
+* Acabar con el programa de comandos y saurios y devolverlos a la meseta de Maple White.
+* Destruir toda la información sobre el proyecto para que durante por lo menos unas décadas más la meseta esté tranquila.
+* Algún tipo de licenciamiento e incluso algún tipo de paga vitalicia.
+* Incluso podría conseguir algún tipo de preacuerdo de que el gobierno inglés restaure la Fundación Roxton a su situación antes de la guerra.
+
+Sea como sea, deben por lo menos aceptar el avión del general para llegar al Castillo de Hohenzollern. 
+
+El grupo de ataque puede ser formado por tus comandos y quien necesiten. Cualquier aliado estará deseoso de participar. Pero tampoco deberían ser muchos. Déjales discutir quién les acompañará y haz que Horace responda con generalidades a preguntas sobre la misión. 
+ 
+### Hacia el corazón de Alemania
+ 
+Una vez llegado a un acuerdo, habrá que preparar la misión de infiltración en la Selva Negra. 
+ 
+Deberán ir en el Mary Anning hasta Sicilia, que acaba de ser liberada y allí les espera un avión de transporte (un viejo Junkers capturado a los nazis con descarga trasera)en un pequeño aeródromo de Siracusa que hace años que no se usa.
+
+\saltopagina
+
+El avión viene con un piloto. Erin Cain, un viejo amigo de Linton que está retirado (usa el oficial aliado y ponle Pilotar d10). Ya sabe de qué va la misión y no va a decir nada de lo que vean.
+
+Si alguno de tus comandos es piloto, puedes dejarle llevar el avión solo o con Erin. Pero en el primer caso (porque no se fían de la gente de Linton) tendrá que saltar del avión con sus compañeros y dejar que se estrelle el avión de carga.
+
+Linton puede asegurar durante unas 12 horas la ruta que seguirá el avión, así que no deberían tener problemas. Sabe que la Luftwaffe estará ocupada en otros frentes y la ruta del Junkers no debería tener problemas. Además, el avión alemán no debería levantar muchas sospechas.
+
+### Caída libre
+
+[![Primer plano de paracaidistas](./assests/images/paracaidistas.jpg 'U.S. Army - https://www.archives.gov/research/military/ww2/photos/images/ww2-109.jpg')](https://en.wikipedia.org/wiki/Airborne_forces#/media/File:Waves_of_paratroops_land_in_Holland.jpg 'U.S. Army - https://www.archives.gov/research/military/ww2/photos/images/ww2-109.jpg')
+
+No pueden aterrizar en ningún sitio cercano al castillo de Hohenzollern, en minutos estarían rodeados de enemigos. Por ello deberán lanzarse en paracaídas, tanto comandos como dinosaurios. Eso supone que solo podrán contar con sus compañeros saurios. Solo estos saurios serían capaces de viajar sin problemas en avión y luego saltar al vacío. 
+ 
+El viaje es un buen momento, para que tus comandos hablen e interpreten un poco. El final se acerca y sería interesante saber qué piensan. Si no se anima nadie, algún aliado puede empezar a hablar de lo que hará cuando termine la guerra. 
+
+Cuando lleguen al punto de salto será de noche. La luz roja se encenderá y deberán saltar. Los comandos llevan paracaídas normales y los saurios unos de carga. Ambos estarán en automático, es decir, el paracaídas se abre cuando saltan. Los comandos podrán saltar sin problemas a no ser que tengan algún tipo de fobia, los que tengan compañeros saurios aéreos no tendrán el mínimo problema. Para que **los compañeros saurios salten, estos deberán pasar una tirada de Espíritu o gastar un beni**. Si se quieren chulear, puedes dejarles tirar Espíritu a los comandos, cuantos más avances más impresionante será su salto.
+
+El aterrizaje será duro y puede hacer hasta 3d6 de daño. Exigirá una tirada Atletismo, el éxito y cada avance quitará un dado de daño. Esto va tanto para comandos como saurios. Los pteranodontes no tendrán problemas en el aterrizaje.   
+
+Si hay saurios aéreos y quieres un poco de emoción, puedes hacer que falle el paracaídas de algún comando al azar y que el saurio aéreo y su comando deban salvarlo. El pteranodonte deberá hacer tiradas para atrapar al comando en caída libre y luego entregarlo a otro compañero para que baje con su paracaídas.
 
 \saltopagina
 
