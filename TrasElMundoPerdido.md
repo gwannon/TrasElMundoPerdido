@@ -2250,7 +2250,7 @@ _A lo largo de la base de estos riscos rojizos, a cierta altura sobre el suelo, 
 Tus comandos están contrarreloj, tienen que llegar lo más rápido a la meseta de Maple White para intentar detener a las fuerzas de von Liebenfels. El problema es que ya no cuentan los recursos de la Fundación e IM parece que ya no tiene interés en ayudar tus comandos y sus saurios, ni en rescatar a los capturados por los nazis y tampoco de proteger el mundo perdido del expolio.
 ```
 
-Como en misiones anteriores el viaje no debería ser importante, pero esta vez es importante para dar contexto de la misión. Además, su falta de recursos para el viaje es toda una misión en si mismo.
+Como en misiones anteriores el viaje no debería ser importante, pero esta vez es importante para dar contexto de la misión. Además, su falta de recursos para el viaje es toda una misión en sí misma.
 
 ### Preparativos
 
@@ -2270,13 +2270,17 @@ Desde Venezuela, la ruta terrestre es más complicada que la original de la expe
 
 \saltopagina
 
-El zepelín está haciendo viajes entre la costa y la meseta transportando tropas y tanques. Esto es posible a su capacidad de aterrizar y despegar en vertical y a la gran capacidad de carga de su gondola.
+El zepelín está haciendo viajes entre la costa y la meseta transportando tropas y tanques. Esto es posible a su capacidad de aterrizar y despegar en vertical y a la gran capacidad de carga de su góndola.
 
 Solo pasarán 10 días desde el ataque a la isla Skye y que los nazis tomen tierra en la meseta de Maple White. Hitler a dado carta blanca a von Liebenfels, tiene todo lo que necesite, pero debe conseguirle un saurio con el que desfilar el día de la victoria por Londres.
 
 #### Tus comandos
 
-xxx
+La ruta tradicional de la expedición Challenger es la ruta que deberían seguir tus comandos y es la que la Fundación Roxton tiene preparada, con, por ejemplo, almacenes solitarios en Manaos donde ocultar los saurios de gran tamaño o sus propias barcazas para subir por el Amazonas y el afluente del que lleva la meseta Maple White.
+
+Su viaje es mucho más lento llevándoles, unas dos semanas entre cruzar el Atlántico y remontar el Amazonas y su afluente, el Toramba.
+
+Cuando lleguen, verán el zepelín de von Liebenfels triunfante sobre la meseta, dejándoles claro que no son los primeros en llegar. A pesar de lo que se pudiera pensar, los nazis no se han preocupado del ascensor que montó la Fundación. El general von Liebenfels, en su prepotencia, no considera probable que nadie venga a la meseta a luchar contra él y por ello no lo ha destruido. Además es una forma de salida que puede usar si falla su dirigible. Aun así, ha puesto vigilancia, unos 5 soldados que no deberían ser un problema, pero que si desaparecen dejarán patente que ha entrado alguien de fuera.  
 
 ## Misión de rescate
 ```
