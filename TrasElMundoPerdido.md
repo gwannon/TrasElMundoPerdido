@@ -2358,10 +2358,10 @@ La gran ventaja que tiene la gente de la Fundación en su lucha contra las tropa
 
 Veamos algunos ejemplos de uso interesante del terreno.
 
-* **Terreno pantanoso:** Pueden tratar de meter a las tropas nazis en terrenos pantanosos para que pierdan unidades, tanto de soldados como de vehículos. Si consiguen que la gran batalla sea en terreno pantanoso, las tropas de tus comandos no tendrán tanto problema como la fuerzas nazis y sus vehículos blindados que se hundirán en el fango. Esto no da token pero debería dar ventajas. Como lo hagan ya será cosa suya.
+* **Terreno pantanoso:** Pueden tratar de meter a las tropas nazis en terrenos pantanosos para que pierdan unidades, tanto de soldados como de vehículos. Si consiguen que la gran batalla sea en terreno pantanoso, las tropas de tus comandos no tendrán tanto problema como la fuerzas nazis y sus vehículos blindados que se hundirán en el fango. Esto no da token, pero debería dar ventajas. Como lo hagan ya será cosa suya.
 * **Estampida de dinosaurios:** Pueden tratar de provocar una estampida de dinosaurios herbívoros y lanzarlos contra la línea del frente nazi. Para crear la estampida deberán usar saurios carnívoros que primero reúnan y luego espanten a los herbívoros. Necesitarán un día de trabajo y podrán hacer 5 tiradas de Cabalgar por comando y saurio carnívoro. Si consiguen 5 tiradas exitosas (los avances cuentan como otro éxito) en un día, reunirán una buena manada que podrán lanzar en la batalla y les dará un token extra. Esta estrategia no funcionará si quiere meter a las fuerzas nazis en terreno pantanoso. Los grandes saurios herbívoros evitarán entrar en el pantano y reducirán su carrera.
 * **Fumarolas:** La meseta es una zona volcánica activa y hay muchas fumarolas que emiten extraños líquidos y gases. Tus comandos podrían diseñar (Ciencias) y construir (Reparar) algún tipo de explosivo o fuego griego y usarlo en combate. Si ponen a algún equipo (sakalas, campamento, etc.) a trabajar dos días enteros pueden conseguir un token extra.
-* **Pteranodontes:** Usar los pteranodontes como fuerza aérea podría ser una buena idea si no fuera porque los únicos adiestrados para estas tareas son los de los comandos y no son suficientes para ser una fuerza a tomar en cuenta en la batalla. Aun asi igual tienen alguna idea loca como lanzar carne podrida a sus enemigos para hacer que los pteranodontes ataquen en campamento nazi. 
+* **Pteranodontes:** Usar los pteranodontes como fuerza aérea podría ser una buena idea si no fuera porque los únicos adiestrados para estas tareas son los de los comandos y no son suficientes para ser una fuerza a tomar en cuenta en la batalla. Aun así, igual tienen alguna idea loca como lanzar carne podrida a sus enemigos para hacer que los pteranodontes ataquen en campamento nazi. 
 
 A parte de estas ideas, tus comandos pueden tener todo tipo de ideas originales y bastante plausibles que pueden enriquecer la partida. Quien dice que no se les ocurra tratar de sorprender al enemigo moviéndose por los acantilados de la meseta hasta ponerse en su espalda y aparecer detrás suyo con la ventaja que eso puede suponer. Trata de ser generoso en benis con esas ideas. Piensa que directamente te están haciendo la partida ellos solos.
 
@@ -2378,19 +2378,21 @@ La única forma de subir tropas a la meseta es mediante el zepelín, así que es
 
 Tus comandos sabrán todo esto por la gente del campamento que ha estado observando las idas y venidas del zepelín y los soldados y vehículos que han traído, mientras eran prisioneros.
 
-Tus comandos deberán calcular cuanto les llevará reclutar a cada grupo, tender trampas o preparar estrategias y decidir si siguen con esos trabajos o se lanzan a la batalla, porque cada dos días su enemigo se hace más grandes y poderoso. Han de tener en cuenta que el comando ya cuenta como un token frente a los 5 con los que empiezan las nazis.
+Tus comandos deberán calcular cuánto les llevará reclutar a cada grupo, tender trampas o preparar estrategias y decidir si siguen con esos trabajos o se lanzan a la batalla, porque cada dos días su enemigo se hace más grandes y poderoso. Han de tener en cuenta que el comando ya cuenta como un token frente a los 5 con los que empiezan las nazis.
 
 ### Declarando la guerra
 
-Cuando tus comandos lo crean adecuado deberán reunir sus fuerzas y lanzarse contra las fuerzas nazis. Déjales que lo monten a su gusto desde un mensajero montado en un estegosaurio que entregará un mensaje a von Liebenfels, que se presenten frente al campamento nazi todos juntos viniendo cada grupo de una dirección distinta.
+Cuando tus comandos lo crean adecuado, deberán reunir sus fuerzas y lanzarse contra las fuerzas nazis. Déjales que lo monten a su gusto desde un mensajero montado en un estegosaurio que entregará un mensaje a von Liebenfels, que se presenten frente al campamento nazi todos juntos viniendo cada grupo de una dirección distinta.
 
-Juega con la épica y deja a tus comandos hacer alguna escena emocionante como chocar las armas, dar una arenga o simplemente hacerle un calvo al enemigo. Incluso podrías dar algún positivo a las tiradas de Tácticas de la primera ronda de combate.
+**Cómo lo dirigiría yo:** Juega con la épica y deja a tus comandos hacer alguna escena emocionante como chocar las armas, dar una arenga o simplemente hacerle un calvo al enemigo. Incluso podrías dar algún positivo a las tiradas de Tácticas de la primera ronda de combate.
 
 En ese momento debes contar los tokens de cada grupo y eso te dirá las fuerzas de cada grupo y podrás asignar los 10 marcadores de fuerza a la facción más poderosa y los marcadores proporcionales a la otra facción.
 
-El personaje con mayor Tácticas debería liderar el bando de tus comandos, mientras que von Liebenfels con su d8 en Tácticas será el comandante de las fuerzas nazis. Si tus comandos no son muy de estrategia, Horace Chambers es un pequeño genio militar con otro d8. 
+El personaje con mayor Tácticas debería liderar el bando de tus comandos, mientras que von Liebenfels con su d8 en Tácticas será el comandante de las fuerzas nazis. 
 
 \saltopagina
+
+Si tus comandos no son muy de estrategia, Horace Chambers es un pequeño genio militar con otro d8. 
 
 Tus comandos pueden actuar durante los turnos de batalla y sus aliados deberían apoyarles, pero no dejes que se lleven la gloría. Solo debería actuar si tus comandos fallan y la batalla se pone muy complicada.
 
@@ -2398,7 +2400,7 @@ Von Liebenfels cuenta también con sus paladines para que actúen durante la bat
 
 ### Batalla perdida
 
-Si tus comandos fallan en la batalla, puedes continuar la aventura de forma que sean capturados y llevados al castillo de Hohenzollern donde serán encerrados y torturados. Sus saurios deberían ser capturados y entrenados para obedecer a los nazis. Puede ser interesante la fuga del castillo y que traten de liberar a tus saurios de sus collares de control. Una vez liberados de sus captores, podrían seguir la misión tratando de frustar los planes del Doctor Eckart.
+Si tus comandos fallan en la batalla, puedes continuar la aventura de forma que sean capturados y llevados al castillo de Hohenzollern donde serán encerrados y torturados. Sus saurios deberían ser capturados y entrenados para obedecer a los nazis. Puede ser interesante la fuga del castillo y que traten de liberar a tus saurios de sus collares de control. Una vez liberados de sus captores, podrían seguir la misión tratando de frustrar los planes del Doctor Eckart.
 
 ## El zepelín
 ```
