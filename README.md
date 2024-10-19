@@ -7,16 +7,17 @@
 
 # Changelog
 
-## Versión 0.9.2 En desarrollo
+## Versión 0.9.3 En desarrollo
 * Parte 5: Normandía (1)
   * Sabotaje
-* Parte 8: Regreso al Mundo Perdido (3)
+* Parte 8: Regreso al Mundo Perdido (2)
   * Misión de rescate
   * Evitando un genocidio
-  * Batalla del Mundo Perdido
 
+## Versión 0.9.2 19/10/2024
 * Corrección de textos "Parte 3: Islas Orcadas", "Parte 4: Noruega", "Parte 5: Normandía", "Parte 6: El frente ruso", "Parte 7: Regreso a casa", "Parte 8: Regreso al Mundo Perdido", "Parte 9: La Selva Negra", "Relatos salvajes", "Aliados, antagonistas y dinosaurios" y "Epílogo"
 * Terminada la parte de "Carrera al Mundo perdido" de "Parte 8: Regreso al Mundo Perdido"
+* Terminada la parte de "Batalla del Mundo Perdido" de "Parte 8: Regreso al Mundo Perdido"
 * Terminada la parte de "Defensas interiores" de "Parte 9: La Selva Negra"
 * Terminada la parte de "La IM vuelve y viaje a la selva Negra" de "Parte 9: La Selva Negra"
 

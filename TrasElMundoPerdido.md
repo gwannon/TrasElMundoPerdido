@@ -2250,7 +2250,7 @@ _A lo largo de la base de estos riscos rojizos, a cierta altura sobre el suelo, 
 Tus comandos están contrarreloj, tienen que llegar lo más rápido a la meseta de Maple White para intentar detener a las fuerzas de von Liebenfels. El problema es que ya no cuentan los recursos de la Fundación e IM parece que ya no tiene interés en ayudar tus comandos y sus saurios, ni en rescatar a los capturados por los nazis y tampoco de proteger el mundo perdido del expolio.
 ```
 
-Como en misiones anteriores el viaje no debería ser importante, pero esta vez es importante para dar contexto de la misión. Además, su falta de recursos para el viaje es toda una misión en sí misma.
+Como en misiones anteriores, el viaje no debería ser importante, pero esta vez es importante para dar contexto de la misión. Además, su falta de recursos para el viaje es toda una misión en sí misma.
 
 ### Preparativos
 
@@ -2264,7 +2264,7 @@ Veamos como será el viaje de las fuerzas nazis de von Liebenfels y de tus coman
 
 #### Los nazis
 
-El general von Liebenfels, tras atacar la isla Skye, partió con sus fuerzas hacía Venezuela. Su convoy está formado por su zepelín y dos acorazados. En mitad del Atlántico se les unirá un barco de transporte con equipamiento vario y que usarán para llevarse los saurios que consigan en el Mundo perdido.
+El general von Liebenfels, tras atacar la isla Skye, partió con sus fuerzas hacia Venezuela. Su convoy está formado por su zepelín y dos acorazados. En mitad del Atlántico se les unirá un barco de transporte con equipamiento vario y que usarán para llevarse los saurios que consigan en el Mundo perdido.
 
 Desde Venezuela, la ruta terrestre es más complicada que la original de la expedición Challenger, pero por aire, usando el zepelín, es mucho más corta y segura.
 
@@ -2272,15 +2272,15 @@ Desde Venezuela, la ruta terrestre es más complicada que la original de la expe
 
 El zepelín está haciendo viajes entre la costa y la meseta transportando tropas y tanques. Esto es posible a su capacidad de aterrizar y despegar en vertical y a la gran capacidad de carga de su góndola.
 
-Solo pasarán 10 días desde el ataque a la isla Skye y que los nazis tomen tierra en la meseta de Maple White. Hitler a dado carta blanca a von Liebenfels, tiene todo lo que necesite, pero debe conseguirle un saurio con el que desfilar el día de la victoria por Londres.
+Solo pasarán 10 días desde el ataque a la isla Skye y que los nazis tomen tierra en la meseta de Maple White. Hitler ha dado carta blanca a von Liebenfels, tiene todo lo que necesite, pero debe conseguirle un saurio con el que desfilar el día de la victoria por Londres.
 
 #### Tus comandos
 
 La ruta tradicional de la expedición Challenger es la ruta que deberían seguir tus comandos y es la que la Fundación Roxton tiene preparada, con, por ejemplo, almacenes solitarios en Manaos donde ocultar los saurios de gran tamaño o sus propias barcazas para subir por el Amazonas y el afluente del que lleva la meseta Maple White.
 
-Su viaje es mucho más lento llevándoles, unas dos semanas entre cruzar el Atlántico y remontar el Amazonas y su afluente, el Toramba.
+Su viaje es mucho más lento, llevándoles unas dos semanas entre cruzar el Atlántico y remontar el Amazonas y su afluente, el Toramba.
 
-Cuando lleguen, verán el zepelín de von Liebenfels triunfante sobre la meseta, dejándoles claro que no son los primeros en llegar. A pesar de lo que se pudiera pensar, los nazis no se han preocupado del ascensor que montó la Fundación. El general von Liebenfels, en su prepotencia, no considera probable que nadie venga a la meseta a luchar contra él y por ello no lo ha destruido. Además es una forma de salida que puede usar si falla su dirigible. Aun así, ha puesto vigilancia, unos 5 soldados que no deberían ser un problema, pero que si desaparecen dejarán patente que ha entrado alguien de fuera.  
+Cuando lleguen, verán el zepelín de von Liebenfels triunfante sobre la meseta, dejándoles claro que no son los primeros en llegar. A pesar de lo que se pudiera pensar, los nazis no se han preocupado del ascensor que montó la Fundación. El general von Liebenfels, en su prepotencia, no considera probable que nadie venga a la meseta a luchar contra él y por ello no lo ha destruido. Además, es una forma de salida que puede usar si falla su dirigible. Aun así, ha puesto vigilancia, unos 5 soldados que no deberían ser un problema, pero que si desaparecen dejarán patente que ha entrado alguien de fuera.  
 
 ## Misión de rescate
 ```
@@ -2351,17 +2351,17 @@ En la batalla Madas, como su gente, es brutal, pero nunca permitirá atacar y ma
 
 \saltopagina
 
-## Aprovechando el terreno
+## Aprovechando el terreno y otros trucos
 ```
-La gran ventaja que tiene la gente de la Fundación en su lucha contra las tropas nazis es que conocen el terreno. Saben por donde moverse y por donde no. Y pueden intentar montones de tretas que les darían ventaja en la batalla. 
+La gran ventaja que tiene la gente de la Fundación en su lucha contra las tropas nazis es que conocen el terreno. Saben po en las tiradas de Tácticas durante el combater donde moverse y por donde no. Y pueden intentar montones de tretas que les darían ventaja en la batalla. 
 ```
 
 Veamos algunos ejemplos de uso interesante del terreno.
 
-* **Terreno pantanoso:** Pueden tratar de meter a las tropas nazis en terrenos pantanosos para que pierdan unidades, tanto de soldados como de vehículos. Si consiguen que la gran batalla sea en terreno pantanoso, las tropas de tus comandos no tendrán tanto problema como la fuerzas nazis y sus vehículos blindados que se hundirán en el fango. Puedes quitar un token al lado nazi si esto sucede. Como lo hagan ya será cosa suya.
-* **Estampida de dinosaurios:** Pueden tratar de provocar una estampida de dinosaurios herbívoros y lanzarlos contra la línea del frente nazi. Para crear la estampida deberán usar saurios carnívoros que primero reúnan y luego espanten a los herbívoros. Necesitarán un día de trabajo y podrán hacer 5 tiradas de Cabalgar por comando y saurio carnívoro. Si consiguen 5 tiradas exitosas (los avances cuentan como otro éxito) en un día, reunirán una buena manada que podrán lanzar en la batalla y les dará un token siguiendo las reglas de batalla. Esta estrategia no funcionará si quiere meter a las fuerzas nazis en terreno pantanoso. Los grandes saurios herbívoros evitarán entrar en el pantano y reducirán su carrera.
+* **Terreno pantanoso:** Pueden tratar de meter a las tropas nazis en terrenos pantanosos para que pierdan unidades, tanto de soldados como de vehículos. Si consiguen que la gran batalla sea en terreno pantanoso, las tropas de tus comandos no tendrán tanto problema como la fuerzas nazis y sus vehículos blindados que se hundirán en el fango. Esto no da token pero debería dar ventajas. Como lo hagan ya será cosa suya.
+* **Estampida de dinosaurios:** Pueden tratar de provocar una estampida de dinosaurios herbívoros y lanzarlos contra la línea del frente nazi. Para crear la estampida deberán usar saurios carnívoros que primero reúnan y luego espanten a los herbívoros. Necesitarán un día de trabajo y podrán hacer 5 tiradas de Cabalgar por comando y saurio carnívoro. Si consiguen 5 tiradas exitosas (los avances cuentan como otro éxito) en un día, reunirán una buena manada que podrán lanzar en la batalla y les dará un token extra. Esta estrategia no funcionará si quiere meter a las fuerzas nazis en terreno pantanoso. Los grandes saurios herbívoros evitarán entrar en el pantano y reducirán su carrera.
 * **Fumarolas:** La meseta es una zona volcánica activa y hay muchas fumarolas que emiten extraños líquidos y gases. Tus comandos podrían diseñar (Ciencias) y construir (Reparar) algún tipo de explosivo o fuego griego y usarlo en combate. Si ponen a algún equipo (sakalas, campamento, etc.) a trabajar dos días enteros pueden conseguir un token extra.
-* **Pteranodontes:** Usar los pteranodontes como fuerza aérea podría ser una buena idea si no fuera porque los únicos adiestrados para estas tareas son los de los comandos y no son suficientes para ser una fuerza a tomar en cuenta en la batalla.
+* **Pteranodontes:** Usar los pteranodontes como fuerza aérea podría ser una buena idea si no fuera porque los únicos adiestrados para estas tareas son los de los comandos y no son suficientes para ser una fuerza a tomar en cuenta en la batalla. Aun asi igual tienen alguna idea loca como lanzar carne podrida a sus enemigos para hacer que los pteranodontes ataquen en campamento nazi. 
 
 A parte de estas ideas, tus comandos pueden tener todo tipo de ideas originales y bastante plausibles que pueden enriquecer la partida. Quien dice que no se les ocurra tratar de sorprender al enemigo moviéndose por los acantilados de la meseta hasta ponerse en su espalda y aparecer detrás suyo con la ventaja que eso puede suponer. Trata de ser generoso en benis con esas ideas. Piensa que directamente te están haciendo la partida ellos solos.
 
@@ -2372,35 +2372,51 @@ A parte de estas ideas, tus comandos pueden tener todo tipo de ideas originales 
 Solo un milagro permitirá a tus comandos y sus salvajes aliados ganar la batalla final contra las fuerzas de von Liebenfels, pero si han de morir que sea a lo grande y matando nazis.
 ```
 
-El general von Liebenfels contará con 100 hombres y 4 carros (4 tokens) de combate cuando lleguen tus comandos y cada dos días recibirá 20 soldados más y un carro de combate (1 token extra) que el zepelín traerá del grueso de la expedición nazi que está llegando desde la costa.
+El general von Liebenfels contará con 100 hombres y 4 carros (5 tokens) de combate cuando lleguen tus comandos y cada dos días recibirá 20 soldados más y un carro de combate (1 token extra) que el zepelín traerá del grueso de la expedición nazi que está llegando desde la costa.
 
 La única forma de subir tropas a la meseta es mediante el zepelín, así que es un recurso muy importante y muy vigilado y von Liebenfels sabe que si lo pierde, él y sus tropas están aisladas.
 
 Tus comandos sabrán todo esto por la gente del campamento que ha estado observando las idas y venidas del zepelín y los soldados y vehículos que han traído, mientras eran prisioneros.
 
-Tus comandos deberán calcular cuanto les llevará reclutar a cada grupo, tender trampas o preparar estrategias y decidir si siguen con esos trabajos o se lanzan a la batalla, porque cada dos días su enemigo se hace más grandes y poderoso. Han de tener en cuenta que el comando ya cuenta como un token frente a los 4 con los que empiezan las nazis.
+Tus comandos deberán calcular cuanto les llevará reclutar a cada grupo, tender trampas o preparar estrategias y decidir si siguen con esos trabajos o se lanzan a la batalla, porque cada dos días su enemigo se hace más grandes y poderoso. Han de tener en cuenta que el comando ya cuenta como un token frente a los 5 con los que empiezan las nazis.
 
-xxx
+### Declarando la guerra
+
+Cuando tus comandos lo crean adecuado deberán reunir sus fuerzas y lanzarse contra las fuerzas nazis. Déjales que lo monten a su gusto desde un mensajero montado en un estegosaurio que entregará un mensaje a von Liebenfels, que se presenten frente al campamento nazi todos juntos viniendo cada grupo de una dirección distinta.
+
+Juega con la épica y deja a tus comandos hacer alguna escena emocionante como chocar las armas, dar una arenga o simplemente hacerle un calvo al enemigo. Incluso podrías dar algún positivo a las tiradas de Tácticas de la primera ronda de combate.
+
+En ese momento debes contar los tokens de cada grupo y eso te dirá las fuerzas de cada grupo y podrás asignar los 10 marcadores de fuerza a la facción más poderosa y los marcadores proporcionales a la otra facción.
+
+El personaje con mayor Tácticas debería liderar el bando de tus comandos, mientras que von Liebenfels con su d8 en Tácticas será el comandante de las fuerzas nazis. Si tus comandos no son muy de estrategia, Horace Chambers es un pequeño genio militar con otro d8. 
 
 \saltopagina
+
+Tus comandos pueden actuar durante los turnos de batalla y sus aliados deberían apoyarles, pero no dejes que se lleven la gloría. Solo debería actuar si tus comandos fallan y la batalla se pone muy complicada.
+
+Von Liebenfels cuenta también con sus paladines para que actúen durante la batalla, Irma Bormann y Günther Prien (si no fue capturado y que se ha encargado de la parte marítima de la misión).
+
+### Batalla perdida
+
+Si tus comandos fallan en la batalla, puedes continuar la aventura de forma que sean capturados y llevados al castillo de Hohenzollern donde serán encerrados y torturados. Sus saurios deberían ser capturados y entrenados para obedecer a los nazis. Puede ser interesante la fuga del castillo y que traten de liberar a tus saurios de sus collares de control. Una vez liberados de sus captores, podrían seguir la misión tratando de frustar los planes del Doctor Eckart.
 
 ## El zepelín
 ```
 El general von Liebenfels ha perdido la batalla, pero no está todo perdido para los nazis. Su zeppelin huye con algunos tesoros que las fuerzas nazis han sacado del mundo perdido y puede que todavía puedan ganar el siguiente y definitivo asalto.
 ```
-[![Foto zepelín nazi en el Amazonas](./assests/images/dirigible.jpg 'LZ-127 at Jiquiá landing field in Recife')](https://www.airships.net/blog/zeppelin-mast-recife-brazil-pernambuco/ 'LZ-127 at Jiquiá landing field in Recife')
-
-&nbsp;
-
 Es importante dejar claro que en esta parte de la aventura tus comandos deberían fracasar, para que puedan ir a la parte 9 y enfrentarse a los nazis en un castillo de la selva Negra. Pero eso no quiere decir que si se lo montan excepcionalmente bien y los dados acompañan puedan terminar la aventura aquí mismo y también está bien.
 
 Cuando la batalla termine, solo debería quedar funcional el zepelín nazi. Quizás tenga algo de daño, pero al ser volador solo debería tener impactos pequeños de armas de fuego en los cristales y quizás haya sufrido algún pequeño incendio o rasgones en el globo.
 
 Su principal problema es que ha acabado con toda la munición y ha dejado de ser efectivo. El capitán ha dejado una pequeña reserva de balas por si tienen algún problema en el viaje de regreso a Alemania.
 
+La escena del zepelín puedes montarla de varias maneras y puedes ser muy divertido si les das un final desastroso pero muy pulp. Veamos opciones:
+
 \saltopagina
 
-La escena del zepelín puedes montarla de varias maneras y puedes ser muy divertido si les das un final desastroso pero muy pulp. Veamos opciones:
+[![Foto zepelín nazi en el Amazonas](./assests/images/dirigible.jpg 'LZ-127 at Jiquiá landing field in Recife')](https://www.airships.net/blog/zeppelin-mast-recife-brazil-pernambuco/ 'LZ-127 at Jiquiá landing field in Recife')
+
+&nbsp;
 
 **Persecución aérea:** La primera opción que se les ocurrirá a tus comandos es engancharse a un pteranodonte y salir volando. No es muy útil porque en cuanto el zepelín coja velocidad los dejará atrás en segundos. Puedes hacer que les disparen desde las ventanillas de la góndola con armas normales y ellos respondan.
 
@@ -2414,16 +2430,17 @@ Si consiguen acercarse a la góndola, debería aparecer un nazi que hará el sal
 
 Si quieres puedes hacerles unas tiradas de Notar para dejar de mirar al cielo y que detecten el final de la meseta y no se caigan por sus acantilados. Si eso pasa siempre puedes hacer tiradas de Atletismo y acabar agarrados al borde del precipicio en un auténtico cliffhanger.
 
+\saltopagina
 
-Como hemos dicho antes, la posibilidad de éxito es factible. Puede que tus comandos se lo monten muy bien y consigan entrar en el zepelín mientras huye y hacerse con su control o estrellarlo. Tal vez hayan creado una catapulta para la batalla y ahora con ella derriben al zepelín. Si se lo merecen no les quites su victoria en favor de la historia. Con unas modificaciones mínimas puedes convertir el último capítulo de la campaña en una aventura de un par de sesiones en que eviten que los nazis fabriquen una superarma.
+Como hemos dicho antes, la posibilidad de éxito es factible. Puede que tus comandos se lo monten muy bien y consigan entrar en el zepelín mientras huye y hacerse con su control o estrellarlo. Tal vez hayan creado una catapulta para la batalla y ahora con ella derriben al zepelín. 
+
+Si se lo merecen no les quites su victoria en favor de la historia. Con unas modificaciones mínimas puedes convertir el último capítulo de la campaña en una aventura de un par de sesiones en que eviten que los nazis fabriquen una superarma.
 
 **Cómo lo dirigiría yo:** Dale dramatismo, narra como el suelo se acerca muy rápido y como se siente el viento en la cara. Ver su vida pasar ante sus ojos puede estar bien. Calcula lentamente el daño y coge uno a uno el montón de dados que tienes que tirar. Hazlo sonar en tus manos y cuando vayas a tirarlos, te paras y un pteranodonte le agarrará en plena caída y lo dejará en el suelo sano y salvo.
 
 El resultado de muchas de las acciones anteriores contra el zepelín serán caídas al vacío que deberían ser mortales. Como todos sabemos en el pulp los héroes y las heroínas no mueren en caídas, siempre pasa algo y se salvan.
 
 Puedes salvarles de muchas formas. Un pteranodonte que lo agarra en plena caída o caer sobre árboles y llevarse algo de daño pero sin ser mortal. Quizás el resto de comandos han creado un colchón para su caída o si quieres alguno de los géiseres de la zona volcánica explota en el momento justo y le salva.
-
-\saltopagina
 
 |VEHÍCULO|TAMAÑO|MANIOBRA.|VEL. MÁX.|DUREZA|TRIPULACIÓN|
 |--------|------|----|--|------|-----|
@@ -3742,7 +3759,7 @@ Fue Horace quien, mientras servía té al general Linton, vio un informe de la F
 Es un adicto confeso a la azúcar y es raro verlo sin algo azucarado en la mano. Deja una caja de pastas abierta al lado suyo y cuando te gires habrá desaparecido.
 
 * **Atributos:** Agilidad d4, Astucia d10, Espíritu d8, Fuerza d6, Vigor d6
-* **Habilidades:** Atletismo d4, Conducir d4, Conocimientos Generales d12, Ciencias d10, Disparar d6, Humanidades d10, Idioma Inglés d10, Investigar d8, Notar d8, Pelear d4, Persuadir d4, Sigilo d4, Tácticas d10
+* **Habilidades:** Atletismo d4, Conducir d4, Conocimientos Generales d12, Ciencias d10, Disparar d6, Humanidades d10, Idioma Inglés d10, Investigar d8, Notar d8, Pelear d4, Persuadir d4, Sigilo d4, Tácticas d8
 * **Paso:** 6; **Parada:** 4; **Dureza:** 5
 * **Ventajas:** Investigador, Erudito (Ciencias), Erudito (Humanidades)
 * **Desventajas:** Obligaciones (mayor, ejército), Leal, Patoso
@@ -3839,7 +3856,7 @@ Su obsesión con los mitos nórdicos, la magia rúnica y los aesires es algo que
 Theodor es uno de generales más importantes de las fuerzas militares nazis y es enviado a las misiones más especiales por el propio Hitler fuera de la línea del frente. Hitler sabe que von Liebenfels ve el mundo de otra manera y le gusta la posibilidad de que uno de sus generales le permita acercarse ese mundo sobrenatural.
 
 * **Atributos:** Agilidad d8, Astucia d10, Espíritu d6, Fuerza d8, Vigor d8
-* **Habilidades:** Atletismo d4, Conducir d6, Conocimientos Generales d8, Disparar d8, Humanidades d10, Idioma Alemán d8, Intimidar d10, Notar d8, Pelear d8, Persuadir d6, Sigilo d4, Tácticas d8
+* **Habilidades:** Atletismo d4, Conducir d6, Conocimientos Generales d8, Disparar d8, Humanidades d10, Idioma Alemán d8, Intimidar d10, Notar d8, Pelear d8, Persuadir d6, Sigilo d4, Tácticas d10
 * **Paso:** 6; **Parada:** 6; **Dureza:** 6 / 9(3) con el camisote de malla
 * **Ventajas:** Sensibilidad celta, Mando, ¡Mantened la formación!, Táctico
 * **Desventajas:** Fanático (SS), Sanguinario, Vengativo, Delirio (mayor, la magia rúnica y los dioses nórdicos existen)
