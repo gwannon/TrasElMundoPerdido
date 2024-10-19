@@ -8,11 +8,11 @@
 # Changelog
 
 ## Versión 0.9.3 En desarrollo
-* Parte 5: Normandía (1)
-  * Sabotaje
 * Parte 8: Regreso al Mundo Perdido (2)
   * Misión de rescate
   * Evitando un genocidio
+
+* Terminada la parte de "Sabotaje" de "Parte 5: Normandía"
 
 ## Versión 0.9.2 19/10/2024
 * Corrección de textos "Parte 3: Islas Orcadas", "Parte 4: Noruega", "Parte 5: Normandía", "Parte 6: El frente ruso", "Parte 7: Regreso a casa", "Parte 8: Regreso al Mundo Perdido", "Parte 9: La Selva Negra", "Relatos salvajes", "Aliados, antagonistas y dinosaurios" y "Epílogo"

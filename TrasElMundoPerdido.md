@@ -1749,7 +1749,7 @@ La Francia ocupada es un escenario clásico. Pero mientras que las historias nor
 La IM necesita boicotear una serie de instalaciones antes del día D y tus comandos parecen el equipo perfecto para la tarea.
 ```
 
-[![Imagen de bunker para artillería nazi](./assests/images/lehavre.jpg 'Defensas alemanas: el Muro Atlántico Bundesarchiv, Bild 101I-263-1591-07A / Valtingojer (CC BY-SA)')](https://www.worldhistory.org/trans/es/1-23093/dia-d/ 'Defensas alemanas: el Muro Atlántico Bundesarchiv, Bild 101I-263-1591-07A / Valtingojer (CC BY-SA)') 
+[![Imagen de búnker para artillería nazi](./assests/images/lehavre.jpg 'Defensas alemanas: el Muro Atlántico Bundesarchiv, Bild 101I-263-1591-07A / Valtingojer (CC BY-SA)')](https://www.worldhistory.org/trans/es/1-23093/dia-d/ 'Defensas alemanas: el Muro Atlántico Bundesarchiv, Bild 101I-263-1591-07A / Valtingojer (CC BY-SA)') 
 
 &nbsp;
 
@@ -1811,7 +1811,7 @@ Si buscan por el piso, encontrarán mucha documentación sobre el Mayor Nezhoda,
 
 Jocelyn les hizo un favor al conseguirles una vía de entrada segura a la ciudad y va a cobrarse ese favor. Jocelyn quiere matar al mayor Nezhoda, el máximo representante nazi en la ciudad. Y no es una misión del IM, es una venganza. El mayor Nezhoda (usa un oficial nazi y hazlo comodín) mando matar a casi toda su familia y a la pareja de Adauy. Todo eso pasó mientras estaba de misiones en el Norte de África y se enteró al volver a Francia. Está claro que tiene que pagar con su vida.
 
-En algún momento de relax, Jocelyn se acercará a tus comandos para pedirles ayuda en su misión. No puede contarles su plan real, así que lo disfrazará de un robo de documentos secretos. No necesita que tus comandos maten a Nezhoda, eso es algo reservado para ella sola, pero necesita que le permitan acercarse lo suficiente. 
+En algún momento de relax, cuando tengan bastante info para su misión, pero sin tener un plan claro, Jocelyn se acercará a tus comandos para pedirles ayuda en su misión. No puede contarles su plan real, así que lo disfrazará de un robo de documentos secretos. No necesita que tus comandos maten a Nezhoda, eso es algo reservado para ella sola, pero necesita que le permitan acercarse lo suficiente. 
 
 Según el plan de Jocelyn, el general da una fiesta de disfraces para la plana mayor del ejército nazi y la gente rica de la ciudad. Cualquiera que se considere alguien en la ciudad tendrá una entrada y asistirá al evento del año. También puede ser que un grupo de soldados nazi vayan a tu casa y te fusilen si no apareces por la fiesta con tus mejores galas.
 
@@ -1921,7 +1921,43 @@ Con Nezhoda muerto, el ejército necesita un nuevo mandamás y pone a Irma Borma
 
 &nbsp;
 
-xxx
+Si han hecho sus deberes, sabrán que el nudo principal de comunicaciones es una torre de radio en el centro de la ciudad. Destruir la torre sería un problema para el ejército nazi, pero aun así, no estarían incomunicados. Debajo de la antena hay un búnker que controla las comunicaciones por radio y por cable. Para dejar mudos y sordos a los nazis deberán destruir el búnker.
+
+Si han hecho un buen trabajo de investigación, pueden haber descubierto el generador eléctrico que dota de energía al búnker. El generador puede ser sustituido en un día, pero ese es el tiempo necesario que necesitan las tropas para tomar las playas de Normandía.
+
+En teoría les avisarán de que deben realizar el sabotaje con horas de adelanto, pero no saben bien cuando. Tendrán que buscar un plan que pueda dejarse medio preparado y ejecutarlo cuando les ordenes. Así que seguramente necesitarán algunas o todas de estas cosas:
+
+* Trajes de soldados y oficiales nazis.
+* Diferentes papeles y salvoconductos que les abran puertas. Hasta ahora les podía ayudar Ibrahim Adauy, pero ahora están solos.
+* Podrán actuar en el sabotaje los que sepan alemán (haciéndose pasar por nazis) o francés (haciéndose pasar por trabajadores franceses). El resto deberán estar en la retaguardia esperando que los dejen entrar.
+
+\saltopagina
+
+### Demoliendo el búnker
+
+El búnker solo puede ser destruido desde dentro, así que tendrán que entrar y colocar las cargas explosivas. El búnker está cerrado a cal y canto y solo engañando a los soldados y oficiales de su interior podrán entrar. Es por ello que tendrán que buscar un plan.
+
+Los soldados del búnker cambian cada 8 horas y los oficiales usan unos santos y señas al abrir el búnker para los cambios de guardia. En resto del tiempo, salvo algún desastre, accidente o enfermedad, no salen hasta que les toca cambiar. Hay ordenes directas de Irma Bormann que podrían invalidar los protocolos de seguridad del búnker. Si revisan los documentos robados a Nezhoda, encontrarán firma de Irma.
+
+El búnker es una sala central cuadrada, donde se controla las comunicaciones de la zona, con 3 salas en cada lado, donde hay una especie de cocina/comedor/baños, un almacén/armería y la sala de oficiales. En el cuarto lado está la entrada al búnker.
+
+La puerta esta blindada y es de grueso metal (tiene una consistencia de 15) y un pequeño buzón para entregar o recibir mensajes, papeles, etc. Solamente con explosivos potentes se podría abrir. Dentro hay dos oficiales y 8 soldados, armados y preparados para defender el lugar.
+
+El búnker tiene varias entradas de aire y ventilación, pero en caso de cerrarse o meter algún tipo de gas, los soldados tienen máscaras de gas. 
+
+Ante cualquier problema pueden pedir refuerzos que estarán allí en unos minutos.
+
+### Cortando la luz
+
+El proceso de cortar la luz, es muchísimo más fácil. El búnker está conectado a una subestación eléctrica cercana y cualquier explosión que destruya las instalaciones dejaría inutilizado el búnker de comunicaciones durante un día hasta que deriven la electricidad de otra estación. Como ya hemos dicho, un día es tiempo más que suficiente para ayudar en el desembarco de Normandía.
+
+Por la subestación pasa una patrulla de 6 soldados cada hora, con lo que sabotearla debería ser fácil. 
+
+Pueden usar el sabotaje de la subestación, como forma de entrar en el búnker y destruirlo totalmente. De esa manera, los problemas de comunicación en la zona de Normandía durarían días.
+
+### Huida
+
+Tras las explosiones deberán huir del centro de la ciudad, usando el Citroën C4 u otro vehículo robado. Si el conductor falla la tirada de Conducir, serán interceptados por una patrulla motorizada de 3 motocicletas BMW R-71 con sidecar que tratarán de detenerles. si van andando/corriendo las 3 motocicletas les darán casa y tendrán un combate en algún callejón de la ciudad. 
 
 \saltopagina
 
@@ -1932,10 +1968,8 @@ Esta parte de la misión es totalmente opcional y sinceramente es una excusa par
 Desde el escondite de Jocelyn e Ibrahim pueden salir a extender el caos. Veamos algunos posibles escenarios si no se les ocurre nada a tus comandos.
 
 * Pueden **atacar y tomar una patrullera (2 soldados nazis por comando + 1 oficial) en el puerto de la ciudad** con los saurios acuáticos y lanzarlo contra otros barcos nazis.
-* Quizás puedan acercarse sin ser vistos en alguno de **los búnkeres de artillería y destruirlo**. El problema no sería tanto la resistencia nazi (1,5 soldados por comando + 2 oficiales) como el poner cargas en los sitios adecuados y que exploten sin matarlos. Necesitarán tiradas de Ciencias para buscar los puntos débiles de la estructura del bunker y Reparar para hacer los ingenios explosivos y colocarlos.
-
-
-* Otra opción es **destruir un depósito de munición de artillería**. Los depósitos sí estarán muy bien defendidos (4 soldados nazis por comando + 1 oficial por comando y 2 soldados acorazados). Como con el bunker de artillería necesitarán tiradas de Ciencias para buscar los mejores puntos para hacer estallar todo y Reparar para hacer los ingenios explosivos y colocarlos.
+* Quizás puedan acercarse sin ser vistos en alguno de **los búnkeres de artillería y destruirlo**. El problema no sería tanto la resistencia nazi (1,5 soldados por comando + 2 oficiales) como el poner cargas en los sitios adecuados y que exploten sin matarlos. Necesitarán tiradas de Ciencias para buscar los puntos débiles de la estructura del búnker y Reparar para hacer los ingenios explosivos y colocarlos.
+* Otra opción es **destruir un depósito de munición de artillería**. Los depósitos sí estarán muy bien defendidos (4 soldados nazis por comando + 1 oficial por comando y 2 soldados acorazados). Como con el búnker de artillería necesitarán tiradas de Ciencias para buscar los mejores puntos para hacer estallar todo y Reparar para hacer los ingenios explosivos y colocarlos.
 * Otra forma no violenta de ayudar es **elaborar un mapa de la ciudad con objetivos interesantes en caso de bombardeo**. Hará más certeros los ataques y evitará víctimas colaterales. Necesitarán un mapa de la ciudad actualizado (tal vez tenga uno algún oficial nazi) y buenas tiradas de Notar para rellenar el mapa. Un vuelo al atardecer/anochecer en pteranodonte permita elaborar mejores mapas sin ser descubiertos. También pueden hacer fotografías aéreas de la ciudad.   
 * Si consiguen **material militar** en alguna de las misiones anteriores y localizan a **la resistencia**, pueden entregárselo para que a su vez generen más problemas a los nazis, mediante las tácticas de guerrilla y el sabotaje.
 
