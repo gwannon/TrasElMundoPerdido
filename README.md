@@ -10,15 +10,15 @@
 ## Versión 0.9.2 En desarrollo
 * Parte 5: Normandía (1)
   * Sabotaje
-* Parte 8: Regreso al Mundo Perdido (4)
-  * Carrera al Mundo perdido
+* Parte 8: Regreso al Mundo Perdido (3)
   * Misión de rescate
   * Evitando un genocidio
   * Batalla del Mundo Perdido
 
 * Corrección de textos "Parte 3: Islas Orcadas", "Parte 4: Noruega", "Parte 5: Normandía", "Parte 6: El frente ruso", "Parte 7: Regreso a casa", "Parte 8: Regreso al Mundo Perdido", "Parte 9: La Selva Negra", "Relatos salvajes", "Aliados, antagonistas y dinosaurios" y "Epílogo"
+* Terminada la parte de "Carrera al Mundo perdido" de "Parte 8: Regreso al Mundo Perdido"
 * Terminada la parte de "Defensas interiores" de "Parte 9: La Selva Negra"
-* Terminada la parte de "Defensas interiores" de "La IM vuelve y viaje a la selva Negra"
+* Terminada la parte de "La IM vuelve y viaje a la selva Negra" de "Parte 9: La Selva Negra"
 
 ## Versión 0.9.1 15/10/2024
 * Corrección de textos "Hace 65 millones de años los dinosaurios dominaron la Tierra ...", "La Fundación Roxton", "Acerca de los dinosaurios", "Reglas especiales para la campaña", "La campaña", "Parte 1: La isla de Skye" y "Parte 2: Norte de África"

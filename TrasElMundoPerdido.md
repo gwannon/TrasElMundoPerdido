@@ -674,7 +674,7 @@ A nivel menor deberá elegir algo en el que quiere el mejor (el más fuerte, el 
 ### Nueva desventaja: Paranoia (mayor/menor)
 Tu personaje está convencido de que los enemigos están en todas partes, y cree que todos están contra él. Siempre está mirando a su espalda esperando una traición de sus compañeros o tratando de escuchar cómo conspiran a sus espaldas.
 
-Como desventaja menor, tienes un -1 en todas las tiradas de habilidad que exijan concentración (como abrir cerraduras, jugar a las cartas, descifrar un código, …) cuando otros están a tu alrededor. Si se toma como mayor, además, el -1 se aplicará a todas las tiradas de percepción, ya que estará más preocupado desvelando conspiraciones y enemigos ocultos que en vigilar o buscar.
+Como desventaja menor, tienes un -1 en todas las tiradas de habilidad que exijan concentración (como abrir cerraduras, jugar a las cartas, descifrar un código, …) cuando otros están a tu alrededor. Si se toma como mayor, además, el bonificador de -1 se aplicará a todas las tiradas de percepción, ya que estará más preocupado desvelando conspiraciones y enemigos ocultos que en vigilar o buscar.
 
 ### Amnesia y flashbacks (menor/mayor)
 El cerebro de tu comando, muy sabiamente, ha bloqueado parcialmente el recuerdo concreto de una situación traumática (cómo le torturaron, cómo presenció un asesinato, ...). No quiere decir que no recuerde ese hecho concreto, pero solo generalmente. Los detalles son lo que ha reprimido y todos sabemos que el demonio está en los detalles.
@@ -2250,7 +2250,7 @@ _A lo largo de la base de estos riscos rojizos, a cierta altura sobre el suelo, 
 Tus comandos están contrarreloj, tienen que llegar lo más rápido a la meseta de Maple White para intentar detener a las fuerzas de von Liebenfels. El problema es que ya no cuentan los recursos de la Fundación e IM parece que ya no tiene interés en ayudar tus comandos y sus saurios, ni en rescatar a los capturados por los nazis y tampoco de proteger el mundo perdido del expolio.
 ```
 
-xxx
+Como en misiones anteriores el viaje no debería ser importante, pero esta vez es importante para dar contexto de la misión. Además, su falta de recursos para el viaje es toda una misión en si mismo.
 
 ### Preparativos
 
@@ -2258,7 +2258,25 @@ El único problema en este punto es el dinero para zarpar a Venezuela, deben com
 
 Si reúnen o tienen el dinero suficiente, Branningan podrá preparar el viaje, pero deberán darse prisa y no tardar más de 1 semana o cuando lleguen los nazis habrán destruido el mundo perdido.
 
+### El viaje
+
+Veamos como será el viaje de las fuerzas nazis de von Liebenfels y de tus comandos.
+
+#### Los nazis
+
+El general von Liebenfels, tras atacar la isla Skye, partió con sus fuerzas hacía Venezuela. Su convoy está formado por su zepelín y dos acorazados. En mitad del Atlántico se les unirá un barco de transporte con equipamiento vario y que usarán para llevarse los saurios que consigan en el Mundo perdido.
+
+Desde Venezuela, la ruta terrestre es más complicada que la original de la expedición Challenger, pero por aire, usando el zepelín, es mucho más corta y segura.
+
 \saltopagina
+
+El zepelín está haciendo viajes entre la costa y la meseta transportando tropas y tanques. Esto es posible a su capacidad de aterrizar y despegar en vertical y a la gran capacidad de carga de su gondola.
+
+Solo pasarán 10 días desde el ataque a la isla Skye y que los nazis tomen tierra en la meseta de Maple White. Hitler a dado carta blanca a von Liebenfels, tiene todo lo que necesite, pero debe conseguirle un saurio con el que desfilar el día de la victoria por Londres.
+
+#### Tus comandos
+
+xxx
 
 ## Misión de rescate
 ```
@@ -2657,7 +2675,7 @@ La bodega aprovechó unas cuevas naturales y tiene una altura de unos 5 metros y
 
 El laboratorio está lleno de equipo científico carísimo en mesas, miles de probetas con todo tipo de productos químicos humeantes, aparatos lanzando arcos voltaicos, etc. Un comando con conocimientos científicos podrá montar cualquier cosa rápida con ese equipo. Hablamos de explosivos, gases mortales, etc.
 
-Al final de la cueva hay una especie de plataforma elevadora con una gran estructura metálica con una parabólica de 2 metros de radio llena de diamantes. Una tirada de Ciencias les confirmará que es la versión gigantesca de los rayos destructores portátiles que han visto hasta ahora. Las bordes de parabólica se está iluminando y por experiencias anteriores eso significa que se prepara para disparar, cuando cuando la parabólica este completamente iluminada podrá ser disparada. 
+Al final de la cueva hay una especie de plataforma elevadora con una gran estructura metálica con una parabólica de 2 metros de radio llena de diamantes. Una tirada de Ciencias les confirmará que es la versión gigantesca de los rayos destructores portátiles que han visto hasta ahora. Las bordes de parabólica se está iluminando y por experiencias anteriores eso significa que se prepara para disparar, cuando la parabólica esté completamente iluminada, podrá ser disparada. 
 
 Al lado suyo está el Doctor Eckart montado en un alosaurio con barda y equipado con dos rayos destructores en cada brazo. Cuando les vea entrar, hará el saludo nazi, accionará un mando y la plataforma elevadora lo sacará al patio. Si intentan disparar los disparos chocarán contra el cristal blindado que rodea la plataforma elevadora.
 
