@@ -2316,10 +2316,23 @@ Su viaje es mucho más lento, llevándoles unas dos semanas entre cruzar el Atl�
 
 Cuando lleguen, verán el zepelín de von Liebenfels triunfante sobre la meseta, dejándoles claro que no son los primeros en llegar. A pesar de lo que se pudiera pensar, los nazis no se han preocupado del ascensor que montó la Fundación. El general von Liebenfels, en su prepotencia, no considera probable que nadie venga a la meseta a luchar contra él y por ello no lo ha destruido. Además, es una forma de salida que puede usar si falla su dirigible. Aun así, ha puesto vigilancia, unos 5 soldados que no deberían ser un problema, pero que si desaparecen dejarán patente que ha entrado alguien de fuera.  
 
+## La situación en la meseta
+
+Cuando tus comandos accedan a la meseta se encontrarán con una situación bastante peliaguda. Si se ponen a investigar desde algún lugar alto como la copa de un árbol, podrán ver, gracias a la curiosa forma de la meseta, cual es la situación actual del mundo perdido.
+
+* **Donde estaba el campamento de la Fundación, han montado su campamento las tropas de von Liebenfels.** Han despejado una zona grande de terreno para que aterrice el dirigible.
+* Hay **tropas y blindados en las cuevas que habitan los sakalas**, lo que denota que son prisioneros de los nazis.
+* Si vigilan durante largo rato podrán ver a **unidades nazis trayendo dinosaurios al campamento**. También verán a **tropas nazis trabajando en los pantanos de los pteranodontes**. Tus comandos no tienen porque saberlo, pero están sacando los diamantes del fango azul.
+* **No parece que haya patrullas vigilando la meseta**, así que o no tienen tropas suficientes o creen que controlan la meseta y no esperan que vengan fuerzas de fuera. Es una mezcla de ambos, von Liebenfels no tiene tropas suficientes y prefiere usarlas en cazar saurios y extraer diamantes. 
+
+\saltopagina
+
 ## Misión de rescate
 ```
 Cuando el zepelín sobrevoló el Mundo Perdido, descubrió el campamento de la Fundación y mando un grupo de asalto que tomo fácilmente el control de las instalaciones. Lo primero de tus comandos debería ser liberar a los prisioneros.
 ```
+
+Rescatar a los rehenes es la misión que primero deberán acometer tus comandos. Liberando a los rehenes podrán saber qué esta pasando y cuales son los planes de von Liebenfels. 
 
 xxx
 
