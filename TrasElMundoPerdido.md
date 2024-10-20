@@ -1884,7 +1884,7 @@ Ahora les toca huir con los secretos robados. A priori, debería ser algo fácil
 
 Cuando bajen al piso inferior, Nezhoda estará llamado la atención para hacer un brindis. Más que un brindis será un discurso. Según se vayan moviendo por la pista de baile, la voz del general se ahogará y la punta un cuchillo sobresaldrá de su pecho y caerá al suelo muerto. Jocelyn cubierta de sangre y con el cuchillo gritará _Vive la France_ y saldrá corriendo esquivando.
 
-Mientras la gente se da cuenta de lo que pasa y reaccionan (recuerda que la mayoría está borracha), tienen unos 3 turnos para llegar a la puerta principal de la mansión. Después, algunos invitados, sobretodo nazis, se les enfrentarán. Igual algún comando se pone a cantar la «marsellesa» a pleno pulmón. Una tirada buena de interpretar podría sacar el patriotismo de los invitados franceses y que empiecen a atacar a los nazis para dar tiempo a escapar a tus comandos. Sea como Irma Bormann les espera en la puerta y tratará de detenerlos, pueden derribarla o pueden esquivarla, pero deberán ser rápido. 
+Mientras la gente se da cuenta de lo que pasa y reaccionan (recuerda que la mayoría está borracha), tienen unos 3 turnos para llegar a la puerta principal de la mansión. Después, algunos invitados, sobre todo nazis, se les enfrentarán. Igual algún comando se pone a cantar la «marsellesa» a pleno pulmón. Una tirada buena de interpretar podría sacar el patriotismo de los invitados franceses y que empiecen a atacar a los nazis para dar tiempo a escapar a tus comandos. Sea como Irma Bormann les espera en la puerta y tratará de detenerlos, pueden derribarla o pueden esquivarla, pero deberán ser rápido. 
 
 Si en algún momento Jocelyn corre peligro, Ibrahim Adauy hará lo que sea para salvarla, incluso sacrificarse para que ella pueda escapar.
 
@@ -1937,11 +1937,11 @@ En teoría les avisarán de que deben realizar el sabotaje con horas de adelanto
 
 El búnker solo puede ser destruido desde dentro, así que tendrán que entrar y colocar las cargas explosivas. El búnker está cerrado a cal y canto y solo engañando a los soldados y oficiales de su interior podrán entrar. Es por ello que tendrán que buscar un plan.
 
-Los soldados del búnker cambian cada 8 horas y los oficiales usan unos santos y señas al abrir el búnker para los cambios de guardia. En resto del tiempo, salvo algún desastre, accidente o enfermedad, no salen hasta que les toca cambiar. Hay ordenes directas de Irma Bormann que podrían invalidar los protocolos de seguridad del búnker. Si revisan los documentos robados a Nezhoda, encontrarán firma de Irma.
+Los soldados del búnker cambian cada 8 horas y los oficiales usan unos santos y señas al abrir el búnker para los cambios de guardia. En resto del tiempo, salvo algún desastre, accidente o enfermedad, no salen hasta que les toca cambiar. Hay órdenes directas de Irma Bormann que podrían invalidar los protocolos de seguridad del búnker. Si revisan los documentos robados a Nezhoda, encontrarán firma de Irma.
 
 El búnker es una sala central cuadrada, donde se controla las comunicaciones de la zona, con 3 salas en cada lado, donde hay una especie de cocina/comedor/baños, un almacén/armería y la sala de oficiales. En el cuarto lado está la entrada al búnker.
 
-La puerta esta blindada y es de grueso metal (tiene una consistencia de 15) y un pequeño buzón para entregar o recibir mensajes, papeles, etc. Solamente con explosivos potentes se podría abrir. Dentro hay dos oficiales y 8 soldados, armados y preparados para defender el lugar.
+La puerta está blindada y es de grueso metal (tiene una consistencia de 15) y un pequeño buzón para entregar o recibir mensajes, papeles, etc. Solamente con explosivos potentes se podría abrir. Dentro hay dos oficiales y 8 soldados, armados y preparados para defender el lugar.
 
 El búnker tiene varias entradas de aire y ventilación, pero en caso de cerrarse o meter algún tipo de gas, los soldados tienen máscaras de gas. 
 
@@ -1957,7 +1957,7 @@ Pueden usar el sabotaje de la subestación, como forma de entrar en el búnker y
 
 ### Huida
 
-Tras las explosiones deberán huir del centro de la ciudad, usando el Citroën C4 u otro vehículo robado. Si el conductor falla la tirada de Conducir, serán interceptados por una patrulla motorizada de 3 motocicletas BMW R-71 con sidecar que tratarán de detenerles. si van andando/corriendo las 3 motocicletas les darán casa y tendrán un combate en algún callejón de la ciudad. 
+Tras las explosiones deberán huir del centro de la ciudad, usando el Citroën C4 u otro vehículo robado. Si el conductor falla la tirada de Conducir, serán interceptados por una patrulla motorizada de 3 motocicletas BMW R-71 con sidecar que tratarán de detenerles. Si van andando/corriendo las 3 motocicletas les darán casa y tendrán un combate en algún callejón de la ciudad. 
 
 \saltopagina
 
@@ -2318,11 +2318,11 @@ Cuando lleguen, verán el zepelín de von Liebenfels triunfante sobre la meseta,
 
 ## La situación en la meseta
 
-Cuando tus comandos accedan a la meseta se encontrarán con una situación bastante peliaguda. Si se ponen a investigar desde algún lugar alto como la copa de un árbol, podrán ver, gracias a la curiosa forma de la meseta, cual es la situación actual del mundo perdido.
+Cuando tus comandos accedan a la meseta se encontrarán con una situación bastante peliaguda. Si se ponen a investigar desde algún lugar alto como la copa de un árbol, podrán ver, gracias a la curiosa forma de la meseta, cuál es la situación actual del mundo perdido.
 
 * **Donde estaba el campamento de la Fundación, han montado su campamento las tropas de von Liebenfels.** Han despejado una zona grande de terreno para que aterrice el dirigible.
 * Hay **tropas y blindados en las cuevas que habitan los sakalas**, lo que denota que son prisioneros de los nazis.
-* Si vigilan durante largo rato podrán ver a **unidades nazis trayendo dinosaurios al campamento**. También verán a **tropas nazis trabajando en los pantanos de los pteranodontes**. Tus comandos no tienen porque saberlo, pero están sacando los diamantes del fango azul.
+* Si vigilan durante largo rato podrán ver a **unidades nazis trayendo dinosaurios al campamento**. También verán a **tropas nazis trabajando en los pantanos de los pteranodontes**. Tus comandos no tienen por que saberlo, pero están sacando los diamantes del fango azul.
 * **No parece que haya patrullas vigilando la meseta**, así que o no tienen tropas suficientes o creen que controlan la meseta y no esperan que vengan fuerzas de fuera. Es una mezcla de ambos, von Liebenfels no tiene tropas suficientes y prefiere usarlas en cazar saurios y extraer diamantes. 
 
 \saltopagina
@@ -2332,11 +2332,21 @@ Cuando tus comandos accedan a la meseta se encontrarán con una situación basta
 Cuando el zepelín sobrevoló el Mundo Perdido, descubrió el campamento de la Fundación y mando un grupo de asalto que tomo fácilmente el control de las instalaciones. Lo primero de tus comandos debería ser liberar a los prisioneros.
 ```
 
-Rescatar a los rehenes es la misión que primero deberán acometer tus comandos. Liberando a los rehenes podrán saber qué esta pasando y cuales son los planes de von Liebenfels. 
+Rescatar a los rehenes es la misión que primero deberán acometer tus comandos. Liberando a los rehenes podrán saber qué está pasando y cuáles son los planes de von Liebenfels.
+
+### Planeando el rescate
 
 xxx
 
-El campamento no fue rival para el ejército nazi, pero pudo esconder ciertos recursos, como material médico y componentes de la radio suficiente para arreglar la original. 
+### Rescatando a los rehenes
+
+xxx
+
+### ¿Qué cuentan los rehenes?
+
+xxx
+
+Por último, el campamento no fue rival para el ejército nazi, pero pudo esconder ciertos recursos, como material médico y componentes de la radio suficiente para arreglar la original. 
 
 \saltopagina
 
@@ -2345,9 +2355,19 @@ El campamento no fue rival para el ejército nazi, pero pudo esconder ciertos re
 El general von Liebenfels considera que los sakala de la meseta emponzoñan los ideales raciales nazis y se propone a exterminar a toda la tribu, si alguien no lo evita.
 ```
 
+Los sakalas son la fuerza de combate más importante de la meseta y sin conseguir su ayuda la batalla está abocada al fracaso. Así pues, es fundamental salvarlos de los nazis y conseguir que se unan a tus comandos.
+
+Rescatar a todo una tribu no es lo mismo que a unos pocos rehenes, exige otra estrategia muy distinta. Las lanzas y los arcos de los sakalas no son rivales para las armas de las tropas nazis. Además tienen el problema del tiempo, Horace sabe que von Liebenfels quiere exterminar a todos los sakalas y no va a esperar mucho. Así que habrá que probar otros métodos y rápido.
+
+### Cuevas secretas
+
 xxx
 
-Los sakalas son la fuerza de combate más importante de la meseta y sin conseguir su ayuda la batalla está abocada al fracaso. Así pues, es fundamental salvarlos de los nazis y conseguir que se unan a tus comandos.
+### Negociando con los sakalas
+
+Los sakalas no quieren nada a cambio de su ayuda, pero hay un problema muy importante, el equipo que le den a los sakalas se quedarán. No habrá forma de recuperarlo. 
+
+xxx
 
 \saltopagina
 
@@ -2358,43 +2378,17 @@ Los pitecántropos libres son pocos, pero su apoyo pueden ser fundamental para e
 
 Si tus comandos visitan la reserva de los pitecántropos, encontrarán una comunidad de unos 60 seres que han construido sus nidos/casas en los árboles alrededor de un claro del bosque. Los seres crueles y violentos que describían las historias de Lord Roxton no representa a este grupo, que parece que está empezando a descubrir la artesanía básica y empiezan a controlar el fuego. Tampoco parece que hayan vuelto a hacer sacrificios humanos y parecen bastante hospitalarios.
 
-Alguna persona del campamento podrá ser usada de traductor. Así que podrán hablar con Madas, la matriarca del clan. La comunicación no será fácil, pero para dar su ayuda a tus comandos, su cabecilla lo que les exige son rifles y munición. Saben por propia experiencia del poder de las armas de fuego y quieren ese poder para ellos. Conseguirles algunas armas de fuego no debería ser problema, es una cuestión más ética y moral.
+Alguna persona del campamento podrá ser usada de traductor. Así que podrán hablar con Madas, la matriarca del clan. La comunicación no será fácil, pero para dar su ayuda a tus comandos, su cabecilla lo que les exige son armas de metal. Saben por propia experiencia del poder de las armas de fuego, pero no son tan hábiles como para usarlas. Por eso quieren ese armas cuerpo a cuerpo de metal. Conseguirles algunas armas, como machetes, cuchillos de combates o bayonetas no debería ser problema, es una cuestión más ética y moral.
 
-Según Madas, el poder extra que dar los rifles es la única forma de poder proteger a su gente de la violenta naturaleza de la meseta. Ahora mismo están en lo más bajo de la cadena alimentaria y esas armas les podrían dar una posición más ventajosa.
+Según Madas, el poder extra que dar las armas de metal es la única forma de poder proteger a su gente de la violenta naturaleza de la meseta. Ahora mismo están en lo más bajo de la cadena alimentaria y esas armas les podrían dar una posición más ventajosa.
 
-¿Deben darles acceso a una tecnología tan avanzada a unos seres tan primitivos y que saben a ciencia cierta que son malvados? Recordemos que disfrutaban sacrificando a humanos tirándolos por el acantilado de la meseta sobre unas piedras puntiagudas. Pero está claro que han podido volverse mejores y haber aprendido de sus errores y las armas de fuego son su única forma de supervivencia en un mundo tan peligroso como este mundo perdido. 
+¿Deben darles acceso a una tecnología avanzada a unos seres tan primitivos y que saben a ciencia cierta que son malvados? Recordemos que disfrutaban sacrificando a humanos tirándolos por el acantilado de la meseta sobre unas piedras puntiagudas. Pero está claro que han podido volverse mejores y haber aprendido de sus errores y las armas de metal son su única forma de supervivencia en un mundo tan peligroso como este mundo perdido. 
 
 Madas no va a usar para el mal esas armas, solo es una forma de proteger a su gente, pero tus comandos no pueden saberlo (solo ver las pistas) y tendrán que decidir si darles una segunda oportunidad 
 
-También tendrán que decidir si les entregan las armas antes o después de la gran batalla. Pero después de la batalla no tendrá casi importancia porque estarán todos muertos o podrán cogerlos de los cuerpos muertos de aliados y nazis.
+También tendrán que decidir si les entregan las armas antes o después de la gran batalla. Pero después de la batalla no tendrá casi importancia porque estarán todos muertos o podrán cogerlas de los cuerpos muertos de aliados y nazis.
 
-Los pitecántropos no son ni muchos ni muy fuertes, pero si están en su terreno, el bosque, se vuelven muy peligrosos. Pueden moverse a gran velocidad, atacar por sorpresa desde los árboles y desaparecer en las copas por segundos. Madas puede reunir unos 30 combatientes que pueden dar un token a tus comandos en la batalla. 
-
-\saltopagina
-
-### Madas, matriarca del clan de pitecántropos &#x2638;
-
-[![Detalle de la cara de un pitecántropo](./assests/images/cara-pitecantropo.jpg 'Reconstruction of a female H. erectus - Tim Evanson - https://www.flickr.com/photos/timevanson/7283200708/in/photostream/')](https://en.wikipedia.org/wiki/Homo_erectus#/media/File:Homo.erectus.adult.female.smithsonian.timevanson.flickr.jpg 'Reconstruction of a female H. erectus - Tim Evanson - https://www.flickr.com/photos/timevanson/7283200708/in/photostream/')
-
-Madas, es la matriarca del clan de pitecántropos de la meseta. A diferencia de sus predecesores, ha preferido usar la inteligencia y la diplomacia a la fuerza, reservando esta última solo para protegerse de los peligros que acechan entre el follaje del mundo perdido.
-
-Madas es más lista que la media y puede ser una buena negociante, aun así tu pensamiento es muy lineal y no entiende ironías o sarcasmos y en caso de mentir son mentiras muy básicas. A pesar de todo, no podrán engañarla, si no le prometen las armas no llevará a su gente a la guerra.
-
-En la batalla Madas, como su gente, es brutal, pero nunca permitirá atacar y matar a enemigos que se hayan rendido. Quiere aprovechar la oportunidad de dejar claro que son peligrosos, pero solo si se les ataca. 
-
-* **Atributos:** Agilidad d10, Astucia d8, Espíritu d8, Fuerza d8, Vigor d8
-* **Habilidades:** Atletismo d10, Notar d8, Pelear d8, Persuadir d6, Sigilo d6, Supervivencia d8
-* **Paso:** 6; **Parada:** 5; **Dureza:** 7(1)
-* **Ventajas:** Acróbata, Mando
-* **Desventajas:** Heroico (mayor)
-* **Capacidades especiales:**
-  * **Armadura +1:** Piel dura como el cuero curtido. 
-  * **Mordisco:** FUE+d4 de daño.
-  * **Vista y oído agudo.** Su buena vista y oído le da +2 a las tiradas de Notar y Supervivencia que impliquen vista u oído.
-  * **Buen trepador:** Paso 8 trepando. Los pitecántropos pasan gran parte de su vida en los árboles y su cuerpo está adaptado a ello. Añaden +2 a sus tiradas de Atletismo cuando trepan.
-* **Equipo:** Garrote endurecido (FUE+d6)
-
-**Sugerencia de interpretación:** Gruñe, chilla y haz ruidos raros. Gesticula sin mucho sentido y golpea la mesa. Si cree que puede ser divertido para todos, lanza los ganchitos que tengáis por la mesa.
+Los pitecántropos no son ni muchos ni muy fuertes, pero si están en su terreno, el bosque, se vuelven muy peligrosos. Pueden moverse a gran velocidad, atacar por sorpresa desde los árboles y desaparecer en las copas por segundos. Madas puede reunir **unos 30 combatientes que pueden dar un token** a tus comandos en la batalla. 
 
 \saltopagina
 
@@ -2571,7 +2565,7 @@ El grupo de ataque puede ser formado por tus comandos y quien necesiten. Cualqui
  
 Una vez llegado a un acuerdo, habrá que preparar la misión de infiltración en la Selva Negra. 
  
-Deberán ir en el Mary Anning hasta Sicilia, que acaba de ser liberada y allí les espera un avión de transporte (un viejo Junkers capturado a los nazis con descarga trasera)en un pequeño aeródromo de Siracusa que hace años que no se usa.
+Deberán ir en el «Mary Anning» hasta Sicilia, que acaba de ser liberada y allí les espera un avión de transporte (un viejo Junkers capturado a los nazis con descarga trasera)en un pequeño aeródromo de Siracusa que hace años que no se usa.
 
 \saltopagina
 
@@ -2675,25 +2669,25 @@ El portón de la entrada estará cerrado y se abre o cierra con un ingenio eléc
 
 Al quitar la puerta se encontrarán a 3 estegosaurios que los oficiales nazis obligan a dar coletazos sin parar para evitar el avance de tus comandos. Desde detrás estos saurios 4 soldados dispararán a los intrusos. Una tirada de notar identificará los collares de control en el cuello de los saurios.
 
-Si tus comandos se retrasan mucho puedes traer gente de otros puestos de vigilancia con sus ametralladoras pesadas. si no formarán parte de las defensas interiores. A no ser que hayan planeado deshacerse de ellos de alguna forma.
+Si tus comandos se retrasan mucho puedes traer gente de otros puestos de vigilancia con sus ametralladoras pesadas. Si no, formarán parte de las defensas interiores. A no ser que hayan planeado deshacerse de ellos de alguna forma.
 
 ### Defensas interiores
 Tras pasar las defensas exteriores llegarán a la planta en forma de estrella 7 puntas. Es una parte llena de jardines y zonas para pasear. De hecho, para seguir avanzando tendrán que atravesar un jardín bastante grande.
 
 Desde el patio central, un grupo de soldados bajan al jardín para detener el ataque. Por cada comando hay una pareja de soldados nazis, uno normal y otro con una extraña arma del tamaño de un fusil conectada a una mochila. Los soldados normales son los guardaespaldas de los soldados rayo, que portan una arma desintegradora portátil del doctor Eckart.
 
-El jardín no tiene más que algunos puntos donde protegerse de los rayos, como las fuentes o los bancos de piedra, pero una vez que se han usados como defensa, son destruidos por el rayo y no se puede usar más.
+El jardín no tiene más que algunos puntos donde protegerse de los rayos, como las fuentes o los bancos de piedra, pero una vez que se han usado como defensa, son destruidos por el rayo y no se puede usar más.
 
-Puedes hacer el combate más divertido y complicarlo haciendo que los rayos desintegradores corten los árboles. Esto hará que los troncos supongan terreno difícil y las copas de los árboles sean obstáculos que no pueden atravesar.
+Puedes hacer el combate más divertido y complicarlo haciendo que los rayos desintegradores corten los árboles. Esto hará que los troncos supongan terreno difícil y las copas de los árboles sean obstáculos que no pueden atravesar. También puedes traer mas soldados cn ametralladoras de los puestos de vigilancia de la defensas exteriores.
 
 #### Soldado rayo nazi
 Estos soldados portan dos grandes inventos del Doctor Eckart, su armadura de polímeros superresistente y su arma de rayos portátil. Son lentos y torpes pero increíblemente destructivos. Por eso suelen tener un compañero de fatigas que les guarda las espaldas. 
 
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d4, Fuerza d8, Vigor d8
-* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Disparar d10, Idioma alemán d6, Pelear d6, Notar d8, Persuadir d4, Sigilo d4
 
 \saltopagina
 
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Disparar d10, Idioma alemán d6, Pelear d6, Notar d8, Persuadir d4, Sigilo d4
 * **Paso:** 6 (sobrecargado: paso 4 y no puede correr); **Parada:** 5; **Dureza:** 10(4)
 * **Ventajas:** Soldado, Reflejo de combate
 * **Desventajas:** Obligaciones (mayor, ejército), Fanático (SS)
@@ -3888,6 +3882,32 @@ Cuando haces tratos con Alí has de saber que tienden a pasar cosas extrañas a 
 * **Equipo:** Daga (FUE+d4), ropas oscuras, herramientas de ladrón y cuerda y garfio de escalada
 
 **Sugerencia de interpretación:** Ibrahim es el típico ladrón de guante blanco de películas clásicas de robos. Es elegante, de buenas maneras, modales finos y gustos caros. Cuando no estás trabajando disfrutas de los placeres de la vida en restaurantes y teatros. Coquetea continuamente y no dejes de halagar a la gente de alrededor, los halagos te han librado de prisión más veces que tus acrobacias.
+
+### Madas, matriarca del clan de pitecántropos &#x2638;
+
+[![Detalle de la cara de un pitecántropo](./assests/images/cara-pitecantropo.jpg 'Reconstruction of a female H. erectus - Tim Evanson - https://www.flickr.com/photos/timevanson/7283200708/in/photostream/')](https://en.wikipedia.org/wiki/Homo_erectus#/media/File:Homo.erectus.adult.female.smithsonian.timevanson.flickr.jpg 'Reconstruction of a female H. erectus - Tim Evanson - https://www.flickr.com/photos/timevanson/7283200708/in/photostream/')
+
+Madas, es la matriarca del clan de pitecántropos de la meseta. A diferencia de sus predecesores, ha preferido usar la inteligencia y la diplomacia a la fuerza, reservando esta última solo para protegerse de los peligros que acechan entre el follaje del mundo perdido.
+
+Madas es más lista que la media y puede ser una buena negociante, aun así tu pensamiento es muy lineal y no entiende ironías o sarcasmos y en caso de mentir son mentiras muy básicas. A pesar de todo, no podrán engañarla, si no le prometen las armas no llevará a su gente a la guerra.
+
+En la batalla Madas, como su gente, es brutal, pero nunca permitirá atacar y matar a enemigos que se hayan rendido. Quiere aprovechar la oportunidad de dejar claro que son peligrosos, pero solo si se les ataca. 
+
+\saltopagina
+
+* **Atributos:** Agilidad d10, Astucia d8, Espíritu d8, Fuerza d8, Vigor d8
+* **Habilidades:** Atletismo d10, Notar d8, Pelear d8, Persuadir d6, Sigilo d6, Supervivencia d8
+* **Paso:** 6; **Parada:** 5; **Dureza:** 7(1)
+* **Ventajas:** Acróbata, Mando
+* **Desventajas:** Heroico (mayor)
+* **Capacidades especiales:**
+  * **Armadura +1:** Piel dura como el cuero curtido. 
+  * **Mordisco:** FUE+d4 de daño.
+  * **Vista y oído agudo.** Su buena vista y oído le da +2 a las tiradas de Notar y Supervivencia que impliquen vista u oído.
+  * **Buen trepador:** Paso 8 trepando. Los pitecántropos pasan gran parte de su vida en los árboles y su cuerpo está adaptado a ello. Añaden +2 a sus tiradas de Atletismo cuando trepan.
+* **Equipo:** Garrote endurecido (FUE+d6)
+
+**Sugerencia de interpretación:** Gruñe, chilla y haz ruidos raros. Gesticula sin mucho sentido y golpea la mesa. Si cree que puede ser divertido para todos, lanza los ganchitos que tengáis por la mesa.
 
 \saltopagina
 
