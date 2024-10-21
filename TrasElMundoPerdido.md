@@ -105,11 +105,11 @@ Lord Roxton uso sus 50.000 libras para organizar otra expedición al mundo perdi
 ### Otra vez en el mundo perdido
 Durante un año y medio, Lord Roxton y un equipo de 40 personas estuvieron estudiando toda la meseta desde todos los ángulos de la ciencia moderna, biología, zoología, geología, botánica, antropología, etc. Podríamos decir que no quedo ni usa sola piedra sin remover, ni planta o animal sin estudiar o accidente geográfico sin estudiar, pero mentiríamos. De hecho, 30 años más tarde todavía hay misterios en el mundo perdido.
 
-Lo primero que hizo la expedición fue crear una especie de ascensor que permitía acceder a la meseta a personas y equipo sin necesidad de usar globos o la ruta de los sakala.
+Lo primero que hizo la expedición fue crear una especie de ascensor que permitía acceder a la meseta a personas y equipo sin necesidad de usar globos o la ruta de los accala.
 
 El propio Roxton capturo con ingeniosos trucos especímenes vivos de todas las especies de saurios que habitan la meseta y los envío a escocia a unas tierras que había comprado en la isla de Skye. Para su transporte compro el viejo carguero «Ambassador» que paso a llamarse el «Mary Anning» y contrato a Dolores Branningan como su capitana.
 
-Sabiendo los problemas que podían suponer las interacciones con los sakala, la expedición mantuvo el contacto al mínimo. Por precaución, Lord John cambio su aspecto al máximo (corte de pelo y sin bigotes) para no ser reconocido. 
+Sabiendo los problemas que podían suponer las interacciones con los accala, la expedición mantuvo el contacto al mínimo. Por precaución, Lord John cambio su aspecto al máximo (corte de pelo y sin bigotes) para no ser reconocido. 
 
 ### Descubrimientos asombrosos
 De lo primero que descubrieron es que la evolución no se había parado en el Mundo Perdido, sino que los saurios habían seguido evolucionando y principalmente su capacidad craneal era mayor que los fósiles de sus antepasados, con lo que se podía deducir que eran más inteligentes que sus antepasados. 
@@ -122,11 +122,11 @@ De lo primero que descubrieron es que la evolución no se había parado en el Mu
 
 De hecho, son capaces de solucionar problemas básicos y de realizar rutinas tras un proceso de aprendizaje.
  
-Pero el gran descubrimiento que hizo Roxton en esta segunda expedición es que todos los saurios tenían cierto grado de domesticación. No eran mascotas como perros y gatos, ni tampoco animales de granja, pero habían convivido con los sakalas de la meseta durante miles de años (cosa que no había ocurrido en el resto del mundo) y esto había transformado sus instintos poco a poco.
+Pero el gran descubrimiento que hizo Roxton en esta segunda expedición es que todos los saurios tenían cierto grado de domesticación. No eran mascotas como perros y gatos, ni tampoco animales de granja, pero habían convivido con los accalas de la meseta durante miles de años (cosa que no había ocurrido en el resto del mundo) y esto había transformado sus instintos poco a poco.
 
 Los antropólogos y antropólogas de la fundación se dedicaron a estudiar a los aborígenes y descubrieron interacciones entre ambas especies que habían llevado a los saurios a ser en parte domesticados. 
 
-Durante la anterior expedición ya vio que los sakala habían domesticado iguanodontes criándolos desde huevo. Pero investigaciones más exhaustivas permitieron descubrir algo muy interesante. La tribu sakala había aprendido a dejar parte de su caza lejos de sus asentamientos para alejar a los grandes depredadores. También aprendieron a atraer a los herbívoros dejando gran cantidad de frutas en ciertos lugares donde era más fácil cazarlos o alejarlos de sus nidos y entonces robar sus huevos o sus crías. 
+Durante la anterior expedición ya vio que los accala habían domesticado iguanodontes criándolos desde huevo. Pero investigaciones más exhaustivas permitieron descubrir algo muy interesante. La tribu accala había aprendido a dejar parte de su caza lejos de sus asentamientos para alejar a los grandes depredadores. También aprendieron a atraer a los herbívoros dejando gran cantidad de frutas en ciertos lugares donde era más fácil cazarlos o alejarlos de sus nidos y entonces robar sus huevos o sus crías. 
 
 Estas interacciones fueron con los siglos evolucionado y grabándose en los instintos de los saurios, de forma que saben que salvo en caso de agresión, necesidad o hambre, un humano es más útil vivo que muerto. Este hecho, junto a la selección de los mejores y más inteligentes ejemplares, hizo que la Fundación pudiera domesticar dinosaurios con técnicas avanzadas de condicionamiento positivo en unos 15 años.
 
@@ -142,11 +142,11 @@ La vida de aventuras de Lord Roxton se convirtió en una vida de burocracia al f
 La principal razón de lord Roxton para montar las instalaciones de la Fundación en Escocia, es que los posibles avistamientos de monstruos prehistóricos podían verse como un intento más de un loco escocés queriendo llamar la atención sobre el Lago Ness. De hecho, desde 1930 se han multiplicado los avistamientos de monstruos de todo tipo y estos hechos son rápidamente noticias en la prensa amarilla. Esto hace que los testigos sean desprestigiados rápidamente por la opinión pública y la comunidad científica, a pesar de que muchas veces han podido ser reales.
 
 ### Política de no intromisión
-Una de las políticas claves que estableció Lord Roxton en su expedición fue la no intervención en la vida de los hombres y mujeres primitivos, tanto sakalas como pitecántropos. Esto incluye todo tipo de intervención que trastocase su modo de vida. No se les da ningún tipo de tecnología, no se les ayuda salvo en cosas muy graves y no se les trata de enseñar ningún tipo de conocimiento.
+Una de las políticas claves que estableció Lord Roxton en su expedición fue la no intervención en la vida de los hombres y mujeres primitivos, tanto accalas como pitecántropos. Esto incluye todo tipo de intervención que trastocase su modo de vida. No se les da ningún tipo de tecnología, no se les ayuda salvo en cosas muy graves y no se les trata de enseñar ningún tipo de conocimiento.
 
-Lo único que está permitido es un comercio muy básico en el que la Fundación no saca ningún beneficio, solamente usa estos encuentros para estudiar a sus vecinos, los sakala. Intercambian pieles, alimentos y algunas herramientas muy básicas.
+Lo único que está permitido es un comercio muy básico en el que la Fundación no saca ningún beneficio, solamente usa estos encuentros para estudiar a sus vecinos, los accala. Intercambian pieles, alimentos y algunas herramientas muy básicas.
 
-Siguiendo esta política, se estableció una especie de reserva controlada con los pitecántropos que sobrevivieron y escaparon de los sakala. Siguen siendo peligrosos, pero ahora son menos y más controlados.
+Siguiendo esta política, se estableció una especie de reserva controlada con los pitecántropos que sobrevivieron y escaparon de los accala. Siguen siendo peligrosos, pero ahora son menos y más controlados.
 
 ## Lady Roxton
 Poco sabía Margaret Roxton, sobrina de Lord Roxton, lo que iba a cambiar su vida cuando el albacea testamentario de su tío se presentó en su para entregarle una fabulosa fortuna y el control de la fundación con su nombre, tras la muerte de su tío por un ataque al corazón.
@@ -345,7 +345,7 @@ La Fundación tiene en la meseta de Maple White un campamento fijo de científic
 
 De media hay unas 20 personas viviendo en un enclave de unos 10 pabellones. Son autosuficientes en temas de suministros básicos como agua y comida, y cada cierto tiempo reciben suministros médicos, materiales y equipos nuevos.
 
-Esta comunidad permanente de investigaciones ha establecido relaciones con los sakala y han tenido éxito en sus primeros intercambios culturales y comerciales, siguiendo siempre los protocolos establecidos por la Fundación.
+Esta comunidad permanente de investigaciones ha establecido relaciones con los accala y han tenido éxito en sus primeros intercambios culturales y comerciales, siguiendo siempre los protocolos establecidos por la Fundación.
 
 Este enclave se sitúa al sur del Lago Central que les provee de pesca y agua. Esto les permite estudiar los saurios acuáticos y estar lo suficientemente lejos de los habitantes de las cuevas para no molestarlos ni interferir en su día a día, pero lo suficientemente cerca para estudiarlos y tenerlos controlados. 
 
@@ -529,7 +529,7 @@ Hay una serie de reglas en esta campaña que modifican las normas generales de c
 * No se pueden coger Trasfondos arcanos, las Ventajas de poder, la Resistencia Arcana y Voluntad de Hierro.
 * Las habilidades arcanas como **Fe, Hechicería o Psiónica no existen** y tampoco las ventajas que pidan esas habilidades como Inventor.
 * No hay elementos paranormales en la aventura, con lo que el **Ocultismo se engloba en Humanidades** dentro de ciencias sociales como Historia, Teología, Antropología, etc.
-* Hay un nuevo idioma, el sakala, el idioma hablado por los aborígenes del mundo perdido.
+* Hay un nuevo idioma, el accala, el idioma hablado por los aborígenes del mundo perdido.
 * **No existe la habilidad Ordenadores.** Electrónica cubre todo tipo de aparatos electrónicos con capacidades computacionales.
 * Hay **nuevas Ventajas**: Compañero dinosaurio, Los números primos son rojos y huelen dulces y Sensibilidad celta.
 * Hay **nuevas Desventajas**: Alergia a los saurios, Imán de lo extraño, Megalomanía y Paranoia.
@@ -2251,7 +2251,7 @@ Por suerte no están solos. En sus misiones han hechos contactos, ayudado a gent
 * **Ibrahim Adauy.** Si Jocelyn se une al grupo, él se apuntará sin pensárselo.  
 * **Cualquier PNJ de tu propia cosecha que estuviera en la isla de Skye** es susceptible de haber escapado de los nazis y querer ayudar a tus comandos en su nueva misión. También pueden llamar a PNJ de todo Reino Unido, pero de más lejos no daría tiempo a contactar y a que estén en Skye antes de partir. 
 
-Si consiguen contactar con el campamento en la meseta de Maple White, quizás puedan estar preparados para la que se les viene encima. No son los suficientes para hacer frente a una escuadra nazi, ni hay muchos sitios donde esconderse, ni pueden huir ellos solos de la meseta y el viaje de semana hasta la civilización. Pero pueden esconder material y armas y algunos pueden irse a las cuevas de los sakalas para evitar ser atrapados.
+Si consiguen contactar con el campamento en la meseta de Maple White, quizás puedan estar preparados para la que se les viene encima. No son los suficientes para hacer frente a una escuadra nazi, ni hay muchos sitios donde esconderse, ni pueden huir ellos solos de la meseta y el viaje de semana hasta la civilización. Pero pueden esconder material y armas y algunos pueden irse a las cuevas de los accalas para evitar ser atrapados.
 
 ***
 
@@ -2321,7 +2321,7 @@ Cuando lleguen, verán el zepelín de von Liebenfels triunfante sobre la meseta,
 Cuando tus comandos accedan a la meseta se encontrarán con una situación bastante peliaguda. Si se ponen a investigar desde algún lugar alto como la copa de un árbol, podrán ver, gracias a la curiosa forma de la meseta, cuál es la situación actual del mundo perdido.
 
 * **Donde estaba el campamento de la Fundación, han montado su campamento las tropas de von Liebenfels.** Han despejado una zona grande de terreno para que aterrice el dirigible.
-* Hay **tropas y blindados en las cuevas que habitan los sakalas**, lo que denota que son prisioneros de los nazis.
+* Hay **tropas y blindados en las cuevas que habitan los accalas**, lo que denota que son prisioneros de los nazis.
 * Si vigilan durante largo rato podrán ver a **unidades nazis trayendo dinosaurios al campamento**. También verán a **tropas nazis trabajando en los pantanos de los pteranodontes**. Tus comandos no tienen por que saberlo, pero están sacando los diamantes del fango azul.
 * **No parece que haya patrullas vigilando la meseta**, así que o no tienen tropas suficientes o creen que controlan la meseta y no esperan que vengan fuerzas de fuera. Es una mezcla de ambos, von Liebenfels no tiene tropas suficientes y prefiere usarlas en cazar saurios y extraer diamantes. 
 
@@ -2338,6 +2338,8 @@ Rescatar a los rehenes es la misión que primero deberán acometer tus comandos.
 
 xxx
 
+Si hacen algún tipo de fotografía aérea con los pteranodontes del campamento nazi, puedes darles un +2 a las tiradas de planificar la ruta o cuando tengan que salir del campamento.
+
 ### Rescatando a los rehenes
 
 xxx
@@ -2348,26 +2350,52 @@ xxx
 
 Por último, el campamento no fue rival para el ejército nazi, pero pudo esconder ciertos recursos, como material médico y componentes de la radio suficiente para arreglar la original. 
 
-\saltopagina
-
 ## Evitando un genocidio
 ```
-El general von Liebenfels considera que los sakala de la meseta emponzoñan los ideales raciales nazis y se propone a exterminar a toda la tribu, si alguien no lo evita.
+El general von Liebenfels considera que los accala de la meseta emponzoñan los ideales raciales nazis y se propone a exterminar a toda la tribu, si alguien no lo evita.
 ```
 
-Los sakalas son la fuerza de combate más importante de la meseta y sin conseguir su ayuda la batalla está abocada al fracaso. Así pues, es fundamental salvarlos de los nazis y conseguir que se unan a tus comandos.
+\saltopagina
 
-Rescatar a todo una tribu no es lo mismo que a unos pocos rehenes, exige otra estrategia muy distinta. Las lanzas y los arcos de los sakalas no son rivales para las armas de las tropas nazis. Además tienen el problema del tiempo, Horace sabe que von Liebenfels quiere exterminar a todos los sakalas y no va a esperar mucho. Así que habrá que probar otros métodos y rápido.
+Los accalas son la fuerza de combate más importante de la meseta y sin conseguir su ayuda la batalla está abocada al fracaso. Así pues, es fundamental salvarlos de los nazis y conseguir que se unan a tus comandos.
+
+Rescatar a todo una tribu no es lo mismo que a unos pocos rehenes, exige otra estrategia muy distinta. Las lanzas y los arcos de los accalas no son rivales para las armas de las tropas nazis. Además tienen el problema del tiempo, Horace sabe que von Liebenfels quiere exterminar a todos los accalas y no va a esperar mucho. Así que habrá que probar otros métodos y rápido.
 
 ### Cuevas secretas
 
-xxx
+Siguiendo las órdenes de von Liebenfels, las tropas nazis han reunido a todos los accalas en las cuevas donde viven. Un par de tanques con ametralladoras pesadas cubiertos con unos 20 soldados vigilan las salidas de las cuevas. Tus comandos deberían ser rivales para esas fuerzas, si se enfrentan directamente. Además los nazis podrían disparar con los tanques contra la entrada de las cuevas y provocar derrumbamientos y decenas de muertos entre los accalas.
 
-### Negociando con los sakalas
+Si hablan con Lady Roxton, está sabe que las cuevas de los accalas forman una red de cavernas bastante amplia, pero los accalas casi no las han explorado. Pero como mínimo hay una entrada/salida en los acantilados del norte de la meseta. Aunque están a media altura en los acantilados, podrían usarlos como forma de sacar a los accalas de las cuevas. También pueden buscar otra salida de las cuevas que sea más accesible.
 
-Los sakalas no quieren nada a cambio de su ayuda, pero hay un problema muy importante, el equipo que le den a los sakalas se quedarán. No habrá forma de recuperarlo. 
+Si deciden buscar otra salida deberán entrar en el sistema de cuevas descendiendo a la salida que conocen y explorarlas en busca de otra salida. Necesitarán una tirada de Atletismo para descender con cuerdas hasta la salida en los acantilados y luego podrán hacer 1 tirada de Supervivencia cada medio día buscando por explorador en las cuevas. 
 
-xxx
+Si consiguen 5 éxitos o avances encontrarán una salida que da a una fosa al norte del lago central. Si en un turno fallan todos se perderán y perderán un punto de los cinco. Esta opción es más cómoda y fácil para la tribu, pero será una perdida de tiempo importante que permitirá que lleguen más tropas nazis.
+
+La exploración de las cuevas puede ser un buen momento para que saques si quieres alguna abominación escondida del mundo perdido. Desde bandadas de murciélagos gigantes a algún tipo de gusano gigante (Manual básico pág. 268) terrible que se esconde y caza en las cuevas. También podrían encontrar algún objeto que te sirva de gancho para futuras aventuras.
+
+\saltopagina
+
+Si han traído algún científico del campamento podrán comunicarse con los accalas, si no tendrán que hacer mímica o dibujos (literalmente deberán hacer gestos y dibujar cosas en papel) para explicar su plan a Chatla (el actual jefe, hijo del anterior jefe al que la gente de la expedición Challenger liberó de los pitecántropos).
+
+Una vez encontrada la nueva salida o si deciden usar la que ya conocen, deberán hablar con los accalas y buscar la manera de sacarlos sin que sus vigilantes los encuentren. El problema es que cada cierto tiempo los nazis llaman a los accalas para obligarles a hacer determinadas tareas como limpiar los tanques y el campamento, recoger leña y encender fuego o simplemente reírse de ellos haciéndoles bailar disparando a sus pies y cosas semejantes. 
+
+Eso supone que un grupo de unos 5 accalas deberán quedarse para que los nazis no sospechen. Lo más probable es que cuando descubran la fuga los fusilen. Unos 6 0 7 ancianos y ancianas de la tribu se ofrecerán. Son muy mayores y no creen poder escapar, así que decidirán sacrificarse con las generaciones más jóvenes.
+
+Tus comandos podrían intentar salvarlos y presentarse ellos con ropas de accalas, pero no darían el pego y la fuga sería descubierta mucho antes.
+
+Si cogen la salida de los acantilados, puedes poner algún tipo de obstáculo para hacer la escalada más interesante, como el ataque de una bandada de 5 o 6 pteranodontes que intentarán atrapar a un escalador para la cena.
+
+Cuando salga toda la tribu podrán ir a la zona boscosa donde huyeron con los rehenes liberados. Recuerda que la tribu escapará con víveres, mantas y utensilios de supervivencia. Con lo que eso no será un problema.
+
+Recuerda a tus comandos que sacar a la tribu por el acantilado será casi un día y medio, mientras que por la fosa del lago solo llevará medio día. Como decisión salomónica y no muy heroica pueda tardar solo un día en sacarlos por el acantilado si abandonan a los ancianos. 
+
+### Negociando con los accalas
+
+Los accalas no quieren nada a cambio de su ayuda, saben perfectamente que si no derrotan a los nazis como hicieron con los pitecántropos hacen años acabarán mal. Pero hay un problema muy importante, el equipo que le den a los accalas se quedarán. No habrá forma de recuperarlo. Así que deberán decidir si darles armas modernas o no.
+
+Los protocolos de la Fundación dicen que no se debe influir en la cultura accala, pero claro la intervención de los nazis ha marcado un antes y un después en la historia de los accalas, así que tus comandos tendrán que mirar que es mejor y las implicaciones éticas de entregar tecnología moderna a culturas mucho menos avanzadas tecnológicamente. 
+
+A nivel de batalla los accalas supones 2 tokens, 3 si se les entregan armas de fuego. Quizás toda esa tecnología sea mala, pero primero deben sobrevivir al exterminio al que les someterán los nazis si no se gana la batalla contra los nazis. se generoso con los benis si no dean a nadie atrás.
 
 \saltopagina
 
@@ -2401,7 +2429,7 @@ Veamos algunos ejemplos de uso interesante del terreno.
 
 * **Terreno pantanoso:** Pueden tratar de meter a las tropas nazis en terrenos pantanosos para que pierdan unidades, tanto de soldados como de vehículos. Si consiguen que la gran batalla sea en terreno pantanoso, las tropas de tus comandos no tendrán tanto problema como la fuerzas nazis y sus vehículos blindados que se hundirán en el fango. Esto no da token, pero debería dar ventajas. Como lo hagan ya será cosa suya.
 * **Estampida de dinosaurios:** Pueden tratar de provocar una estampida de dinosaurios herbívoros y lanzarlos contra la línea del frente nazi. Para crear la estampida deberán usar saurios carnívoros que primero reúnan y luego espanten a los herbívoros. Necesitarán un día de trabajo y podrán hacer 5 tiradas de Cabalgar por comando y saurio carnívoro. Si consiguen 5 tiradas exitosas (los avances cuentan como otro éxito) en un día, reunirán una buena manada que podrán lanzar en la batalla y les dará un token extra. Esta estrategia no funcionará si quiere meter a las fuerzas nazis en terreno pantanoso. Los grandes saurios herbívoros evitarán entrar en el pantano y reducirán su carrera.
-* **Fumarolas:** La meseta es una zona volcánica activa y hay muchas fumarolas que emiten extraños líquidos y gases. Tus comandos podrían diseñar (Ciencias) y construir (Reparar) algún tipo de explosivo o fuego griego y usarlo en combate. Si ponen a algún equipo (sakalas, campamento, etc.) a trabajar dos días enteros pueden conseguir un token extra.
+* **Fumarolas:** La meseta es una zona volcánica activa y hay muchas fumarolas que emiten extraños líquidos y gases. Tus comandos podrían diseñar (Ciencias) y construir (Reparar) algún tipo de explosivo o fuego griego y usarlo en combate. Si ponen a algún equipo (accalas, campamento, etc.) a trabajar dos días enteros pueden conseguir un token extra.
 * **Pteranodontes:** Usar los pteranodontes como fuerza aérea podría ser una buena idea si no fuera porque los únicos adiestrados para estas tareas son los de los comandos y no son suficientes para ser una fuerza a tomar en cuenta en la batalla. Aun así, igual tienen alguna idea loca como lanzar carne podrida a sus enemigos para hacer que los pteranodontes ataquen en campamento nazi. 
 
 A parte de estas ideas, tus comandos pueden tener todo tipo de ideas originales y bastante plausibles que pueden enriquecer la partida. Quien dice que no se les ocurra tratar de sorprender al enemigo moviéndose por los acantilados de la meseta hasta ponerse en su espalda y aparecer detrás suyo con la ventaja que eso puede suponer. Trata de ser generoso en benis con esas ideas. Piensa que directamente te están haciendo la partida ellos solos.
@@ -4397,12 +4425,12 @@ Los pteranodontes son unos de los saurios voladores de mayor tamaño, llegando a
 
 \saltopagina
 
-## Los sakala y otros habitantes del mundo perdido
+## Los accala y otros habitantes del mundo perdido
 La expedición Challenger no solo encontró dinosaurios, también otros animales prehistóricos como el megaloceros o el glyptodon. También estuvieron en contacto con homínidos anteriores a los humanos e incluso con aborígenes de la selva que llegaron a la meseta de Maple White. 
 
-### Indios sakala
+### Indios accala
 
-[![Detalle del día a día de los sakala](./assests/images/iskalis.jpg 'Natives of the Amazon / V. Dutertre.')](https://picryl.com/media/natives-of-the-amazon-v-dutertre 'Natives of the Amazon / V. Dutertre.')
+[![Detalle del día a día de los accala](./assests/images/iskalis.jpg 'Natives of the Amazon / V. Dutertre.')](https://picryl.com/media/natives-of-the-amazon-v-dutertre 'Natives of the Amazon / V. Dutertre.')
 
 Esta tribu primitiva de aborígenes llevan siglos si no milenios viviendo en la meseta. De menor estatura que los humanos modernos, son más fuertes y resistentes por su dura vida.
 
@@ -4419,7 +4447,7 @@ Han desarrollado técnicas para enfrentarse, sobre todo en grupo, contra seres m
 * **Desventajas:** Manazas (menor), Analfabeto (menor)
 * **Equipo:** Pieles (+1 armadura pecho y piernas), hacha de piedra (FUE+d4) o arco simple, lanza de punta de piedra (FUE+d4, parada +1, alcance 1, dos manos)
 
-**Deberías personalizar las estadísticas y equipo** de cada sakala que saques en partida, según su profesión y posición social.  
+**Deberías personalizar las estadísticas y equipo** de cada accala que saques en partida, según su profesión y posición social.  
 
 \saltopagina
 
@@ -4569,7 +4597,7 @@ Esta campaña va de joder los malvados planes de los nazis, así que cualquier t
 ### Licencias con la obra original
 Me he tomado una serie de licencias con la obra original de Sir Arthur Conan Doyle a la hora de desarrollar esta campaña, que pueden resumirse en los siguientes puntos:
 
-* Los dinosaurios son muchísimo más inteligentes que en el libro. En el original se les representa como seres estúpidos fáciles de engañar. Su cerebro es muy pequeño y esa es su principal debilidad. En esta campaña se considera que sus cerebros han evolucionado gracias a la interacción con los sakalas.
+* Los dinosaurios son muchísimo más inteligentes que en el libro. En el original se les representa como seres estúpidos fáciles de engañar. Su cerebro es muy pequeño y esa es su principal debilidad. En esta campaña se considera que sus cerebros han evolucionado gracias a la interacción con los accalas.
 * Siguiendo con el punto anterior, los aborígenes no se dedican a cazar y matar dinosaurios, sino que han aprendido a semi-domesticarlos.
 
 \saltopagina
