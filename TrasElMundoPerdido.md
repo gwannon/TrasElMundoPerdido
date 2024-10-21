@@ -3943,14 +3943,16 @@ En la batalla Madas, como su gente, es brutal, pero nunca permitirá atacar y ma
 
 Chatla ha crecido desde que era el joven guerrero hijo del jefe, pero no ha madurado mucho. Sigue siendo impulsivo e impetuoso, pero la vida adulta de jefe le ha hecho sentar la cabeza. De hecho ha formado una familia, tal vez porque era lo que debía hacer un futuro jefe, pero cada noche sueñas con cazar alosaurios y montar sobre ellos como los grandes héroes.
 
+Aun así Chtala no es tonto, sabe del poder de las armas modernas y sabe que no pueden hacer nada contra los monstruos de hierro reptadores y el monstruo gigante volador que han traído los nuevos extranjeros. Su gente no duraría nada con ellos. Así que está esperando a la mínima oportunidad para rebelarse.
+
 * **Atributos:** Agilidad d10, Astucia d8, Espíritu d6, Fuerza d10, Vigor d10
+
+\saltopagina
+
 * **Habilidades:** Atletismo d10, Cabalgar d6, Conocimientos Generales d6, Disparar d10, Intimidar d6, Notar d8, Pelear d10, Sigilo d8, Supervivencia d8
 * **Paso:** 6; **Parada:** 8(1); **Dureza:** 8(1)
 * **Ventajas:** Ataque repentino, Bloqueo,  Matagigantes, Temple
 * **Desventajas:** Manazas (menor), Analfabeto (menor), Impulsivo (mayor)
-
-\saltopagina
-
 * **Equipo:** Pieles (+1 armadura pecho y piernas), hacha de piedra (FUE+d4) o arco simple, lanza de punta de piedra (FUE+d4, parada +1, alcance 1, dos manos)
 
 **Sugerencia de interpretación:** Sigues siendo el muchacho impulsivo que lanzó a su tribu contra los terribles pitecántropos y salió victorioso y llevas toda la vida volver a revivir aquellos momentos. Puede que ese momento haya llegado y tus estás ansioso por ello. 
