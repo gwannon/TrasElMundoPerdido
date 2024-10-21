@@ -2359,19 +2359,19 @@ El general von Liebenfels considera que los accala de la meseta emponzoñan los 
 
 Los accalas son la fuerza de combate más importante de la meseta y sin conseguir su ayuda la batalla está abocada al fracaso. Así pues, es fundamental salvarlos de los nazis y conseguir que se unan a tus comandos.
 
-Rescatar a todo una tribu no es lo mismo que a unos pocos rehenes, exige otra estrategia muy distinta. Las lanzas y los arcos de los accalas no son rivales para las armas de las tropas nazis. Además tienen el problema del tiempo, Horace sabe que von Liebenfels quiere exterminar a todos los accalas y no va a esperar mucho. Así que habrá que probar otros métodos y rápido.
+Rescatar a todo una tribu no es lo mismo que a unos pocos rehenes, exige otra estrategia muy distinta. Las lanzas y los arcos de los accalas no son rivales para las armas de las tropas nazis. Además, tienen el problema del tiempo, Horace sabe que von Liebenfels quiere exterminar a todos los accalas y no va a esperar mucho. Así que habrá que probar otros métodos y rápido.
 
 ### Cuevas secretas
 
-Siguiendo las órdenes de von Liebenfels, las tropas nazis han reunido a todos los accalas en las cuevas donde viven. Un par de tanques con ametralladoras pesadas cubiertos con unos 20 soldados vigilan las salidas de las cuevas. Tus comandos deberían ser rivales para esas fuerzas, si se enfrentan directamente. Además los nazis podrían disparar con los tanques contra la entrada de las cuevas y provocar derrumbamientos y decenas de muertos entre los accalas.
+Siguiendo las órdenes de von Liebenfels, las tropas nazis han reunido a todos los accalas en las cuevas donde viven. Un par de tanques con ametralladoras pesadas cubiertos con unos 20 soldados vigilan las salidas de las cuevas. Tus comandos deberían ser rivales para esas fuerzas, si se enfrentan directamente. Además, los nazis podrían disparar con los tanques contra la entrada de las cuevas y provocar derrumbamientos y decenas de muertos entre los accalas.
 
 Si hablan con Lady Roxton, está sabe que las cuevas de los accalas forman una red de cavernas bastante amplia, pero los accalas casi no las han explorado. Pero como mínimo hay una entrada/salida en los acantilados del norte de la meseta. Aunque están a media altura en los acantilados, podrían usarlos como forma de sacar a los accalas de las cuevas. También pueden buscar otra salida de las cuevas que sea más accesible.
 
-Si deciden buscar otra salida deberán entrar en el sistema de cuevas descendiendo a la salida que conocen y explorarlas en busca de otra salida. Necesitarán una tirada de Atletismo para descender con cuerdas hasta la salida en los acantilados y luego podrán hacer 1 tirada de Supervivencia cada medio día buscando por explorador en las cuevas. 
+Si deciden buscar otra salida deberán entrar en el sistema de cuevas, descendiendo a la salida que conocen y explorarlas en busca de otra salida. Necesitarán una tirada de Atletismo para descender con cuerdas hasta la salida en los acantilados y luego podrán hacer 1 tirada de Supervivencia cada medio día buscando por explorador en las cuevas. 
 
 Si consiguen 5 éxitos o avances encontrarán una salida que da a una fosa al norte del lago central. Si en un turno fallan todos se perderán y perderán un punto de los cinco. Esta opción es más cómoda y fácil para la tribu, pero será una perdida de tiempo importante que permitirá que lleguen más tropas nazis.
 
-La exploración de las cuevas puede ser un buen momento para que saques si quieres alguna abominación escondida del mundo perdido. Desde bandadas de murciélagos gigantes a algún tipo de gusano gigante (Manual básico pág. 268) terrible que se esconde y caza en las cuevas. También podrían encontrar algún objeto que te sirva de gancho para futuras aventuras.
+La exploración de las cuevas puede ser un buen momento para que saques si quieres alguna abominación escondida del mundo perdido. Desde bandadas de murciélagos gigantes a algún tipo de gusano gigante (Manual Básico, pág. 268) terrible que se esconde y caza en las cuevas. También podrían encontrar algún objeto que te sirva de gancho para futuras aventuras.
 
 \saltopagina
 
@@ -2387,7 +2387,7 @@ Si cogen la salida de los acantilados, puedes poner algún tipo de obstáculo pa
 
 Cuando salga toda la tribu podrán ir a la zona boscosa donde huyeron con los rehenes liberados. Recuerda que la tribu escapará con víveres, mantas y utensilios de supervivencia. Con lo que eso no será un problema.
 
-Recuerda a tus comandos que sacar a la tribu por el acantilado será casi un día y medio, mientras que por la fosa del lago solo llevará medio día. Como decisión salomónica y no muy heroica pueda tardar solo un día en sacarlos por el acantilado si abandonan a los ancianos. 
+Recuerda a tus comandos que sacar a la tribu por el acantilado será casi un día y medio, mientras que por la fosa del lago solo llevará medio día. Como decisión salomónica y no muy heroica, pueden tardar solo un día en sacarlos por el acantilado si abandonan a los ancianos. 
 
 ### Negociando con los accalas
 
@@ -2395,7 +2395,7 @@ Los accalas no quieren nada a cambio de su ayuda, saben perfectamente que si no 
 
 Los protocolos de la Fundación dicen que no se debe influir en la cultura accala, pero claro la intervención de los nazis ha marcado un antes y un después en la historia de los accalas, así que tus comandos tendrán que mirar que es mejor y las implicaciones éticas de entregar tecnología moderna a culturas mucho menos avanzadas tecnológicamente. 
 
-A nivel de batalla los accalas supones 2 tokens, 3 si se les entregan armas de fuego. Quizás toda esa tecnología sea mala, pero primero deben sobrevivir al exterminio al que les someterán los nazis si no se gana la batalla contra los nazis. se generoso con los benis si no dean a nadie atrás.
+A nivel de batalla los accalas supones 2 tokens, 3 si se les entregan armas de fuego. Quizás toda esa tecnología sea mala, pero primero deben sobrevivir al exterminio al que les someterán los nazis si no se gana la batalla contra los nazis. Se generoso con los benis, si no dejan a nadie atrás.
 
 \saltopagina
 
@@ -2706,7 +2706,7 @@ Desde el patio central, un grupo de soldados bajan al jardín para detener el at
 
 El jardín no tiene más que algunos puntos donde protegerse de los rayos, como las fuentes o los bancos de piedra, pero una vez que se han usado como defensa, son destruidos por el rayo y no se puede usar más.
 
-Puedes hacer el combate más divertido y complicarlo haciendo que los rayos desintegradores corten los árboles. Esto hará que los troncos supongan terreno difícil y las copas de los árboles sean obstáculos que no pueden atravesar. También puedes traer mas soldados cn ametralladoras de los puestos de vigilancia de la defensas exteriores.
+Puedes hacer el combate más divertido y complicarlo haciendo que los rayos desintegradores corten los árboles. Esto hará que los troncos supongan terreno difícil y las copas de los árboles sean obstáculos que no pueden atravesar. También puedes traer más soldados con ametralladoras de los puestos de vigilancia de la defensas exteriores.
 
 #### Soldado rayo nazi
 Estos soldados portan dos grandes inventos del Doctor Eckart, su armadura de polímeros superresistente y su arma de rayos portátil. Son lentos y torpes pero increíblemente destructivos. Por eso suelen tener un compañero de fatigas que les guarda las espaldas. 
@@ -3936,6 +3936,24 @@ En la batalla Madas, como su gente, es brutal, pero nunca permitirá atacar y ma
 * **Equipo:** Garrote endurecido (FUE+d6)
 
 **Sugerencia de interpretación:** Gruñe, chilla y haz ruidos raros. Gesticula sin mucho sentido y golpea la mesa. Si cree que puede ser divertido para todos, lanza los ganchitos que tengáis por la mesa.
+
+### Chatla, impulsivo jefe accala &#x2638;
+
+[![Detalle jefe Chatla](./assests/images/pando.webp 'Pacquiao!! By RAPHTOR')](https://www.deviantart.com/raphtor/art/Pacquiao-416029704 'Pacquiao!! By RAPHTOR')
+
+Chatla ha crecido desde que era el joven guerrero hijo del jefe, pero no ha madurado mucho. Sigue siendo impulsivo e impetuoso, pero la vida adulta de jefe le ha hecho sentar la cabeza. De hecho ha formado una familia, tal vez porque era lo que debía hacer un futuro jefe, pero cada noche sueñas con cazar alosaurios y montar sobre ellos como los grandes héroes.
+
+* **Atributos:** Agilidad d10, Astucia d8, Espíritu d6, Fuerza d10, Vigor d10
+* **Habilidades:** Atletismo d10, Cabalgar d6, Conocimientos Generales d6, Disparar d10, Intimidar d6, Notar d8, Pelear d10, Sigilo d8, Supervivencia d8
+* **Paso:** 6; **Parada:** 8(1); **Dureza:** 8(1)
+* **Ventajas:** Ataque repentino, Bloqueo,  Matagigantes, Temple
+* **Desventajas:** Manazas (menor), Analfabeto (menor), Impulsivo (mayor)
+
+\saltopagina
+
+* **Equipo:** Pieles (+1 armadura pecho y piernas), hacha de piedra (FUE+d4) o arco simple, lanza de punta de piedra (FUE+d4, parada +1, alcance 1, dos manos)
+
+**Sugerencia de interpretación:** Sigues siendo el muchacho impulsivo que lanzó a su tribu contra los terribles pitecántropos y salió victorioso y llevas toda la vida volver a revivir aquellos momentos. Puede que ese momento haya llegado y tus estás ansioso por ello. 
 
 \saltopagina
 
