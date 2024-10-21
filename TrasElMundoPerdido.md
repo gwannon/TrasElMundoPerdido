@@ -2336,26 +2336,51 @@ Rescatar a los rehenes es la misión que primero deberán acometer tus comandos.
 
 ### Planeando el rescate
 
-xxx
+En el campamento nazi hay como unos 80 personas. Es un gran rectángulo de tiendas campañas en la zona oeste de la meseta, con una gran zona despejada donde aterriza el dirigible y donde están aparcados los vehículos blindados. El campamento está al lado del lago para tener acceso a agua para limpiar y asearse, pero tienen sus propias provisiones de agua de beber.
+
+Cada lado del rectángulo tiene una especie de trinchera con una ametralladora y un gran foco que vigila que no se acerquen saurios peligrosos. Hay además, 2 patrullas que recorren el perímetro del campamento (4 soldados) y está siempre en lados opuestos. 
+
+Dentro del campamento hay actividad las 24 horas y focos por las noches iluminado las zonas de cocina y comida. Hay fogatas para cocinar y calentarse de noche y suelen ser las zonas de más actividad.
+
+En el centro del campamento hay un gran pabellón (más grande que el resto de tiendas) que usa von Liebenfels como dormitorio y como sala de guerra. A no ser que infiltren en el campamento, no podrán saber que los rehenes están en un pabellón adyacente al de von Liebenfels, vigilado por 2 soldados 24 horas. Están atados a los postes con esposas (consistencia 8) y solo los liberan para interrogarlos o darles de comer.
 
 Si hacen algún tipo de fotografía aérea con los pteranodontes del campamento nazi, puedes darles un +2 a las tiradas de planificar la ruta o cuando tengan que salir del campamento.
 
+\saltopagina
+
 ### Rescatando a los rehenes
 
-xxx
+El plan de rescate es cosa de tus comandos y deberían llevarlo a cabo como quieran y cuando quieran, pero si esperan el zepelín traerá más tropas. Ten en cuenta estas cosas cuando planteen y llevan a cabo su plan.
+
+* Los nazis estarán sobre aviso de que están en la Meseta si atacaron a los soldados del ascensor.
+* Hay un 50% de posibilidades de que haya luna.
+* Los nazis no salen del campamento para nada, así que montar distracciones fuera del campamento no funcionarán a no ser que sea algo muy grande como un gran incendio.
+* Si el dirigible está en el aire, será muy complicado escapar de su vista y de sus focos.
+* Entre los vehículos que ha traído von Liebenfels hay motos que pueden ser usadas para perseguir a los prisioneros que escapen del campamento.
+* Los soldados han aprendido a temer a las bandadas de pteranodontes. Se han llevado a varias personas a sus nidos. Suelen disparar para espantarlos y por conseguir su carne. Los individuos solitarios no suelen causar problemas
+ y los evitan.
+* Los saurios que se acercan al campamento son derribados con las ametralladoras y suelen sacar carne de ellos para las raciones de los soldados.
 
 ### ¿Qué cuentan los rehenes?
 
-xxx
+Lady Roxton confeso bajo tortura, de hecho tiene todavía heridas de los golpes y quemaduras producidas durante los interrogatorios, la ubicación de la Meseta de Maple White y lo que es peor, el secreto de los diamantes. Según ella, tenían demasiada información sobre la Fundación. Cuando creían que estaba inconsciente, von Liebenfels hablo con uno de sus lugartenientes de que los diamantes eran adecuados, pero no sabe que significaba.
 
-Por último, el campamento no fue rival para el ejército nazi, pero pudo esconder ciertos recursos, como material médico y componentes de la radio suficiente para arreglar la original. 
+Arntine Lyngstad ha sufrido torturas porque si. Von Liebenfels termino reconociéndola y tras juntar los puntos se dio cuenta de que fue culpable en parte de su fracaso en Noruega. Todo el sadismo 
+
+Al final la conciencia de Horace Chambers saldrá a la luz y confesará todo el plan de IM y del general Linton. Contará como IM organizo todo esto para atraer a los nazis, como Linton decidió sacrificar la Fundación y su gente y sus animales, para sacar a miles de soldados, barcos, equipo y recursos de los diferentes frentes de la guerra. 
+
+Él creía en el plan, en tiempos difíciles se toman decisiones difíciles, y sacrificar unas pocas personas para salvar a miles, si no millones, le pareció totalmente lógico. Pero se ha dado cuenta de que nada justifica las acciones de la IM. Hacer esas cosas no les hacen mejores que los nazis.
+
+\saltopagina
+
+Horace Chambers también ha sido interrogado y torturado, pero a diferencia del resto, él tenía un guion que seguir para engañar a von Liebenfels y solo tenía que ir soltándolo poco a poco.
+
+Por último, el campamento no fue rival para el ejército nazi, pero pudo esconder ciertos recursos, como material médico y componentes de la radio suficiente para arreglar la original. Podrían rescatarlo gastando medio día.
 
 ## Evitando un genocidio
 ```
 El general von Liebenfels considera que los accala de la meseta emponzoñan los ideales raciales nazis y se propone a exterminar a toda la tribu, si alguien no lo evita.
 ```
-
-\saltopagina
 
 Los accalas son la fuerza de combate más importante de la meseta y sin conseguir su ayuda la batalla está abocada al fracaso. Así pues, es fundamental salvarlos de los nazis y conseguir que se unan a tus comandos.
 
@@ -2369,11 +2394,11 @@ Si hablan con Lady Roxton, está sabe que las cuevas de los accalas forman una r
 
 Si deciden buscar otra salida deberán entrar en el sistema de cuevas, descendiendo a la salida que conocen y explorarlas en busca de otra salida. Necesitarán una tirada de Atletismo para descender con cuerdas hasta la salida en los acantilados y luego podrán hacer 1 tirada de Supervivencia cada medio día buscando por explorador en las cuevas. 
 
+\saltopagina
+
 Si consiguen 5 éxitos o avances encontrarán una salida que da a una fosa al norte del lago central. Si en un turno fallan todos se perderán y perderán un punto de los cinco. Esta opción es más cómoda y fácil para la tribu, pero será una perdida de tiempo importante que permitirá que lleguen más tropas nazis.
 
 La exploración de las cuevas puede ser un buen momento para que saques si quieres alguna abominación escondida del mundo perdido. Desde bandadas de murciélagos gigantes a algún tipo de gusano gigante (Manual Básico, pág. 268) terrible que se esconde y caza en las cuevas. También podrían encontrar algún objeto que te sirva de gancho para futuras aventuras.
-
-\saltopagina
 
 Si han traído algún científico del campamento podrán comunicarse con los accalas, si no tendrán que hacer mímica o dibujos (literalmente deberán hacer gestos y dibujar cosas en papel) para explicar su plan a Chatla (el actual jefe, hijo del anterior jefe al que la gente de la expedición Challenger liberó de los pitecántropos).
 
@@ -2393,11 +2418,11 @@ Recuerda a tus comandos que sacar a la tribu por el acantilado será casi un dí
 
 Los accalas no quieren nada a cambio de su ayuda, saben perfectamente que si no derrotan a los nazis como hicieron con los pitecántropos hacen años acabarán mal. Pero hay un problema muy importante, el equipo que le den a los accalas se quedarán. No habrá forma de recuperarlo. Así que deberán decidir si darles armas modernas o no.
 
+\saltopagina
+
 Los protocolos de la Fundación dicen que no se debe influir en la cultura accala, pero claro la intervención de los nazis ha marcado un antes y un después en la historia de los accalas, así que tus comandos tendrán que mirar que es mejor y las implicaciones éticas de entregar tecnología moderna a culturas mucho menos avanzadas tecnológicamente. 
 
 A nivel de batalla los accalas supones 2 tokens, 3 si se les entregan armas de fuego. Quizás toda esa tecnología sea mala, pero primero deben sobrevivir al exterminio al que les someterán los nazis si no se gana la batalla contra los nazis. Se generoso con los benis, si no dejan a nadie atrás.
-
-\saltopagina
 
 ## Asociaciones peligrosas
 ```
@@ -2412,13 +2437,13 @@ Según Madas, el poder extra que dar las armas de metal es la única forma de po
 
 ¿Deben darles acceso a una tecnología avanzada a unos seres tan primitivos y que saben a ciencia cierta que son malvados? Recordemos que disfrutaban sacrificando a humanos tirándolos por el acantilado de la meseta sobre unas piedras puntiagudas. Pero está claro que han podido volverse mejores y haber aprendido de sus errores y las armas de metal son su única forma de supervivencia en un mundo tan peligroso como este mundo perdido. 
 
-Madas no va a usar para el mal esas armas, solo es una forma de proteger a su gente, pero tus comandos no pueden saberlo (solo ver las pistas) y tendrán que decidir si darles una segunda oportunidad 
+\saltopagina
+
+Madas no va a usar para el mal esas armas, solo es una forma de proteger a su gente, pero tus comandos no pueden saberlo (solo ver las pistas) y tendrán que decidir si darles una segunda oportunidad.
 
 También tendrán que decidir si les entregan las armas antes o después de la gran batalla. Pero después de la batalla no tendrá casi importancia porque estarán todos muertos o podrán cogerlas de los cuerpos muertos de aliados y nazis.
 
 Los pitecántropos no son ni muchos ni muy fuertes, pero si están en su terreno, el bosque, se vuelven muy peligrosos. Pueden moverse a gran velocidad, atacar por sorpresa desde los árboles y desaparecer en las copas por segundos. Madas puede reunir **unos 30 combatientes que pueden dar un token** a tus comandos en la batalla. 
-
-\saltopagina
 
 ## Aprovechando el terreno y otros trucos
 ```
@@ -2429,12 +2454,13 @@ Veamos algunos ejemplos de uso interesante del terreno.
 
 * **Terreno pantanoso:** Pueden tratar de meter a las tropas nazis en terrenos pantanosos para que pierdan unidades, tanto de soldados como de vehículos. Si consiguen que la gran batalla sea en terreno pantanoso, las tropas de tus comandos no tendrán tanto problema como la fuerzas nazis y sus vehículos blindados que se hundirán en el fango. Esto no da token, pero debería dar ventajas. Como lo hagan ya será cosa suya.
 * **Estampida de dinosaurios:** Pueden tratar de provocar una estampida de dinosaurios herbívoros y lanzarlos contra la línea del frente nazi. Para crear la estampida deberán usar saurios carnívoros que primero reúnan y luego espanten a los herbívoros. Necesitarán un día de trabajo y podrán hacer 5 tiradas de Cabalgar por comando y saurio carnívoro. Si consiguen 5 tiradas exitosas (los avances cuentan como otro éxito) en un día, reunirán una buena manada que podrán lanzar en la batalla y les dará un token extra. Esta estrategia no funcionará si quiere meter a las fuerzas nazis en terreno pantanoso. Los grandes saurios herbívoros evitarán entrar en el pantano y reducirán su carrera.
+
+\saltopagina
+
 * **Fumarolas:** La meseta es una zona volcánica activa y hay muchas fumarolas que emiten extraños líquidos y gases. Tus comandos podrían diseñar (Ciencias) y construir (Reparar) algún tipo de explosivo o fuego griego y usarlo en combate. Si ponen a algún equipo (accalas, campamento, etc.) a trabajar dos días enteros pueden conseguir un token extra.
 * **Pteranodontes:** Usar los pteranodontes como fuerza aérea podría ser una buena idea si no fuera porque los únicos adiestrados para estas tareas son los de los comandos y no son suficientes para ser una fuerza a tomar en cuenta en la batalla. Aun así, igual tienen alguna idea loca como lanzar carne podrida a sus enemigos para hacer que los pteranodontes ataquen en campamento nazi. 
 
 A parte de estas ideas, tus comandos pueden tener todo tipo de ideas originales y bastante plausibles que pueden enriquecer la partida. Quien dice que no se les ocurra tratar de sorprender al enemigo moviéndose por los acantilados de la meseta hasta ponerse en su espalda y aparecer detrás suyo con la ventaja que eso puede suponer. Trata de ser generoso en benis con esas ideas. Piensa que directamente te están haciendo la partida ellos solos.
-
-\saltopagina
 
 ## Batalla del Mundo Perdido
 ```
@@ -2449,6 +2475,8 @@ Tus comandos sabrán todo esto por la gente del campamento que ha estado observa
 
 Tus comandos deberán calcular cuánto les llevará reclutar a cada grupo, tender trampas o preparar estrategias y decidir si siguen con esos trabajos o se lanzan a la batalla, porque cada dos días su enemigo se hace más grandes y poderoso. Han de tener en cuenta que el comando ya cuenta como un token frente a los 5 con los que empiezan las nazis.
 
+\saltopagina
+
 ### Declarando la guerra
 
 Cuando tus comandos lo crean adecuado, deberán reunir sus fuerzas y lanzarse contra las fuerzas nazis. Déjales que lo monten a su gusto desde un mensajero montado en un estegosaurio que entregará un mensaje a von Liebenfels, que se presenten frente al campamento nazi todos juntos viniendo cada grupo de una dirección distinta.
@@ -2458,8 +2486,6 @@ Cuando tus comandos lo crean adecuado, deberán reunir sus fuerzas y lanzarse co
 En ese momento debes contar los tokens de cada grupo y eso te dirá las fuerzas de cada grupo y podrás asignar los 10 marcadores de fuerza a la facción más poderosa y los marcadores proporcionales a la otra facción.
 
 El personaje con mayor Tácticas debería liderar el bando de tus comandos, mientras que von Liebenfels con su d8 en Tácticas será el comandante de las fuerzas nazis. 
-
-\saltopagina
 
 Si tus comandos no son muy de estrategia, Horace Chambers es un pequeño genio militar con otro d8. 
 
@@ -2471,23 +2497,26 @@ Von Liebenfels cuenta también con sus paladines para que actúen durante la bat
 
 Si tus comandos fallan en la batalla, puedes continuar la aventura de forma que sean capturados y llevados al castillo de Hohenzollern donde serán encerrados y torturados. Sus saurios deberían ser capturados y entrenados para obedecer a los nazis. Puede ser interesante la fuga del castillo y que traten de liberar a tus saurios de sus collares de control. Una vez liberados de sus captores, podrían seguir la misión tratando de frustrar los planes del Doctor Eckart.
 
+\saltopagina
+
 ## El zepelín
 ```
 El general von Liebenfels ha perdido la batalla, pero no está todo perdido para los nazis. Su zeppelin huye con algunos tesoros que las fuerzas nazis han sacado del mundo perdido y puede que todavía puedan ganar el siguiente y definitivo asalto.
 ```
+
+[![Foto zepelín nazi en el Amazonas](./assests/images/dirigible.jpg 'LZ-127 at Jiquiá landing field in Recife')](https://www.airships.net/blog/zeppelin-mast-recife-brazil-pernambuco/ 'LZ-127 at Jiquiá landing field in Recife')
+
+&nbsp;
+
 Es importante dejar claro que en esta parte de la aventura tus comandos deberían fracasar, para que puedan ir a la parte 9 y enfrentarse a los nazis en un castillo de la selva Negra. Pero eso no quiere decir que si se lo montan excepcionalmente bien y los dados acompañan puedan terminar la aventura aquí mismo y también está bien.
 
 Cuando la batalla termine, solo debería quedar funcional el zepelín nazi. Quizás tenga algo de daño, pero al ser volador solo debería tener impactos pequeños de armas de fuego en los cristales y quizás haya sufrido algún pequeño incendio o rasgones en el globo.
 
 Su principal problema es que ha acabado con toda la munición y ha dejado de ser efectivo. El capitán ha dejado una pequeña reserva de balas por si tienen algún problema en el viaje de regreso a Alemania.
 
-La escena del zepelín puedes montarla de varias maneras y puedes ser muy divertido si les das un final desastroso pero muy pulp. Veamos opciones:
-
 \saltopagina
 
-[![Foto zepelín nazi en el Amazonas](./assests/images/dirigible.jpg 'LZ-127 at Jiquiá landing field in Recife')](https://www.airships.net/blog/zeppelin-mast-recife-brazil-pernambuco/ 'LZ-127 at Jiquiá landing field in Recife')
-
-&nbsp;
+La escena del zepelín puedes montarla de varias maneras y puedes ser muy divertido si les das un final desastroso pero muy pulp. Veamos opciones:
 
 **Persecución aérea:** La primera opción que se les ocurrirá a tus comandos es engancharse a un pteranodonte y salir volando. No es muy útil porque en cuanto el zepelín coja velocidad los dejará atrás en segundos. Puedes hacer que les disparen desde las ventanillas de la góndola con armas normales y ellos respondan.
 
@@ -2501,8 +2530,6 @@ Si consiguen acercarse a la góndola, debería aparecer un nazi que hará el sal
 
 Si quieres puedes hacerles unas tiradas de Notar para dejar de mirar al cielo y que detecten el final de la meseta y no se caigan por sus acantilados. Si eso pasa siempre puedes hacer tiradas de Atletismo y acabar agarrados al borde del precipicio en un auténtico cliffhanger.
 
-\saltopagina
-
 Como hemos dicho antes, la posibilidad de éxito es factible. Puede que tus comandos se lo monten muy bien y consigan entrar en el zepelín mientras huye y hacerse con su control o estrellarlo. Tal vez hayan creado una catapulta para la batalla y ahora con ella derriben al zepelín. 
 
 Si se lo merecen no les quites su victoria en favor de la historia. Con unas modificaciones mínimas puedes convertir el último capítulo de la campaña en una aventura de un par de sesiones en que eviten que los nazis fabriquen una superarma.
@@ -2512,6 +2539,8 @@ Si se lo merecen no les quites su victoria en favor de la historia. Con unas mod
 El resultado de muchas de las acciones anteriores contra el zepelín serán caídas al vacío que deberían ser mortales. Como todos sabemos en el pulp los héroes y las heroínas no mueren en caídas, siempre pasa algo y se salvan.
 
 Puedes salvarles de muchas formas. Un pteranodonte que lo agarra en plena caída o caer sobre árboles y llevarse algo de daño pero sin ser mortal. Quizás el resto de comandos han creado un colchón para su caída o si quieres alguno de los géiseres de la zona volcánica explota en el momento justo y le salva.
+
+\saltopagina
 
 |VEHÍCULO|TAMAÑO|MANIOBRA.|VEL. MÁX.|DUREZA|TRIPULACIÓN|
 |--------|------|----|--|------|-----|

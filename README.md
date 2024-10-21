@@ -7,9 +7,11 @@
 
 # Changelog
 
-## Versión 0.9.3 En desarrollo
-* Terminando la parte de "Misión de rescate" de "Parte 8: Regreso al Mundo Perdido"
-* Terminando la parte de "Evitando un genocidio" de "Parte 8: Regreso al Mundo Perdido"
+## Versión 1.0 En desarrollo
+
+## Versión 0.9.3 21/10/2024
+* Terminada la parte de "Misión de rescate" de "Parte 8: Regreso al Mundo Perdido"
+* Terminada la parte de "Evitando un genocidio" de "Parte 8: Regreso al Mundo Perdido"
 * Terminada la parte de "Sabotaje" de "Parte 5: Normandía"
 
 ## Versión 0.9.2 19/10/2024
