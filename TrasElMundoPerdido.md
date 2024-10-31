@@ -676,7 +676,7 @@ Tu personaje está convencido de que los enemigos están en todas partes, y cree
 
 Como desventaja menor, tienes un -1 en todas las tiradas de habilidad que exijan concentración (como abrir cerraduras, jugar a las cartas, descifrar un código, …) cuando otros están a tu alrededor. Si se toma como mayor, además, el bonificador de -1 se aplicará a todas las tiradas de percepción, ya que estará más preocupado desvelando conspiraciones y enemigos ocultos que en vigilar o buscar.
 
-### Amnesia y flashbacks (menor/mayor)
+### Nueva desventaja: Amnesia y flashbacks (menor/mayor)
 El cerebro de tu comando, muy sabiamente, ha bloqueado parcialmente el recuerdo concreto de una situación traumática (cómo le torturaron, cómo presenció un asesinato, ...). No quiere decir que no recuerde ese hecho concreto, pero solo generalmente. Los detalles son lo que ha reprimido y todos sabemos que el demonio está en los detalles.
 
 Esos detalles vuelven a su mente como flashbacks mostrándoles los momentos más traumáticos del evento que produjo la amnesia, los gritos espeluznantes, el olor a sangre podrida, los brillantes ojos del asesino, ...
