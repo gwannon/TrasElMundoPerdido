@@ -7,7 +7,11 @@
 
 # Changelog
 
-## Versión 1.0 En desarrollo
+## Versión 1.0.1
+* Arreglas errores ortográficos.
+
+## Versión 1.0 En 22/10/2024
+* Lanzamiento oficial.
 
 ## Versión 0.9.3 21/10/2024
 * Terminada la parte de "Misión de rescate" de "Parte 8: Regreso al Mundo Perdido"
