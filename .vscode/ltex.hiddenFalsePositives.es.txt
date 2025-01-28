@@ -7,3 +7,25 @@
 {"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QRojo = carnívoros\nAzul = acuáticos\nVerde = herbívoros\nAmarillo = voladores\\E$"}
 {"rule":"LO_LOS","sentence":"^\\QPero tampoco lo alargues mucho (5-10 minutos) y si ves que alguien empieza a coger papel y lápiz, corta.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSi eso pasa siempre puedes hacer tiradas de Atletismo y acabar agarrados al borde del precipicio en un auténtico cliffhangers.\\E$"}
+{"rule":"AGREEMENT_DET_GN","sentence":"^\\QPueden, incluso, aterrizar en la parte superior del zepelín, pero en cuanto coja velocidad, el viento no debería dejarles moverse, tiradas de FUE para mantenerse agarrado y con avances podrán hacer cosas como moverse o descender por las cuerdas a la góndola (3 acciones de movimiento).\\E$"}
+{"rule":"AGREEMENT_PARTICIPLE_NOUN","sentence":"^\\QSoldado\nDesventajas:\\E$"}
+{"rule":"AGREEMENT_PARTICIPLE_NOUN","sentence":"^\\QBloqueo, Impávido, Sin piedad, Soldado\nDesventajas:\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d6\nCamuflaje:\\E$"}
+{"rule":"AGREEMENT_PARTICIPLE_NOUN","sentence":"^\\QMando, Osado\nDesventajas:\\E$"}
+{"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QFamosa\nDesventajas:\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d8+2.\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d4 de daño.\nVista y oído agudo.\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d8.\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d6\nGrande: +1 herida.\\E$"}
+{"rule":"AGREEMENT_PARTICIPLE_NOUN","sentence":"^\\QInvestigadora, Osada\nDesventajas:\\E$"}
+{"rule":"PHRASE_REPETITION","sentence":"^\\QEl zepelín\nEl zepelín de von Liebenfels está suspendido sobre el castillo de forma que pueden usarlo como un recurso del que sacar unidades nazis.\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d6\nPiel dura +1: Su piel dura y lisa no solo le protege del frío del mar, también de ataques de otros animales.\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d4.\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d4 de daño.\nTamaño +3: Mide de media unos 3 metros de largo y pesaba cerca de una tonelada.\\E$"}
+{"rule":"AGREEMENT_SER_ADJ_SG","sentence":"^\\QDeberán ganar 3 tiradas seguidas de FUE enfrentadas a la maquinaria de la puerta para sacarlas de sus bisagras.\\E$"}
+{"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QPodrían intentar enredar una red antisubmarinos en los motores del sumergible nazi.\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d6.\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d4\nGrande: +1 herida.\\E$"}
+{"rule":"SI_AFIRMACION","sentence":"^\\QSi falla, a repetir la escena.\\E$"}
+{"rule":"SI_AFIRMACION","sentence":"^\\QSi fallan, reglazo de Lady Roxton.\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d6\nTamaño +3: Mide de 3 a 5 metros de longitud y pesa entre 500 y 700 kg.\\E$"}

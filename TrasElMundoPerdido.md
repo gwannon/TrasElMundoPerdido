@@ -1042,7 +1042,7 @@ Puedes aprovechar para hacer una sesión 0 con cada comando en el que le recluta
 * Tu oficial superior te ofrece la posibilidad de librarte de pasar los años de condena que te quedan en la prisión militar si te enrolas en un proyecto secreto de IM. N te puede decir mucho más, pero que puede ser peor que una fría prisión militar. Si no estás dispuesto a participar, quizás los guardas pueden convencerte cuando nadie mire.
 * Un militar al que no conoces aparece en tu laboratorio y te muestra unas extrañas escamas que nunca habías visto o quizás los restos de unos huevos que no parecen de ningún animal actual. Te propone formar parte de un proyecto donde podrás estudiar cosas asombrosas que nunca nadie ha visto hasta ahora. Si no quieres participar, te deja su tarjeta y la extraña muestra para que la estudies, sabe que en cuanto descubras alguno de sus secretos aparecerás en su puerta para aceptar participar en el proyecto.
 
-Si investigan solo sabrán que les trasladarán a la reserva de animales salvajes de la Fundación Roxton en la isla de Skye. Unas buenas tiradas de investigar no sacarán a la luz nada extraño, pero dará a entender que alguien ha limpiado la información que se puede sacar de archivos, bibliotecas y periódicos.
+Si investigan solo sabrán que les trasladarán a la reserva de animales salvajes de la Fundación Roxton en la isla de Skye. Unas buenas tiradas de investigar no sacarán nada extraño a la luz, pero dará a entender que alguien ha limpiado la información que se puede sacar de archivos, bibliotecas y periódicos.
 
 ## Primeros pasos
 Del ferry que une tierra firme con la isla de Skye desembarcan tus comandos con sus macutos. Nadie más ha tomado el ferry, así que se conocen de vista. Delante del grupo se para un pequeño camión y el conductor les mira y les dice con un fuerte acento escocés «Entrad atrás, tenemos bastante camino hasta el castillo y no quiero llegar tarde al almuerzo. Por cierto, soy Willy.»
@@ -1070,7 +1070,7 @@ Si algún comando se baja del jeep y se acerca a Lady Roxton, el carnívoro más
 \saltopagina
 
 ## Entrenamiento
-A partir de este momento empezarán el entrenamiento con los diferentes dinosaurios que pueden durar unas semanas. El objetivo de esta parte es que tus comandos conozcan a los saurios, sus fortalezas y sus debilidades y puedas ver con que dinosaurio tienen más afinidad. Tendrán diferentes prácticas.
+A partir de este momento empezarán el entrenamiento con los diferentes dinosaurios que pueden durar unas semanas. El objetivo de esta parte es que tus comandos conozcan a los saurios, sus fortalezas y sus debilidades y puedas ver con qué dinosaurio tienen más afinidad. Tendrán diferentes prácticas.
 
 Los entrenamientos estarán dirigidos por la propia Lady Roxton que disfrutará de sus golpes y caídas y humillando a los comandos (solo un poquito) cuando lo hagan mal.
 
@@ -1080,7 +1080,7 @@ Los entrenamientos estarán dirigidos por la propia Lady Roxton que disfrutará 
 * Prácticas de **submarinismo con los ictiosaurios y plesiosaurios**. Serán ejercicios de inmersión y natación con ellos (tiradas de atletismo de saurio y humano). También podrán lanzarles objetos y que los recuperen del fondo del mar (tiradas de Notar para buscar el objeto y Atletismo para nadar rápido a recogerlo). 
 * Los entrenamientos con los **carnívoros serán unas pruebas de combate**. Deberán derribar a 5 maniquíes de diferentes materiales, cada uno más resistente al anterior, paja (consistencia 4), madera (6), madera con arpillera (8), madera con refuerzos metálicos (10) y acero (12). Los jinetes pueden apoyar a su montura en combate pasando una tirada de Cabalgar e indicarle la mejor posición o forma de atacar.
 
-Puedes inventarte otros ejercicios, si ves que tu mesa se entretiene con estos mini-juegos. 
+Puedes inventarte otros ejercicios, si ves que tu mesa se entretiene con estos minijuegos. 
 
 Aparte de trabajar con ellos aprenderán a cuidarlos, alimentarlos y entenderlos, de forma en una semana tendrán un +1 todas las tiradas relacionadas con los saurios que no sean de combate, como curarlos, entender sus señales o reacciones, etc. Puede aprovechar cada vez que van a un hábitat nuevo para contarles algo nuevo de los dinosaurios del lugar.
 
@@ -1269,7 +1269,7 @@ Durante el informe de misión les dieron varios posibles escondites (en el centr
 |1|**Edificio destruido:** El edificio ha sido derrumbado por algún proyectil explosivo. Si Jocelyn estaba dentro, es muy probable que esté muerta. Deberán investigar entre las ruinas si encuentran algo o preguntar a los vecinos si vivía alguien y fue rescatada, quizás la trasladarán a un hospital. Si calculan fechas del derrumbe y del último intento de rescate sabrán que fue destruido antes, así que no está aquí.|
 |2|**Creo que aquí no es:** En el supuesto piso franco hay una familia viviendo, quizás los datos del informe están equivocados, quizás el comando se ha equivocado de piso o número, incluso de calle. También podría ser que se hayan colado. Tendrán que investigar en el edificio qué ha pasado y su+i Jocelyn ha estado allí.|
 |3|**Vacío:** El lugar es el correcto, pero no hay señales de que nadie haya estado allí en meses. Quizás no se ha usado o tal vez Jocelyn es una paranoica que no deja ni una prueba de su presencia. Tendrán que hablar con los comerciantes locales y los vecinos para ver si dan una pista.|
-|4|**Registrado:** La puerta esta rota y el piso franco ha sido registrado a fondo, cajones sacados, armarios volcados, sillones y colchones rajados. No hay nada sin revisar. Como siempre, habrá que hablar con los vecinos por si fueron aliados o enemigos quienes registraron el piso. Tal vez haya pistas que indiquen si Jocelyn huyo y hacia donde pudo ir. Si investigan encontrarán un rastro de sangre seca en uno de las ventanas, pero no pueden precisar cuanto lleva allí. Como otras veces tal vez deban preguntar en hospitales y médicos privados.|
+|4|**Registrado:** La puerta está rota y el piso franco ha sido registrado a fondo, cajones sacados, armarios volcados, sillones y colchones rajados. No hay nada sin revisar. Como siempre, habrá que hablar con los vecinos por si fueron aliados o enemigos quienes registraron el piso. Tal vez haya pistas que indiquen si Jocelyn huyo y hacia donde pudo ir. Si investigan encontrarán un rastro de sangre seca en una de las ventanas, pero no pueden precisar cuanto lleva allí. Como otras veces tal vez deban preguntar en hospitales y médicos privados.|
 
 La idea de esta tabla es dividir al grupo lo más posible y que llamen la atención haciendo preguntas y husmeando por todas partes. Así alguien del grupo registrará un piso franco, otro comando preguntará a los lugareños, otro buscará en los hospitales, etc. 
 
@@ -2322,7 +2322,7 @@ Cuando tus comandos accedan a la meseta se encontrarán con una situación basta
 
 * **Donde estaba el campamento de la Fundación, han montado su campamento las tropas de von Liebenfels.** Han despejado una zona grande de terreno para que aterrice el dirigible.
 * Hay **tropas y blindados en las cuevas que habitan los accalas**, lo que denota que son prisioneros de los nazis.
-* Si vigilan durante largo rato podrán ver a **unidades nazis trayendo dinosaurios al campamento**. También verán a **tropas nazis trabajando en los pantanos de los pteranodontes**. Tus comandos no tienen por que saberlo, pero están sacando los diamantes del fango azul.
+* Si vigilan durante largo rato podrán ver a **unidades nazis trayendo dinosaurios al campamento**. También verán a **tropas nazis trabajando en los pantanos de los pteranodontes**. Tus comandos no tienen por qué saberlo, pero están sacando los diamantes del fango azul.
 * **No parece que haya patrullas vigilando la meseta**, así que o no tienen tropas suficientes o creen que controlan la meseta y no esperan que vengan fuerzas de fuera. Es una mezcla de ambos, von Liebenfels no tiene tropas suficientes y prefiere usarlas en cazar saurios y extraer diamantes. 
 
 \saltopagina
@@ -2336,7 +2336,7 @@ Rescatar a los rehenes es la misión que primero deberán acometer tus comandos.
 
 ### Planeando el rescate
 
-En el campamento nazi hay como unos 80 personas. Es un gran rectángulo de tiendas campañas en la zona oeste de la meseta, con una gran zona despejada donde aterriza el dirigible y donde están aparcados los vehículos blindados. El campamento está al lado del lago para tener acceso a agua para limpiar y asearse, pero tienen sus propias provisiones de agua de beber.
+En el campamento nazi hay como unas 80 personas. Es un gran rectángulo de tiendas campañas en la zona oeste de la meseta, con una gran zona despejada donde aterriza el dirigible y donde están aparcados los vehículos blindados. El campamento está al lado del lago para tener acceso a agua para limpiar y asearse, pero tienen sus propias provisiones de agua de beber.
 
 Cada lado del rectángulo tiene una especie de trinchera con una ametralladora y un gran foco que vigila que no se acerquen saurios peligrosos. Hay además, 2 patrullas que recorren el perímetro del campamento (4 soldados) y está siempre en lados opuestos. 
 
@@ -2365,7 +2365,7 @@ El plan de rescate es cosa de tus comandos y deberían llevarlo a cabo como quie
 
 Lady Roxton confeso bajo tortura, de hecho tiene todavía heridas de los golpes y quemaduras producidas durante los interrogatorios, la ubicación de la Meseta de Maple White y lo que es peor, el secreto de los diamantes. Según ella, tenían demasiada información sobre la Fundación. Cuando creían que estaba inconsciente, von Liebenfels hablo con uno de sus lugartenientes de que los diamantes eran adecuados, pero no sabe que significaba.
 
-Arntine Lyngstad ha sufrido torturas porque si. Von Liebenfels termino reconociéndola y tras juntar los puntos se dio cuenta de que fue culpable en parte de su fracaso en Noruega. Todo el sadismo 
+Arntine Lyngstad ha sufrido torturas porque sí. Von Liebenfels termino reconociéndola y tras juntar los puntos se dio cuenta de que fue culpable en parte de su fracaso en Noruega. Todo el sadismo 
 
 Al final la conciencia de Horace Chambers saldrá a la luz y confesará todo el plan de IM y del general Linton. Contará como IM organizo todo esto para atraer a los nazis, como Linton decidió sacrificar la Fundación y su gente y sus animales, para sacar a miles de soldados, barcos, equipo y recursos de los diferentes frentes de la guerra. 
 
@@ -2422,7 +2422,7 @@ Los accalas no quieren nada a cambio de su ayuda, saben perfectamente que si no 
 
 Los protocolos de la Fundación dicen que no se debe influir en la cultura accala, pero claro la intervención de los nazis ha marcado un antes y un después en la historia de los accalas, así que tus comandos tendrán que mirar que es mejor y las implicaciones éticas de entregar tecnología moderna a culturas mucho menos avanzadas tecnológicamente. 
 
-A nivel de batalla los accalas supones 2 tokens, 3 si se les entregan armas de fuego. Quizás toda esa tecnología sea mala, pero primero deben sobrevivir al exterminio al que les someterán los nazis si no se gana la batalla contra los nazis. Se generoso con los benis, si no dejan a nadie atrás.
+A nivel de batalla los accalas supones 2 tokens, 3 si se les entregan armas de fuego. Quizás toda esa tecnología sea mala, pero primero deben sobrevivir al exterminio al que les someterán los nazis si no se gana la batalla contra los nazis. Sé generoso con los benis, si no dejan a nadie atrás.
 
 ## Asociaciones peligrosas
 ```
@@ -2460,7 +2460,7 @@ Veamos algunos ejemplos de uso interesante del terreno.
 * **Fumarolas:** La meseta es una zona volcánica activa y hay muchas fumarolas que emiten extraños líquidos y gases. Tus comandos podrían diseñar (Ciencias) y construir (Reparar) algún tipo de explosivo o fuego griego y usarlo en combate. Si ponen a algún equipo (accalas, campamento, etc.) a trabajar dos días enteros pueden conseguir un token extra.
 * **Pteranodontes:** Usar los pteranodontes como fuerza aérea podría ser una buena idea si no fuera porque los únicos adiestrados para estas tareas son los de los comandos y no son suficientes para ser una fuerza a tomar en cuenta en la batalla. Aun así, igual tienen alguna idea loca como lanzar carne podrida a sus enemigos para hacer que los pteranodontes ataquen en campamento nazi. 
 
-A parte de estas ideas, tus comandos pueden tener todo tipo de ideas originales y bastante plausibles que pueden enriquecer la partida. Quien dice que no se les ocurra tratar de sorprender al enemigo moviéndose por los acantilados de la meseta hasta ponerse en su espalda y aparecer detrás suyo con la ventaja que eso puede suponer. Trata de ser generoso en benis con esas ideas. Piensa que directamente te están haciendo la partida ellos solos.
+Aparte de estas ideas, tus comandos pueden tener todo tipo de ideas originales y bastante plausibles que pueden enriquecer la partida. Quien dice que no se les ocurra tratar de sorprender al enemigo moviéndose por los acantilados de la meseta hasta ponerse en su espalda y aparecer detrás de él con la ventaja que eso puede suponer. Trata de ser generoso en benis con esas ideas. Piensa que directamente te están haciendo la partida ellos solos.
 
 ## Batalla del Mundo Perdido
 ```
@@ -2673,7 +2673,7 @@ Tiene varios niveles, cada uno de ellos amurallados. Las murallas no son realmen
 
 Cuenta con varias zonas ajardinadas donde tus comandos pueden esconderse en sus arbustos y parapetarse detrás de sus árboles. 
 
-La muralla exterior del castillo tiene forma de una estrella de 7 puntas y cada punta cuenta con un puesto de vigilancia que controla las laderas boscosas que dan acceso al castillo. Estos puestos tienen ametralladoras pesadas para defender el castillo. El puesto de vigilancia que esta sobre las rampas de acceso son los más importantes y con más vigilancia para controlar el acceso al castillo y un par de ametralladoras pesadas para detener cualquier vehículo no blindado.
+La muralla exterior del castillo tiene forma de una estrella de 7 puntas y cada punta cuenta con un puesto de vigilancia que controla las laderas boscosas que dan acceso al castillo. Estos puestos tienen ametralladoras pesadas para defender el castillo. El puesto de vigilancia que está sobre las rampas de acceso son los más importantes y con más vigilancia para controlar el acceso al castillo y un par de ametralladoras pesadas para detener cualquier vehículo no blindado.
 
 \saltopagina
 
@@ -2735,7 +2735,7 @@ Desde el patio central, un grupo de soldados bajan al jardín para detener el at
 
 El jardín no tiene más que algunos puntos donde protegerse de los rayos, como las fuentes o los bancos de piedra, pero una vez que se han usado como defensa, son destruidos por el rayo y no se puede usar más.
 
-Puedes hacer el combate más divertido y complicarlo haciendo que los rayos desintegradores corten los árboles. Esto hará que los troncos supongan terreno difícil y las copas de los árboles sean obstáculos que no pueden atravesar. También puedes traer más soldados con ametralladoras de los puestos de vigilancia de la defensas exteriores.
+Puedes hacer el combate más divertido y complicarlo haciendo que los rayos desintegradores corten los árboles. Esto hará que los troncos supongan terreno difícil y las copas de los árboles sean obstáculos que no pueden atravesar. También puedes traer más soldados con ametralladoras de los puestos de vigilancia de las defensas exteriores.
 
 #### Soldado rayo nazi
 Estos soldados portan dos grandes inventos del Doctor Eckart, su armadura de polímeros superresistente y su arma de rayos portátil. Son lentos y torpes pero increíblemente destructivos. Por eso suelen tener un compañero de fatigas que les guarda las espaldas. 
@@ -3252,7 +3252,7 @@ Mientras un equipo desactiva bombas, el otro debería desembarcar en alguna play
 
 Si ves que no saben cómo hacerlo, puedes hacer alguna escena en que la resistencia se enfrenta a los soldados nazis. Estamos hablando de algún tiroteo, alguna detención ilegal, un ataque sorpresa desde un vehículo e incluso pillastres haciendo pintadas en las paredes del cuartel nazi.
 
-Una establezcan contactos deberán explicarles que han hecho y ofrecer alguna prueba, quizás podrían entrar y salir del puerto con los rebeldes para demostrarles que han hecho lo que dicen.
+Una establezcan contactos deberán explicarles qué han hecho y ofrecer alguna prueba, quizás podrían entrar y salir del puerto con los rebeldes para demostrarles que han hecho lo que dicen.
 
 ### Recompensas
 Lo único que pueden conseguir tus comandos tras esta aventura es buena comida y bebida local y la satisfacción de haber hecho una buena acción y de haber estropeado los planes de los nazis. Aparte pueden tener un puerto seguro donde refugiarse y esconderse si se meten en problemas. La resistencia se encargará de buscarles una casa segura donde ocultarse. El tema de si aceptarán a las bestias prehistóricas que les acompañan es otro tema.  
@@ -3278,7 +3278,7 @@ Si Marina Flowers está en la isla, será invitada junto a los comandos. Y si te
 Lady Roxton tiene 24 horas para enseñar un mínimo protocolo a tus comandos y su lema es que la letra con sangre entra. Aquí tienes algunas ideas para sus enseñanzas.
 
 * Puedes hacerles andar con un libro en la cabeza (tirada de Agilidad). Si fallan, reglazo de Lady Roxton.
-* Los cubiertos se usan de dentro afuera, pero podrían identificar el tenedor de caracoles o la pala de pescado (tirada de Conocimientos Generales). Si falla reglazo. Si comen con la boca abierta o sorben la sopa, reglazo.
+* Los cubiertos se usan de dentro afuera, pero podrían identificar el tenedor de caracoles o la pala de pescado (tirada de Conocimientos Generales). Sí fallan, reglazo. Si comen con la boca abierta o sorben la sopa, reglazo.
 
 \saltopagina
 
@@ -3341,7 +3341,7 @@ Si sus perfiles psicológicos son correctos, Hitler se volverá al saber que la 
 Tu comando debe ayudar a los «Monuments Men» a recuperar arte robado por los nazis.
 ```
 
-El oficial James Rorimer se pondrá en contacto con tus comandos en alguna visita a Londres o quizás se presente en el propio castillo Dunvegan. Trabaja para [«Programa de Monumentos, Arte y Archivos»](https://es.wikipedia.org/wiki/Programa_de_Monumentos,_Arte_y_Archivos) de las fuerzas aliadas, más conocidos como los «Monuments men», y necesita toda la ayuda posible para recuperar arte robado por los nazis.
+El oficial James Rorimer se pondrá en contacto con tus comandos en alguna visita a Londres o quizás se presente en el propio castillo Dunvegan. Trabaja para [«Programa de Monumentos, Arte y Archivos»](https://es.wikipedia.org/wiki/Programa_de_Monumentos,_Arte_y_Archivos) de las fuerzas aliadas, más conocidos como los «Monuments Men», y necesita toda la ayuda posible para recuperar arte robado por los nazis.
 
 Tiene contactos en el IM, de hecho juega a polo con el General Eugene Linton, y ha conseguido permiso para hablar con los comandos. No sabe nada de los saurios, pero sí sabe que el equipo va a moverse por todo el mundo combatiendo a los nazis. Con un poco de suerte pueden rescatar obras robadas por los nazis.
 
@@ -3644,7 +3644,7 @@ Le cubren cuatro guardaespaldas desperdigados por toda la estancia. Todos armado
 
 Sheridan se presentará como un empresario local y les preguntará quiénes son y por qué tienen el encargo de Matthew. Él mismo encargó el trabajo a Matthew y no entiende por qué no ha venido él. Tendrán que ser muy creativos para contestar, pero si no le convencen, Sheridan hará una seña y sus guardaespaldas sacarán las armas y empezará el combate. Si le convencen les pedirá el huevo y les lanzará un sobre lleno de billetes.
 
-Si intentan seguir con la conversación y preguntarle más cosas, les dirá que no le gustan tantas preguntas y les insinuara «amablemente» que se vayan. En ese momento puede irse sin sacar ninguna información o quedarse y que empiece una pelea.
+Si intentan seguir con la conversación y preguntarle más cosas, les dirá que no le gustan tantas preguntas y les insinuará «amablemente» que se vayan. En ese momento puede irse sin sacar ninguna información o quedarse y que empiece una pelea.
 
 ### La pelea
 Si se monta la pelea, los guardaespaldas son fáciles, pero Sheridan es un mostrenco con puños de acero, que se ensañara con un enemigo hasta derribarlo para seguir con el siguiente, así hasta derrotar a todos tus comandos.
@@ -3850,7 +3850,7 @@ Linton sabe que el conflicto actual será su última batalla y quiere irse por l
 
 [![Retrato de Teniente Horace Chambers](./assests/images/horace.jpg 'This is a photo of the young Peter Conder as a Lieutenant in the Royal Signal Corps. Author: Irandar')](https://commons.wikimedia.org/wiki/File:Peter_Conder_Lieutenant_Royal_Corps_Signals.jpg 'This is a photo of the young Peter Conder as a Lieutenant in the Royal Signal Corps. Author: Irandar')
 
-Horace Chambers es la persona más alejada de lo que pensarías que es un espía y sin embargo es una pieza importante en IM. Su visión totalmente diferente de la vida hace que piense fuera de la caja, cosa que IM ha aprovechado varias veces con éxito. 
+Horace Chambers es la persona más alejada de lo que pensarías que es un espía y, sin embargo, es una pieza importante en IM. Su visión totalmente diferente de la vida hace que piense fuera de la caja, cosa que IM ha aprovechado varias veces con éxito. 
 
 Tiene vastos conocimientos de cultura pop como chismes y cotilleos, datos curiosos, trucos de cocina, etc. A eso se junta su licenciatura en historia del arte, una gran afición a leer los libros de estrategia militar antigua. Todo eso ha conformado una mente excepcional para buscar soluciones imaginativas a problemas importantes que ha tenido IM. 
 
@@ -3980,7 +3980,7 @@ Aun así Chtala no es tonto, sabe del poder de las armas modernas y sabe que no 
 
 * **Habilidades:** Atletismo d10, Cabalgar d6, Conocimientos Generales d6, Disparar d10, Intimidar d6, Notar d8, Pelear d10, Sigilo d8, Supervivencia d8
 * **Paso:** 6; **Parada:** 8(1); **Dureza:** 8(1)
-* **Ventajas:** Ataque repentino, Bloqueo,  Matagigantes, Temple
+* **Ventajas:** Ataque repentino, Bloqueo, Matagigantes, Temple
 * **Desventajas:** Manazas (menor), Analfabeto (menor), Impulsivo (mayor)
 * **Equipo:** Pieles (+1 armadura pecho y piernas), hacha de piedra (FUE+d4) o arco simple, lanza de punta de piedra (FUE+d4, parada +1, alcance 1, dos manos)
 
@@ -4514,6 +4514,7 @@ Tienen muy mala visión de día y solo ven bien de noche, por eso prefieren los 
 * **Paso:** 6; **Parada:** 6; **Dureza:** 14(4)
 * **Capacidades especiales:**
   * **Armadura +4:** Caparazón óseo.
+  * **Mordisco:** FUE+d4 de daño.
   * **Tamaño +3:** Mide de media unos 3 metros de largo y pesaba cerca de una tonelada.
 
 \saltopagina
