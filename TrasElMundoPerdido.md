@@ -4515,6 +4515,7 @@ Tienen muy mala visión de día y solo ven bien de noche, por eso prefieren los 
 * **Capacidades especiales:**
   * **Armadura +4:** Caparazón óseo.
   * **Mordisco:** FUE+d4 de daño.
+  * **Cola:** FUE+d8 de daño.
   * **Tamaño +3:** Mide de media unos 3 metros de largo y pesaba cerca de una tonelada.
 
 \saltopagina

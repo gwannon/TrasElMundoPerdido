@@ -29,3 +29,5 @@
 {"rule":"SI_AFIRMACION","sentence":"^\\QSi falla, a repetir la escena.\\E$"}
 {"rule":"SI_AFIRMACION","sentence":"^\\QSi fallan, reglazo de Lady Roxton.\\E$"}
 {"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d6\nTamaño +3: Mide de 3 a 5 metros de longitud y pesa entre 500 y 700 kg.\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d4 de daño.\nCola:\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QFUE+d8 de daño.\nTamaño +3: Mide de media unos 3 metros de largo y pesaba cerca de una tonelada.\\E$"}
