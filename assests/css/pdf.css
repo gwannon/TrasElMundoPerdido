@@ -14,6 +14,44 @@ body {
   max-width: 800px;
 }
 
+/* Paginación */
+@counter-style style {
+  system: numeric;
+}
+
+body {
+  counter-reset: primary 0;
+}
+
+.saltopagina {
+  position: relative;
+  counter-increment: primary 1; /* Increment the value of section counter by 1 */
+}
+
+
+
+.saltopagina:after {
+  --size: 20px;
+  font-family: 'SpecialElite';
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  content: counters(primary, "-", style);
+  color: var(--color-bic);
+  position: absolute;
+  bottom: 20px;
+  right: calc(50% - 30px);
+  width: var(--size);
+  height: var(--size);
+  z-index: 10;
+  opacity: 1;
+  font-size: 1.5em;
+}
+
+.saltopagina:first-of-type:after {
+  display: none;
+}
+
 @media print {
 
   @page {

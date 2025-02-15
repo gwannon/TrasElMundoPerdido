@@ -22,6 +22,14 @@ $html = str_replace("</table>", "</table></div>", $html);
 
 $html = str_replace("<p><strong>Cómo lo dirigiría yo:</strong>", "<p class='comodirigir'><strong>Cómo lo dirigiría yo:</strong>", $html); 
 
+$html = preg_replace_callback("/\"saltopagina\"/", function($matches) {
+  global $counter;
+  if ($counter%2 == 0) $matches[0] = '"saltopagina even" id="anchor'.$counter.'"';
+  else $matches[0] = '"saltopagina odd" id="anchor'.$counter.'"';
+  $counter++;
+  return $matches[0];
+}, $html);
+
 
 file_put_contents(__DIR__ . "/../index.html", $html);
 
