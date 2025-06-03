@@ -1,4 +1,4 @@
-# Hace 65 millones de años los dinosaurios dominaron la Tierra ...
+# Hace 65 millones de años los dinosaurios dominaron la Tierra …
 
 
 &nbsp;
@@ -7,7 +7,7 @@
 
 &nbsp;
 
-## ... Y ahora han vuelto para matar nazis.
+## … Y ahora han vuelto para matar nazis.
 
 Estamos en el verano de 1940 y casi toda Europa ha caído bajo el poder de la maquinaria de guerra nazi. 
 
@@ -4248,7 +4248,7 @@ Estamos hablando desde cargos oficiales como alcalde o la alcaldesa a las person
 \saltopagina
 
 ### Artista
-Bailarines y bailarinas, actores y actrices, intérpretes musicales de cualquier tipo, comediantes, ...
+Bailarines y bailarinas, actores y actrices, intérpretes musicales de cualquier tipo, comediantes, …
 
 * **Atributos:** Agilidad d6, Astucia d6, Espíritu d8, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d6, Conocimientos Generales d6, Humanidades d6, Idioma materno d8, Interpretación d8, Notar d6, Persuadir d6, Sigilo d4, Sigilo d4
@@ -4431,7 +4431,7 @@ Su largo cuello les permite sacar la cabeza fuera del agua y poder mirar en toda
 
 * **Atributos:** Agilidad d8, Astucia d6 (A), Espíritu d8, Fuerza d12, Vigor d12
 * **Habilidades:** Atletismo d10, Notar d8, Pelear d8, Sigilo d6
-* **Paso:** --; **Parada:** 6; **Dureza:** 11
+* **Paso:** —; **Parada:** 6; **Dureza:** 11
 * **Capacidades especiales:**
   * **Acuático:** Paso 10 nadando.
   * **Mordisco:** FUE+d6
@@ -4663,7 +4663,7 @@ Me he tomado una serie de licencias con la obra original de Sir Arthur Conan Doy
 ### Imágenes
 No soy propietario de ninguna de las imágenes de este documento. Estoy usando imágenes con licencia CC y atribuyéndola a su propietario. Si hay algún error, hacédmelo saber para corregirlo. Estas son las imágenes que por diseño no he podido atribuir de manera adecuada enlazándolas correctamente.
 
-* [Portada «Hace 65 millones de años los dinosaurios dominaron la Tierra ...»](https://en.wikipedia.org/wiki/Charles_R._Knight)
+* [Portada «Hace 65 millones de años los dinosaurios dominaron la Tierra …»](https://en.wikipedia.org/wiki/Charles_R._Knight)
 * [Portada «La fundación Roxton»](https://www.pexels.com/zh-cn/photo/brown-concrete-building-near-body-of-water-6726778/)
 * [Portada «Acerca de los dinosaurios»](https://en.wikipedia.org/wiki/Charles_R._Knight)
 * [Portada «Reglas especiales para la campaña»](https://www.kcl.ac.uk/behind-the-few-the-womens-auxiliary-air-force-and-their-contribution-to-british-intelligence-during-the-second-world-war)
