@@ -4640,7 +4640,7 @@ La muerte de un dinosaurio no puede ser algo banal, debe tener una justificació
 Para aportar mi granito de arena os diré que el servidor donde se aloja esta ambientación es un servidor verde certificado por la [Green Web Foundation](https://www.thegreenwebfoundation.org/green-web-check/?url=https%3A%2F%2Fmundoperdido.gwannon.com%2F).
 
 ### Suicidio
-El suicidio es un tema tratado, aunque sea un poco de pasada, en esta campaña. Es un tema espinoso que no debemos tomarlo a la ligera. Es por ello que creo que ser cuidadoso a la hora de mostrarlo o eliminarlo si crees que no tu mesa no está preparado. Como decimos más adelante, establece, si lo ves necesarios, los velos y las herramientas de seguridad necesarias para tratarlo.
+El suicidio es un tema tratado, aunque sea un poco de pasada, en esta campaña. Es un tema espinoso que no debemos tomarlo a la ligera. Es por ello que creo que debes ser cuidadoso a la hora de mostrarlo o eliminarlo si crees que tu mesa no está preparado. Como hemos dicho antes, establece, si lo ves necesarios, los velos y las herramientas de seguridad necesarias para tratarlo.
 
 ### Fascismo y nazismo
 Esta campaña va de joder los malvados planes de los nazis, así que cualquier tipo de actividad en partida que suponga simpatizar con nazis y fascistas y su ideología debería ser una «red flag» clarísima. Si tus compañeros y compañeras de mesa ensalzan de alguna manera las ideas de nazis y fascistas, deberías levantarte e irte y si eres tú, él o la que las ensalza que sepas que eres un pedazo de mierda. 
