@@ -1,13 +1,4 @@
-# Hace 65 millones de años los dinosaurios dominaron la Tierra …
-
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-## … Y ahora han vuelto para matar nazis.
+# Hace 65 millones de años los dinosaurios dominaron la Tierra …## … Y ahora han vuelto para matar nazis.
 
 Estamos en el verano de 1940 y casi toda Europa ha caído bajo el poder de la maquinaria de guerra nazi. 
 
@@ -19,12 +10,6 @@ Puede que esté en tus manos cambiar el rumbo de la guerra y salvar al mundo de 
 
 **¿Aceptarás el desafío?**
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 ***
 
 # La Fundación Roxton
@@ -32,10 +17,7 @@ El [mundo perdido](https://es.wikipedia.org/wiki/El_mundo_perdido) (The Lost Wor
 
 Esta campaña toma como reales todos los hechos que pasan en esa novela y avanza hasta el verano del año 1940. Europa está sumida en la II Guerra Mundial y tu mesa encarnará a un grupo de comandos que irán haciendo peligrosas misiones por algunos de los escenarios más característicos de esta guerra. 
 
-Pero no estarán solos en esas aventuras, sino que irán acompañados de dinosaurios sacados de ese mundo perdido y entrenados para ayudar a tus comandos en todo tipo de misiones.  
-
-
-[![Dibujo de un estegosaurio](./assests/images/estegosaurio-encuentro.jpg 'Encuentro con el Stegosaurus - Arthur Conan Doyle')](https://es.wikipedia.org/wiki/El_mundo_perdido#/media/Archivo:Page_59_(The_Lost_World._1912).jpg 'Encuentro con el Stegosaurus - Arthur Conan Doyle')
+Pero no estarán solos en esas aventuras, sino que irán acompañados de dinosaurios sacados de ese mundo perdido y entrenados para ayudar a tus comandos en todo tipo de misiones.  [![Dibujo de un estegosaurio](./assests/images/estegosaurio-encuentro.jpg 'Encuentro con el Stegosaurus - Arthur Conan Doyle')](https://es.wikipedia.org/wiki/El_mundo_perdido#/media/Archivo:Page_59_(The_Lost_World._1912).jpg 'Encuentro con el Stegosaurus - Arthur Conan Doyle')
 
 ## El mundo perdido
 Todo comienzo en 1910 cuando el excéntrico y genial doctor en Zoología George E. Challenger, que se encontraba de expedición en el Amazonas, fue llamado por una tribu de aborígenes para curar a un estadounidense que habían encontrado medio muerto cerca de su poblado. Cuando llegó, Maple White, que así se llamaba el vagabundo y pintor, desafortunadamente ya había expirado. 
@@ -75,11 +57,7 @@ Una vez pacificada la meseta pudieron ponerse a explorar y conocer las maravilla
 
 \saltopagina
 
-[![Dibujo de un enfrentamiento de un tiranosaurio y un triceratops](./assests/images/enfrentamiento.jpg 'Charles R. Knight')](https://commons.wikimedia.org/wiki/Category:Charles_R._Knight#/media/File:Annual_report_of_the_Director_to_the_Board_of_Trustees_for_the_year_.._(1926)_(18434166321).jpg 'Charles R. Knight')
-
-&nbsp;
-
-Los aborígenes no parecían contentos cuando el grupo intentaba salir de la meseta, así sus planes de escape tuvieron que hacerse en secreto. El hijo del jefe de los aborígenes, al que habían salvado de los homínidos, les enseño una ruta de escape en las cuevas en las que vivían. A escondidas hicieron sus macutos y escaparon con lo que pudieron, menos Challenger que se llevó un gran bulto que resultó ser una cría de pteranodonte.  
+[![Dibujo de un enfrentamiento de un tiranosaurio y un triceratops](./assests/images/enfrentamiento.jpg 'Charles R. Knight')](https://commons.wikimedia.org/wiki/Category:Charles_R._Knight#/media/File:Annual_report_of_the_Director_to_the_Board_of_Trustees_for_the_year_.._(1926)_(18434166321).jpg 'Charles R. Knight')Los aborígenes no parecían contentos cuando el grupo intentaba salir de la meseta, así sus planes de escape tuvieron que hacerse en secreto. El hijo del jefe de los aborígenes, al que habían salvado de los homínidos, les enseño una ruta de escape en las cuevas en las que vivían. A escondidas hicieron sus macutos y escaparon con lo que pudieron, menos Challenger que se llevó un gran bulto que resultó ser una cría de pteranodonte.  
 
 Malone trato de enviar sus crónicas (por si morían antes de salir del mundo perdido) con los dos indios que se quedaron abajo de la meseta de a los que pidieron que buscarán ayuda, pero estos escritos nunca llegaron a su destino.
 
@@ -116,11 +94,7 @@ De lo primero que descubrieron es que la evolución no se había parado en el Mu
 
 \saltopagina
 
-[![Esbozo de un Ceratosaurio](./assests/images/ceratosaurus.jpg 'Restoration of Ceratosaurus. - By J. M. Gleeson (1861–1917) under supervision of Charles R. Knight')](https://commons.wikimedia.org/wiki/Category:Charles_R._Knight#/media/File:Outdated_Ceratosaurus.jpg 'Restoration of Ceratosaurus. - By J. M. Gleeson (1861–1917) under supervision of Charles R. Knight')
-
-&nbsp;
-
-De hecho, son capaces de solucionar problemas básicos y de realizar rutinas tras un proceso de aprendizaje.
+[![Esbozo de un Ceratosaurio](./assests/images/ceratosaurus.jpg 'Restoration of Ceratosaurus. - By J. M. Gleeson (1861–1917) under supervision of Charles R. Knight')](https://commons.wikimedia.org/wiki/Category:Charles_R._Knight#/media/File:Outdated_Ceratosaurus.jpg 'Restoration of Ceratosaurus. - By J. M. Gleeson (1861–1917) under supervision of Charles R. Knight')De hecho, son capaces de solucionar problemas básicos y de realizar rutinas tras un proceso de aprendizaje.
  
 Pero el gran descubrimiento que hizo Roxton en esta segunda expedición es que todos los saurios tenían cierto grado de domesticación. No eran mascotas como perros y gatos, ni tampoco animales de granja, pero habían convivido con los accalas de la meseta durante miles de años (cosa que no había ocurrido en el resto del mundo) y esto había transformado sus instintos poco a poco.
 
@@ -243,11 +217,7 @@ Tiene 3 pisos y una altura de 15 metros. En su momento fue un fortín inexpugnab
 
 La única línea de teléfono de la isla está en el castillo y Lady Roxton ha pagado mucho dinero para que el viejo castillo tenga electricidad.
 
-[![Foto del castillo de Dunvegan](./assests/images/dunvegan.jpg 'De Pam Brophy, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=605496')](https://es.wikipedia.org/wiki/Castillo_de_Dunvegan#/media/Archivo:Dunvegan_Castle.jpg 'De Pam Brophy, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=605496')
-
-&nbsp;
-
-IM ha dejado cerca, pero no en el propio castillo, artillería anti-área, aunque claro, una aeronave nazi nunca ha llegado tan lejos.
+[![Foto del castillo de Dunvegan](./assests/images/dunvegan.jpg 'De Pam Brophy, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=605496')](https://es.wikipedia.org/wiki/Castillo_de_Dunvegan#/media/Archivo:Dunvegan_Castle.jpg 'De Pam Brophy, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=605496')IM ha dejado cerca, pero no en el propio castillo, artillería anti-área, aunque claro, una aeronave nazi nunca ha llegado tan lejos.
 
 \saltopagina
 
@@ -279,15 +249,7 @@ Durante años fue usado por la Fundación para el transporte de saurios y provis
 
 Todo el espacio de carga fue acondicionado para llevar cómodamente a los dinosaurios y a sus compañeros humanos en sus largos viajes a sus diferentes misiones.
 
-En el resto del espacio libre se crearon diferentes habitáculos con material y equipo útil en sus misiones, desde un hospital de campaña para humanos y dinosaurios hasta una sala oscura para revelar fotos. Cuenta también con grandes zonas de almacenaje y un congelador de tamaño industrial para almacenar las provisiones de los grandes saurios.
-
-&nbsp;
-
-[![Estampa del «Mary Anning»](./assests/images/regreso-casa.jpg 'Ägare:/1939-44, 1949-58/: Seereederei Frigga A.G. Hemort: Hamburg.')](https://garystockbridge617.getarchive.net/amp/media/agare1939-44-1949-58-seereederei-frigga-ag-hemort-hamburg-7e3056 'Ägare:/1939-44, 1949-58/: Seereederei Frigga A.G. Hemort: Hamburg.')
-
-&nbsp;
-
-La capitán Dolores Branningan y su tripulación tienen años de experiencia tratando con dinosaurios y saliendo airosos de situaciones peligrosas. Es por ello que en caso de necesidad podrían sustituir a un comando en una misión. El barco tiene una tripulación 24 personas, todos de confianza y bien pagados.
+En el resto del espacio libre se crearon diferentes habitáculos con material y equipo útil en sus misiones, desde un hospital de campaña para humanos y dinosaurios hasta una sala oscura para revelar fotos. Cuenta también con grandes zonas de almacenaje y un congelador de tamaño industrial para almacenar las provisiones de los grandes saurios.[![Estampa del «Mary Anning»](./assests/images/regreso-casa.jpg 'Ägare:/1939-44, 1949-58/: Seereederei Frigga A.G. Hemort: Hamburg.')](https://garystockbridge617.getarchive.net/amp/media/agare1939-44-1949-58-seereederei-frigga-ag-hemort-hamburg-7e3056 'Ägare:/1939-44, 1949-58/: Seereederei Frigga A.G. Hemort: Hamburg.')La capitán Dolores Branningan y su tripulación tienen años de experiencia tratando con dinosaurios y saliendo airosos de situaciones peligrosas. Es por ello que en caso de necesidad podrían sustituir a un comando en una misión. El barco tiene una tripulación 24 personas, todos de confianza y bien pagados.
 
 #### Pieza de artillería antiaérea camuflada
 En la cubierta principal, camuflada dentro de un contenedor de madera que se desmonta quitando unos pestillos, hay un cañón de 20 mm antiaéreo.
@@ -333,11 +295,7 @@ Además de cosas normales en este tipo de cargueros, como cocina o sala común, 
 * Celdas para 3 prisioneros/as
 * Armería completísima con una pequeña Santabárbara para los explosivos.
 
-[![Imagen de la construcción del campamento](./assests/images/campamento.jpg 'Men pulling on rope over fallen tree during the Roosevelt-Rondon Scientific Expedition to Brazil')](https://www.loc.gov/item/2006689851/ 'Men pulling on rope over fallen tree during the Roosevelt-Rondon Scientific Expedition to Brazil')
-
-&nbsp;
-
-### El campamento
+[![Imagen de la construcción del campamento](./assests/images/campamento.jpg 'Men pulling on rope over fallen tree during the Roosevelt-Rondon Scientific Expedition to Brazil')](https://www.loc.gov/item/2006689851/ 'Men pulling on rope over fallen tree during the Roosevelt-Rondon Scientific Expedition to Brazil')### El campamento
 
 La Fundación tiene en la meseta de Maple White un campamento fijo de científicos y científicas que estudian la fauna y flora del lugar. También se dedican a la cría y selección dinosaurios para su estudio, mandando los más dotados a la isla de Skye. Por último, dedican esfuerzos a extraer diamantes, siempre cumpliendo las estrictas cuotas que marca la Fundación.
 
@@ -398,11 +356,7 @@ Los pteranodontes tienen a ser bastante competitivos entre ellos, buscando ser e
 \saltopagina
 
 ### Herbívoros
-Son quizás los menos agresivos, pero pueden ser tremendamente agresivos cuando tienen que proteger a su manada y sus crías. Tampoco son los más listos, pero establecen fuertes lazos sociales entre ellos y los humanos, formando entre todos una manada y como ya hemos dicho, harán lo que sea para proteger a su manada. Otra de sus características es trabajan bien en equipo. Varios estegosaurios protegiendo una zona con sus colas llenas de pinchos es un espectáculo digno de ver, por no hablar de varios iguanodontes corriendo a los lados de un JEEP para protegerlo de enemigos. 
-
-&nbsp;
-
-[![Boceto de un nido alosaurios al que están robando los huevos](./assests/images/nido.jpg 'The Horrors of Thieving by FredTheDinosaurman')](https://www.deviantart.com/fredthedinosaurman/art/The-Horrors-of-Thieving-682621092 'The Horrors of Thieving by FredTheDinosaurman')
+Son quizás los menos agresivos, pero pueden ser tremendamente agresivos cuando tienen que proteger a su manada y sus crías. Tampoco son los más listos, pero establecen fuertes lazos sociales entre ellos y los humanos, formando entre todos una manada y como ya hemos dicho, harán lo que sea para proteger a su manada. Otra de sus características es trabajan bien en equipo. Varios estegosaurios protegiendo una zona con sus colas llenas de pinchos es un espectáculo digno de ver, por no hablar de varios iguanodontes corriendo a los lados de un JEEP para protegerlo de enemigos. [![Boceto de un nido alosaurios al que están robando los huevos](./assests/images/nido.jpg 'The Horrors of Thieving by FredTheDinosaurman')](https://www.deviantart.com/fredthedinosaurman/art/The-Horrors-of-Thieving-682621092 'The Horrors of Thieving by FredTheDinosaurman')
 
 ## Vida de los dinosaurios
 Los saurios traídos de la tierra de Maple White son diurnos, con lo que realizan toda su actividad principalmente de día, pero eso no quiere decir que no estén activos de noche. Pueden realizar todo tipo de tareas de noche, ya que son de sangre caliente y pueden regular su temperatura incluso sin sol, pero como los humanos no están adaptados a moverse de noche. 
@@ -805,10 +759,7 @@ Como con los medicamentos, la flora y fauna de la meseta de Maple White, son un 
 Lady Roxton está en contra del uso de venenos y deberán conseguirlo sin que ella lo detecte. Si son reincidentes, Lady Roxton podría expulsarlos de la Fundación o degradarlos de sus puestos actuales.
 
 > En partida, todo esto supone que pueden conseguir venenos de cualquier formato (líquido, gaseoso, en pasta, etc.), con cualquier efecto (letal, incapacitante, etc.) y la potencia deseada entre 0 y -2.
-> Los héroes no usan venenos, así que si hacen uso de veneno en sus misiones de forma continua, deberías racanearles los benis.
-
-
-### Otro equipo especial
+> Los héroes no usan venenos, así que si hacen uso de veneno en sus misiones de forma continua, deberías racanearles los benis.### Otro equipo especial
 Aparte del equipo anterior tendrán acceso a típico equipo de comando o de espía como:
 * Diferentes artículos como zapatos o maletines con dobles fondos y compartimentos secretos
 * Garfio, lanzador de garfio y equipo de escalada
@@ -1466,10 +1417,7 @@ La idea de toda esta parte es hacerla lo más aburrida y tediosa posible, ya que
 ## En todo el fregado
 Nadie lo sabe, pero mientras estaban trabajando un submarino nazi en el fondeadero. Ha entrado por una entrada oriental llamada Kirk Sound, un estrecho y turbulento brazo de mar entre las islas de Pomona y Lamb Holm.
 
-Tus comandos casi chocan con él en su trabajo de inspección. Se lo encontrarán a altura de periscopio y parece que está en modo combate y va directo hacia el «HMS Royal Oak». En cuanto esté a distancia de torpedos, lanzará su ataque. 
-
-
-### Escudo anti-torpedos
+Tus comandos casi chocan con él en su trabajo de inspección. Se lo encontrarán a altura de periscopio y parece que está en modo combate y va directo hacia el «HMS Royal Oak». En cuanto esté a distancia de torpedos, lanzará su ataque. ### Escudo anti-torpedos
 Tus comandos y sus saurios son la única defensa que tiene el «HMS Royal Oak». Para cuando puedan avisarles del ataque y se preparen, el acorazado ya estará haciendo aguas. 
 
 Deben actuar ya, moverse rápido y desviar los torpedos de su trayectoria, siendo certeros con sus ataques. Con suerte el Royal Oak salga indemne del ataque y pueda contraatacar.
@@ -1514,11 +1462,7 @@ No pueden desactivar ni detener los torpedos, solo pueden desviarlos. Es por ell
 
 Si pasan la tirada, el proyectil recibe tal impacto que es desviado de su ruta y no impacta contra el barco. Si fallan, el torpedo sigue su ruta y si empatan el torpedo cambia de carril al azar (par a la izquierda, impar derecha y si sale de la cuadrícula se pierde). Si pifian las dos tiradas, el torpedo explota (6d6 de daño para el plesiosaurio y su jinete).
 
-[![Dibujo cenital del submarino U-47](./assests/images/U-47-cenital.jpg 'Vista cenital del U-47 by Rama')](https://es.wikipedia.org/wiki/U_47_(1938)#/media/Archivo:U-47_6.jpg 'Vista cenital del U-47 by Rama')
-
-&nbsp;
-
-#### Fin del combate
+[![Dibujo cenital del submarino U-47](./assests/images/U-47-cenital.jpg 'Vista cenital del U-47 by Rama')](https://es.wikipedia.org/wiki/U_47_(1938)#/media/Archivo:U-47_6.jpg 'Vista cenital del U-47 by Rama')#### Fin del combate
 Cuando un torpedo lleva a la última casilla de su columna, impacta el buque de guerra. El combate acaba en dos situaciones 
 
 * Cuando el barco recibe 3 impactos o 2 impactos en la misma localización. En este caso, el buque de guerra ha recibido demasiado daño y empezará a hundirse.
@@ -1749,11 +1693,7 @@ La Francia ocupada es un escenario clásico. Pero mientras que las historias nor
 La IM necesita boicotear una serie de instalaciones antes del día D y tus comandos parecen el equipo perfecto para la tarea.
 ```
 
-[![Imagen de búnker para artillería nazi](./assests/images/lehavre.jpg 'Defensas alemanas: el Muro Atlántico Bundesarchiv, Bild 101I-263-1591-07A / Valtingojer (CC BY-SA)')](https://www.worldhistory.org/trans/es/1-23093/dia-d/ 'Defensas alemanas: el Muro Atlántico Bundesarchiv, Bild 101I-263-1591-07A / Valtingojer (CC BY-SA)') 
-
-&nbsp;
-
-Horace, como siempre, trae un montón de fotos y mapas, esta vez de Normandía, y una bandeja con té y galletas de chocolate. Tras una introducción sobre la historia de Normandía y la invasión de Inglaterra que no viene a cuento, Horace empezará con el informe de misión. 
+[![Imagen de búnker para artillería nazi](./assests/images/lehavre.jpg 'Defensas alemanas: el Muro Atlántico Bundesarchiv, Bild 101I-263-1591-07A / Valtingojer (CC BY-SA)')](https://www.worldhistory.org/trans/es/1-23093/dia-d/ 'Defensas alemanas: el Muro Atlántico Bundesarchiv, Bild 101I-263-1591-07A / Valtingojer (CC BY-SA)') Horace, como siempre, trae un montón de fotos y mapas, esta vez de Normandía, y una bandeja con té y galletas de chocolate. Tras una introducción sobre la historia de Normandía y la invasión de Inglaterra que no viene a cuento, Horace empezará con el informe de misión. 
 
 La Wehrmacht de la Alemania nazi ha transformado la ciudad de La Havre (en la costa de Normandía) en una base militar, y han construido la «Festung Le Havre», una línea de fortificaciones y baterías de artillería.
 
@@ -1831,11 +1771,7 @@ Las entradas podrán falsificarlas si ven alguna o robarlas. Pueden hacer un dob
 
 \saltopagina
 
-[![Esbozo de un baile de disfraces](./assests/images/baile-disfraces.jpg 'The Fancy-Dress Ball. Creator	Lucien Davis, English (1860–1941)')](https://www.lookandlearn.com/history-images/preview/U/U325/U325011_The-Fancy-Dress-Ball.jpg 'The Fancy-Dress Ball. Creator	Lucien Davis, English (1860–1941)')
-
-&nbsp;
-
-El disfraz puede ser de lo más divertido. Pueden ir de compras y montarse disfraces con lo que pillen. También pueden pillar cosas que tengan en su equipo. Igual tienen algún turbante de Tobruk, partes de los disfraces de dioses nórdicos de Noruega o ropajes de cavernícolas de la filmación de "Titanes de tiempos pretéritos". Es una fiesta de postín y deberán ir limpios y aseados.
+[![Esbozo de un baile de disfraces](./assests/images/baile-disfraces.jpg 'The Fancy-Dress Ball. Creator	Lucien Davis, English (1860–1941)')](https://www.lookandlearn.com/history-images/preview/U/U325/U325011_The-Fancy-Dress-Ball.jpg 'The Fancy-Dress Ball. Creator	Lucien Davis, English (1860–1941)')El disfraz puede ser de lo más divertido. Pueden ir de compras y montarse disfraces con lo que pillen. También pueden pillar cosas que tengan en su equipo. Igual tienen algún turbante de Tobruk, partes de los disfraces de dioses nórdicos de Noruega o ropajes de cavernícolas de la filmación de "Titanes de tiempos pretéritos". Es una fiesta de postín y deberán ir limpios y aseados.
 
 Tal vez busquen mapas de alcantarillas o del ayuntamiento para buscar rutas de escape por si algo sale mal, pero han de tener en cuenta que esos actos son muy sospechosos y podrían levantar sospechas y decidir si eso les compensa.
 
@@ -1917,11 +1853,7 @@ Con Nezhoda muerto, el ejército necesita un nuevo mandamás y pone a Irma Borma
 
 \saltopagina
 
-[![Ilustración de una pieza de artillería de La Havre](./assests/images/artilleria.jpg 'A German Railway Gun captured at Le Havre, 1944 - Imperial War Museums')](https://picryl.com/media/a-german-railway-gun-captured-at-le-havre-1944-artiwmartld5560-081bd9 'A German Railway Gun captured at Le Havre, 1944 - Imperial War Museums')
-
-&nbsp;
-
-Si han hecho sus deberes, sabrán que el nudo principal de comunicaciones es una torre de radio en el centro de la ciudad. Destruir la torre sería un problema para el ejército nazi, pero aun así, no estarían incomunicados. Debajo de la antena hay un búnker que controla las comunicaciones por radio y por cable. Para dejar mudos y sordos a los nazis deberán destruir el búnker.
+[![Ilustración de una pieza de artillería de La Havre](./assests/images/artilleria.jpg 'A German Railway Gun captured at Le Havre, 1944 - Imperial War Museums')](https://picryl.com/media/a-german-railway-gun-captured-at-le-havre-1944-artiwmartld5560-081bd9 'A German Railway Gun captured at Le Havre, 1944 - Imperial War Museums')Si han hecho sus deberes, sabrán que el nudo principal de comunicaciones es una torre de radio en el centro de la ciudad. Destruir la torre sería un problema para el ejército nazi, pero aun así, no estarían incomunicados. Debajo de la antena hay un búnker que controla las comunicaciones por radio y por cable. Para dejar mudos y sordos a los nazis deberán destruir el búnker.
 
 Si han hecho un buen trabajo de investigación, pueden haber descubierto el generador eléctrico que dota de energía al búnker. El generador puede ser sustituido en un día, pero ese es el tiempo necesario que necesitan las tropas para tomar las playas de Normandía.
 
@@ -2059,11 +1991,7 @@ Mientras tus comandos no usen granadas, los nazis tampoco lo harán, no quieren 
 
 Como regla opcional, puedes tirar que haya un 50% de habitaciones con ventanas y hacer que los alosaurios devoren algún soldado u oficial por sorpresa a través de los grandes ventanales de la mansión. 
 
-Como hemos dicho antes, podrán encontrar fácilmente entre el papeleo órdenes firmadas por von Liebenfels que parece el general encargado del sitio de Stalingrado.
-
-&nbsp;
-
-[![Estampa de carro de combate nazi e infantería](./assests/images/tanque.jpg 'German infantry and a supporting StuG III assault gun during the battle - Bundesarchiv, Bild 183-B28822')](https://en.wikipedia.org/wiki/Battle_of_Stalingrad#/media/File:Bundesarchiv_Bild_183-B28822,_Russland,_Kampf_um_Stalingrad,_Infanterie.jpg 'German infantry and a supporting StuG III assault gun during the battle - Bundesarchiv, Bild 183-B28822')
+Como hemos dicho antes, podrán encontrar fácilmente entre el papeleo órdenes firmadas por von Liebenfels que parece el general encargado del sitio de Stalingrado.[![Estampa de carro de combate nazi e infantería](./assests/images/tanque.jpg 'German infantry and a supporting StuG III assault gun during the battle - Bundesarchiv, Bild 183-B28822')](https://en.wikipedia.org/wiki/Battle_of_Stalingrad#/media/File:Bundesarchiv_Bild_183-B28822,_Russland,_Kampf_um_Stalingrad,_Infanterie.jpg 'German infantry and a supporting StuG III assault gun during the battle - Bundesarchiv, Bild 183-B28822')
 
 ### El último carro de combate
 
@@ -2263,11 +2191,7 @@ Tus comandos vuelven a donde todo empezó, el mundo perdido, y aquí van a libra
 Esta será la primera vez que tus comandos verán el mundo perdido. Veamos cómo es esta sorprendente tierra.
 ```
 
-Así describió Edward Malone en sus notas la Meseta de Maple White:
-
-&nbsp;
-
-_El sol estaba justamente rozando la línea del horizonte por el oeste, y el atardecer era especialmente brillante y claro, de modo que toda la extensión de la meseta se ofrecía ante mi vista. Vista desde esa altura, se presentaba como un **óvalo de unas treinta millas de largo por unas veinte de ancho**. Su conformación general era la de un **embudo poco profundo**, que descendía en declive por todos sus lados hasta un **lago bastante grande que había en su centro**._
+Así describió Edward Malone en sus notas la Meseta de Maple White:_El sol estaba justamente rozando la línea del horizonte por el oeste, y el atardecer era especialmente brillante y claro, de modo que toda la extensión de la meseta se ofrecía ante mi vista. Vista desde esa altura, se presentaba como un **óvalo de unas treinta millas de largo por unas veinte de ancho**. Su conformación general era la de un **embudo poco profundo**, que descendía en declive por todos sus lados hasta un **lago bastante grande que había en su centro**._
 
 _**El lago debía de tener unas diez millas de circunferencia** y se extendía muy verde y hermoso a la luz del atardecer, con una espesa orla de cañaverales en sus orillas y su superficie quebrada por algunos amarillos bancos de arena que brillaban como el oro al suave resplandor del sol. En los bordes de aquellas manchas arenosas se veían cantidades de objetos largos y oscuros, demasiado gruesos para ser caimanes y demasiado largos para ser canoas. Con mis gemelos pude ver claramente que estaban vivos, pero no pude imaginar cuál podría ser su naturaleza._
 
@@ -2504,11 +2428,7 @@ Si tus comandos fallan en la batalla, puedes continuar la aventura de forma que 
 El general von Liebenfels ha perdido la batalla, pero no está todo perdido para los nazis. Su zeppelin huye con algunos tesoros que las fuerzas nazis han sacado del mundo perdido y puede que todavía puedan ganar el siguiente y definitivo asalto.
 ```
 
-[![Foto zepelín nazi en el Amazonas](./assests/images/dirigible.jpg 'LZ-127 at Jiquiá landing field in Recife')](https://www.airships.net/blog/zeppelin-mast-recife-brazil-pernambuco/ 'LZ-127 at Jiquiá landing field in Recife')
-
-&nbsp;
-
-Es importante dejar claro que en esta parte de la aventura tus comandos deberían fracasar, para que puedan ir a la parte 9 y enfrentarse a los nazis en un castillo de la selva Negra. Pero eso no quiere decir que si se lo montan excepcionalmente bien y los dados acompañan puedan terminar la aventura aquí mismo y también está bien.
+[![Foto zepelín nazi en el Amazonas](./assests/images/dirigible.jpg 'LZ-127 at Jiquiá landing field in Recife')](https://www.airships.net/blog/zeppelin-mast-recife-brazil-pernambuco/ 'LZ-127 at Jiquiá landing field in Recife')Es importante dejar claro que en esta parte de la aventura tus comandos deberían fracasar, para que puedan ir a la parte 9 y enfrentarse a los nazis en un castillo de la selva Negra. Pero eso no quiere decir que si se lo montan excepcionalmente bien y los dados acompañan puedan terminar la aventura aquí mismo y también está bien.
 
 Cuando la batalla termine, solo debería quedar funcional el zepelín nazi. Quizás tenga algo de daño, pero al ser volador solo debería tener impactos pequeños de armas de fuego en los cristales y quizás haya sufrido algún pequeño incendio o rasgones en el globo.
 
@@ -2648,11 +2568,7 @@ Si hay saurios aéreos y quieres un poco de emoción, puedes hacer que falle el 
 
 \saltopagina
 
-[![Mapa del castillo de Hohenzollern](./assests/images/hohenzollern-mapa-anotado.jpg 'Hohenzollern Castle - https://www.milbysmaps.com/')](https://www.milbysmaps.com/2023/06/10/hohenzollern-castle/ 'Hohenzollern Castle - https://www.milbysmaps.com/')
-
-&nbsp;
-
-Mapa del castillo de Hohenzollern en la Selva Negra.
+[![Mapa del castillo de Hohenzollern](./assests/images/hohenzollern-mapa-anotado.jpg 'Hohenzollern Castle - https://www.milbysmaps.com/')](https://www.milbysmaps.com/2023/06/10/hohenzollern-castle/ 'Hohenzollern Castle - https://www.milbysmaps.com/')Mapa del castillo de Hohenzollern en la Selva Negra.
 
 \saltopagina
 
@@ -2992,11 +2908,7 @@ En la biblioteca del castillo Dunvegan tienen el guion original que escribió Ma
 ### El secreto de Marion
 Una vez que consigan acercarse a Marion y le expliquen quienes son (sea verdad o mentira lo que le digan) estará encantada de contar la historia de su primer guion. 
 
-> La explicación es bastante sencilla, la cocinera de su familia contaba la historia de un primo suyo llamado Zambo, el leal ayudante negro, que acompañó a la expedición Challenger.
-
-&nbsp;
-
-No era ninguna lumbrera y la Fundación no consideró que fuera una posible fuga de información. De hecho, muchos amigos y familiares creían que estaba loco y que se había inventado toda la historia. Pero la contaban entre ellos porque era muy divertida.  
+> La explicación es bastante sencilla, la cocinera de su familia contaba la historia de un primo suyo llamado Zambo, el leal ayudante negro, que acompañó a la expedición Challenger.No era ninguna lumbrera y la Fundación no consideró que fuera una posible fuga de información. De hecho, muchos amigos y familiares creían que estaba loco y que se había inventado toda la historia. Pero la contaban entre ellos porque era muy divertida.  
 
 Como regalo les dará una copia de su último libro dedicado y firmado y les dirá que si pasan por san Francisco vayan a visitarla y es verdad.
 
@@ -3032,15 +2944,7 @@ Marina hará su entrada unas horas después, montada a caballo y vestida con un 
 
 \saltopagina
 
-La IM quiere a Marina en esta película porque es una actriz con bastante fama que atraerá a mucha gente a las salas, pero sobre todo porque tiene fama de inventarse historias raras, de fantasear bastante y en general de comportarse de forma excéntrica. IM sabe que no contará nada de los saurios (firmado está y ella cumple sus contratos), pero si lo hiciera podrían desacreditarla fácilmente.
-
-&nbsp;
-
-[![Foto de cavernícolas](./assests/images/cavernicolas-cine.jpg 'Rob Corder - Victor Mature, Carole Landis - One Million BC, 1940 (d. Hal Roach)')](https://www.flickr.com/photos/rocor/49648952763 'Rob Corder - Victor Mature, Carole Landis - One Million BC, 1940 (d. Hal Roach)')
-
-&nbsp;
-
-Es importante que los especialistas principales de cada secuencia no se repitan y en caso de tener que repetirse no deberían ser seguidas. Si alguna escena se complica y no pueden hacerla, puedes recurrir a que el director, un joven y pedante director de documentales patrióticos llamado Bill Sullivan (usa la ficha de Artista), grite «¡Corten, se acabó por hoy! Ya arreglaremos este desastre en la sala de edición».
+La IM quiere a Marina en esta película porque es una actriz con bastante fama que atraerá a mucha gente a las salas, pero sobre todo porque tiene fama de inventarse historias raras, de fantasear bastante y en general de comportarse de forma excéntrica. IM sabe que no contará nada de los saurios (firmado está y ella cumple sus contratos), pero si lo hiciera podrían desacreditarla fácilmente.[![Foto de cavernícolas](./assests/images/cavernicolas-cine.jpg 'Rob Corder - Victor Mature, Carole Landis - One Million BC, 1940 (d. Hal Roach)')](https://www.flickr.com/photos/rocor/49648952763 'Rob Corder - Victor Mature, Carole Landis - One Million BC, 1940 (d. Hal Roach)')Es importante que los especialistas principales de cada secuencia no se repitan y en caso de tener que repetirse no deberían ser seguidas. Si alguna escena se complica y no pueden hacerla, puedes recurrir a que el director, un joven y pedante director de documentales patrióticos llamado Bill Sullivan (usa la ficha de Artista), grite «¡Corten, se acabó por hoy! Ya arreglaremos este desastre en la sala de edición».
 
 ### 1ª secuencia
 Para la primera secuencia Marina solo va a hablar con gruñidos y palabras inventadas tanto dentro como fuera del set de rodaje.
@@ -3264,11 +3168,7 @@ La Reina quiere agasajar a las heroínas y héroes de la fundación Roxton con u
 
 \saltopagina
 
-[![Foto de la reina revisando tropas](./assests/images/cena-reina.jpg 'HM Queen Elizabeth inspecting a detachment of Wrens on the quayside at Belfast, 1942. A10043')](https://jenikirbyhistory.getarchive.net/media/hm-queen-elizabeth-inspecting-a-detachment-of-wrens-on-the-quayside-at-belfast-999a0d 'HM Queen Elizabeth inspecting a detachment of Wrens on the quayside at Belfast, 1942. A10043')
-
-&nbsp;
-
-La reina Isabel quiere conocer a los comandos a sus asombrosos compañeros, así que van a preparar una cena en el Castillo de Balmoral en Escocia, residencia de verano de la realeza británica. 
+[![Foto de la reina revisando tropas](./assests/images/cena-reina.jpg 'HM Queen Elizabeth inspecting a detachment of Wrens on the quayside at Belfast, 1942. A10043')](https://jenikirbyhistory.getarchive.net/media/hm-queen-elizabeth-inspecting-a-detachment-of-wrens-on-the-quayside-at-belfast-999a0d 'HM Queen Elizabeth inspecting a detachment of Wrens on the quayside at Belfast, 1942. A10043')La reina Isabel quiere conocer a los comandos a sus asombrosos compañeros, así que van a preparar una cena en el Castillo de Balmoral en Escocia, residencia de verano de la realeza británica. 
 
 IM tiene preparado el transporte terrestre de los saurios. Son unas 6 horas en camión, así que saldrán a medio día para llegar a Balmoral a la hora de cenar. La idea es que vayan Lady Roxton como cabeza de la Fundación junto con los comandos y sus compañeros, pero de no ser posible (por ejemplo por estar heridos o ser acuáticos) pueden buscar sustitutos. 
 
@@ -3583,28 +3483,7 @@ Este relato puede servirte como introducción a tus propias aventuras. Entre los
 
 \saltopagina
 
-Quizás haya un mapa de algún lugar misterioso como Lemuria o la Atlántida, diseños de alguna extraña máquina hipertecnológica nazi, un grabado con la ubicación de otro mundo perdido, etc.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Espécimen perdido
+Quizás haya un mapa de algún lugar misterioso como Lemuria o la Atlántida, diseños de alguna extraña máquina hipertecnológica nazi, un grabado con la ubicación de otro mundo perdido, etc.## Espécimen perdido
 ```
 Al volver a Skye os informan de que un huevo de pteranodonte ha desaparecido de su nido. Han encontrado pisadas cerca y los padres tienen señales de lucha.
 ```
@@ -4070,11 +3949,7 @@ A pesar de sus orígenes humildes, pudo entrar en la escuela de oficiales de la 
 
 Günther Prien es un hábil capitán de submarino. Con su U-47 ha conseguido varias victorias, obteniendo bastante renombre no solo entre militares sino también la opinión pública y los medios. Es por ello que la marina nazi lo ha elegido para entrar en la inexpugnable base de Scapa Flow. La verdad es que si hay alguien capaz de lograrlo es él.
 
-Es muy querido por sus subordinados, por su buen trato y por preocuparse por ellos. Todos sus marineros y oficiales harían lo que fuera por él.
-
-&nbsp;
-
-* **Atributos:** Agilidad d6, Astucia d10, Espíritu d8, Fuerza d6, Vigor d6
+Es muy querido por sus subordinados, por su buen trato y por preocuparse por ellos. Todos sus marineros y oficiales harían lo que fuera por él.* **Atributos:** Agilidad d6, Astucia d10, Espíritu d8, Fuerza d6, Vigor d6
 
 \saltopagina
 
@@ -4309,10 +4184,7 @@ Sus potentes piernas también le convierten en el dinosaurio terrestre más ráp
 
 \saltopagina
 
-[![Dibujo de un estegosaurio](./assests/images/estegosaurio.jpg 'Life restoration of the «Sophie» Stegosaurus specimen - Fred Wierum')](https://es.wikipedia.org/wiki/Stegosaurus#/media/Archivo:Stegosaurus_stenops_Life_Reconstruction.png 'Life restoration of the «Sophie» Stegosaurus specimen - Fred Wierum')
-
-
-### Estegosaurio
+[![Dibujo de un estegosaurio](./assests/images/estegosaurio.jpg 'Life restoration of the «Sophie» Stegosaurus specimen - Fred Wierum')](https://es.wikipedia.org/wiki/Stegosaurus#/media/Archivo:Stegosaurus_stenops_Life_Reconstruction.png 'Life restoration of the «Sophie» Stegosaurus specimen - Fred Wierum')### Estegosaurio
 **Herbívoro | Terrestre | 3x2 casillas | Código: Bren Carrier (Vehículo blindado de transporte de tropas)**
 
 Debido a sus distintivas espinas de la cola y sus placas dorsales, el estegosaurio es uno de los más reconocidos dinosaurios. Es el mayor herbívoro del mundo perdido y gracias a su masa y a su fuerte y elevada cola puede hacerle frente, incluso derrotar a un alosaurio. Sus placas dorsales son una mezcla de sistema de termorregulación y de protección. 
@@ -4364,11 +4236,7 @@ Ictiosaurio fue el primer fósil completo descubierto a principios del siglo XIX
 
 El ictiosaurio mide unos 2 metros de largo y pesa entre unos 150 y 170 kilos. Se caracterizan por tener unos grandes ojos adaptados perfectamente para ver debajo del agua.
 
-Su forma es una mezcla de pez espada y delfín lo que le convierte en un depredador rápido y ágil que puede llegar a los 40 km/h en condiciones óptimas.
-
-&nbsp;
-
-### Iguanodon
+Su forma es una mezcla de pez espada y delfín lo que le convierte en un depredador rápido y ágil que puede llegar a los 40 km/h en condiciones óptimas.### Iguanodon
 **Herbívoro | Terrestre | 3x2 casillas | Código: Willys (por el vehículo todoterreno Jeep Willys MB)**
 
 Estos saurios han sido reconstruidos a lo largo de los años muchas veces y cada una de ellas erróneas. Ahora sabemos que podía andar a dos o cuatro patas, siendo más rápidos a dos patas, aunque con la edad dejan de andar de forma bípeda y se impone andar a 4 patas.
@@ -4539,10 +4407,7 @@ A pesar de su aspecto más cercano a los alces (de hecho se les conocía como al
 
 \saltopagina
 
-[![Imagen de un Pitecántropo](./assests/images/pitecantropo.jpg 'Reconstrucción facial de A. afarensis. Cícero Moraes')](https://es.wikipedia.org/wiki/Australopithecus_afarensis#/media/Archivo:Australopithecus_afarensis.png 'Reconstrucción facial de A. afarensis. Cicero Moraes')
-
-
-### Pitecántropo
+[![Imagen de un Pitecántropo](./assests/images/pitecantropo.jpg 'Reconstrucción facial de A. afarensis. Cícero Moraes')](https://es.wikipedia.org/wiki/Australopithecus_afarensis#/media/Archivo:Australopithecus_afarensis.png 'Reconstrucción facial de A. afarensis. Cicero Moraes')### Pitecántropo
 **Herbívoro | Terrestre/Arbóreo | 1x1 casillas**
 
 Estos homínidos que pueden andar de pie son considerados el eslabón perdido entre el primate y el humano. Son muy buenos trepadores y muy fuertes como sus ancestros primates. Son agresivos y territoriales y los pocos que sobreviven libres habitan los bosques de la meseta de Maple White. 
@@ -4563,11 +4428,7 @@ Vive en los árboles en estructuras a medio camino entre nidos y casetas.
   * **Armadura +1:** Piel dura como el cuero curtido. 
   * **Mordisco:** FUE+d4 de daño.
   * **Vista y oído agudo.** Su buena vista y oído le da +2 a las tiradas de Notar y Supervivencia que impliquen vista u oído.
-  * **Buen trepador:** Paso 8 trepando. Los pitecántropos pasan gran parte de su vida en los árboles y su cuerpo está adaptado a ello. Añaden +2 a sus tiradas de Atletismo cuando trepan.
-
-&nbsp;
-
-[![Dibujo de un Phorusrhacos](./assests/images/phorusrhacos.jpg 'Recreación en vida. - ДиБгд')](https://es.wikipedia.org/wiki/Phorusrhacos#/media/Archivo:Phorusrhacos_longissimusDB24.jpg 'Recreación en vida. - ДиБгд')
+  * **Buen trepador:** Paso 8 trepando. Los pitecántropos pasan gran parte de su vida en los árboles y su cuerpo está adaptado a ello. Añaden +2 a sus tiradas de Atletismo cuando trepan.[![Dibujo de un Phorusrhacos](./assests/images/phorusrhacos.jpg 'Recreación en vida. - ДиБгд')](https://es.wikipedia.org/wiki/Phorusrhacos#/media/Archivo:Phorusrhacos_longissimusDB24.jpg 'Recreación en vida. - ДиБгд')
 
 \saltopagina
 
@@ -4697,23 +4558,11 @@ Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage
 
 [![¡Arrr! Cthulhu](./assests/images/arrrcthulhu.jpg 'Aventuras de piratas en el Caribe de los Mitos de Cthulhu')](https://arrrcthulhu.com/pdf/ 'Aventuras de piratas en el Caribe de los Mitos de Cthulhu')
 
-**[¡Arrr! Cthulhu: Aventuras de piratas en el Caribe de los Mitos de Cthulhu](https://arrrcthulhu.com/pdf/)** 
-
-&nbsp;
-
-[![Mil y Un Ghūles](./assests/images/1001ghules.jpg 'Aventuras de horror cósmico en los cuentos de las Mil y Una Noches')](https://1001ghules.gwannon.com/pdf/ 'Aventuras de horror cósmico en los cuentos de las Mil y Una Noches')
+**[¡Arrr! Cthulhu: Aventuras de piratas en el Caribe de los Mitos de Cthulhu](https://arrrcthulhu.com/pdf/)** [![Mil y Un Ghūles](./assests/images/1001ghules.jpg 'Aventuras de horror cósmico en los cuentos de las Mil y Una Noches')](https://1001ghules.gwannon.com/pdf/ 'Aventuras de horror cósmico en los cuentos de las Mil y Una Noches')
 
 **[Mil y Un Ghūles: Aventuras de horror cósmico en los cuentos de las Mil y Una Noches](https://1001ghules.gwannon.com/pdf/)** 
 
-\saltopagina
-
-&nbsp;
-
-\saltopagina
-
-&nbsp;
-
-***
+\saltopagina\saltopagina***
 
 #### Tras el Mundo Perdido
 Creado por [Gwannon](https://gwannon.com/)

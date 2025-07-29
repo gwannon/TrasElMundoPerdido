@@ -8,6 +8,9 @@ include(__DIR__ ."/config.php");
 use FastVolt\Helper\Markdown;
 $mkd = Markdown::new();
 $mkd->setContent(file_get_contents(__DIR__ . "/../TrasElMundoPerdido.md"));
+
+file_put_contents(__DIR__ . "/../AccTrasElMundoPerdido.md", str_replace(["\sp", "\sc", "\sinc", "\conc", "&nbsp;\n", "\n\n\n"], "", file_get_contents(__DIR__ . "/../TrasElMundoPerdido.md")));
+
 $tags['HTML'] = $mkd->toHtml();
 $html = file_get_contents(__DIR__ . "/template.html");
 foreach ($tags as $tag => $value) {
